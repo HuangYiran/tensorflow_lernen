@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/ihuangyiran/Documents/Workplace_Python/Tensorflow_lernen/tflearn_speech_recognization/tflearn.lstm.model"
+all_model_checkpoint_paths: "/Users/ihuangyiran/Documents/Workplace_Python/Tensorflow_lernen/tflearn_speech_recognization/tflearn.lstm.model"
