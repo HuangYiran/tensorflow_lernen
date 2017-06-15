@@ -1,0 +1,7892 @@
+1
+00:00:06,050 --> 00:00:18,000
+<font color="#ffff00">-==http://www.1000fr.com==- 謦灵风软影视论坛荣誉出品 本字幕仅供学习交流 严禁用于商业用途</font>
+
+2
+00:00:19,000 --> 00:00:26,000
+<font color="#4096d1">-=Keepfrds MNHD Team=- 校对: ptrpan</font>
+
+3
+00:00:27,000 --> 00:00:37,500
+<font color="#ffff00">福尔摩斯探案集</font>
+
+4
+00:01:17,000 --> 00:01:24,000
+<font color="#ffff00">四签名</font>
+
+5
+00:02:44,585 --> 00:02:45,911
+有个年轻漂亮的女人
+There's a very pretty young woman
+
+6
+00:02:45,948 --> 00:02:47,603
+走过街来
+crossing the street
+
+7
+00:02:48,225 --> 00:02:51,555
+我想她可能要到这
+and I think she may be coming here.
+
+8
+00:02:51,902 --> 00:02:54,387
+顺便说一句 我大概看了一下
+Incidentally, I have glanced over
+
+9
+00:02:54,497 --> 00:02:55,622
+你对我工作的最新记录
+your latest account of my work.
+
+10
+00:02:55,660 --> 00:02:56,895
+怎么了
+Oh yes.
+
+11
+00:02:57,930 --> 00:03:01,590
+坦白的讲 我并不赞同
+Honestly I cannot congratulate you upon it.
+
+12
+00:03:03,820 --> 00:03:07,654
+侦探学是一门非常精确的科学
+Detection is, or ought to be, an exact science.
+
+13
+00:03:08,510 --> 00:03:11,251
+应是观察后的推理
+Observation deduction
+
+14
+00:03:11,367 --> 00:03:12,875
+要有冷静非感性的大脑研究它
+a cold and unemotional subject.
+
+15
+00:03:13,231 --> 00:03:15,484
+你试图给它加上浪漫的色彩
+You have attempted to tinge it with romanticism,
+
+16
+00:03:15,521 --> 00:03:17,202
+这就像把爱情故事
+which has much the same effect
+
+17
+00:03:17,315 --> 00:03:18,867
+或是一场私奔
+as if you worked a love-story or an
+
+18
+00:03:18,984 --> 00:03:22,270
+变成欧几里德的第五个几何命题一样
+elopement into the fifth proposition of Euclid.
+
+19
+00:03:22,308 --> 00:03:23,964
+一点都不搭调
+Who can match that?
+
+20
+00:03:25,666 --> 00:03:29,022
+有位年轻的女士要见你 福尔摩斯先生
+There's a young lady to see you Mr. Holmes.
+
+21
+00:03:31,715 --> 00:03:32,756
+是Mary Morstan
+It's Mary Morstan.
+
+22
+00:03:32,794 --> 00:03:35,216
+这名字我一点都没印象
+I have no recollection of the name.
+
+23
+00:03:38,429 --> 00:03:40,900
+别走 医生 我可能需要你
+Don't go Doctor, I may need you.
+
+24
+00:03:41,344 --> 00:03:43,878
+我没猜错
+I was right.
+
+25
+00:03:47,090 --> 00:03:48,923
+谢谢
+Thank you.
+
+26
+00:03:48,961 --> 00:03:49,889
+Morstan女士
+Miss Morstan.
+
+27
+00:03:49,926 --> 00:03:52,008
+下午好
+Good afternoon.
+
+28
+00:03:57,291 --> 00:03:58,749
+我今天来找你 福尔摩斯先生
+I have come to you Mr. Holmes
+
+29
+00:03:58,786 --> 00:04:01,176
+是因为你曾为我的雇主
+because you once enabled my employer,
+
+30
+00:04:01,213 --> 00:04:02,256
+Cecil Forrester夫人
+Mrs. Cecil Forrester,
+
+31
+00:04:02,294 --> 00:04:05,683
+解决了一次小型家庭纠纷
+to unravel a minor domestic complication.
+
+32
+00:04:06,055 --> 00:04:07,607
+她对你的善意和智慧
+She was much impressed
+
+33
+00:04:07,646 --> 00:04:09,770
+印象深刻
+with your kindness and skill.
+
+34
+00:04:10,865 --> 00:04:11,911
+谢谢
+Thank you.
+
+35
+00:04:24,968 --> 00:04:27,770
+我想象不出 有什么比我现在的处境
+I can hardly imagine anything more strange,
+
+36
+00:04:27,807 --> 00:04:30,869
+更加...奇怪
+more utterly inexplicable,
+
+37
+00:04:30,907 --> 00:04:33,338
+或是更令人费解的了
+than the situation in which I find myself.
+
+38
+00:04:33,376 --> 00:04:35,447
+说说案情吧
+State your case.
+
+39
+00:04:35,484 --> 00:04:37,458
+抱歉 失陪了
+You will, I am sure, excuse me.
+
+40
+00:04:37,497 --> 00:04:40,147
+你的朋友再坐会吧
+If your friend would be good enough to remain,
+
+41
+00:04:41,218 --> 00:04:44,782
+也许还需要他的帮助
+he might be of inestimable service to me.
+
+42
+00:04:44,819 --> 00:04:46,309
+好吧
+Of course.
+
+43
+00:04:56,585 --> 00:04:58,994
+简单的说...
+Briefly the facts are these.
+
+44
+00:05:01,076 --> 00:05:04,426
+我父亲是一名派驻到印度的军官
+My father was an officer in an Indian regiment.
+
+45
+00:05:04,715 --> 00:05:08,445
+我母亲在我还很小的时候就去世了
+My mother died when I was still quite a child
+
+46
+00:05:09,113 --> 00:05:12,216
+他不得不把我送回国内
+and he was forced to send me home,
+
+47
+00:05:12,253 --> 00:05:15,231
+虽然国内已没有亲戚在了
+despite the fact that I had no relatives here.
+
+48
+00:05:15,712 --> 00:05:17,544
+我被安排在爱丁堡
+I was placed in a
+
+49
+00:05:17,582 --> 00:05:18,953
+一个舒适的寄宿学校读书
+comfortable boarding establishment
+
+50
+00:05:18,990 --> 00:05:20,085
+我一直在那儿
+at Edinburgh, and I remained there
+
+51
+00:05:20,122 --> 00:05:22,419
+呆到17岁才离开
+until I was 1 7 years of age.
+
+52
+00:05:22,916 --> 00:05:26,599
+就在那年 我父亲...
+In that same year my father,
+
+53
+00:05:26,637 --> 00:05:29,052
+那个团里资格最老的上尉
+who was a senior captain of his regiment,
+
+54
+00:05:30,888 --> 00:05:35,680
+请了一年的假回家
+obtained 12 months' leave and returned home.
+
+55
+00:05:37,490 --> 00:05:39,073
+他到达伦敦后 发电报给我说
+He telegraphed to me from London to say
+
+56
+00:05:39,110 --> 00:05:41,359
+他已平安到达
+that he had arrived all safe
+
+57
+00:05:41,396 --> 00:05:43,384
+让我马上到这来
+and directed me to come down at once,
+
+58
+00:05:43,422 --> 00:05:46,467
+给了我他居住的 Langham旅馆的地址
+giving the Langham Hotel as his address.
+
+59
+00:05:47,021 --> 00:05:50,428
+我记得他的电报里
+His message, as I remember,
+
+60
+00:05:50,465 --> 00:05:53,128
+充满慈爱
+was full of love and kindness.
+
+61
+00:05:54,602 --> 00:05:55,553
+一到伦敦
+On reaching London
+
+62
+00:05:55,591 --> 00:05:58,031
+我就直接去了Langham旅店
+I drove straight to the Langham Hotel
+
+63
+00:05:58,068 --> 00:06:01,015
+那儿的人告诉我说 确实有一位Morstan上尉住在这里
+and was informed that Captain Morstan
+
+64
+00:06:01,053 --> 00:06:03,515
+但是他已经出去两天了
+was staying there,
+
+65
+00:06:03,553 --> 00:06:06,108
+还没有回来
+but that he had gone out the night before
+
+66
+00:06:04,237 --> 00:06:06,453
+and had not returned.
+
+67
+00:06:06,146 --> 00:06:08,294
+于是我等在那里
+So I waited
+
+68
+00:06:10,340 --> 00:06:12,239
+一整天
+all day
+
+69
+00:06:12,929 --> 00:06:15,462
+没有他的任何消息
+without news of him.
+
+70
+00:06:17,847 --> 00:06:21,986
+那天夜里
+And that night,
+
+71
+00:06:22,278 --> 00:06:25,101
+在旅馆经理的建议下
+on the advice of the manager of the hotel,
+
+72
+00:06:26,991 --> 00:06:30,001
+我找了警察
+I communicated with the police,
+
+73
+00:06:32,841 --> 00:06:34,289
+第二天又在各种报纸上
+the next day we advertised
+
+74
+00:06:34,326 --> 00:06:36,792
+登了寻人启事
+in all the newspapers.
+
+75
+00:06:38,494 --> 00:06:41,332
+可是一点结果都没有
+Our inquiries led to no result
+
+76
+00:06:42,046 --> 00:06:44,913
+从那天到现在
+from that day to this
+
+77
+00:06:44,951 --> 00:06:46,245
+没有任何关于
+no word has ever been heard
+
+78
+00:06:46,282 --> 00:06:49,059
+我不幸父亲的消息
+of my unfortunate father.
+
+79
+00:06:57,630 --> 00:07:00,998
+他这次回来本希望
+He came home with his heart so full of hope
+
+80
+00:07:01,280 --> 00:07:03,140
+找个安静的地方
+to find some peace,
+
+81
+00:07:03,177 --> 00:07:05,508
+享享清福
+some comfort,
+
+82
+00:07:05,545 --> 00:07:07,767
+没想到...
+and instead
+
+83
+00:07:14,750 --> 00:07:17,238
+什么时候失踪的?
+The date?
+
+84
+00:07:18,095 --> 00:07:19,187
+12月3日
+The 3rd of December
+
+85
+00:07:19,224 --> 00:07:21,997
+十年前的今天
+exactly 1 0 years ago.
+
+86
+00:07:24,307 --> 00:07:26,903
+他的行李呢?
+His luggage?
+
+87
+00:07:26,941 --> 00:07:29,013
+在旅馆里
+Remained at the hotel.
+
+88
+00:07:30,707 --> 00:07:33,307
+从那些东西里找不到什么线索--
+Oh there was nothing in it to suggest a clue --
+
+89
+00:07:33,344 --> 00:07:35,991
+只有一些衣服 一些书
+some clothes, some books,
+
+90
+00:07:36,029 --> 00:07:37,951
+还有很多Andaman岛上
+and a considerable number of curiosities
+
+91
+00:07:37,989 --> 00:07:39,918
+带回来的古玩
+from the Andaman Islands.
+
+92
+00:07:43,369 --> 00:07:44,990
+我父亲是那儿的一个军官
+My father had been one of the officers
+
+93
+00:07:45,027 --> 00:07:46,750
+负责看守犯人
+in charge of the convict-guard there.
+
+94
+00:07:46,787 --> 00:07:48,590
+华生 这地方有点乱
+Watson this place is a mess.
+
+95
+00:07:48,627 --> 00:07:50,100
+他在伦敦有朋友吗?
+Had he any friends in town?
+
+96
+00:07:50,137 --> 00:07:52,890
+我只知道一个人
+Only one that we know of
+
+97
+00:07:52,928 --> 00:07:55,657
+叫Sholto少校 和他在一个团里
+Major Sholto, of his old regiment,
+
+98
+00:07:55,980 --> 00:07:58,506
+驻孟买陆军第三十四团
+the 34th Bombay Infantry.
+
+99
+00:07:59,462 --> 00:08:01,539
+当然我联系过他
+We communicated with the Major, of course,
+
+100
+00:08:01,575 --> 00:08:05,330
+但是他似乎不知道
+but he did not seem to know
+
+101
+00:08:05,368 --> 00:08:07,041
+他的好兄弟来到英国
+that his brother officer was in England.
+
+102
+00:08:07,078 --> 00:08:09,500
+真是个奇怪的案子
+It's a singular case.
+
+103
+00:08:15,585 --> 00:08:18,885
+我还没和你说到
+I have not yet communicated to you
+
+104
+00:08:19,196 --> 00:08:21,574
+最奇怪的部分呢
+the most singular part.
+
+105
+00:08:23,906 --> 00:08:25,018
+4年后
+4 years later
+
+106
+00:08:25,056 --> 00:08:27,195
+泰晤士报上有一则广告
+an advertisement had appeared in the Times
+
+107
+00:08:27,232 --> 00:08:29,600
+征询我的地址
+asking for the address of Miss Mary Morstan,
+
+108
+00:08:29,637 --> 00:08:31,934
+声称要是回复他
+and stating that it would be to her advantage
+
+109
+00:08:31,971 --> 00:08:33,628
+就会会有好处
+to come forward.
+
+110
+00:08:33,891 --> 00:08:35,960
+广告没有署名
+There was no name appended.
+
+111
+00:08:37,175 --> 00:08:38,432
+那时侯
+I had at the time
+
+112
+00:08:38,469 --> 00:08:41,282
+我刚刚进入Cecil Forrester夫人家
+just entered the family of Mrs. Cecil Forrester
+
+113
+00:08:41,320 --> 00:08:42,961
+做家庭教师
+in the capacity of governess
+
+114
+00:08:42,998 --> 00:08:44,986
+按照她的建议 我把地址登在了
+and on her advice I published my address
+
+115
+00:08:45,023 --> 00:08:47,020
+报纸的广告专栏上
+in the advertisement column.
+
+116
+00:08:48,067 --> 00:08:50,880
+就在同一天有个邮递员送给我
+That same day there appeared through the post
+
+117
+00:08:50,918 --> 00:08:54,750
+一个小纸盒
+a small cardboard box addressed to me,
+
+118
+00:08:55,917 --> 00:08:57,909
+盒里装的是
+which I found to contain
+
+119
+00:08:57,947 --> 00:09:01,569
+一个很大的上等珍珠
+a very large and lustrous pearl.
+
+120
+00:09:01,703 --> 00:09:04,349
+盒里没有一个字
+No word of writing was enclosed.
+
+121
+00:09:04,386 --> 00:09:08,267
+从那以后 每年的这天
+And since then every year upon the same date
+
+122
+00:09:08,305 --> 00:09:10,678
+都会有同样的盒子给我
+there has always appeared a similar box,
+
+123
+00:09:10,715 --> 00:09:11,583
+里面是同样的珍珠
+containing a similar pearl,
+
+124
+00:09:11,620 --> 00:09:14,042
+没有任何寄珠人的线索
+with no clue as to the sender.
+
+125
+00:09:14,565 --> 00:09:16,149
+行家鉴定了之后
+They have been pronounced by an expert
+
+126
+00:09:16,187 --> 00:09:17,692
+说是很稀有的种类
+to be of a rare variety
+
+127
+00:09:17,729 --> 00:09:20,641
+很值钱
+and of considerable value.
+
+128
+00:09:22,331 --> 00:09:23,283
+你们请看
+You can see for yourself
+
+129
+00:09:23,321 --> 00:09:25,603
+的确很上等
+that they are very handsome.
+
+130
+00:09:34,281 --> 00:09:36,644
+你的案子很有趣
+Your case is most interesting.
+
+131
+00:09:39,112 --> 00:09:41,521
+还有别的情况吗?
+Something else has occurred to you?
+
+132
+00:09:41,859 --> 00:09:44,238
+是的 就在今天
+Yes, and no later than today.
+
+133
+00:09:45,053 --> 00:09:47,811
+这就是我来找你的原因
+That is why I have come to you.
+
+134
+00:09:48,428 --> 00:09:52,562
+今早我收到一封信
+This letter arrived through the post this morning,
+
+135
+00:09:52,904 --> 00:09:55,642
+您还是自己读读吧
+which you will perhaps read for yourself.
+
+136
+00:09:56,117 --> 00:09:58,175
+请把信封也给我
+Envelope please.
+
+137
+00:10:00,476 --> 00:10:02,913
+伦敦的邮戳 9月7日
+London postmark, October 7th.
+
+138
+00:10:03,452 --> 00:10:05,943
+角上有个男人的大拇指印
+Man's thumb mark on corner
+
+139
+00:10:06,496 --> 00:10:08,488
+可能是邮递员留下的
+probably the postman.
+
+140
+00:10:10,457 --> 00:10:12,257
+最好的纸
+Best quality paper.
+
+141
+00:10:12,294 --> 00:10:13,700
+六便士一包
+Sixpence a packet.
+
+142
+00:10:13,737 --> 00:10:16,570
+这人对信纸和信封都很讲究
+Particular man in his stationery.
+
+143
+00:10:16,841 --> 00:10:18,000
+华生
+Watson.
+
+144
+00:10:18,972 --> 00:10:22,448
+"今晚7时请到
+Be at the third pillar from the left
+
+145
+00:10:22,486 --> 00:10:24,316
+"Lyceum剧场外
+outside the Lyceum Theatre
+
+146
+00:10:24,354 --> 00:10:25,787
+"左数第三根柱子
+tonight at seven o'clock.
+
+147
+00:10:26,109 --> 00:10:28,548
+"如您怀疑 可偕友二人同来
+If you are distrustful bring 2 friends.
+
+148
+00:10:28,586 --> 00:10:31,976
+"您是受了委屈的女子 定将得到公道
+You are a wronged woman and shall have justice.
+
+149
+00:10:32,488 --> 00:10:33,376
+"别带警察来
+Do not bring the police.
+
+150
+00:10:33,415 --> 00:10:35,155
+"要不然 一切都是徒劳
+If you do, all will be in vain.
+
+151
+00:10:35,192 --> 00:10:36,890
+"您不知名的朋友"
+Your unknown friend.
+
+152
+00:10:36,927 --> 00:10:39,424
+嗯 有点小问题
+Well, really,
+
+153
+00:10:39,462 --> 00:10:40,734
+你打算怎么办 Morstan小姐?
+this is a very pretty little problem.
+
+154
+00:10:40,772 --> 00:10:42,979
+这正是我要问你的
+What do you intend to do, Miss Morstan?
+
+155
+00:10:43,017 --> 00:10:44,809
+我和你一起去
+Well that is exactly what I want to ask you.
+
+156
+00:10:44,586 --> 00:10:46,945
+Well then you and I shall go together.
+
+157
+00:10:46,443 --> 00:10:48,791
+华生医生也很重要
+Dr. Watson is the very man.
+
+158
+00:10:48,828 --> 00:10:51,532
+上面说两位朋友
+Your correspondent says 2 friends.
+
+159
+00:10:52,063 --> 00:10:53,517
+但是他会去吗?
+But would he come?
+
+160
+00:10:53,554 --> 00:10:54,652
+我很荣幸
+I shall be proud and happy
+
+161
+00:10:54,689 --> 00:10:56,912
+为你效力
+if I can be of any service.
+
+162
+00:10:58,450 --> 00:11:00,866
+你们俩太好了
+You are both very kind.
+
+163
+00:11:00,904 --> 00:11:02,050
+我生活很孤独
+I have led a retired life
+
+164
+00:11:02,088 --> 00:11:04,628
+没有朋友可以相托
+and have no friends whom I could appeal to.
+
+165
+00:11:05,023 --> 00:11:07,536
+我6点来 行吗
+If I am here at 6 it will do, I suppose?
+
+166
+00:11:07,574 --> 00:11:10,530
+最晚6点 再见 Morstan小姐
+Yes but you must not be later.
+
+167
+00:11:10,588 --> 00:11:12,281
+再见 福尔摩斯先生
+Goodbye Miss Morstan.
+
+168
+00:11:12,743 --> 00:11:13,914
+再会
+Goodbye Mr. Holmes.
+
+169
+00:11:13,951 --> 00:11:15,981
+再会
+Au revoir.
+
+170
+00:11:14,952 --> 00:11:16,409
+Au revoir.
+
+171
+00:11:30,325 --> 00:11:31,715
+买束花吧
+Buy a flower dearie.
+
+172
+00:11:32,625 --> 00:11:34,100
+买束花吧
+Buy a flower.
+
+173
+00:11:34,827 --> 00:11:36,618
+买束花吧
+Aw come on dearie.
+
+174
+00:11:37,236 --> 00:11:38,821
+抱歉
+Excuse me.
+
+175
+00:11:40,269 --> 00:11:42,269
+多有魅力的女人啊!
+What a very attractive woman
+
+176
+00:11:44,475 --> 00:11:45,806
+最重要的事就是
+It is of the first importance
+
+177
+00:11:45,843 --> 00:11:47,549
+不要让一个人的特质
+not to allow your judgment to be biased
+
+178
+00:11:47,586 --> 00:11:49,475
+影响了你的判断力
+by personal qualities.
+
+179
+00:11:49,702 --> 00:11:51,434
+一个委托人在我看来 仅仅是一个单元
+A client to me is a mere unit,
+
+180
+00:11:51,471 --> 00:11:53,001
+问题中的一个元素
+a factor in of the problem.
+
+181
+00:11:53,002 --> 00:11:55,051
+福尔摩斯 你真是个机器人
+Holmes, you are a automaton
+
+182
+00:11:55,089 --> 00:11:55,694
+一台计算器
+and a calculating machine.
+
+183
+00:11:55,732 --> 00:12:00,139
+有时你一点人情味儿都没有
+
+184
+00:11:57,630 --> 00:12:00,298
+There's something positively inhuman in you at times.
+
+185
+00:12:00,178 --> 00:12:01,223
+我告诉你
+I assure you
+
+186
+00:12:01,260 --> 00:12:03,669
+我生平所见最迷人的女人
+the most winning woman I ever knew
+
+187
+00:12:03,705 --> 00:12:05,088
+毒死了三个孩子
+was hanged for poisoning 3 little children
+
+188
+00:12:05,125 --> 00:12:06,968
+只为了骗取保险金
+for their insurance money,
+
+189
+00:12:07,265 --> 00:12:09,538
+我还认识一个模样无比讨厌的男人
+and the most repellent man of my acquaintance
+
+190
+00:12:09,575 --> 00:12:12,439
+却是个慈善家 捐赠大约25英镑
+is a philanthropist who has spent nearly
+
+191
+00:12:12,551 --> 00:12:14,014
+给伦敦的贫民
+a quarter of a million upon the London poor.
+
+192
+00:12:14,018 --> 00:12:15,843
+但是 在这件案子里...
+However, in this case,
+
+193
+00:12:16,877 --> 00:12:18,414
+我从不例外
+I never make exceptions.
+
+194
+00:12:18,451 --> 00:12:20,115
+定律没有例外
+An exception disproves the rule.
+
+195
+00:12:20,152 --> 00:12:22,669
+我要出去了 一小时后见
+I'm going out. I'll see you in an hour.
+
+196
+00:12:37,768 --> 00:12:39,965
+他在城里有朋友吗
+<i>Had he any</i> <i>friends in town?</i>
+
+197
+00:12:40,002 --> 00:12:42,949
+只有一个
+<i>Only one that</i> <i>we know of,</i>
+
+198
+00:12:42,987 --> 00:12:45,952
+叫Sholto少校 以前和他在一个团里
+<i>Major Sholto of</i> <i>his own regiment.</i>
+
+199
+00:12:54,582 --> 00:12:56,334
+案子没什么神秘的
+There is no great mystery in this matter
+
+200
+00:12:56,371 --> 00:12:58,823
+这些事实看来只有一种解释
+the facts appear to admit of only one explanation.
+
+201
+00:12:58,861 --> 00:13:00,875
+你已经弄清楚了吗?
+Oh so you've solved it already?
+
+202
+00:13:00,913 --> 00:13:02,985
+我发现在过期的泰晤士报上说
+I have found,
+
+203
+00:13:03,022 --> 00:13:05,219
+住在上诺伍德的Sholto少校
+on consulting the back files of the Times,
+
+204
+00:13:05,257 --> 00:13:07,855
+以前驻孟买陆军第三十四兵团
+that Major Sholto, of Upper Norwood,
+
+205
+00:13:05,942 --> 00:13:07,673
+late of the 34th Bombay Infantry,
+
+206
+00:13:07,892 --> 00:13:10,446
+于6年前死亡
+died just 6 years ago.
+
+207
+00:13:10,951 --> 00:13:13,791
+Hudson太太 您在这儿 还真是碍手碍脚
+Mrs. Hudson you're dreadfully under foot.
+
+208
+00:13:14,607 --> 00:13:15,754
+也许我脑筋迟钝 福尔摩斯
+I may be very obtuse, Holmes,
+
+209
+00:13:15,792 --> 00:13:17,500
+可我看不出这有什么启示
+but I fail to see what this suggests.
+
+210
+00:13:17,536 --> 00:13:18,540
+真看不出?
+Really?
+
+211
+00:13:18,578 --> 00:13:20,033
+没想到
+You surprise me.
+
+212
+00:13:20,071 --> 00:13:20,738
+我们这么来看吧
+Now look at it this way, then.
+
+213
+00:13:20,776 --> 00:13:23,221
+Morstan上尉失踪了
+
+214
+00:13:22,464 --> 00:13:24,266
+Captain Morstan disappears.
+
+215
+00:13:24,112 --> 00:13:26,258
+在伦敦 只有一个人他可能去拜访
+The only person in London
+
+216
+00:13:26,297 --> 00:13:27,651
+那就是Sholto少校
+whom he could have visited is Major Sholto.
+
+217
+00:13:27,688 --> 00:13:30,770
+Sholto少校否认知道 他曾来过伦敦
+Major Sholto denies having heard
+
+218
+00:13:30,856 --> 00:13:33,005
+4年后Sholto死了
+that he was even in London.
+
+219
+00:13:33,041 --> 00:13:35,527
+他死后不到一个星期
+4 years later Sholto dies.
+
+220
+00:13:33,664 --> 00:13:36,260
+Within a week of his death
+
+221
+00:13:35,565 --> 00:13:37,362
+Morstan上尉的女儿
+Captain Morstan's daughter
+
+222
+00:13:37,399 --> 00:13:39,187
+收到了一份价值连城的礼物
+receives a valuable present,
+
+223
+00:13:39,224 --> 00:13:41,047
+以后每年收到一次
+which is repeated from year to year
+
+224
+00:13:41,085 --> 00:13:43,053
+现在她又收到一封信
+and now culminates in a letter,
+
+225
+00:13:43,091 --> 00:13:45,715
+说她是位受了委屈的女子
+which describes her as a wronged woman.
+
+226
+00:13:45,752 --> 00:13:48,039
+她受过什么委屈呢?
+Now what wrong can it possibly refer to
+
+227
+00:13:48,076 --> 00:13:50,774
+除了她丧父以外?
+except this deprivation of her father?
+
+228
+00:13:50,812 --> 00:13:52,319
+卷尺
+Tape measure,
+
+229
+00:13:52,830 --> 00:13:53,925
+枪
+gun.
+
+230
+00:13:57,068 --> 00:13:58,310
+为什么这些礼物
+And why should these presents
+
+231
+00:13:58,348 --> 00:14:00,194
+是在Sholto死后才送给她?
+begin immediately after Sholto's death
+
+232
+00:14:00,231 --> 00:14:02,473
+除非是Sholto的后人
+unless it is that Sholto's heir
+
+233
+00:14:02,511 --> 00:14:03,723
+知道其中的秘密
+knows something of the mystery
+
+234
+00:14:03,760 --> 00:14:06,879
+想要做些补偿
+and desires to make compensation?
+
+235
+00:14:08,831 --> 00:14:10,483
+准备好了吗 华生?
+Are you ready Watson?
+
+236
+00:14:11,111 --> 00:14:12,846
+就等你了
+And waiting.
+
+237
+00:14:13,630 --> 00:14:15,290
+你还有别的想法
+Have you any alternative theory
+
+238
+00:14:15,327 --> 00:14:16,595
+可以解释这些事实?
+that will meet the facts?
+
+239
+00:14:16,633 --> 00:14:18,027
+但 这真是个奇怪的补偿!
+But what a strange compensation!
+
+240
+00:14:18,065 --> 00:14:19,760
+太奇怪了!
+And how strangely made!
+
+241
+00:14:19,994 --> 00:14:21,123
+几点了?
+What time is it?
+
+242
+00:14:21,760 --> 00:14:23,864
+6点15
+It's a quarter past the hour.
+
+243
+00:14:35,727 --> 00:14:37,291
+晚上好 Ellis
+Evening Ellis.
+
+244
+00:14:37,329 --> 00:14:38,789
+晚上好 先生
+Evening sir.
+
+245
+00:14:40,432 --> 00:14:41,644
+为什么那个人
+Why should somebody
+
+246
+00:14:41,682 --> 00:14:42,778
+现在才给她写信
+write her a letter now,
+
+247
+00:14:42,815 --> 00:14:44,714
+而不是6年前呢?
+rather than 6 years ago?
+
+248
+00:14:44,961 --> 00:14:47,575
+信上又说要还她公道
+Again, the letter speaks of giving her justice.
+
+249
+00:14:47,613 --> 00:14:48,777
+她可以得到什么公道呢?
+What justice can she have?
+
+250
+00:14:48,814 --> 00:14:49,910
+要说是她父亲还活着
+It is too much to suppose
+
+251
+00:14:49,947 --> 00:14:51,385
+那未免太乐观
+that her father is still alive
+
+252
+00:14:51,422 --> 00:14:53,413
+可是你又不知道
+and there's no other injustice
+
+253
+00:14:53,451 --> 00:14:54,948
+她还受过什么别的委屈
+in her case that you know of.
+
+254
+00:14:54,985 --> 00:14:56,676
+确实有些费解之处
+There are difficulties
+
+255
+00:14:57,195 --> 00:14:59,636
+但事情总是如此
+but there are always difficulties.
+
+256
+00:15:04,592 --> 00:15:05,549
+晚上好 福尔摩斯先生
+Good evening Mr Holmes.
+
+257
+00:15:05,586 --> 00:15:07,246
+-我想我没... -晚上好
+I do hope I'm not...
+
+258
+00:15:07,403 --> 00:15:08,089
+Good evening.
+
+259
+00:15:16,547 --> 00:15:17,463
+顺便说一声
+By the way,
+
+260
+00:15:17,500 --> 00:15:20,613
+在爸爸的书桌里找到张奇怪的纸
+a curious paper was found in Papa's desk,
+
+261
+00:15:20,652 --> 00:15:22,308
+没人能看懂
+which nobody could understand.
+
+262
+00:15:22,345 --> 00:15:25,379
+我想这未必和案子有关
+I don't suppose it is of the slightest importance,
+
+263
+00:15:25,417 --> 00:15:27,148
+但我想你可能愿意看一看
+but I thought you might like to see it,
+
+264
+00:15:27,185 --> 00:15:28,831
+所以我带来了
+so I brought it with me.
+
+265
+00:15:30,024 --> 00:15:32,541
+这纸像是印度产的
+The paper appears to be of Indian manufacture.
+
+266
+00:15:32,579 --> 00:15:35,850
+以前被钉在了板子上
+At some point it's been pinned to a board.
+
+267
+00:15:37,809 --> 00:15:39,180
+上面的图表像是
+The diagram upon it appears to be the plan
+
+268
+00:15:39,217 --> 00:15:42,931
+大建筑物草图的一部分
+
+269
+00:15:41,177 --> 00:15:43,358
+of part of a large building
+
+270
+00:15:42,969 --> 00:15:46,304
+里面有许多房间 走廊和过道
+with numerous halls, corridors, and passages.
+
+271
+00:15:47,414 --> 00:15:50,468
+上面用红笔画了个十字
+There's a cross in red ink,
+
+272
+00:15:50,506 --> 00:15:55,559
+在一边写着"从左边3.37"
+and on the side is written '3.37 from left.'
+
+273
+00:15:55,596 --> 00:15:58,641
+这有一个奇怪的象形文字
+There is a curious hieroglyphic,
+
+274
+00:15:59,286 --> 00:16:01,780
+四个签名
+The sign of four
+
+275
+00:16:02,337 --> 00:16:04,240
+Kartar Singh Indigo Singh
+Kartar Singh, Indigo Singh,
+
+276
+00:16:04,277 --> 00:16:07,183
+Jagodish Singh Jonathan Small
+Jagodish Singh, Jonathan Small.
+
+277
+00:16:07,221 --> 00:16:10,752
+这纸像是在钱夹里小心收藏过
+It appears it has been kept carefully in a pocketbook,
+
+278
+00:16:10,789 --> 00:16:12,715
+因为纸两边都很干净
+for the one side is as clean as the other.
+
+279
+00:16:13,440 --> 00:16:16,648
+就是在他的钱夹里发现的
+It was in his pocketbook that we found it.
+
+280
+00:16:16,851 --> 00:16:19,162
+好好保管 Morstan小姐
+Preserve it carefully, Miss Morstan.
+
+281
+00:16:20,207 --> 00:16:22,110
+现在我觉得这个案子
+I begin to suspect that this case may be
+
+282
+00:16:22,148 --> 00:16:24,488
+似乎比最初想像的
+much deeper and more subtle
+
+283
+00:16:24,525 --> 00:16:27,059
+更深奥更复杂
+than I ever first supposed.
+
+284
+00:17:13,108 --> 00:17:16,259
+你们就是Morstan小姐 和她的同伴吗
+Hey, are you the parties
+
+285
+00:17:16,297 --> 00:17:17,962
+我就是Morstan小姐
+who come with Miss Morstan?
+
+286
+00:17:17,999 --> 00:17:20,261
+这两位是我的朋友
+I'm Miss Morstan,
+
+287
+00:17:18,639 --> 00:17:20,546
+and these 2 gentlemen are my companions.
+
+288
+00:17:20,298 --> 00:17:22,576
+您得向我保证
+I must ask you to give me your word
+
+289
+00:17:22,613 --> 00:17:24,059
+您的两位同伴中
+that neither of your companions
+
+290
+00:17:24,097 --> 00:17:25,494
+没有警官
+is a police officer.
+
+291
+00:17:25,532 --> 00:17:27,312
+我保证
+I give you my word.
+
+292
+00:18:06,632 --> 00:18:08,786
+我的主人正在等候
+Sahib awaits you.
+
+293
+00:18:10,181 --> 00:18:12,061
+让他们进来 我的男仆
+Show them in, Khitmutgar.
+
+294
+00:18:12,098 --> 00:18:14,417
+直接把他们带到我这儿来
+Show them straight in to me.
+
+295
+00:18:18,782 --> 00:18:22,528
+愿意为您效劳 Morstan小姐
+Your servant, Miss Morstan.
+
+296
+00:18:23,071 --> 00:18:26,530
+愿意为两位效劳 先生们
+Your servant, gentlemen.
+
+297
+00:18:27,281 --> 00:18:29,315
+进来 进来 进来
+Come in.
+
+298
+00:18:29,353 --> 00:18:32,432
+进我这间小屋子来
+Come in.
+
+299
+00:18:28,761 --> 00:18:29,661
+Come in.
+
+300
+00:18:29,769 --> 00:18:33,278
+Come in to my little sanctum.
+
+301
+00:18:32,907 --> 00:18:35,665
+我想你们不会介意
+I trust you have no objection
+
+302
+00:18:35,702 --> 00:18:38,659
+烟草味儿吧?
+to tobacco smoke?
+
+303
+00:18:38,696 --> 00:18:41,585
+有香油味儿的
+The balsamic odor
+
+304
+00:18:41,622 --> 00:18:44,554
+东方烟草
+of Eastern tobacco?
+
+305
+00:18:44,591 --> 00:18:47,488
+我有点紧张
+I am a little nervous
+
+306
+00:18:48,022 --> 00:18:52,983
+我发现我的水烟袋是无上的...
+and I find my hookah to be an invaluable...
+
+307
+00:19:07,411 --> 00:19:09,386
+...镇静剂
+sedative.
+
+308
+00:19:11,857 --> 00:19:14,406
+打扰了 Sholto先生
+You will excuse me Mr. Sholto
+
+309
+00:19:14,443 --> 00:19:17,958
+您让我来这里
+but I am here at your request
+
+310
+00:19:17,996 --> 00:19:19,417
+是想告诉我
+to learn something,
+
+311
+00:19:19,455 --> 00:19:21,644
+什么事情呢?
+which you desire to tell me?
+
+312
+00:19:21,681 --> 00:19:23,018
+天有些晚了
+It is getting very late and I should wish
+
+313
+00:19:23,056 --> 00:19:25,540
+我希望谈话越简短越好
+the interview to be as short as possible.
+
+314
+00:19:28,044 --> 00:19:30,721
+嗯 要花些时间
+Well it must take some time.
+
+315
+00:19:31,582 --> 00:19:36,592
+因为我们要去诺伍德
+For we have to go to Norwood
+
+316
+00:19:37,088 --> 00:19:39,525
+见我哥哥Bartholomew
+to see brother Bartholomew.
+
+317
+00:19:41,692 --> 00:19:44,542
+我们都要去
+We must all see
+
+318
+00:19:47,660 --> 00:19:52,490
+也许我们可以说服
+if we can get the better
+
+319
+00:19:51,335 --> 00:19:56,054
+of brother Bartholomew.
+
+320
+00:19:53,063 --> 00:19:55,153
+我哥哥Bartholomew
+
+321
+00:19:55,541 --> 00:19:58,063
+他对我发了火
+He is angry with me for
+
+322
+00:19:58,100 --> 00:20:05,276
+因为我采取了我以为正确的行动
+
+323
+00:20:00,030 --> 00:20:06,243
+taking the course that has seemed right to me.
+
+324
+00:20:05,313 --> 00:20:06,959
+你们不知道
+You cannot imagine
+
+325
+00:20:06,997 --> 00:20:10,619
+当他生气的时候
+
+326
+00:20:08,656 --> 00:20:12,853
+what a terrible fellow he is
+
+327
+00:20:12,266 --> 00:20:14,753
+会是个多么难缠的人
+when he is angry.
+
+328
+00:20:16,860 --> 00:20:18,425
+要是我们去诺伍德
+If we are to go to Norwood,
+
+329
+00:20:18,463 --> 00:20:21,098
+最好还是现在就动身
+it would perhaps be as well
+
+330
+00:20:21,135 --> 00:20:22,485
+不
+if we were start at once.
+
+331
+00:20:23,049 --> 00:20:25,959
+那不合适
+No.
+
+332
+00:20:23,682 --> 00:20:26,350
+No that would hardly do.
+
+333
+00:20:25,996 --> 00:20:27,375
+我不知道怎么和他说
+I don't know what he would say
+
+334
+00:20:27,413 --> 00:20:29,793
+要是我们这么唐突去见他
+if we came upon him in that sudden way.
+
+335
+00:20:29,831 --> 00:20:33,195
+我必须让你们做好准备
+No I must prepare you
+
+336
+00:20:33,232 --> 00:20:36,054
+把咱们彼此的处境
+by showing you where we all stand
+
+337
+00:20:37,056 --> 00:20:39,148
+先谈一谈
+to each other.
+
+338
+00:20:39,932 --> 00:20:46,880
+首先我要把我知道的一些事实
+I must lay the facts before you,
+
+339
+00:20:47,661 --> 00:20:50,793
+告诉各位
+as I know them myself.
+
+340
+00:20:55,688 --> 00:21:01,149
+我父亲 就是已故的John Sholto少校
+My father, the late Major John Sholto,
+
+341
+00:21:01,187 --> 00:21:07,831
+大约11年前来到上诺伍德
+came to live at Pondicherry Lodge
+
+342
+00:21:07,869 --> 00:21:11,791
+定居于Pondicherry别墅
+in Upper Norwood
+
+343
+00:21:09,143 --> 00:21:13,482
+some 1 1 years ago.
+
+344
+00:21:12,941 --> 00:21:15,809
+他在印度发了财
+And he had prospered in India
+
+345
+00:21:15,846 --> 00:21:17,960
+带回来了
+and brought back with him
+
+346
+00:21:17,998 --> 00:21:20,585
+一大笔钱
+a considerable sum of money,
+
+347
+00:21:20,624 --> 00:21:24,097
+还有一批珍贵的古董
+a collection of valuable curiosities,
+
+348
+00:21:24,133 --> 00:21:28,355
+和几个印度的仆人
+and a staff of native servants.
+
+349
+00:21:28,394 --> 00:21:30,150
+因为这些
+With these advantages
+
+350
+00:21:30,187 --> 00:21:33,643
+他生活得很富裕
+he lived in great luxury.
+
+351
+00:21:33,680 --> 00:21:36,810
+那时我哥哥和我正在上大学
+My brother and I were at university at the time.
+
+352
+00:21:36,848 --> 00:21:39,212
+然而 我们确实清楚
+We did know, however,
+
+353
+00:21:39,249 --> 00:21:41,196
+有些秘密
+that some mystery,
+
+354
+00:21:41,233 --> 00:21:43,703
+某种存在的危险
+some positive danger,
+
+355
+00:21:43,741 --> 00:21:47,081
+藏在我父亲的心里
+overhung our father.
+
+356
+00:21:49,188 --> 00:21:51,860
+他非常害怕
+He was very fearful
+
+357
+00:21:51,898 --> 00:21:54,661
+独自一人外出
+of going out alone,
+
+358
+00:21:54,697 --> 00:21:58,344
+他雇了2个职业拳击手
+and he employed 2 prizefighters
+
+359
+00:21:58,382 --> 00:21:59,507
+保护他
+to guard him.
+
+360
+00:21:59,545 --> 00:22:02,940
+Williams 今晚送你们来的那个人
+Williams, who drove you here tonight,
+
+361
+00:22:02,977 --> 00:22:04,448
+就是其中之一
+was one of them.
+
+362
+00:22:04,486 --> 00:22:05,841
+出于某种原因
+For some reason,
+
+363
+00:22:05,878 --> 00:22:07,714
+他从不告诉我们
+he never told anyone,
+
+364
+00:22:08,362 --> 00:22:13,431
+我父亲对装有木腿的人格外提防
+my father had a marked aversion
+
+365
+00:22:10,882 --> 00:22:14,557
+to men with wooden legs.
+
+366
+00:22:13,978 --> 00:22:17,745
+有一次他竟然开枪打伤了
+On one occasion
+
+367
+00:22:16,204 --> 00:22:18,420
+he actually fired his revolver
+
+368
+00:22:17,783 --> 00:22:20,296
+一个只有一条腿的人
+at a one-legged man.
+
+369
+00:22:20,816 --> 00:22:24,683
+那人只不过是个平常的商贩
+A harmless tradesman as it turned out.
+
+370
+00:22:31,303 --> 00:22:37,009
+我记得当时我们 赔了很大一笔钱才了事
+I remember we have to pay
+
+371
+00:22:34,395 --> 00:22:37,869
+a considerable sum to hush it up.
+
+372
+00:22:38,917 --> 00:22:41,933
+然后 突然
+Then suddenly
+
+373
+00:22:44,103 --> 00:22:48,080
+我父亲收到了一封信
+my father received a letter
+
+374
+00:22:49,312 --> 00:22:54,077
+那封信对他是很大的打击
+It was a great shock to him.
+
+375
+00:23:05,481 --> 00:23:06,685
+出去
+Out.
+
+376
+00:23:07,457 --> 00:23:09,094
+从房间出去!
+Out of the room!
+
+377
+00:23:09,541 --> 00:23:11,912
+从房间出去!
+Out of the room!
+
+378
+00:23:25,654 --> 00:23:29,039
+信上说了什么
+What was in the letter
+
+379
+00:23:30,852 --> 00:23:33,560
+我们永远不知道
+we could never discover?
+
+380
+00:23:35,331 --> 00:23:38,018
+我父亲多年身患
+For years my father had suffered
+
+381
+00:23:38,056 --> 00:23:41,136
+脾脏肿大的毛病
+
+382
+00:23:39,648 --> 00:23:42,422
+with an enlarged spleen
+
+383
+00:23:41,905 --> 00:23:43,372
+从那时起
+and from that moment on
+
+384
+00:23:43,409 --> 00:23:45,841
+他的病情变得更糟
+he became rapidly worse.
+
+385
+00:23:46,529 --> 00:23:51,408
+一天晚上医生通知我们说 没希望了
+But one night the doctor informed us there was no hope
+
+386
+00:23:51,446 --> 00:23:56,327
+要我们听他的最后的遗嘱
+and that he wished to make a last communication to us.
+
+387
+00:23:59,298 --> 00:24:01,397
+我亲爱的家人
+My dear family,
+
+388
+00:24:03,801 --> 00:24:08,239
+我在印度的时候
+
+389
+00:24:06,640 --> 00:24:09,556
+when we were in India
+
+390
+00:24:08,868 --> 00:24:12,865
+我的朋友 Morstan和我
+my friend, Morstan and I,
+
+391
+00:24:13,396 --> 00:24:16,334
+得到了一大笔的
+came into possession
+
+392
+00:24:16,371 --> 00:24:18,877
+宝物
+of a considerable treasure.
+
+393
+00:24:20,282 --> 00:24:24,988
+我把它们带回了这里
+I brought it home with me to this house,
+
+394
+00:24:26,119 --> 00:24:28,644
+至今还在这
+where it's still alive.
+
+395
+00:24:32,437 --> 00:24:35,627
+那天 Morstan先生
+On the day, Mr. Morstan,
+
+396
+00:24:36,324 --> 00:24:39,060
+从印度回来
+had arrived home from the East.
+
+397
+00:24:39,825 --> 00:24:44,784
+他直接找到这里
+He came straight to this house
+
+398
+00:24:45,409 --> 00:24:48,654
+指责我独吞了财宝
+to claim his share.
+
+399
+00:24:48,691 --> 00:24:51,598
+我们发过誓 Sholto
+We gave our word Sholto.
+
+400
+00:24:51,635 --> 00:24:52,572
+一个诺言
+A promise.
+
+401
+00:24:52,610 --> 00:24:54,823
+我们发过毒誓
+We gave our word and our oath.
+
+402
+00:24:54,861 --> 00:24:57,259
+另一时间
+another time,
+
+403
+00:24:57,296 --> 00:24:59,240
+另一种生活 另一个世界
+another life, another world,
+
+404
+00:24:59,278 --> 00:25:01,076
+一个庄严的诺言
+a solemn promise.
+
+405
+00:25:01,113 --> 00:25:03,744
+你背叛了我 Morstan
+You tried to betray me Morstan.
+
+406
+00:25:03,781 --> 00:25:06,548
+要是你敢背叛我...
+If you dare to cross me...
+
+407
+00:25:10,699 --> 00:25:12,253
+上帝
+My God.
+
+408
+00:25:13,479 --> 00:25:15,121
+他死了 Altada
+The man is dead Altada.
+
+409
+00:25:15,158 --> 00:25:17,171
+不用害怕 先生
+You have nothing to fear Sir.
+
+410
+00:25:17,209 --> 00:25:19,289
+下面的我来安排
+I will arrange everything.
+
+411
+00:25:19,325 --> 00:25:23,582
+一会他就弄完了 Morstan小姐
+And soon it was done Miss Morstan,
+
+412
+00:25:23,620 --> 00:25:26,100
+当然是极其秘密的
+in secrecy of course
+
+413
+00:25:26,138 --> 00:25:29,736
+但是不失尊重
+but with respect.
+
+414
+00:25:29,773 --> 00:25:31,521
+这确实很可耻 Sholto先生
+This is disgraceful Mister Sholto.
+
+415
+00:25:31,558 --> 00:25:34,829
+你父亲的行为是不可原谅的
+Your father's behavior was quite unforgivable.
+
+416
+00:25:34,867 --> 00:25:37,123
+拜托 医生
+Please Doctor.
+
+417
+00:25:39,874 --> 00:25:41,624
+我打心底知道
+I knew in my heart
+
+418
+00:25:41,661 --> 00:25:44,147
+他已死了
+that he was dead.
+
+419
+00:25:46,014 --> 00:25:48,498
+但我父亲并不孤单
+My father was not alone then.
+
+420
+00:25:51,816 --> 00:25:54,280
+我很高兴他没受罪
+And I'm glad he didn't suffer.
+
+421
+00:25:54,318 --> 00:25:56,930
+你很勇敢 Morstan小姐
+You're very brave Miss Morstan.
+
+422
+00:25:58,199 --> 00:26:01,392
+现在我所关心的是那场争吵
+What concerns me now
+
+423
+00:26:01,430 --> 00:26:02,851
+我不能想象
+is the wishing for this quarrel.
+
+424
+00:26:02,888 --> 00:26:05,593
+我父亲是怎么卷进这个财宝的
+I cannot imagine how my father
+
+425
+00:26:04,414 --> 00:26:07,010
+came to be involved with that treasure.
+
+426
+00:26:06,306 --> 00:26:11,162
+恐怕事情还不清楚 Morstan小姐
+I'm afraid that is not clear Miss Morstan
+
+427
+00:26:11,200 --> 00:26:12,360
+我只能告诉你
+I can only tell you
+
+428
+00:26:14,019 --> 00:26:21,467
+我父亲对我们说的
+my father's instructions concerning it.
+
+429
+00:26:26,863 --> 00:26:31,806
+贪...婪
+
+430
+00:26:30,570 --> 00:26:32,549
+The greed.
+
+431
+00:26:32,912 --> 00:26:37,415
+可憎的贪婪一生折磨着我
+accursed greed that has been
+
+432
+00:26:35,788 --> 00:26:38,491
+my besetting thing throughout my life
+
+433
+00:26:37,454 --> 00:26:41,236
+我抢走了她的财产
+has robbed her of the treasure.
+
+434
+00:26:42,073 --> 00:26:45,387
+至少有一半是她的
+Half of which, at least,
+
+435
+00:26:45,425 --> 00:26:47,375
+应该还给她
+should be hers.
+
+436
+00:26:48,447 --> 00:26:57,497
+你们看这串项链
+You see that chaplet there.
+
+437
+00:26:57,534 --> 00:27:04,968
+我想把它送给她
+
+438
+00:26:59,231 --> 00:27:05,587
+I had the design of sending it to her
+
+439
+00:27:05,006 --> 00:27:11,746
+但是又舍不得
+but could not bear to part with it.
+
+440
+00:27:12,490 --> 00:27:13,785
+你们
+You
+
+441
+00:27:14,490 --> 00:27:16,623
+我的儿子们
+my sons
+
+442
+00:27:16,977 --> 00:27:19,873
+一定要让Morstan小姐
+must see that Miss Morstan
+
+443
+00:27:19,911 --> 00:27:33,516
+得到属于她的一份
+gets her share of the treasure.
+
+444
+00:27:37,397 --> 00:27:38,854
+把他赶走
+Get him away.
+
+445
+00:27:40,181 --> 00:27:44,682
+看在上帝的份上 把他赶走
+For Christ's sake get him away.
+
+446
+00:27:44,996 --> 00:27:48,083
+我们冲到窗前 跑到花园中
+We ran to the window and out into the garden
+
+447
+00:27:48,121 --> 00:27:51,719
+但是那个人已经没了
+but the intruder was gone.
+
+448
+00:27:51,756 --> 00:27:54,687
+我父亲死了
+My father was dead.
+
+449
+00:27:54,725 --> 00:27:58,808
+不久我们就得到了更确切的证明
+We soon had more striking proof that there were
+
+450
+00:27:58,844 --> 00:28:02,474
+有秘密组织在盯着我们
+secret agencies that work all around us.
+
+451
+00:28:02,513 --> 00:28:07,949
+第二天有人闯进我父亲的卧室
+The next day my father's bedroom was broken into
+
+452
+00:28:07,986 --> 00:28:13,914
+这个被放在了他的胸前
+and this was fixed to his chest.
+
+453
+00:28:16,862 --> 00:28:18,862
+很关键
+Remarkable.
+
+454
+00:28:18,899 --> 00:28:22,618
+这是印度锡克教数字4的标记
+It is the Sikkh symbol for the numeral 4.
+
+455
+00:28:26,996 --> 00:28:28,951
+这张纸是什么意思
+What the paper means
+
+456
+00:28:28,989 --> 00:28:31,568
+还有我们神秘的来访者是谁
+and who our secret visitor or visitors were
+
+457
+00:28:31,605 --> 00:28:34,338
+我们都不知道
+we never found out.
+
+458
+00:28:39,234 --> 00:28:42,423
+我哥哥和我都很兴奋
+And my brother and I were much excited
+
+459
+00:28:42,460 --> 00:28:43,684
+你们能想象出来
+as you could imagine
+
+460
+00:28:43,723 --> 00:28:45,478
+都是由于我父亲说的财宝
+of the treasure that my father had spoken
+
+461
+00:28:45,515 --> 00:28:47,771
+但是 我们竭尽所能都没有找到
+but try as we might we couldn't find it.
+
+462
+00:28:47,808 --> 00:28:50,164
+我们有些发狂 只要想到收藏宝藏的地方
+It was maddened to think that the hiding place
+
+463
+00:28:50,201 --> 00:28:53,323
+就在他临终的嘴边
+was on his very lips when he died.
+
+464
+00:28:53,361 --> 00:28:57,309
+从这个项链上 我们就可以
+We could judge the splendor of the riches
+
+465
+00:28:57,347 --> 00:28:59,819
+看出这批财宝的贵重
+by the chaplet, which he had taken out.
+
+466
+00:28:59,856 --> 00:29:02,519
+这几颗珍珠都很值钱
+The pearls were evidently of great value,
+
+467
+00:29:02,558 --> 00:29:06,598
+我哥哥不愿意把它们给她
+and my brother was averse to part with them,
+
+468
+00:29:06,634 --> 00:29:09,647
+在对待朋友上
+for, between friends,
+
+469
+00:29:09,686 --> 00:29:13,436
+他也有点我父亲的缺点
+he was a little inclined to my father's fault.
+
+470
+00:29:13,474 --> 00:29:16,579
+我所能做的只是规劝他
+And it was all I could do was to persuade him
+
+471
+00:29:16,617 --> 00:29:18,696
+允许我每隔一段时间给Morstan小姐
+to allow me to send Miss Morstan
+
+472
+00:29:18,733 --> 00:29:21,848
+一颗拆下来的珍珠
+a detached pearl at regular intervals
+
+473
+00:29:21,886 --> 00:29:24,441
+这样她就不会生活拮据了
+so that she would not feel destitute.
+
+474
+00:29:24,478 --> 00:29:27,013
+真是好心眼
+It was a kindly thought.
+
+475
+00:29:28,032 --> 00:29:30,870
+你真是太好心了
+No it was very good of you.
+
+476
+00:29:32,730 --> 00:29:35,217
+我们只是你的托管人
+We were your trustees
+
+477
+00:29:35,255 --> 00:29:37,603
+这是我的看法
+that was the way I looked at it,
+
+478
+00:29:37,640 --> 00:29:41,189
+虽然我哥哥和我看法不同
+although my brother
+
+479
+00:29:41,226 --> 00:29:44,375
+我们自己有很多钱
+did not altogether see it in that light.
+
+480
+00:29:42,013 --> 00:29:44,966
+We had plenty of money ourselves.
+
+481
+00:29:44,412 --> 00:29:48,818
+用卑劣的手段
+It would have been in such bad taste
+
+482
+00:29:48,856 --> 00:29:51,646
+对待一位年轻的女士
+to have treated a young lady
+
+483
+00:29:51,683 --> 00:29:54,842
+实在是情理难容
+in so scurvy a fashion.
+
+484
+00:29:56,386 --> 00:29:57,637
+就在昨天
+Yesterday an event
+
+485
+00:29:57,674 --> 00:30:02,945
+发生了一件极其重要的事
+
+486
+00:29:59,579 --> 00:30:03,325
+of extreme importance occurred.
+
+487
+00:30:06,810 --> 00:30:11,537
+我们找到财宝了
+We, found of the treasure.
+
+488
+00:30:11,574 --> 00:30:16,222
+因此 我立即联系了Morstan小姐
+Hence my instant communication to you Miss Morstan.
+
+489
+00:30:16,260 --> 00:30:20,172
+我们现在要做的就是去诺伍德
+Now all we have to do is to drive to Norwood
+
+490
+00:30:20,210 --> 00:30:23,687
+向他索要我们应得的那份
+and claim our share.
+
+491
+00:30:26,214 --> 00:30:28,873
+在他眼中 我们也许是
+We shall be expected,
+
+492
+00:30:28,911 --> 00:30:33,326
+不受欢迎的客人
+if not entirely welcome, visitors.
+
+493
+00:30:33,363 --> 00:30:36,653
+你从头到尾做得都很好 Sholto先生
+You have done well from first to last Mr. Sholto.
+
+494
+00:30:40,984 --> 00:30:45,139
+我身体很弱
+My health is somewhat fragile.
+
+495
+00:30:45,176 --> 00:30:50,167
+只能算个病人
+I am compelled to be a valetudinarian.
+
+496
+00:30:50,204 --> 00:30:53,110
+请
+
+497
+00:30:52,240 --> 00:30:54,527
+Please?
+
+498
+00:31:05,621 --> 00:31:08,643
+花园的每个角落我们都挖过
+We dug up every inch of the garden
+
+499
+00:31:08,680 --> 00:31:11,861
+没有任何发现
+without discovering anything.
+
+500
+00:31:13,758 --> 00:31:16,454
+我哥哥Bartholomew很聪明
+Brother Bartholomew is such a clever fellow.
+
+501
+00:31:17,484 --> 00:31:19,175
+你们知道他是怎样
+Do you know how he found out
+
+502
+00:31:19,213 --> 00:31:20,953
+发现宝藏的吗
+where the treasure was?
+
+503
+00:31:20,990 --> 00:31:22,128
+说
+Tell me.
+
+504
+00:31:22,807 --> 00:31:24,711
+他测量了每个角落
+He made measurements everywhere,
+
+505
+00:31:24,749 --> 00:31:25,938
+从上面
+all along the top,
+
+506
+00:31:25,975 --> 00:31:28,054
+侧面 里面
+along the side, inside and he found out
+
+507
+00:31:28,091 --> 00:31:32,358
+最后在离房顶4英尺的地方
+
+508
+00:31:29,944 --> 00:31:33,418
+he was 4 foot out at the top.
+
+509
+00:31:32,396 --> 00:31:35,694
+我们发现了父亲建的一个小顶楼
+We found our father made a false room
+
+510
+00:31:35,733 --> 00:31:40,801
+他在板条灰泥天花板上打了个洞
+
+511
+00:31:37,770 --> 00:31:41,896
+So he smashed through the lath and the plaster
+
+512
+00:31:41,598 --> 00:31:44,081
+宝箱就在...
+and there was the treasure chest
+
+513
+00:31:44,119 --> 00:31:46,682
+椽木上
+lying across the rafters.
+
+514
+00:31:46,720 --> 00:31:48,717
+他估算了一下
+He has computed the value of the treasure
+
+515
+00:31:48,754 --> 00:31:50,623
+差不多超过...
+
+516
+00:31:50,661 --> 00:31:54,574
+50万英镑
+to be more than one half million sterling.
+
+517
+00:31:55,580 --> 00:31:58,390
+[scream]
+
+518
+00:31:58,178 --> 00:31:59,587
+是Bernstone夫人
+It's Mrs. Bernstone.
+
+519
+00:32:00,077 --> 00:32:02,869
+Bernstone夫人是这房子里唯一的女人
+Mrs. Bernstone is the only lady in the house
+
+520
+00:32:02,907 --> 00:32:04,871
+在这等着
+wait here.
+
+521
+00:32:16,911 --> 00:32:20,862
+Thaddeus先生 真高兴您来了
+Oh, Mr. Thaddeus I'm so glad you've come!
+
+522
+00:32:21,589 --> 00:32:24,084
+真高兴您来了 先生
+I'm so glad you've come, sir!
+
+523
+00:32:27,396 --> 00:32:29,821
+真是个奇怪的地方!
+What a strange place!
+
+524
+00:32:32,127 --> 00:32:36,120
+好像全英国的鼹鼠都跑到这来了
+It looks as if all the moles in England
+
+525
+00:32:34,571 --> 00:32:36,858
+have been let loose in it.
+
+526
+00:32:38,863 --> 00:32:41,364
+Bartholomew好像出事了
+There's something amiss with Bartholomew
+
+527
+00:32:41,402 --> 00:32:42,739
+进屋去!
+Into the house!
+
+528
+00:32:57,532 --> 00:33:00,725
+上帝保佑 看您这张甜美安静的脸多好
+bless your sweet, calm face.
+
+529
+00:33:00,763 --> 00:33:03,862
+我这一天可真是受够了
+Oh, but I have been sorely tried this day.
+
+530
+00:33:04,251 --> 00:33:05,905
+怎么了 Bernstone夫人?
+How Mrs. Bernstone?
+
+531
+00:33:06,472 --> 00:33:09,115
+Bartholomew先生把自己关在屋里
+Mr. Bartholomew shut himself in his room
+
+532
+00:33:09,153 --> 00:33:11,181
+没和我说一句话
+and I can't get a word out of him.
+
+533
+00:33:11,218 --> 00:33:13,248
+没有睡觉
+His bed hasn't been slept in
+
+534
+00:33:13,286 --> 00:33:16,761
+也没下楼吃过东西
+and he hasn't been down for any food.
+
+535
+00:33:16,798 --> 00:33:19,569
+他工作的时候我不敢打扰他
+I dare not disturb him at his work.
+
+536
+00:33:19,606 --> 00:33:21,975
+你知道他工作时候的样子
+You know what he's like when it's his work.
+
+537
+00:33:22,012 --> 00:33:24,232
+照顾好她 Morstan小姐
+Look after her Miss Morstan.
+
+538
+00:33:30,606 --> 00:33:32,124
+来 冷静一下
+There, there do try to calm down.
+
+539
+00:33:32,162 --> 00:33:34,293
+瞧 一切都会好的
+Look I'm sure everything will be all right.
+
+540
+00:33:34,330 --> 00:33:36,720
+希望你是对的 小姐
+I do hope your right Miss.
+
+541
+00:33:36,756 --> 00:33:38,603
+坐这里
+Sit down over there.
+
+542
+00:33:47,684 --> 00:33:49,419
+过来
+Come.
+
+543
+00:34:00,612 --> 00:34:01,720
+哪个门?
+Which is the door?
+
+544
+00:34:37,880 --> 00:34:40,496
+里面情况很糟糕 华生
+There's something devilish in this, Watson.
+
+545
+00:35:19,143 --> 00:35:21,693
+又是四签名
+The sign of the four again.
+
+546
+00:35:21,731 --> 00:35:23,728
+这一切是怎么回事?
+What in God's name does it all mean?
+
+547
+00:35:23,765 --> 00:35:25,754
+谋杀
+It means murder.
+
+548
+00:35:28,047 --> 00:35:33,386
+昨晚我们把财宝搬下来 放在那里
+
+549
+00:35:30,606 --> 00:35:32,621
+We brought the treasure down there last night.
+
+550
+00:35:35,286 --> 00:35:36,634
+现在不见了
+Now its gone.
+
+551
+00:35:36,672 --> 00:35:37,812
+那是几点的事
+What time is that?
+
+552
+00:35:37,849 --> 00:35:41,679
+不...不知道
+
+553
+00:35:39,754 --> 00:35:42,385
+I don't know.
+
+554
+00:35:41,826 --> 00:35:45,639
+我想是6点或是7点
+I think six, or seven.
+
+555
+00:35:46,040 --> 00:35:50,883
+我走后听见他锁门了
+
+556
+00:35:47,927 --> 00:35:52,682
+I heard him lock the door after I left.
+
+557
+00:35:52,427 --> 00:35:56,912
+我一定是最后见到他活着的人
+I must have been the last person to see him alive.
+
+558
+00:35:57,785 --> 00:35:59,371
+现在他死了
+And now he's dead
+
+559
+00:36:04,155 --> 00:36:06,508
+你想是我干的?
+you think I did it?
+
+560
+00:36:06,545 --> 00:36:08,527
+我没有 为什么我要...
+I didn't, why should I,
+
+561
+00:36:08,564 --> 00:36:09,518
+我不会让你...
+I wouldn't have wanted you...
+
+562
+00:36:09,555 --> 00:36:10,869
+我不会请你来...
+I wouldn't have asked you to...
+
+563
+00:36:10,908 --> 00:36:12,121
+我要疯了
+
+564
+00:36:12,159 --> 00:36:14,338
+冷静 冷静 冷静  Sholto先生
+I'll go mad.
+
+565
+00:36:14,375 --> 00:36:15,679
+我建议你报警
+Gentle, gently, gentle Mr. Sholto.
+
+566
+00:36:15,716 --> 00:36:17,930
+把你知道的一切告诉他们
+I suggest that you go down to the police station
+
+567
+00:36:17,968 --> 00:36:19,978
+我们等你回来
+and tell them everything that you know.
+
+568
+00:36:18,502 --> 00:36:20,967
+We shall wait here until you return.
+
+569
+00:36:20,322 --> 00:36:23,078
+福尔摩斯 看这个
+Holmes look at this.
+
+570
+00:36:23,115 --> 00:36:24,211
+小心
+Careful!
+
+571
+00:36:24,248 --> 00:36:26,532
+上面有毒
+Forgive me, its poisoned.
+
+572
+00:36:28,027 --> 00:36:30,471
+华生 我们还有些时间
+Well Watson we have a little time
+
+573
+00:36:30,509 --> 00:36:32,173
+弄清楚整个过程
+let's make the most of it.
+
+574
+00:36:32,210 --> 00:36:34,749
+这件事真是扑朔迷离
+Awe this is an Insoluble mystery to me.
+
+575
+00:36:34,787 --> 00:36:36,500
+不止没搞明白 反而越来越糊涂了
+It grows darker instead of clearer.
+
+576
+00:36:36,538 --> 00:36:38,234
+不 不 不 马上就会水落石出
+No, no, no, no it clears every instant.
+
+577
+00:36:38,271 --> 00:36:39,742
+我只要再弄清几个环节
+I only require a few missing links
+
+578
+00:36:39,779 --> 00:36:42,243
+就可以把整个案子串联起来
+to have an entirely connected case.
+
+579
+00:36:42,583 --> 00:36:44,152
+现在案子看上去很简单了
+Simple as the case seems now
+
+580
+00:36:44,189 --> 00:36:47,098
+还有几件事不明白
+there may be something deeper underlying it.
+
+581
+00:36:47,135 --> 00:36:49,348
+这些人怎么进来的
+How did these people come
+
+582
+00:36:49,385 --> 00:36:50,347
+怎么出去的
+and how did they go?
+
+583
+00:36:50,385 --> 00:36:51,630
+这些人?
+People?
+
+584
+00:36:51,668 --> 00:36:53,758
+要从这种地方搬走财宝箱
+Well it takes more than one, perhaps more than 2
+
+585
+00:36:53,796 --> 00:36:56,867
+需要不止一个人 或许两人以上
+to remove a heavy treasure chest
+
+586
+00:36:56,905 --> 00:36:59,631
+门从昨晚就没开过
+from a place like this.
+
+587
+00:36:58,119 --> 00:37:00,655
+The door hasn't been opened since last night.
+
+588
+00:37:00,074 --> 00:37:02,125
+那这些窗户呢?
+So how about these windows?
+
+589
+00:37:08,398 --> 00:37:10,658
+插销在里面
+Snibbed on the inside.
+
+590
+00:37:11,380 --> 00:37:12,947
+没有合叶
+No hinges.
+
+591
+00:37:12,984 --> 00:37:14,796
+屋顶离的很远
+Roof quite out of reach.
+
+592
+00:37:14,834 --> 00:37:16,990
+附近没有排水管
+No drainpipe near.
+
+593
+00:37:17,972 --> 00:37:20,886
+有人可能从这进来 看 华生
+Yet someone has entered this way look.
+
+594
+00:37:21,186 --> 00:37:23,156
+窗台上有足迹
+Watson.
+
+595
+00:37:22,084 --> 00:37:25,273
+See that a scuff on the sill.
+
+596
+00:37:30,711 --> 00:37:32,438
+看这个 华生
+Look at this Watson
+
+597
+00:37:33,992 --> 00:37:35,888
+这儿和这儿
+and this and this.
+
+598
+00:37:35,926 --> 00:37:37,756
+这真是个非常好的证据
+This is a very pretty demonstration.
+
+599
+00:37:37,794 --> 00:37:40,041
+但那不是脚印
+But that's not a footmark.
+
+600
+00:37:40,078 --> 00:37:41,885
+这东西对我们更有价值
+Something much more valuable to us.
+
+601
+00:37:41,922 --> 00:37:43,091
+这个靴子的痕迹
+This is mark of a boot and this
+
+602
+00:37:43,128 --> 00:37:49,386
+这是木腿的痕迹
+
+603
+00:37:44,867 --> 00:37:49,942
+this the mark of the timber toe.
+
+604
+00:37:49,424 --> 00:37:51,201
+他是一个有一条木腿的人
+It is a wooden-legged man.
+
+605
+00:37:51,892 --> 00:37:53,743
+而另一个人是
+And someone else.
+
+606
+00:37:54,792 --> 00:37:57,879
+很能干 很灵活的同谋
+A very able and efficient ally.
+
+607
+00:37:57,918 --> 00:38:00,020
+你能从那个墙爬过来吗 华生?
+Could you scale that wall, Watson?
+
+608
+00:38:09,237 --> 00:38:10,759
+肯定不能
+Absolutely impossible.
+
+609
+00:38:10,796 --> 00:38:11,826
+没有帮忙是不能的
+I aid it is so
+
+610
+00:38:11,864 --> 00:38:14,711
+但假定你有一个朋友
+but suppose you had a friend
+
+611
+00:38:14,749 --> 00:38:18,446
+他把这根结实的绳子
+who lowered you this good stout rope
+
+612
+00:38:18,483 --> 00:38:20,647
+牢牢的系在那个环子上
+securing it first to this ring.
+
+613
+00:38:20,685 --> 00:38:23,556
+我想只要你有力气
+I think if you were an active man,
+
+614
+00:38:23,594 --> 00:38:25,250
+你就可以爬过去
+you'd be able to swarm up,
+
+615
+00:38:25,286 --> 00:38:26,607
+即使是装着木腿
+wooden leg and all.
+
+616
+00:38:26,645 --> 00:38:28,293
+你离开的时候 当然
+You would depart, of course,
+
+617
+00:38:28,330 --> 00:38:29,401
+可以用同样的方式
+in the same fashion, and then your friend
+
+618
+00:38:29,438 --> 00:38:32,055
+你的朋友会收起绳子
+
+619
+00:38:31,337 --> 00:38:33,068
+would pull up the rope,
+
+620
+00:38:36,026 --> 00:38:37,140
+关上窗子
+close the window,
+
+621
+00:38:37,637 --> 00:38:38,982
+从里面栓牢
+snib it on the inside,
+
+622
+00:38:39,018 --> 00:38:41,707
+把它复原成来时候的样子
+and depart in the manner he originally came.
+
+623
+00:38:44,991 --> 00:38:47,564
+情况比刚才更莫名其妙了
+Well the thing grows more unintelligible than ever.
+
+624
+00:38:47,602 --> 00:38:49,958
+这个神秘的同谋是谁?
+How about this mysterious ally?
+
+625
+00:38:49,995 --> 00:38:51,767
+他是怎样进屋的?
+How did he get into the room?
+
+626
+00:38:51,804 --> 00:38:54,641
+不错 那个同谋
+Yes, this ally.
+
+627
+00:38:54,678 --> 00:38:56,057
+他使案子变得
+He lifts this case
+
+628
+00:38:56,095 --> 00:38:58,361
+异乎寻常
+from the regions of the commonplace.
+
+629
+00:38:58,397 --> 00:39:02,132
+门是关着的 窗户够不到
+Well the door is locked; the window inaccessible.
+
+630
+00:39:03,086 --> 00:39:04,447
+壁炉又太小
+The grate's too small.
+
+631
+00:39:04,485 --> 00:39:05,440
+怎么办到的呢?
+How then?
+
+632
+00:39:05,477 --> 00:39:06,881
+你总是不跟着我的思路
+You will not follow my precept.
+
+633
+00:39:06,919 --> 00:39:08,164
+我和你说过多少次了
+How often have I said to you
+
+634
+00:39:08,203 --> 00:39:09,923
+一旦你排除掉不可能的因素
+that once you have eliminated the impossible,
+
+635
+00:39:09,960 --> 00:39:11,514
+不论剩下什么
+whatever remains,
+
+636
+00:39:11,552 --> 00:39:13,107
+不论多么不可能
+however improbable,
+
+637
+00:39:13,145 --> 00:39:15,300
+那一定是事实
+must be the truth?
+
+638
+00:39:19,947 --> 00:39:22,138
+他肯定是从屋顶下来的
+He must of come in through the roof.
+
+639
+00:39:22,177 --> 00:39:23,729
+好极了 华生 拿着灯
+Excellent Watson, hold this lamp.
+
+640
+00:39:23,766 --> 00:39:25,978
+咱们去查看一下上面的空间
+Let us carry our research to the room above
+
+641
+00:39:26,015 --> 00:39:30,181
+就是放财宝的密室
+the secret room in which the treasure was found.
+
+642
+00:39:35,019 --> 00:39:36,744
+天窗
+The skylight.
+
+643
+00:39:47,200 --> 00:39:51,244
+福尔摩斯 是个小孩干了这么恐怖的事
+
+644
+00:39:49,390 --> 00:39:54,809
+Holmes a child has done this horrid thing.
+
+645
+00:39:54,065 --> 00:39:56,071
+我忘记了
+My memory failed me,
+
+646
+00:39:56,107 --> 00:39:59,076
+我本应该料到的
+for I should have been able to foretell it.
+
+647
+00:39:59,849 --> 00:40:01,313
+这里没什么可搜的了
+There is nothing we can learn from here.
+
+648
+00:40:01,350 --> 00:40:02,625
+我们下去吧
+Let us go down.
+
+649
+00:40:12,110 --> 00:40:14,815
+你对那些脚印有什么结论?
+What is your theory about those footmarks?
+
+650
+00:40:14,853 --> 00:40:16,588
+华生 请你自己做点分析
+My dear Watson, try a little analysis yourself.
+
+651
+00:40:16,625 --> 00:40:17,513
+你知道我的方法
+You know my methods.
+
+652
+00:40:17,551 --> 00:40:18,590
+应用他们
+Apply them.
+
+653
+00:40:18,626 --> 00:40:19,905
+我从这些证据上
+I cannot conceive of anything
+
+654
+00:40:19,943 --> 00:40:21,603
+什么也总结不出来
+that will cover the facts.
+
+655
+00:40:22,604 --> 00:40:24,266
+你不久就会清楚了
+You will soon.
+
+656
+00:40:42,488 --> 00:40:44,539
+我们运气好
+We're in luck.
+
+657
+00:40:44,780 --> 00:40:48,315
+我们的小同谋
+Our little ally
+
+658
+00:40:48,352 --> 00:40:50,316
+踩到了木馏油
+has trod in the creosote.
+
+659
+00:40:51,163 --> 00:40:53,831
+[Voices from afar].
+
+660
+00:40:57,100 --> 00:40:59,794
+看那个
+Ahh, look at that.
+
+661
+00:40:59,831 --> 00:41:02,294
+你们住的小地方还真好
+Quite a nice little place you got here.
+
+662
+00:41:05,676 --> 00:41:06,852
+福尔摩斯!
+Holmes!
+
+663
+00:41:06,889 --> 00:41:09,035
+我猜是那些法律的代表者们
+representatives of the law
+
+664
+00:41:09,073 --> 00:41:11,353
+要不就是我犯了非常大的错误
+unless I'm very, very much mistaken.
+
+665
+00:41:11,391 --> 00:41:12,613
+华生
+Now Watson
+
+666
+00:41:12,650 --> 00:41:15,069
+在他们来之前
+before they come
+
+667
+00:41:15,108 --> 00:41:17,158
+你对这个可怜的家伙有什么看法?
+what do you make of this poor fellow?
+
+668
+00:41:17,196 --> 00:41:19,883
+肌肉像木板一样僵硬
+The muscles are stiff as a board.
+
+669
+00:41:19,920 --> 00:41:22,575
+极其强烈的收缩状态
+A state of extreme contraction,
+
+670
+00:41:22,614 --> 00:41:25,652
+远比一般的死后僵硬要厉害
+far exceeding the usual rigor mortis.
+
+671
+00:41:25,690 --> 00:41:26,762
+很对
+Quite so.
+
+672
+00:41:26,799 --> 00:41:29,079
+再加上脸部的扭曲
+Coupled with this distortion of the face,
+
+673
+00:41:29,116 --> 00:41:30,889
+希波克拉底式的笑容
+the Hippocratic smile,
+
+674
+00:41:30,926 --> 00:41:34,149
+这是被老派作家称为讥笑的笑容
+risus sardonicus, as the old writers called it,
+
+675
+00:41:34,187 --> 00:41:36,371
+你心里有结论了吗?
+what would that suggest to your mind?
+
+676
+00:41:37,360 --> 00:41:39,878
+死于某种植物性生物碱的剧毒
+Death from a powerful vegetable alkaloid
+
+677
+00:41:39,917 --> 00:41:41,723
+某种番木鳖碱
+some strychnine-like substance
+
+678
+00:41:41,760 --> 00:41:43,585
+能造成破伤风
+that produces tetanus.
+
+679
+00:41:45,806 --> 00:41:48,722
+Well,
+
+680
+00:41:48,130 --> 00:41:49,384
+右转
+to the right,
+
+681
+00:41:49,951 --> 00:41:51,985
+先生们 向右转
+come on along gentleman to the right.
+
+682
+00:41:52,777 --> 00:41:54,861
+上楼梯
+Up these stairs.
+
+683
+00:41:59,551 --> 00:42:01,190
+这根荆棘
+This thorn.
+
+684
+00:42:02,144 --> 00:42:04,651
+英国荆棘
+old English thorn.
+
+685
+00:42:08,893 --> 00:42:10,669
+我想不应该让Morstan小姐
+I think it is not right that Miss Morstan
+
+686
+00:42:10,706 --> 00:42:12,722
+呆在这个遭殃的屋子里了
+remain in this stricken house.
+
+687
+00:42:12,760 --> 00:42:15,091
+你把他送回家去 华生
+I suggest you slip away and take her home Watson
+
+688
+00:42:15,129 --> 00:42:17,159
+然后去Pinchin巷 3号
+and then go to 3 Pinchin Lane,
+
+689
+00:42:17,195 --> 00:42:19,232
+Lambeth区 找Toby来
+Lambeth and ask for Toby.
+
+690
+00:42:19,270 --> 00:42:20,292
+Pinchin巷 3号
+3 Pinchin Lane.
+
+691
+00:42:20,329 --> 00:42:22,169
+我宁愿要Toby的帮忙
+I'd rather have Toby's help than that of the
+
+692
+00:42:22,206 --> 00:42:24,389
+比全伦敦的警察都得力
+whole protective force London.
+
+693
+00:42:29,271 --> 00:42:32,226
+这成什么样子了!
+Well here's a pretty business!
+
+694
+00:42:34,370 --> 00:42:37,533
+屋里挤得像个养兔场!
+Place is as full as a rabbit-warren!
+
+695
+00:42:38,943 --> 00:42:41,537
+我想你一定还记得我吧
+I think you better recollect me,
+
+696
+00:42:41,575 --> 00:42:44,635
+Athelney Jones先生
+Mr. Athelney Jones.
+
+697
+00:42:45,838 --> 00:42:50,731
+我当然记得!
+Why, of course I do!
+
+698
+00:42:50,769 --> 00:42:55,326
+夏洛克・福尔摩斯先生 大理论家
+Mr. Sherlock Holmes, the theorist.
+
+699
+00:42:55,362 --> 00:42:58,351
+我永远忘不掉 那次你给我们做的演讲
+I'll never forget that you lectured us all
+
+700
+00:42:58,389 --> 00:43:01,153
+关于那件主教珍宝案
+about the Bishopgate jewel case.
+
+701
+00:43:01,189 --> 00:43:04,571
+你确实把我们引上正确的思路
+True you set us on the right track then
+
+702
+00:43:04,609 --> 00:43:06,948
+我想你得承认
+I think you'll own now
+
+703
+00:43:06,985 --> 00:43:09,055
+那是因为运气好而不是正确的引导
+it is more by good luck than good guidance.
+
+704
+00:43:09,092 --> 00:43:11,289
+那是一个很简单的推理
+It was a piece of very simple reasoning.
+
+705
+00:43:11,326 --> 00:43:13,573
+算了吧
+Oh, come, now, come!
+
+706
+00:43:13,610 --> 00:43:15,831
+别不好意思承认
+Never be ashamed to own up.
+
+707
+00:43:16,738 --> 00:43:22,078
+可这是怎么一回事?
+But what is all this?
+
+708
+00:43:22,752 --> 00:43:24,436
+太糟糕了
+It's a bad business!
+
+709
+00:43:24,473 --> 00:43:26,565
+太糟糕了!
+Bad business!
+
+710
+00:43:28,525 --> 00:43:31,150
+严酷的事实摆在这
+Stern facts here
+
+711
+00:43:32,045 --> 00:43:34,132
+用不着理论了
+no room for theories.
+
+712
+00:43:34,170 --> 00:43:36,867
+真是太巧了 我路过诺伍德
+It's lucky I happened to be up at Norwood
+
+713
+00:43:36,903 --> 00:43:40,117
+接到报案时 我正在忙另一个案子
+on another case when I got the message.
+
+714
+00:43:40,155 --> 00:43:42,120
+你认为这人是怎么死的?
+How do you think this man died?
+
+715
+00:43:42,157 --> 00:43:44,545
+这个案子似乎不需要我的理论
+This is not a case for me to theorize over.
+
+716
+00:43:44,582 --> 00:43:46,454
+是不需要
+No, no, no.
+
+717
+00:43:46,492 --> 00:43:48,063
+可是 我们不得不承认
+Still, we can't deny
+
+718
+00:43:48,100 --> 00:43:51,586
+你有时真能一言中的
+you hit the nail on the head sometimes.
+
+719
+00:43:54,781 --> 00:43:58,310
+门是锁着的
+Door locked, I understand.
+
+720
+00:43:58,347 --> 00:44:02,262
+财宝丢失了
+Jewels worth a fortune missing.
+
+721
+00:44:02,300 --> 00:44:02,987
+窗户的情况怎么样
+How were the windows?
+
+722
+00:44:03,025 --> 00:44:05,623
+关得很紧 不过窗台上有脚印
+Fastened; but there was a footstep on the sill.
+
+723
+00:44:05,660 --> 00:44:07,148
+窗户关着的
+Windows fastened.
+
+724
+00:44:07,185 --> 00:44:10,638
+脚印便与本案无关 这是常识
+Nothing to do with it. It's common sense.
+
+725
+00:44:14,640 --> 00:44:18,159
+我猜这个人是猝死的
+Man could have died in a fit I suppose.
+
+726
+00:44:18,405 --> 00:44:21,105
+哈!
+Ha!
+
+727
+00:44:21,143 --> 00:44:22,998
+我有一个解释
+I have a theory.
+
+728
+00:44:23,035 --> 00:44:25,958
+有时我也能灵机一动呢
+These flashes come to me sometimes.
+
+729
+00:44:25,996 --> 00:44:28,058
+警长 你先出去
+Sergeant, outside if you please.
+
+730
+00:44:28,095 --> 00:44:31,053
+你也是 Sholto先生
+And you too, Mr. Sholto.
+
+731
+00:44:34,827 --> 00:44:37,191
+你怎么想的 福尔摩斯先生?
+What do you think of this, Holmes?
+
+732
+00:44:37,227 --> 00:44:39,707
+Sholto已经承认了
+Sholto has confessed
+
+733
+00:44:39,745 --> 00:44:41,709
+昨晚他和他哥哥在一起
+he was with his brother last night.
+
+734
+00:44:42,355 --> 00:44:43,578
+他哥哥猝死后
+The brother died in a fit.
+
+735
+00:44:43,616 --> 00:44:44,886
+Sholto带着财宝跑了?
+Sholto walks off with the treasure?
+
+736
+00:44:44,924 --> 00:44:45,745
+真是这样吗
+How about that?
+
+737
+00:44:45,784 --> 00:44:47,298
+这个死人倒还细心
+Whereupon a dead man very considerately
+
+738
+00:44:47,335 --> 00:44:50,938
+命都没了还起来把门锁上
+gets up and locks the door from the inside.
+
+739
+00:44:52,296 --> 00:44:53,818
+哼!
+Hum!
+
+740
+00:44:56,889 --> 00:44:59,101
+这是个破绽
+There's a flaw there somewhere.
+
+741
+00:45:01,638 --> 00:45:05,640
+咱们根据常识来想想
+Let us apply common sense to the matter.
+
+742
+00:45:05,678 --> 00:45:07,100
+他们是兄弟
+They were brothers
+
+743
+00:45:07,137 --> 00:45:09,233
+争吵过
+there was a quarrel
+
+744
+00:45:09,856 --> 00:45:13,438
+哥哥Bartholomew死了
+brother Bartholomew dead
+
+745
+00:45:13,475 --> 00:45:14,780
+珠宝不见了
+jewels gone.
+
+746
+00:45:14,818 --> 00:45:16,998
+而Thaddeus
+And master Thaddeus
+
+747
+00:45:17,035 --> 00:45:20,565
+极为恐惧不安
+evidently in a disturbed state of mind.
+
+748
+00:45:20,602 --> 00:45:24,136
+他外表还行 但不怎么迷人
+His appearance well, not attractive.
+
+749
+00:45:24,173 --> 00:45:25,341
+你看
+You see
+
+750
+00:45:25,824 --> 00:45:30,564
+我正在结网 要网住Thaddeus
+I'm weaving a web around Thaddeus.
+
+751
+00:45:30,602 --> 00:45:33,732
+这张网要套住他了
+The net begins to close upon him.
+
+752
+00:45:34,454 --> 00:45:35,625
+Jones
+Jones
+
+753
+00:45:36,471 --> 00:45:38,314
+那个小木刺
+that splinter,
+
+754
+00:45:41,224 --> 00:45:43,521
+我想那有毒
+which I firmly believe to be poisoned,
+
+755
+00:45:44,310 --> 00:45:47,048
+那张纸和那根样子奇怪的木棍
+that card and that curiously shaped instrument
+
+756
+00:45:47,084 --> 00:45:49,048
+放在桌子上
+were lying there on the table.
+
+757
+00:45:52,937 --> 00:45:55,592
+从各方面来看
+Confirms my theory
+
+758
+00:45:55,630 --> 00:45:58,285
+都能证实我的结论
+in every respect.
+
+759
+00:45:58,911 --> 00:46:00,982
+这个屋里到处是印度的古玩
+The house is full of Indian curiosities.
+
+760
+00:46:01,021 --> 00:46:03,105
+所有证据都指向Thaddeus
+All point to Thaddeus.
+
+761
+00:46:06,413 --> 00:46:08,019
+但是...
+But
+
+762
+00:46:08,490 --> 00:46:10,103
+他是怎么逃走的呢?
+how did he escape?
+
+763
+00:46:13,645 --> 00:46:17,243
+屋顶上有个洞...警官!
+There is a trapdoor in the roof Sergeant.
+
+764
+00:46:19,495 --> 00:46:22,925
+让Sholto先生进来?
+May I ask Mr. Sholto to step this way?
+
+765
+00:46:23,868 --> 00:46:28,761
+毕竟事实胜于雄辩
+You see facts are better than theories, after all.
+
+766
+00:46:28,798 --> 00:46:31,128
+我的看法完全得到证实
+My view of the case is confirmed.
+
+767
+00:46:31,166 --> 00:46:32,630
+有一个天窗
+There is a trapdoor
+
+768
+00:46:32,666 --> 00:46:34,089
+连接着屋顶
+communicating with the roof,
+
+769
+00:46:34,127 --> 00:46:36,740
+还是半开的
+and it is partly open.
+
+770
+00:46:36,779 --> 00:46:38,209
+那是我打开的
+It is I who opened it.
+
+771
+00:46:40,967 --> 00:46:43,894
+Thaddeus Sholto先生 我有责任告诉你
+Mr. Thaddeus Sholto, it is my duty to inform you
+
+772
+00:46:43,931 --> 00:46:45,729
+你所说的都会被记下
+that anything you say will be taken down
+
+773
+00:46:45,765 --> 00:46:47,710
+可能会对你不利
+and maybe used in evidence against you.
+
+774
+00:46:47,747 --> 00:46:49,528
+为了你死去的哥哥
+I arrest you in the Queen's name
+
+775
+00:46:49,565 --> 00:46:52,070
+我代表政府逮捕你
+as being concerned in the death of your brother.
+
+776
+00:46:53,565 --> 00:46:55,151
+我没有 我说过了吧
+I didn't I tell you
+
+777
+00:46:55,188 --> 00:46:57,800
+别着急 Sholto
+Don't trouble yourself, Mr. Sholto.
+
+778
+00:46:57,838 --> 00:47:00,462
+我能帮你洗刷一切罪名
+I think that I can engage
+
+779
+00:47:00,499 --> 00:47:03,987
+不要随便答应 大理论家
+to clear you of this charge.
+
+780
+00:47:01,633 --> 00:47:04,549
+Don't promise too much, Mr. Theorist.
+
+781
+00:47:04,024 --> 00:47:07,412
+事实恐怕没你想的那么简单
+You may find it a harder matter than you think.
+
+782
+00:47:07,450 --> 00:47:09,187
+我不但要为他澄清
+Not only will I clear Mr. Sholto,
+
+783
+00:47:09,224 --> 00:47:11,122
+还要给你一些信息
+but I will give you a description
+
+784
+00:47:11,159 --> 00:47:13,681
+昨晚有两个人来这个屋里
+of the 2 men who were in this room last night.
+
+785
+00:47:13,720 --> 00:47:15,565
+其中一个文化程度很低
+One was a poorly educated man,
+
+786
+00:47:15,603 --> 00:47:16,785
+强壮
+strong,
+
+787
+00:47:16,821 --> 00:47:17,608
+动作灵活
+active,
+
+788
+00:47:17,646 --> 00:47:19,134
+没有右腿
+with his right leg off,
+
+789
+00:47:19,171 --> 00:47:21,150
+装了一条木腿
+wearing a stump worn away on the inside.
+
+790
+00:47:21,649 --> 00:47:24,994
+左脚的靴子下面 有一块粗糙的方形前掌
+His left boot has a coarse, square-toed sole
+
+791
+00:47:25,633 --> 00:47:28,103
+后跟上钉着铁掌
+it has an iron band around the heel.
+
+792
+00:47:29,139 --> 00:47:31,447
+是个中年人 晒得很黑
+He's much sunburned, middle-aged
+
+793
+00:47:31,484 --> 00:47:35,454
+这从他手掌上剥落的皮就能看出来
+and has a certain amount of skin missing
+
+794
+00:47:33,877 --> 00:47:36,164
+from the palm of one hand.
+
+795
+00:47:35,491 --> 00:47:37,384
+那另一个呢?
+And the other one?
+
+796
+00:47:38,760 --> 00:47:41,695
+另一个更加扑朔迷离
+He's rather a curious person.
+
+797
+00:47:43,735 --> 00:47:45,118
+我希望不久就能够
+I hope before long to be able to
+
+798
+00:47:45,156 --> 00:47:47,411
+把他们介绍给你
+introduce you to the pair of them.
+
+799
+00:47:55,580 --> 00:47:58,875
+华生 去Pinchin巷3号
+<i>Watson, go to 3</i> <i>Pinchin Lane, London</i>
+
+800
+00:47:58,913 --> 00:48:00,519
+把Toby带来
+<i>and ask for Toby.</i>
+
+801
+00:48:00,556 --> 00:48:02,229
+我宁愿要Toby的帮忙
+<i>I'd rather have</i> <i>Toby's help</i>
+
+802
+00:48:02,267 --> 00:48:04,689
+比全伦敦的警察都得力
+<i>than that of the whole</i> <i>detective force of London.</i>
+
+803
+00:48:44,214 --> 00:48:45,881
+Toby先生?
+Mr. Toby?
+
+804
+00:48:49,395 --> 00:48:50,691
+Toby先生?
+Mr. Toby?
+
+805
+00:48:51,189 --> 00:48:53,135
+-Toby先生? -滚开
+Mr. Toby?
+
+806
+00:48:53,173 --> 00:48:56,205
+你这醉鬼流浪汉
+Get out of it.
+
+807
+00:48:54,607 --> 00:48:55,886
+You drunken hooligan.
+
+808
+00:48:56,243 --> 00:48:57,255
+再敲 我就放狗咬你
+Go on get out of it or I'll turn my dogs on you.
+
+809
+00:48:57,292 --> 00:48:58,605
+43条狗
+All 43 of them.
+
+810
+00:48:58,643 --> 00:49:00,522
+我是来找Toby先生的
+I'm looking for Mr. Toby.
+
+811
+00:49:02,006 --> 00:49:03,843
+这袋子里有毒蛇
+I have a viper in this bag,
+
+812
+00:49:03,880 --> 00:49:04,926
+要是你不滚远点
+and I'll tip it out over your 'ead
+
+813
+00:49:04,964 --> 00:49:06,185
+我会把它扔你头上
+if you don't hoof it!
+
+814
+00:49:06,224 --> 00:49:08,304
+我很着急
+It's urgent that I find him.
+
+815
+00:49:08,340 --> 00:49:09,788
+我不想和你多说
+I won't be argued with!
+
+816
+00:49:09,826 --> 00:49:14,449
+-1  2  3 要扔了... -我从福尔摩斯先生那里来
+1 , 2, 3 and down comes the viper.
+
+817
+00:49:14,487 --> 00:49:17,427
+是夏洛克・福尔摩斯先生派来的
+I've come from Mr. Holmes.
+
+818
+00:49:15,164 --> 00:49:18,080
+I've come from Mr. Sherlock Holmes.
+
+819
+00:49:17,464 --> 00:49:27,656
+夏洛克 福尔摩斯先生
+
+820
+00:49:24,451 --> 00:49:27,783
+Mr. Sherlock Holmes
+
+821
+00:49:27,693 --> 00:49:29,740
+谁会想到呢?
+well who'd of thought it?
+
+822
+00:49:31,293 --> 00:49:32,744
+欢迎你
+Awe here you are.
+
+823
+00:49:36,075 --> 00:49:39,137
+夏洛克・福尔摩斯先生 怎么不早说 进来!
+Mr. Sherlock Holmes why didn't you say so,
+
+824
+00:49:38,885 --> 00:49:42,596
+come in.
+
+825
+00:49:42,712 --> 00:49:45,107
+[inaudible].
+
+826
+00:49:45,925 --> 00:49:47,362
+它很调皮
+Oh yes he does now Naughty.
+
+827
+00:49:47,476 --> 00:49:48,934
+别咬他
+Oh please don't you bite the gentleman
+
+828
+00:49:49,042 --> 00:49:51,776
+他是夏洛克・福尔摩斯先生的朋友
+cause this gentleman is a friend
+
+829
+00:49:52,233 --> 00:49:54,036
+夏洛克・福尔摩斯先生的朋友
+of Mr. Sherlock Holmes
+
+830
+00:49:54,073 --> 00:49:55,816
+就是我的朋友
+and any friend of Mr. Sherlock Holmes
+
+831
+00:49:56,260 --> 00:49:57,418
+别介意
+is a friend of mine.
+
+832
+00:49:57,454 --> 00:49:59,710
+他只是向你友好地打招呼
+Don't mind him.
+
+833
+00:49:57,947 --> 00:49:59,962
+He'll just give you a nice friendly squeeze.
+
+834
+00:49:59,747 --> 00:50:00,868
+我把它放在屋里
+I've give him the run of the room
+
+835
+00:50:00,905 --> 00:50:03,911
+是让他吃甲虫的
+because he keeps down the beetles something beautiful.
+
+836
+00:50:04,962 --> 00:50:08,521
+你说夏洛克・福尔摩斯先生要什么
+Now what did you say
+
+837
+00:50:08,559 --> 00:50:09,738
+Toby
+Mr. Sherlock Holmes wanted?
+
+838
+00:50:09,775 --> 00:50:10,876
+Toby?
+Toby.
+
+839
+00:50:10,913 --> 00:50:11,900
+对 Toby
+Toby?
+
+840
+00:50:11,938 --> 00:50:14,086
+Toby在左边的第7个笼子里
+Yes Toby.
+
+841
+00:50:12,452 --> 00:50:13,660
+Awe well Toby's No. 7
+
+842
+00:50:14,123 --> 00:50:15,160
+你把这个给他
+there along on the left.
+
+843
+00:50:15,198 --> 00:50:16,863
+它就会和你走了
+Here you give him these
+
+844
+00:50:16,900 --> 00:50:19,196
+就像只绵羊
+and Toby will go along with you
+
+845
+00:50:17,564 --> 00:50:19,295
+as quiet as a lamb.
+
+846
+00:50:19,233 --> 00:50:20,816
+Toby 起来
+Hey Toby wake up come on.
+
+847
+00:50:20,854 --> 00:50:21,567
+有工作了
+There's work for you to do.
+
+848
+00:50:21,603 --> 00:50:23,217
+有人来看你了
+A gentleman's come here to see you.
+
+849
+00:50:24,908 --> 00:50:26,211
+Toby 来
+Toby come on.
+
+850
+00:50:26,460 --> 00:50:30,638
+来 来 Toby
+Come on love.
+
+851
+00:50:49,849 --> 00:50:52,033
+来 Toby
+Come on Toby.
+
+852
+00:50:58,116 --> 00:50:59,829
+华生!
+Watson?
+
+853
+00:51:02,261 --> 00:51:04,149
+没事了 警长 是福尔摩斯先生
+It's all right officer it's Mr. Holmes.
+
+854
+00:51:05,244 --> 00:51:06,515
+停到边上
+Coach around.
+
+855
+00:51:06,903 --> 00:51:08,282
+走 Toby
+Come on Toby.
+
+856
+00:51:24,469 --> 00:51:26,866
+很好 你把Toby带来了
+Well done you've got Toby.
+
+857
+00:51:31,789 --> 00:51:33,767
+从伦敦回来了
+Here comes London.
+
+858
+00:51:33,806 --> 00:51:35,169
+我马上下去
+I'm coming down.
+
+859
+00:51:57,699 --> 00:51:59,790
+福尔摩斯!
+Holmes!
+
+860
+00:52:14,330 --> 00:52:16,273
+Ah,
+
+861
+00:52:18,264 --> 00:52:19,767
+看这个 华生
+look at these Watson.
+
+862
+00:52:21,249 --> 00:52:22,851
+我在排水沟里发现了这些
+I found them in the gutter.
+
+863
+00:52:22,888 --> 00:52:25,394
+谢谢你 Bernstone夫人
+Oh thank you Mrs. Bernstone.
+
+864
+00:52:27,541 --> 00:52:29,436
+你闻到木榴油的味儿了吗?
+Do you smell the creosote?
+
+865
+00:52:30,227 --> 00:52:32,739
+Athelney Jones不仅逮捕了Thaddeus
+Athelney Jones arrested not only Thaddeus
+
+866
+00:52:33,657 --> 00:52:35,748
+也逮捕了守门人
+but also the gatekeeper,
+
+867
+00:52:35,787 --> 00:52:36,992
+管家
+the gamekeeper,
+
+868
+00:52:37,029 --> 00:52:38,285
+还有两个印度佣人
+2 Indian servants.
+
+869
+00:52:38,323 --> 00:52:39,653
+我很幸运逃过一劫
+I was lucky to escape myself.
+
+870
+00:52:39,690 --> 00:52:42,255
+华生 你能长途跋涉吗?
+Watson are you on for a bit of a trudge?
+
+871
+00:52:42,794 --> 00:52:43,897
+当然
+Of course.
+
+872
+00:52:50,331 --> 00:52:52,951
+你和Toby比一比 顺着他们来的路
+You and Toby game as they come
+
+873
+00:52:52,987 --> 00:52:54,991
+它嗅觉很好使
+when it's a good holding scent.
+
+874
+00:52:55,030 --> 00:52:56,727
+找到他们
+Now find him.
+
+875
+00:52:56,764 --> 00:52:57,594
+去 Toby
+Go Toby.
+
+876
+00:53:01,712 --> 00:53:03,329
+走吧 Toby 快走
+Seek Toby seek.
+
+877
+00:53:16,074 --> 00:53:18,116
+稳住 华生 稳住
+Steady Watson steady.
+
+878
+00:53:30,881 --> 00:53:32,326
+幸好昨晚雨停了
+Lucky the rain has stopped.
+
+879
+00:53:33,213 --> 00:53:34,828
+虽然隔了挺久
+The scent will lie on the road
+
+880
+00:53:34,866 --> 00:53:36,538
+但气味儿还留在路上
+in spite of their start.
+
+881
+00:53:42,503 --> 00:53:44,840
+早上的空气真新鲜
+Ah, how sweet the morning air is.
+
+882
+00:53:48,304 --> 00:53:49,796
+带手枪了吗 华生?
+Have you brought your pistol Watson?
+
+883
+00:53:49,834 --> 00:53:51,388
+没有 我带着手杖
+No I have my stick.
+
+884
+00:53:51,425 --> 00:53:53,014
+要是遇上他们
+In the event were led to the men
+
+885
+00:53:53,052 --> 00:53:54,547
+带假腿的就留给你了
+the peg leg I'll leave to you.
+
+886
+00:53:54,584 --> 00:53:56,855
+那个同伙我来应付
+Leave the ally to me come.
+
+887
+00:54:09,852 --> 00:54:11,873
+这狗是怎么了?
+What the deuce is the matter with the dog?
+
+888
+00:54:27,645 --> 00:54:29,582
+他们坐船走了
+They took a boat
+
+889
+00:54:30,071 --> 00:54:32,984
+至少没有坐马车或是氢气球
+except they didn't take a cab or a balloon.
+
+890
+00:54:33,021 --> 00:54:35,517
+他们一定是在码头会面
+They must have been met at the waters edge.
+
+891
+00:54:40,647 --> 00:54:41,672
+Toby!
+Toby!
+
+892
+00:54:42,573 --> 00:54:43,961
+Toby!
+Toby!
+
+893
+00:54:45,272 --> 00:54:47,066
+Toby!
+Toby!
+
+894
+00:54:57,426 --> 00:54:58,772
+Toby!
+Toby!
+
+895
+00:55:00,351 --> 00:55:01,968
+Toby!
+Toby!
+
+896
+00:55:09,889 --> 00:55:12,959
+毫无差错的Toby也出了错
+He's lost his character to infallibility.
+
+897
+00:55:12,997 --> 00:55:13,818
+不 不 不
+No, no, no.
+
+898
+00:55:13,855 --> 00:55:15,193
+这不怪Toby
+Toby's not to blame.
+
+899
+00:55:17,800 --> 00:55:21,288
+这些桶里装满了木榴油
+Those barrels are filled with creosote.
+
+900
+00:55:21,325 --> 00:55:23,356
+气味儿把它引到这儿来了
+The scent was divided.
+
+901
+00:55:23,394 --> 00:55:25,424
+这和打猎一样 华生
+So like good huntsmen Watson.
+
+902
+00:55:25,461 --> 00:55:27,057
+我们得带着狗再走一遍
+We must cast the dog again
+
+903
+00:55:27,095 --> 00:55:28,641
+找到正确的路
+and find the true one.
+
+904
+00:55:28,678 --> 00:55:30,601
+Toby
+Toby
+
+905
+00:55:31,631 --> 00:55:33,192
+Toby
+Toby
+
+906
+00:55:48,291 --> 00:55:49,770
+我们今天不走运
+We're out of luck.
+
+907
+00:55:49,808 --> 00:55:51,230
+他们从这里坐的船
+They've taken the boat from here.
+
+908
+00:55:53,127 --> 00:55:56,425
+这些人比我想的聪明
+These people are cleverer than I thought.
+
+909
+00:55:56,463 --> 00:56:00,763
+华生 这些人事先有所准备
+Now Watson these people show
+
+910
+00:55:59,512 --> 00:56:02,286
+preconcerted management here.
+
+911
+00:56:06,085 --> 00:56:08,385
+Mordecai Smith (小船出租 可按时或按日计费)
+Mordecai Smith.
+
+912
+00:56:09,644 --> 00:56:12,003
+回来 洗洗脸
+You come back here and get your face washed.
+
+913
+00:56:12,040 --> 00:56:12,886
+Jack?
+Jack?
+
+914
+00:56:12,924 --> 00:56:14,204
+你这小鬼
+Oh you youngin'.
+
+915
+00:56:14,242 --> 00:56:15,548
+你爸爸回来以后
+I'll get your Dad to give you a good spankin'
+
+916
+00:56:15,585 --> 00:56:17,046
+又要打你屁股了
+when he gets back.
+
+917
+00:56:18,657 --> 00:56:22,004
+真是个红脸的小淘气!
+My what a rosy-cheeked young rascal!
+
+918
+00:56:21,745 --> 00:56:23,646
+你想要什么东西吗 Jack?
+Is there anything you'd like Jack?
+
+919
+00:56:23,685 --> 00:56:25,525
+我想要一个先令
+I'd like a shillin'.
+
+920
+00:56:32,800 --> 00:56:34,862
+他真是个好孩子 Smith太太
+A fine young lad you got there, Mrs. Smith.
+
+921
+00:56:34,900 --> 00:56:37,872
+上帝保佑你 他一直是这样
+Lor' bless you, sir, he is that, and forward.
+
+922
+00:56:37,909 --> 00:56:39,646
+我简直管不了他
+He gets a'most too much for me to manage,
+
+923
+00:56:39,683 --> 00:56:43,172
+尤其是他爹不在的时候
+'specially when my man is away days at a time.
+
+924
+00:56:43,210 --> 00:56:44,412
+太不巧了
+Awe it's a pity about that.
+
+925
+00:56:44,449 --> 00:56:46,344
+我还想租只船呢
+I was hoping to hire a boat from him,
+
+926
+00:56:46,382 --> 00:56:47,081
+一只汽艇
+a steam launch.
+
+927
+00:56:47,120 --> 00:56:49,783
+哎呀 先生 他就是坐着那只汽艇走的
+Why, bless you, sir,
+
+928
+00:56:49,820 --> 00:56:53,369
+我一点都不喜欢雇他的那人
+it is in the steam launch that he has gone.
+
+929
+00:56:50,956 --> 00:56:53,066
+Aye' didn't like the bloke who did the hire
+
+930
+00:56:53,406 --> 00:56:55,886
+很粗鲁 装着条假腿
+not at all, very rough, with a wooden leg,
+
+931
+00:56:55,924 --> 00:56:58,492
+半夜来敲我们的窗户
+come tappin' at our window
+
+932
+00:56:58,530 --> 00:57:01,618
+然后没和我交代一句就走了
+in the middle of the night
+
+933
+00:56:59,235 --> 00:57:02,151
+and away they went without a word to me.
+
+934
+00:57:01,656 --> 00:57:06,388
+那个装着木腿的是一个人吗?
+Now this man with the wooden leg, was he alone?
+
+935
+00:57:06,893 --> 00:57:09,851
+也许他带着一只动物
+Think he might have had an animal with him.
+
+936
+00:57:09,888 --> 00:57:12,030
+厄...一只狗?
+A dog?
+
+937
+00:57:12,274 --> 00:57:13,943
+不像是狗 先生
+Didn't look like no dog to me sir.
+
+938
+00:57:13,981 --> 00:57:16,774
+更像是在动物园能找到的动物
+More like something that you find at the zoo.
+
+939
+00:57:18,281 --> 00:57:20,177
+和我说说汽艇的事
+So tell me about the launch.
+
+940
+00:57:20,215 --> 00:57:21,878
+绿底上有黄线的旧船
+It's the old green bird with the yellow line.
+
+941
+00:57:21,915 --> 00:57:22,795
+不 不
+Oh no, no, sir.
+
+942
+00:57:22,832 --> 00:57:24,772
+"曙光"号新刷的油漆
+The Aurora has just been fresh painted
+
+943
+00:57:24,809 --> 00:57:26,230
+黑底上有两条红线
+black with a gold trim.
+
+944
+00:57:26,268 --> 00:57:28,865
+啊 没错 白色的烟囱
+Awe yes, with a white funnel.
+
+945
+00:57:28,902 --> 00:57:30,962
+不  黑色的烟囱
+No sir black funnel.
+
+946
+00:57:31,437 --> 00:57:33,221
+当然
+Awe yes of course.
+
+947
+00:57:33,258 --> 00:57:34,158
+谢了  Smith夫人
+Well thank you Mrs. Smith.
+
+948
+00:57:34,196 --> 00:57:35,479
+再见  Jack
+Goodbye Jack.
+
+949
+00:57:35,516 --> 00:57:36,797
+再见
+Bye.
+
+950
+00:57:44,522 --> 00:57:46,198
+跟这种人说话关键的就是
+The main thing with people of that sort
+
+951
+00:57:46,235 --> 00:57:49,616
+不要让他们知道 他们的话与你有关
+is never to let them think that information
+
+952
+00:57:49,653 --> 00:57:53,322
+否则的话 他们马上就会三缄其口
+is of the slightest importance to you.
+
+953
+00:57:50,191 --> 00:57:52,206
+If you do they will instantly
+
+954
+00:57:52,313 --> 00:57:56,415
+shut up like an oyster.
+
+955
+00:57:54,057 --> 00:57:57,675
+我们的线索看上去清楚了
+
+956
+00:57:57,713 --> 00:57:59,348
+你会怎么办呢
+Well our course seems pretty clear now.
+
+957
+00:57:59,384 --> 00:58:01,592
+追踪"曙光"号
+What would you do, then?
+
+958
+00:58:01,630 --> 00:58:06,478
+查找这里和Greenwich之间的 每一个码头和卸货地点要花好几天时间
+Get on the track of the Aurora.
+
+959
+00:58:02,575 --> 00:58:04,306
+It would take days if not months
+
+960
+00:58:04,417 --> 00:58:05,696
+to search every wharf and landing place
+
+961
+00:58:06,690 --> 00:58:08,011
+你打算怎么办?
+on the harbor between here and Greenwich.
+
+962
+00:58:08,799 --> 00:58:11,545
+既然嫌疑人以为 我们找不到他们
+What do you propose?
+
+963
+00:58:09,565 --> 00:58:12,518
+As our query has no reason to fear that he's being hunted
+
+964
+00:58:12,026 --> 00:58:13,739
+我想先去洗个澡
+I propose first of all a bath.
+
+965
+00:58:14,276 --> 00:58:15,160
+刮刮脸
+And shave.
+
+966
+00:58:15,198 --> 00:58:18,428
+大吃一顿 再睡上一觉
+And then a good meal and then some hours of sleep.
+
+967
+00:58:18,466 --> 00:58:20,312
+同时
+At the same time
+
+968
+00:58:20,350 --> 00:58:24,256
+动员贝克街上的侦探小分队
+mobilizing the Baker Street division
+
+969
+00:58:22,992 --> 00:58:24,794
+of the detective police force.
+
+970
+00:58:27,150 --> 00:58:30,047
+换句话说 动用非常手段
+In other words the irregulars.
+
+971
+00:58:43,666 --> 00:58:46,293
+这个精力充沛的Jones和这个平庸的记者
+Awe the energetic Jones the ubiquitous reporter
+
+972
+00:58:46,330 --> 00:58:47,610
+把这个案子给了结了
+fixed up the case between them.
+
+973
+00:58:47,648 --> 00:58:50,587
+华生 看这个
+Watson look at this.
+
+974
+00:58:53,090 --> 00:58:54,107
+这里
+Here.
+
+975
+00:58:59,538 --> 00:59:02,002
+"训练有素 经验丰富的Jones
+Mr. Jones' trained and experienced faculties
+
+976
+00:59:02,040 --> 00:59:06,615
+"立即着手调查案犯
+were at once directed towards the detection of the criminals.
+
+977
+00:59:06,653 --> 00:59:08,999
+"他知识丰富
+His well-known technical knowledge
+
+978
+00:59:09,035 --> 00:59:12,295
+"观察缜密细致..."
+and powers of minute observation...
+
+979
+00:59:12,822 --> 00:59:14,341
+还有更好的呢
+well it gets better still
+
+980
+00:59:14,897 --> 00:59:18,379
+"警署方面及时负责的处理
+the prompt and energetic action
+
+981
+00:59:18,417 --> 00:59:24,533
+"展现了把警备分散各地的好处"
+of the officers of the law
+
+982
+00:59:19,199 --> 00:59:20,787
+shows the great advantage for the
+
+983
+00:59:20,904 --> 00:59:23,857
+single vigorous and masterful mind.
+
+984
+00:59:24,570 --> 00:59:25,791
+太伟大了?
+Isn't it gorgeous?
+
+985
+00:59:25,829 --> 00:59:28,099
+我们也险些被逮捕
+We had a close shave of being arrested ourselves.
+
+986
+00:59:28,137 --> 00:59:29,743
+要是他再来个灵机一动
+I wouldn't answer for our safety now
+
+987
+00:59:29,779 --> 00:59:31,812
+我们也可能被认作凶手
+if he has another of his attacks of energy.
+
+988
+00:59:40,889 --> 00:59:43,222
+福尔摩斯先生没说起过此事
+Mr Holmes said nothing of this.
+
+989
+00:59:46,467 --> 00:59:47,881
+你们不能进去
+You can't possibly go in there.
+
+990
+00:59:47,920 --> 00:59:49,978
+抱歉 福尔摩斯先生
+I'm sorry Mr. Holmes
+
+991
+00:59:50,978 --> 00:59:52,759
+没事了 Hudson夫人
+It's all right Mrs. Hudson,
+
+992
+00:59:52,796 --> 00:59:54,729
+他们是我的客人
+they are my guests.
+
+993
+00:59:58,939 --> 01:00:01,005
+听着 帽子摘了
+Look, hats off.
+
+994
+01:00:01,043 --> 01:00:02,415
+我收到您的消息了
+I've got your message.
+
+995
+01:00:02,453 --> 01:00:04,124
+就带他们来了
+I brought 'em on sharp.
+
+996
+01:00:04,161 --> 01:00:07,740
+车费三先令六便士
+3 bob and a tenner for the tickets.
+
+997
+01:00:11,975 --> 01:00:13,899
+Wiggins 以后有事
+Now Wiggins, in future
+
+998
+01:00:13,937 --> 01:00:16,547
+他们就向你汇报 你再告诉我
+they can report to you and you to me.
+
+999
+01:00:16,585 --> 01:00:19,068
+我这屋子容不下这么多人
+I cannot have the house invaded in this way.
+
+1000
+01:00:19,105 --> 01:00:20,683
+别动
+Oye stop that.
+
+1001
+01:00:22,814 --> 01:00:24,035
+抱歉
+Sorry.
+
+1002
+01:00:25,927 --> 01:00:29,826
+我要你们找一艘叫"曙光"号的汽艇
+Now I want you to find the steamboat Aurora.
+
+1003
+01:00:29,863 --> 01:00:31,082
+"曙光"号
+Aurora.
+
+1004
+01:00:31,120 --> 01:00:34,194
+是Mordecai Smith家的
+Owner Mordecai Smith,
+
+1005
+01:00:34,748 --> 01:00:36,844
+黑底有金边
+black with gold trim.
+
+1006
+01:00:36,882 --> 01:00:38,162
+从Richmond到Gravesend
+Richmond to Gravesend
+
+1007
+01:00:38,199 --> 01:00:39,620
+在河的两岸查找
+both sides of the river.
+
+1008
+01:00:39,658 --> 01:00:40,848
+好的 先生
+Fine sir.
+
+1009
+01:00:40,885 --> 01:00:42,232
+报酬是多少?
+How much?
+
+1010
+01:00:42,270 --> 01:00:44,141
+老规矩
+Old scale of pay
+
+1011
+01:00:44,178 --> 01:00:46,871
+找到船的孩子多给一个几尼
+a guinea to the boy who finds the boat.
+
+1012
+01:00:47,507 --> 01:00:50,215
+这是预付给你们一天的工钱
+Here is a day in advance.
+
+1013
+01:01:05,920 --> 01:01:07,661
+只要这船还停在水上
+If the launch is above water
+
+1014
+01:01:07,698 --> 01:01:09,616
+这些非正规军就能找到她
+the irregulars will find her.
+
+1015
+01:01:10,133 --> 01:01:13,143
+他们无处不到 一切都逃过他们的眼睛
+They can go everywhere, see everything.
+
+1016
+01:01:16,904 --> 01:01:20,331
+咱们这个问题看来不难解决
+If our man had an easy task
+
+1017
+01:01:21,006 --> 01:01:22,951
+一只腿的人并不多见
+just as ours ought to be.
+
+1018
+01:01:22,989 --> 01:01:25,273
+另一个人也很特殊
+One-legged men are not so common
+
+1019
+01:01:23,688 --> 01:01:25,738
+and this other man must be unique.
+
+1020
+01:01:27,316 --> 01:01:30,157
+安达曼群岛的土著居民
+The aborigines of the Andaman Islands
+
+1021
+01:01:30,194 --> 01:01:31,481
+或许可以称得上是
+may perhaps claim the distinction
+
+1022
+01:01:31,519 --> 01:01:35,400
+世界最矮小的种族了
+of being the smallest race upon this earth.
+
+1023
+01:01:36,121 --> 01:01:39,238
+他们生性凶猛 怪癖 难以交往
+They are a fierce, morose,
+
+1024
+01:01:39,620 --> 01:01:42,031
+但如果得到他们的信任
+and intractable people,
+
+1025
+01:01:40,348 --> 01:01:41,841
+though capable of forming
+
+1026
+01:01:42,068 --> 01:01:45,107
+他们会成为至死不渝的朋友
+the most devoted friendships
+
+1027
+01:01:43,583 --> 01:01:45,942
+when their confidence has once been gained.
+
+1028
+01:01:45,820 --> 01:01:49,901
+对于船只的遇难水手来说 他们永远是个祸害
+They have always been a terror to shipwrecked crews,
+
+1029
+01:01:50,499 --> 01:01:54,058
+往往被他们用绑着石头的木棒击碎脑袋
+braining the survivors with their stone-headed clubs
+
+1030
+01:01:54,095 --> 01:01:56,717
+或是用...
+or shooting them with
+
+1031
+01:01:59,527 --> 01:02:02,043
+用毒箭刺死
+with poisoned arrows.
+
+1032
+01:02:02,774 --> 01:02:05,806
+通常屠杀之后
+These massacres are usually concluded
+
+1033
+01:02:07,496 --> 01:02:10,063
+将人肉作为盛宴
+by a cannibal feast.
+
+1034
+01:02:14,976 --> 01:02:19,147
+这真是一群"和善"的人啊
+Nice, amiable people.
+
+1035
+01:02:35,625 --> 01:02:38,537
+什么时候吃晚饭 福尔摩斯先生?
+And what time would you like for dinner Mr. Holmes?
+
+1036
+01:02:38,575 --> 01:02:40,513
+后天8点半
+Half past eight the day after tomorrow.
+
+1037
+01:02:52,607 --> 01:02:53,791
+你会撑不住的
+You'll wear yourself out old man.
+
+1038
+01:02:53,828 --> 01:02:55,678
+我听见你整晚上都踱来踱去的
+I heard you marching about all night.
+
+1039
+01:02:56,688 --> 01:02:58,629
+你真的需要些休息了
+You really must get some rest.
+
+1040
+01:02:58,667 --> 01:02:59,866
+我睡不着
+I can't sleep.
+
+1041
+01:02:59,903 --> 01:03:02,508
+这个恶魔似的问题一直困扰着我
+This infernal problem is consuming me.
+
+1042
+01:03:02,546 --> 01:03:03,924
+没有消息?
+No news?
+
+1043
+01:03:04,262 --> 01:03:06,721
+没有 什么都没有
+None.
+
+1044
+01:03:06,759 --> 01:03:08,791
+河的两岸都搜过了
+None whatsoever.
+
+1045
+01:03:08,827 --> 01:03:10,422
+Smith夫人也没有他丈夫的消息
+The whole river has been searched from both sides.
+
+1046
+01:03:10,461 --> 01:03:14,750
+其他的问题都解决了
+Mrs. Smith has not heard from her husband,
+
+1047
+01:03:10,783 --> 01:03:12,928
+it's too much.
+
+1048
+01:03:13,043 --> 01:03:15,058
+To be balked by some petty obstacle
+
+1049
+01:03:14,787 --> 01:03:17,035
+就是这个问题一直阻碍着我们
+when all else has been overcome.
+
+1050
+01:03:47,300 --> 01:03:48,542
+看见什么了吗?
+See anything?
+
+1051
+01:03:49,883 --> 01:03:51,510
+什么都没有
+No nothing.
+
+1052
+01:04:22,842 --> 01:04:26,180
+快下船 否则我就要来赶你了!
+Shove off.
+
+1053
+01:04:24,905 --> 01:04:27,999
+Or you'll feel the back of my hand.
+
+1054
+01:04:30,626 --> 01:04:34,340
+"曙光"号
+
+1055
+01:04:42,470 --> 01:04:45,101
+我不想再说一遍了 孩子
+I'm not going to tell you again boy.
+
+1056
+01:05:19,828 --> 01:05:22,286
+多漂亮的一搜小船
+A nice little craft.
+
+1057
+01:05:23,271 --> 01:05:24,613
+是条不错的船
+Aye, she's a good boat this.
+
+1058
+01:05:24,651 --> 01:05:26,955
+我们在这里把它造好的
+We built her right in this yard.
+
+1059
+01:05:26,992 --> 01:05:28,680
+在河里行得最快的船
+Fastest boat on the river.
+
+1060
+01:05:28,717 --> 01:05:30,811
+为什么停进来?
+What she in for?
+
+1061
+01:05:30,850 --> 01:05:32,393
+维修一下方向舵
+Repairs to her rudder.
+
+1062
+01:05:32,430 --> 01:05:33,819
+这是惯例
+That's the order.
+
+1063
+01:05:33,857 --> 01:05:35,826
+在它身上找不到任何差错
+I can't find anything amiss with it.
+
+1064
+01:05:35,863 --> 01:05:40,162
+今晚六点我们的船要出坞了
+I want her in the water
+
+1065
+01:05:38,261 --> 01:05:41,035
+by six o'clock tonight.
+
+1066
+01:05:40,493 --> 01:05:43,965
+加满煤 全速前进
+Fully coaled and steam up.
+
+1067
+01:05:44,002 --> 01:05:45,081
+Smith先生 准备好了
+Right Mr. Smith she'll be ready.
+
+1068
+01:05:45,118 --> 01:05:49,126
+6点要全速前进
+
+1069
+01:05:47,132 --> 01:05:49,633
+Six o'clock sharp, mind,
+
+1070
+01:05:49,164 --> 01:05:53,096
+这两位先生已经等不急了
+for 2 gentlemen that'll not be kept waiting.
+
+1071
+01:05:53,593 --> 01:05:54,705
+好的
+Right.
+
+1072
+01:05:58,715 --> 01:06:01,058
+就是这个诺伍德案 医生
+It's this Norwood case Doctor.
+
+1073
+01:06:01,095 --> 01:06:03,567
+总是有些麻烦困扰着我
+I have a great deal to worry and try me.
+
+1074
+01:06:03,606 --> 01:06:06,143
+这桩案子就是之一
+And this case is a very dark one too.
+
+1075
+01:06:06,962 --> 01:06:07,628
+谢谢
+Thank you.
+
+1076
+01:06:07,666 --> 01:06:10,679
+我很感激福尔摩斯先生的帮助
+I shall be most grateful for Mr. Holmes' help.
+
+1077
+01:06:10,716 --> 01:06:11,987
+你的朋友是个好人
+Your friend is a wonderful man
+
+1078
+01:06:12,025 --> 01:06:13,438
+谁也比不上他
+and not to be beat.
+
+1079
+01:06:15,537 --> 01:06:17,838
+也许你要等很长时间
+Well you maybe in for a long wait.
+
+1080
+01:06:17,876 --> 01:06:20,267
+我不这么想
+Nope I don't think so.
+
+1081
+01:06:21,613 --> 01:06:23,527
+"马上去贝克街
+Go to Baker Street at once.
+
+1082
+01:06:23,564 --> 01:06:25,985
+"要是我没回来 等着我
+If I've not returned, wait for me.
+
+1083
+01:06:26,024 --> 01:06:28,763
+"我已找到Sholto案匪徒的踪迹
+I am close on the track of the Sholto gang.
+
+1084
+01:06:28,799 --> 01:06:30,286
+"要是想看到本案的结局
+Come with us tonight
+
+1085
+01:06:30,324 --> 01:06:31,437
+"今晚和我们同去"
+if you want to be in at the kill.
+
+1086
+01:06:31,473 --> 01:06:36,516
+不错 他又找到线索了
+Good.
+
+1087
+01:06:33,566 --> 01:06:36,826
+So he's on the scent again?
+
+1088
+01:06:36,555 --> 01:06:39,283
+之前他也查错了方向?
+He's been at fault too has he?
+
+1089
+01:06:39,320 --> 01:06:42,611
+我们最好的侦探专家 有时也难免被人甩了
+Even the best of us are thrown off sometimes.
+
+1090
+01:06:48,168 --> 01:06:50,470
+-什么事? -夏洛克 福尔摩斯?
+Yes?
+
+1091
+01:06:50,507 --> 01:06:53,341
+-怎么了? -你是夏洛克・福尔摩斯先生?
+Sherlock Holmes?
+
+1092
+01:06:51,062 --> 01:06:51,677
+What is it?
+
+1093
+01:06:51,791 --> 01:06:53,901
+Are you Mr. Sherlock Holmes?
+
+1094
+01:06:53,379 --> 01:06:55,606
+不 但是我可以代表他
+No but I'm acting for him.
+
+1095
+01:06:55,890 --> 01:06:58,427
+我是为这个到这里来
+I've come about this right here.
+
+1096
+01:06:59,765 --> 01:07:01,987
+要是你有什么事 你可以和我说
+If you have any information
+
+1097
+01:07:02,751 --> 01:07:07,231
+-这个酬金... -是关于汽艇"曙光"号的吗?
+you may give to me.
+
+1098
+01:07:03,444 --> 01:07:04,758
+There's a reward.
+
+1099
+01:07:04,870 --> 01:07:07,786
+Is it about the steam launch, Aurora?
+
+1100
+01:07:07,269 --> 01:07:09,246
+我只跟夏洛克・福尔摩斯先生说
+I'm telling no one but Mr. Sherlock Holmes.
+
+1101
+01:07:09,283 --> 01:07:11,421
+别走 进来
+No, no; come inside.
+
+1102
+01:07:14,308 --> 01:07:16,728
+我是个警官
+I'm a police officer.
+
+1103
+01:07:17,404 --> 01:07:18,579
+你看上去就像
+You look like one.
+
+1104
+01:07:18,617 --> 01:07:20,045
+我们会补偿你的
+No you will be recompensated
+
+1105
+01:07:20,082 --> 01:07:21,194
+作为你时间的损失
+for your loss of time.
+
+1106
+01:07:21,231 --> 01:07:23,155
+不会等太久的 坐下
+You will not have long to wait.
+
+1107
+01:07:23,652 --> 01:07:25,939
+Sit down.
+
+1108
+01:07:25,323 --> 01:07:26,931
+要雪茄吗 Jones先生?
+Cigar Mr. Jones?
+
+1109
+01:07:26,968 --> 01:07:28,481
+谢谢
+Oh, thank you for you very much.
+
+1110
+01:07:35,493 --> 01:07:36,935
+我说 医生
+As I was saying Doctor,
+
+1111
+01:07:36,972 --> 01:07:38,695
+我认为你的朋友
+I consider your friend
+
+1112
+01:07:38,731 --> 01:07:41,971
+夏洛克・福尔摩斯先生 是一个不会被打败的人
+Mr. Sherlock Holmes is a man not to be beat.
+
+1113
+01:07:42,342 --> 01:07:45,006
+他本可以成为最有前途的警官
+He would have made
+
+1114
+01:07:45,045 --> 01:07:46,820
+这话我可以当着任何人讲
+the most promising police officer.
+
+1115
+01:07:46,856 --> 01:07:49,653
+只要稍微循规蹈矩一点
+I don't care who knows it.
+
+1116
+01:07:47,270 --> 01:07:49,938
+With a little more discipline
+
+1117
+01:07:49,690 --> 01:07:51,885
+别死抱着理论不放
+and a lot less theory.
+
+1118
+01:07:51,923 --> 01:07:53,009
+谢谢
+Thank you.
+
+1119
+01:07:53,046 --> 01:07:55,431
+你或许可以给我提供机会
+You might offer me one.
+
+1120
+01:08:00,519 --> 01:08:03,023
+你这坏蛋
+Oh, you rogue
+
+1121
+01:08:03,061 --> 01:08:05,242
+你可以去做演员了
+you would have made an actor
+
+1122
+01:08:05,279 --> 01:08:06,368
+出色的演员
+and a rare one.
+
+1123
+01:08:06,405 --> 01:08:09,398
+咳嗽声惟妙惟肖
+You had the proper workhouse cough,
+
+1124
+01:08:09,435 --> 01:08:11,123
+两条弱不禁风的腿
+and those weak legs of yours
+
+1125
+01:08:11,161 --> 01:08:12,450
+上台表演能挣10英镑了
+there worth 1 0 pounds each.
+
+1126
+01:08:12,487 --> 01:08:15,100
+我能胜任警官的职位 您太过奖了
+A police officer, I'm flattered.
+
+1127
+01:08:15,139 --> 01:08:17,802
+Jones 我要一只警用汽艇
+Jones I shall need a police launch
+
+1128
+01:08:17,840 --> 01:08:19,320
+在威斯敏斯特待命
+at the Westminster steps.
+
+1129
+01:08:19,357 --> 01:08:20,320
+最快的那种
+The fastest you have.
+
+1130
+01:08:20,358 --> 01:08:22,288
+还有两位健壮的警察  你  我
+2 stout men, yourself, myself,
+
+1131
+01:08:22,326 --> 01:08:24,222
+还有华生 都要有武器
+Watson all of us armed.
+
+1132
+01:08:24,260 --> 01:08:25,092
+这容易安排
+That is easily arranged.
+
+1133
+01:08:25,129 --> 01:08:27,263
+我给当地警局打电话
+I will telephone the local station.
+
+1134
+01:08:37,537 --> 01:08:39,217
+到伦敦塔的时候
+When we get to the tower
+
+1135
+01:08:39,253 --> 01:08:41,963
+把船停在Jacobson船坞的对面
+we'll stop opposite of Jacobson's Yard.
+
+1136
+01:08:53,845 --> 01:08:55,576
+你是怎么找到"曙光"号的?
+How did you find the Aurora then?
+
+1137
+01:08:55,613 --> 01:08:58,168
+我有理由相信汽艇就在不远处
+Well I have reasons that the launch couldn't be
+
+1138
+01:08:58,205 --> 01:08:59,353
+虽然我们看不见它
+far often despite of its invisibility.
+
+1139
+01:08:59,391 --> 01:09:02,363
+所以 先生们 它会在哪里?
+So gentlemen, where could it be?
+
+1140
+01:09:03,005 --> 01:09:05,248
+我猜肯定不在水上
+Well out of the water I suppose.
+
+1141
+01:09:05,284 --> 01:09:07,231
+在船坞里小做修整
+In a repair or boat builders yard.
+
+1142
+01:09:07,268 --> 01:09:09,005
+非常正确
+Exactly.
+
+1143
+01:09:30,641 --> 01:09:32,718
+一个孩子正在那里等着
+One of my boys is waiting by the yard
+
+1144
+01:09:32,754 --> 01:09:34,084
+他会给我们信号
+to give us the signal.
+
+1145
+01:09:34,122 --> 01:09:36,275
+你的计划非常周密 福尔摩斯先生
+You planned it all very neatly Mr. Holmes
+
+1146
+01:09:36,312 --> 01:09:38,944
+不过要由我处理这件事
+but if the affair were in my hands
+
+1147
+01:09:38,982 --> 01:09:41,144
+我一定派出一对能干的警察
+I should have a body of police in the yard
+
+1148
+01:09:41,181 --> 01:09:43,077
+等他们来了把他们都逮捕了
+and arrested them when they came down.
+
+1149
+01:09:43,115 --> 01:09:44,496
+那绝不可能
+Which would have been never.
+
+1150
+01:09:44,534 --> 01:09:48,065
+那个叫Small的人很精明
+This man Small is a pretty shrewd fellow.
+
+1151
+01:09:48,507 --> 01:09:49,772
+如有可疑情况
+Anything suspicious
+
+1152
+01:09:49,810 --> 01:09:52,417
+他可能会再躲一个星期
+and he would lie snug for another week.
+
+1153
+01:09:53,976 --> 01:09:55,067
+先生?
+Sir?
+
+1154
+01:09:55,104 --> 01:09:57,111
+我们已经到了Jacobson船坞的对面
+We're opposite Jacobson's Yard now,
+
+1155
+01:09:57,149 --> 01:09:58,831
+要靠近一些吗
+shall we move downstream a little.
+
+1156
+01:09:58,868 --> 01:10:02,724
+不用 雾气会掩护我们
+No this mist may be of an advantage to us.
+
+1157
+01:10:02,761 --> 01:10:05,579
+我们下去等着
+We must lie low and wait.
+
+1158
+01:10:33,829 --> 01:10:35,051
+你的男孩发信号了
+Your boy's signaling,
+
+1159
+01:10:35,089 --> 01:10:37,233
+我看得很清楚
+I can see it plainly.
+
+1160
+01:10:54,636 --> 01:10:56,447
+那就是"曙光"号
+There's the Aurora
+
+1161
+01:10:56,485 --> 01:10:58,482
+像艘鬼船
+going like the devil
+
+1162
+01:10:58,659 --> 01:11:00,308
+她太快了
+She's very fast.
+
+1163
+01:11:00,345 --> 01:11:01,813
+我猜我们追不上她
+I doubt if we shall catch her.
+
+1164
+01:11:01,850 --> 01:11:03,421
+我们必须追上她!
+We must catch her!
+
+1165
+01:11:03,459 --> 01:11:05,481
+火夫 赶紧加煤!
+Pile it on, stokers!
+
+1166
+01:11:06,013 --> 01:11:07,288
+要是我们追不上她
+I'll never forgive myself
+
+1167
+01:11:07,325 --> 01:11:09,454
+我永远不能原谅自己
+if she proves to have some use.
+
+1168
+01:11:15,270 --> 01:11:17,071
+再快点 再快点
+Faster, faster.
+
+1169
+01:11:17,071 --> 01:11:19,746
+这已经是我们的极限了
+This is the fast boat they've got.
+
+1170
+01:11:47,091 --> 01:11:49,402
+快加煤 火夫!
+Pile on the coals.
+
+1171
+01:11:50,103 --> 01:11:52,045
+一定要追上
+Stoke her.
+
+1172
+01:11:52,083 --> 01:11:53,920
+就算把船烧了
+We must have her.
+
+1173
+01:11:52,802 --> 01:11:54,912
+Even if we burn the boat.
+
+1174
+01:12:26,815 --> 01:12:28,468
+灯照别太晃
+Keep the light steady.
+
+1175
+01:12:28,506 --> 01:12:30,719
+我几乎看清他的同伙了
+I can almost make out his companion.
+
+1176
+01:13:21,677 --> 01:13:23,125
+我们快追上了
+We're gaining.
+
+1177
+01:13:38,855 --> 01:13:40,195
+火夫 赶紧加煤!
+Pile it on, stoker.
+
+1178
+01:13:40,234 --> 01:13:42,458
+全速前进
+Give it all the steam we've got.
+
+1179
+01:13:44,095 --> 01:13:46,448
+我们赶上了一些
+I think we gained a little.
+
+1180
+01:13:47,465 --> 01:13:50,275
+我一定以及肯定
+I'm sure of it.
+
+1181
+01:13:49,706 --> 01:13:51,020
+Absolutely.
+
+1182
+01:14:02,891 --> 01:14:05,224
+把灯向左边照照
+Point the light more to the left.
+
+1183
+01:14:13,230 --> 01:14:14,971
+稳住
+Keep it steady.
+
+1184
+01:14:54,169 --> 01:14:55,895
+那艘船怎么了?
+What's happening on that boat?
+
+1185
+01:14:59,254 --> 01:15:01,388
+他们自己打起来了
+They're fighting among themselves.
+
+1186
+01:15:01,426 --> 01:15:02,380
+Tonga
+Tonga,
+
+1187
+01:15:02,417 --> 01:15:03,972
+Tonga
+Tonga.
+
+1188
+01:15:08,522 --> 01:15:10,076
+那个木腿人
+The peg leg.
+
+1189
+01:15:10,226 --> 01:15:11,512
+停船!
+Stop!
+
+1190
+01:15:11,926 --> 01:15:13,329
+我们是警察!
+Police!
+
+1191
+01:15:13,684 --> 01:15:15,054
+快停下!
+Cease you.
+
+1192
+01:15:15,505 --> 01:15:18,921
+你们下地狱吧!
+You can burn in hell
+
+1193
+01:15:18,960 --> 01:15:21,557
+停下!
+Stop!
+
+1194
+01:15:21,593 --> 01:15:25,843
+四签名
+The sign of four
+
+1195
+01:15:26,763 --> 01:15:29,357
+华生 看
+Watson look.
+
+1196
+01:15:44,330 --> 01:15:46,922
+多可怕的脸
+What a face.
+
+1197
+01:17:59,078 --> 01:18:00,368
+等等
+Wait
+
+1198
+01:18:02,180 --> 01:18:03,570
+等等
+Wait.
+
+1199
+01:18:04,191 --> 01:18:06,347
+等他筋疲力尽了再说
+Let him wear himself out.
+
+1200
+01:18:57,161 --> 01:18:59,661
+Jonathan Small
+So Jonathan Small.
+
+1201
+01:19:00,886 --> 01:19:02,838
+抱歉 事情变成这样
+I am sorry it's come to this.
+
+1202
+01:19:02,875 --> 01:19:06,053
+我也一样
+And so am I sir.
+
+1203
+01:19:07,296 --> 01:19:09,338
+但是我发誓 先生们
+But I give you my word gentlemen
+
+1204
+01:19:09,884 --> 01:19:12,364
+我没有对小Sholto先生下手
+I never laid hands on young Mr. Sholto.
+
+1205
+01:19:12,403 --> 01:19:14,087
+你当然没有
+Of course you didn't.
+
+1206
+01:19:14,123 --> 01:19:15,883
+你那个小朋友杀了他
+Your little friends dart killed him
+
+1207
+01:19:15,920 --> 01:19:18,243
+就在你还在爬绳子的时候
+while he was still climbing the rope.
+
+1208
+01:19:25,891 --> 01:19:28,530
+你说这话就好像你亲眼见过一样
+Well you speak as if you were there sir.
+
+1209
+01:19:41,346 --> 01:19:44,461
+要是那是老Sholto少校的话
+Well if it had been old Major Sholto
+
+1210
+01:19:44,499 --> 01:19:49,141
+我绝对会毫不手软地掐死他
+I would have swung for him with a light heart.
+
+1211
+01:19:49,636 --> 01:19:52,496
+现在竟然因为小Sholto而入狱
+But to be lagged over this young Sholto,
+
+1212
+01:19:55,127 --> 01:19:56,775
+真令人心痛
+cursed heart.
+
+1213
+01:19:57,172 --> 01:19:59,978
+如果你能向我句句属实
+You must make a clean breast of it
+
+1214
+01:20:00,321 --> 01:20:02,364
+我还能帮你的忙
+if you do I may be of use to you.
+
+1215
+01:20:04,186 --> 01:20:06,567
+真像是一家人团圆
+Quite a family party.
+
+1216
+01:20:07,927 --> 01:20:10,061
+我想这瓶酒该留给我自己
+I reckon I'll pull that flask myself.
+
+1217
+01:20:13,412 --> 01:20:17,539
+好了 你准备去哪儿 Small?
+Now, where are you going Small?
+
+1218
+01:20:18,082 --> 01:20:20,830
+Gravesend的Esmeralda
+The Esmeralda, at Gravesend,
+
+1219
+01:20:20,868 --> 01:20:22,853
+转道去巴西
+outward bound for the Brazils.
+
+1220
+01:20:22,890 --> 01:20:24,323
+几乎就成功了
+And nearly made it.
+
+1221
+01:20:24,362 --> 01:20:26,430
+如果当时还有别人驾驶的话
+Another man at the engines
+
+1222
+01:20:26,467 --> 01:20:28,176
+你们永远都追不上我们
+and you'd never have caught us.
+
+1223
+01:20:30,100 --> 01:20:31,937
+钥匙在哪?
+Where's the key my man?
+
+1224
+01:20:34,015 --> 01:20:36,720
+河底
+At the bottom of the river.
+
+1225
+01:20:38,188 --> 01:20:40,008
+瞧
+Now look here,
+
+1226
+01:20:40,046 --> 01:20:41,842
+今天你给我们带来了不少麻烦 Small
+we've had enough of you tonight Small.
+
+1227
+01:20:41,879 --> 01:20:43,695
+把手铐带进来 我警告你
+Bring the cuffs in men, I'm warning you.
+
+1228
+01:20:43,732 --> 01:20:45,400
+没事了 警官
+Its alright constable
+
+1229
+01:20:45,899 --> 01:20:47,548
+不必拿手铐来了
+When we leave the stacks.
+
+1230
+01:20:47,957 --> 01:20:50,354
+我建议我们回贝克街
+I suggest that we go back to Baker Street.
+
+1231
+01:20:50,391 --> 01:20:52,804
+我想Morstan小姐在那
+Well I think Miss Morstan should be there.
+
+1232
+01:20:52,841 --> 01:20:56,156
+这不合乎规矩 福尔摩斯先生
+Well that's not the regulation way Mr. Holmes.
+
+1233
+01:20:56,193 --> 01:20:59,221
+至少我可以请你喝上一杯
+Well I can at least promise you a nice,
+
+1234
+01:20:59,259 --> 01:21:02,196
+温暖又美味
+warming drink.
+
+1235
+01:21:03,876 --> 01:21:05,548
+很好 各位
+Very well gentlemen.
+
+1236
+01:21:13,252 --> 01:21:14,445
+Morstan小姐
+Well Miss Morstan
+
+1237
+01:21:14,987 --> 01:21:17,094
+我很荣幸能将
+I am pleased and proud
+
+1238
+01:21:17,130 --> 01:21:21,266
+这个贼绳之以法
+to have been able to bring the thief to justice.
+
+1239
+01:21:21,352 --> 01:21:24,270
+正义!
+Justice?
+
+1240
+01:21:24,308 --> 01:21:26,584
+多好听的正义啊
+The pretty justice.
+
+1241
+01:21:26,963 --> 01:21:30,050
+这财宝不是我们的 还能属于谁?
+Who's loot is this if it is not ours?
+
+1242
+01:21:30,088 --> 01:21:33,183
+财宝不是他们的 却偏要给他们
+Where is the justice that I should give it up
+
+1243
+01:21:33,221 --> 01:21:34,170
+这就是正义?
+to those who have never owned it?
+
+1244
+01:21:34,208 --> 01:21:35,123
+你忘记了 Small
+You forget Small
+
+1245
+01:21:35,160 --> 01:21:38,104
+他们一无所知
+they know nothing of this matter.
+
+1246
+01:21:38,562 --> 01:21:39,447
+判断不出
+We cannot tell how far justice
+
+1247
+01:21:39,484 --> 01:21:44,165
+正义是否在你一边
+
+1248
+01:21:41,179 --> 01:21:45,670
+may have originally been on your side.
+
+1249
+01:21:49,646 --> 01:21:51,345
+对 先生
+No sir.
+
+1250
+01:21:52,269 --> 01:21:55,577
+您说话还算公道
+You have been fair spoken to me,
+
+1251
+01:21:56,489 --> 01:21:58,043
+虽然说我该感谢你
+though I can say that it's you
+
+1252
+01:21:58,081 --> 01:22:00,768
+给我的双手
+that I have to thank
+
+1253
+01:22:00,806 --> 01:22:04,629
+戴上了手铐
+for these bracelets on my wrists.
+
+1254
+01:22:06,755 --> 01:22:09,633
+可我并不怨恨
+Still I bear no grudge for that.
+
+1255
+01:22:10,449 --> 01:22:11,969
+要是您想听我的故事
+If you want to hear my story
+
+1256
+01:22:12,007 --> 01:22:14,627
+我不会隐瞒
+I have no wish to hold it back.
+
+1257
+01:22:14,665 --> 01:22:16,407
+我所说之言
+And what I say to you is God's truth,
+
+1258
+01:22:16,445 --> 01:22:20,254
+句句都是真话
+
+1259
+01:22:19,178 --> 01:22:21,293
+every word of it.
+
+1260
+01:22:39,471 --> 01:22:41,354
+当我还是个小伙子
+When I was a lad
+
+1261
+01:22:41,803 --> 01:22:43,921
+参军当了兵
+I took the Queen's shilling and was
+
+1262
+01:22:43,958 --> 01:22:47,597
+跟随步兵三团去了印度
+posted out to India with the Third Buff's.
+
+1263
+01:22:51,856 --> 01:22:54,110
+当我在恒河里游泳的时候
+A crocodile snapped this off
+
+1264
+01:22:54,147 --> 01:22:56,926
+一只鳄鱼咬掉了我的腿
+when I was bathing in the Ganges.
+
+1265
+01:23:00,639 --> 01:23:05,763
+那畜生像做外科手术一样 干脆地咬掉了我这只腿
+The sawbones had my stump
+
+1266
+01:23:03,524 --> 01:23:06,721
+in the tar barrel nice and quick.
+
+1267
+01:23:06,134 --> 01:23:08,568
+我那时还年盛体强
+I was young and strong.
+
+1268
+01:23:10,267 --> 01:23:12,263
+我奉命退伍
+We got my discharge and this fellow...
+
+1269
+01:23:12,300 --> 01:23:23,239
+而这个家伙....支撑着我
+
+1270
+01:23:20,536 --> 01:23:23,661
+it's been a good support to me
+
+1271
+01:23:25,629 --> 01:23:28,900
+于是我20岁就成了瘸子
+so there I was a cripple at 20.
+
+1272
+01:23:29,657 --> 01:23:31,774
+但是我喜欢那里
+But I liked it out there
+
+1273
+01:23:32,356 --> 01:23:34,578
+我在那找了一个监工的工作
+so I found myself a job as an overseer
+
+1274
+01:23:34,615 --> 01:23:36,900
+在一个经营靛青的农场里
+on an Indigo farm.
+
+1275
+01:23:37,450 --> 01:23:40,967
+我每天都骑在马背上 所以境遇还不错
+I was on horseback all day so that was fine.
+
+1276
+01:23:42,558 --> 01:23:45,364
+但是好景不长
+But I was never in luck for long,
+
+1277
+01:23:45,950 --> 01:23:47,655
+事前没有一点征兆
+without a note of warning
+
+1278
+01:23:47,692 --> 01:23:49,929
+大叛乱爆发了
+the great mutiny was on us.
+
+1279
+01:23:50,460 --> 01:23:52,114
+一天晚上我回到农场
+I came back to the farm one evening to find
+
+1280
+01:23:52,151 --> 01:23:55,531
+发现我的雇主和所有的人都被杀了
+my master and all his family be murdered.
+
+1281
+01:23:56,707 --> 01:23:58,573
+我没有等待
+I didn't wait.
+
+1282
+01:23:58,610 --> 01:24:01,832
+连夜跑到Agra城
+On that same evening I was in the Fort of Agra,
+
+1283
+01:24:01,869 --> 01:24:04,806
+那是英国人控制着的最近的城市
+the nearest city still held by the British.
+
+1284
+01:24:05,659 --> 01:24:07,680
+古老的Agra城
+The old Fort of Agra,
+
+1285
+01:24:07,717 --> 01:24:09,419
+一个古怪的地方
+a queer place,
+
+1286
+01:24:10,108 --> 01:24:11,859
+很大
+huge,
+
+1287
+01:24:12,523 --> 01:24:15,693
+到处都是通道和房间
+it's full of passages and rooms
+
+1288
+01:24:17,654 --> 01:24:20,715
+更多的是出口 数也数不过来
+and more entrances than you can count.
+
+1289
+01:24:21,910 --> 01:24:23,839
+有很多的门
+There were many gates
+
+1290
+01:24:23,877 --> 01:24:25,638
+由于我是一个退伍兵  还是英国人
+and because I was an ex-soldier and British
+
+1291
+01:24:25,675 --> 01:24:27,367
+他们让我当了一个头目
+they put me in charge of one of them
+
+1292
+01:24:27,404 --> 01:24:28,715
+还给我派了几个印度人
+and gave me a couple of Sikkhs
+
+1293
+01:24:28,753 --> 01:24:30,629
+他们对我们很忠诚
+
+1294
+01:24:31,227 --> 01:24:33,390
+这是个偏僻的地方
+who'd stayed loyal to us.
+
+1295
+01:24:32,247 --> 01:24:34,956
+It was a lonely place.
+
+1296
+01:24:34,454 --> 01:24:37,726
+我手下的两个旁遮普人久经沙场
+My 2 Punjabis were experienced, fighting men.
+
+1297
+01:24:38,700 --> 01:24:43,291
+Kartar Singh和Indigo Singh
+Kartar Singh and Indigo Singh.
+
+1298
+01:24:54,408 --> 01:24:55,500
+是叛军吗?
+Rebels?
+
+1299
+01:24:55,538 --> 01:24:57,089
+不是
+No rebels.
+
+1300
+01:24:57,127 --> 01:24:59,154
+堡垒很安全
+The fort is safe.
+
+1301
+01:24:59,634 --> 01:25:02,963
+河这边没有叛军士兵
+There are no rebel this side of the river.
+
+1302
+01:25:03,890 --> 01:25:05,923
+你要不和我们合作
+You must be with us
+
+1303
+01:25:05,961 --> 01:25:08,782
+要不永远沉默
+or you must be silenced forever.
+
+1304
+01:25:08,819 --> 01:25:10,411
+和你们合作干什么?
+With you how?
+
+1305
+01:25:10,449 --> 01:25:12,843
+我们让你发财
+We want you to be rich,
+
+1306
+01:25:12,881 --> 01:25:16,011
+不就是你们英国人来这的目的吗
+which is why you British came to this land.
+
+1307
+01:25:17,444 --> 01:25:19,921
+我没理由拒绝发财
+Well I have no objection of being rich.
+
+1308
+01:25:19,958 --> 01:25:23,731
+以你父亲的身体发誓
+Then swear by the bones of your father
+
+1309
+01:25:23,768 --> 01:25:24,917
+今后绝不做不利于我们的事
+to raise no hand
+
+1310
+01:25:24,956 --> 01:25:26,917
+也不说不利于我们的话
+and to speak no word against us now
+
+1311
+01:25:26,954 --> 01:25:30,212
+永远都不
+or ever afterwards
+
+1312
+01:25:30,250 --> 01:25:34,040
+你会拥有财宝的四分之一
+then you will have quarter of the treasure.
+
+1313
+01:25:35,411 --> 01:25:37,304
+但我们只有3个人
+But there are only 3 of us.
+
+1314
+01:25:37,340 --> 01:25:39,962
+Jagodish Singh 我的同胞兄弟
+Jagodish Singh my foster brother
+
+1315
+01:25:40,001 --> 01:25:41,819
+他也有一份
+he must have his share.
+
+1316
+01:25:43,528 --> 01:25:48,780
+没时间了 先生 决定吧
+There is no time Sahib decide.
+
+1317
+01:25:49,561 --> 01:25:50,500
+好
+Well
+
+1318
+01:25:50,537 --> 01:25:53,465
+如果没有威胁到堡垒的安全
+provided the fort is in no kind of danger
+
+1319
+01:25:54,387 --> 01:25:56,171
+我发誓
+I swear.
+
+1320
+01:25:58,104 --> 01:26:01,174
+你会怎么做 福尔摩斯先生?
+What would you have done Mr. Holmes?
+
+1321
+01:26:02,006 --> 01:26:03,113
+我非常怀疑
+I strongly suspect
+
+1322
+01:26:03,151 --> 01:26:05,353
+我和你完全一样
+I would have done exactly as you did.
+
+1323
+01:26:07,134 --> 01:26:09,390
+我了解锡克人
+Yes I know the Sikkh.
+
+1324
+01:26:09,703 --> 01:26:11,955
+唬弄不了的人
+He's not a man to be trifled with.
+
+1325
+01:26:15,552 --> 01:26:17,903
+我们那里的一个首长
+One of our local Rajahs,
+
+1326
+01:26:18,505 --> 01:26:19,752
+很有钱
+Rich as Croesus of course,
+
+1327
+01:26:19,791 --> 01:26:21,885
+他投靠了叛军
+he'd gone in with the rebels.
+
+1328
+01:26:21,922 --> 01:26:25,586
+但是 他害怕万一英军再反扑回来
+But... He wanted to hedge his bet
+
+1329
+01:26:25,623 --> 01:26:29,212
+又留了后路
+just in case the British came out on top.
+
+1330
+01:26:29,249 --> 01:26:32,421
+他想出个办法 把财产分成2部分
+So he made a plot to get half his treasure
+
+1331
+01:26:32,459 --> 01:26:34,806
+藏在Agra城里
+hidden in the Fort of Agra
+
+1332
+01:26:35,764 --> 01:26:37,195
+派他手下的人
+sending one of his men with it
+
+1333
+01:26:37,232 --> 01:26:39,735
+乔装成商人的样子
+in the guise of a merchant
+
+1334
+01:26:39,773 --> 01:26:42,384
+请Jagodish Singh
+and Jagodish Singh
+
+1335
+01:26:42,422 --> 01:26:43,572
+就是Kartar的哥哥
+Kartar's brother
+
+1336
+01:26:43,610 --> 01:26:45,928
+来做向导
+to be the guide.
+
+1337
+01:26:45,965 --> 01:26:49,027
+他们冒着风险来
+They come challenging sahib, in a major way
+
+1338
+01:26:49,065 --> 01:26:50,721
+按照惯例问他 别吓着他
+giving no caution to fear.
+
+1339
+01:26:50,758 --> 01:26:51,451
+下一步怎么办?
+What then?
+
+1340
+01:26:51,488 --> 01:26:53,155
+我们都安排好了
+we do what has to be done.
+
+1341
+01:27:06,166 --> 01:27:07,456
+谁?
+Who goes there?
+
+1342
+01:27:07,493 --> 01:27:10,422
+自己人 阁下
+A friend sahib.
+
+1343
+01:27:10,461 --> 01:27:13,214
+先验清楚
+A friend advance and be recognized.
+
+1344
+01:27:17,373 --> 01:27:19,047
+你拿的是什么?
+What have you with you?
+
+1345
+01:27:19,084 --> 01:27:24,395
+一个箱子 先生 旧箱子
+A box sahib, old box.
+
+1346
+01:27:24,432 --> 01:27:27,228
+一些祖传的东西
+Having some family papers.
+
+1347
+01:27:27,266 --> 01:27:31,533
+别人拿着不值钱 自己留着
+No good to nobody sahib only for myself.
+
+1348
+01:27:41,267 --> 01:27:43,611
+长官 我不是讨饭的穷人
+Sahib, I'm no ordinary beggar.
+
+1349
+01:27:45,666 --> 01:27:47,779
+我会报答你的 先生
+You will have money sahib.
+
+1350
+01:27:47,817 --> 01:27:50,195
+还有你的同志们
+and you comrades sahib also.
+
+1351
+01:27:55,067 --> 01:27:57,615
+把他带到总部去
+Take him to the main guardroom.
+
+1352
+01:28:22,102 --> 01:28:26,223
+他就这样被死神紧紧包围着
+Never was a man more compassed round with death.
+
+1353
+01:29:00,166 --> 01:29:01,562
+要是他逃跑
+If that man had escaped
+
+1354
+01:29:01,600 --> 01:29:03,516
+整个事情都会败露
+the whole affair would have come out.
+
+1355
+01:29:03,552 --> 01:29:05,738
+我会被枪决的
+I should have been shot most like.
+
+1356
+01:29:08,379 --> 01:29:11,328
+当时的情况下 你们哪个不会这么做?
+Which of you would have held back his musket?
+
+1357
+01:29:15,391 --> 01:29:17,253
+Kartar要火化他
+Kartar was for burning him,
+
+1358
+01:29:17,291 --> 01:29:19,043
+那是他们的宗教信仰
+that's there religion.
+
+1359
+01:29:19,422 --> 01:29:21,448
+但是点火是不可能的
+But such a fire was impossible.
+
+1360
+01:29:22,276 --> 01:29:24,395
+Jagodish要把他扔进
+Jagodish was for throwing him down
+
+1361
+01:29:24,432 --> 01:29:25,927
+堡垒下的深沟里
+into the great ditch below the fort
+
+1362
+01:29:25,965 --> 01:29:28,249
+下面的柴狗会把他吃干净
+where the jackal's to clean him.
+
+1363
+01:29:28,994 --> 01:29:30,598
+毫无疑问他是对的
+No doubt he was right.
+
+1364
+01:29:31,414 --> 01:29:34,668
+我一向对死亡有些许的敬意
+I'm always for showing some respect for the dead.
+
+1365
+01:29:35,522 --> 01:29:38,363
+接着我们打开箱子
+Then we turned to the box,
+
+1366
+01:29:39,738 --> 01:29:41,438
+这个箱子
+this box.
+
+1367
+01:29:45,846 --> 01:29:47,641
+里面的珍宝
+Inside were more gems
+
+1368
+01:29:47,679 --> 01:29:50,704
+我做梦都想不到
+than I could have ever even had dreamed of.
+
+1369
+01:29:57,471 --> 01:30:01,074
+143颗上等钻石
+A 1 43 diamonds of the first order
+
+1370
+01:30:01,110 --> 01:30:03,555
+其中一颗叫做"大莫卧儿"
+including the Great Mogul,
+
+1371
+01:30:03,593 --> 01:30:06,623
+世界上第二大钻石
+the second largest stone in existence.
+
+1372
+01:30:06,904 --> 01:30:09,263
+97块翡翠
+97 emeralds,
+
+1373
+01:30:09,301 --> 01:30:12,121
+170块红宝石
+1 70 rubies,
+
+1374
+01:30:12,158 --> 01:30:14,436
+40块红玉
+40 carbuncles,
+
+1375
+01:30:14,473 --> 01:30:16,550
+61块玛瑙
+61 agates.
+
+1376
+01:30:21,218 --> 01:30:23,424
+Jagodish是对的
+Jagodish was right,
+
+1377
+01:30:23,461 --> 01:30:28,721
+你们这么把他埋了是错误的
+it was a great mistake you made
+
+1378
+01:30:26,796 --> 01:30:29,755
+burying the body as you did
+
+1379
+01:30:29,224 --> 01:30:31,361
+你说是吗 华生?
+would you not say so Watson?
+
+1380
+01:30:32,265 --> 01:30:33,576
+确实
+Yes indeed.
+
+1381
+01:30:33,613 --> 01:30:35,898
+尸体在印度没被火化的话
+Bodies not burned in India
+
+1382
+01:30:35,937 --> 01:30:37,228
+不久就会被发现
+are soon discovered.
+
+1383
+01:30:37,266 --> 01:30:38,982
+于是你和你的三个同谋
+So you and your 3 companions
+
+1384
+01:30:39,019 --> 01:30:42,491
+被起诉有罪 被叛终身监禁
+were found guilty and sent away for life
+
+1385
+01:30:42,528 --> 01:30:45,374
+在安达曼群岛
+to the penal colony in the Andaman Islands.
+
+1386
+01:30:45,834 --> 01:30:47,747
+布莱尔岛
+Blair Island sir.
+
+1387
+01:30:47,785 --> 01:30:50,380
+希望之城
+Hopetown,
+
+1388
+01:30:50,899 --> 01:30:54,217
+没有什么地方的名字比那儿更糟了
+never was a place worse named.
+
+1389
+01:31:08,120 --> 01:31:10,049
+那是一个苦力之地
+It was a place to sweat.
+
+1390
+01:31:10,412 --> 01:31:12,814
+一个腐朽之地
+A place to rot.
+
+1391
+01:31:12,852 --> 01:31:15,420
+一个死亡之地
+A place to die.
+
+1392
+01:31:15,458 --> 01:31:19,132
+我在那里年复一年的做劳力
+And I sweated there year after year
+
+1393
+01:31:19,169 --> 01:31:22,509
+直到你父亲的到来  Morstan小姐
+until your father arrived Miss. Morstan.
+
+1394
+01:31:23,679 --> 01:31:25,317
+下士!
+corporal!
+
+1395
+01:31:25,747 --> 01:31:29,294
+你不能虐待白人囚犯
+you will not maltreat the white prisoner.
+
+1396
+01:31:29,332 --> 01:31:32,658
+要是再有一次 你就等着受罚吧
+If it happens again
+
+1397
+01:31:31,745 --> 01:31:33,729
+you'll be court marshaled.
+
+1398
+01:31:36,694 --> 01:31:38,465
+他是我们的行政长官
+He was our administrative officer and he gave me
+
+1399
+01:31:38,502 --> 01:31:42,434
+他在诊疗所给了我一个简易的小屋
+a nice cushy villa in the dispensary.
+
+1400
+01:31:43,011 --> 01:31:45,152
+他是我曾经遇到的
+He was as good and kind a Christian gentleman
+
+1401
+01:31:45,189 --> 01:31:47,666
+最善良基督信徒了
+as I ever come across
+
+1402
+01:31:48,189 --> 01:31:50,315
+我对他没有半点怨恨
+and I hold no grudge against him.
+
+1403
+01:31:52,430 --> 01:31:54,328
+你也是 小姐
+Or you Miss.
+
+1404
+01:32:05,495 --> 01:32:08,306
+谢谢 Small先生
+Thank you Mr. Small.
+
+1405
+01:32:18,673 --> 01:32:21,524
+我坐在这儿 想那些财宝的时候
+Well as I sat thinking about the treasure
+
+1406
+01:32:21,562 --> 01:32:25,494
+我仿佛看见那所有的长官
+I could see all the offices and the prison officials
+
+1407
+01:32:25,531 --> 01:32:27,692
+喝酒 赌博的场景
+at their drinking and their gambling.
+
+1408
+01:32:29,763 --> 01:32:32,361
+Sholto少校从来运气都不好
+Major Sholto never had much luck.
+
+1409
+01:32:32,859 --> 01:32:35,695
+每晚他都输
+Night after night he was the loser.
+
+1410
+01:32:37,598 --> 01:32:39,999
+有些人天生如此
+Some people are born like that.
+
+1411
+01:32:40,037 --> 01:32:42,222
+我输光了 Morstan
+It's all over for me Morstan.
+
+1412
+01:32:42,259 --> 01:32:44,129
+我完了
+I'm ruined.
+
+1413
+01:32:44,165 --> 01:32:46,909
+我得辞职了
+I shall have to send in my paper.
+
+1414
+01:32:48,143 --> 01:32:51,649
+我想你没法再弄到几百块了?
+I don't suppose you could manage
+
+1415
+01:32:52,346 --> 01:32:56,076
+我有自己的烦恼
+another couple of hundred hey?
+
+1416
+01:32:53,322 --> 01:32:56,482
+I had a pretty nasty face in myself
+
+1417
+01:32:56,114 --> 01:32:58,610
+我有个女儿要抚养
+and I have a daughter back home to support.
+
+1418
+01:32:58,647 --> 01:33:03,231
+我也有两个儿子要养活
+Well I've got 2 wretched sons.
+
+1419
+01:33:03,270 --> 01:33:04,586
+完蛋了
+Ruined hey, damn pity.
+
+1420
+01:33:07,308 --> 01:33:13,453
+所以你决定要接近你的恩人Morstan上尉?
+So you decided to approach your benefactor
+
+1421
+01:33:13,490 --> 01:33:15,864
+他经常在诊疗所里
+Captain Morstan?
+
+1422
+01:33:14,205 --> 01:33:16,225
+He was often in the dispensary.
+
+1423
+01:33:15,902 --> 01:33:18,229
+热带的气候不适合他
+The tropical climate didn't agree with him.
+
+1424
+01:33:18,733 --> 01:33:19,775
+他心脏很弱
+His heart was weak
+
+1425
+01:33:19,811 --> 01:33:21,887
+全身血液中毒
+and his blood was all poisoned.
+
+1426
+01:33:22,043 --> 01:33:27,586
+知道他会把他所有的安排 都告诉了他的朋友Sholto少校?
+Knowing that he would wish to share
+
+1427
+01:33:24,384 --> 01:33:25,915
+any arrangement with his friend
+
+1428
+01:33:26,023 --> 01:33:28,244
+the officer in command, Major Sholto?
+
+1429
+01:33:27,623 --> 01:33:30,243
+是的 那看上去是最安全的方式
+Yes sir it seemed the safest way.
+
+1430
+01:33:30,282 --> 01:33:31,995
+这是你个人的私事
+And is there any private concern over which
+
+1431
+01:33:32,032 --> 01:33:37,144
+你当然有权按你的方式来处理它们
+of course you have the power of disposing
+
+1432
+01:33:35,784 --> 01:33:40,513
+as you think best
+
+1433
+01:33:40,190 --> 01:33:41,657
+谢谢你的忠告
+Thank you for that advice sir.
+
+1434
+01:33:41,694 --> 01:33:43,478
+非常感谢
+Thank you indeed
+
+1435
+01:33:43,936 --> 01:33:45,219
+但事实是
+but the fact is
+
+1436
+01:33:45,256 --> 01:33:47,885
+我在这种环境下
+being in the position I am
+
+1437
+01:33:47,922 --> 01:33:49,586
+我需要帮助
+I need help.
+
+1438
+01:33:50,623 --> 01:33:51,951
+哪种帮助
+What sort of help?
+
+1439
+01:33:53,024 --> 01:33:55,042
+我要一个同伴
+I need a partner.
+
+1440
+01:33:56,781 --> 01:34:01,957
+我想Sholto少校和我可以帮助你
+Well I'm sure Major Sholto and myself
+
+1441
+01:33:59,282 --> 01:34:02,407
+would like to help you if we could.
+
+1442
+01:34:01,994 --> 01:34:04,371
+至少我们可以谈谈
+We could at least talk about,
+
+1443
+01:34:04,408 --> 01:34:08,222
+要是我们同意
+that is of course if we can agree as to terms.
+
+1444
+01:34:09,481 --> 01:34:12,960
+在这样的处境下 我只有一个条件
+There's only one bargain
+
+1445
+01:34:11,658 --> 01:34:14,723
+a man in my position can make.
+
+1446
+01:34:13,962 --> 01:34:15,658
+恢复我的自由
+In exchange for my freedom
+
+1447
+01:34:15,696 --> 01:34:18,083
+还有我那三个同伴
+and that of my 3 companions
+
+1448
+01:34:18,121 --> 01:34:21,583
+我们会将宝物的五分之一分给你们
+we shall give you a fifth share
+
+1449
+01:34:21,620 --> 01:34:23,060
+五分之一?
+to divide between you.
+
+1450
+01:34:23,701 --> 01:34:25,442
+那可不多啊
+A fifth?
+
+1451
+01:34:25,480 --> 01:34:28,092
+至少五万英镑
+That isn't very much.
+
+1452
+01:34:25,951 --> 01:34:29,291
+50 thousand at the least.
+
+1453
+01:34:28,870 --> 01:34:30,788
+可我们怎么恢复你们的自由呢?
+Anyway how can we possibly
+
+1454
+01:34:30,825 --> 01:34:32,604
+你要知道 这不可能
+give you your freedom?
+
+1455
+01:34:32,641 --> 01:34:35,543
+我们要的就是一只船和足够的食物
+You know it's impossible.
+
+1456
+01:34:34,004 --> 01:34:37,129
+All we need is a boat and provisions.
+
+1457
+01:34:36,146 --> 01:34:38,284
+在Calcutta或是Madras
+There are plenty little yachts and yawls
+
+1458
+01:34:38,322 --> 01:34:41,123
+有很多的小快艇
+in Calcutta or Madras,
+
+1459
+01:34:41,160 --> 01:34:44,314
+这些就够了
+Well enough to serve our purpose.
+
+1460
+01:34:44,352 --> 01:34:46,187
+要是你一个人还好办
+If only there were just one of you.
+
+1461
+01:34:46,225 --> 01:34:47,248
+不行
+None.
+
+1462
+01:34:47,552 --> 01:34:49,987
+少一个也不行
+None or all.
+
+1463
+01:34:50,026 --> 01:34:51,787
+我们发过誓
+We have sworn it.
+
+1464
+01:34:51,824 --> 01:34:54,226
+四个人要在一起!
+The 4 of us must always act together!
+
+1465
+01:34:57,436 --> 01:34:58,717
+冷静 Sholto
+Calm yourself Sholto.
+
+1466
+01:34:58,754 --> 01:35:01,590
+冷静 想想看
+Calm yourself,
+
+1467
+01:35:01,628 --> 01:35:03,303
+想想看
+think about it man,
+
+1468
+01:35:03,341 --> 01:35:06,210
+Small是一个守信用的人
+think about it.
+
+1469
+01:35:04,300 --> 01:35:06,664
+Small is a man of his word
+
+1470
+01:35:06,248 --> 01:35:09,620
+他不辜负朋友
+he will not abandon his friends.
+
+1471
+01:35:09,657 --> 01:35:14,195
+我想我们可以信任他
+I think we may very well trust him.
+
+1472
+01:35:17,684 --> 01:35:20,591
+我们第二天的凌晨见了面
+We met the next morning in the small hours.
+
+1473
+01:35:20,629 --> 01:35:24,193
+我详细写下了我们的协议
+I had our written agreement in every detail.
+
+1474
+01:35:25,974 --> 01:35:29,483
+作为大英维多利亚女王领导下军队的长官...
+We being officers in the Army
+
+1475
+01:35:29,946 --> 01:35:34,222
+作为大英维多利亚女王领导下军队的长官...
+of her majesty Queen Victoria...
+
+1476
+01:35:30,585 --> 01:35:32,569
+We being officers in the Army
+
+1477
+01:35:32,678 --> 01:35:34,555
+of her majesty Queen Victoria...
+
+1478
+01:35:34,261 --> 01:35:36,287
+在神圣的圣经面前发誓
+Do swear on the Holy Bible
+
+1479
+01:35:36,324 --> 01:35:39,293
+永远遵守协议
+that this agreement will always remain
+
+1480
+01:35:39,331 --> 01:35:40,723
+永不反悔
+sacred and binding to us.
+
+1481
+01:35:40,761 --> 01:35:42,963
+在神圣的圣经面前发誓
+Do swear on the Holy Bible
+
+1482
+01:35:43,000 --> 01:35:47,539
+永远遵守协议 永不反悔
+that this agreement will always remain
+
+1483
+01:35:45,157 --> 01:35:48,008
+sacred and binding to us.
+
+1484
+01:35:47,578 --> 01:35:48,824
+我给他们每个人一张地图
+I gave each of them a plan
+
+1485
+01:35:48,862 --> 01:35:51,295
+标出了宝藏的位置
+showing the position of the treasure.
+
+1486
+01:35:58,866 --> 01:36:01,601
+这个把我的记忆带回到那时
+Oh that brings back memories.
+
+1487
+01:36:02,827 --> 01:36:05,036
+Sholto坐船去了印度
+Sholto took the next boat to India,
+
+1488
+01:36:05,074 --> 01:36:06,773
+找到了宝藏
+found the treasure
+
+1489
+01:36:06,811 --> 01:36:08,746
+把宝藏带回了英国?
+and took it back with him to England?
+
+1490
+01:36:08,783 --> 01:36:09,814
+是的
+Yes.
+
+1491
+01:36:10,212 --> 01:36:11,719
+当我们听到消息
+When we heard the news
+
+1492
+01:36:12,156 --> 01:36:15,045
+Morstan上尉和我都很气愤
+Captain Morstan was as angry as I was.
+
+1493
+01:36:15,342 --> 01:36:16,299
+他向我发誓
+He swore to me he would go home
+
+1494
+01:36:16,337 --> 01:36:19,156
+要回去找Sholto算账
+and settle the matter with Sholto.
+
+1495
+01:36:29,820 --> 01:36:33,153
+要是他还活着 他会的
+And so he would if he lived
+
+1496
+01:36:34,146 --> 01:36:36,748
+但是那不可能了
+but that was not to be.
+
+1497
+01:36:44,800 --> 01:36:46,460
+从那天起
+From that day,
+
+1498
+01:36:46,496 --> 01:36:49,448
+我只为报仇而活
+I lived only for vengeance.
+
+1499
+01:36:52,428 --> 01:36:58,641
+日夜不忘
+I thought of it by day,
+
+1500
+01:36:57,113 --> 01:36:59,477
+I nursed it by night
+
+1501
+01:36:59,091 --> 01:37:00,999
+要找到Sholto
+to get to Sholto,
+
+1502
+01:37:01,538 --> 01:37:03,712
+亲手掐住他的喉咙
+put my hands on his throat
+
+1503
+01:37:03,751 --> 01:37:06,279
+那就是我唯一的想法
+that was my one thought.
+
+1504
+01:37:07,345 --> 01:37:09,008
+幸运的是
+As luck would have it,
+
+1505
+01:37:09,044 --> 01:37:12,392
+岛上的一个居民 被带到了我的医疗所
+one of the islanders
+
+1506
+01:37:12,430 --> 01:37:14,765
+被蛇咬伤 大半条命已经没了
+had been brought in to my dispensary,
+
+1507
+01:37:13,010 --> 01:37:15,647
+more than half dead from a snakebite.
+
+1508
+01:37:14,803 --> 01:37:18,025
+出于人道 我尽所能帮助他
+And in common humanity I did my best for him.
+
+1509
+01:37:18,512 --> 01:37:20,796
+于是他康复过来
+Somehow he pulled through
+
+1510
+01:37:20,833 --> 01:37:23,980
+变得对我非常忠诚
+and became very devoted to me,
+
+1511
+01:37:25,669 --> 01:37:27,813
+一个有趣的小矮子
+a funny little fellow.
+
+1512
+01:37:29,121 --> 01:37:31,362
+先生们
+Well you gentlemen
+
+1513
+01:37:31,401 --> 01:37:32,983
+你们见过他
+caught a glimpse of him yourselves,
+
+1514
+01:37:33,021 --> 01:37:34,940
+毫无疑问 就在昨晚
+no doubt, last night.
+
+1515
+01:37:35,604 --> 01:37:39,034
+他就是忠诚可靠的小Tonga
+He was staunch and true little Tonga.
+
+1516
+01:37:39,782 --> 01:37:42,740
+没有比他更忠诚的同伴了
+No man ever had a more faithful mate.
+
+1517
+01:37:45,193 --> 01:37:46,969
+他是个渔夫
+Being by trade a fisherman
+
+1518
+01:37:47,005 --> 01:37:49,834
+有一只不错的土著船
+he had a goodish size native boat
+
+1519
+01:37:49,871 --> 01:37:52,632
+他同意和我一起逃走
+and he had agreed to try to escape with me.
+
+1520
+01:39:04,912 --> 01:39:08,165
+10天之后 我们遇见了一只商船
+After 1 0 days we were picked up by a trader
+
+1521
+01:39:08,202 --> 01:39:11,458
+带着一批香客 从马来开往吉达
+with a cargo of pilgrims from Malay bound for Gito.
+
+1522
+01:39:11,496 --> 01:39:13,480
+数月之后
+After many months
+
+1523
+01:39:13,718 --> 01:39:16,769
+我们历经艰险
+we worked our way across the world
+
+1524
+01:39:16,806 --> 01:39:19,411
+回到了伦敦
+to London.
+
+1525
+01:39:22,272 --> 01:39:24,549
+过程很精彩
+A remarkable account.
+
+1526
+01:39:26,029 --> 01:39:29,312
+现在 我想Morstan小姐
+And now I think Miss Morstan
+
+1527
+01:39:29,350 --> 01:39:32,630
+可能想看看这些财宝
+might like to see the Great Agra Treasure,
+
+1528
+01:39:32,667 --> 01:39:36,240
+这将使她成为全英国最有钱的女士之一
+which will surely make her
+
+1529
+01:39:36,276 --> 01:39:38,253
+-华生? -没钥匙
+one of the richest young ladies in England.
+
+1530
+01:39:38,291 --> 01:39:41,249
+我想这跟铁火棍可以
+Watson?
+
+1531
+01:39:38,281 --> 01:39:39,112
+There's no key.
+
+1532
+01:39:39,223 --> 01:39:41,968
+I'm sure our iron poker will oblige.
+
+1533
+01:40:09,519 --> 01:40:11,146
+Ha ha ha ha ha ha
+
+1534
+01:40:17,030 --> 01:40:19,569
+这是你做的 Small?
+This is your doing Small.
+
+1535
+01:40:19,606 --> 01:40:20,520
+是的
+Yes.
+
+1536
+01:40:20,558 --> 01:40:22,477
+我把宝藏都扔掉了
+Yes I put the treasure away
+
+1537
+01:40:22,514 --> 01:40:25,727
+你们永远也得不到
+where you shall never lay a hand on it.
+
+1538
+01:40:25,764 --> 01:40:28,860
+没有人能有权利拥有
+No living man or woman has any right to it
+
+1539
+01:40:28,899 --> 01:40:32,789
+除非是在安达曼兵营里的那三个人 还有我
+unless it is the 3 men
+
+1540
+01:40:30,924 --> 01:40:35,059
+in the Andaman Convict Barracks and myself.
+
+1541
+01:40:34,422 --> 01:40:37,132
+我知道我没机会拥有了
+I know now that I cannot have the use of it,
+
+1542
+01:40:37,531 --> 01:40:39,222
+没人会有
+no more can they.
+
+1543
+01:40:39,778 --> 01:40:43,618
+我做的这些是为了他们 也是为我
+But I have acted all along
+
+1544
+01:40:41,940 --> 01:40:44,934
+for them as much as for myself.
+
+1545
+01:40:44,488 --> 01:40:47,123
+我们一直把四签名带在身上
+We have the sign of four with us always.
+
+1546
+01:40:48,413 --> 01:40:50,330
+宝藏哪去了?
+Where is it?
+
+1547
+01:40:50,762 --> 01:40:52,863
+在钥匙所在的地方
+Where the key is
+
+1548
+01:40:52,901 --> 01:40:55,411
+在小Tonga所在的地方
+and where little Tonga is.
+
+1549
+01:40:57,254 --> 01:40:58,967
+我看见你们的汽艇要赶上我们
+I saw your launch might catch us
+
+1550
+01:40:59,004 --> 01:41:01,845
+我看小Tonga倒在一边
+and I saw little Tonga go over the side.
+
+1551
+01:41:04,666 --> 01:41:07,300
+我把财宝放到了一个安全的地方
+I put the loot in a safe place.
+
+1552
+01:41:07,338 --> 01:41:09,898
+你骗我们 Small
+You are deceiving us Small if you had wished
+
+1553
+01:41:09,936 --> 01:41:12,772
+要是你想把财宝扔进泰晤士河
+to throw the treasure into the Thames
+
+1554
+01:41:12,809 --> 01:41:16,031
+把箱子扔进去不是更容易
+it would have been easier
+
+1555
+01:41:16,069 --> 01:41:17,477
+我扔得容易
+to have thrown box and all.
+
+1556
+01:41:17,514 --> 01:41:19,662
+你们捞得也容易
+Easier for me to throw
+
+1557
+01:41:18,301 --> 01:41:21,747
+and easier for you to recover.
+
+1558
+01:41:20,714 --> 01:41:23,248
+有本事把我抓住的人
+A man who's clever enough to hunt me down
+
+1559
+01:41:23,286 --> 01:41:25,228
+也有本事把箱子
+is clever enough to pick up a box
+
+1560
+01:41:25,265 --> 01:41:27,212
+从河底捞上来
+from the bottom of the river.
+
+1561
+01:41:31,299 --> 01:41:32,371
+我很遗憾
+I am sorry.
+
+1562
+01:41:32,409 --> 01:41:34,877
+我很庆幸财宝没了
+I am glad the treasure is lost.
+
+1563
+01:41:36,658 --> 01:41:40,764
+对于拥有宝藏的人来说 它只是个诅咒
+It's been nothing but a curse
+
+1564
+01:41:39,497 --> 01:41:42,562
+to every man who has owned it.
+
+1565
+01:41:41,898 --> 01:41:44,927
+不仅是我可怜的父亲
+And only death to my poor father.
+
+1566
+01:41:44,964 --> 01:41:49,262
+还有我和我同伴们苦役的生活
+And slavery for life
+
+1567
+01:41:47,272 --> 01:41:50,302
+to me and my companions.
+
+1568
+01:41:49,711 --> 01:41:51,487
+我们的前半生都
+We spent the first half of my life
+
+1569
+01:41:51,524 --> 01:41:54,352
+在Andaman修水坝
+digging a breakwater in the Andaman's.
+
+1570
+01:41:55,806 --> 01:41:57,894
+可能我的下半生要在
+And I'm likely to spend the other half
+
+1571
+01:41:57,932 --> 01:42:00,434
+Dartmoor修水渠了
+digging ditches on Dartmoor.
+
+1572
+01:42:03,175 --> 01:42:05,726
+福尔摩斯 责任就是责任
+Well Holmes duty is duty
+
+1573
+01:42:05,765 --> 01:42:08,718
+今天对你已经够通融了
+and I've gone rather far in bringing him here.
+
+1574
+01:42:08,755 --> 01:42:13,122
+我相信只有把这个讲故事的人送进监狱
+I shall feel more at ease
+
+1575
+01:42:13,160 --> 01:42:14,608
+我才能放心
+when I have our storyteller here
+
+1576
+01:42:14,646 --> 01:42:18,825
+我很感谢你们的协助
+under lock and key.
+
+1577
+01:42:15,406 --> 01:42:20,493
+I am obliged to you for your assistance.
+
+1578
+01:42:19,917 --> 01:42:22,113
+再见 华生医生
+Good day to you. Doctor Watson,
+
+1579
+01:42:22,151 --> 01:42:23,425
+Morstan小姐
+Miss Morstan.
+
+1580
+01:42:29,819 --> 01:42:31,351
+你先走 Small
+Awe, after you Small.
+
+1581
+01:42:31,833 --> 01:42:35,635
+否则你要用木腿打我真是太容易了
+you seem a bit handy
+
+1582
+01:42:33,882 --> 01:42:36,211
+with that wooden leg of yours.
+
+1583
+01:43:22,412 --> 01:43:25,314
+真是惭愧 福尔摩斯先生
+I feel most ashamed that you Mr. Holmes
+
+1584
+01:43:25,351 --> 01:43:27,457
+还有亲爱的华生医生
+and you dear Doctor Watson
+
+1585
+01:43:27,495 --> 01:43:28,618
+让你们为了我的事
+have had to put yourself
+
+1586
+01:43:28,655 --> 01:43:30,824
+冒了那么多的险
+into such peril on my behalf.
+
+1587
+01:43:30,862 --> 01:43:32,806
+一切都结束了 别这么说
+Oh that's all over and forgotten.
+
+1588
+01:43:32,843 --> 01:43:36,537
+Forrester夫人派他的车夫 来接Morstan小姐了
+Mrs. Forrester has sent her carriage for Miss Morstan.
+
+1589
+01:43:37,572 --> 01:43:39,225
+我不会再给你们添麻烦了 两位
+I'll impose on you no longer gentlemen.
+
+1590
+01:43:39,262 --> 01:43:40,844
+你们一定筋疲力尽了
+You must be exhausted.
+
+1591
+01:43:40,883 --> 01:43:42,651
+我承认这次行动消耗了太多精力
+Yes I confess the reaction is already upon me.
+
+1592
+01:43:42,688 --> 01:43:45,834
+我这一个星期都会软绵绵的
+I shall be as limp as a rag for a week.
+
+1593
+01:43:45,872 --> 01:43:49,411
+我很感谢您洗刷了我父亲的名声
+I'm so very grateful to you
+
+1594
+01:43:48,069 --> 01:43:50,469
+for clearing my father's name.
+
+1595
+01:43:51,688 --> 01:43:55,698
+也很感激您
+I'm so very grateful to you both.
+
+1596
+01:44:17,789 --> 01:44:19,505
+好像不太公平
+Seems so unfair.
+
+1597
+01:44:21,255 --> 01:44:23,234
+这个案子里都是你在做事
+You ve done all the work in this business
+
+1598
+01:44:23,678 --> 01:44:26,296
+Athelney Jones却赢得了名声
+and Athelney Jones gets all the credit.
+
+1599
+01:44:29,706 --> 01:44:31,415
+你得到了什么?
+What remains for you?
+
+1600
+01:44:32,995 --> 01:44:35,823
+对于我 我得到了解决 一件有趣案子的快乐
+For me, the pleasure of having solved
+
+1601
+01:44:35,861 --> 01:44:37,752
+几乎是独自一人完成的
+an interesting case almost single-handed.
+
+1602
+01:44:38,992 --> 01:44:40,274
+对于你 毫无疑问
+And for you no doubt the pleasure
+
+1603
+01:44:40,311 --> 01:44:43,976
+得到了把故事写下来的快乐
+
+1604
+01:44:44,014 --> 01:44:49,588
+以你那种通俗的浪漫的形式
+of writing it up
+
+1605
+01:44:44,756 --> 01:44:49,938
+in your usual flowery and romantic style.
+
+1606
+01:45:27,178 --> 01:45:30,554
+多迷人的女人
+What a very attractive woman.
+
+1607
+01:45:32,221 --> 01:45:34,234
+她吗?
+Was she?
+
+1608
+01:45:34,877 --> 01:45:37,169
+我没注意
+I hadn't noticed.
+
+1609
+01:45:44,031 --> 01:45:47,406
+<font color="#ffff00">风软FRM字幕组作品 -==http://www.1000fr.com==- 欢迎加入</font>
+

@@ -1,0 +1,3206 @@
+﻿1
+00:00:02,030 --> 00:00:06,220
+{\pos(194,200)}浦东新区
+
+2
+00:00:03,040 --> 00:00:06,220
+{\pos(194,220)}上海  中国
+
+3
+00:00:06,610 --> 00:00:09,050
+{\an9}{\an9}♬I wish I would have met you.♬
+
+4
+00:00:12,300 --> 00:00:14,260
+{\an9}{\an9}♬Now it's a little late.♬
+
+5
+00:00:17,620 --> 00:00:20,020
+{\an9}{\an9}♬What you could have taught me?♬
+
+6
+00:00:22,780 --> 00:00:25,400
+{\an9}{\an9}♬I could have saved some face.♬
+
+7
+00:00:28,300 --> 00:00:32,380
+{\an9}{\an9}♬They think that your early ending.♬
+
+8
+00:00:32,570 --> 00:00:34,720
+{\an9}{\an9}♬Was all wrong?♬
+
+9
+00:00:39,590 --> 00:00:44,550
+{\an9}{\an9}♬Hey, man.♬
+
+10
+00:00:47,350 --> 00:00:49,370
+{\an9}{\an9}♬Nice shot.♬
+
+11
+00:00:50,220 --> 00:00:55,710
+{\an9}{\an9}♬Hey, man.♬
+
+12
+00:01:07,160 --> 00:01:09,680
+{\pos(192,176)}需要生物识别
+
+13
+00:01:24,310 --> 00:01:25,720
+{\pos(192,176)}解码失败
+
+14
+00:01:28,620 --> 00:01:31,260
+计划失败  无法解码信息
+The plan failed. We can't decode the message.
+
+15
+00:01:35,930 --> 00:01:37,650
+打电话给雷蒙德·雷丁顿
+Call Raymond Reddington.
+
+16
+00:01:39,360 --> 00:01:40,910
+{\an8}《罪恶黑名单》第一季第三集
+
+17
+00:01:44,560 --> 00:01:47,400
+{\pos(192,130)}吴京
+
+18
+00:01:45,390 --> 00:01:47,400
+{\pos(192,188)}第84号
+
+19
+00:03:58,090 --> 00:04:00,620
+-吴京给你的  -拜托  别在这
+- From Wu Jing. - Good God. Not here.
+
+20
+00:04:03,360 --> 00:04:06,520
+跟我合作的那位先生最近没时间
+The gentleman I usually contract with is unavailable --
+
+21
+00:04:06,520 --> 00:04:10,190
+他在伯利兹的珊瑚礁被蝠鲼咬了一下
+Stung by a manta ray off the barrier reef in Belize.
+
+22
+00:04:12,170 --> 00:04:13,870
+我还认识一个人
+I have another tech in mind.
+
+23
+00:04:14,640 --> 00:04:16,270
+得速战速决
+This needs to be done quickly.
+
+24
+00:04:16,480 --> 00:04:19,360
+-今天  -去找璐丽要我说的人的资料
+- Today? - Speak with Luli about the replacement I'm offering.
+
+25
+00:04:19,360 --> 00:04:20,820
+做好尽职调查
+Conduct your due diligence.
+
+26
+00:04:20,820 --> 00:04:23,650
+如果没问题  就按计划行事
+If things are in order, we can proceed as discussed.
+
+27
+00:04:25,960 --> 00:04:28,490
+我跟自己下棋时不喜欢有人围观
+I prefer to play with myself in private.
+
+28
+00:04:37,830 --> 00:04:38,830
+你还好吗
+Are you okay?
+
+29
+00:04:39,560 --> 00:04:40,890
+还好  抱歉
+Yeah, sorry.
+
+30
+00:04:40,900 --> 00:04:42,280
+我只是有点心不在焉
+I'm just a little distracted.
+
+31
+00:04:42,280 --> 00:04:43,350
+不  没关系
+No, that's -- that's all right.
+
+32
+00:04:43,350 --> 00:04:45,880
+我只是  坐在这里说我的遭遇
+I'm... sitting here talking about what happened to me
+
+33
+00:04:45,880 --> 00:04:47,730
+好像事情只发生在我身上一样
+like it only happened to me.
+
+34
+00:04:47,730 --> 00:04:49,880
+但其实这事对我俩都有影响
+But it happened to us both.
+
+35
+00:04:51,160 --> 00:04:55,020
+回到家感到有点奇怪  因为
+It's just a little weird to be home because...
+
+36
+00:04:57,040 --> 00:04:58,960
+莉兹  有个人闯进咱家
+Lizzy, a man came into our home.
+
+37
+00:04:58,960 --> 00:05:00,200
+我知道  对不起
+I know. I'm sorry.
+
+38
+00:05:01,690 --> 00:05:03,380
+真希望我能告诉你更多
+I wish I could tell you more.
+
+39
+00:05:04,460 --> 00:05:05,810
+我想告诉你  我
+I want to tell you more. I --
+
+40
+00:05:05,810 --> 00:05:07,990
+那就说  他是谁
+So, tell me something. Who was he?
+
+41
+00:05:07,990 --> 00:05:10,840
+他死了  被杀了
+He's gone. He was killed.
+
+42
+00:05:11,830 --> 00:05:13,710
+所以都结束了
+So it's over?
+
+43
+00:05:14,080 --> 00:05:14,970
+是的
+Yes.
+
+44
+00:05:19,520 --> 00:05:20,930
+我爱你
+Look, I love you.
+
+45
+00:05:21,950 --> 00:05:22,850
+是艾丽
+That's Ellie.
+
+46
+00:05:22,860 --> 00:05:25,640
+我只是很讨厌有些事你不得不瞒着我
+I just hate that there are things you have to hide from me.
+
+47
+00:05:32,890 --> 00:05:33,970
+早上好
+Good morning!
+
+48
+00:05:33,970 --> 00:05:36,000
+你饿了吧  我来做早餐
+Hope you're hungry. I'm making breakfast.
+
+49
+00:05:36,110 --> 00:05:37,460
+不用这么麻烦
+Oh, you don't have to do that.
+
+50
+00:05:37,460 --> 00:05:38,350
+开玩笑吗
+Are you kidding?
+
+51
+00:05:38,350 --> 00:05:40,240
+美味的煎蛋卷能治愈一切
+A good omelet has healing powers.
+
+52
+00:05:40,240 --> 00:05:42,500
+布鲁斯和梅莉莎今晚会带晚餐来
+Bruce and Melissa are bringing over dinner tonight.
+
+53
+00:05:42,580 --> 00:05:43,790
+你们真是太好了
+That's incredibly cool of you.
+
+54
+00:05:43,790 --> 00:05:45,380
+朋友被精神病了捅刀子
+Hey, friends don't let friends starve
+
+55
+00:05:45,380 --> 00:05:47,620
+我们不能让他们饿肚子啊
+when they've been stabbed by violent psychopaths.
+
+56
+00:05:47,840 --> 00:05:49,860
+-他怎么样了  -我就坐在这呢
+- How's he doing? - I'm sitting right here.
+
+57
+00:05:49,860 --> 00:05:51,100
+我不是问你
+I'm not asking you.
+
+58
+00:05:51,100 --> 00:05:51,850
+你肯定会说没事的
+You'll say fine,
+
+59
+00:05:51,850 --> 00:05:53,810
+你就是干这个的  你是个好演员
+because that's what you do. You're a good actor.
+
+60
+00:05:53,810 --> 00:05:55,010
+凯伦帮我代课去了
+Karen's covering my classes.
+
+61
+00:05:55,010 --> 00:05:57,850
+我们先吃饭  然后去做理疗
+We're gonna eat and then head over to physical therapy.
+
+62
+00:05:57,850 --> 00:06:00,710
+我得走了  艾丽  我们欠你个人情
+I got to run. Ellie, we owe you.
+
+63
+00:06:00,710 --> 00:06:01,760
+谁说不是
+So true.
+
+64
+00:06:04,210 --> 00:06:06,020
+你知道的  不是迫不得已我是不会走的
+You know I wouldn't go if I didn't have to.
+
+65
+00:06:06,020 --> 00:06:07,300
+不论他们让你干什么
+Look, whatever they pulled you into,
+
+66
+00:06:07,300 --> 00:06:09,860
+你快点解决  我们就可以早点回到正轨
+the sooner you get it over with, the sooner we get our life back.
+
+67
+00:06:09,860 --> 00:06:10,800
+好的
+Okay.
+
+68
+00:06:11,490 --> 00:06:12,380
+拜拜
+Bye.
+
+69
+00:06:42,320 --> 00:06:44,390
+九毫米手枪射出的弹头和弹壳
+Slug and casing from a 9-millimeter.
+
+70
+00:06:44,390 --> 00:06:44,970
+比对一下
+Can you run these
+
+71
+00:06:44,980 --> 00:06:47,350
+看看系统中的记录是否有相匹配的
+and see if they match any crimes in our system?
+
+72
+00:06:46,440 --> 00:06:47,910
+{\pos(100,110)}弹道检测室
+
+73
+00:06:58,020 --> 00:07:00,140
+机会来了
+An opportunity has come our way.
+
+74
+00:07:00,150 --> 00:07:04,060
+昨天中国人在上海杀了一名中情局特工
+Yesterday, the Chinese killed a C.I.A. agent in Shanghai.
+
+75
+00:07:04,110 --> 00:07:05,260
+他们拿走了他的电脑
+They took his computer,
+
+76
+00:07:05,260 --> 00:07:07,950
+以为可以用来破译他们截获的一条信息
+which they thought could decode a message they intercepted.
+
+77
+00:07:07,950 --> 00:07:08,880
+但是不行
+It couldn't.
+
+78
+00:07:08,880 --> 00:07:10,150
+他们让我帮忙
+They've asked me to help.
+
+79
+00:07:11,800 --> 00:07:13,960
+罗德里克是我的老朋友了
+Oh, Rodrick is a dear old friend.
+
+80
+00:07:14,100 --> 00:07:15,090
+抱歉
+I'm sorry.
+
+81
+00:07:15,590 --> 00:07:18,750
+你要帮中国人破译中情局的信息吗
+You're decoding C.I.A. messages on behalf of the Chinese?
+
+82
+00:07:18,750 --> 00:07:20,760
+你这话说得好像我是卖国贼
+Now, you see, you make it sound like treason.
+
+83
+00:07:20,760 --> 00:07:22,920
+如此黑白分明  其实不是的  是绿色的
+So black and white. It's not. It's green.
+
+84
+00:07:22,920 --> 00:07:25,280
+事实上  美国的秘密是可以
+The fact is, American secrets are for sale
+
+85
+00:07:25,280 --> 00:07:28,460
+通过各种信誉良好的供应商买卖的  包括我
+by an assortment of reputable vendors, myself included.
+
+86
+00:07:28,460 --> 00:07:31,180
+即使我不做  也会有别人做的
+If I don't do this, someone else will.
+
+87
+00:07:31,930 --> 00:07:34,810
+花钱雇我的人叫吴京
+The man who's paying me is called Wu Jing.
+
+88
+00:07:34,810 --> 00:07:36,280
+你可能听说过他
+Perhaps you've heard of him.
+
+89
+00:07:36,280 --> 00:07:38,830
+他以前在国家安全局工作
+Formerly, he worked for the Ministry of State Security.
+
+90
+00:07:38,830 --> 00:07:40,800
+虽然中国政府没有正式批准
+He's not officially sanctioned by the Chinese.
+
+91
+00:07:40,810 --> 00:07:42,730
+但私底下他干的都是
+But unofficially, he's contracted
+
+92
+00:07:42,730 --> 00:07:45,580
+除掉对手特工的活儿  美国的  英国的
+to take out rival agents -- American, British.
+
+93
+00:07:45,610 --> 00:07:48,140
+要破译的信息里可能有另一名特工的名字
+The message likely contains the name of another agent.
+
+94
+00:07:48,140 --> 00:07:49,400
+你觉得我会相信吗
+Do you expect me to believe that --
+
+95
+00:07:49,400 --> 00:07:51,560
+跟神秘吴京的秘密会面
+A secret meeting with the mysterious Wu Jing?
+
+96
+00:07:51,560 --> 00:07:54,070
+-很有趣  不是吗  -他是虚构的
+- Intriguing, isn't it? - He's a myth.
+
+97
+00:07:54,070 --> 00:07:57,670
+大家也都是这么说深喉和G点的
+That's what they said about deep throat and the G-spot.
+
+98
+00:07:57,750 --> 00:08:01,550
+我向你保证吴京是真实存在的  他雇了我
+I assure you Wu Jing is quite real, and he's hired me.
+
+99
+00:08:01,770 --> 00:08:03,540
+现在你有机会抓住他
+Now you have the chance to catch him.
+
+100
+00:08:03,540 --> 00:08:05,590
+我已经把你的卧底身份给他们了
+I've already forwarded them your cover.
+
+101
+00:08:05,590 --> 00:08:06,850
+什么  什么卧底身份
+What? What cover?
+
+102
+00:08:06,850 --> 00:08:07,630
+卡罗琳·吉文斯
+Carolyn Givins,
+
+103
+00:08:07,630 --> 00:08:10,210
+麻省理工应用物理学博士
+PhD in applied physics from M.I.T..
+
+104
+00:08:10,210 --> 00:08:12,270
+我告诉他们你是我的新加密专家
+I've told them you're my new encryption specialist.
+
+105
+00:08:12,270 --> 00:08:14,560
+你这是让我牺牲一个美国探员的生命
+You're asking me to betray the life of an American agent.
+
+106
+00:08:14,560 --> 00:08:17,350
+听着  这么多年来  情报机构
+Listen, this is a guy who the intelligence community
+
+107
+00:08:17,350 --> 00:08:19,260
+一直在讨论
+has been talking about for decades
+
+108
+00:08:19,260 --> 00:08:21,010
+他是不是虚构的
+as if he were a figment.
+
+109
+00:08:21,010 --> 00:08:23,080
+你们都不知道他是否真实存在
+You don't even know if he's real or not.
+
+110
+00:08:23,250 --> 00:08:25,690
+他是真实存在的  千真万确
+Well, he is real -- very.
+
+111
+00:08:25,690 --> 00:08:27,830
+我现在给你机会抓到他
+And I'm giving you the opportunity to grab him.
+
+112
+00:08:27,830 --> 00:08:29,640
+好消息是他都没在中国
+Now, the good news is he's not even in China.
+
+113
+00:08:29,640 --> 00:08:31,530
+他就在这儿  就在你家后院
+He's right here in your own backyard.
+
+114
+00:08:31,530 --> 00:08:33,130
+如果一切顺利
+If we play our cards right,
+
+115
+00:08:33,210 --> 00:08:35,290
+我还能去里斯本吃个早饭
+I can still make Lisbon by breakfast.
+
+116
+00:08:35,290 --> 00:08:36,860
+罗德里克  两个都要
+Rodrick, both.
+
+117
+00:08:38,160 --> 00:08:40,130
+迈克尔·艾尔瓦拉多  凯文·怀亚特
+Michael Alvarado, Kevin Wyatt,
+
+118
+00:08:37,720 --> 00:08:41,480
+{\an8}联邦调查局  司法部
+
+119
+00:08:40,130 --> 00:08:41,000
+布莱斯·詹森
+Bryce Jensen.
+
+120
+00:08:41,000 --> 00:08:43,390
+三个在中国工作的特工  身份都暴露了
+Three agents based in China, three covers blown.
+
+121
+00:08:43,390 --> 00:08:44,370
+据雷丁顿所说
+According to Reddington,
+
+122
+00:08:44,370 --> 00:08:46,480
+都是被一个叫吴京的人所杀
+all were murdered by a man named Wu Jing.
+
+123
+00:08:46,520 --> 00:08:48,780
+-吴京是谁  -中国有个计划生育政策
+- Who is Wu Jing? - China has a one-child policy.
+
+124
+00:08:48,780 --> 00:08:50,610
+据说吴京是二胎
+They say that Wu Jing was a second child.
+
+125
+00:08:50,610 --> 00:08:52,930
+所以他家抛弃了他  否认他出生过
+So they gave him away, denied he was ever born.
+
+126
+00:08:52,930 --> 00:08:54,520
+对他家来说他根本不存在
+He was invisible to his family.
+
+127
+00:08:54,520 --> 00:08:56,370
+对于吴京所从事的工作
+Wu Jing made a life working in a business
+
+128
+00:08:56,370 --> 00:08:58,750
+不存在是个绝佳的优势
+where invisibility was an incredible asset.
+
+129
+00:08:58,870 --> 00:09:00,550
+雷丁顿告诉你他能找到这个人
+Reddington's told you he can find this guy?
+
+130
+00:09:00,550 --> 00:09:02,910
+他称吴京雇他来破译一条
+He claims Wu Jing has hired him to decode a message
+
+131
+00:09:02,910 --> 00:09:05,230
+中国人从中情局截到的信息
+that the Chinese have intercepted from the C.I.A.
+
+132
+00:09:05,240 --> 00:09:07,260
+他认为里面可能有我们
+He believes that it might contain the identify
+
+133
+00:09:07,260 --> 00:09:08,940
+在中国另一个特工的身份
+of another one of our assets in China.
+
+134
+00:09:08,940 --> 00:09:10,640
+我觉得我们该跟进
+I think we should move on this.
+
+135
+00:09:12,160 --> 00:09:14,230
+我没准备好要做这个
+I'm not prepared to do this.
+
+136
+00:09:14,240 --> 00:09:16,300
+我理解你有顾虑
+I understand you have reservations.
+
+137
+00:09:16,300 --> 00:09:17,850
+顾虑
+Reservations?
+
+138
+00:09:18,070 --> 00:09:21,340
+你让我去监视一个臭名昭著的间谍杀手
+You're asking me to spy on a notorious spy killer
+
+139
+00:09:21,510 --> 00:09:23,860
+还要我假装密码专家
+while pretending to be an expert in cryptography,
+
+140
+00:09:23,860 --> 00:09:24,940
+那个领域我一无所知
+which I know nothing about.
+
+141
+00:09:24,940 --> 00:09:27,090
+雷丁顿坚持要你去
+Reddington insists on you.
+
+142
+00:09:29,130 --> 00:09:30,110
+我很抱歉
+I'm sorry.
+
+143
+00:09:34,860 --> 00:09:36,050
+看看这些照片
+Look at those pictures.
+
+144
+00:09:36,440 --> 00:09:37,930
+如果那条信息里有另一个名字
+If there is a name in that message,
+
+145
+00:09:37,930 --> 00:09:39,960
+那份文件里就会再多一张脸
+there's gonna be another face in that file.
+
+146
+00:09:43,800 --> 00:09:44,910
+那就是你的责任
+That'll be on you.
+
+147
+00:10:39,480 --> 00:10:42,840
+我很快回来  拿一下我的包
+I'll be back in a second. I just need to grab my purse.
+
+148
+00:10:47,300 --> 00:10:48,710
+我以为在台子上呢
+I thought it was on the counter.
+
+149
+00:10:54,500 --> 00:10:55,440
+有人吗
+Hello?
+
+150
+00:10:57,530 --> 00:10:58,920
+找到了吗
+Hey. Did you find it?
+
+151
+00:10:59,220 --> 00:11:00,920
+找到了  不好意思  来了
+Oh, yeah, sorry. I'm coming.
+
+152
+00:11:20,500 --> 00:11:23,740
+如果我做这个  有什么好处
+Okay. Say I do this, what's in it for me?
+
+153
+00:11:23,740 --> 00:11:26,050
+看看你  还要谈条件
+Look at you, camel trading like a Bedouin.
+
+154
+00:11:26,670 --> 00:11:28,950
+如果我帮你  我要有所回报
+If I'm gonna help you, I want something in return.
+
+155
+00:11:28,950 --> 00:11:29,890
+比如
+Such as?
+
+156
+00:11:30,000 --> 00:11:32,260
+真相  就这一次
+The truth. Just once.
+
+157
+00:11:32,770 --> 00:11:34,270
+我想知道你为什么选我
+I want to know why you chose me.
+
+158
+00:11:34,450 --> 00:11:35,830
+好吧  那我们得赶快走了
+Well, then, we need to move quickly.
+
+159
+00:11:35,830 --> 00:11:37,420
+事情已经开始了
+Things are already in play.
+
+160
+00:11:38,380 --> 00:11:40,330
+WDCJ
+WDCJ --
+
+161
+00:11:40,400 --> 00:11:43,950
+是九公里外的一座小型广播站
+a small radio station five miles from here.
+
+162
+00:11:45,050 --> 00:11:47,320
+那幢楼在六年前被一家
+The building was purchased six years ago
+
+163
+00:11:47,320 --> 00:11:50,430
+为中国政府打掩护的公司买了
+by a corporation fronting for the Chinese government.
+
+164
+00:11:50,430 --> 00:11:51,500
+不好意思  等一下
+I'm sorry. Wait.
+
+165
+00:11:51,550 --> 00:11:54,790
+你是说吴京在利用广播站
+You're telling us that Wu Jing is running a spy ring
+
+166
+00:11:54,790 --> 00:11:56,440
+进行间谍活动吗
+out of a radio station?
+
+167
+00:12:01,580 --> 00:12:02,950
+我们会与吴京见面
+We'll meet Wu Jing.
+
+168
+00:12:02,950 --> 00:12:06,010
+你来破译信息并将其传给你的人
+You'll decode the message and transmit it to your team.
+
+169
+00:12:06,020 --> 00:12:07,040
+如果我破译了信息
+If I decode the message,
+
+170
+00:12:07,040 --> 00:12:08,500
+这意味着中国人也会拿到
+that means the Chinese get it, too.
+
+171
+00:12:08,500 --> 00:12:10,470
+就是这样  你和中国人
+Exactly -- both you and the Chinese
+
+172
+00:12:10,470 --> 00:12:12,070
+都会知道这条信息
+will know the name of the agent
+
+173
+00:12:12,070 --> 00:12:13,580
+所涉及的特工名字
+for which the message was intended,
+
+174
+00:12:13,580 --> 00:12:15,080
+然后就是比速度了
+and the race begins.
+
+175
+00:12:15,150 --> 00:12:17,480
+我们要救他  而中国人要杀掉他
+We try to save him. The Chinese try to kill him.
+
+176
+00:12:17,480 --> 00:12:19,230
+-我们可以给他们个虚假信息  -不行
+- We could give them a false message. - No.
+
+177
+00:12:19,240 --> 00:12:20,950
+这个可行  我们可以误导他们
+That could work. We could send them in the wrong direction.
+
+178
+00:12:20,960 --> 00:12:22,250
+我说了不行
+I said no.
+
+179
+00:12:23,150 --> 00:12:25,200
+中国人可能不知道这条信息是什么
+The Chinese may not know what the message is,
+
+180
+00:12:25,200 --> 00:12:27,530
+但是他们肯定会分辨假信息
+but they certainly know what it isn't.
+
+181
+00:12:27,530 --> 00:12:29,980
+要来就来真的  要不然就不做
+We do it for real, or we don't do it at all.
+
+182
+00:12:30,240 --> 00:12:32,600
+计划不错  不过如我所言
+Great plan, except, as I have said,
+
+183
+00:12:32,600 --> 00:12:34,550
+我对加密一窍不通
+I know nothing about encryption.
+
+184
+00:12:34,850 --> 00:12:36,520
+你学东西很快
+You're a very quick study.
+
+185
+00:12:37,100 --> 00:12:39,070
+我认识个人可以帮你
+I have a guy who can help you with that.
+
+186
+00:12:39,500 --> 00:12:42,250
+信息会在一个像这样子的闪存里
+
+187
+00:12:42,250 --> 00:12:43,090
+你把它插进去
+
+188
+00:12:43,090 --> 00:12:44,650
+就像个魔盒了
+
+189
+00:12:44,660 --> 00:12:46,270
+中国人会把截获的信息通过这样的闪存
+The Chinese will give you an intercepted message
+
+190
+00:12:46,270 --> 00:12:47,080
+交给你
+on one of these.
+
+191
+00:12:47,080 --> 00:12:49,720
+把它插进去  它会提示你连接一个数据库
+Insert it, and it will prompt you to connect a data locker.
+
+192
+00:12:49,720 --> 00:12:51,700
+李顺说它就像个魔盒
+Shun Lee says it's like a magic box.
+
+193
+00:12:51,700 --> 00:12:52,780
+魔盒
+A magic box?
+
+194
+00:12:52,780 --> 00:12:55,150
+所以你等一下把它插进去
+
+195
+00:12:55,160 --> 00:12:57,620
+数据库会自动解密信息
+The data locker applies a key to the message.
+
+196
+00:12:57,640 --> 00:12:58,500
+这需要花一段时间
+It'll take a moment,
+
+197
+00:12:58,500 --> 00:13:00,830
+不过解码后的信息会出现在你的笔记本上
+but the decoded message will appear on your laptop.
+
+198
+00:13:00,830 --> 00:13:02,450
+那我怎么把信息提取出来
+How do I get the message out?
+
+199
+00:13:02,450 --> 00:13:04,370
+你不用  电脑会帮你做
+You don't. The computer does it for you.
+
+200
+00:13:04,370 --> 00:13:06,150
+你需要的就是一个卫星信号
+All you need is a satellite connection.
+
+201
+00:13:06,160 --> 00:13:07,100
+如果你有问题你把这个插进去
+
+202
+00:13:07,100 --> 00:13:09,050
+这就是我自己做的
+
+203
+00:13:09,050 --> 00:13:11,390
+如果没有卫星信号  就用这个
+If you don't have a satellite connection, use this.
+
+204
+00:13:11,390 --> 00:13:13,250
+这是一个远程镜像程序
+It's a remote mirroring program.
+
+205
+00:13:13,250 --> 00:13:16,040
+可以让我们的技术员在外部控制系统
+It'll give our tech on the outside control of the system.
+
+206
+00:13:16,240 --> 00:13:17,660
+没事的
+It's gonna be okay.
+
+207
+00:13:17,920 --> 00:13:19,330
+我讲得怎么样
+
+208
+00:13:19,530 --> 00:13:21,370
+很棒  你的普通话太赞了
+Great. You're rocking the Mandarin.
+
+209
+00:13:21,380 --> 00:13:22,410
+谢谢
+Xie xie.
+
+210
+00:13:27,260 --> 00:13:28,650
+长官  还有三分钟就到会面时间了
+Three minutes till the meeting, sir.
+
+211
+00:13:28,650 --> 00:13:30,640
+雷丁顿到底在哪  他迟到了
+Where the hell is Reddington? He's late.
+
+212
+00:13:30,640 --> 00:13:32,440
+他会搞砸这事的
+He's gonna blow this whole damn thing.
+
+213
+00:13:32,440 --> 00:13:33,510
+你抽烟吗
+Do you smoke?
+
+214
+00:13:33,570 --> 00:13:35,460
+-不抽  -现在你抽了
+- No. - Well, you do now.
+
+215
+00:13:35,460 --> 00:13:36,860
+或者至少你正在戒烟
+Or at least you're trying to quit.
+
+216
+00:13:36,860 --> 00:13:38,950
+这是中情局全新的设备
+This is C.I.A. equipment. It's brand-new.
+
+217
+00:13:38,950 --> 00:13:40,270
+看起来像尼古丁贴片
+It looks like a nicotine patch,
+
+218
+00:13:40,270 --> 00:13:42,610
+但却是个非常敏感的发射器
+but it's a very sensitive transmitter.
+
+219
+00:13:42,610 --> 00:13:46,340
+270米的传送范围  是塑料聚合物
+It has a range of 300 yards, and it's a plastic polymer,
+
+220
+00:13:46,350 --> 00:13:48,180
+检验器验不出来
+which means it won't show up if it gets wanded.
+
+221
+00:13:48,180 --> 00:13:49,540
+你要是错了怎么办
+And if you're wrong?
+
+222
+00:13:49,540 --> 00:13:50,570
+我不会错
+I'm not wrong.
+
+223
+00:13:52,800 --> 00:13:53,700
+他到底在哪里
+Where the hell is he?
+
+224
+00:13:53,700 --> 00:13:54,600
+他应该一小时前就到
+He was supposed to be here an hour --
+
+225
+00:13:54,600 --> 00:13:55,960
+我们还在等什么
+What are we waiting for?
+
+226
+00:14:03,590 --> 00:14:05,640
+一号监视点  就位了吗
+Surveillance one, are you in position?
+
+227
+00:14:07,340 --> 00:14:09,060
+收到  已经就位
+Roger that. In position.
+
+228
+00:14:09,480 --> 00:14:11,120
+卫星信号良好  运行正常
+Satellite feed up and running.
+
+229
+00:14:23,810 --> 00:14:24,760
+这边请
+Right this way.
+
+230
+00:14:27,900 --> 00:14:29,160
+开始了
+Here we go.
+
+231
+00:14:33,330 --> 00:14:35,410
+先生  抱歉  这是规定
+Sorry, sir. Protocol.
+
+232
+00:14:36,070 --> 00:14:37,290
+女士请上前
+Miss, please.
+
+233
+00:14:55,360 --> 00:14:57,450
+谢谢  先生请上前
+Thank you. Sir?
+
+234
+00:15:08,330 --> 00:15:11,110
+国防高研计划局的8毫米跟踪芯片
+DARPA tracking chip, 8-millimeter tag.
+
+235
+00:15:11,280 --> 00:15:14,030
+我去年三月被索马里海盗抓走了
+I was taken by Somali pirates last March,
+
+236
+00:15:14,030 --> 00:15:16,300
+在船运集装箱里待了三个星期
+spent three weeks in a shipping container.
+
+237
+00:15:16,300 --> 00:15:18,950
+头两个星期噩梦一般
+The first two were a nightmare.
+
+238
+00:15:20,020 --> 00:15:22,300
+第三个星期还挺不错的
+The third one was actually quite pleasant.
+
+239
+00:15:22,300 --> 00:15:24,360
+虽然如此  不会再来一次了
+Even so, that won't happen again.
+
+240
+00:15:27,480 --> 00:15:29,570
+你要是有干净的剃须刀片和吗啡
+If you have a clean razor blade and some morphine,
+
+241
+00:15:29,570 --> 00:15:30,860
+我可以拿掉
+I'll remove it.
+
+242
+00:15:31,260 --> 00:15:34,080
+没必要  但你的同事
+That won't be necessary, but I am going to need
+
+243
+00:15:34,080 --> 00:15:35,990
+要接受指纹扫描
+a biometric print scan from your associate.
+
+244
+00:15:35,990 --> 00:15:38,210
+-她是和我一起的  -明白
+- She's with me. - Understood.
+
+245
+00:15:38,220 --> 00:15:40,840
+但我收到指示要扫描任何新访客
+But my orders are to scan any new visitors.
+
+246
+00:15:43,690 --> 00:15:45,640
+是和什么数据库进行比对的
+What database is this being run against?
+
+247
+00:15:45,640 --> 00:15:46,600
+所有的数据库
+All of them.
+
+248
+00:15:51,490 --> 00:15:52,540
+{\pos(236,155)}指纹分析中
+
+249
+00:15:54,170 --> 00:15:54,900
+发生了什么事
+What's happening?
+
+250
+00:15:55,000 --> 00:15:56,260
+他们在查她的指纹
+They are running her prints.
+
+251
+00:15:56,260 --> 00:15:59,010
+-能拦截吗  -不知道
+- Can you intercept them? - I don't know.
+
+252
+00:16:03,490 --> 00:16:05,230
+原来你们喜欢灰色
+So, you went with the gray?
+
+253
+00:16:10,830 --> 00:16:11,830
+好了
+Okay.
+
+254
+00:16:13,560 --> 00:16:14,410
+消除了
+Vanish.
+
+255
+00:16:17,220 --> 00:16:19,480
+{\pos(212,130)}找不到匹配记录
+
+256
+00:16:27,860 --> 00:16:28,660
+跟我来
+Follow me.
+
+257
+00:16:35,740 --> 00:16:38,020
+如你所见  我们做了些改进
+As you can see, we've made some improvements.
+
+258
+00:16:38,430 --> 00:16:41,320
+你那追踪芯片到里面就失效了
+Oh, your DARPA chip won't work where you're going.
+
+259
+00:16:41,650 --> 00:16:43,570
+到了后吴京会给你们解释
+Wu Jing will explain when you get there.
+
+260
+00:16:43,860 --> 00:16:44,900
+到哪里
+Get where?
+
+261
+00:16:50,490 --> 00:16:51,470
+{\pos(267,194)}信号丢失
+
+262
+00:16:51,700 --> 00:16:53,080
+发生了什么
+What the hell just happened?
+
+263
+00:16:52,920 --> 00:16:53,770
+{\pos(267,197)}信号丢失
+
+264
+00:16:53,120 --> 00:16:54,670
+-没信号了  -不可能就这样消失了
+- We lost them. - We can't just lose them.
+
+265
+00:16:54,670 --> 00:16:56,150
+出了什么问题
+What happened to our signal?
+
+266
+00:16:56,330 --> 00:16:57,520
+他们好像在下降
+They seem to be descending,
+
+267
+00:16:57,520 --> 00:16:58,660
+这没道理啊
+which doesn't make any sense.
+
+268
+00:16:58,660 --> 00:17:00,570
+建筑图纸上没有地下空间
+The blueprints don't show any underground space.
+
+269
+00:17:00,570 --> 00:17:02,120
+把信号找回来
+Get that signal back.
+
+270
+00:17:04,530 --> 00:17:06,460
+你觉得我们会下降多深
+How far down do you think we're going?
+
+271
+00:17:07,360 --> 00:17:08,490
+足够深
+Far enough.
+
+272
+00:17:23,890 --> 00:17:24,720
+我的朋友
+My friend.
+
+273
+00:17:24,720 --> 00:17:27,760
+不必假惺惺的  吴京  你一个朋友都没有
+Don't be cheeky, Wu Jing. You don't have any friends.
+
+274
+00:17:27,760 --> 00:17:29,020
+这是我的同事
+My associate.
+
+275
+00:17:29,020 --> 00:17:30,240
+吉文斯女士
+Ms. Givins.
+
+276
+00:17:30,690 --> 00:17:33,300
+罗宾斯教授只和顶尖人才合作
+Professor Robins only works with the best.
+
+277
+00:17:33,330 --> 00:17:35,130
+他是个了不起的老师
+Oh, he was an amazing teacher.
+
+278
+00:17:35,130 --> 00:17:37,490
+听说他去世了我很遗憾
+I was so sorry to hear that he passed away.
+
+279
+00:17:37,870 --> 00:17:39,670
+你这里做了些改进
+You've made some changes.
+
+280
+00:17:39,680 --> 00:17:42,180
+-我们不得不加强安保  -我能想象
+- We had to increase security. - I can imagine --
+
+281
+00:17:42,180 --> 00:17:45,520
+过去一年半里有四个美国特工被杀
+Four American agents killed in the past year and a half.
+
+282
+00:17:45,740 --> 00:17:46,680
+你一定很忙
+You've been busy.
+
+283
+00:17:46,680 --> 00:17:48,360
+我猜这里屏蔽了一切
+I presume nothing gets in or out,
+
+284
+00:17:48,360 --> 00:17:50,840
+无论是无线电还是卫星传送
+no radio or satellite transmissions.
+
+285
+00:17:50,840 --> 00:17:52,030
+只能凭信任进出
+Nothing but trust.
+
+286
+00:17:52,030 --> 00:17:53,630
+请别介意
+Please don't take offense.
+
+287
+00:17:53,630 --> 00:17:55,790
+这是为了避免被美国人侦听
+I can't risk American surveillance.
+
+288
+00:17:55,790 --> 00:17:58,520
+只有我们的系统通过硬接线与外界连接
+Only our systems are hard-wired to the outside world.
+
+289
+00:17:58,520 --> 00:17:59,570
+开始工作吧
+Let's get to work.
+
+290
+00:17:59,570 --> 00:18:02,870
+我曾在一个地洞里有过很糟糕的经历
+I once had a bad experience in a deep hole in the ground.
+
+291
+00:18:02,870 --> 00:18:05,750
+金隼  新的高级译码员
+Jin Sun, my new senior cryptographer.
+
+292
+00:18:05,800 --> 00:18:08,130
+我们本以为是标准RSA加密算法
+We expected standard RSA encryption,
+
+293
+00:18:08,130 --> 00:18:09,960
+但这个更复杂
+but this was something stronger.
+
+294
+00:18:09,960 --> 00:18:11,490
+政府在实验
+The government's been experimenting
+
+295
+00:18:11,490 --> 00:18:13,260
+更好的因子分解算法
+with better factoring algorithms.
+
+296
+00:18:13,260 --> 00:18:16,100
+淘汰RSA算法是早晚的事
+It's only a matter of time before RSA's obsolete.
+
+297
+00:18:18,010 --> 00:18:19,870
+你说得对
+You're right. It is.
+
+298
+00:18:20,050 --> 00:18:23,330
+我需要一点时间安装设备
+I'll just need a few moments to set up my equipment.
+
+299
+00:18:23,330 --> 00:18:24,090
+这边请
+This way.
+
+300
+00:18:25,090 --> 00:18:26,260
+他们在弄  但还没结果
+They're trying, but still nothing.
+
+301
+00:18:26,260 --> 00:18:28,060
+可能是中国人干扰了我们的信号
+Either the Chinese are scrambling our signals,
+
+302
+00:18:26,980 --> 00:18:27,530
+{\an8}{\pos(227,204)}信号丢失
+
+303
+00:18:28,070 --> 00:18:29,710
+或者莉斯和红魔超出了追踪范围
+or Liz and Red are out of range.
+
+304
+00:18:29,710 --> 00:18:31,600
+我记得你的设备追踪范围是270米
+I thought your equipment had a range of 300 yards.
+
+305
+00:18:31,600 --> 00:18:33,110
+是的  但也许他们在大楼下
+It does, but maybe they've built a bunker
+
+306
+00:18:33,110 --> 00:18:34,410
+挖了个地下室
+that deep under the building.
+
+307
+00:18:34,820 --> 00:18:35,790
+{\pos(217,218)}信号丢失
+
+308
+00:18:36,480 --> 00:18:37,400
+我们被耍了
+We're getting played.
+
+309
+00:18:37,400 --> 00:18:39,540
+红魔和莉兹是故意让信号失灵的
+That signal went dark because Red and Liz wanted it to.
+
+310
+00:18:39,540 --> 00:18:40,720
+不太可能
+That's not likely.
+
+311
+00:18:40,720 --> 00:18:41,900
+我们有多少时间找出确切原因
+How long can we wait to find out?
+
+312
+00:18:41,900 --> 00:18:43,640
+也许是他们有危险呢
+Is it possible they could be in danger?
+
+313
+00:18:43,640 --> 00:18:45,340
+所以我们更加不能这么等下去
+That's another reason not to wait.
+
+314
+00:18:45,570 --> 00:18:47,780
+让所有突击小组待命
+Keep all insertion teams on standby.
+
+315
+00:18:47,780 --> 00:18:50,460
+五分钟后还没有基恩探员的消息就冲进去
+If we don't hear from Agent Keen in five minutes, we're going in.
+
+316
+00:18:54,800 --> 00:18:56,090
+准备好了吗
+We ready yet?
+
+317
+00:18:57,880 --> 00:18:59,810
+{\an8}需要卫星信号
+
+318
+00:19:00,400 --> 00:19:02,210
+你常回家吗  金隼
+Do you get home much, Jin Sun?
+
+319
+00:19:02,420 --> 00:19:03,350
+两年没回去了
+Not for two years.
+
+320
+00:19:03,350 --> 00:19:06,890
+那可真不容易  要是我肯定会很痛苦
+Oh, that must be hard. It certainly would be for me.
+
+321
+00:19:06,890 --> 00:19:08,430
+我连手机都没有
+I don't even have a phone.
+
+322
+00:19:08,550 --> 00:19:11,670
+我坚持亲自传递一切消息
+I insist on delivering all of my messages in person.
+
+323
+00:19:12,650 --> 00:19:15,160
+{\an8}需要卫星信号
+没时间人工传递
+探员会被杀害
+
+324
+00:19:14,350 --> 00:19:15,470
+你的家乡在哪个省
+What province are you from?
+
+325
+00:19:15,470 --> 00:19:16,290
+云南省
+From Yunnan.
+
+326
+00:19:16,300 --> 00:19:18,170
+那可是个美丽的地方
+Oh, beautiful part of the country.
+
+327
+00:19:18,170 --> 00:19:20,480
+我之前在昆明市郊的一个庙里
+I spent a month in silent meditation
+
+328
+00:19:20,480 --> 00:19:23,450
+花了一个月的时间冥想
+at a monastery just outside of Kunming.
+
+329
+00:19:21,400 --> 00:19:24,040
+{\an8}需要卫星信号
+没时间人工传递
+探员会被杀害
+必须用金的电脑
+怎么办
+
+330
+00:19:23,450 --> 00:19:24,890
+那真是一次很好的
+It was a wonderful escape
+
+331
+00:19:24,890 --> 00:19:27,480
+逃离尘世的体验
+from the distractions of everyday life.
+
+332
+00:19:27,480 --> 00:19:31,480
+我都没法想象呆在这下面会有多让人心烦
+I can't imagine the distractions one might encounter down here.
+
+333
+00:19:31,490 --> 00:19:32,510
+你觉得呢
+Can you?
+
+334
+00:19:34,140 --> 00:19:37,050
+是啊  无法想象
+No. I can't.
+
+335
+00:19:34,960 --> 00:19:36,430
+{\an8}必须用金的电脑
+怎么办
+没错  分散他们的注意力
+
+336
+00:19:37,100 --> 00:19:38,020
+很好
+Excellent.
+
+337
+00:19:39,490 --> 00:19:42,600
+我觉得差不多准备好了  这应该很有意思
+I think we're almost ready. This should be fun.
+
+338
+00:19:47,520 --> 00:19:48,950
+那是什么
+What the hell is that?
+
+339
+00:19:49,260 --> 00:19:51,990
+我发誓  如果你让我再碰到跟上次
+I swear, if I run into the same trouble
+
+340
+00:19:52,000 --> 00:19:53,860
+在香港一样的状况
+I had with you in Hong Kong...
+
+341
+00:19:53,860 --> 00:19:56,770
+我们认识这么多年了
+In all the years you and I have known each other,
+
+342
+00:19:56,770 --> 00:19:59,510
+我可从来没让你陷入这样的境地
+I've never put you in a position like this.
+
+343
+00:19:59,510 --> 00:20:01,610
+你知道我怎么做生意的
+You know how I conduct my business.
+
+344
+00:20:01,610 --> 00:20:03,220
+我可不想惹上这些麻烦
+I don't need this kind of crap.
+
+345
+00:20:03,230 --> 00:20:05,560
+你向我保证这里肯定安全
+You assured me this place was secure.
+
+346
+00:20:05,570 --> 00:20:07,470
+-是很安全 -那是什么
+- It is. - Then what the hell is that?!
+
+347
+00:20:07,470 --> 00:20:08,510
+那辆厢式货车
+That van.
+
+348
+00:20:08,540 --> 00:20:10,840
+我们到的时候它就在那里了  现在还在
+It was there when we arrived, and it's still there.
+
+349
+00:20:10,840 --> 00:20:12,830
+肯定是联邦调查局
+That is the FBI.
+
+350
+00:20:12,880 --> 00:20:15,320
+弄了那么多扫描检查
+With all the scans and wands
+
+351
+00:20:15,320 --> 00:20:19,030
+还建了这个连接到中土世界的电梯
+and this elevator you've built that goes down to middle earth,
+
+352
+00:20:19,030 --> 00:20:21,190
+你们居然没去检查一下
+and you don't even bother to sweep the street
+
+353
+00:20:21,200 --> 00:20:21,830
+这周边的街道  真是太扯了
+around your building? This is nonsense.
+
+354
+00:20:21,830 --> 00:20:24,130
+-冷静点  朋友  -你被监视了
+- Calm down, old friend. - You're under surveillance!
+
+355
+00:20:24,130 --> 00:20:28,540
+如果联调局在外边  那也是你引来的
+If the FBI was outside, it's because you led them here.
+
+356
+00:20:31,720 --> 00:20:33,850
+这20年我在全球各地
+I've been moving comfortably through the world
+
+357
+00:20:33,850 --> 00:20:36,160
+来去自如  无影无踪
+for the past 20 years without a trace.
+
+358
+00:20:36,160 --> 00:20:38,230
+难道现在几个不入流的间谍杀手
+And now some two-bit spy killer
+
+359
+00:20:38,230 --> 00:20:41,310
+就想置我和我的事业于险境吗
+is gonna put my life and business in jeopardy?
+
+360
+00:20:48,060 --> 00:20:49,730
+外面那辆面包车
+
+361
+00:20:50,180 --> 00:20:51,640
+看看怎么回事
+
+362
+00:20:59,280 --> 00:21:01,320
+有情况  所有人注意
+We have activity. Everybody, heads up.
+
+363
+00:21:03,530 --> 00:21:06,140
+被发现了  你两点钟方向  15秒内撤离
+We're made. Your 2 o'clock. Break it down. 15 seconds.
+
+364
+00:21:06,140 --> 00:21:07,770
+该走了  收起来
+We got to go. Pack it up.
+
+365
+00:21:07,790 --> 00:21:10,690
+你
+You!
+
+366
+00:21:22,140 --> 00:21:24,070
+-我们暴露了  -有可能
+- They know we're here. - Maybe,
+
+367
+00:21:24,070 --> 00:21:25,000
+也有可能只是
+or maybe the van's just
+
+368
+00:21:25,000 --> 00:21:26,870
+这货车停太久引起他们的警觉了
+been there too long and they're being careful.
+
+369
+00:21:26,880 --> 00:21:30,040
+我不喜欢这样  等我信号就进去
+I don't like it. We're going in on my signal.
+
+370
+00:21:41,700 --> 00:21:42,890
+难以置信
+Unbelievable.
+
+371
+00:21:44,290 --> 00:21:46,840
+看到没  什么都没有
+You see? Nothing.
+
+372
+00:21:48,460 --> 00:21:51,070
+可以继续了吗
+Now...can we continue?
+
+373
+00:21:51,070 --> 00:21:52,690
+你真该为自己感到羞耻
+You should be ashamed of yourself.
+
+374
+00:21:52,690 --> 00:21:56,400
+置我和吉文斯女士于险境  太不专业了
+To put Ms. Givins and I at risk, it's unprofessional.
+
+375
+00:21:56,410 --> 00:21:58,470
+-我不能忍了  -够了
+- I've reached my limit. - Enough!
+
+376
+00:21:58,600 --> 00:21:59,410
+什么
+What?
+
+377
+00:22:00,540 --> 00:22:02,840
+好吧  好吧  对不起
+Okay. Okay. You know, I'm sorry.
+
+378
+00:22:02,840 --> 00:22:04,540
+我今天不太顺
+I've had a rough day.
+
+379
+00:22:06,050 --> 00:22:07,390
+难以置信
+Unbelievable.
+
+380
+00:22:08,840 --> 00:22:10,080
+可以开始了吗
+Should we do this?
+
+381
+00:22:10,080 --> 00:22:12,420
+出发  1分钟后到达
+Let's roll. E.T.A. -- one minute.
+
+382
+00:22:19,730 --> 00:22:20,740
+信息在这里面
+The message.
+
+383
+00:22:39,770 --> 00:22:41,250
+你不怀念那些
+Don't you miss the good old days
+
+384
+00:22:41,250 --> 00:22:43,870
+用公用电话和险中逃生的美好时光吗
+with the pay phones and the brush pasts?
+
+385
+00:22:44,610 --> 00:22:46,000
+还剩30秒
+30 seconds out.
+
+386
+00:22:46,060 --> 00:22:47,680
+等等  我收到了一些东西
+Wait. I've got something.
+
+387
+00:22:47,680 --> 00:22:49,330
+她在用远程镜像程序
+She's using the remote mirroring program.
+
+388
+00:22:49,330 --> 00:22:51,350
+米拉的联系人给她的
+Meera's contact gave her.
+
+389
+00:22:51,350 --> 00:22:53,340
+等等  这不是她的电脑
+Uh, hang on. This isn't her computer.
+
+390
+00:22:53,340 --> 00:22:55,270
+看起来是个中文系统
+It looks like one of the Chinese systems.
+
+391
+00:22:55,270 --> 00:22:56,710
+有中情局的信息吗
+Can you see the C.I.A. message?
+
+392
+00:22:56,710 --> 00:22:58,600
+是的  长官  还不止那些  正在下载
+Yes, sir, and a lot more than that. Downloading now.
+
+393
+00:22:58,600 --> 00:23:01,250
+-还剩10秒  -所有单位  撤退
+- 10 seconds out. - Okay, all units, stand down.
+
+394
+00:23:01,250 --> 00:23:02,700
+重复  撤退
+I repeat, stand down.
+
+395
+00:23:02,700 --> 00:23:05,400
+重复  所有单位  撤退
+I repeat, all units stand down.
+
+396
+00:23:06,040 --> 00:23:07,170
+撤退中
+Standing down.
+
+397
+00:23:23,800 --> 00:23:26,920
+这是你下一个目标  第五个要干掉的人
+There's your next target -- kill number five.
+
+398
+00:23:27,250 --> 00:23:28,710
+亨利·周
+Henry Cho.
+
+399
+00:23:37,900 --> 00:23:40,990
+收到信息了  目标是亨利·周
+We have the message. The target is Henry Cho.
+
+400
+00:23:40,990 --> 00:23:41,960
+好  抓紧时间
+All right. The clock is ticking.
+
+401
+00:23:41,960 --> 00:23:43,830
+把这人的所有资料都找出来
+I want everything we can find on this guy.
+
+402
+00:23:43,830 --> 00:23:45,590
+信息是从中情局服务器
+This was sent from a C.I.A. server,
+
+403
+00:23:45,590 --> 00:23:48,290
+发到南京古南都饭店的服务器的
+delivered to a server at the Nanjing Grand Hotel.
+
+404
+00:23:48,290 --> 00:23:51,480
+周先生  为什么中情局要往你住的酒店
+So, Mr. Cho, why is the C.I.A. sending you secret messages
+
+405
+00:23:51,480 --> 00:23:52,670
+发秘密信息呢
+at your hotel?
+
+406
+00:23:52,680 --> 00:23:54,530
+等等  这个人不是探员
+Hold on. This guy's not an agent.
+
+407
+00:23:54,540 --> 00:23:56,300
+他是中美混血  一名建筑师
+He's Chinese-American, an architect.
+
+408
+00:23:56,310 --> 00:23:57,750
+建筑师
+An architect?
+
+409
+00:23:57,960 --> 00:24:00,130
+那他怎么和中情局扯上关系的
+Then why the hell is he talking to the C.I.A.?
+
+410
+00:24:00,320 --> 00:24:01,860
+因为我们找他帮忙
+Because we asked for his help.
+
+411
+00:24:03,760 --> 00:24:06,730
+亨利·周在中库建筑公司工作
+Henry Cho works for Zhongku Construction.
+
+412
+00:24:06,820 --> 00:24:08,770
+不是在中国  是在华盛顿特区
+Not in China, here in D.C.
+
+413
+00:24:08,770 --> 00:24:10,930
+中库  那可是家很大的建筑公司
+Zhongku -- they're a huge construction company.
+
+414
+00:24:09,150 --> 00:24:10,860
+{\pos(100,20)}美国司法部  联邦调查局
+
+415
+00:24:10,930 --> 00:24:12,470
+他们设计的建筑遍布世界各地
+They design buildings all over the world.
+
+416
+00:24:12,470 --> 00:24:14,970
+他的出入境档案显示他在过去十个月中
+His immigration file says he's been to the company headquarters
+
+417
+00:24:14,970 --> 00:24:17,120
+六次前往公司总部
+6 times in the last 10 months.
+
+418
+00:24:17,120 --> 00:24:18,470
+那就是中情局接触他的原因
+That's why the C.I.A. reached out to him.
+
+419
+00:24:18,470 --> 00:24:21,090
+中库正在为上海设计一座新的政府大楼
+Zhongku's designing a new government building in Shanghai.
+
+420
+00:24:21,210 --> 00:24:23,610
+我们请亨利利用他的权限帮我们拿到图纸
+We asked Henry to use his access to get us the plans.
+
+421
+00:24:23,610 --> 00:24:26,880
+多亏他  我们窃听了整幢军委大楼
+Thanks to him, our ops bugged the entire city military commission.
+
+422
+00:24:26,880 --> 00:24:28,160
+咱们把话说明白
+Let me get this straight.
+
+423
+00:24:28,340 --> 00:24:29,710
+这个人不是训练有素的特工
+This guy's not a trained operative.
+
+424
+00:24:29,720 --> 00:24:31,770
+他只是一名  承包商
+He's just a... contractor?
+
+425
+00:24:32,140 --> 00:24:33,180
+一个平民
+A civilian.
+
+426
+00:24:34,840 --> 00:24:35,860
+他现在在哪里
+Where is he now?
+
+427
+00:24:35,860 --> 00:24:36,670
+就在这里
+Here.
+
+428
+00:24:36,690 --> 00:24:39,210
+入境档案显示他三天之前离开中国
+Immigration says he left China three days ago,
+
+429
+00:24:36,970 --> 00:24:39,480
+{\an8}飞行记录
+
+430
+00:24:39,210 --> 00:24:41,070
+乘机抵达杜勒斯机场
+a return flight to Dulles Airport.
+
+431
+00:24:41,900 --> 00:24:44,040
+谢谢你  阿兰姆  不用谢
+Thank you, Aram. You're welcome.
+
+432
+00:24:45,430 --> 00:24:46,000
+找到他
+Go get him.
+
+433
+00:24:46,000 --> 00:24:48,100
+-中库建筑公司  -请转亨利·周
+- Zhongku Construction. - Henry Cho, please.
+
+434
+00:24:49,360 --> 00:24:52,610
+我需要立刻和他通话  是非常重要的事情
+It's very important that I speak to him immediately.
+
+435
+00:24:52,920 --> 00:24:55,570
+他的兄弟  小平  出了车祸
+His brother, Xiaoping, has been in a car accident.
+
+436
+00:24:55,570 --> 00:24:57,590
+他和他的儿子在我们费尔围的楼那边
+He's at our Fairview Property with his son.
+
+437
+00:24:57,590 --> 00:24:59,280
+我可以试试给他打电话
+I can try to call him --
+
+438
+00:25:00,790 --> 00:25:02,930
+找到姓周的  干掉他
+
+439
+00:25:05,410 --> 00:25:07,070
+他不接电话
+There's no answer on his cell.
+
+440
+00:25:07,070 --> 00:25:09,050
+给公司打电话  问问他在哪
+Call the company. Find out where he is.
+
+441
+00:25:20,490 --> 00:25:22,800
+我的朋友  多少感谢都不够
+My friend, I can't thank you enough.
+
+442
+00:25:22,810 --> 00:25:24,720
+这些就够了
+This is all the thanks I require.
+
+443
+00:25:25,180 --> 00:25:26,970
+拿上你的东西  是时候离开了
+Get your things. It's time to go.
+
+444
+00:25:27,950 --> 00:25:28,820
+别管了
+Leave it.
+
+445
+00:25:35,640 --> 00:25:36,510
+封锁出入口
+Lock it down.
+
+446
+00:25:38,500 --> 00:25:39,270
+站住
+Stop!
+
+447
+00:25:47,560 --> 00:25:48,390
+你是对的
+You were right.
+
+448
+00:25:49,890 --> 00:25:52,250
+也许外面是联调局的人
+Maybe that was the F.B.I. outside.
+
+449
+00:25:52,400 --> 00:25:55,270
+事实上  也许他们不止在外面
+In fact, maybe they're not just outside.
+
+450
+00:25:55,720 --> 00:25:59,190
+也许他们就在这间屋子里
+Maybe they're right here in this room.
+
+451
+00:26:01,120 --> 00:26:04,290
+要指控别人之前  先自己想清楚
+Think hard before you accuse anybody of anything.
+
+452
+00:26:04,870 --> 00:26:06,110
+几分钟之前
+A few minutes ago,
+
+453
+00:26:06,390 --> 00:26:10,630
+有人在这里连上了联调局的服务器
+contact was made from this room to an FBI server.
+
+454
+00:26:10,990 --> 00:26:14,400
+我付出如此努力劫来的信息
+A message I worked so hard to intercept
+
+455
+00:26:14,400 --> 00:26:16,280
+被传送给了美国人
+was sent to the Americans.
+
+456
+00:26:16,670 --> 00:26:20,880
+我的直觉告诉我是她干的
+Well, all my instincts said it was her.
+
+457
+00:26:21,420 --> 00:26:23,000
+我很相信我的直觉
+I trust my instincts.
+
+458
+00:26:24,460 --> 00:26:25,610
+你很聪明
+You're smart.
+
+459
+00:26:27,540 --> 00:26:29,790
+干这事的人很聪明
+The one responsible was smart,
+
+460
+00:26:30,520 --> 00:26:32,130
+但是我们的系统更聪明
+but our systems are smarter.
+
+461
+00:26:32,590 --> 00:26:36,440
+任何与政府服务器的连接都会被标记以供检查
+Any contact with a government server is flagged for review.
+
+462
+00:26:37,470 --> 00:26:38,370
+所以
+So...
+
+463
+00:26:39,500 --> 00:26:41,070
+我知道是谁背叛了我们
+I know who betrayed us.
+
+464
+00:26:54,750 --> 00:26:55,730
+他不在办公室
+He's not at the office.
+
+465
+00:26:55,730 --> 00:26:57,900
+他跟一个客户在费尔围和华莱士街交口的楼里
+He's with a client at a property at Fairview and Wallace.
+
+466
+00:26:57,910 --> 00:26:58,910
+再给他打一遍
+Try him again.
+
+467
+00:27:00,850 --> 00:27:04,140
+这里  会有几扇窗
+So, over here, they're gonna make some windows.
+
+468
+00:27:04,620 --> 00:27:05,830
+外面这里
+And out here...
+
+469
+00:27:06,330 --> 00:27:07,600
+会是个露台
+there's gonna be a balcony
+
+470
+00:27:07,600 --> 00:27:08,500
+露台会横跨整座楼
+that runs the length of the whole build--
+
+471
+00:27:08,500 --> 00:27:11,650
+-你说过要吃冰激凌的  -好的
+- You said we were gonna get ice cream. - Okay.
+
+472
+00:27:11,720 --> 00:27:13,760
+我先给你看点别的东西
+Let me just show you something else first.
+
+473
+00:27:14,720 --> 00:27:15,730
+把他拉起来
+Get him up.
+
+474
+00:27:20,820 --> 00:27:23,900
+-我还以为你很忠心呢  -我不明白
+- I thought you were loyal to us. - I don't understand.
+
+475
+00:27:23,900 --> 00:27:26,290
+信息是从你的系统传出去的  金隼
+The message was sent from your system, Jin Sun.
+
+476
+00:27:26,290 --> 00:27:27,640
+这  这不可能
+T-that's not possible.
+
+477
+00:27:28,900 --> 00:27:29,500
+不可能
+That's not possible.
+
+478
+00:27:29,500 --> 00:27:32,800
+就是如此  而且不止是那信息
+It is, and not just one message.
+
+479
+00:27:32,800 --> 00:27:34,770
+你把所有东西都给他们了
+You gave them everything,
+
+480
+00:27:34,770 --> 00:27:37,100
+包括我们研究了几个月的文件
+files we've worked on for months!
+
+481
+00:27:37,280 --> 00:27:39,590
+别人都没有权限
+Nobody else had access.
+
+482
+00:27:40,170 --> 00:27:41,500
+我们得阻止他们
+We have to do something.
+
+483
+00:27:41,930 --> 00:27:42,870
+安静
+Quiet.
+
+484
+00:27:47,260 --> 00:27:48,920
+我们不能让他们这么干
+We can't just let them do this.
+
+485
+00:27:48,920 --> 00:27:50,200
+你背叛了我
+
+486
+00:27:50,730 --> 00:27:52,000
+背叛了国家
+
+487
+00:27:53,000 --> 00:27:54,880
+把秘密卖给美国人
+
+488
+00:27:57,860 --> 00:27:59,320
+你不觉得害臊吗
+
+489
+00:28:25,440 --> 00:28:26,330
+你
+You --
+
+490
+00:28:33,330 --> 00:28:35,150
+尽管这场面挺有意思的
+As entertaining as all this has been,
+
+491
+00:28:35,150 --> 00:28:37,350
+但我们真的得走了
+we really do need to leave now.
+
+492
+00:28:37,350 --> 00:28:40,400
+联调局马上就会来找你们了
+The next sound you hear is gonna be the FBI knocking on your door,
+
+493
+00:28:40,400 --> 00:28:42,260
+而我  决不能留在这里
+and I, for one, am not gonna be here.
+
+494
+00:28:43,150 --> 00:28:45,550
+吴京  看着我
+Wu Jing! Look at me!
+
+495
+00:28:52,510 --> 00:28:54,170
+你杀了我的人
+You don't kill one of my people.
+
+496
+00:28:55,770 --> 00:28:57,530
+现在我也要杀一个你的人
+Now I have to kill one of yours.
+
+497
+00:29:00,220 --> 00:29:02,770
+从他发送消息的那一刻起
+The moment he sent that message,
+
+498
+00:29:02,770 --> 00:29:04,390
+他对你就没用了
+he became worthless to you.
+
+499
+00:29:04,850 --> 00:29:07,100
+你会再揍他二十分钟
+You would have beaten him for another 20 minutes
+
+500
+00:29:07,100 --> 00:29:08,720
+然后亲手杀了他
+and then killed him yourself.
+
+501
+00:29:08,720 --> 00:29:12,140
+但如果我让你杀死我的人
+But if I let you kill a contractor of mine,
+
+502
+00:29:12,150 --> 00:29:13,960
+以后就没人会信任我了
+I'll lose the trust of all my others,
+
+503
+00:29:13,970 --> 00:29:15,690
+也就没生意好做了
+and that's just bad business.
+
+504
+00:29:15,690 --> 00:29:18,400
+所以如果你要杀她  最好把我也杀了
+So if you kill her, you better kill me.
+
+505
+00:29:19,260 --> 00:29:21,050
+否则我就要杀了你
+Or I'm going to kill you.
+
+506
+00:29:26,040 --> 00:29:28,450
+你雇我干活  我干完了
+You hired me to do a job. It's done.
+
+507
+00:29:28,450 --> 00:29:29,770
+现在离开这吧
+Now let's get out of here.
+
+508
+00:29:33,520 --> 00:29:34,570
+跟我来
+Follow me.
+
+509
+00:29:35,210 --> 00:29:36,740
+还有一条出路
+I have another way out.
+
+510
+00:29:43,420 --> 00:29:44,990
+我们去吃冰激凌  好吗
+Let's go get you some ice cream, all right?
+
+511
+00:29:45,000 --> 00:29:45,780
+好
+Okay.
+
+512
+00:29:48,400 --> 00:29:48,980
+喂
+Hello?
+
+513
+00:29:48,980 --> 00:29:51,400
+周先生  我是中情局的米拉·马丽科特工
+Mr. Cho, this is Agent Meera Malik with the C.I.A.
+
+514
+00:29:51,400 --> 00:29:53,040
+中情局  我不明白
+C.I.A.? I don't understand.
+
+515
+00:29:53,050 --> 00:29:54,510
+你们不该打我这个电话的
+You're not supposed to be calling me on this line.
+
+516
+00:29:54,510 --> 00:29:56,110
+听我说  你现在有危险
+Listen to me. You are in danger.
+
+517
+00:29:56,110 --> 00:29:57,590
+听清了吗  中国人知道你名字了
+Can you hear me? The Chinese have your name.
+
+518
+00:29:57,590 --> 00:29:59,200
+有人往你那里去了
+There are men on their way to your location.
+
+519
+00:29:59,200 --> 00:30:00,840
+-我们在12层  -待在那儿别动
+- We're on the 12th floor. - Stay where you are.
+
+520
+00:30:00,840 --> 00:30:01,790
+我们来救你
+We're coming to get you.
+
+521
+00:30:01,800 --> 00:30:03,490
+躲好  我们很快就到
+Stay hidden. We're just minutes out.
+
+522
+00:30:08,000 --> 00:30:08,820
+爸爸
+Dad?
+
+523
+00:30:10,150 --> 00:30:12,180
+过来  过来  我们走
+Come here. Come here. Let's go.
+
+524
+00:30:20,760 --> 00:30:23,190
+我在这苦心经营了三年
+I've been building this place for three years,
+
+525
+00:30:23,500 --> 00:30:25,560
+现在却毁于一旦
+and now my operation is burned.
+
+526
+00:30:25,810 --> 00:30:27,090
+那就再弄一个
+So build another.
+
+527
+00:30:27,690 --> 00:30:29,160
+长官  找到他们了
+Sir, I've got them.
+
+528
+00:30:29,160 --> 00:30:30,860
+红魔脖子里的芯片刚刚上线
+The microchip in Red's neck just came online
+
+529
+00:30:30,860 --> 00:30:32,590
+还有我们放在基恩探员身上的窃听器
+and the bug we put on Agent Keen.
+
+530
+00:30:32,600 --> 00:30:35,220
+他们离开了那幢楼  正在丹佛斯路向西行驶
+They're out of the building, moving west on Danforth.
+
+531
+00:30:35,220 --> 00:30:36,510
+他们要去哪里
+Where the hell are they going?
+
+532
+00:30:36,560 --> 00:30:38,870
+派特工拦截他们
+Just send agents to intercept them.
+
+533
+00:31:05,940 --> 00:31:07,040
+藏好  藏好
+Get underneath. Get underneath.
+
+534
+00:31:07,700 --> 00:31:08,860
+听我说
+Listen. Listen.
+
+535
+00:31:09,430 --> 00:31:10,690
+别动  知道吗
+Don't move, all right?
+
+536
+00:31:11,290 --> 00:31:12,290
+千万别动
+Just don't move.
+
+537
+00:31:12,350 --> 00:31:13,700
+把手放好
+No, put your hand in.
+
+538
+00:31:36,130 --> 00:31:37,950
+喂  回来
+
+539
+00:31:38,980 --> 00:31:40,580
+已经没有机会走了
+
+540
+00:32:39,170 --> 00:32:39,870
+不
+No!
+
+541
+00:32:39,870 --> 00:32:41,950
+住手  爸爸
+Stop! Dad!
+
+542
+00:32:41,950 --> 00:32:44,980
+爸爸  爸爸
+Dad! Dad! Dad! Dad!
+
+543
+00:32:44,980 --> 00:32:46,960
+放开他  放开我儿子
+Hey! Hey! Hey! Hey! Let him go! Let my son go!
+
+544
+00:32:46,960 --> 00:32:49,600
+拜托了  放了我儿子
+Please! Please! Just let my son go! Please!
+
+545
+00:32:49,600 --> 00:32:52,460
+没事的  没事的  我什么都愿意做
+It's gonna be okay. It's gonna be okay. I'll do anything.
+
+546
+00:33:02,640 --> 00:33:04,370
+放了他吧  不会有事的
+Just let him go. It's gonna be all right.
+
+547
+00:33:04,370 --> 00:33:08,140
+-不会有事的  我保证  -爸爸
+- It's gonna be all right. I promise. I promise. - Dad!
+
+548
+00:33:20,540 --> 00:33:21,960
+雷斯勒  这边搞定了
+Ressler, clear!
+
+549
+00:33:22,940 --> 00:33:24,540
+雷斯勒  没事吧
+Ressler, clear?
+
+550
+00:33:26,200 --> 00:33:27,600
+我没事  谢谢
+I'm good. Thanks.
+
+551
+00:33:37,400 --> 00:33:38,270
+谢谢你
+Thank you.
+
+552
+00:33:38,810 --> 00:33:40,630
+谢谢你为我们所做的一切
+Thank you for all you've done for us.
+
+553
+00:33:48,040 --> 00:33:49,910
+我可以带大家离开这个国家
+I can get us out of the country.
+
+554
+00:33:50,040 --> 00:33:51,140
+那真是太好了
+That's very kind,
+
+555
+00:33:51,140 --> 00:33:53,620
+但我确信我们可以自己应付
+but I'm sure we can muddle through on our own.
+
+556
+00:33:57,490 --> 00:34:00,100
+找个阴凉处停车就好
+Anywhere in the shade up here would be fine.
+
+557
+00:34:16,530 --> 00:34:18,120
+恐怕会让你失望了
+I fear I've disappointed you.
+
+558
+00:34:18,120 --> 00:34:18,910
+我们说好的是
+The deal was for us
+
+559
+00:34:18,910 --> 00:34:21,730
+抓到黑名单上的罪犯
+to actually catch the criminals on the blacklist,
+
+560
+00:34:21,730 --> 00:34:24,540
+而现在吴京已经差不多半只脚踏进北京了
+and now Wu Jing is as good as halfway to Beijing.
+
+561
+00:34:24,680 --> 00:34:25,930
+我看未必
+I don't think so.
+
+562
+00:34:30,180 --> 00:34:31,510
+-没事吧  -没事
+- Is everything okay? - We're fine.
+
+563
+00:34:45,540 --> 00:34:47,560
+快  快  举起手来
+Move! Move! Let me see your hands!
+
+564
+00:34:47,560 --> 00:34:49,410
+下车  下车  下车
+Get out! Get out! Get out!
+
+565
+00:34:49,960 --> 00:34:50,920
+-靠在车上  -拦截成功
+- Up on the car! - The package is secure.
+
+566
+00:34:51,480 --> 00:34:53,320
+嫌犯已被扣押
+Suspect in custody now.
+
+567
+00:35:00,900 --> 00:35:02,120
+璐丽跟我一起
+Luli can stay with me.
+
+568
+00:35:02,120 --> 00:35:04,320
+邓比会载你去你想去的地方
+Dembe will take you wherever you need to go.
+
+569
+00:35:04,990 --> 00:35:06,490
+你没必要杀他
+You didn't have to kill him.
+
+570
+00:35:07,930 --> 00:35:09,500
+为了确保你的生命安全
+I believe I will always do
+
+571
+00:35:09,500 --> 00:35:12,700
+不管什么事  我都会义无反顾去做的
+whatever I feel I have to do to keep you alive.
+
+572
+00:35:19,420 --> 00:35:21,850
+我该做的都已经做了  现在该你了
+I held up my end of the deal. Now it's your turn.
+
+573
+00:35:21,850 --> 00:35:23,250
+你还没告诉我答案
+You owe me an answer.
+
+574
+00:35:26,040 --> 00:35:27,220
+问题是什么
+What's the question?
+
+575
+00:35:27,820 --> 00:35:28,800
+为什么是我
+Why me?
+
+576
+00:35:32,400 --> 00:35:33,790
+因为你父亲
+Because of your father.
+
+577
+00:35:37,350 --> 00:35:38,630
+什么意思
+What does that mean?
+
+578
+00:35:39,820 --> 00:35:41,220
+你认识我父亲吗
+Did you know my father?
+
+579
+00:35:42,090 --> 00:35:43,870
+你们俩在哪见过面吗
+Have the two of you met somehow?
+
+580
+00:35:48,030 --> 00:35:51,740
+我希望答案可以像问题那样简单
+I wish the answer were as simple as the question seems.
+
+581
+00:35:52,170 --> 00:35:54,890
+但事实上  你的问题同样不简单
+But the truth is, the question isn't simple, either.
+
+582
+00:35:57,470 --> 00:35:59,160
+我能体会你的沮丧
+I share your frustration.
+
+583
+00:35:59,300 --> 00:36:01,660
+你搞得咱俩一样似的  你错了
+You act like we're the same. You're wrong.
+
+584
+00:36:01,670 --> 00:36:04,680
+我有我的生活  有人关心我
+I have a life, people who care about me.
+
+585
+00:36:04,680 --> 00:36:09,420
+可是你  这就是你的全部
+But you... This is all you have.
+
+586
+00:36:11,570 --> 00:36:13,080
+我有你
+I have you.
+
+587
+00:36:34,930 --> 00:36:35,960
+你还好吗
+You okay?
+
+588
+00:36:36,220 --> 00:36:37,330
+凑合吧
+I'll live.
+
+589
+00:36:38,510 --> 00:36:40,750
+听着  我只是想说
+Look, I just wanted to say, uh...
+
+590
+00:36:45,500 --> 00:36:47,570
+也许我以前对你有一些质疑
+Maybe I've had some doubts about you.
+
+591
+00:36:48,700 --> 00:36:50,890
+而且我也没把这些想法隐藏起来
+Maybe I haven't done the best job of keeping them to myself,
+
+592
+00:36:50,890 --> 00:36:54,040
+但你今天做得真的很棒
+but what you did today was good work.
+
+593
+00:36:56,180 --> 00:36:57,280
+谢谢
+Thanks.
+
+594
+00:36:59,140 --> 00:37:00,890
+要不是你传出的那条消息
+If you didn't get that message out when you did,
+
+595
+00:37:00,900 --> 00:37:02,530
+亨利·周肯定活不了
+Henry Cho wouldn't be alive.
+
+596
+00:37:10,140 --> 00:37:12,000
+不管在里边发生了什么事
+Whatever else went down in there,
+
+597
+00:37:12,950 --> 00:37:14,620
+你都不该自责
+you should feel good about that.
+
+598
+00:37:28,030 --> 00:37:31,760
+{\pos(225,176)}弹道测试报告
+
+599
+00:37:38,670 --> 00:37:41,790
+{\an9}{\an9}♬Caught in a riptide♬
+
+600
+00:37:45,690 --> 00:37:50,970
+{\an9}{\an9}♬I was searching for the truth♬
+
+601
+00:37:53,680 --> 00:37:58,260
+{\an9}{\an9}♬There was a reason♬
+
+602
+00:38:00,260 --> 00:38:04,250
+{\an9}{\an9}♬I collided into you♬
+
+603
+00:38:06,770 --> 00:38:12,430
+{\an9}{\an9}♬Calling your name in the midnight hour♬
+
+604
+00:38:07,650 --> 00:38:09,710
+{\pos(154,120)}弹道测试报告
+
+605
+00:38:14,120 --> 00:38:19,860
+{\an9}{\an9}♬Reaching for you from the endless dream♬
+
+606
+00:38:21,270 --> 00:38:26,620
+{\an9}{\an9}♬So many miles between us now♬
+
+607
+00:38:22,840 --> 00:38:24,000
+{\pos(165,102)}弹道测试报告
+
+608
+00:38:28,740 --> 00:38:33,890
+{\an9}{\an9}♬That you are always here with me♬
+
+609
+00:38:38,460 --> 00:38:39,550
+你说得对
+You were right.
+
+610
+00:38:40,040 --> 00:38:42,060
+莉斯·基恩确实有所隐瞒
+Liz Keen is hiding something.
+
+611
+00:38:42,110 --> 00:38:43,870
+我对她进行了标记
+I put a flag on her.
+
+612
+00:38:44,010 --> 00:38:45,370
+任何测试  报告  文件
+Any tests, reports, or files--
+
+613
+00:38:45,370 --> 00:38:47,830
+任何她要的文件  都会先发给我们
+Anything she requests gets sent to us first.
+
+614
+00:38:47,960 --> 00:38:50,700
+她拿了一枚子弹和弹壳去做弹道测试
+She brought a bullet and a shell casing into ballistics.
+
+615
+00:38:50,700 --> 00:38:52,800
+以她的权限  结果显示为机密信息
+At her level, the results were classified.
+
+616
+00:38:52,800 --> 00:38:54,690
+完整报告在这里
+But that's the full report.
+
+617
+00:38:54,850 --> 00:38:56,500
+这不仅仅是机密
+This isn't just classified.
+
+618
+00:38:56,500 --> 00:38:58,270
+关于这起凶杀案的简报
+Any briefings on this homicide
+
+619
+00:38:58,270 --> 00:39:00,570
+都要上报国土安全部部长
+include the Secretary of Homeland Security.
+
+620
+00:39:01,900 --> 00:39:03,620
+还有谁知道此事
+Who else knows about this?
+
+621
+00:39:13,180 --> 00:39:18,750
+{\an9}{\an9}♬Calling your name in the midnight hour♬
+
+622
+00:39:20,330 --> 00:39:26,250
+{\an9}{\an9}♬Reaching for you from the endless dream♬
+
+623
+00:39:27,840 --> 00:39:33,000
+{\an9}{\an9}♬So many miles between us now♬
+
+624
+00:39:34,960 --> 00:39:40,260
+{\an9}{\an9}♬That you are always here with me♬
+
+625
+00:40:02,950 --> 00:40:04,750
+{\an9}{\an9}♬With me♬
+
+626
+00:40:09,650 --> 00:40:11,580
+-你好吗  -挺好的
+- How are you? - Good.
+
+627
+00:40:11,580 --> 00:40:13,670
+-那就好  -我帮你放好这个
+- Great. - Let me take this for you.
+
+628
+00:40:13,670 --> 00:40:15,640
+大家都想来看看汤姆
+Everyone wanted to be here for Tom.
+
+629
+00:40:17,560 --> 00:40:18,860
+都还好吗
+Everything go okay?
+
+630
+00:40:18,970 --> 00:40:20,010
+很好
+Fine.
+
+631
+00:40:20,860 --> 00:40:21,740
+谢谢
+Thank you.
+
+632
+00:40:21,740 --> 00:40:25,510
+吃千层面前我们能不能先谈谈
+Hey, can we, um, talk for a second, pre-lasagna?
+
+633
+00:40:26,310 --> 00:40:29,830
+我想为早上的事道歉
+I just wanted to apologize for this morning.
+
+634
+00:40:29,830 --> 00:40:31,910
+-没事的  -不不  是我错了
+- It's okay. - No, no, no. I was wrong.
+
+635
+00:40:32,020 --> 00:40:33,960
+那是你的工作
+It's your job, and, uh,
+
+636
+00:40:33,960 --> 00:40:36,250
+你工作上有些事情需要保密
+I understand if there are certain secrets
+
+637
+00:40:36,250 --> 00:40:37,900
+我能理解
+that you have to keep right now,
+
+638
+00:40:37,900 --> 00:40:38,920
+没事的
+and that's okay.
+
+639
+00:40:38,920 --> 00:40:43,190
+因为我们会一如既往地挺过去的
+Because-- because we'll survive, like always.
+
+640
+00:40:43,630 --> 00:40:46,250
+我只想让你...  我爱你
+I just want you to-- I-I love you.
+
+641
+00:40:46,260 --> 00:40:48,900
+我得去看人做千层面了
+I got to see a man about some lasagna.
+
+643
+00:01:50,000 --> 00:01:55,000
+{\pos(70,248)}m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0
+
+644
+00:01:50,000 --> 00:01:55,000
+{\pos(70,248)}m 115 64 l 115 35 l 171 0 l 177 0 l 133 46 l 143 52 l 179 0 l 184 0 l 159 63 l 229 107 l 229 182 l 145 96 l 135 122 l 207 227 l 137 227 l 115 172 l 115 93 l 126 76 l 115 64 l 104 76 l 115 93 l 115 172 l 93 227 l 23 227 l 95 122 l 84 96 l 0 182 l 0 107 l 70 63 l 45 0 l 50 0 l 87 52 l 97 46 l 52 0 l 59 0 l 115 35
+
+645
+00:01:50,000 --> 00:01:55,000
+{\pos(60,238)}m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60
+
+646
+00:01:50,000 --> 00:01:55,000
+{\pos(86,248)}m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172
+
+647
+00:01:50,000 --> 00:01:55,000
+{\pos(100,254)}人人影视
+YYeTs.com
+
+648
+00:01:50,000 --> 00:01:55,000
+{\pos(101,267)}原创翻译  双语字幕
+
+649
+00:01:50,000 --> 00:01:55,000
+{\pos(240,267)}仅供学习 禁止用于任何商业盈利行为
+更多影视更新
+请登陆www.YYeTs.com
+
+650
+00:01:55,590 --> 00:02:00,590
+{\an8}翻译：重案组李sir  圈圈  宝宝  催眠大师  Silence
+
+651
+00:02:00,590 --> 00:02:05,590
+{\an8}翻译：hadessl  王大可写两遍  持久君  MythCreator
+
+652
+00:02:05,590 --> 00:02:10,590
+{\an8}翻译：Michael  卫老哥  行尸lulu  No.Zero
+
+653
+00:02:10,590 --> 00:02:15,590
+{\an8}时间轴：阿阿阿包 Kallen 宝宝 No.Zero
+
+654
+00:02:15,590 --> 00:02:20,590
+{\an8}初校：丢丢曳 重案组李sir 卫老哥 圈圈   精校：紫玉
+
+655
+00:02:20,590 --> 00:02:25,590
+{\an8}后期：宝宝  MythCreator   总监：紫玉
+

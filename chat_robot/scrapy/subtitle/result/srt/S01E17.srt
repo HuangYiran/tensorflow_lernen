@@ -1,0 +1,3065 @@
+1
+00:00:01,042 --> 00:00:03,336
+星际之门之亚特兰蒂斯 前情提要
+<i>Previously on Stargate Atlantis</i>
+
+2
+00:00:04,045 --> 00:00:05,213
+它正冲城市飞去!
+It's headed for the city !
+
+3
+00:00:05,505 --> 00:00:07,673
+- 它在干什么?
+- 扫描我们 ..
+- What's it doing ?
+- Scanning us ..
+
+4
+00:00:09,091 --> 00:00:11,469
+那艘飞船已经向宇宙深处
+传送了一些信号
+Now the dart sent a transmission deep into space,
+
+5
+00:00:11,511 --> 00:00:13,387
+然后在我们可以靠近的时候自毁了
+and then it self destructed before we could get to it.
+
+6
+00:00:13,429 --> 00:00:16,349
+- 已经用我们的深空探测器扫描了那片区域..
+- 那些是什么?
+- We scanned the area with our deep-space sensors and..
+- What are those ?
+
+7
+00:00:16,349 --> 00:00:18,434
+幽灵的母船 一共有三艘
+Wraith hives ship. Three of them.
+
+8
+00:00:18,476 --> 00:00:19,268
+它们飞向哪里?
+Where are they headed ?
+
+9
+00:00:19,310 --> 00:00:22,688
+如果保持现在的方向和速度
+三周后它们将会到达我们的星球
+If they maintain direction and speed,
+they'll be over our planet within two weeks.
+
+10
+00:00:31,072 --> 00:00:33,366
+我们已经知道他们要来了
+至少现在知道了它们何时会来
+We knew they were comming,
+at least now we know when.
+
+11
+00:00:33,449 --> 00:00:35,284
+- 一定有办法
+- 有办法?
+- That's something.
+- That's something ?
+
+12
+00:00:35,326 --> 00:00:38,579
+我们还有时间, Rodney.
+现在没有理由恐慌
+There's still time, Rodney.
+There's no reason to panic...
+
+13
+00:00:39,830 --> 00:00:41,916
+只要还有时间, 就一定会有希望
+- yet.
+- Where there is time, there is hope.
+
+14
+00:00:42,291 --> 00:00:43,835
+同意 有什么建议?
+Agreed. So recommandations ?
+
+15
+00:00:44,001 --> 00:00:47,046
+- 除了恐慌之外?
+- 除了恐慌, 是的!
+- Other than panic ?
+- Other than panic, yes!
+
+16
+00:00:47,630 --> 00:00:52,051
+我知道这可能不是很好
+不过我们可以考虑 M7G-677...
+I realize this might not be cool,
+but we should consider M7G-677.
+
+17
+00:00:52,426 --> 00:00:54,804
+- 作为一个可能的疏散点?
+- 不, 女士
+- As a possible evacuation site ?
+- No ma'am.
+
+18
+00:00:55,054 --> 00:00:57,515
+我建议我们取走他们的ZPM
+I'm suggesting we take their ZPM.
+
+19
+00:00:57,932 --> 00:00:59,642
+他们唯一防护幽灵的途径?
+Their only means of protection from the Wraith ?
+
+20
+00:01:00,518 --> 00:01:02,895
+一个大部分由孩子居住的星球
+A planet populated mostly by children.
+
+21
+00:01:03,312 --> 00:01:09,151
+他的观点是有根据的
+我们已经确定了那个ZPM已经快枯竭了
+不过对我们可能还有些用
+He raises a valid point. We've already
+established the ZPM is nearly depleted,
+but it could be of some limited use to us.
+
+22
+00:01:09,318 --> 00:01:12,113
+你刚才让我们提建议
+这是我们生存下来的一种方法
+You asked for suggestions. It's a matter of survival.
+
+23
+00:01:12,488 --> 00:01:13,573
+我知道了
+I see.
+
+24
+00:01:14,532 --> 00:01:19,078
+我们还没有走到那一步
+只要我还在掌管这里, 我们永远也不会去那里
+We're not quite there yet.
+And as long as I'm in charge, we will never be there.
+
+25
+00:01:19,245 --> 00:01:20,580
+我同意Weir博士的观点
+I agree doctor Weir.
+
+26
+00:01:20,621 --> 00:01:24,625
+即便这就是我们的结局
+我们也应该体面的应对它
+If this is to be our end, it is best
+we face it with both dignity and honor.
+
+27
+00:01:24,709 --> 00:01:28,129
+- 实际上我有一个想法, 除了恐慌之外
+- 说出来听听
+- To that end I actually have an idea, in addition, to panic.
+- Let's hear it.
+
+28
+00:01:28,379 --> 00:01:33,467
+虽然比较繁琐, 不过我想还是值得的
+当然, 大部分要归功于我的...
+It's really a long shot, but I think it's most likely
+worth the effort, of course the most to be my efforts...
+
+29
+00:01:33,509 --> 00:01:34,719
+到底是什么?
+What is it ?
+
+30
+00:01:34,969 --> 00:01:38,389
+我想我们可以通过星际之门
+给地球发回一条消息
+I think we can send a message
+back to Earth through the Stargate.
+
+31
+00:01:38,514 --> 00:01:40,808
+- 抱歉?
+- 我想我们没有足够的能量
+- Excuse me ?
+- I thought we didn't have enough power.
+
+32
+00:01:40,975 --> 00:01:44,353
+对于传送一个人来说, 确实不够
+我们没有办法让虫洞维持足够长的时间
+Not to send a person, no. We'd never be
+able to maintain the wormhole long enough.
+
+33
+00:01:44,604 --> 00:01:47,690
+不过我想如果我们把所有可以用的
+能源集中到一起
+But I think if we would be able to tie together
+all of our power generating capabilities,
+
+34
+00:01:47,773 --> 00:01:52,486
+我们可能, 我强调的一下, 是可能
+建立一个足够久的虫洞并发送一条消息
+we might - and I emphasise might - be able to establish
+a wormhole long enough to send a message.
+
+35
+00:01:52,486 --> 00:01:54,030
+大概是多长时间?
+How much time are we talking about ?
+
+36
+00:01:54,697 --> 00:01:57,408
+大约, 1.3 秒, 发送或者接收
+Aproximatly, 1.3 seconds, give or take.
+
+37
+00:01:57,617 --> 00:02:00,828
+- 这时间不够
+- 只够喊SOS了
+- That's not much time.
+- Time enough to say S.O.S.
+
+38
+00:02:00,870 --> 00:02:06,709
+不是用模拟方式
+如果需要发送的消息是经过了高度压缩的
+1.3秒完全足够了
+Don't be so analogue. 1.3 seconds is
+more than enough time to send the message
+if it's in the form of a high compression data burst.
+
+39
+00:02:06,751 --> 00:02:09,670
+几年前, 我曾经帮助美国空军
+优化过编码算法
+Now, I helped refine the encoding
+for the US Air Force a few years back.
+
+40
+00:02:10,004 --> 00:02:14,217
+- Carter上校在那边应该知道如何解密
+- 你建议我们现在就开始干?
+- Colonel Carter should be able to decipher it on the other side.
+- You're suggesting this now ?
+
+41
+00:02:14,258 --> 00:02:18,638
+因为它可能不会成功, 而且很有可能
+在进行当中会让我们的发电机过载
+Because it probably won't work, and there's
+a very good chance it could overload
+our naquadah generators in the process.
+
+42
+00:02:18,738 --> 00:02:20,640
+好啊, 那我们就不应该去冒这个险!
+Well then we can't take the risk !
+
+43
+00:02:20,890 --> 00:02:23,434
+没有能量, 我们就没有任何机会了
+No power, we won't have a chance in hell.
+
+44
+00:02:23,476 --> 00:02:28,814
+有三艘幽灵的母船正朝这里飞来, 少校
+非常时候就应该采取非常措施
+There are three Wraith hives ship on the way, Major.
+Desperate times call for desperate measures.
+
+45
+00:02:29,106 --> 00:02:32,109
+除此之外, 我过去几天一直在想办法
+尽量让失败的可能性降到最低
+Besides, I spent the last few days
+working of ways of minimizing the risk.
+
+46
+00:02:33,486 --> 00:02:37,615
+假如这是可能的, 我们可以发送多少信息?
+Assuming it's possible, how much information can we send ?
+
+47
+00:02:37,823 --> 00:02:43,955
+任何东西 亚特兰蒂斯所有资深组员的
+任务报告, 所有我们在飞马座学到的东西
+Everything. I mean, mission reports from all
+the senior staff, a ton of stuff on Atlantis,
+things we've learned in Pegasus.
+
+48
+00:02:44,288 --> 00:02:47,166
+- 所有的? 一秒钟?
+- 一点三秒
+- All that ? One second ?
+- One point three.
+
+49
+00:02:47,333 --> 00:02:51,754
+我还可以更加优化压缩比率
+你们会找着东西来加进去的
+You jest, but if I could finesse the compression
+ratios, you'll be looking for things to add.
+
+50
+00:02:56,717 --> 00:02:59,011
+- 做吧
+- 就开始
+- Do it.
+- Doing it.
+
+51
+00:03:14,026 --> 00:03:18,322
+Elizabeth, 你应该知道
+如果星际之门的指挥官能够发出求救信号...
+Elizabeth, you realize that if
+Stargate Command was able to send help..
+
+52
+00:03:18,489 --> 00:03:23,286
+我知道 不过我们仍然有责任报告
+我们在这里学习到的东西
+I know. They would have. But still we've the
+responsability to report what we've learned here.
+
+53
+00:03:23,494 --> 00:03:26,289
+- 关于亚特兰蒂斯, 关于古人...
+- 幽灵?
+- About Atlantis, about the Ancients..
+- The Wraith ?
+
+54
+00:03:26,455 --> 00:03:28,791
+是的, 我们必须提醒地球
+Exactly. We have to warn Earth.
+
+55
+00:03:28,833 --> 00:03:30,793
+即使这是我们所做的最后一件事?
+Even if it's the last thing we do ?
+
+56
+00:03:30,918 --> 00:03:33,087
+如果是最后一件事, 那就尤其如此
+Especially if it's the last thing we do.
+
+57
+00:04:26,884 --> 00:04:33,013
+星际之门之亚特兰蒂斯
+第一季第17集 飞马座来信
+Season 1 : Episode 17
+Letters from Pegasus
+
+58
+00:04:39,612 --> 00:04:42,448
+那些屏幕上的小点,
+它们看起来并不危险, 是不是?
+They don't seem threatening,
+those dots on the screen, do they?
+
+59
+00:04:42,657 --> 00:04:45,451
+这就是为什么我们要去实地侦察
+去获取第一手的资料
+Which is why we need to do recon and
+see what we're up against firsthand.
+
+60
+00:04:45,952 --> 00:04:46,911
+怎样去?
+How ?
+
+61
+00:04:46,911 --> 00:04:52,041
+我已经跟踪了它们的行进路线
+幽灵的飞船很显然会周期性的进出超空间
+I've been tracking their progress. The Wraith ships
+apparently go in and out of hyperspace periodically.
+
+62
+00:04:52,458 --> 00:04:57,880
+- 要么是它们关于超空间的技术十分有限....
+- 要么是它们在沿路洗劫
+- Either because their hyperspace technology is limited....
+- Or they're stopping to feed along the way.
+
+63
+00:04:58,256 --> 00:05:00,508
+重要的是, 这种行进模式是可以预测的
+The point is, the pattern is predictable.
+
+64
+00:05:00,758 --> 00:05:06,806
+我可以断定, 它们会在
+这里,  这里和这里停一下
+I can guess with some certainty, that
+they'll be making stops, here, here and here.
+
+65
+00:05:07,431 --> 00:05:11,185
+即便是这样, 这些飞船仍然在数光年以外
+我们如何让我们的小飞船去接近它们?
+Even so, those ships are light years away. How
+do you expect to reach them in a puddle jumper?
+
+66
+00:05:11,394 --> 00:05:16,816
+我们可以飞到一个途中的星际之门
+Zelenka认为它们会在那里脱离超空间
+然后就在旁边观察它们
+We fly to a Stargate en route that Zelenka thinks they're
+gonna drop out of hyperspace, and we watch them pass by.
+
+67
+00:05:17,608 --> 00:05:20,111
+- 不错
+- 你知道我已经准备好了
+- That's good.
+- You know I have my moments.
+
+68
+00:05:20,403 --> 00:05:22,822
+我和Teyla刚才已经决定了将去哪个星球
+Teyla and I were just deciding which planet to go to.
+
+69
+00:05:23,531 --> 00:05:25,867
+我跟这个星球上的人们很熟
+I am familiar with the people of this world.
+
+70
+00:05:26,409 --> 00:05:30,037
+他们的星际之门处于开放状态
+可以通过一艘飞船
+Their Stargate is in the open,
+and so, accessible by ship.
+
+71
+00:05:30,413 --> 00:05:33,749
+你确信在幽灵经过你们的时候
+不会被发现?
+And you think you can remain undetected
+by the Wraith as they go by your position?
+
+72
+00:05:33,833 --> 00:05:35,960
+隐形模式
+它们甚至不知道我们在那里
+Stealth mode. They won't even know we're there.
+
+73
+00:05:36,085 --> 00:05:42,341
+好吧, 去吧, 尽可能多的获取信息
+记得在Rodney发送消息前回来
+我要你们两个都回到这里
+OK, go. Get what intel you can and get back before
+Rodney sends his message. I need the both of you here.
+
+74
+00:05:42,341 --> 00:05:44,051
+在任务完成前, 我们是不会停下的
+Won't even stop at the duty free.
+
+75
+00:06:08,492 --> 00:06:14,373
+千万不要试图去和幽灵的飞船交火
+我在这里命令你, 不要这样做
+On the offchance that you get the idea to take the Wraith
+ships on yourself Major. I am hereby ordering you not to.
+
+76
+00:06:14,582 --> 00:06:15,791
+相信我, 不会的
+Believe me you don't have to.
+
+77
+00:06:16,083 --> 00:06:16,584
+再强调一次
+<i>Still.</i>
+
+78
+00:06:16,667 --> 00:06:22,048
+"不要只身赤手空拳与敌舰搏斗"
+我明白
+"Don't take on alien armada's single handedly."
+I understand.
+
+79
+00:06:38,481 --> 00:06:40,816
+父亲! Teyla来了!
+Father! Teyla's here!
+
+80
+00:06:51,452 --> 00:06:52,870
+Teyla!
+Teyla!
+
+81
+00:06:53,037 --> 00:06:59,293
+- Oren! 好久不见了
+- 很久了, 瞧你, 变了许多
+- Oren! It has been many days.
+- Too many. Look at you, you're so different.
+
+82
+00:06:59,502 --> 00:07:02,004
+自从我上次拜访之后
+很多东西都发生了改变
+Much has changed since my last visit.
+
+83
+00:07:04,006 --> 00:07:08,427
+- 这位是John Sheppard少校. 这是Oren
+- 很高兴见到你
+- This is Major John Sheppard. And Oren.
+- Pleased to meet you.
+
+84
+00:07:10,054 --> 00:07:13,558
+- 现在离收获还有好几个月
+- 是的, 我知道
+- The harvest is still months away.
+- Yes, I know.
+
+85
+00:07:14,475 --> 00:07:17,186
+我们到这里来不是为了交易
+我们是来提醒你们
+We have not come to trade, but to deliver a warning.
+
+86
+00:07:18,271 --> 00:07:20,731
+我们有理由相信幽灵已经在路上
+We have reason to believe
+the Wraith may be on their way.
+
+87
+00:07:21,524 --> 00:07:24,068
+我们无法确信
+不过我们就要去搞清楚
+We don't know that for a fact,
+but we're about to go and find out.
+
+88
+00:07:24,360 --> 00:07:27,947
+是的, 看起来它们正在到处醒来
+Yes, it seems they're awakening everywhere.
+
+89
+00:07:28,072 --> 00:07:30,992
+你应该告诉你的人民
+做好防范它们到来的措施
+You should tell your people
+to take precautions in case they do come.
+
+90
+00:07:31,284 --> 00:07:32,159
+我会的
+I will.
+
+91
+00:07:32,994 --> 00:07:39,667
+不过你也知道, Teyla, 无论你去哪里
+它们都有办法找到. 逃不掉的
+But you know as well as I do Teyla, that the Wraith will
+track us down wherever we go. There will be no escape.
+
+92
+00:07:39,667 --> 00:07:41,210
+那么通过星际之门呢?
+What about through the Stargate?
+
+93
+00:07:41,627 --> 00:07:45,047
+洗劫会在很多个星球上发生
+没有地方是安全的
+The cullings are taking place
+on many worlds. None are safe.
+
+94
+00:07:46,048 --> 00:07:48,050
+即便是我们找到了避难所
+Even we have taken in refugees.
+
+95
+00:07:48,885 --> 00:07:56,392
+如果他们真的来了, 尽量离星际之门远点
+带你的家人到树林的边缘, 那里, 等着我们
+If they do come, stay far from the Stargate. Take
+your family to the far treeline, there, and wait for us.
+
+96
+00:07:56,392 --> 00:07:59,979
+- Teyla.
+- 一个家庭, 少校, 这就是我的全部要求
+- Teyla.
+- One family Major, that is all I ask.
+
+97
+00:08:04,233 --> 00:08:08,070
+我很抱歉Oren, 我不能保证
+I'm sorry Oren, I can't make that promise.
+
+98
+00:08:08,154 --> 00:08:10,031
+至少, 这是我们可以做到的
+It will be the very least we can do.
+
+99
+00:08:13,576 --> 00:08:16,329
+- 如果有时间的话
+- 那我们就必须赶紧
+- If there's time.
+- Then we must hurry.
+
+100
+00:08:25,213 --> 00:08:27,757
+孩子们, 我们必须做好准备
+Children, we must prepare.
+
+101
+00:08:29,050 --> 00:08:33,554
+好了, 我们已经准备好了城市的布局图,
+任务报告以及作战评估
+Alright, we have our city' specs, mission reports
+and tactical assessments all ready to go.
+
+102
+00:08:34,305 --> 00:08:35,515
+还有什么?
+What else ?
+
+103
+00:08:35,765 --> 00:08:39,477
+我已经附上了一大堆我们所能够解密的
+来自古人数据库的数据
+Well I've included a ton of data that we've been
+able to decipher from the Ancient database.
+
+104
+00:08:39,560 --> 00:08:42,688
+真的么? 难以置信
+Really? That is incredible.
+
+105
+00:08:43,022 --> 00:08:46,270
+我所设计的压缩算法非常有效
+Well the algorithm I've devised
+is extraordinarily efficient, yes.
+
+106
+00:08:46,275 --> 00:08:47,527
+哦, 求你了!
+Oh please!
+
+107
+00:08:47,568 --> 00:08:51,280
+必须是这样
+否则没办法在1.3秒内发完所有的数据
+Well it must be,
+in order to fit all that data into 1.3 seconds.
+
+108
+00:08:51,322 --> 00:08:53,574
+事实上, 只用去了0.3 秒
+.3 seconds actually.
+
+109
+00:08:53,699 --> 00:08:55,701
+我们还有整整一秒钟来发送数据?
+We have a whole extra second to fill?
+
+110
+00:08:55,743 --> 00:08:58,371
+整整一秒钟, 是这样
+A whole extra one, yes.
+
+111
+00:09:02,917 --> 00:09:05,586
+足够用来发送个人消息么?
+Is it enough to include personal messages?
+
+112
+00:09:08,339 --> 00:09:11,676
+当然, 可以包括几小时的视频
+如果我们限制音频的话, 还可以更多
+Sure, I mean several hours of video.
+Much more if we restrict the audio.
+
+113
+00:09:11,801 --> 00:09:15,096
+我想我们在精神上非常需要这个
+特别是现在
+I think it'll do wonders for moral. Especially now.
+
+114
+00:09:15,221 --> 00:09:17,807
+我可以告诉我们的奶奶
+我这些时候都做了些什么
+I could tell my Grandma
+what I've been up to all this time.
+
+115
+00:09:18,224 --> 00:09:20,852
+当然, 如果你的奶奶有足够的安全许可的话
+是的, 你可以
+Well if your grandmother had security clearance,
+yes you could.
+
+116
+00:09:21,310 --> 00:09:25,147
+不过目前, 你可以告诉她
+你很好, 而且你很想念她
+But for now, you can tell her
+that you're well and that you miss her.
+
+117
+00:09:25,481 --> 00:09:28,818
+这些都非常吸引人, 不过,
+我还有工作要去做. 我是不是...
+This is all very charming, but um,
+I have work to do. Shouldn't I...
+
+118
+00:09:28,943 --> 00:09:32,446
+中尉, 也许你可以来处理一下
+Lieutenant, maybe you'd like to handle this.
+
+119
+00:09:32,572 --> 00:09:36,409
+给每个人在镜头前几分钟的机会
+让他们可以给所爱的人发一条个人消息
+Give everybody a few minutes on camera send
+a personal message to their loved ones.
+
+120
+00:09:36,450 --> 00:09:37,827
+我很乐意
+I'd love to ma'am.
+
+121
+00:09:37,869 --> 00:09:39,120
+好了去做吧!
+Off you go!
+
+122
+00:09:43,082 --> 00:09:46,169
+只要我和Zelenka 把四号飞船的引擎
+成功接入到能源网
+As soon as Zelenka and I can get
+Jumper 4's engines tied into the grid,
+
+123
+00:09:46,210 --> 00:09:48,254
+我们就可以进行低能量演练了
+we should be able to do a low power dry run.
+
+124
+00:09:48,337 --> 00:09:49,088
+很好
+Good.
+
+125
+00:09:49,589 --> 00:09:50,548
+Rodney?
+Rodney?
+
+126
+00:09:51,924 --> 00:09:53,843
+你不想给什么人发条消息么?
+You don't want to send a message to anyone?
+
+127
+00:09:53,885 --> 00:09:58,973
+你知道么? 我想我会利用所有的空余时间,
+为我自己录制一条消息
+You know what? I think with all my spare time,
+I'll just record a message to myself.
+
+128
+00:09:59,473 --> 00:10:00,558
+你认为呢?
+You?
+
+129
+00:10:01,142 --> 00:10:02,185
+当然
+Yes.
+
+130
+00:10:02,852 --> 00:10:04,103
+好的, 好的
+Good, good.
+
+131
+00:10:12,570 --> 00:10:15,031
+这并不是一个拯救行动
+This wasn't supposed to be a rescue mission.
+
+132
+00:10:15,364 --> 00:10:17,491
+Oren是我父亲的好朋友
+Oren was a good friend of my father.
+
+133
+00:10:17,533 --> 00:10:19,744
+我想提醒你
+I agreed to warn him.
+
+134
+00:10:20,036 --> 00:10:22,038
+如果有人跟你的家人很亲近
+If someone close to your family,
+
+135
+00:10:22,038 --> 00:10:26,459
+一个亲近的朋友, 正处于将被幽灵带走的危险之中
+你能够无动于衷么?
+a dear friend, was in danger of being taken by
+the Wraith, would you have not done the same?
+
+136
+00:10:26,501 --> 00:10:28,669
+如果这危及这次任务, 我会的
+Not if it jeopardised the mission.
+
+137
+00:10:30,254 --> 00:10:33,799
+这么说与幽灵斗争, 我们就要舍弃
+我们同它们的不同之处么?
+So in fighting the Wraith, we are to give up
+that which makes us different from them?
+
+138
+00:10:33,883 --> 00:10:39,222
+我同意停下来把他带上, 如果有时间的话
+但如果没有时间, 我也无能为力
+I agreed to stop and pick him up
+if there was time, but only if there was time.
+
+139
+00:10:40,973 --> 00:10:43,726
+如我们可以, 我愿意拯救这个星系中的所有人
+I'll be saving everyone
+in the damn galaxy, if we could.
+
+140
+00:10:43,768 --> 00:10:46,270
+一个人连同他的孩子不是所有人
+One man and his children are not every person.
+
+141
+00:10:46,395 --> 00:10:48,731
+我同意提供帮助, 如果有时间的话
+I agreed to help, if there was time.
+
+142
+00:10:50,399 --> 00:10:52,902
+我们必须量力而行
+You only fight the battles you can win.
+
+143
+00:11:33,734 --> 00:11:35,862
+我们转过去看看
+Let's get this thing turn around.
+
+144
+00:11:43,077 --> 00:11:45,246
+它们正朝那个星球而去
+They're heading for the planet.
+
+145
+00:11:50,668 --> 00:11:53,588
+OK, 开始录了, 电池很足
+OK, recording, plenty of battery.
+
+146
+00:11:53,629 --> 00:11:55,882
+为什么我什么也没有看到
+So why am I not seeing anything.
+
+147
+00:11:56,007 --> 00:11:56,924
+真蠢!
+Stupid!
+
+148
+00:12:10,605 --> 00:12:14,442
+OK. 嗨, 爷爷, 奶奶!
+OK. Hi Grandma, Grandpa!
+
+149
+00:12:15,484 --> 00:12:18,196
+是我Aiden, 当然
+It's me Aiden, obviously.
+
+150
+00:12:18,571 --> 00:12:22,742
+来自一个离家很远, 很远的地方
+Talking to you from a place, far, far, from home.
+
+151
+00:12:23,534 --> 00:12:26,454
+我很好, 你们不用担心
+I'm good though. You don't have to worry.
+
+152
+00:12:27,246 --> 00:12:30,416
+这里的生活很平常
+Life here is pretty routine.
+
+153
+00:12:40,927 --> 00:12:46,224
+我希望不久后就可以回家
+不过你们知道, 如果
+I'm hoping to get home sometime soon.
+But you know, if
+
+154
+00:12:46,390 --> 00:12:51,437
+我不得不在这里多呆一会儿
+我希望你们知道我很好
+I'm stuck here a while,
+I want you to know that I'm good.
+
+155
+00:12:52,355 --> 00:12:56,359
+我正在做一些我从来没有想到的事情
+I'm doing things, seeing things
+I never thought I'd see.
+
+156
+00:13:11,457 --> 00:13:16,838
+真希望能告诉你们一切
+谁知道呢, 也许某一天, 我就可以跟你们说了
+Wish I could tell you all about it.
+Who knows, one day, maybe I'll be able to.
+
+157
+00:13:17,672 --> 00:13:19,715
+不过我希望你们知道
+But I want you both to know,
+
+158
+00:13:19,757 --> 00:13:26,806
+你们就在这里, 永远, 任何时候
+that you're right here, always, all the time.
+
+159
+00:13:31,644 --> 00:13:35,231
+抱歉Teyla. 即使以最快速度飞行
+我们也只是刚刚比它们的舰队提前一点
+Sorry Teyla. Even flying full out,
+we're just ahead of the armada.
+
+160
+00:13:35,273 --> 00:13:37,775
+我不能冒险下去接Oren和他的家人
+I can't risk putting down for Oren or his family.
+
+161
+00:13:37,817 --> 00:13:39,193
+知道了
+I see.
+
+162
+00:13:40,695 --> 00:13:43,781
+我准备让我们脱离隐形状态, 以穿过星际之门
+拨号吧
+I'm gonna take us out of stealth mode for the pass.
+Dial the gate.
+
+163
+00:13:48,202 --> 00:13:50,121
+等一下! 有虫洞连接进来!
+Hang on! Incoming wormhole!
+
+164
+00:13:57,795 --> 00:13:59,755
+我听过一些故事
+幽灵会拨号进来
+I have heard stories of the Wraith dialling in,
+
+165
+00:13:59,797 --> 00:14:02,884
+以阻止受害人
+通过星际之门逃跑
+to prevent their victims from
+using the Stargate as a means of escape.
+
+166
+00:14:02,925 --> 00:14:04,719
+这么说我们滞留在这里了
+So we're stuck here.
+
+167
+00:14:05,219 --> 00:14:08,806
+只要让这艘飞船再次处于隐形状态
+我们就会非常安全
+Once the ship is rendered invisible again,
+we will be perfectly safe.
+
+168
+00:14:08,848 --> 00:14:11,934
+我更担心的是, 不久以后
+幽灵的舰队就会抵达亚特兰蒂斯
+I'm more worried about getting the intel
+about the Wraith fleet back to Atlantis.
+
+169
+00:14:12,059 --> 00:14:14,937
+我们至少可以整个晚上
+不断的拨号
+Then we'll keep dialling in through
+the night at the very least.
+
+170
+00:14:15,938 --> 00:14:19,609
+不过如果我们等在
+我告诉Oren 和他家人的那个地方...
+But if we wait in the location
+I told Oren and his family to meet us...
+
+171
+00:14:19,650 --> 00:14:21,944
+我正在赶往那里
+That's where I'm headed.
+
+172
+00:14:31,120 --> 00:14:33,164
+我必须提醒你
+我并不是很擅长做这种事情
+I must warn you,
+I'm not very good at this sort of thing.
+
+173
+00:14:33,289 --> 00:14:35,666
+不用担心
+这个只有你和你的家人才会看到
+Well don't worry. The only people
+that's gonna see it, is you and your family.
+
+174
+00:14:35,791 --> 00:14:38,127
+是的, 还有你和美国军方
+Aye, and you and the US military.
+
+175
+00:14:38,503 --> 00:14:39,921
+准备好了么?
+Give it a shot?
+
+176
+00:14:40,254 --> 00:14:41,631
+我应该说什么?
+What shall I say?
+
+177
+00:14:44,800 --> 00:14:46,761
+我想念你? 我希望你也在这里?
+I miss you? I wish you were here?
+
+178
+00:14:46,802 --> 00:14:48,471
+我希望谁在这里?
+I wish who was here?
+
+179
+00:14:48,513 --> 00:14:49,931
+我不知道. 你希望谁在这里?
+I don't know. Who do you wish was here?
+
+180
+00:14:49,972 --> 00:14:52,016
+没有谁! 我只希望我不在这里!
+Nobody! I wish I wasn't bloody here!
+
+181
+00:14:52,058 --> 00:14:53,935
+博士, 我还有很多人要去拍呢
+Doc, I got a lotta people I gotta get through.
+
+182
+00:14:55,228 --> 00:14:59,982
+好吧, 嗯, 我想
+我可以向我的母亲问好
+Alright, uh, I suppose
+I could say hello to my Mother.
+
+183
+00:15:00,066 --> 00:15:03,319
+很好, 就这样. 好了, 准备好了么?
+Good. There you go. Alright, you ready?
+
+184
+00:15:03,611 --> 00:15:04,362
+是的
+Yeah.
+
+185
+00:15:05,238 --> 00:15:06,489
+OK, 说吧
+OK, go.
+
+186
+00:15:06,864 --> 00:15:10,451
+Hello, 妈妈!
+我希望看到这个消息的时候你还好
+Hello Mum! I hope this message finds you well.
+
+187
+00:15:10,493 --> 00:15:14,413
+我相信你的牵牛花现在正在盛开
+I trust your petunia's are in full bloom by now.
+
+188
+00:15:14,539 --> 00:15:17,917
+噢, 我真希望
+你还在用我给你的那些药膏
+Oh, and I do hope you're keeping up
+with the ointment I gave you.
+
+189
+00:15:18,042 --> 00:15:21,629
+如果你坚持治疗
+那些真菌感染现在应该完全好了
+If you've adhered to the regime,
+the fungus should have cleared up by now.
+
+190
+00:15:23,297 --> 00:15:24,966
+- 有什么不对么?
+- 什么, 真菌?
+- What's wrong?
+- Dude, fungus?
+
+191
+00:15:25,007 --> 00:15:28,719
+在她的脚指甲上  你刚才不是说过,
+除了我的家人没人会看到的么?
+On her toenails. I thought you said no-one
+would watch this except my family?
+
+192
+00:15:28,845 --> 00:15:30,513
+是的, 不过真菌?
+Yeah, but fungus?
+
+193
+00:15:30,638 --> 00:15:32,223
+那我到底应该说些什么?
+What then shall I talk about?
+
+194
+00:15:32,390 --> 00:15:34,016
+我不知道, 她是你母亲
+跟她说你爱她
+I don't know, it's your Mother.
+Tell her you love her.
+
+195
+00:15:34,058 --> 00:15:35,977
+不, 不, 我不能这样做
+我在感情上承受不了
+No, no, I can't do that. I'll get all emotional.
+
+196
+00:15:36,018 --> 00:15:37,061
+是么?
+So?
+
+197
+00:15:37,645 --> 00:15:41,774
+我的妈妈, 她非常的敏感
+就像你碰到的最美好的灵魂
+She's very delicate, my mother.
+As sweet a soul as you'll ever meet.
+
+198
+00:15:41,941 --> 00:15:46,904
+跟刚刚飘落的雪花一样纯洁 如果我很不安
+那么她也会不安, 所以我不能这样做
+As pure as the driven snow. If I get upset
+then she'll get upset, and I can't have that.
+
+199
+00:15:46,988 --> 00:15:48,739
+我们并不是在现场直播, 博士
+It's not like we're live Doc.
+
+200
+00:15:48,865 --> 00:15:51,701
+如果你不喜欢我们录在带子上的东西
+我们可以再来一次
+I mean, you don't like what we put on tape
+the first time,we can always do it again.
+
+201
+00:15:51,742 --> 00:15:54,036
+- 可以么?
+- 当然
+- We can?
+- Sure.
+
+202
+00:15:54,328 --> 00:15:58,207
+噢  那么我想我可以了
+Oh. I suppose I could do that then.
+
+203
+00:15:59,083 --> 00:16:02,378
+好吧, 我们开始吧
+Alright, here we go.
+
+204
+00:16:06,215 --> 00:16:07,675
+妈妈...
+Mum...
+
+205
+00:16:11,762 --> 00:16:13,848
+我真是太想你了
+I miss you terribly.
+
+206
+00:16:18,102 --> 00:16:19,729
+我做不到!
+I can't do this!
+
+207
+00:16:33,159 --> 00:16:35,244
+来啊Oren, 快点出现!
+Come on Oren, show up!
+
+208
+00:16:39,457 --> 00:16:40,750
+怎么了?
+What?
+
+209
+00:16:40,958 --> 00:16:43,794
+就在不久前, 你还非常乐意他们丢下
+Not long ago you would have blithely left them behind.
+
+210
+00:16:43,920 --> 00:16:46,172
+好吧, 现在情况不同了
+Well the situation has changed.
+
+211
+00:16:49,383 --> 00:16:52,970
+今天早些时候, Ford中尉建议
+我们去偷一群孩子
+Earlier today Lt Ford suggested
+we steal from a community of children.
+
+212
+00:16:53,137 --> 00:16:55,723
+那是因为他们有ZPM
+我们可以把他们一齐带回来
+That's because they have a ZPM
+and we can bring them back.
+
+213
+00:16:55,890 --> 00:16:58,309
+到亚特兰蒂斯来等死?
+Only to face death in Atlantis?
+
+214
+00:16:59,519 --> 00:17:03,856
+我和Ford都是军人
+我们牺牲了无数条生命来学会如何生存
+Look, Ford and I are military. We've spent
+a lot of our lives learning how to survive.
+
+215
+00:17:03,940 --> 00:17:06,108
+我整个一生都在学习
+如何在幽灵的威胁下生存
+I've spent my life surviving the Wraith.
+
+216
+00:17:06,150 --> 00:17:10,238
+训练的一部分就是要明白
+哪些人你可以救, 哪些你不能
+Part of that training is knowing who
+you can save and who you can't.
+
+217
+00:17:10,363 --> 00:17:12,573
+然后决定就是你们自己?
+And that decision is yours alone?
+
+218
+00:17:12,865 --> 00:17:16,118
+我说过如果有时间, 我会等你的朋友
+I said that I'd wait for your friend if there was time.
+
+219
+00:17:16,244 --> 00:17:19,956
+现在就有时间
+你还想要我做什么?
+Now there's time. What else do you want from me?
+
+220
+00:17:21,707 --> 00:17:23,709
+我实在是太害怕了
+Too much I fear.
+
+221
+00:17:25,878 --> 00:17:28,005
+这将会是一个漫长的夜晚
+It's gonna be a long night.
+
+222
+00:18:38,451 --> 00:18:42,788
+你并没有说那需要安全许可 是不是?
+You didn't say anything that would
+require security clearance did you?
+
+223
+00:18:42,830 --> 00:18:45,374
+安全许可?
+Security clearance?
+
+224
+00:18:54,759 --> 00:18:56,969
+只能在这里坐视不管, 实在是受不了
+This is hard, to sit and watch.
+
+225
+00:18:57,512 --> 00:18:58,763
+我们什么也做不了
+There's nothing you can do.
+
+226
+00:18:58,763 --> 00:19:00,765
+我们可以做很多事
+We can do a lot.
+
+227
+00:19:00,806 --> 00:19:03,059
+不过那将会是我们所做的最后一件事
+It'll just be the last thing we ever do.
+
+228
+00:19:03,100 --> 00:19:06,312
+我们试了很多次了
+星际之门仍然无法拨通
+We are far outnumbered and
+the Gate is still inaccessible.
+
+229
+00:19:07,813 --> 00:19:14,070
+不过如果我们救了Oren 和他的家人
+我们也算是做了一些事情
+But if we save Oren and his family,
+we will have done something.
+
+230
+00:19:14,362 --> 00:19:16,739
+某些事
+Something.
+
+231
+00:19:20,868 --> 00:19:22,411
+我会想你的kiddo
+I'm gonna miss you kiddo.
+
+232
+00:19:22,453 --> 00:19:25,665
+我等不住想马上回到家里
+带你去看篮球比赛
+I can't wait to get back home and
+take you to a basketball game.
+
+233
+00:19:25,665 --> 00:19:31,420
+看着科比和奥尼尔
+为湖人再赢得一次冠军
+Watch Kobe and Shaq take
+another title home for the Lakers.
+
+234
+00:19:34,507 --> 00:19:36,634
+就这
+That's it.
+
+235
+00:19:37,009 --> 00:19:38,761
+就这?
+That's it?
+
+236
+00:19:39,262 --> 00:19:40,638
+我还可以对孩子说些什么
+What else am I gonna say to the kid.
+
+237
+00:19:40,638 --> 00:19:41,806
+是你的小弟弟SGT?
+It's your little brother SGT.
+
+238
+00:19:41,848 --> 00:19:45,059
+我可能再也见不着他了
+为什么要让事情变得更糟呢
+And I'm probably never gonna see him again,
+why make it worse than it has to be.
+
+239
+00:19:45,101 --> 00:19:49,105
+- 那跟这个无关!
+- 那就是这样做的目的
+- That's not what this is about man!
+- That's exactly what this is about.
+
+240
+00:19:51,566 --> 00:19:53,025
+别担心, 中尉
+Don't sweat it Lt.
+
+241
+00:19:53,067 --> 00:19:54,902
+我很高兴我有机会说再见
+I'm happy I got the chance to say goodbye.
+
+242
+00:19:54,944 --> 00:19:56,904
+是的, 不过你并没有说
+Yeah, but you didn't say it.
+
+243
+00:19:57,071 --> 00:20:00,241
+要说的话太多
+Not in so many words.
+
+244
+00:20:06,289 --> 00:20:07,164
+Ford中尉!
+Lt Ford!
+
+245
+00:20:07,206 --> 00:20:09,083
+啊, 你准备好录制你的消息了?
+Ah, you ready to record your message?
+
+246
+00:20:09,125 --> 00:20:10,418
+差不多已经完了
+Already done.
+
+247
+00:20:10,418 --> 00:20:13,129
+实际上我利用特权私下为自己录好了
+Actually I took the liberty of doing mine in private.
+
+248
+00:20:13,171 --> 00:20:15,214
+可能需要一些编辑
+Now it may require some editing.
+
+249
+00:20:15,256 --> 00:20:15,840
+编辑
+Editing.
+
+250
+00:20:15,882 --> 00:20:18,676
+是的, 我讲的可能有点多了
+事实上我录了一整盘带子.
+Yeah, I went on a bit.
+Actually I used the entire tape.
+
+251
+00:20:18,718 --> 00:20:19,760
+你讲了一个小时?
+You talked for an hour.
+
+252
+00:20:19,802 --> 00:20:22,013
+事实上, 我发现这很有治疗作用
+See, I found it rather therapeutic actually.
+
+253
+00:20:22,054 --> 00:20:26,350
+我很自信, 我提出了一些很有价值的观点
+事实上, 我非常确信
+Now I'm fairly confident I've come up
+with several valuable insights. In fact I'm sure of it,
+
+254
+00:20:26,392 --> 00:20:29,312
+不过最近几天我只睡了六个小时
+but I've only slept six hours in the last few days.
+
+255
+00:20:29,353 --> 00:20:30,813
+这是给谁的?
+Who's it for?
+
+256
+00:20:30,946 --> 00:20:32,690
+总体来说, 是给我妹妹的
+Humanity in general, my sister. Look,
+
+257
+00:20:32,732 --> 00:20:36,694
+我不想你把它剪成几分钟
+我的意思是, 这里面的东西跟金子一样重要
+I don't expect you to cut it down to just a few minutes.
+I mean, there is gold in here.
+
+258
+00:20:36,736 --> 00:20:43,451
+把我的放在最后面. 这样, 如果被剪掉,
+没事, 只要星际之门的连接可以多维持几毫秒
+我们就不会浪费那段时间
+So just make sure mine's last and that way, if it gets
+cut off, fine, but if the gate holds the connection a few extra
+milliseconds then we won't have wasted the time.
+
+259
+00:20:43,492 --> 00:20:44,660
+我也很期盼这样
+I look forward to it.
+
+260
+00:20:44,660 --> 00:20:47,205
+好吧, 好好欣赏吧
+Well, enjoy.
+
+261
+00:20:48,039 --> 00:20:49,832
+金子
+Gold.
+
+262
+00:20:58,633 --> 00:21:02,929
+预备, 5,4,3....
+And in, 5,4,3....
+
+263
+00:21:05,056 --> 00:21:09,977
+正在同你说话的是Rodney McKay博士
+现在是在失落的城市亚特兰蒂斯
+我的操作实验室内
+This is Doctor Rodney McKay speaking to you
+from my base of operations in the lost city of Atlantis,
+
+264
+00:21:10,019 --> 00:21:13,689
+位于飞马星系的深处
+located deep within the Pegasus Galaxy.
+
+265
+00:21:14,148 --> 00:21:18,778
+我在我们黑暗的时刻来临之前
+录下来这些信息
+I record this message on the eve of our darkest hour.
+
+266
+00:21:18,819 --> 00:21:25,743
+在我讲话的同时
+一个外星舰队正朝我们开来
+As I speak, an alien armada of biblical proportions
+is on it's way, bent, dare I say hellbent,
+
+267
+00:21:25,785 --> 00:21:29,205
+准备将我们毁灭
+in keeping with the metaphor, on our destruction.
+
+268
+00:21:29,247 --> 00:21:34,335
+我们将尽可能的延缓它们的进攻
+不过我不得不说战败是不可避免的
+We will do our best to stave off their attack,
+but I'm afraid that defeat is all but inevitable.
+
+269
+00:21:34,377 --> 00:21:37,922
+我, 以及探险队中的其他人
+I and the other members of my team,
+
+270
+00:21:37,964 --> 00:21:41,384
+面对的是无法想象的恐怖的死亡
+face the most horrific deaths imaginable.
+
+271
+00:21:41,425 --> 00:21:49,559
+我们的生命将会以一种恐怖的方式
+从胸部被吸食...
+As our very lives are sucked
+from our chests in a horrific....
+
+272
+00:21:49,600 --> 00:21:53,020
+OK, OK. 从头再来, 从头再来
+OK, OK. Starting again. Starting again.
+
+273
+00:21:53,062 --> 00:21:56,482
+Ford, 把刚才那段剪掉了么?
+Ford, just cut that alright?
+
+274
+00:22:04,866 --> 00:22:06,242
+那是什么?
+What is that?
+
+275
+00:22:06,492 --> 00:22:09,036
+我从没有见过这种东西
+I've never seen such a thing.
+
+276
+00:22:11,956 --> 00:22:13,624
+我要去仔细看看
+I'm gonna check it out.
+
+277
+00:22:13,666 --> 00:22:15,168
+你会被发现的
+You may be discovered.
+
+278
+00:22:15,209 --> 00:22:17,003
+- 我会想办法不被发现
+- 少校
+- I'll make a point not to.
+- Major
+
+279
+00:22:17,044 --> 00:22:20,506
+我只是想看看那到底是什么
+I just want to see whatever that is.
+
+280
+00:22:20,548 --> 00:22:24,677
+等在这里, 直到Oren和他的家人出现
+Just stay here until Oren and his family show up.
+
+281
+00:22:41,527 --> 00:22:43,321
+倒计时 5, 4,3...
+In 5, 4,3...
+
+282
+00:22:45,031 --> 00:22:48,951
+我的朋友们
+我是亚特兰蒂斯探险队的Rodney McKay博士
+My friends. I am Doctor Rodney McKay
+of the Atlantis expedition,
+
+283
+00:22:48,951 --> 00:22:51,913
+鉴于我们同幽灵的英勇无畏的斗争
+and as the facts of
+our heroic struggle against the Wraith
+
+284
+00:22:51,913 --> 00:23:01,255
+以及你们已经知道的我们的阵亡
+在这里我想告诉你们一些最终的想法
+and our untimely demise are already known to you,
+in that light I'd like to pass along some final thoughts.
+
+285
+00:23:01,297 --> 00:23:06,469
+我在天体物理学领域所受到的良好教育
+以及我所得到的第一手的经验
+Now my extensive educational training and
+first hand experience in the field of astrophysics,
+
+286
+00:23:06,511 --> 00:23:14,519
+让我产生了一个独到的想法
+关于地球, 或者是其他类似行星
+has given me a unique perspective that few on Earth or
+on any other planet for that matter, can match.
+
+287
+00:23:14,560 --> 00:23:19,524
+现在我想花一些时间
+把这个想法传递给你们
+I'd like to take a few moments now
+to pass along that perspective to you.
+
+288
+00:23:19,524 --> 00:23:27,823
+我将从对某个主题的一些观察开始
+它对我来说, 既亲近又亲切
+I'll begin with a few observations on a subject
+that is both near and dear to my heart.
+
+289
+00:23:28,199 --> 00:23:30,034
+领导才能...
+Leadership...
+
+290
+00:23:30,743 --> 00:23:32,620
+Markham先生 Markham太太
+Mr and Mrs Markham,
+
+291
+00:23:32,662 --> 00:23:34,956
+我是Elizabeth Weir博士
+my name is Dr Elizabeth Weir
+
+292
+00:23:34,997 --> 00:23:38,334
+你们的儿子是我的探险队中的一员
+and your son was a member of my expedition team.
+
+293
+00:23:39,961 --> 00:23:44,507
+非常抱歉, 我不得不告诉你们
+他在自己的岗位上不幸殉职
+It is with a deep regret that I have to inform you
+that he was killed in the line of duty,
+
+294
+00:23:44,549 --> 00:23:46,676
+就在几天以前
+just a few days ago.
+
+295
+00:23:47,218 --> 00:23:49,679
+他在保卫其他人的时候阵亡
+He died in the defence of others
+
+296
+00:23:49,679 --> 00:23:51,764
+他的牺牲拯救了我们很多人
+and his sacrifice may have saved many.
+
+297
+00:23:51,806 --> 00:23:57,144
+她那敏锐的好奇心正是你们的女儿
+在她作为探险队一名科学家的职位上
+Her keen curiosity are just some of the qualities
+that your daughter displayed during her duties
+
+298
+00:23:57,186 --> 00:24:00,439
+所展示出来的优秀品质之一
+as a scientist on my team.
+
+299
+00:24:00,439 --> 00:24:05,319
+她以及她的一些同事
+就在几个星期以前, 突然死亡
+She and several of her colleagues,
+died suddenly, just a few weeks ago.
+
+300
+00:24:05,361 --> 00:24:09,156
+我没有特权告诉你们她的死因
+不过我可以告诉你们...
+I am not at liberty to reveal
+the cause of her death, but I can tell you...
+
+301
+00:24:09,198 --> 00:24:11,158
+在她在这里工作的那段时间
+that during her time here,
+
+302
+00:24:11,200 --> 00:24:15,204
+Dumais博士是某件具有
+深远意义事情的一部分
+Dr Dumais was a part of something very profound.
+
+303
+00:24:15,246 --> 00:24:17,915
+她在这里的所见所感
+是她从来都没有想到过的
+She saw and lived things
+she never would have dreamed of before.
+
+304
+00:24:17,957 --> 00:24:21,669
+你们应该为你们的儿子感到骄傲
+他在保卫其他人的时候英勇的牺牲
+You can be very proud of your son,
+knowing that he died bravely while defending others.
+
+305
+00:24:21,711 --> 00:24:24,839
+我承认我并不是很了解他...
+I confess that I didn't know him as I could have...
+
+306
+00:24:24,881 --> 00:24:29,385
+不过我知道他在队伍中很受人爱戴...
+But I do know that he was well liked and
+very well respected among his peers...
+
+307
+00:24:29,969 --> 00:24:33,598
+而且我还听到他经常提起他的家人
+and I was told of how often he spoke of his family.
+
+308
+00:24:35,224 --> 00:24:38,227
+我真的希望能够告诉你们更多
+I do wish I could tell you more.
+
+309
+00:24:40,062 --> 00:24:44,317
+我相信作为军属, 你们能够理解...
+I'm sure you understand as a military family...
+
+310
+00:24:51,532 --> 00:24:53,576
+女士, 完了么?
+Are you done ma'am?
+
+311
+00:24:56,162 --> 00:24:59,290
+请给我一些时间, 中尉
+Just give me a moment please Lieutenant.
+
+312
+00:25:00,041 --> 00:25:02,293
+我一直忙于我的工作
+I am keeping busy with my job.
+
+313
+00:25:02,335 --> 00:25:07,715
+我努力工作, 就跟其他人一样
+以确保这次探险的成功
+I work hard, like everyone else
+to ensure the success of this expedition,
+
+314
+00:25:07,840 --> 00:25:10,676
+同时还要感谢我们科学团队的领队
+and also to please the leader of our science team.
+
+315
+00:25:10,718 --> 00:25:12,345
+不, 不, 不, 不, 不
+No, no, no, no, no.
+
+316
+00:25:12,386 --> 00:25:13,763
+首先是这个序列
+This sequence first
+
+317
+00:25:13,804 --> 00:25:14,555
+然后是第二个代码
+and then the secondary code.
+
+318
+00:25:14,597 --> 00:25:17,266
+除非你想把我们炸飞
+就不用管这个顺序
+Unless you're intentionally trying to blow us up.
+In which case, excellent work.
+
+319
+00:25:17,308 --> 00:25:19,810
+他并不是总能记住我的名字,
+He does not always remember my name,
+
+320
+00:25:19,852 --> 00:25:22,772
+但是与他一起工作, 我感觉非常非常愉快
+but I have enjoyed working for him very much.
+
+321
+00:25:23,147 --> 00:25:26,692
+这是什么? 谁做的? 是你做的么?
+What is this? Who made this? You made this?
+
+322
+00:25:26,734 --> 00:25:29,445
+他是一个非常受人尊敬的, 勇敢的人
+He is a very honourable and brave man.
+
+323
+00:25:29,487 --> 00:25:34,033
+噢! 哎哟! OK, 抽筋, 抽筋, 抽筋!
+哎哟! 哎哟! 哎哟!
+Oh! Ow! OK, cramp, cramp, cramp! Ow! Ow! Ow!
+
+324
+00:25:34,075 --> 00:25:37,912
+直到现在, 只要他愿意,
+我仍然愿意为他效劳
+Until then, I will continue to serve at his pleasure.
+
+325
+00:25:38,496 --> 00:25:41,791
+在一个代数俱乐部中, 我吻了一个女孩
+为这个我差点得了传染性单核细胞增多症
+I almost caught mono, kissing a girl during algebra club.
+
+326
+00:25:41,832 --> 00:25:44,252
+为此我整整一个月没有去上学
+那段日子我一直在想念着学校
+I missed an entire month of school.
+
+327
+00:25:44,293 --> 00:25:50,132
+现在, 那个吻仍然记忆犹新
+所以那还是值得的
+Still, the kiss was something,
+so it was probably worth it.
+
+328
+00:25:50,132 --> 00:25:52,885
+April Bingham
+可爱的金发碧眼的女孩
+April Bingham. Cute blonde.
+
+329
+00:25:52,927 --> 00:25:58,182
+上帝啊, 我喜欢金发碧眼的女孩
+特别是... 留有短发的那种
+God, I love blondes,
+especially with the... the short hair.
+
+330
+00:26:01,435 --> 00:26:05,064
+Samantha Carter, 如果你在看的话
+Samantha Carter, if you're watching,
+
+331
+00:26:05,106 --> 00:26:10,903
+心中的火炬还在燃烧
+很不幸, 很快就要熄灭了
+the torch is still burning.
+Sadly, soon to be extinguished.
+
+332
+00:26:10,945 --> 00:26:16,784
+你知道, 你应该知道
+我想你只是太...
+You know, you should know. I think you are just so...
+
+333
+00:26:16,951 --> 00:26:21,539
+你很伟大 真的, 真的伟大
+Well, you're great. Really, really great.
+
+334
+00:26:21,664 --> 00:26:24,750
+我要说你是与我共事过的最优秀的科学家
+I would go so far to say you're the hottest scientist
+I've ever worked with. In fact there's
+
+335
+00:26:24,792 --> 00:26:28,087
+事实上我无法在一晚上的时间内
+找到我自己
+probably not a night goes by I don't find myself, uh.
+
+336
+00:26:28,087 --> 00:26:29,755
+OK, Ford?
+OK, Ford?
+
+337
+00:26:29,797 --> 00:26:33,968
+刚才的不要
+让我们重新回到...
+Let's lose that and let's get back to ...
+
+338
+00:26:36,012 --> 00:26:37,221
+...领导才能
+... leadership.
+
+339
+00:27:38,866 --> 00:27:40,409
+谁将会看到这个?
+Who will be watching this?
+
+340
+00:27:40,535 --> 00:27:42,078
+任何你发送给的人
+Anyone you're sending it to.
+
+341
+00:27:42,119 --> 00:27:44,205
+家人, 朋友, 心爱的人
+Family, friends, loved ones.
+
+342
+00:27:44,539 --> 00:27:46,707
+在亚特兰蒂斯会有人看到这个么?
+Will anyone from Atlantis be viewing this?
+
+343
+00:27:46,749 --> 00:27:48,918
+没有, 这些消息是私人的
+No. Messages are private.
+
+344
+00:27:48,960 --> 00:27:51,337
+你可以想多恶心就多恶心
+You can get as mushy as you want.
+
+345
+00:27:53,214 --> 00:27:58,970
+这是一条给星际之门指挥官
+Jack O'Neill将军的消息
+Uh, this is a message for
+General Jack O'Neill of Stargate Command.
+
+346
+00:27:59,011 --> 00:28:05,643
+我认为我有责任告诉您我所认为的
+这个探险队的领导者在决策中所犯下的
+严重的错误
+I feel it is my duty to inform you of what
+I consider to be serious errors in judgement
+among the leaders of this expedition.
+
+347
+00:28:05,685 --> 00:28:08,688
+最值得一提的, Elizabeth Weir博士
+Most notably, Dr Elizabeth Weir.
+
+348
+00:28:08,729 --> 00:28:14,569
+她鲁莽的行为将这次探险队的成员
+一次又一次的暴露在极端危险之下
+Her actions have repeatedly and recklessly exposed
+the people of this expedition to extreme danger.
+
+349
+00:28:14,610 --> 00:28:19,699
+最终导致我们陷入如此悲惨的境地
+Leading us directly to the grave situation
+we currently find ourselves in.
+
+350
+00:28:19,699 --> 00:28:21,033
+好吧?
+You know what?
+
+351
+00:28:21,033 --> 00:28:24,787
+不如我离开这里
+让你独自录下自己的抱怨?
+How about I leave the room and let
+you record your whining in private.
+
+352
+00:28:24,871 --> 00:28:26,873
+很好!
+Fine!
+
+353
+00:28:29,792 --> 00:28:35,173
+我一直在记录Weir博士值得争议的行为
+现在我将为您详细阐述
+I've been keeping a record of Dr Weir's questionable
+activities, which I would like to detail for you now.
+
+354
+00:29:10,166 --> 00:29:11,792
+我从来不在意狗狗
+I never cared for dogs.
+
+355
+00:29:11,792 --> 00:29:14,170
+太多的工作, 太多的需求, 太多的不可预知性
+Too much work, too needy, too unpredictable.
+
+356
+00:29:14,212 --> 00:29:17,089
+我的意思是, 你打开一扇门
+伴随着极小的声音, 它们就不见了
+I mean, you leave one door open,
+the tiniest little cracks, and they're gone.
+
+357
+00:29:17,173 --> 00:29:22,053
+你四处找它们, 到处贴传单, 但没有用
+而且由于你的父亲拒绝购买许可证
+You look for them, you put up fliers, it's no use.
+And since your father refused to pay for a license,
+
+358
+00:29:22,053 --> 00:29:25,389
+动物收养所也没有办法跟踪它们
+the animal shelter has no way of tracking them.
+
+359
+00:29:25,431 --> 00:29:28,100
+天知道在那个小家伙身上发生了什么
+God knows what happened to that little guy.
+
+360
+00:29:28,100 --> 00:29:30,770
+现在来说说猫咪
+这又是一个完全不同的故事
+Now cats, now that's a whole different story.
+
+361
+00:29:30,811 --> 00:29:34,857
+猫们自给自足, 它们可以信耐
+你摇动盒子它们就会跑过来
+Cats are self sufficient, they're dependable,
+you shake the box they come running.
+
+362
+00:29:34,899 --> 00:29:37,235
+有些人说这是由于食物, 不过我的猫...
+Some people say it's the food, but my cat... See,
+
+363
+00:29:37,276 --> 00:29:39,445
+我真地相信他喜欢我的陪伴
+I truly believe he enjoys my company.
+
+364
+00:29:39,487 --> 00:29:45,243
+在结束一天的工作, 回到家里的时候
+看到一张熟悉的脸在那里等你
+这是一件多么惬意的事情
+There's something very comforting about coming
+home from work at the end of the day and having
+a familiar face waiting for you, you know?
+
+365
+00:29:45,284 --> 00:29:51,207
+我扯远了, 说到哪了
+对了
+Still, I digress. Where was I. Right,
+
+366
+00:29:52,208 --> 00:29:53,543
+领导才能!
+leadership!
+
+367
+00:30:30,162 --> 00:30:31,414
+在这里!
+Over here!
+
+368
+00:30:32,373 --> 00:30:34,208
+没事, 我是朋友!
+It's alright, I'm a friend!
+
+369
+00:30:34,250 --> 00:30:36,586
+请快一点! 这边!
+Please, hurry! This way!
+
+370
+00:30:36,752 --> 00:30:39,463
+赶快! 这边
+Hurry! This way.
+
+371
+00:30:55,062 --> 00:30:56,439
+你们还剩下多少人?
+How many of you remain?
+
+372
+00:30:56,480 --> 00:30:58,691
+我不知道, 到处都是幽灵
+I don't know, the Wraith are everywhere.
+
+373
+00:30:58,733 --> 00:31:01,986
+来, 喝这个, 这是水
+Here, drink this. It is water.
+
+374
+00:31:02,278 --> 00:31:05,239
+Oren, 你看到他了么?
+Oren, have you seen him?
+
+375
+00:31:05,656 --> 00:31:09,160
+自从幽灵到来之后就没有看到
+谢谢你
+Not since before the Wraith arrived. Thank you.
+
+376
+00:31:11,078 --> 00:31:12,747
+我们必须走了, 幽灵会找到我们的
+We must go now, the Wraith will find us.
+
+377
+00:31:12,788 --> 00:31:14,123
+不, 它们找不到的
+No they will not.
+
+378
+00:31:14,165 --> 00:31:17,335
+我们的飞船有一个防护罩
+它们是看不见我们的
+Our ship has a shield which makes it invisible to them.
+
+379
+00:31:17,376 --> 00:31:18,961
+你们在这里很安全
+You are safe here.
+
+380
+00:31:18,961 --> 00:31:24,008
+休息一下, 我们马上就可以离开了
+Just rest, we will leave soon.
+
+381
+00:31:33,434 --> 00:31:39,607
+最后, 我要对探险队每个成员的家人说
+Finally I would like say something
+to the families of every member of this expedition.
+
+382
+00:31:39,732 --> 00:31:43,731
+我真希望我能够告诉你们更多
+你们所爱的人正在做的事情
+I wish I could tell you more
+about what your loved ones are doing,
+
+383
+00:31:43,736 --> 00:31:46,572
+某一天, 我希望你们能够发现
+and some day I hope you find out,
+
+384
+00:31:46,739 --> 00:31:49,742
+因为你们会感到惊奇
+because you will be amazed.
+
+385
+00:31:50,368 --> 00:31:56,415
+我要告诉你们我为他们当中的
+每一个都感到无比的自豪
+But I will tell you that I could not be
+more proud of each and every one of them.
+
+386
+00:31:56,916 --> 00:32:00,378
+他们的英勇无畏让我震惊
+Their heroism has amazed me.
+
+387
+00:32:25,111 --> 00:32:27,405
+他们的足智多谋让我感到惊奇
+Their resourcefulness has staggered me.
+
+388
+00:32:35,872 --> 00:32:36,706
+Rodney 启动!
+Rodney go!
+
+389
+00:32:37,540 --> 00:32:37,957
+正在启动!
+Going!
+
+390
+00:32:42,336 --> 00:32:42,962
+现在!
+Now!
+
+391
+00:32:49,552 --> 00:32:53,472
+我们面对的是非常可怕的敌人
+以及一个无法预知的未来
+We face a terrible enemy, and an uncertain future.
+
+392
+00:32:53,806 --> 00:32:56,309
+如果再没有我们的音信
+But if we are never heard from again,
+
+393
+00:32:56,309 --> 00:33:01,939
+请确信你们所爱的人并不是孤独的
+know that your loved ones
+did not face that uncertainty alone.
+
+394
+00:33:02,273 --> 00:33:05,151
+我们会共同面对未来
+We are facing our future together.
+
+395
+00:33:25,463 --> 00:33:26,964
+少校!
+Major!
+
+396
+00:33:30,968 --> 00:33:33,012
+那里实在是太恶心了
+It's pretty ugly out there.
+
+397
+00:33:33,638 --> 00:33:35,556
+这是Oren的家人?
+Is this Oren's family?
+
+398
+00:33:35,723 --> 00:33:37,099
+不是
+No.
+
+399
+00:33:39,227 --> 00:33:41,687
+在洗劫是之后
+他们就再也没有看到过Oren
+They have not seen Oren since the culling began.
+
+400
+00:33:41,687 --> 00:33:45,024
+这个村庄已经被洗劫一空了
+The village is pretty much wiped out.
+
+401
+00:33:55,243 --> 00:33:57,620
+星际之门刚刚关上
+The gate just shut off.
+
+402
+00:33:57,787 --> 00:34:02,166
+在幽灵可能对星际之门做点什么之前
+我们应该尽快拨号离开这里
+We should be able to dial up and get out of here
+before the Wraith can do anything about it.
+
+403
+00:34:02,208 --> 00:34:04,877
+求你了, 少校, 再给Oren 一些时间吧
+Please Major, give Oren more time.
+
+404
+00:34:04,877 --> 00:34:07,755
+如果他能够过来, 他现在已经到了
+If he was able to get here, he would be here by now.
+
+405
+00:34:07,797 --> 00:34:09,549
+我们马上准备回去
+We've gotta get back.
+
+406
+00:34:10,466 --> 00:34:11,884
+那就走吧
+Then go.
+
+407
+00:34:12,134 --> 00:34:14,470
+我会留在这里找他, 直到天亮
+你可以晚点再来接我
+I will stay and search until day light,
+you can return for me later.
+
+408
+00:34:14,512 --> 00:34:15,304
+我不能这样做
+I can't do that.
+
+409
+00:34:15,346 --> 00:34:18,891
+我把Oren当作自己的家人, 少校
+我很遗憾你无法理解...
+I consider Oren as family Major,
+I am sorry if you cannot understand without...
+
+410
+00:34:18,891 --> 00:34:21,143
+我理解, Teyla
+不过我并不是试图...
+I understand it Teyla,
+but that's not the point I am trying to...
+
+411
+00:34:21,185 --> 00:34:24,981
+不管你愿不愿意, 我会留下来
+With or without you, I am staying.
+
+412
+00:34:27,358 --> 00:34:29,652
+你会送命的
+You won't make it.
+
+413
+00:34:30,361 --> 00:34:35,408
+那么我请求你也留下, 就一会儿
+Then I ask that you stay as well,
+just a little longer.
+
+414
+00:34:35,867 --> 00:34:40,329
+允许某些好一点的事情发生
+Allow something good to come of this.
+
+415
+00:34:42,081 --> 00:34:47,044
+好吧, 我们再给他一点时间
+Alright, we'll give him a little more time.
+
+416
+00:34:52,675 --> 00:34:54,969
+我知道你很为我担心, 妈妈
+I know you worry about me Mum,
+
+417
+00:34:55,011 --> 00:34:58,306
+不过每次挑战到来的时候
+我们都可以找到解决的办法
+but somehow we've found a way
+to arise to each challenge,
+
+418
+00:34:58,347 --> 00:35:00,433
+所以不用担心我的安全
+so I wouldn't fret about my safety.
+
+419
+00:35:00,474 --> 00:35:05,938
+这里的人们, 来自数十个国家,
+大家都心系在一起
+It's the people here, from dozens of countries,
+all connected by a single bond.
+
+420
+00:35:05,980 --> 00:35:08,274
+我们代表着地球上的人民
+We represent the people of Earth,
+
+421
+00:35:08,316 --> 00:35:11,068
+只要有事情发生
+我发现我们地球人
+and if there's one thing
+I've discovered about we Earthlings,
+
+422
+00:35:11,110 --> 00:35:13,446
+就会紧紧的团结在一起
+我不会奇怪如果我带回...
+we're a scrappy bunch.
+I wouldn't be surprised if I bring back...
+
+423
+00:35:13,487 --> 00:35:14,906
+先生, 你不能说"地球人"
+Doc, you can't say Earthlings.
+
+424
+00:35:14,947 --> 00:35:16,782
+你的妈妈没有足够的安全许可
+Your Mother doesn't have enough security clearance.
+
+425
+00:35:16,782 --> 00:35:19,911
+她知道我来自地球, 这不是什么该死的秘密
+She knows I'm from Earth son, it's not a bloody secret.
+
+426
+00:35:19,952 --> 00:35:20,620
+哦, 对
+Oh, right.
+
+427
+00:35:20,912 --> 00:35:23,080
+对不起妈妈... 不管怎样
+Sorry mum... anyhow.
+
+428
+00:35:23,122 --> 00:35:26,209
+授权使用囚犯来测试一种实验药品
+Authorized using a prisoner
+to test an experimental drug,
+
+429
+00:35:26,250 --> 00:35:28,794
+这显然违反了日内瓦协约
+in clear violation of the Geneva convention.
+
+430
+00:35:28,836 --> 00:35:30,588
+授权降下星际之门防护盾
+Authorized lowering the Stargate shield
+
+431
+00:35:30,630 --> 00:35:34,467
+当准备进入的人的身份
+受到明显质疑的时候
+when the authenticity of
+incoming travellers was clearly in question.
+
+432
+00:35:34,634 --> 00:35:37,178
+还有一处风景
+我在临死前没有能够看到
+That's another sight I'll die without having seen.
+
+433
+00:35:37,178 --> 00:35:41,265
+如果你像我一样旅行了这么远
+你会发现想念尼亚加拉瀑布
+也不是什么大不了的事情
+See, to be fair - when you've travelled
+as much as I've travelled, you'd think that
+missing Niagra Falls would be no big deal.
+
+434
+00:35:41,307 --> 00:35:43,059
+不过你知道么? 这种思念不停的折磨你
+But you know what? It gnaws at you.
+
+435
+00:35:43,100 --> 00:35:46,103
+还有很多电影我都想看
+不过我现在看不成了
+Alot of movies I wish I'd seen, that I won't see now.
+
+436
+00:35:46,145 --> 00:35:48,981
+从来没有看过Grease, 既便是
+我在还是一个孩子的时候就已经有了
+一个Olivia Newton John的纪念品
+Never saw Grease even though I had a thing
+for Olivia Newton John when I was a kid.
+
+437
+00:35:49,023 --> 00:35:55,655
+我一直都想看Ghandi,
+我只看了《第六感》的前半部分
+一直想知道它是怎样收尾的
+I always wanted to see Ghandi, only saw the first half
+of the Sixth Sense, always wondered how that ended.
+
+438
+00:35:55,696 --> 00:35:58,157
+我的妹妹...
+My sister...
+
+439
+00:35:58,574 --> 00:36:03,913
+Ford, 如果你把其它部分剪掉了
+一定要把这部分留下, 好么?
+Ford if you cut everything else,
+just keep this part okay?
+
+440
+00:36:04,455 --> 00:36:09,836
+Jenny, 我是你的哥哥Rodney. 很显然
+Jenny, it's your brother Rodney. Obviously.
+
+441
+00:36:10,253 --> 00:36:14,006
+我想说, 嗯...
+I wanna say, umm...
+
+442
+00:36:14,048 --> 00:36:17,093
+我想说些什么
+I wanna say something.
+
+443
+00:36:18,261 --> 00:36:21,097
+家人很重要
+Family is important.
+
+444
+00:36:21,347 --> 00:36:27,478
+我意识到这一点是因为, 这里的人们
+在某种程度上, 在心理上充当了家人的地位
+I've come to realize that because the people here
+have become a sort of surrogate family to me.
+
+445
+00:36:27,520 --> 00:36:32,066
+现在我知道你在想些什么
+我从来不会去鼓吹那种情感, 不过...
+Now I know what you're thinking, I've never been
+the poster child for that kind of sentiment but...
+
+446
+00:36:32,108 --> 00:36:39,782
+当某个人即将面临死亡的时候
+他看到的事物也更加透彻
+when one's contemplating their own demise,
+one sees things more clearly.
+
+447
+00:36:39,949 --> 00:36:42,618
+我真心地祝你好, 你知道
+I really do wish you the best, you know.
+
+448
+00:36:42,660 --> 00:36:44,954
+我很抱歉我们无法更加亲近
+And I'm sorry we weren't closer.
+
+449
+00:36:44,996 --> 00:36:46,831
+也许, ...
+Perhaps, ...
+
+450
+00:36:48,875 --> 00:36:52,378
+如果我有机会度过这次难关
+也许某一天我们就可以
+if by chance I make it out of this,
+perhaps one day we can be.
+
+451
+00:36:52,420 --> 00:36:54,922
+我也很想这样
+And I would like that.
+
+452
+00:36:55,339 --> 00:37:01,971
+现在, 如果还有时间, 我想回到
+领导能力这个主题上来
+Now, if there's time, I'd like to go
+back to the subject of leadership.
+
+453
+00:37:03,306 --> 00:37:05,850
+有人过来了
+Someone's coming.
+
+454
+00:37:20,031 --> 00:37:22,241
+Oren!
+Oren!
+
+455
+00:37:23,075 --> 00:37:23,451
+Oren!
+Oren!
+
+456
+00:37:23,492 --> 00:37:24,952
+这个家庭到底有多大?
+How big is his family?
+
+457
+00:37:24,994 --> 00:37:26,704
+他们在路上一定碰到了其他人
+They must have met up with others along the way.
+
+458
+00:37:26,746 --> 00:37:28,331
+这会是一个问题
+That's gonna be a problem.
+
+459
+00:37:28,372 --> 00:37:30,166
+我无法想象你们还在这里
+I didn't think you'd still be here.
+
+460
+00:37:30,166 --> 00:37:31,417
+我们不会丢下你的
+We would not have gone without you.
+
+461
+00:37:31,459 --> 00:37:34,754
+我们发现其他人正在路上
+还有更多人在更后面
+We found others on the way,
+and even more further behind.
+
+462
+00:37:34,754 --> 00:37:36,130
+还有多少人?
+How many more?
+
+463
+00:37:36,172 --> 00:37:38,633
+十二个, 可能更多
+Twelve, perhaps more.
+
+464
+00:37:38,674 --> 00:37:40,426
+这里
+In here,
+
+465
+00:37:40,676 --> 00:37:44,305
+这边! 快点!
+this way! Quickly!
+
+466
+00:37:44,347 --> 00:37:47,475
+等, 等, 等, 等, 等一下!
+Wait, wait, wait, wait, wait!
+
+467
+00:37:52,939 --> 00:37:54,607
+好了, 我们会尽可能多的多带些人!
+Alright, we'll fit as many people as we can!
+
+468
+00:37:54,649 --> 00:37:57,235
+快点, 来吧!
+Hurry, come on!
+
+469
+00:37:58,027 --> 00:38:00,655
+一直向前! 一直向前!
+Straight ahead! Straight ahead!
+
+470
+00:38:04,075 --> 00:38:05,743
+赶快!
+Hurry!
+
+471
+00:38:10,206 --> 00:38:11,040
+没事的
+It's alright.
+
+472
+00:38:11,249 --> 00:38:12,375
+没事的
+It's alright.
+
+473
+00:39:21,569 --> 00:39:24,197
+我们的客人已经安置好了么?
+Are our guests comfortably settled in?
+
+474
+00:39:24,405 --> 00:39:25,364
+是的
+Yes.
+
+475
+00:39:25,406 --> 00:39:26,782
+很好
+Good.
+
+476
+00:39:28,492 --> 00:39:29,994
+告诉我
+So tell me,
+
+477
+00:39:30,661 --> 00:39:32,330
+到底有多糟糕?
+how bad is it?
+
+478
+00:39:32,663 --> 00:39:33,915
+很糟糕
+Bad.
+
+479
+00:39:36,125 --> 00:39:40,129
+每艘母船就像是一艘航空母舰
+Each hive ship acts like a carrier group with
+
+480
+00:39:40,171 --> 00:39:43,758
+大舰以及数以百计的小飞船守卫在周围
+cruisers and hundreds of darts escorting it.
+
+481
+00:39:43,799 --> 00:39:47,595
+Groden现在正在下载探测器上的读数
+Groden's downloading the sensor readings right now.
+
+482
+00:39:47,637 --> 00:39:50,556
+我从没有看到过一次洗劫带走了这么多人
+I've never witnessed a culling that took so many.
+
+483
+00:39:50,640 --> 00:39:55,019
+我们救出了一些人, 这还是值得肯定的
+We saved a few, that's worth something.
+
+484
+00:39:55,645 --> 00:39:57,813
+Rodney, 我们准备好发送消息了么?
+Rodney, are we ready to send our message?
+
+485
+00:39:57,855 --> 00:39:58,981
+随时都可以
+When you are.
+
+486
+00:39:59,023 --> 00:40:01,108
+OK
+OK.
+
+487
+00:40:07,782 --> 00:40:12,245
+Ford中尉刚刚完成为每个探险队成员
+记录个人消息的工作
+Lieutenant Ford is just finishing recording
+personal messages from all the team members,
+
+488
+00:40:12,286 --> 00:40:12,912
+如果你愿意?
+if you'd like?
+
+489
+00:40:12,954 --> 00:40:15,206
+我很好
+I'm good.
+
+490
+00:40:15,790 --> 00:40:16,791
+好吧
+Okay.
+
+491
+00:40:16,832 --> 00:40:18,751
+在我个人的一点简短的说明之后
+Well along with a short note of my own,
+
+492
+00:40:18,751 --> 00:40:22,421
+我还顺便为我们失去的人的家人
+录上了一些话
+I took the liberty of recording messages
+for the families of the people we've lost.
+
+493
+00:40:22,421 --> 00:40:23,214
+这是个好主意
+That's a good idea.
+
+494
+00:40:23,214 --> 00:40:25,174
+不过还有一个特别的人
+But there's one in particular,
+
+495
+00:40:25,216 --> 00:40:30,054
+我想也许应该由你自己来完成
+I thought maybe you'd might like to do for yourself.
+
+496
+00:40:34,475 --> 00:40:37,687
+OK, 只要你准备好了, 长官
+随时可以开始
+Okay, whenever you're ready Sir. Go ahead.
+
+497
+00:40:38,187 --> 00:40:42,859
+我不知道Sumner上校的家人
+是否还活着
+I'm not sure if Colonel Sumner's
+parents are still alive.
+
+498
+00:40:42,900 --> 00:40:47,154
+我甚至不知道他是否还留有一个家庭
+我们大家都不知道
+I'm not even sure he has
+a family back there, not all of us do.
+
+499
+00:40:47,196 --> 00:40:49,657
+不过如果他确实有一个家庭
+But if he does have a family,
+
+500
+00:40:49,657 --> 00:40:52,493
+他们应该知道他带着 ...
+they should know that he died with ...
+
+501
+00:40:52,535 --> 00:40:57,498
+荣耀和勇气在完成他的任务的时候牺牲了
+honour and courage in the perfomance of his duty.
+
+502
+00:40:57,582 --> 00:41:03,337
+他担负着领导的重担
+而且他做得很出色
+He carried the burden of a leader,
+and he carried it well.
+
+503
+00:41:03,421 --> 00:41:07,175
+我没有机会更深入的了解他, 不过 ...
+I didn't get the chance to know him well, but ...
+
+504
+00:41:07,175 --> 00:41:09,677
+我所知道的是
+I know this,
+
+505
+00:41:09,719 --> 00:41:15,057
+考虑到他作为男人的品格
+以及我们即将面对的敌人
+considering the type of man
+he was and what we're up against,
+
+506
+00:41:15,099 --> 00:41:19,604
+我希望他仍然在这里
+yeah I wish he was still here.
+
+507
+00:41:19,604 --> 00:41:23,649
+我无时无刻不在想你Simon
+Not a day goes by that I don't think of you Simon.
+
+508
+00:41:23,691 --> 00:41:26,277
+实在是有太多的事情想跟你说
+There's so much I want to tell you
+
+509
+00:41:26,319 --> 00:41:28,738
+以及跟你分享
+and share with you.
+
+510
+00:41:28,905 --> 00:41:31,490
+不过我不能
+But I can't.
+
+511
+00:41:32,617 --> 00:41:35,244
+我知道这不公平
+I know this is unfair,
+
+512
+00:41:35,286 --> 00:41:37,538
+那么多东西你都不知道
+so much you don't know,
+
+513
+00:41:37,580 --> 00:41:41,417
+但你却要在生活中支持我
+and putting your life on hold for me.
+
+514
+00:41:43,044 --> 00:41:45,922
+所以不要这样了
+So don't,
+
+515
+00:41:45,963 --> 00:41:49,675
+我要你做的就是照顾好自己
+all I ask is that you take care of yourself.
+
+516
+00:41:49,717 --> 00:41:52,803
+不管你在哪里
+And know that wherever you are,
+
+517
+00:41:52,845 --> 00:41:56,140
+我的心会一直同你在一起
+my heart is looking after you.
+
+518
+00:41:56,599 --> 00:41:58,392
+照顾好你自己
+So take care of yourself,
+
+519
+00:41:58,434 --> 00:41:59,810
+多睡眠
+lots of sleep
+
+520
+00:41:59,852 --> 00:42:01,812
+记住每天散步
+and remember your daily walks,
+
+521
+00:42:01,812 --> 00:42:04,565
+坚持按你的药方服药
+and keep up with your prescription.
+
+522
+00:42:04,607 --> 00:42:06,734
+就是这些
+Well that's about it,
+
+523
+00:42:06,776 --> 00:42:08,945
+现在我要说再见了
+I'll say goodbye now.
+
+524
+00:42:10,196 --> 00:42:12,114
+妈妈
+And mum,
+
+525
+00:42:12,365 --> 00:42:13,824
+我真的很爱你
+I do love you.
+
+526
+00:42:14,075 --> 00:42:16,744
+再见, 爷爷, 奶奶 - 我想你们!
+Bye Grandma, Grandpa - I miss you!
+
+527
+00:42:17,036 --> 00:42:18,246
+再见, 弟弟!
+Goodbye bro!
+
+528
+00:42:21,874 --> 00:42:22,708
+再见
+Goodbye.
+
+529
+00:42:23,417 --> 00:42:25,378
+再见, Simon
+Goodbye Simon.
+
+530
+00:42:26,671 --> 00:42:27,755
+再见
+Goodbye.
+
+531
+00:42:36,639 --> 00:42:40,393
+我们收到了计划外的连接!
+We have unscheduled offworld activation!
+
+532
+00:42:43,896 --> 00:42:45,648
+接收传输
+Receiving transmission.
+
+533
+00:42:49,902 --> 00:42:51,571
+来自哪里?
+Who's it from?
+
+534
+00:42:53,698 --> 00:42:55,241
+亚特兰蒂斯
+
+
+Atlantis.
+

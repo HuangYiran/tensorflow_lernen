@@ -1,0 +1,3297 @@
+1
+00:00:22,669 --> 00:00:28,295
+<font color="#4096d1"> -==破烂熊乐园倾情奉献==-
+本字幕仅供学习交流，严禁用于商业用途</font>
+
+2
+00:00:32,503 --> 00:00:38,877
+<font color="#4096d1">-==http://www.ragbear.com==- 
+福尔摩斯探案全集 第2季第5集</font>
+
+3
+00:00:41,139 --> 00:00:46,505
+<font color="#4096d1">-=Keepfrds MNHD Team=-
+ 校对: ptrpan</font>
+
+4
+00:01:10,142 --> 00:01:15,381
+<font color=#4096d1>红发会</font>
+
+5
+00:04:50,120 --> 00:04:52,110
+噢 对不起 福尔摩斯
+Oh, sorry Holmes.
+
+6
+00:04:52,267 --> 00:04:53,319
+不 不
+No, no,
+
+7
+00:04:55,468 --> 00:04:57,239
+你来得正是时候
+you couldn't have come at a better time.
+
+8
+00:04:57,836 --> 00:04:59,938
+我怕你正忙呢
+I was afraid you were engaged.
+
+9
+00:05:00,034 --> 00:05:02,013
+是的 非常忙
+I am, very much so.
+
+10
+00:05:02,097 --> 00:05:05,296
+华生医生和我一样 热衷于稀奇古怪的东西
+Dr. Watson shares my love of all that is bizarre,
+
+11
+00:05:05,756 --> 00:05:08,152
+而不是日常生活中那些稀松平常的老套故事
+but outside the routine of everyday existence.
+
+12
+00:05:09,154 --> 00:05:11,476
+现在还不能断定
+It is at present and impossible to say
+
+13
+00:05:11,271 --> 00:05:13,657
+这个案子是否属于犯罪案件
+that this case is an instance of crime or no.
+
+14
+00:05:14,366 --> 00:05:16,053
+但是足以说
+But suffice it to say that I know as little
+
+15
+00:05:16,138 --> 00:05:18,138
+对于杰贝斯・威尔逊先生 我和你知道的一样少
+about Mr. Jay Beards Wilson as you do yourself,
+
+16
+00:05:18,390 --> 00:05:19,994
+除了一些明显的事实外
+beyond the obvious facts.
+
+17
+00:05:20,350 --> 00:05:23,122
+他干过一阵儿体力活
+That he has done manual labor at sometime.
+
+18
+00:05:23,509 --> 00:05:25,645
+曾经去过中国
+But it takes staff that he has been to China.
+
+19
+00:05:25,874 --> 00:05:27,280
+他最近还...
+And that he has done
+
+20
+00:05:27,480 --> 00:05:29,010
+写过不少东西
+a considerable amount of writing lately.
+
+21
+00:05:29,012 --> 00:05:30,877
+噢!我的老天爷!
+How in the name of good fortune
+
+22
+00:05:31,138 --> 00:05:33,409
+您怎么知道的?福尔摩斯先生
+did you know all that Mr. Holmes?
+
+23
+00:05:33,776 --> 00:05:36,277
+真像福音一样确切 我是干过体力活
+As true as gospel I once did manual labor.
+
+24
+00:05:36,477 --> 00:05:38,866
+我曾在船上做过木匠
+I started off as a ship's carpenter.
+
+25
+00:05:38,905 --> 00:05:40,209
+你的手 我的好仆人
+Your hands my good servant.
+
+26
+00:05:40,397 --> 00:05:41,492
+你右手的肌肉
+The muscles of your right hand
+
+27
+00:05:41,658 --> 00:05:42,904
+比左手的发达
+are more developed than the left.
+
+28
+00:05:43,460 --> 00:05:44,866
+那写作呢?
+And the writing?
+
+29
+00:05:45,910 --> 00:05:47,170
+还有别的什么更能说明问题吗?
+What else could be indicated.
+
+30
+00:05:47,462 --> 00:05:49,702
+右手袖子足有五寸长的地方 磨得油光发亮
+By the right cuffs are very shiny for five inches.
+
+31
+00:05:49,944 --> 00:05:54,342
+左胳膊肘那儿打了个整洁的补丁
+And the left sleeve with smooth pattern over the elbow
+
+32
+00:05:54,603 --> 00:05:57,875
+这是经常贴在桌面所致... 但中国?
+where you lean it on the desk... but China?
+
+33
+00:05:58,011 --> 00:06:01,513
+右手腕正上方的鱼状纹身
+The fish tattooed immediately above his right wrist.
+
+34
+00:06:01,838 --> 00:06:04,824
+我对纹身略有研究 威尔逊先生
+I have made a small study of tattoo marks,Mr. Wilson, 
+
+35
+00:06:04,952 --> 00:06:06,663
+我还写过...
+and have even contributed to the
+
+36
+00:06:06,744 --> 00:06:08,189
+这方面的文章
+ literature of the subject.
+
+37
+00:06:08,415 --> 00:06:10,499
+染鱼鳞的绝技
+That trick of staining the fish scales,
+
+38
+00:06:10,812 --> 00:06:12,802
+使用淡淡的粉红色 是中国才有的
+a delicate pink is quite peculiar to China.
+
+39
+00:06:13,168 --> 00:06:15,001
+还有 我看见一枚中国钱币
+Wherein addition I see a Chinese coin hanging
+
+40
+00:06:15,232 --> 00:06:16,409
+垂在他的表链上
+from his watch chain.
+
+41
+00:06:16,764 --> 00:06:18,222
+这岂不是显然易见的吗
+The matter becomes even more simple.
+
+42
+00:06:18,505 --> 00:06:20,005
+哈哈 真没想到...
+Well I never...
+
+43
+00:06:20,320 --> 00:06:22,080
+起初我还觉得你真是神机妙算
+I thought at first it was something clever,
+
+44
+00:06:22,216 --> 00:06:25,092
+说穿了 也没什么了不起
+but now I see there's nothing in it after all.
+
+45
+00:06:29,607 --> 00:06:31,826
+我开始觉得要是心眼太实
+You know I begin to think that my reputation
+
+46
+00:06:32,025 --> 00:06:34,380
+会毁了自己的名声
+such as it is will suffer shipwreck if I'm so candid
+
+47
+00:06:34,517 --> 00:06:37,758
+"不为人知者乃为壮丽"
+omne ignotum pro magnifico.
+
+48
+00:06:39,437 --> 00:06:42,803
+解释之后 一切都变得平庸
+Everything becomes commonplace by explanation.
+
+49
+00:06:43,210 --> 00:06:45,596
+华生 这么翻译太不严谨了
+Watson that is a very loose translation.
+
+50
+00:06:45,837 --> 00:06:48,171
+哦 请把那则广告给医生看
+Oh, please show the doctor that advertisement.
+
+51
+00:06:48,517 --> 00:06:51,205
+哦 在这儿 您自己看吧 先生
+Oh, there, you can read it for yourself sir.
+
+52
+00:06:54,219 --> 00:06:55,990
+红发会
+To the Red Headed League.
+
+53
+00:06:59,086 --> 00:07:00,429
+由于原住于美国宾夕法尼亚州的
+On account of the request
+
+54
+00:07:00,639 --> 00:07:03,327
+黎巴嫩人
+of the late Iscar Hopkins of Lebanon,
+
+55
+00:07:03,537 --> 00:07:06,601
+伊齐基亚・霍普金斯之遗赠 现有空缺一名
+Pennsylvania USA there is a vacancy open
+
+56
+00:07:06,779 --> 00:07:09,186
+薪金为每周四镑
+which entitles a member of the league to a salary
+
+57
+00:07:09,500 --> 00:07:12,741
+工作则实系挂名而已
+of four pounds a week for purely nominal services.
+
+58
+00:07:13,815 --> 00:07:17,171
+凡红发男性 身体健康 智力健全
+All red headed men sound in body and mind
+
+59
+00:07:18,214 --> 00:07:20,490
+年满21周岁者 均可申请
+and above the age of 21 are eligible.
+
+60
+00:07:22,894 --> 00:07:27,167
+应聘者请于星期一上午11时 亲至舰队街
+Apply in person on Monday at 11:00 to Mr. Duncan Ross
+
+61
+00:07:27,377 --> 00:07:28,533
+教皇院7号
+at the offices of the League,
+
+62
+00:07:28,794 --> 00:07:31,097
+红发会办公室邓肯・罗斯处提出申请
+7 Copes Court Fleet Street.
+
+63
+00:07:31,432 --> 00:07:32,556
+此事当真?
+Is this serious?
+
+64
+00:07:34,308 --> 00:07:36,934
+这则广告有点不合常理 华生
+It is a little off the beaten track, hey Watson.
+
+65
+00:07:37,196 --> 00:07:40,760
+麻烦你记下报纸名和日期
+Oh, would you make a note of the paper and the date?
+
+66
+00:07:42,054 --> 00:07:44,815
+<纪事年报> 4月27日 星期六
+Evening standard of Saturday the 27th of April,
+
+67
+00:07:45,307 --> 00:07:46,442
+两个月前
+two months ago.
+
+68
+00:07:46,588 --> 00:07:47,660
+请坐下
+Do try this sitting.
+
+69
+00:07:47,777 --> 00:07:51,299
+现在 威尔逊先生 请说吧
+Now, Mr. Wilson, off you go
+
+70
+00:07:51,477 --> 00:07:53,717
+简略地介绍一下你自己
+at scratch and tell us all about yourself.
+
+71
+00:07:54,448 --> 00:07:58,909
+嗯 先生们 我开了个
+Oh, well gentlemen I have a small
+
+72
+00:07:59,087 --> 00:08:01,775
+小当铺 在萨克斯科伯格广场
+pawn broking business in Sax Coburg Street,
+
+73
+00:08:02,006 --> 00:08:03,026
+在市区附近
+near the city.
+
+74
+00:08:03,235 --> 00:08:04,995
+买卖做得不大
+It's not a very large affair.
+
+75
+00:08:05,268 --> 00:08:06,695
+只能勉强维持生计
+It just gives me a living.
+
+76
+00:08:07,103 --> 00:08:11,314
+过去我还能请两个伙计 但现在只雇得起一个
+I used to keep two assistants but now I just keep the one.
+
+77
+00:08:11,554 --> 00:08:15,723
+实话实说 我原打算付全部工钱
+And to tell you the truth I'd have a job to make you pay
+
+78
+00:08:16,255 --> 00:08:18,339
+但这个伙计 自愿拿一半工资
+but the deeds willing to come at half wages
+
+79
+00:08:18,549 --> 00:08:20,205
+说是为了学做生意
+so as to learn the business.
+
+80
+00:08:21,081 --> 00:08:23,238
+大约两个月前...
+About two months ago...
+
+81
+00:08:23,552 --> 00:08:26,199
+这个热心肠的小伙子叫什么?
+What is the name of the obliging youth?
+
+82
+00:08:26,585 --> 00:08:28,127
+文森特・斯波尔丁
+Vincent Spalding.
+
+83
+00:08:28,472 --> 00:08:31,025
+但他算不上是个小伙子 福尔摩斯先生
+Oh, but he's not such a youth either Mr. Holmes.
+
+84
+00:08:31,213 --> 00:08:32,869
+我不太清楚他的年纪
+It's difficult to say his age
+
+85
+00:08:33,038 --> 00:08:35,320
+可我再也找不到比这个 更精明能干的伙计了
+but I couldn't wish for a smarter assistant.
+
+86
+00:08:35,665 --> 00:08:38,041
+你的运气真不赖!
+You seem most remarkably fortunate.
+
+87
+00:08:38,792 --> 00:08:41,605
+以低于市价的工钱雇到伙计
+In having an employee who comes under the market price,
+
+88
+00:08:41,763 --> 00:08:43,190
+不知道你那个伙计
+I don't know that your assistant
+
+89
+00:08:43,399 --> 00:08:45,086
+是不是同那则广告 一样非比寻常?
+is not as remarkable as your advertisement.
+
+90
+00:08:45,954 --> 00:08:47,506
+哦 他也有缺点
+Oh, but he does have his faults.
+
+91
+00:08:48,423 --> 00:08:50,882
+他比谁都爱照相
+However, he was such a fellow for photography.
+
+92
+00:08:51,051 --> 00:08:52,759
+整天拿着相机到处拍照
+Always snapping away with his camera
+
+93
+00:08:52,959 --> 00:08:55,845
+不愿在工作上动脑筋 然后钻进...
+when he should be improving his mind and then diving down
+
+94
+00:08:56,221 --> 00:08:58,346
+地下室去冲洗那些东西
+into the cellar to develop the wretched things.
+
+95
+00:08:58,598 --> 00:09:00,723
+但是 总的来说 他算是个好伙计
+Still on the whole he's a good worker.
+
+96
+00:09:00,974 --> 00:09:02,255
+没什么坏心眼
+No vice in him.
+
+97
+00:09:02,434 --> 00:09:04,945
+当初就是他 把广告拿给我看的
+It was he who first showed me the advertisement.
+
+98
+00:09:17,673 --> 00:09:20,069
+但愿我是红头发 威尔逊先生
+I wish to the lord I was a red headed man Mr. Wilson.
+
+99
+00:09:20,822 --> 00:09:21,905
+为什么?
+Why is that?
+
+100
+00:09:22,990 --> 00:09:24,427
+现在红发会里
+Well there's another vacancy
+
+101
+00:09:24,710 --> 00:09:25,834
+又有职位空缺了
+in the League of Red Headed Men.
+
+102
+00:09:27,066 --> 00:09:28,243
+从未听过这事儿
+I've never heard of it.
+
+103
+00:09:30,287 --> 00:09:34,438
+我还纳闷呢 您本人就非常符合资格
+Well, I'd wonder at that you being so eligible yourself.
+
+104
+00:09:35,749 --> 00:09:37,562
+薪金相当可观
+Nice money too.
+
+105
+00:09:38,418 --> 00:09:41,284
+一年200镑 活儿又轻松...
+A couple hundred a year and the work's light...
+
+106
+00:09:46,100 --> 00:09:48,590
+到时可得有成千上万的 红发人去应聘吧
+Oh, there'll be thousands of red headed men apply.
+
+107
+00:09:48,706 --> 00:09:50,654
+我可不这么认为 先生
+Oh, well I doubt that sir.
+
+108
+00:09:51,062 --> 00:09:52,739
+没人有你这么火红的头发...
+Well nobody with such a fine fiery color
+
+109
+00:09:52,865 --> 00:09:54,208
+如同上天恩赐一般 威尔逊先生
+as you're blessed with Mr. Wilson.
+
+110
+00:09:57,368 --> 00:09:59,389
+但是我想还是不值得
+But then I suppose it's only worth your while
+
+111
+00:09:59,704 --> 00:10:00,797
+为了那几百英镑
+to put yourself out of the way
+
+112
+00:10:01,100 --> 00:10:02,944
+特地跑一趟吧
+for sake of a few hundred pounds.
+
+113
+00:10:04,123 --> 00:10:06,113
+是的 先生
+Yes, sir.
+
+114
+00:10:10,065 --> 00:10:13,056
+嗯 我很爱呆在家里
+Well I'm very much of a stay at home sort of person.
+
+115
+00:10:13,265 --> 00:10:15,974
+有时候连续几个星期 我都不会踏出门口半步
+Sometimes weeks on end before I put my foot over the doormat
+
+116
+00:10:16,153 --> 00:10:19,978
+但这个看起来很有意思
+but this it looked interesting.
+
+117
+00:10:20,906 --> 00:10:23,709
+我对此很感兴趣 而年轻的文森特...
+I was intrigued and young Vincent
+
+118
+00:10:24,001 --> 00:10:25,271
+说他愿意陪我一起去
+said he'd come with me.
+
+119
+00:10:25,523 --> 00:10:28,691
+所以星期一早上 我们锁好店门
+So, on Monday morning we shut up the shop
+
+120
+00:10:29,110 --> 00:10:31,684
+便动身了
+and off we went.
+
+121
+00:10:34,656 --> 00:10:35,916
+文森特 我们回去吧
+Now, Vincent let's go back
+
+122
+00:10:36,072 --> 00:10:37,155
+人太多 过不去
+I can't get by the crowd.
+
+123
+00:10:37,261 --> 00:10:38,187
+拿出勇气 威尔逊先生
+Courage Mr. Wilson.
+
+124
+00:10:38,491 --> 00:10:40,543
+我们就快到了 正处在重要关头
+We're so near and so much at stake.
+
+125
+00:10:40,847 --> 00:10:42,639
+现在穿上外套
+Now you put your coat on
+
+126
+00:10:43,297 --> 00:10:44,338
+跟着我走
+and come along with me.
+
+127
+00:11:01,403 --> 00:11:03,841
+喂 喂 喂 请小点声
+Ohy, Ohy, Ohy, a little less noise
+
+128
+00:11:04,051 --> 00:11:05,217
+先生们
+please gentlemen.
+
+129
+00:11:06,688 --> 00:11:10,784
+这里 看这里 你什么意思?
+Here, here what's your game?
+
+130
+00:11:11,160 --> 00:11:12,837
+喂 滚开
+Hey get out of here.
+
+131
+00:11:13,224 --> 00:11:14,150
+喂...喂...
+Hey, hey...
+
+132
+00:11:27,773 --> 00:11:29,658
+你可以走了 你是下一个 进去吧
+Off you go, you next, get in.
+
+133
+00:11:29,892 --> 00:11:31,235
+嘿 你往哪儿走?
+Hey, where are you going?
+
+134
+00:11:31,477 --> 00:11:32,768
+这边直走 走吧
+Straight this way, Come on.
+
+135
+00:11:33,009 --> 00:11:34,737
+这位是威尔逊先生
+This is Mr. Wilson.
+
+136
+00:11:34,739 --> 00:11:35,926
+直接进去吧 威尔逊先生
+Right in you go Mr. Wilson.
+
+137
+00:11:50,396 --> 00:11:52,219
+非常合适
+Admirably suited.
+
+138
+00:11:55,566 --> 00:11:57,222
+完全符合要求
+Every requirement.
+
+139
+00:12:00,205 --> 00:12:02,476
+静下来了
+Very quiet.
+
+140
+00:12:04,427 --> 00:12:06,917
+恭喜您 威尔逊先生
+Congratulations Mr. Wilson.
+
+141
+00:12:07,304 --> 00:12:09,106
+再迟疑就太不对了
+It would be injustice to hesitate.
+
+142
+00:12:09,702 --> 00:12:12,641
+您不介意我采取谨慎措施吧?
+You will I'm sure excuse me if I take an obvious precaution.
+
+143
+00:12:16,623 --> 00:12:18,415
+眼泪都流出来了
+Tears in your eyes.
+
+144
+00:12:18,801 --> 00:12:20,551
+想必是真头发了
+I perceive all is as it should be.
+
+145
+00:12:21,648 --> 00:12:23,221
+我们不得不小心防范
+We have to be careful.
+
+146
+00:12:23,628 --> 00:12:26,859
+被假发骗过两次 被颜料骗过一次
+Twice deceived by wigs, once by paint.
+
+147
+00:12:27,715 --> 00:12:29,882
+还有用鞋蜡来玩花招的
+I could tell you tales of cobblers wags
+
+148
+00:12:30,237 --> 00:12:33,332
+您听了准会感到恶心
+that would disgust you with human nature.
+
+149
+00:12:35,907 --> 00:12:37,636
+我叫邓肯・罗斯
+My name is Duncan Ross.
+
+150
+00:12:38,305 --> 00:12:40,399
+我自己就是基金的受益人
+I am myself a pension upon a fund left by
+
+151
+00:12:40,577 --> 00:12:42,139
+这是一位尊贵的捐赠者遗留的
+a noble benefactor.
+
+152
+00:12:43,058 --> 00:12:47,102
+就知道你要问我 伊乔基亚・霍普金斯先生的事
+I see you're about to question me about Mr. Ethic Guya Hopkins.
+
+153
+00:12:50,085 --> 00:12:52,075
+他自己长了一头红发
+He was himself red headed.
+
+154
+00:12:52,919 --> 00:12:55,357
+他年轻时离开伦敦去了美国
+In his youth he left London for America where he made
+
+155
+00:12:55,526 --> 00:12:57,245
+赚了好几百万美元
+many millions of dollars.
+
+156
+00:12:57,506 --> 00:12:59,694
+他死后 人们发现他曾立下遗嘱
+On his death it was found that he had instructed
+
+157
+00:12:59,872 --> 00:13:06,365
+吩咐财产托管人让他出生的这座城市中
+a trustee in his will to make life a little easier
+
+158
+00:13:06,534 --> 00:13:09,066
+生活着的红发人日子过得舒适安逸
+for the red headed men in the town of his birth.
+
+159
+00:13:11,600 --> 00:13:13,371
+绝妙的颜色
+Wonderful color.
+
+160
+00:13:13,851 --> 00:13:15,893
+您的全名叫什么?  威尔逊先生
+Now what's your full name Mr. Wilson?
+
+161
+00:13:16,801 --> 00:13:18,864
+杰贝斯・威尔逊
+Jay Beards Wilson.
+
+162
+00:13:19,219 --> 00:13:22,752
+杰贝斯・威尔逊 您结婚了吗?
+Jay Beards Wilson and are you a married man,
+
+163
+00:13:22,941 --> 00:13:23,771
+威尔逊先生?
+Mr. Wilson?
+
+164
+00:13:23,877 --> 00:13:24,981
+你有妻儿吗?
+Do you have a family?
+
+165
+00:13:25,943 --> 00:13:27,047
+没有 我是个鳏夫
+No, I'm a widower.
+
+166
+00:13:27,162 --> 00:13:28,881
+不 我从来就没有过什么家人
+No, I never had any family.
+
+167
+00:13:31,175 --> 00:13:34,875
+哎呀 真遗憾听您这么说
+Oh dear, sad to hear you say that.
+
+168
+00:13:36,293 --> 00:13:37,855
+本基金设立的目的就是为了...
+The fund of course is for the propagation
+
+169
+00:13:38,118 --> 00:13:39,378
+红发人更多地繁衍
+and spread of red headed men
+
+170
+00:13:39,651 --> 00:13:41,610
+延续他们的血脉
+as well as with their maintenance.
+
+171
+00:13:44,956 --> 00:13:47,300
+要是换了别人 这个缺点可能是不幸的
+In another case the objection might be fatal.
+
+172
+00:13:49,887 --> 00:13:51,627
+但我想我们得破例照顾一下
+However, I've think we've got to stretch a point
+
+173
+00:13:51,889 --> 00:13:54,609
+因为您的头发长得这么好
+in favor of a man with such a head of hair as yours.
+
+174
+00:14:04,054 --> 00:14:05,898
+空缺已经有人了
+The vacancy has been filled.
+
+175
+00:14:12,059 --> 00:14:14,581
+空缺有人了
+The vacancy is filled.
+
+176
+00:14:15,926 --> 00:14:17,134
+现在请离开吧
+Now, off you go.
+
+177
+00:14:17,667 --> 00:14:19,136
+不好意思
+Sorry about that.
+
+178
+00:14:19,262 --> 00:14:20,783
+走吧
+Off you go.
+
+179
+00:14:39,046 --> 00:14:43,997
+您什么时候可以来上班?
+Now, when would you be free to start upon your new duties?
+
+180
+00:14:44,446 --> 00:14:48,187
+嗯 这事还有点不好办 因为我本身也有做买卖
+Oh, well it is rather awkward as I do have a business already.
+
+181
+00:14:48,449 --> 00:14:49,730
+什么时候上班?
+What would be the hours?
+
+182
+00:14:49,898 --> 00:14:51,179
+上午10点到下午2点
+10:00 to 2:00.
+
+183
+00:14:51,587 --> 00:14:53,076
+上午生意倒清淡
+Well the mornings are quiet.
+
+184
+00:14:53,234 --> 00:14:54,817
+我也有个伙计帮忙照看
+I do have an assistant.
+
+185
+00:14:55,141 --> 00:14:56,714
+嗯 对我来说很合适
+Yes, that would suit me very well.
+
+186
+00:14:57,070 --> 00:14:59,581
+薪水是每周四英镑?
+And the money mentioned, four pounds a week.
+
+187
+00:14:59,895 --> 00:15:00,905
+没错
+Correct.
+
+188
+00:15:01,041 --> 00:15:02,051
+干些什么活?
+And the work?
+
+189
+00:15:02,146 --> 00:15:03,333
+纯属挂名
+Purely nominal.
+
+190
+00:15:03,428 --> 00:15:04,970
+纯属挂名是什么意思?
+Yes, but what do you call purely nominal?
+
+191
+00:15:06,774 --> 00:15:08,962
+就是说您必须待在办公室里
+Well, you have to stay in the office
+
+192
+00:15:09,224 --> 00:15:11,214
+至少在工作时间内呆在这栋楼里
+or at least in the building the whole time.
+
+193
+00:15:11,393 --> 00:15:13,800
+一旦离开 便会 永远丢掉这个职位
+If you leave you forfeit your whole position forever.
+
+194
+00:15:13,894 --> 00:15:15,488
+对于这一点 遗嘱写得很清楚
+The will is quite clear on that point.
+
+195
+00:15:16,062 --> 00:15:17,353
+噢 我不会离开的
+Oh, I shouldn't dream of leaving.
+
+196
+00:15:17,501 --> 00:15:18,907
+任何借口都没用
+No, excuse will avail.
+
+197
+00:15:18,991 --> 00:15:20,668
+不管是生病 有事  还是其他原因都不行
+Not a sickness, business, anything else.
+
+198
+00:15:20,795 --> 00:15:24,787
+您必须待在这里 否则会丢掉这份工作
+Here you will remain or else lose your ability.
+
+199
+00:15:25,100 --> 00:15:27,465
+哦 我清楚明白了
+Oh, I am quite clear on that point.
+
+200
+00:15:27,664 --> 00:15:29,560
+具体的工作内容是什么呢?
+But what exactly is the work?
+
+201
+00:15:31,542 --> 00:15:34,700
+您的工作是抄写<大英百科全书>
+It is to copy out the encyclopedia Britannica.
+
+202
+00:15:37,025 --> 00:15:38,681
+这是第一卷
+There is the first volume.
+
+203
+00:15:38,891 --> 00:15:40,954
+您得自备笔墨纸砚
+You will supply the ink, paper and pen.
+
+204
+00:15:41,163 --> 00:15:43,101
+我们只提供桌椅
+We will supply this desk and chair.
+
+205
+00:15:43,978 --> 00:15:47,469
+下星期一能开始上班吗?
+Now would you be free to start next Monday morning?
+
+206
+00:15:49,138 --> 00:15:50,356
+是的 当然可以
+Oh, yes, certainly.
+
+207
+00:15:51,920 --> 00:15:55,057
+那么再次祝贺您
+Then once again my congratulations
+
+208
+00:15:55,507 --> 00:15:58,435
+杰贝斯・威尔逊先生 得到这个重要职务
+Mr. Jay Beards Wilson on the most important position
+
+209
+00:15:58,644 --> 00:16:00,530
+你很幸运!
+you've been fortunate enough to gain.
+
+210
+00:16:06,817 --> 00:16:08,223
+真是完美的头发!
+Wonderful head of hair.
+
+211
+00:16:09,662 --> 00:16:11,089
+再见 威尔逊先生
+Good bye Mr. Wilson.
+
+212
+00:16:13,749 --> 00:16:15,353
+干得好 威尔逊先生
+Well done Mr. Wilson.
+
+213
+00:16:15,552 --> 00:16:16,591
+干得非常好!
+Well done indeed.
+
+214
+00:16:16,827 --> 00:16:18,309
+这条路最近 先生
+This is the quickest way out sir.
+
+215
+00:16:18,429 --> 00:16:19,335
+哦
+Oh.
+
+216
+00:16:19,701 --> 00:16:20,825
+这边走
+This way.
+
+217
+00:16:28,843 --> 00:16:30,572
+我回到家仔细一想
+When I got home the whole thing seemed
+
+218
+00:16:30,813 --> 00:16:33,376
+整件事情太荒谬了
+on reflection to be quite ridiculous.
+
+219
+00:16:34,013 --> 00:16:34,929
+为什么?
+Why?
+
+220
+00:16:35,004 --> 00:16:36,691
+谁会立下这样不寻常的遗嘱呢?
+Who would make such an extraordinary will?
+
+221
+00:16:37,182 --> 00:16:39,214
+一个如此慷慨的百万富翁
+Not a very generous millionaire to make you
+
+222
+00:16:39,298 --> 00:16:41,767
+竟让你自备笔墨纸砚
+buy your own pen, ink, and paper.
+
+223
+00:16:41,873 --> 00:16:44,082
+就是说嘛 福尔摩斯先生
+Exactly Mr. Holmes.
+
+224
+00:16:44,990 --> 00:16:48,554
+很快我便说服自己 这一定是个大骗局
+I soon persuaded myself it was some great hoax or fraud.
+
+225
+00:16:49,878 --> 00:16:53,588
+但到了星期一早上 又觉得只有笨蛋才会
+And then when Monday morning came along it seemed stupid
+
+226
+00:16:53,778 --> 00:16:55,455
+拒绝这样的好工作
+to turn down a good job
+
+227
+00:16:55,570 --> 00:16:59,645
+所以 我去买了一瓶 一个便士的墨水
+so, off I went and bought a penny bottle of ink
+
+228
+00:16:59,771 --> 00:17:03,179
+一只羽毛笔和七张大书写纸
+and a pen and seven sheets of fools kept paper.
+
+229
+00:17:03,805 --> 00:17:06,796
+前往教皇院
+And I set off for Popes Core.
+
+230
+00:17:24,841 --> 00:17:27,081
+早上好 威尔逊先生 欢迎您
+Good morning, Mr. Wilson and welcome.
+
+231
+00:17:27,249 --> 00:17:28,029
+早上好
+Good morning.
+
+232
+00:17:29,615 --> 00:17:32,095
+让我又惊又喜的是
+Well to my surprise and delight
+
+233
+00:17:32,419 --> 00:17:35,149
+一切都很顺利
+everything was as right as possible.
+
+234
+00:17:35,588 --> 00:17:37,171
+桌椅都摆好了
+The table was set up ready for me
+
+235
+00:17:37,391 --> 00:17:41,602
+邓肯・罗斯先生也在那儿 等我了解工作内容后
+and Mr. Duncan Ross was there to see I got fairly to work.
+
+236
+00:17:43,208 --> 00:17:45,177
+我的工作也就真正开始了
+My employment had truly begun.
+
+237
+00:17:46,585 --> 00:17:47,981
+每天都是如此
+The schedule never varied.
+
+238
+00:17:48,212 --> 00:17:51,755
+从早上10点开始干活 下午2点离开
+My work started at 10:00 and ended at 2:00
+
+239
+00:17:52,798 --> 00:17:55,132
+12点半的时候有一小段时间吃午餐
+with a small break for my lunch at half past 12:00.
+
+240
+00:17:56,665 --> 00:18:00,260
+每星期六下午2点 罗斯先生都会过来
+Every Saturday at 2:00 Mr. Ross would come in
+
+241
+00:18:00,512 --> 00:18:02,637
+发给我一个星期的薪水
+and give me my money.
+
+242
+00:18:02,784 --> 00:18:04,680
+称赞我抄写得真不赖
+Compliment me upon the amount that I'd written
+
+243
+00:18:04,900 --> 00:18:06,462
+然后我们一起离开
+and then we'd both leave.
+
+244
+00:18:06,704 --> 00:18:09,278
+最后罗斯先生把门锁上
+Mr. Ross locking the door afterwards.
+
+245
+00:18:09,455 --> 00:18:12,196
+我发现朝鲜蓟非常迷人
+The artichokes I found were positively fascinating.
+
+246
+00:18:12,291 --> 00:18:14,552
+他们也开花
+They have a kind of a bloom on them but...
+
+247
+00:18:14,959 --> 00:18:18,513
+我觉得很有趣...
+I thought that was very interesting...
+
+248
+00:18:19,796 --> 00:18:21,577
+再回
+Good Morning.
+
+249
+00:18:29,543 --> 00:18:32,440
+噢 这份工作很有意思
+Oh, the work was very interesting.
+
+250
+00:18:33,136 --> 00:18:34,660
+算盘
+Abacus,
+
+251
+00:18:35,329 --> 00:18:36,401
+修道院
+abbey,
+
+252
+00:18:37,444 --> 00:18:39,173
+建筑
+architecture,
+
+253
+00:18:40,405 --> 00:18:42,291
+<使徒行传> acts of the Apostles,
+
+254
+00:18:43,500 --> 00:18:44,770
+劣质品
+adulteration,
+
+255
+00:18:46,461 --> 00:18:47,575
+解剖学
+anatomy,
+
+256
+00:18:48,869 --> 00:18:50,212
+大猩猩
+apes,
+
+257
+00:18:52,455 --> 00:18:53,924
+罗马引水道
+aquaducts.
+
+258
+00:18:54,706 --> 00:18:56,466
+八个星期一晃而过 我差不多抄完...
+After eight weeks I'd fairly dealt with
+
+259
+00:18:56,635 --> 00:18:58,458
+以字母A开头的词条了 期望通过不懈努力
+the letter "A" and was hoping the diligence
+
+260
+00:18:58,573 --> 00:19:00,657
+早日抄到B开头的词条 但今天早上
+to get onto "B" when suddenly this morning
+
+261
+00:19:00,856 --> 00:19:02,825
+整件事情突然结束了
+the whole business came to end.
+
+262
+00:19:03,098 --> 00:19:05,213
+我像往常一样去上班 发现门关着 锁了
+I went to my work as usual but the door was shut
+
+263
+00:19:05,422 --> 00:19:07,464
+上面还有一张方形的卡片
+and locked with a little square of cardboard
+
+264
+00:19:07,538 --> 00:19:08,808
+用图钉钉在门板中央
+hammered onto the middle panel.
+
+265
+00:19:08,936 --> 00:19:11,114
+红发会即日起解散
+
+266
+00:19:13,929 --> 00:19:15,304
+打扰一下
+Oh, excuse me.
+
+267
+00:19:16,909 --> 00:19:19,650
+您今天早上有见过邓肯・罗斯先生吗?
+Have you seen Mr. Duncan Ross this morning?
+
+268
+00:19:20,058 --> 00:19:22,100
+罗斯 罗斯?
+Ross, Ross?
+
+269
+00:19:22,872 --> 00:19:24,434
+从未听说过这个人 先生
+Never heard of a gentleman with that name, sir
+
+270
+00:19:24,999 --> 00:19:26,071
+我记性很好的
+and my memory is good.
+
+271
+00:19:26,271 --> 00:19:27,072
+没错 不会错的
+It's very good, it's infallible to me.
+
+272
+00:19:27,312 --> 00:19:28,697
+不 7号办公室的那位先生
+No, the gentleman in number seven.
+
+273
+00:19:29,106 --> 00:19:31,648
+哦 那位红头发的先生?
+Ah, the gentleman who is red headed?
+
+274
+00:19:31,941 --> 00:19:32,972
+是的 没错
+Yes, yes.
+
+275
+00:19:33,014 --> 00:19:34,243
+哦 对 对 对 走了
+Uh, yes, yes, yes, gone.
+
+276
+00:19:34,401 --> 00:19:35,338
+走了?
+Gone?
+
+277
+00:19:35,735 --> 00:19:38,288
+威廉・莫里斯先生 是一名律师
+Mr. William Morris, solicitor using my room as
+
+278
+00:19:38,435 --> 00:19:40,289
+在他的办公室布置好之前暂时租用我的房间
+a temporary convenience until his new premises were ready.
+
+279
+00:19:40,384 --> 00:19:42,958
+昨天就搬走了 房租也付清了 一分都不少
+Moved out yesterday, paid in full, doesn't owe a penny.
+
+280
+00:19:43,158 --> 00:19:45,085
+莫里斯先生 我上哪儿可以找到他?
+Mr. Morris, where can I find him?
+
+281
+00:19:45,409 --> 00:19:46,992
+到他的新办公室
+At his new offices.
+
+282
+00:19:48,724 --> 00:19:50,276
+威廉・莫里斯...
+William Morris...
+
+283
+00:19:52,414 --> 00:19:54,685
+爱德华国王街17号
+17 King Edwards Street,
+
+284
+00:19:56,708 --> 00:19:57,592
+在圣保罗教堂附近
+near St. Paul's.
+
+285
+00:19:57,595 --> 00:19:58,521
+谢谢你
+Oh, thank you.
+
+286
+00:20:32,745 --> 00:20:36,927
+巴基父子护膝制造厂
+
+287
+00:20:50,288 --> 00:20:52,288
+我不觉得这有什么好笑的
+I don't see that there's anything very funny about it.
+
+288
+00:20:53,853 --> 00:20:56,822
+如果你们只会笑话我 我可以另请高明
+If all you can do is laugh at me well I can go elsewhere.
+
+289
+00:20:56,824 --> 00:20:59,429
+不 威尔逊先生 请坐
+No, Mr. Wilson please, please sit down.
+
+290
+00:20:59,690 --> 00:21:02,629
+我绝对不会错过这个案子的
+I wouldn't miss this case for the world.
+
+291
+00:21:04,704 --> 00:21:06,965
+这太不寻常了
+It is most refreshingly unusual.
+
+292
+00:21:10,636 --> 00:21:12,939
+被人这样欺骗 我气到不行
+I was so incensed with the forgery of deceit
+
+293
+00:21:13,086 --> 00:21:14,669
+所以直接就来找你了
+that I came straight to you sir.
+
+294
+00:21:15,921 --> 00:21:17,807
+我听说你很乐意
+Having heard of your great reputation
+
+295
+00:21:18,100 --> 00:21:20,225
+为需要帮助的人出谋划策
+for helping poor people in distress.
+
+296
+00:21:20,590 --> 00:21:21,694
+威尔逊先生
+Mr. Wilson.
+
+297
+00:21:24,573 --> 00:21:27,105
+威尔逊先生 我真的觉得你不该
+You know Mr. Wilson I really don't think that you've got
+
+298
+00:21:27,345 --> 00:21:30,440
+抱怨这个极不寻常的红发会
+any great grievance against this extraordinary league.
+
+299
+00:21:31,212 --> 00:21:33,973
+正好相反 您倒赚不少钱
+On the contrary you've been very well paid to say nothing
+
+300
+00:21:34,132 --> 00:21:37,050
+更不用说您长了见识
+of the detailed knowledge which you've acquired
+
+301
+00:21:37,217 --> 00:21:39,499
+熟知了全部字母A为首的词条
+on every subject under the letter A.
+
+302
+00:21:39,979 --> 00:21:43,856
+是的 但他们为什么要对我开这个大玩笑?
+Yes, but what's the object of them playing this prank on me?
+
+303
+00:21:44,003 --> 00:21:45,795
+这就是我想知道的
+That is what I want to know.
+
+304
+00:21:48,839 --> 00:21:51,350
+你那个伙计 在你那儿干了多久?
+This assistant of yours, how long has he been with you?
+
+305
+00:21:53,822 --> 00:21:54,723
+大约三个月
+Well about three months.
+
+306
+00:21:54,895 --> 00:21:55,472
+他是怎么来的?
+How did he come?
+
+307
+00:21:55,631 --> 00:21:57,605
+看广告应征
+With the answer to an advertisement.
+
+308
+00:21:57,659 --> 00:21:58,491
+他是唯一的应征者?
+Was he the only applicant?
+
+309
+00:21:58,725 --> 00:22:00,910
+不是 还有12个
+No, I had 12 others.
+
+310
+00:22:01,995 --> 00:22:03,422
+那你为什么选他?
+Why did you pick him?
+
+311
+00:22:03,548 --> 00:22:07,279
+因为他勤快 要的工钱也低
+Well he was handy and would come cheap.
+
+312
+00:22:08,750 --> 00:22:10,375
+事实上 只要一半工资
+At half wages in fact.
+
+313
+00:22:11,553 --> 00:22:12,980
+是的
+Yes.
+
+314
+00:22:19,810 --> 00:22:23,155
+这个文森特・斯波尔丁 长什么模样?
+What's he like, this Vincent Spalding?
+
+315
+00:22:25,095 --> 00:22:29,180
+瘦高个子
+Oh, well he's tall, slightly built
+
+316
+00:22:30,327 --> 00:22:32,160
+动作敏捷
+and he's very quick in his ways.
+
+317
+00:22:33,017 --> 00:22:34,944
+未蓄胡须
+He's got no hair on his face.
+
+318
+00:22:37,187 --> 00:22:40,334
+前额上有块被硫酸烧伤的白色伤疤
+He's got a white splash of acid on his forehead.
+
+319
+00:22:45,108 --> 00:22:47,202
+你有没有注意到他耳朵上
+Uh, have you ever observed whether his ears
+
+320
+00:22:48,205 --> 00:22:49,455
+有戴耳环用的穿孔?
+have been pierced for earrings?
+
+321
+00:22:50,425 --> 00:22:53,478
+有 有 他说一个吉普赛人
+Yes, yes, he told me a gypsy
+
+322
+00:22:53,636 --> 00:22:55,542
+在他年少时给他穿的孔
+had done it for him when he was a lad.
+
+323
+00:22:55,782 --> 00:22:56,813
+他还在你那里?
+He is still with you?
+
+324
+00:22:56,888 --> 00:22:58,211
+是的 我刚离开他不久
+Yes, I just left him.
+
+325
+00:22:58,941 --> 00:23:01,775
+威尔逊先生 你会在店里吧?
+Mr. Wilson, You will be at your shop
+
+326
+00:23:02,318 --> 00:23:03,442
+我找你的时候
+if I should need you?
+
+327
+00:23:03,486 --> 00:23:05,789
+我想过晚餐的时候歇业休息
+Well I had thought of shutting up shop
+
+328
+00:23:05,957 --> 00:23:08,155
+因为文森特建议我
+at dinner time today because Vincent had suggested
+
+329
+00:23:08,344 --> 00:23:09,500
+去巴金与我妹妹
+I spend the rest of the weekend
+
+330
+00:23:09,647 --> 00:23:11,220
+共度周末
+with my sister in Barking.
+
+331
+00:23:11,701 --> 00:23:15,578
+整件事令我 精神极度紧张
+This whole business has upset my nerves very much.
+
+332
+00:23:15,901 --> 00:23:18,777
+这个周末你可以 在巴金好好放松一下
+Well you enjoy a restful weekend in Barking.
+
+333
+00:23:18,997 --> 00:23:20,247
+今天是星期六
+Today's Saturday.
+
+334
+00:23:20,915 --> 00:23:22,874
+星期一我们即可做出结论
+By Monday we should have a conclusion for you.
+
+335
+00:23:24,417 --> 00:23:26,136
+关于咨询费的问题...
+In the matter of your fee...
+
+336
+00:23:26,325 --> 00:23:27,616
+别担心
+Don't worry about that.
+
+337
+00:23:28,191 --> 00:23:30,223
+相信有人会替你付的
+I believe it will be paid for by another.
+
+338
+00:23:34,978 --> 00:23:37,103
+祝你今天过得愉快 威尔逊先生
+Good day to you Mr. Wilson.
+
+339
+00:23:44,369 --> 00:23:45,525
+华生 你怎么看?
+What do you make of it all Watson?
+
+340
+00:23:46,371 --> 00:23:47,641
+我什么也没看出来
+I make nothing of it.
+
+341
+00:23:48,560 --> 00:23:50,581
+这事儿太玄乎了
+Most mysterious business.
+
+342
+00:23:50,874 --> 00:23:52,551
+但是还有更大的阴谋
+Yet there are graver issues
+
+343
+00:23:54,710 --> 00:23:56,721
+隐藏在这件事情背后
+hanging from this affair then that first had appeared.
+
+344
+00:24:03,175 --> 00:24:04,477
+接下来你打算怎么办?
+What are you going to do?
+
+345
+00:24:05,686 --> 00:24:06,894
+抽烟
+To smoke.
+
+346
+00:24:08,053 --> 00:24:10,283
+得抽三斗烟的时间才能解决
+It is quite a three pipe problem
+
+347
+00:24:11,378 --> 00:24:13,816
+50分钟内请不要和我搭话
+and I beg that you won't speak to me for 50 minutes.
+
+348
+00:24:38,908 --> 00:24:40,992
+红发会事件
+The business of the Red Headed League
+
+349
+00:24:41,149 --> 00:24:42,357
+已经结束了 先生
+is concluded sir.
+
+350
+00:24:43,379 --> 00:24:45,192
+我相信一定能圆满解决
+Satisfactorily I trust.
+
+351
+00:24:45,537 --> 00:24:49,164
+非常令人满意 很高兴向您汇报
+Most satisfactorily professor I am pleased to report.
+
+352
+00:24:50,885 --> 00:24:52,228
+好
+Good.
+
+353
+00:25:28,026 --> 00:25:29,222
+来 华生
+Come Watson.
+
+354
+00:25:29,224 --> 00:25:30,359
+啊?
+Huh?
+
+355
+00:25:44,632 --> 00:25:46,340
+劳驾
+Excuse me.
+
+356
+00:25:46,820 --> 00:25:48,685
+请问从这儿到河滨大街怎么走?
+Can you tell me the way to the Strand from here?
+
+357
+00:25:49,739 --> 00:25:52,563
+在第三个路口右拐 到第四个路口左拐 先生
+Uh, third right, fourth left sir.
+
+358
+00:25:52,918 --> 00:25:54,480
+谢谢
+Thank you.
+
+359
+00:25:58,276 --> 00:25:59,056
+福尔摩斯?
+Holmes?
+
+360
+00:25:59,121 --> 00:26:01,038
+福尔摩斯 我都可以告诉你
+Holmes, I could have told you that.
+
+361
+00:26:01,175 --> 00:26:02,331
+毫无疑问 华生
+No doubt, Watson.
+
+362
+00:26:03,801 --> 00:26:04,873
+怎么了?
+What is it?
+
+363
+00:26:07,002 --> 00:26:09,784
+你为何用手杖敲人行道?
+And why did you beat the pavement with your stick?
+
+364
+00:26:09,930 --> 00:26:13,088
+华生 我们在敌人的领地侦察
+Watson we are spies in an enemy's territory.
+
+365
+00:26:43,141 --> 00:26:44,005
+这是我的爱好
+It's a hobby of mine
+
+366
+00:26:44,194 --> 00:26:46,007
+熟悉伦敦每一次细微的地方
+to have an exact knowledge of London.
+
+367
+00:26:46,165 --> 00:26:48,707
+这里有一家莫蒂麦烟草店
+Now there's Mortimore's, the tobacconist.
+
+368
+00:26:49,312 --> 00:26:50,927
+一个小售报摊
+The little newspaper shop.
+
+369
+00:26:51,564 --> 00:26:53,272
+城市和郊区银行的科伯格分行
+Coburg Branch, the City and Suburban Bank.
+
+370
+00:26:53,576 --> 00:26:55,931
+麦克法兰马车制造厂
+McFarland's Carriage Building Depot
+
+371
+00:26:56,411 --> 00:26:58,244
+转角处有一家素食店
+and the vegetarian restaurant around the corner.
+
+372
+00:26:59,194 --> 00:27:01,830
+华生 想想刚才的情景 我们有可能
+Watson commit to memory, it's just possible
+
+373
+00:27:01,999 --> 00:27:03,468
+正被人监视着
+that we're being observed.
+
+374
+00:27:19,146 --> 00:27:21,324
+一个大罪案即将发生
+A considerable crime's in contemplation.
+
+375
+00:27:23,138 --> 00:27:25,514
+今天是星期六 在某程度上使事情更为复杂
+Today being Saturday somewhat complicates matters.
+
+376
+00:27:27,829 --> 00:27:31,466
+但是现在 医生... 工作已经完成
+But now doctor... our work is done.
+
+377
+00:27:31,812 --> 00:27:33,333
+是时候消遣了
+It is time we had some play.
+
+378
+00:27:33,583 --> 00:27:36,000
+萨拉萨蒂(西班牙小提琴家)下午在 圣詹姆斯会堂表演
+Sarasate's playing at Sir James Hall this afternoon.
+
+379
+00:27:36,919 --> 00:27:38,565
+先来份三明治和一杯咖啡?
+A sandwich and a cup of coffee?
+
+380
+00:27:38,785 --> 00:27:40,504
+然后去小提琴演奏厅
+And then off to violin land with all
+
+381
+00:27:40,609 --> 00:27:43,151
+感受美妙而优雅的气氛
+its sweetness, delicacy and harmony.
+
+382
+00:27:43,372 --> 00:27:47,895
+没有红头发委托人 出难题困扰我们
+And no red headed clients to vex us with their conundrums.
+
+383
+00:28:12,746 --> 00:28:14,767
+他整个下午都坐在观众席
+All the afternoon he sat in the stalls
+
+384
+00:28:15,530 --> 00:28:18,177
+沉醉在欢乐的意境中
+wrapped in the most perfect happiness
+
+385
+00:28:18,948 --> 00:28:23,982
+他满脸的微笑 迷离的眼神
+while his gently smiling face, and his languid dreamy eyes
+
+386
+00:28:24,400 --> 00:28:27,182
+和做大侦探时的福尔摩斯
+were as unlike those of Holmes the sleuth hound
+
+387
+00:28:27,841 --> 00:28:29,685
+神态迥异 判若两人
+as it was possible to conceive.
+
+388
+00:28:34,523 --> 00:28:37,670
+看着他完全融入音乐当中
+When I saw him so enwrapped in music
+
+389
+00:28:38,828 --> 00:28:42,069
+我觉得一个邪恶的时刻可能即将来临
+I felt that an evil time might be coming upon those
+
+390
+00:28:42,403 --> 00:28:45,196
+而他会追查到底
+he had set himself to hunt down.
+
+391
+00:29:36,441 --> 00:29:37,868
+精彩绝伦 华生
+Excellent Watson.
+
+392
+00:29:37,994 --> 00:29:39,598
+你有做制图师的才华
+You have a future as a cartographer.
+
+393
+00:29:40,246 --> 00:29:41,840
+那是阿瑟尔尼・琼斯侦探
+That will be Athelney Jones.
+
+394
+00:29:41,997 --> 00:29:43,351
+我认为有苏格兰场的人
+I thought it was well enough to have someone
+
+395
+00:29:43,414 --> 00:29:44,684
+与我们同往比较好
+from Scotland Yard with us.
+
+396
+00:29:44,770 --> 00:29:46,927
+他在侦探这个行业 算是个低能儿
+He's an absolute imbecile at his profession
+
+397
+00:29:47,063 --> 00:29:49,897
+但抓人的时候顽强得像只大龙虾
+but he does the tenacity of a lobster when he gets
+
+398
+00:29:50,002 --> 00:29:51,512
+一遇到罪犯就紧抓不放
+his claws into someone.
+
+399
+00:29:52,817 --> 00:29:53,983
+晚上好 琼斯
+Good evening Jones.
+
+400
+00:29:54,214 --> 00:29:55,862
+我们又成为搭档了 福尔摩斯先生
+So we're working in couples again,Mr. Holmes.
+
+401
+00:29:56,591 --> 00:29:58,967
+我们这位朋友是个追猎高手
+Our friend is a wonderful man for starting a chase.
+
+402
+00:29:59,208 --> 00:30:01,667
+他所需的仅是一条 帮他捕获猎物的老狗
+All he needs is an old dog to help him do the running down.
+
+403
+00:30:01,771 --> 00:30:04,136
+梅里韦瑟先生 我的朋友和同事华生医生
+Mr. Merryweather, my friend and college Dr. Watson.
+
+404
+00:30:04,545 --> 00:30:05,701
+你好 先生
+How do you do sir?
+
+405
+00:30:06,316 --> 00:30:08,202
+我只希望我们的追捕
+I only hope a wild goose may not prove
+
+406
+00:30:08,359 --> 00:30:09,452
+不要徒劳无功
+to be the end of our chase.
+
+407
+00:30:10,111 --> 00:30:11,371
+就我个人而言 并不看好
+I'm not personally in favor
+
+408
+00:30:11,632 --> 00:30:13,174
+业余犯罪调查
+of amateur criminal investigation.
+
+409
+00:30:13,467 --> 00:30:15,519
+你应该对福尔摩斯先生充满信心
+You might place considerable confidence in Mr. Holmes.
+
+410
+00:30:16,313 --> 00:30:17,959
+既然您这么说 琼斯先生
+Oh, if you say so Mr. Jones.
+
+411
+00:30:18,335 --> 00:30:20,575
+他自有一套办法 要是他不介意...
+He has his own little methods, which if he won't
+
+412
+00:30:20,723 --> 00:30:22,192
+我这么说 有点过于理论化
+mind me saying so a little theoretical
+
+413
+00:30:22,640 --> 00:30:24,546
+和妙想天开 但他倒是具有...
+and fantastic, but he has the makings
+
+414
+00:30:24,756 --> 00:30:25,766
+...侦探的素质
+of a detective in him.
+
+415
+00:30:26,456 --> 00:30:29,019
+但我还是要说 正如我说过的
+But I do say as I've said before
+
+416
+00:30:29,416 --> 00:30:31,010
+科伯格分行非常安全
+the Colburg Branch of the Bank is as well secured
+
+417
+00:30:31,199 --> 00:30:32,271
+如伦敦任一座楼房一样
+as any building in London.
+
+418
+00:30:32,929 --> 00:30:34,658
+它是不可能被破门而入的
+There isn't a possibility that it could be broken into.
+
+419
+00:30:34,847 --> 00:30:37,515
+连保险公司顾问都这样说
+Even insurance assessors agree on that point.
+
+420
+00:30:37,849 --> 00:30:39,046
+而先生 你应该知道
+And you sir should know
+
+421
+00:30:39,142 --> 00:30:41,194
+作为银行经理和董事
+being not only the resident manager but also the director.
+
+422
+00:30:42,227 --> 00:30:43,769
+我应该知道 并且确实知道
+I should know and I do know.
+
+423
+00:30:44,093 --> 00:30:45,499
+还有 这可是我27年来
+And what is more, this is the first time
+
+424
+00:30:45,656 --> 00:30:47,312
+头一次错过
+for seven and twenty years that I've missed my
+
+425
+00:30:47,491 --> 00:30:49,012
+俱乐部的周六威士忌之夜
+Saturday night of whiskey at my club.
+
+426
+00:30:49,243 --> 00:30:51,608
+对我造成很大的不便啊
+And I find myself extremely inconvenienced.
+
+427
+00:30:52,359 --> 00:30:54,672
+我想你会发现 今晚的行动
+I think that you will find the game tonight
+
+428
+00:30:55,216 --> 00:30:58,989
+更加刺激 赌注将会是
+much more exciting and the stake will be
+
+429
+00:30:59,156 --> 00:31:01,657
+好几千英镑
+for many, many thousands of pounds.
+
+430
+00:31:02,658 --> 00:31:04,763
+我的奖赏是什么呢? 福尔摩斯先生
+And what will be my reward be Mr. Homes?
+
+431
+00:31:06,005 --> 00:31:08,600
+一位年轻人 名叫克莱
+A young man, called Clay.
+
+432
+00:31:09,152 --> 00:31:10,662
+约翰・克莱？
+John Clay?
+
+433
+00:31:10,945 --> 00:31:13,081
+噢 我真想抓住那个恶魔
+Oh, how I'd like to get my hands on that devil.
+
+434
+00:31:13,666 --> 00:31:14,738
+你会的
+You shall.
+
+435
+00:31:14,792 --> 00:31:16,636
+福尔摩斯先生所说这个年轻人是个绅士
+This young fellow's a gentleman as Mr. Holmes says
+
+436
+00:31:16,866 --> 00:31:18,293
+但背叛了自己的阶层
+but he's turned against his class.
+
+437
+00:31:18,961 --> 00:31:20,211
+如恶魔般狡诈
+He's as cunning as the devil.
+
+438
+00:31:20,514 --> 00:31:22,639
+如鳝鱼般圆滑 把杀人和诈骗
+Slippery as an eel and he's turned crib cracking
+
+439
+00:31:22,756 --> 00:31:23,974
+当作一门艺术
+and forgery into a fine art.
+
+440
+00:31:24,580 --> 00:31:26,716
+其祖父是王室公爵
+His grandfather was a royal duke
+
+441
+00:31:27,665 --> 00:31:31,176
+他本人曾在伊顿公学 和牛津大学念过书
+and he himself was educated at Eaton and Oxford.
+
+442
+00:31:31,178 --> 00:31:34,398
+所以 华生 带上枪
+So Watson, bring the gun.
+
+443
+00:31:34,973 --> 00:31:37,484
+走吧 先生们 马车就在楼下
+Come gentlemen our cab is below.
+
+444
+00:33:20,704 --> 00:33:22,308
+保险库的钥匙只有两把
+There are only two keys to the vault.
+
+445
+00:33:25,290 --> 00:33:28,000
+我有一把 行长有一把
+I have one, the chairman holds the other
+
+446
+00:33:28,154 --> 00:33:29,386
+放在他的私人保险柜里
+in his personal safe.
+
+447
+00:33:38,633 --> 00:33:40,519
+从上面攻进来相当困难
+Well you are certainly not vulnerable from above.
+
+448
+00:33:40,936 --> 00:33:42,696
+从下面来也是
+Nor from below.
+
+449
+00:33:42,855 --> 00:33:43,688
+稍等一下
+Just a minute.
+
+450
+00:33:43,866 --> 00:33:46,461
+请您小声一点
+I'm going to ask you to be a little more quiet please.
+
+451
+00:34:09,874 --> 00:34:11,363
+请您找个箱子坐下
+Might I get you to sit on one of those boxes
+
+452
+00:34:11,604 --> 00:34:13,041
+别乱动
+and not to interfere?
+
+453
+00:34:33,588 --> 00:34:35,713
+根本不可能有小偷
+There is no way in which a thief
+
+454
+00:34:35,945 --> 00:34:37,299
+能够强行闯入银行
+could break into this bank.
+
+455
+00:34:50,851 --> 00:34:53,769
+有什么特殊原因使得小偷
+Is there a special reason why a thief
+
+456
+00:34:53,936 --> 00:34:55,425
+想要强行闯入这个银行吗?
+should want to break into this bank?
+
+457
+00:34:57,887 --> 00:34:59,543
+没什么特别的...
+Nothing particularly...
+
+458
+00:35:00,534 --> 00:35:02,013
+过去几个月进来的东西呢?
+Something in the past few months?
+
+459
+00:35:03,266 --> 00:35:05,516
+你想对我们隐藏的事?
+Something that you had concealed from us?
+
+460
+00:35:07,164 --> 00:35:08,820
+这是机密信息
+The information I have is confidential
+
+461
+00:35:09,030 --> 00:35:10,665
+只有银行董事才知道
+known only to the directors of the bank.
+
+462
+00:35:10,864 --> 00:35:13,073
+不能把它泄露给公众
+It is not to be divulged to members of the public,
+
+463
+00:35:14,461 --> 00:35:16,711
+业余侦探也不行
+not even amateur detectives.
+
+464
+00:35:17,870 --> 00:35:21,611
+是私人顾问侦探 梅里韦瑟先生
+Private consulting detective, Mr. Merryweather.
+
+465
+00:35:22,268 --> 00:35:24,310
+在打击犯罪上独一无二
+Unique in the annuls of crime I believe,
+
+466
+00:35:24,416 --> 00:35:25,812
+难道不是吗 警官?
+isn't that so inspector?
+
+467
+00:35:25,959 --> 00:35:27,000
+是的 医生
+Yes, doctor.
+
+468
+00:35:27,189 --> 00:35:28,929
+我建议你与福尔摩斯先生合作
+I advise you to cooperate with Mr. Holmes.
+
+469
+00:35:31,598 --> 00:35:34,703
+尤其在这个时候 我正想法设法帮你
+Especially as at this moment I am trying to save your skin
+
+470
+00:35:35,580 --> 00:35:37,080
+和其他董事度过危机
+and that of your fellow directors.
+
+471
+00:35:38,416 --> 00:35:40,291
+那么到底是什么?
+So what is it?
+
+472
+00:35:42,241 --> 00:35:43,522
+我们的法国黄金
+Our French gold.
+
+473
+00:35:44,597 --> 00:35:46,941
+几个月前我们恰好有机会增加资金来源
+We had occasion some months ago to strengthen our resources
+
+474
+00:35:47,172 --> 00:35:50,111
+从法兰西银行
+and borrowed for that purpose 60,000 Napoleons
+
+475
+00:35:50,206 --> 00:35:51,216
+借了6万拿破仑金币(一块拿破仑金币值20法郎)
+from the bank of France.
+
+476
+00:35:51,372 --> 00:35:55,822
+所以我们的黄金储备就比
+Therefore our reserve of bullion is much larger than is usual
+
+477
+00:35:55,980 --> 00:35:58,387
+其他分行多很多
+in such a branch of the bank.
+
+478
+00:36:00,598 --> 00:36:02,421
+这些金币在哪?
+Where is this gold?
+
+479
+00:36:04,715 --> 00:36:07,956
+华生医生坐的那些大箱子里
+The crates upon which Dr. Watson sits
+
+480
+00:36:08,937 --> 00:36:11,187
+装着3万拿破仑金币
+contain 30,000 Napoleons
+
+481
+00:36:11,762 --> 00:36:13,522
+用铅箔一层一层包着
+wrapped between layers of lead foil.
+
+482
+00:36:18,152 --> 00:36:20,111
+我们可以看看吗?
+May we see it?
+
+483
+00:38:22,303 --> 00:38:26,628
+这比我当初所想
+This is much bolder and larger in conception
+
+484
+00:38:26,733 --> 00:38:29,599
+更大胆 更大规模 难道不是吗 琼斯?
+than I had first thought, wouldn't you say Jones?
+
+485
+00:38:29,922 --> 00:38:31,161
+确实是的
+I would indeed.
+
+486
+00:38:31,225 --> 00:38:33,038
+这位克莱更像个业余探险家
+This Clay's more of an amateur adventurer
+
+487
+00:38:33,248 --> 00:38:34,602
+或是冲动型罪犯
+or spur of the moment criminal,
+
+488
+00:38:34,748 --> 00:38:37,666
+长期计划不是克莱的风格 一点都不是
+Long planning is not Clay's type at all sir, not at all.
+
+489
+00:38:37,876 --> 00:38:42,733
+除非他是别人手中的棋子
+Unless he's a pawn in a much larger game.
+
+490
+00:38:45,350 --> 00:38:47,100
+梅里韦瑟先生 有人探知...
+Mr. Merryweather someone has had access to
+
+491
+00:38:47,226 --> 00:38:49,602
+你最机密的信息
+information of the most confidential sort.
+
+492
+00:38:51,167 --> 00:38:52,969
+制定了周密详尽的计划
+Careful plans have been made.
+
+493
+00:38:56,024 --> 00:38:58,483
+这是经人精心筹划的
+A mastermind has been at work.
+
+494
+00:39:01,393 --> 00:39:02,935
+你是说...
+Are you suggesting that...
+
+495
+00:39:04,436 --> 00:39:06,593
+我是说这非常像
+I am suggesting that it bears the hallmarks
+
+496
+00:39:06,719 --> 00:39:08,396
+莫里亚蒂教授的手段
+of Professor Moriarity's work.
+
+497
+00:39:11,775 --> 00:39:13,348
+莫里亚蒂?
+Moriarity?
+
+498
+00:39:16,267 --> 00:39:17,923
+莫里亚蒂是谁?
+And who is this Moriarity?
+
+499
+00:39:18,238 --> 00:39:19,759
+我们并不清楚 先生
+We don't really know sir.
+
+500
+00:39:19,853 --> 00:39:21,561
+我和警方都不曾想到
+That is neither the police nor I think
+
+501
+00:39:21,698 --> 00:39:23,594
+夏洛克・福尔摩斯先生已经在盯着他
+Mr. Sherlock Holmes here has ever set eyes on him.
+
+502
+00:39:24,169 --> 00:39:26,659
+他的名字在黑社会人所皆知
+His name echoes and re-echoes throughout the underworld.
+
+503
+00:39:27,119 --> 00:39:29,463
+显然他出身高贵
+It appears that he's a man of good birth,
+
+504
+00:39:30,142 --> 00:39:37,782
+受过极好的教育 但是他继承了...
+an excellent education but he has hereditary
+
+505
+00:39:38,429 --> 00:39:40,971
+恶魔般的特质
+tendencies of the most diabolical kind.
+
+506
+00:39:42,807 --> 00:39:45,068
+血液里充斥着犯罪的因子
+A criminal strain runs in his blood
+
+507
+00:39:46,247 --> 00:39:49,290
+日趋严重 变得相当危险
+which has increased and rendered infinitely more dangerous
+
+508
+00:39:49,562 --> 00:39:51,468
+因为他的智力 非比寻常
+by his extraordinary mental powers.
+
+509
+00:39:52,731 --> 00:39:57,890
+他组织了这座城市中
+He's the organizer of half that is evil and nearly all that
+
+510
+00:39:58,068 --> 00:40:00,923
+半数罪案和几乎所有未被识破的案件
+is undetected in this great city.
+
+511
+00:40:03,301 --> 00:40:05,593
+却一直逍遥法外
+He is never caught.
+
+512
+00:40:06,344 --> 00:40:09,137
+他有手下被抓 但作为中坚力量的他...
+His agent is caught but the central power
+
+513
+00:40:10,275 --> 00:40:14,267
+一直逍遥法外 甚至没有被怀疑过
+is never caught certainly even suspected.
+
+514
+00:40:18,332 --> 00:40:20,009
+教授今晚是不会出现了
+We shall not see the professor tonight.
+
+515
+00:40:28,043 --> 00:40:30,371
+今晚的敌人的唯一退路是...
+The only way for tonight's enemy to escape is through
+
+516
+00:40:30,476 --> 00:40:31,799
+经由当铺逃窜
+the pawn brokers.
+
+517
+00:40:31,873 --> 00:40:33,592
+已经有一个警官守在门口了
+There's already an inspector at the doors.
+
+518
+00:40:37,471 --> 00:40:39,158
+没错
+Exactly.
+
+519
+00:40:40,066 --> 00:40:43,547
+时间差不多到了... 各就各位...
+We have only a few moments... positions...
+
+520
+00:40:49,281 --> 00:40:52,491
+能麻烦你把灯关掉吗?
+Would you be so kind as to put out this lamp.
+
+521
+00:40:52,940 --> 00:40:54,367
+然后坐在黑暗中?
+And sit in the dark?
+
+522
+00:40:55,900 --> 00:40:57,348
+恐怕是的
+I'm afraid so.
+
+523
+00:40:57,453 --> 00:40:58,817
+我们不能冒险发出亮光
+We cannot risk the presence of light.
+
+524
+00:41:09,024 --> 00:41:12,004
+一旦我亮出灯光 动作迅速...
+When I shine the light, act swiftly...
+
+525
+00:41:12,839 --> 00:41:14,266
+要是他们肆无忌惮的开枪
+If they fire have no compassion
+
+526
+00:41:14,497 --> 00:41:15,715
+马上击毙他们
+about shooting them down.
+
+527
+00:43:23,254 --> 00:43:24,409
+噢 天哪!
+Great god.
+
+528
+00:43:24,411 --> 00:43:25,296
+快逃 快
+Jump at it, jump.
+
+529
+00:43:39,245 --> 00:43:41,058
+没用的 约翰・克莱
+It's no good jump John Clay.
+
+530
+00:43:42,111 --> 00:43:43,392
+你逃不掉了
+You have no chance at all.
+
+531
+00:43:51,858 --> 00:43:53,702
+明白了...
+So I see...
+
+532
+00:43:55,110 --> 00:43:57,454
+但我的同伴会没事
+though I fancy my pal's all right.
+
+533
+00:43:58,310 --> 00:43:59,883
+现在他正跑向...
+At this moment he is running into
+
+534
+00:44:00,041 --> 00:44:01,499
+警察的环抱中
+the welcoming arms of the police.
+
+535
+00:44:03,731 --> 00:44:05,794
+你做得还真是天衣无缝
+You seem to have done the thing very completely.
+
+536
+00:44:05,983 --> 00:44:07,222
+我该称赞你才对
+I must compliment you.
+
+537
+00:44:07,317 --> 00:44:08,608
+你也一样
+And I you.
+
+538
+00:44:08,765 --> 00:44:11,161
+我是夏洛克・福尔摩斯 私人侦探
+I'm Sherlock Holmes, a private investigator.
+
+539
+00:44:12,508 --> 00:44:14,216
+我从没怀疑过你是...
+I didn't for a moment suspect your being
+
+540
+00:44:14,540 --> 00:44:16,311
+警察 福尔摩斯先生
+a policeman Mr. Holmes.
+
+541
+00:44:17,126 --> 00:44:19,304
+得了吧 回去再聊
+Come on, hold that one off for the Darby's.
+
+542
+00:44:19,366 --> 00:44:20,970
+别用你那脏手碰我
+I beg you to take your filthy hands off me.
+
+543
+00:44:22,223 --> 00:44:24,411
+你们不知道我的血管里流着皇家血统吗
+You may not be aware that I have royal blood
+
+544
+00:44:24,517 --> 00:44:28,248
+请你们跟我说话的时候
+in my veins and be so kind as to say "sir" and "please"
+
+545
+00:44:28,384 --> 00:44:29,675
+都要用"先生"和"请"
+when you address me.
+
+546
+00:44:29,791 --> 00:44:30,801
+那好
+All right.
+
+547
+00:44:30,854 --> 00:44:32,927
+请先生上台阶吧
+Would you please sir, mind marching upstairs
+
+548
+00:44:32,991 --> 00:44:35,252
+我们会用马车将阁下
+while we get a cab to transport your highness
+
+549
+00:44:35,441 --> 00:44:36,701
+送到警署
+to the police station?
+
+550
+00:44:37,744 --> 00:44:39,098
+这还差不多
+That's better.
+
+551
+00:44:46,063 --> 00:44:47,563
+先生们
+Gentlemen.
+
+552
+00:44:51,859 --> 00:44:55,037
+噢 有个问题 克莱先生
+Oh, one question Mr. Clay.
+
+553
+00:44:56,143 --> 00:44:58,519
+莫里亚蒂教授是否...
+Am I right in thinking that professor Moriarity
+
+554
+00:44:58,593 --> 00:45:00,989
+策划了红发会事件?
+was somewhere behind the idea of the Red Headed League?
+
+555
+00:45:05,503 --> 00:45:07,774
+我建议你再也不要提起 这个名字 福尔摩斯先生
+I suggest you keep that name off your lips Mr. Holmes
+
+556
+00:45:08,996 --> 00:45:10,621
+要是你还想将来活得好好的话
+if you value your future well-being.
+
+557
+00:45:16,417 --> 00:45:18,720
+真的 先生们 我都不知道说什么好了
+Really gentlemen, I don't know what to say.
+
+558
+00:45:18,815 --> 00:45:20,221
+请原谅我 福尔摩斯先生 我竟怀疑过
+Please forgive me Mr. Holmes for ever doubting
+
+559
+00:45:20,379 --> 00:45:23,026
+你的神机妙算 经天纬地之才
+your outstanding, your brilliant qualities.
+
+560
+00:45:23,131 --> 00:45:24,777
+毫无疑问 你用最完美的方式
+There is no doubt you've detected and defeated
+
+561
+00:45:24,830 --> 00:45:27,425
+侦查并破获了这起严谨周密的案件
+in the most complete manner one of the boldest attempts
+
+562
+00:45:27,550 --> 00:45:30,280
+银行盗窃案 真是闻所未闻
+at bank robbery that has ever come within my experience.
+
+563
+00:45:30,450 --> 00:45:32,877
+梅里韦瑟先生 这件事情上我有点破费
+Mr. Merryweather I have then some small expense over this matter
+
+564
+00:45:33,023 --> 00:45:35,826
+希望银行能给予补偿
+I shall expect the bank to refund.
+
+565
+00:45:37,808 --> 00:45:39,714
+当然 当然
+Of course, of course.
+
+566
+00:46:36,432 --> 00:46:38,891
+你不会是早知道...
+It won't do you know...
+
+567
+00:46:40,238 --> 00:46:42,374
+这样行不通吧
+it won't do.
+
+568
+00:46:42,864 --> 00:46:44,395
+不 教授
+No Professor.
+
+569
+00:46:45,700 --> 00:46:46,804
+抱歉 我们令您失望了
+I'm sorry we failed you.
+
+570
+00:46:50,109 --> 00:46:51,286
+夏洛克・福尔摩斯...
+Sherlock Holmes...
+
+571
+00:46:51,464 --> 00:46:55,258
+福尔摩斯在侦探这行只是个外行
+Holmes is a mere amateur in the field of detection.
+
+572
+00:46:57,968 --> 00:47:04,117
+但他看起来是个聪明人 或是运气不错
+Still he seems a clever man or a lucky one
+
+573
+00:47:06,339 --> 00:47:10,101
+还有碍我事的本领
+and he has a positive talent for getting in my way.
+
+574
+00:47:12,114 --> 00:47:13,301
+要除掉他吗?
+Should he be removed?
+
+575
+00:47:14,615 --> 00:47:16,407
+可能有这个必要
+It may be necessary.
+
+576
+00:47:17,785 --> 00:47:19,493
+但会令人失望
+It would be disappointing.
+
+577
+00:47:20,891 --> 00:47:22,870
+我觉得他很有意思
+I find him interesting.
+
+578
+00:47:23,914 --> 00:47:26,363
+我相信这是他第三次
+I believe this is the third time
+
+579
+00:47:26,582 --> 00:47:28,061
+给我添麻烦了
+he has incommoded me.
+
+580
+00:47:30,044 --> 00:47:31,784
+如果再继续下去 那么当然要...
+If this continues then certainly something
+
+581
+00:47:31,919 --> 00:47:33,919
+做点什么来刺激一下福尔摩斯先生
+will have to be done to encourage Mr. Holmes
+
+582
+00:47:34,359 --> 00:47:39,351
+让他要么离开 要么靠边站
+either to withdraw or stand clear.
+
+583
+00:47:51,778 --> 00:47:54,174
+谢谢
+Thank you.
+
+584
+00:48:14,287 --> 00:48:16,110
+早上好 治安官
+Morning Constable.
+
+585
+00:48:21,048 --> 00:48:22,965
+请原谅 华生医生
+Beg your pardon Dr. Watson
+
+586
+00:48:23,946 --> 00:48:25,477
+但这一切太让人难以承受了
+but this has all been too much for me.
+
+587
+00:48:25,739 --> 00:48:28,813
+顾客都敬重我 因我值得信赖
+My clients respect me as a man of confidence
+
+588
+00:48:28,991 --> 00:48:30,887
+但我现在还有什么自信!
+but where's the confidence left here.
+
+589
+00:48:31,128 --> 00:48:32,148
+我全毁了...
+I'm utterly ruined...
+
+590
+00:48:32,567 --> 00:48:34,463
+噢 开心点 威尔逊先生
+Oh, cheer up Mr. Wilson.
+
+591
+00:48:34,651 --> 00:48:36,474
+等清理完残局后 会感觉好点的
+You'll feel better when you've cleared up the mess.
+
+592
+00:48:36,757 --> 00:48:38,027
+你说的是很对...
+Well that's all very well...
+
+593
+00:48:38,206 --> 00:48:40,269
+福尔摩斯先生 让我把这个给您
+And Mr. Holmes asked me to give you this,
+
+594
+00:48:41,792 --> 00:48:44,918
+50块金币 (价值75英镑)
+50 sovereigns with the compliments
+
+595
+00:48:45,294 --> 00:48:46,669
+城市和郊区银行敬赠
+of the City and Suburban Bank.
+
+596
+00:48:46,764 --> 00:48:48,618
+嗯 太好了
+Well that's fair enough.
+
+597
+00:48:48,766 --> 00:48:52,111
+噢 华生医生 这比我的期望好太多了
+Oh, Dr. Watson, this is more than acceptable,
+
+598
+00:48:52,299 --> 00:48:55,373
+请代我问候夏洛克・福尔摩斯先生
+and my compliments to Mr. Sherlock Holmes.
+
+599
+00:48:55,875 --> 00:48:57,927
+他也向你致意 威尔逊先生
+And he sends the same to you Mr. Wilson
+
+600
+00:48:58,074 --> 00:48:59,282
+一点忠告...
+and a word of advice...
+
+601
+00:48:59,867 --> 00:49:01,450
+下次你雇用伙计时
+Next time you engage an assistant
+
+602
+00:49:01,619 --> 00:49:03,661
+付他适当的薪水
+pay him the proper wage.
+
+603
+00:49:04,516 --> 00:49:05,766
+再见
+Good day to you.
+
+604
+00:49:24,135 --> 00:49:29,221
+噢 福尔摩斯 我确信自己
+Oh, Holmes, I trust I am not more dense
+
+605
+00:49:29,295 --> 00:49:31,420
+并不比别人笨拙 可我看到...
+than my neighbors and yet here I have seen
+
+606
+00:49:31,514 --> 00:49:33,577
+你所看到的 听到你所听到的
+what you have seen, heard what you have heard
+
+607
+00:49:33,652 --> 00:49:35,777
+然而你不仅对已经发生的事情了如指掌
+and yet you have seen clearly not only what had happened,
+
+608
+00:49:36,174 --> 00:49:38,894
+而且还知道将要发生什么 可我仍然觉得自己
+but what was about to happen while to me the whole business
+
+609
+00:49:39,072 --> 00:49:41,229
+一头雾水 不知道发生什么事
+was still confused and grotesque.
+
+610
+00:49:41,324 --> 00:49:42,730
+华生医生 回想一下
+Dr. Watson recollect,
+
+611
+00:49:43,648 --> 00:49:47,316
+当我听到那个伙计只要求一半薪水时
+when I heard that the assistant had come for half wages,
+
+612
+00:49:48,704 --> 00:49:50,631
+很明显他带着某种目的
+it was obvious that he had some motive
+
+613
+00:49:51,008 --> 00:49:52,299
+为确保事情在他掌控之中
+for securing the situation.
+
+614
+00:49:52,842 --> 00:49:54,884
+可你如何猜透他的动机?
+Yes, but how did you know what his motive was?
+
+615
+00:49:55,344 --> 00:49:56,802
+倘若那个当铺有女人
+Had there been a woman in the house I would have
+
+616
+00:49:56,929 --> 00:49:59,169
+我会怀疑不过是些庸俗的风流事
+suspected immediately if some vulgar intrigue,
+
+617
+00:49:59,294 --> 00:50:01,440
+但当我听到威尔逊先生说起
+but when I heard from Mr. Wilson
+
+618
+00:50:01,963 --> 00:50:04,057
+硫酸烧伤的疤和打过耳洞的耳朵
+about the acid stain and the pierced ears
+
+619
+00:50:04,569 --> 00:50:07,445
+我就知道文森特・斯波尔丁和约翰・克莱
+I knew that Vincent Spalding and John Clay
+
+620
+00:50:07,551 --> 00:50:08,540
+是同一个人
+were the same person.
+
+621
+00:50:08,604 --> 00:50:10,031
+克莱为什么在那里呢？
+But why was Clay there?
+
+622
+00:50:11,793 --> 00:50:13,335
+照相就是线索所在
+The photography gave you the clue.
+
+623
+00:50:13,638 --> 00:50:14,877
+是的
+Exactly.
+
+624
+00:50:14,962 --> 00:50:17,619
+地下室 他在地下室做着某种勾当
+The cellar, he was working on something in the cellar.
+
+625
+00:50:18,058 --> 00:50:20,423
+每天都干好几个小时
+Something which took many hours a day
+
+626
+00:50:20,977 --> 00:50:24,760
+整整两个月 肯定是在挖地道 但通向哪里呢？
+for two months on end. He was tunneling but where to?
+
+627
+00:50:26,751 --> 00:50:28,970
+那天我用手杖敲打人行道时
+When I tapped my stick on the pavement
+
+628
+00:50:29,253 --> 00:50:31,545
+不过想弄清楚
+in the street that day I was ascertaining
+
+629
+00:50:31,641 --> 00:50:35,017
+结果那条地道是从前面通向房子后面
+whether the tunnel stretched in front or behind the building.
+
+630
+00:50:35,351 --> 00:50:38,529
+它在前边 是朝后延伸的
+It was in front, towards the back.
+
+631
+00:50:39,291 --> 00:50:41,145
+从这儿到河滨大街怎么走?
+Could you tell me the way to the strand from here?
+
+632
+00:50:43,076 --> 00:50:45,274
+我立即便认出是克莱 并拖延了他的时间
+I recognized Clay immediately and delayed him
+
+633
+00:50:45,598 --> 00:50:48,370
+仔细观察了他的膝盖
+to have time to examine his knees.
+
+634
+00:50:49,715 --> 00:50:52,257
+显然他花了很多时间挖隧道
+There he spoke clearly of many hours or tunneling.
+
+635
+00:50:52,572 --> 00:50:55,041
+毫无疑问连通了错综复杂的下水道
+No doubt linking up with a maze of sewers
+
+636
+00:50:55,136 --> 00:50:56,459
+就在萨克斯科伯格广场下面
+beneath Saxe Coburg Square.
+
+637
+00:50:57,106 --> 00:50:58,981
+他们关闭红发会办公室时
+When they closed the Red Headed League offices,
+
+638
+00:50:59,118 --> 00:51:00,868
+就标志着他们不再在意
+it was a sign they no longer cared about
+
+639
+00:51:00,911 --> 00:51:02,661
+杰贝斯・威尔逊是否在当铺里
+Jay Beards Wilson's presence.
+
+640
+00:51:02,746 --> 00:51:04,965
+换句话说 地道已经挖通了
+In other words the tunnel was complete.
+
+641
+00:51:05,029 --> 00:51:07,467
+他们会在星期六采取行动
+And that they would make the attempt on a Saturday
+
+642
+00:51:07,540 --> 00:51:08,800
+只是猜测？
+was just a guess?
+
+643
+00:51:09,991 --> 00:51:12,732
+华生 你令我失望了
+Watson, you disappoint me.
+
+644
+00:51:13,941 --> 00:51:15,451
+我从不猜测
+I never guess.
+
+645
+00:51:16,600 --> 00:51:19,445
+星期六晚上偷盗金块 是再好不过的
+Saturday's an excellent night for stealing bullion.
+
+646
+00:51:19,904 --> 00:51:21,487
+这样便有一整天时间逃跑
+It gives you a full day to escape.
+
+647
+00:51:22,103 --> 00:51:23,540
+请拿好 慢走
+Thank you then.
+
+648
+00:51:25,720 --> 00:51:27,314
+有劳
+Thank you.
+
+649
+00:51:27,858 --> 00:51:30,140
+你的讲解真是精彩绝伦 福尔摩斯
+Oh, you've reasoned it out beautifully Holmes.
+
+650
+00:51:30,181 --> 00:51:33,370
+就像一根长长的链条 每一个环节都天衣无缝
+It's so long a chain and yet every link rings true.
+
+651
+00:51:33,455 --> 00:51:34,861
+这样我才不会无聊
+It saved me from irony.
+
+652
+00:51:35,101 --> 00:51:38,332
+有时我觉得我这一生
+You know sometimes I think my whole life is spent
+
+653
+00:51:38,438 --> 00:51:41,512
+都在苦苦挣扎以摆脱
+in one long effort to escape from
+
+654
+00:51:41,585 --> 00:51:43,116
+庸碌平凡
+the common places of existence.
+
+655
+00:51:43,222 --> 00:51:44,044
+不 不
+No, no.
+
+656
+00:51:44,129 --> 00:51:47,099
+您是个福泽人间的精英 福尔摩斯
+You are a benefactor of the race Holmes.
+
+657
+00:51:48,935 --> 00:51:50,821
+哦 也许小有用处吧
+Well maybe it is of some little use after all.
+
+658
+00:51:53,542 --> 00:51:57,025
+人是渺小的 著作就是一切
+"L'homme c'est rien...l'oeuvre c'est tout"
+
+659
+00:51:57,180 --> 00:51:59,988
+正如居斯塔夫・福楼拜写信给乔治・桑时所言
+as Gusta Flabare wrote to George Sand.
+
+660
+00:52:00,947 --> 00:52:02,703
+<font color="#4096d1">破烂熊字幕组 
+-==http://www.ragbear.com==- 
+欢迎加入</font>
+

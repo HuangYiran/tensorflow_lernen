@@ -1,0 +1,1271 @@
+﻿[Script Info]
+; // 此字幕由TimeM生成
+; // 欢迎访问人人影视 http://www.YYeTs.net
+Title:YYeTs
+Original Script:YYeTs
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,18,&H00FFFFFF,&HF0000000,&H006C3300,&H00000000,-1,0,0,0,100,100,0,0.00,1,2,1,2,5,5,1,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:35.14,0:00:39.02,*Default,NTP,0000,0000,0000,,根据真实事件改编
+Dialogue: 0,0:00:39.02,0:00:46.14,*Default,NTP,0000,0000,0000,,{\fs30}片名：《黑皮书》\N{\fs20}<Black Book>
+Dialogue: 0,0:00:50.44,0:00:54.82,*Default,NTP,0000,0000,0000,,1956年10月 以色列\N{\fs10\i1}Israel, October 1956
+Dialogue: 0,0:01:24.90,0:01:29.07,*Default,NTP,0000,0000,0000,,好，各位 我们将在这个集体农庄稍做逗留\N{\fs10\i1}We will now make a short stop in what is called a kibbutz
+Dialogue: 0,0:01:29.65,0:01:33.70,*Default,NTP,0000,0000,0000,,请在15分钟后回车上集合 尽情参观吧\N{\fs10\i1}Be back in the bus in 15 minutes. Enjoy your visit.
+Dialogue: 0,0:01:41.83,0:01:44.21,*Default,NTP,0000,0000,0000,,- 我去照张像 - 好\N{\fs10\i1}(Ronnie) I'll make a photograph.
+Dialogue: 0,0:02:19.20,0:02:22.33,*Default,NTP,0000,0000,0000,,您打扰我们上课了 您可以观看，但请不要拍照\N{\fs10\i1}You are disturbing the lesson. You may watch, but not make pictures.
+Dialogue: 0,0:02:22.54,0:02:26.83,*Default,NTP,0000,0000,0000,,我可以讲希伯来语 但您会说荷兰语？\N{\fs10\i1}I speak hebrew. But you speak dutch?
+Dialogue: 0,0:02:27.63,0:02:30.71,*Default,NTP,0000,0000,0000,,你不是来自海牙的 艾莉丝·弗里斯吗？\N{\fs10\i1}Aren't you Ellis de Vries from The Hague?
+Dialogue: 0,0:02:31.05,0:02:32.30,*Default,NTP,0000,0000,0000,,罗妮？\N{\fs10\i1}Ronnie?
+Dialogue: 0,0:02:34.76,0:02:35.72,*Default,NTP,0000,0000,0000,,你怎么会在这里？\N{\fs10\i1}El… What are you doing here?
+Dialogue: 0,0:02:35.72,0:02:38.76,*Default,NTP,0000,0000,0000,,- 我住在这里，这是我的祖国啊 - 你是犹太人？\N{\fs10\i1}I live here, this is my country. - Are you jewish?
+Dialogue: 0,0:02:38.80,0:02:41.22,*Default,NTP,0000,0000,0000,,- 你来以色列干吗啊？ - 陪我丈夫来的\N{\fs10\i1}What are you doing in Israel? accompanying my husband.
+Dialogue: 0,0:02:41.22,0:02:43.27,*Default,NTP,0000,0000,0000,,就是他，戴衣领那个\N{\fs10\i1}Him, with that collar.
+Dialogue: 0,0:02:43.27,0:02:48.65,*Default,NTP,0000,0000,0000,,他叫乔治，他突然间信奉基督了 医生说是因为受到了战火的洗礼\N{\fs10\i1}George. He suddenly 'got religion'. Because of the war, the doctor says.
+Dialogue: 0,0:02:48.69,0:02:53.82,*Default,NTP,0000,0000,0000,,一天到晚谈着耶稣，没有罪恶之类 所以现在我的夜晚美丽安静\N{\fs10\i1}So:a lot of Jesus and no sins like that. It's nice and quiet at night.
+Dialogue: 0,0:02:53.86,0:02:55.49,*Default,NTP,0000,0000,0000,,上一次见到和你在一起的 不是个加拿大人吗？\N{\fs10\i1}The last man i saw you with, wasn't he a Canadian
+Dialogue: 0,0:02:55.49,0:02:58.66,*Default,NTP,0000,0000,0000,,就是他啊，我的加拿大男人\N{\fs10\i1}That's him . That's my Canadian.
+Dialogue: 0,0:02:59.16,0:03:03.41,*Default,NTP,0000,0000,0000,,乔治！乔治！这是我荷兰的朋友 战争时认识的\N{\fs10\i1}George. A friend from Holland, from the war.
+Dialogue: 0,0:03:03.74,0:03:06.33,*Default,NTP,0000,0000,0000,,你怎么跑到这里来隐居了呢？\N{\fs10\i1}How the hell did you end up here?
+Dialogue: 0,0:03:06.33,0:03:11.04,*Default,NTP,0000,0000,0000,,大家快些，我们下一站将是伽百农\N{\fs10\i1}Next stop is  Kapernaum.
+Dialogue: 0,0:03:11.09,0:03:14.00,*Default,NTP,0000,0000,0000,,那是耶稣第一次复活的地方\N{\fs10\i1}This is where Jesus performed his first healing miracle.
+Dialogue: 0,0:03:15.51,0:03:18.59,*Default,NTP,0000,0000,0000,,亲爱的再见，我会给你写信的 给你寄照片，再见艾莉丝！\N{\fs10\i1}Bye sweetheart. I'll write. I'll send pictures. Bye Ellis.
+Dialogue: 0,0:03:18.93,0:03:21.55,*Default,NTP,0000,0000,0000,,我现在叫瑞秋·罗森塔尔 我结婚了！\N{\fs10\i1}Rachel Rosenthal. I am married.
+Dialogue: 0,0:03:21.60,0:03:23.85,*Default,NTP,0000,0000,0000,,写下来，瑞秋·罗森塔尔 地址呢？\N{\fs10\i1}Write down, Rachel Rosenthal Address?
+Dialogue: 0,0:03:23.85,0:03:27.02,*Default,NTP,0000,0000,0000,,- 斯坦恩集体农庄 - （希伯来语）再见！希伯来语是这么说的吧\N{\fs10\i1}De kibbutz Stein. - Shalom.That's what it's called isn't Shalom?
+Dialogue: 0,0:03:27.77,0:03:30.27,*Default,NTP,0000,0000,0000,,（希伯来语）再见！\N{\fs10\i1}Shalom-
+Dialogue: 0,0:04:05.26,0:04:09.64,*Default,NTP,0000,0000,0000,,1944年9月 荷兰\N{\fs10\i1}Holland,  September 1944
+Dialogue: 0,0:04:15.82,0:04:18.90,*Default,NTP,0000,0000,0000,,耶稣说… 世界之光…\N{\fs10\i1}And Jesus said.. Light of the world…
+Dialogue: 0,0:04:21.99,0:04:25.16,*Default,NTP,0000,0000,0000,,生命之光…\N{\fs10\i1}light of life…
+Dialogue: 0,0:04:49.43,0:04:53.89,*Default,NTP,0000,0000,0000,,洋捷，斯汀捷 今天轮到你们两个\N{\fs10\i1}Jantje. Stientje. You're up today.
+Dialogue: 0,0:04:55.19,0:04:57.68,*Default,NTP,0000,0000,0000,,- 早上好，捷普科马太太 - 早上好\N{\fs10\i1}-  Good morning, mrs. Tjepkema. -  Good morning.
+Dialogue: 0,0:04:57.78,0:04:58.73,*Default,NTP,0000,0000,0000,,早上好，孩子们\N{\fs10\i1}Good morning, children.
+Dialogue: 0,0:04:58.73,0:05:00.69,*Default,NTP,0000,0000,0000,,- 早上好，小姐 - 早上好，瑞秋\N{\fs10\i1}Good morning, miss - Good morning, Rachel
+Dialogue: 0,0:05:00.69,0:05:03.86,*Default,NTP,0000,0000,0000,,我们说过不要再叫瑞秋了 记住没？不要再这么叫\N{\fs10\i1}We promised not to say Rachel anymore, remember? Never
+Dialogue: 0,0:05:06.12,0:05:10.08,*Default,NTP,0000,0000,0000,,天放晴了 今晚把马厩清扫干净\N{\fs10\i1}It's clearing up. Tonight I want the stables clean.
+Dialogue: 0,0:05:10.12,0:05:12.41,*Default,NTP,0000,0000,0000,,- 好的，老板 - 都快坐好！\N{\fs10\i1}alright, boss. At your seats, go.
+Dialogue: 0,0:05:14.96,0:05:16.71,*Default,NTP,0000,0000,0000,,父亲，你能做个祷告吗？\N{\fs10\i1}Father, could you do a prayer?
+Dialogue: 0,0:05:17.34,0:05:20.30,*Default,NTP,0000,0000,0000,,我们的客人也许新学了一段祷告词\N{\fs10\i1}Our guest probably learned a new text.
+Dialogue: 0,0:05:20.30,0:05:22.80,*Default,NTP,0000,0000,0000,,好，大家闭上眼睛\N{\fs10\i1}Good, close your eyes.
+Dialogue: 0,0:05:25.22,0:05:29.93,*Default,NTP,0000,0000,0000,,耶稣再次对他们说： 我是世界之光\N{\fs10\i1}And jesus spoke again to them: I am the light of the world.
+Dialogue: 0,0:05:29.93,0:05:36.27,*Default,NTP,0000,0000,0000,,跟随我的人，不会步入黑暗 而将获得生命之光\N{\fs10\i1}Who will follow me, shall not walk in darknes…
+Dialogue: 0,0:05:36.31,0:05:37.15,*Default,NTP,0000,0000,0000,,阿门\N{\fs10\i1}…but will have the light of life. - Amen.
+Dialogue: 0,0:05:37.31,0:05:38.65,*Default,NTP,0000,0000,0000,,阿门\N{\fs10\i1}Amen.
+Dialogue: 0,0:05:38.65,0:05:43.11,*Default,NTP,0000,0000,0000,,很好，没有任何小错误 斯汀捷，给她拿个盘子\N{\fs10\i1}Beautiful, and no slip of the tongue. Stientje, give her a plate.
+Dialogue: 0,0:05:45.24,0:05:47.16,*Default,NTP,0000,0000,0000,,如果犹太人听从了耶稣的教诲\N{\fs10\i1}If the jews had listened to Jesus…
+Dialogue: 0,0:05:47.16,0:05:50.41,*Default,NTP,0000,0000,0000,,他们就不会受这么多苦难了\N{\fs10\i1}…then they wouldn't have had all this suffering. Then again…
+Dialogue: 0,0:05:51.41,0:05:52.79,*Default,NTP,0000,0000,0000,,开始吃吧\N{\fs10\i1}please begin.
+Dialogue: 0,0:05:54.00,0:05:56.17,*Default,NTP,0000,0000,0000,,给\N{\fs10\i1}Here.
+Dialogue: 0,0:06:41.55,0:06:45.51,*Default,NTP,0000,0000,0000,,嘿，姑娘！禁止听英语歌曲！\N{\fs10\i1}Hey, you there, girl. English music is forbidden.
+Dialogue: 0,0:06:47.22,0:06:49.47,*Default,NTP,0000,0000,0000,,不过不穿衣服的姑娘例外\N{\fs10\i1}But not for naked girls
+Dialogue: 0,0:06:49.80,0:06:54.62,*Default,NTP,0000,0000,0000,,你真没趣，吓到我了 我以为是德国佬呢\N{\fs10\i1}You're not funny. You scared me. I thought you were a kraut.
+Dialogue: 0,0:06:54.89,0:06:56.94,*Default,NTP,0000,0000,0000,,那我怎么补偿你呢？\N{\fs10\i1}How can I make it up to you?
+Dialogue: 0,0:06:56.98,0:06:58.77,*Default,NTP,0000,0000,0000,,让我上船\N{\fs10\i1}Have me on the boat.
+Dialogue: 0,0:07:07.66,0:07:10.74,*Default,NTP,0000,0000,0000,,- 我也想要支香烟 - 好！\N{\fs10\i1}A ciggarette like that, i'd like as well. - Jawohl.
+Dialogue: 0,0:07:19.67,0:07:23.75,*Default,NTP,0000,0000,0000,,- 那些疯子在干什么？ - 丢掉压舱物，利于爬升\N{\fs10\i1}What's that crazy guy doing? - Getting rid of ballast, so he can ascend.
+Dialogue: 0,0:07:27.26,0:07:30.30,*Default,NTP,0000,0000,0000,,趴下！\N{\fs10\i1}Get down.
+Dialogue: 0,0:07:42.27,0:07:47.82,*Default,NTP,0000,0000,0000,,- 你干吗去？！ - 那是我住的藏身处\N{\fs10\i1}What are you going to do? - That's my hideout.
+Dialogue: 0,0:07:57.04,0:08:00.21,*Default,NTP,0000,0000,0000,,等下！看，德国佬\N{\fs10\i1}Wait. look: Germans.
+Dialogue: 0,0:08:03.46,0:08:06.55,*Default,NTP,0000,0000,0000,,你不能回去，跟我来！\N{\fs10\i1}You can't go back, come.
+Dialogue: 0,0:08:12.30,0:08:14.26,*Default,NTP,0000,0000,0000,,好好吃吧，小伙子\N{\fs10\i1}(unknown voice) enjoy your meal, boy.
+Dialogue: 0,0:08:24.90,0:08:26.11,*Default,NTP,0000,0000,0000,,嗨，别紧张，小子\N{\fs10\i1}(ROB:) Hey, take it easy, boy.
+Dialogue: 0,0:08:29.57,0:08:36.49,*Default,NTP,0000,0000,0000,,＂阳光之下，总有一个他＂\N{\fs10\i1}# there's always one beneath the sun
+Dialogue: 0,0:08:36.54,0:08:41.12,*Default,NTP,0000,0000,0000,,＂让你牵挂，那种感觉…＂\N{\fs10\i1}# who's bound to make you feel that way
+Dialogue: 0,0:08:41.50,0:08:44.67,*Default,NTP,0000,0000,0000,,录音机里的声音…\N{\fs10\i1}That voice on the record…
+Dialogue: 0,0:08:44.84,0:08:47.05,*Default,NTP,0000,0000,0000,,- 那是你！ - 曾经是\N{\fs10\i1}That's you. - That was me.
+Dialogue: 0,0:08:48.09,0:08:51.26,*Default,NTP,0000,0000,0000,,很久了，那时战争还没开始\N{\fs10\i1}In the old days. Before the war.
+Dialogue: 0,0:08:52.34,0:08:55.47,*Default,NTP,0000,0000,0000,,刚唱一次 然后就要把嘴巴闭上了\N{\fs10\i1}First you sing, then you have to keep your mouth shut.
+Dialogue: 0,0:08:57.01,0:08:59.73,*Default,NTP,0000,0000,0000,,给，我爸爸给我们抓的\N{\fs10\i1}Here, my dad caught these for us.
+Dialogue: 0,0:08:59.77,0:09:02.85,*Default,NTP,0000,0000,0000,,他真好\N{\fs10\i1}That's sweet of him.
+Dialogue: 0,0:09:03.19,0:09:04.86,*Default,NTP,0000,0000,0000,,把炉子点上好吗？\N{\fs10\i1}Will you light the stove?
+Dialogue: 0,0:09:20.96,0:09:23.67,*Default,NTP,0000,0000,0000,,- 真精致 - 送给你\N{\fs10\i1}Nice thing. - You can keep it.
+Dialogue: 0,0:09:23.71,0:09:26.79,*Default,NTP,0000,0000,0000,,- 真的？ - 当作你救我的纪念品\N{\fs10\i1}Really? - a souvenir for you who saved me
+Dialogue: 0,0:09:27.96,0:09:31.09,*Default,NTP,0000,0000,0000,,你真好\N{\fs10\i1}How sweet.
+Dialogue: 0,0:09:32.88,0:09:33.80,*Default,NTP,0000,0000,0000,,谢谢\N{\fs10\i1}Thank you.
+Dialogue: 0,0:09:35.09,0:09:38.22,*Default,NTP,0000,0000,0000,,- 至少还有好的一面 - 什么意思？\N{\fs10\i1}With a positive side effect. - What do you mean?
+Dialogue: 0,0:09:38.68,0:09:41.52,*Default,NTP,0000,0000,0000,,现在我不用再靠 念圣经来得到食物了\N{\fs10\i1}Now I don't have to spit anymore bible texts to get any food.
+Dialogue: 0,0:09:41.56,0:09:44.44,*Default,NTP,0000,0000,0000,,嘘！\N{\fs10\i1}Ssshhhh..
+Dialogue: 0,0:09:44.48,0:09:48.77,*Default,NTP,0000,0000,0000,,汽车 汽油发动机的声音\N{\fs10\i1}A car. It's a gasoline engine.
+Dialogue: 0,0:10:09.96,0:10:11.34,*Default,NTP,0000,0000,0000,,斯坦恩小姐？\N{\fs10\i1}Miss Stein?
+Dialogue: 0,0:10:13.76,0:10:15.13,*Default,NTP,0000,0000,0000,,瑞秋·斯坦恩？\N{\fs10\i1}Rachel Stein?
+Dialogue: 0,0:10:19.68,0:10:22.10,*Default,NTP,0000,0000,0000,,我知道你在这里\N{\fs10\i1}I know you're here.
+Dialogue: 0,0:10:22.10,0:10:26.06,*Default,NTP,0000,0000,0000,,德国人在烧毁的农场里 找到了你的护照\N{\fs10\i1}The germans have found your pass at the burnt out farm.
+Dialogue: 0,0:10:27.77,0:10:30.86,*Default,NTP,0000,0000,0000,,舵手马尔德因科先生 德国佬知道你当时在附近\N{\fs10\i1}Helmsman Maalderink, the krauts know you were in the neighbourhood.
+Dialogue: 0,0:10:31.40,0:10:33.32,*Default,NTP,0000,0000,0000,,他们记下了你的船号\N{\fs10\i1}They wrote down the number of your sail.
+Dialogue: 0,0:10:36.36,0:10:37.78,*Default,NTP,0000,0000,0000,,我不明白\N{\fs10\i1}Says who?
+Dialogue: 0,0:10:38.07,0:10:39.24,*Default,NTP,0000,0000,0000,,别装了\N{\fs10\i1}Come on.
+Dialogue: 0,0:10:39.28,0:10:42.04,*Default,NTP,0000,0000,0000,,德国人也是人 又不是傻子\N{\fs10\i1}one plus one is two, even for the krauts.
+Dialogue: 0,0:10:42.05,0:10:44.12,*Default,NTP,0000,0000,0000,,一个藏匿的犹太女人 不见了…\N{\fs10\i1}a hidden jewish woman dissappears…
+Dialogue: 0,0:10:44.12,0:10:48.29,*Default,NTP,0000,0000,0000,,…而你是附近唯一的水手\N{\fs10\i1}…and the only sailor around to help is you.
+Dialogue: 0,0:10:48.63,0:10:51.53,*Default,NTP,0000,0000,0000,,- 你来这里干吗？ - 来警告你\N{\fs10\i1}What are you doing here? - To warn you.
+Dialogue: 0,0:10:51.55,0:10:55.87,*Default,NTP,0000,0000,0000,,党卫队保安部很快就会来逮捕她 押送到波兰集中营\N{\fs10\i1}Soon the SD will come and arrest her for transport to Poland.
+Dialogue: 0,0:10:55.88,0:10:59.97,*Default,NTP,0000,0000,0000,,而你和你的家人 将会因为帮助犹太人而被投入监狱\N{\fs10\i1}And you and your family, will be put in jail, for aiding jews.
+Dialogue: 0,0:11:00.00,0:11:02.68,*Default,NTP,0000,0000,0000,,你从哪里得到消息的？\N{\fs10\i1}How did this news reach you?
+Dialogue: 0,0:11:02.68,0:11:05.55,*Default,NTP,0000,0000,0000,,德国佬的报告送到了 海牙当地警局的手中\N{\fs10\i1}The police report of the krauts landed in the hands of the The Hague police.
+Dialogue: 0,0:11:05.56,0:11:09.40,*Default,NTP,0000,0000,0000,,- 他们把报告给了我们 - “你们”？“你们”是谁？\N{\fs10\i1}They  gave it to us. - Us? Who's us?
+Dialogue: 0,0:11:09.44,0:11:13.93,*Default,NTP,0000,0000,0000,,我们就是我们 令人高兴的是，荷兰还是有不少好警察的\N{\fs10\i1}Us are us. Be happy, that there's so many good cops, in Holland.
+Dialogue: 0,0:11:14.03,0:11:19.70,*Default,NTP,0000,0000,0000,,我只想告诉你们一件事 躲起来，马上！\N{\fs10\i1}I wanted to tell you one thing. Hide. NOW.
+Dialogue: 0,0:11:20.16,0:11:22.45,*Default,NTP,0000,0000,0000,,晚安\N{\fs10\i1}Good night.
+Dialogue: 0,0:11:35.17,0:11:39.03,*Default,NTP,0000,0000,0000,,- 还不清楚吗？ - 你得帮我和罗布藏起来\N{\fs10\i1}Wasn't I clear enough? - You have to help me and Rob to go into hiding.
+Dialogue: 0,0:11:39.09,0:11:43.28,*Default,NTP,0000,0000,0000,,你所说的“你们”是抵抗组织，你和 他们是一起的，你能帮我们，对吧？\N{\fs10\i1}With 'us' you mean the resistance. You're with them. So you can help us, right?
+Dialogue: 0,0:11:43.43,0:11:46.82,*Default,NTP,0000,0000,0000,,- 也许吧，但是那很危险 - 我们愿意冒这个险\N{\fs10\i1}Maybe yes, but it's dangerous. - We'll take that risk.
+Dialogue: 0,0:11:46.85,0:11:50.19,*Default,NTP,0000,0000,0000,,请不要让我们失望 求求你\N{\fs10\i1}Please don't let us down. Please?
+Dialogue: 0,0:11:52.11,0:11:55.67,*Default,NTP,0000,0000,0000,,有条逃生路线，要穿过俾斯伯士河 我可以带你们去解放区\N{\fs10\i1}There's an escape route, through the Biesbosch. I can get you to liberated territory.
+Dialogue: 0,0:11:55.69,0:11:58.78,*Default,NTP,0000,0000,0000,,穿越国境，现在？ 真是疯了\N{\fs10\i1}Cross country, NOW? That's madness
+Dialogue: 0,0:11:58.78,0:12:01.20,*Default,NTP,0000,0000,0000,,再过几周英国士兵就来了 荷兰就将被解放了\N{\fs10\i1}In a few weeks the tommy's will be here and Holland will be liberated
+Dialogue: 0,0:12:01.20,0:12:04.47,*Default,NTP,0000,0000,0000,,你的英国兵早在 阿纳姆就被击溃了\N{\fs10\i1}Your Tommy's have been cut to pieces at Arnhem
+Dialogue: 0,0:12:04.54,0:12:08.42,*Default,NTP,0000,0000,0000,,选择吧，要么跟我来 要么你们自己照顾自己\N{\fs10\i1}Choose: come with me or, take care of yourself
+Dialogue: 0,0:12:08.54,0:12:11.21,*Default,NTP,0000,0000,0000,,等一下，我们跟你去\N{\fs10\i1}Wait. we'll come.
+Dialogue: 0,0:12:11.21,0:12:15.38,*Default,NTP,0000,0000,0000,,准备一下，明天下午2点 我来接你们\N{\fs10\i1}Be ready tomorrow, 2 'o' clock. I'll pick you up-
+Dialogue: 0,0:12:18.72,0:12:21.99,*Default,NTP,0000,0000,0000,,不要带过多东西 但是要保证能坚持一阵\N{\fs10\i1}Don't bring too much, but make sure you can hold out for a while.
+Dialogue: 0,0:12:43.66,0:12:48.00,*Default,NTP,0000,0000,0000,,就是这里了 我在拐角等你\N{\fs10\i1}It's here. I'll wait on the corner.
+Dialogue: 0,0:13:01.26,0:13:04.22,*Default,NTP,0000,0000,0000,,- 什么事？ - 我来见律师\N{\fs10\i1}Yes? - I'm here for the notary.
+Dialogue: 0,0:13:04.26,0:13:05.89,*Default,NTP,0000,0000,0000,,我是瑞秋·斯坦恩\N{\fs10\i1}I am Rachel Stein.
+Dialogue: 0,0:13:05.93,0:13:08.77,*Default,NTP,0000,0000,0000,,跟我来 我带你去\N{\fs10\i1}follow me, I will check for you.
+Dialogue: 0,0:13:14.44,0:13:17.61,*Default,NTP,0000,0000,0000,,威姆，有个叫斯坦恩的姑娘找你 你有空吗？\N{\fs10\i1}(Mrs. Smaal:) Wim, there's girl called Stein here. Do you have a moment?
+Dialogue: 0,0:13:20.19,0:13:23.36,*Default,NTP,0000,0000,0000,,我丈夫现在可以见你了\N{\fs10\i1}My husband can see you now.
+Dialogue: 0,0:13:25.78,0:13:28.08,*Default,NTP,0000,0000,0000,,- 斯马尔 - 瑞秋·斯坦恩\N{\fs10\i1}Smaal. -  Rachel Stein.
+Dialogue: 0,0:13:28.12,0:13:30.70,*Default,NTP,0000,0000,0000,,我父亲告诉过我 如果有麻烦可以找您帮忙\N{\fs10\i1}My father said, to call for your aid, whenever I'll be in trouble.
+Dialogue: 0,0:13:30.70,0:13:33.87,*Default,NTP,0000,0000,0000,,每个年轻姑娘都可以 自称是瑞秋·斯坦恩\N{\fs10\i1}Every young lady, can call herself Rachel Stein.
+Dialogue: 0,0:13:54.40,0:13:55.94,*Default,NTP,0000,0000,0000,,那是我父母和弟弟\N{\fs10\i1}My parents and my little brother.
+Dialogue: 0,0:13:58.73,0:14:01.03,*Default,NTP,0000,0000,0000,,我能帮你什么忙呢，瑞秋？\N{\fs10\i1}What can I do for you Rachel?
+Dialogue: 0,0:14:02.15,0:14:07.03,*Default,NTP,0000,0000,0000,,我的藏身处被炸掉了 证件，东西全没有了\N{\fs10\i1}My hideout is blown up. I have no papers, nothing.
+Dialogue: 0,0:14:07.24,0:14:09.83,*Default,NTP,0000,0000,0000,,我有个机会摆渡去解放区\N{\fs10\i1}I have a chance to cross over to liberated area.
+Dialogue: 0,0:14:09.83,0:14:11.41,*Default,NTP,0000,0000,0000,,- 真的吗？ - 是的\N{\fs10\i1}Really? -  Yes.
+Dialogue: 0,0:14:11.41,0:14:14.56,*Default,NTP,0000,0000,0000,,我需要些钱来维持生计\N{\fs10\i1}I will be needing money to live.
+Dialogue: 0,0:14:14.58,0:14:16.42,*Default,NTP,0000,0000,0000,,多少？\N{\fs10\i1}How much?
+Dialogue: 0,0:14:16.42,0:14:19.59,*Default,NTP,0000,0000,0000,,最少可以维持一年\N{\fs10\i1}At least enough, to last me a year.
+Dialogue: 0,0:14:20.50,0:14:23.71,*Default,NTP,0000,0000,0000,,10万？\N{\fs10\i1}100 grand?
+Dialogue: 0,0:14:26.59,0:14:29.26,*Default,NTP,0000,0000,0000,,不，那不可能\N{\fs10\i1}No, that's impossible.
+Dialogue: 0,0:14:30.35,0:14:33.52,*Default,NTP,0000,0000,0000,,一半？\N{\fs10\i1}Half of it?
+Dialogue: 0,0:14:35.35,0:14:40.15,*Default,NTP,0000,0000,0000,,如果可以，最好是美元或珠宝 我不想占过多地方\N{\fs10\i1}In dollars and jewels, if possible. I don't want it to take up too much space.
+Dialogue: 0,0:14:42.78,0:14:46.82,*Default,NTP,0000,0000,0000,,你得在收据上签个字\N{\fs10\i1}You'll have to sign the receipt.
+Dialogue: 0,0:14:47.20,0:14:52.83,*Default,NTP,0000,0000,0000,,我需要以后向你父亲说明\N{\fs10\i1}I have to justify this to your father later on.
+Dialogue: 0,0:14:53.87,0:14:56.75,*Default,NTP,0000,0000,0000,,您知道我父母在哪里吗？\N{\fs10\i1}Do you know where my parents are?
+Dialogue: 0,0:14:56.79,0:14:59.98,*Default,NTP,0000,0000,0000,,不知道 也不想知道\N{\fs10\i1}No, I don't know and I don't want to know.
+Dialogue: 0,0:15:03.46,0:15:05.30,*Default,NTP,0000,0000,0000,,- 在哪里签？ - 这里\N{\fs10\i1}Where do I sign? - Here.
+Dialogue: 0,0:15:05.30,0:15:08.47,*Default,NTP,0000,0000,0000,,- 等下 - 你不要清点一下？\N{\fs10\i1}Hold on. You don't want to check first?
+Dialogue: 0,0:15:09.22,0:15:11.35,*Default,NTP,0000,0000,0000,,不了，我相信您\N{\fs10\i1}No, I trust you.
+Dialogue: 0,0:15:11.39,0:15:19.06,*Default,NTP,0000,0000,0000,,瑞秋，你不能盲目相信别人 那种时代已经过去了\N{\fs10\i1}Rachel, you can't trust someone blindly. Those times are over.
+Dialogue: 0,0:15:37.41,0:15:39.29,*Default,NTP,0000,0000,0000,,请出示证件\N{\fs10\i1}Checkpoint: Show me you papers.
+Dialogue: 0,0:15:39.33,0:15:43.17,*Default,NTP,0000,0000,0000,,范·亨，党卫队保安部 押载被捕的犹太人\N{\fs10\i1}Van Gein, from the SD, with a load of arrested jews.
+Dialogue: 0,0:15:50.34,0:15:51.60,*Default,NTP,0000,0000,0000,,十个\N{\fs10\i1}10 pieces
+Dialogue: 0,0:15:53.76,0:15:56.93,*Default,NTP,0000,0000,0000,,好的，可以通过了 旅途愉快\N{\fs10\i1}Check. You may continue. Have a good trip.
+Dialogue: 0,0:15:57.10,0:15:57.77,*Default,NTP,0000,0000,0000,,希特勒万岁\N{\fs10\i1}Heil Hitler.
+Dialogue: 0,0:15:58.64,0:15:59.02,*Default,NTP,0000,0000,0000,,希特勒万岁\N{\fs10\i1}Heil Hitler.
+Dialogue: 0,0:16:28.47,0:16:29.80,*Default,NTP,0000,0000,0000,,出来吧\N{\fs10\i1}Come out.
+Dialogue: 0,0:16:37.14,0:16:38.89,*Default,NTP,0000,0000,0000,,我们走\N{\fs10\i1}Let's go.
+Dialogue: 0,0:16:38.89,0:16:40.69,*Default,NTP,0000,0000,0000,,瑞秋，瑞秋！\N{\fs10\i1}Rachel. Rachel.
+Dialogue: 0,0:16:40.73,0:16:43.81,*Default,NTP,0000,0000,0000,,马科斯，那是我弟弟\N{\fs10\i1}Max. That's my little brother.
+Dialogue: 0,0:16:46.57,0:16:49.07,*Default,NTP,0000,0000,0000,,- 我们也在 - 妈妈\N{\fs10\i1}We're here too. - Mum.
+Dialogue: 0,0:16:49.07,0:16:50.91,*Default,NTP,0000,0000,0000,,我的孩子\N{\fs10\i1}my girl.
+Dialogue: 0,0:16:50.91,0:16:54.07,*Default,NTP,0000,0000,0000,,嘘…小声些 来，来\N{\fs10\i1}Sshh.. Be quiet, come, come
+Dialogue: 0,0:16:56.33,0:16:59.08,*Default,NTP,0000,0000,0000,,- 你们怎么到这里来的 - 通过他\N{\fs10\i1}How did you get here? - Throug. him.
+Dialogue: 0,0:16:59.08,0:17:03.42,*Default,NTP,0000,0000,0000,,- 他说你准备渡河 - 然后我们也想过去\N{\fs10\i1}He said, you were going to cross. - Then we wanted to go too.
+Dialogue: 0,0:17:04.08,0:17:06.80,*Default,NTP,0000,0000,0000,,这是罗布，帮助过我\N{\fs10\i1}This is Rob, he helped me.
+Dialogue: 0,0:17:06.84,0:17:07.71,*Default,NTP,0000,0000,0000,,嗨\N{\fs10\i1}Hi.
+Dialogue: 0,0:17:16.26,0:17:19.43,*Default,NTP,0000,0000,0000,,不要推挤，小心些 向前\N{\fs10\i1}Don't push, be careful, go forward.
+Dialogue: 0,0:17:19.85,0:17:22.39,*Default,NTP,0000,0000,0000,,过去，坐下\N{\fs10\i1}Come and sit.
+Dialogue: 0,0:17:22.94,0:17:24.73,*Default,NTP,0000,0000,0000,,请坐下\N{\fs10\i1}Please, sit.
+Dialogue: 0,0:17:26.27,0:17:29.03,*Default,NTP,0000,0000,0000,,快些，小伙子\N{\fs10\i1}Hurry up boy.
+Dialogue: 0,0:17:29.07,0:17:30.03,*Default,NTP,0000,0000,0000,,他刚动过手术\N{\fs10\i1}He's just had an operation.
+Dialogue: 0,0:17:30.07,0:17:31.99,*Default,NTP,0000,0000,0000,,4天前刚做的手术\N{\fs10\i1}4 days ago.
+Dialogue: 0,0:17:32.03,0:17:34.16,*Default,NTP,0000,0000,0000,,对不起，我不知道\N{\fs10\i1}I'm sorry, I didn't know.
+Dialogue: 0,0:17:39.04,0:17:41.12,*Default,NTP,0000,0000,0000,,麻烦你撤掉木板\N{\fs10\i1}Could you throw away the plank?
+Dialogue: 0,0:17:42.29,0:17:43.41,*Default,NTP,0000,0000,0000,,你不和我们一起？\N{\fs10\i1}You're not joing us?
+Dialogue: 0,0:17:43.42,0:17:47.96,*Default,NTP,0000,0000,0000,,不了，这里开始船长接手\N{\fs10\i1}No, the skipper will take it from here.
+Dialogue: 0,0:17:52.05,0:17:55.59,*Default,NTP,0000,0000,0000,,一路顺风\N{\fs10\i1}safe travels
+Dialogue: 0,0:17:56.64,0:17:59.96,*Default,NTP,0000,0000,0000,,太太，请摘掉它 夜里太显眼\N{\fs10\i1}Lady, take that off. It glows too much in the dark.
+Dialogue: 0,0:17:59.97,0:18:01.48,*Default,NTP,0000,0000,0000,,我连睡觉都带着的\N{\fs10\i1}I keep it on even in my sleep.
+Dialogue: 0,0:18:01.48,0:18:04.65,*Default,NTP,0000,0000,0000,,那就把领子系紧些 德国佬眼睛很灵\N{\fs10\i1}Then move up your collar. The krauts see everything.
+Dialogue: 0,0:18:05.56,0:18:07.02,*Default,NTP,0000,0000,0000,,我们出发\N{\fs10\i1}Let's go.
+Dialogue: 0,0:18:18.53,0:18:22.50,*Default,NTP,0000,0000,0000,,看，姜饼，聚会上剩下来的 现在派上用场了\N{\fs10\i1}Look: gingerbread. Saved it for a party. That means now.
+Dialogue: 0,0:18:22.54,0:18:24.12,*Default,NTP,0000,0000,0000,,你出什么事了？\N{\fs10\i1}What happened to you?
+Dialogue: 0,0:18:24.12,0:18:26.71,*Default,NTP,0000,0000,0000,,急性阑尾炎 他差点不能和我们走\N{\fs10\i1}Acute appendix infection. He almost couldn't join us.
+Dialogue: 0,0:18:26.75,0:18:29.63,*Default,NTP,0000,0000,0000,,我的律师及时给我们找了大夫\N{\fs10\i1}My notary found us doctor just in time.
+Dialogue: 0,0:18:29.67,0:18:33.51,*Default,NTP,0000,0000,0000,,- 大夫偷偷地帮他做了手术 - 就在厨房的桌子上\N{\fs10\i1}He operated him secretly. - On the kitchen table.
+Dialogue: 0,0:18:33.51,0:18:35.51,*Default,NTP,0000,0000,0000,,斯马尔先生知道你们在哪里吗？\N{\fs10\i1}Did mr. Smaal know where you were?
+Dialogue: 0,0:18:35.51,0:18:38.68,*Default,NTP,0000,0000,0000,,当然，他给了我们藏身处的地址\N{\fs10\i1}Of course. He gave us the address of the hideout.
+Dialogue: 0,0:18:39.10,0:18:43.49,*Default,NTP,0000,0000,0000,,他坚持对我说他不知道，奇怪\N{\fs10\i1}Odd, he kept repeating he didn't know.
+Dialogue: 0,0:18:43.56,0:18:46.69,*Default,NTP,0000,0000,0000,,不，他只是谨慎\N{\fs10\i1}No, careful.
+Dialogue: 0,0:18:47.44,0:18:51.82,*Default,NTP,0000,0000,0000,,- 你们的藏身处在哪里？ - 在一无聊的杂货店主家的阁楼里\N{\fs10\i1}Where was your hideout? - In the attic of a boring grocer's man
+Dialogue: 0,0:18:51.86,0:18:56.45,*Default,NTP,0000,0000,0000,,- 一个社会主义者，但还算不错 - 不过还是布鲁塞尔好\N{\fs10\i1}A socialist, but still good. -  but Brussels is better.
+Dialogue: 0,0:18:58.20,0:19:02.29,*Default,NTP,0000,0000,0000,,- 现在我们不会再分开了，对吧？ - 是啊\N{\fs10\i1}Now, we'll never be separated again, right? - right.
+Dialogue: 0,0:19:03.87,0:19:05.66,*Default,NTP,0000,0000,0000,,为什么我们向东边开？\N{\fs10\i1}Why are we going east?
+Dialogue: 0,0:19:05.83,0:19:07.12,*Default,NTP,0000,0000,0000,,你怎么知道？\N{\fs10\i1}How can you tell?
+Dialogue: 0,0:19:07.21,0:19:10.68,*Default,NTP,0000,0000,0000,,战前 我当过一艘大船上的舵手\N{\fs10\i1}I used to be helmsman on a big ship. Before the war.
+Dialogue: 0,0:19:10.79,0:19:15.34,*Default,NTP,0000,0000,0000,,战前我在荷-美航线上工作 我正在弯曲前进\N{\fs10\i1}Before the war I was on the Holland- America line. I am zigzagging
+Dialogue: 0,0:20:05.68,0:20:07.88,*Default,NTP,0000,0000,0000,,很好\N{\fs10\i1}Excellent.
+Dialogue: 0,0:21:41.61,0:21:45.87,*Default,NTP,0000,0000,0000,,下车 打开货舱\N{\fs10\i1}Get out. Show me your cargo.
+Dialogue: 0,0:21:56.38,0:21:59.65,*Default,NTP,0000,0000,0000,,- 打开 - 是个死人\N{\fs10\i1}Open up. -  But she's dead.
+Dialogue: 0,0:21:59.88,0:22:02.30,*Default,NTP,0000,0000,0000,,- 她得了很厉害的病 - 斑疹伤寒症\N{\fs10\i1}but it's a very bad disease. -  Typhus.
+Dialogue: 0,0:22:02.30,0:22:03.88,*Default,NTP,0000,0000,0000,,打开！\N{\fs10\i1}Open it.
+Dialogue: 0,0:22:21.40,0:22:22.49,*Default,NTP,0000,0000,0000,,关上吧\N{\fs10\i1}Close it.
+Dialogue: 0,0:23:00.36,0:23:02.07,*Default,NTP,0000,0000,0000,,天啊，我差点窒息了\N{\fs10\i1}Man, I almost choked.
+Dialogue: 0,0:23:02.11,0:23:05.20,*Default,NTP,0000,0000,0000,,我们从没被抱怨过\N{\fs10\i1}We never get any complaints.
+Dialogue: 0,0:23:05.36,0:23:08.20,*Default,NTP,0000,0000,0000,,至少留了一厘米的空隙 你看\N{\fs10\i1}At least a centimetre of space. Look.
+Dialogue: 0,0:23:08.20,0:23:11.37,*Default,NTP,0000,0000,0000,,- 不能再宽了，否则会被注意到 - 不，我是说下雨\N{\fs10\i1}Can't do any wider, otherwise they'll notice. - No, I mean in the rain.
+Dialogue: 0,0:23:11.54,0:23:14.62,*Default,NTP,0000,0000,0000,,我很难保持脸不动\N{\fs10\i1}I could hardly keep my face still.
+Dialogue: 0,0:23:18.71,0:23:19.92,*Default,NTP,0000,0000,0000,,来\N{\fs10\i1}Come.
+Dialogue: 0,0:23:22.71,0:23:24.30,*Default,NTP,0000,0000,0000,,你可以在这里清洗一下\N{\fs10\i1}You can clean yourself up over there.
+Dialogue: 0,0:23:27.97,0:23:30.18,*Default,NTP,0000,0000,0000,,给，用这个\N{\fs10\i1}Here, use this.
+Dialogue: 0,0:23:30.22,0:23:33.02,*Default,NTP,0000,0000,0000,,我真不知道该怎么答谢你们\N{\fs10\i1}I don't know, how I will ever be able to thank you.
+Dialogue: 0,0:23:33.06,0:23:37.14,*Default,NTP,0000,0000,0000,,- 你可以松开这个… - 你可以走了，约普\N{\fs10\i1}You could untie these… Take a hike, Joop.
+Dialogue: 0,0:23:37.56,0:23:40.75,*Default,NTP,0000,0000,0000,,应该感谢找到你的那个人\N{\fs10\i1}Instead thank the people who found you…
+Dialogue: 0,0:23:40.81,0:23:44.90,*Default,NTP,0000,0000,0000,,没通知党卫队保安部 而是告诉了我们\N{\fs10\i1}for warning us instead of warning the SD.
+Dialogue: 0,0:23:46.99,0:23:51.16,*Default,NTP,0000,0000,0000,,我们要染一下你的头发\N{\fs10\i1}We'll paint that.
+Dialogue: 0,0:24:19.52,0:24:21.73,*Default,NTP,0000,0000,0000,,爸爸\N{\fs10\i1}Dad-
+Dialogue: 0,0:24:24.36,0:24:25.69,*Default,NTP,0000,0000,0000,,凯普斯\N{\fs10\i1}Kuipers.
+Dialogue: 0,0:24:26.69,0:24:28.32,*Default,NTP,0000,0000,0000,,艾莉丝·弗里斯\N{\fs10\i1}Ellis de Vries.
+Dialogue: 0,0:24:28.53,0:24:31.62,*Default,NTP,0000,0000,0000,,你会习惯这个名字的 身份证怎么样？\N{\fs10\i1}You'll get used to the name. Do you have a good ID?
+Dialogue: 0,0:24:31.62,0:24:35.79,*Default,NTP,0000,0000,0000,,没问题，爸爸，比真的还像\N{\fs10\i1}All fine, dad. More than real.
+Dialogue: 0,0:24:39.29,0:24:41.54,*Default,NTP,0000,0000,0000,,好的\N{\fs10\i1}Yes.
+Dialogue: 0,0:24:41.54,0:24:46.13,*Default,NTP,0000,0000,0000,,- 以前做过饭没有？ - 我常在家里做饭，犹太人的饭菜\N{\fs10\i1}Did you ever do any cooking? - Yes, i used to at home, kosher.
+Dialogue: 0,0:24:46.30,0:24:49.84,*Default,NTP,0000,0000,0000,,这个就没有必要了吧\N{\fs10\i1}There's no demand for that anymore.
+Dialogue: 0,0:24:50.13,0:24:52.97,*Default,NTP,0000,0000,0000,,- 对不起 - 你可以留在这里\N{\fs10\i1}Sorry. - You can stay here.
+Dialogue: 0,0:24:52.97,0:24:55.97,*Default,NTP,0000,0000,0000,,但是你得工作\N{\fs10\i1}But you'll have to work.
+Dialogue: 0,0:24:55.97,0:24:58.23,*Default,NTP,0000,0000,0000,,越累越好\N{\fs10\i1}The harder, the better.
+Dialogue: 0,0:24:58.23,0:25:02.80,*Default,NTP,0000,0000,0000,,她家里的人被党卫队杀害了\N{\fs10\i1}Her whole family was murdered, by the SS.
+Dialogue: 0,0:25:03.98,0:25:08.15,*Default,NTP,0000,0000,0000,,总有一天，我们会报仇的 艾莉丝\N{\fs10\i1}Some time, we'll get back to them, Ellis.
+Dialogue: 0,0:25:13.12,0:25:16.54,*Default,NTP,0000,0000,0000,,五个月后\N{\fs10\i1}five month later
+Dialogue: 0,0:25:22.08,0:25:25.67,*Default,NTP,0000,0000,0000,,艾莉丝，过来一下\N{\fs10\i1}Ellis, come here.
+Dialogue: 0,0:25:28.76,0:25:32.93,*Default,NTP,0000,0000,0000,,我们需要一个替补 你可以做一个替补吗？\N{\fs10\i1}We need a substitute. Could you be a replacement.
+Dialogue: 0,0:25:33.01,0:25:36.80,*Default,NTP,0000,0000,0000,,- 工作就是工作 - 即使是危险的工作？\N{\fs10\i1}Work is work. - Even if it's dangerous?
+Dialogue: 0,0:25:36.85,0:25:38.93,*Default,NTP,0000,0000,0000,,我还有什么可以失去的呢？\N{\fs10\i1}What do I have to lose?
+Dialogue: 0,0:25:38.93,0:25:39.89,*Default,NTP,0000,0000,0000,,你的生命\N{\fs10\i1}Your life.
+Dialogue: 0,0:26:13.63,0:26:15.47,*Default,NTP,0000,0000,0000,,- 她明天和我一起去？ - 是的\N{\fs10\i1}She'll travel with me tomorrow? - Yes.
+Dialogue: 0,0:26:15.47,0:26:17.43,*Default,NTP,0000,0000,0000,,新情报员，艾莉丝\N{\fs10\i1}The new courier, Ellis
+Dialogue: 0,0:26:17.47,0:26:18.93,*Default,NTP,0000,0000,0000,,- 我是汉斯 - 艾莉丝\N{\fs10\i1}I am Hans. - Ellis.
+Dialogue: 0,0:26:18.97,0:26:20.60,*Default,NTP,0000,0000,0000,,请坐\N{\fs10\i1}Have a seat.
+Dialogue: 0,0:26:21.06,0:26:24.33,*Default,NTP,0000,0000,0000,,好，每个人都知道程序了 凯普斯小组去应付技术方面\N{\fs10\i1}Ok, everybody knows the procedure. The group Kuipers handles the technical side.
+Dialogue: 0,0:26:24.40,0:26:25.65,*Default,NTP,0000,0000,0000,,- 你好 - 你好\N{\fs10\i1}Hello. - Hello.
+Dialogue: 0,0:26:25.65,0:26:27.36,*Default,NTP,0000,0000,0000,,…我们提供掩护\N{\fs10\i1}.. we as KP will give cover.
+Dialogue: 0,0:26:27.40,0:26:29.23,*Default,NTP,0000,0000,0000,,- 他几点到？ - 七点半\N{\fs10\i1}At what time he'll arrive? - 7:30
+Dialogue: 0,0:26:29.23,0:26:31.24,*Default,NTP,0000,0000,0000,,- 风向呢？ - 北-北-西\N{\fs10\i1}Wind direction? - North- north- west.
+Dialogue: 0,0:26:31.24,0:26:33.82,*Default,NTP,0000,0000,0000,,约普，你打头阵 南-南-东\N{\fs10\i1}Then you'll take the lead, Joop: south- south- east
+Dialogue: 0,0:26:33.82,0:26:36.16,*Default,NTP,0000,0000,0000,,- 红灯 - 你待在200米处，基斯\N{\fs10\i1}Red. - You stay at 200 metres, Kees.
+Dialogue: 0,0:26:36.16,0:26:39.03,*Default,NTP,0000,0000,0000,,没其它的了？ 我可不是杰西·欧文斯（著名短跑运动员）\N{\fs10\i1}No further: I am not Jesse Owens.
+Dialogue: 0,0:26:39.08,0:26:41.16,*Default,NTP,0000,0000,0000,,- 蓝灯，基斯 - 我负责发信号\N{\fs10\i1}Blue, Kees. - And I give the signs.
+Dialogue: 0,0:26:41.16,0:26:44.33,*Default,NTP,0000,0000,0000,,还有其它问题么？ 把松子酒递给我\N{\fs10\i1}Any further questions? Then pass on the gin.
+Dialogue: 0,0:26:44.83,0:26:47.13,*Default,NTP,0000,0000,0000,,我做什么工作呢？\N{\fs10\i1}And what's my job in this boys club?
+Dialogue: 0,0:26:47.17,0:26:49.92,*Default,NTP,0000,0000,0000,,你扮作我的未婚妻 适时地亲吻几下\N{\fs10\i1}You can play my fiancee. Just kissing around somewhat.
+Dialogue: 0,0:26:49.92,0:26:53.09,*Default,NTP,0000,0000,0000,,你们扮作夫妇 这样德国佬就不会过多注意你们\N{\fs10\i1}You'll be playing a couple. So the krauts won't be paying attention.
+Dialogue: 0,0:26:53.26,0:26:56.34,*Default,NTP,0000,0000,0000,,只是亲吻？\N{\fs10\i1}Just kissing? That's all?
+Dialogue: 0,0:26:56.93,0:26:58.93,*Default,NTP,0000,0000,0000,,小伙子们\N{\fs10\i1}Boys.
+Dialogue: 0,0:26:58.93,0:27:02.10,*Default,NTP,0000,0000,0000,,为了女王！\N{\fs10\i1}To the queen.
+Dialogue: 0,0:27:05.94,0:27:09.02,*Default,NTP,0000,0000,0000,,为了威廉敏娜（荷兰女王），蒂姆 你这个共产主义佬\N{\fs10\i1}To Wilhelmina, Tim. You old communist.
+Dialogue: 0,0:27:10.27,0:27:13.36,*Default,NTP,0000,0000,0000,,干杯！\N{\fs10\i1}Cheers.
+Dialogue: 0,0:27:20.53,0:27:23.70,*Default,NTP,0000,0000,0000,,还有一分钟，我们开始\N{\fs10\i1}One minute to go. Let's begin.
+Dialogue: 0,0:27:46.98,0:27:50.15,*Default,NTP,0000,0000,0000,,好了，你能拿一下么？\N{\fs10\i1}Okay, can you take this?
+Dialogue: 0,0:28:09.92,0:28:12.54,*Default,NTP,0000,0000,0000,,巧克力 有2年没吃到过了\N{\fs10\i1}Chocolate. Haven't had this for 2 years.
+Dialogue: 0,0:28:12.59,0:28:16.87,*Default,NTP,0000,0000,0000,,艾莉丝，你明天携带这个箱子 小心些，里面有无线电装置\N{\fs10\i1}Ellis, you'll be carrying this tomorrow. Be careful, there's radio equipment in there.
+Dialogue: 0,0:28:17.34,0:28:19.47,*Default,NTP,0000,0000,0000,,音乐，太好了 我们是要跳舞么？\N{\fs10\i1}Music, nice. Are we going to swing?
+Dialogue: 0,0:28:19.51,0:28:21.16,*Default,NTP,0000,0000,0000,,是一个接收机\N{\fs10\i1}A transmitter receiver.
+Dialogue: 0,0:28:21.18,0:28:23.85,*Default,NTP,0000,0000,0000,,我要去党卫队保安部的 总部里放置一个窃听器\N{\fs10\i1}I am going to plant a microphone in the head office of the SD.
+Dialogue: 0,0:28:23.85,0:28:28.14,*Default,NTP,0000,0000,0000,,- 但那里防卫很严，不是吗？ - 我是电话公司的维修技术员\N{\fs10\i1}But that's heavily guarded, right? - I am a maintenance technician at the phone company.
+Dialogue: 0,0:28:28.14,0:28:31.12,*Default,NTP,0000,0000,0000,,德国佬一直需要我们 我可以自由进出，没问题\N{\fs10\i1}The krauts need us all the time. I can walk in and out, no problem.
+Dialogue: 0,0:28:31.19,0:28:34.46,*Default,NTP,0000,0000,0000,,一切都准备好了 就在等这个呢\N{\fs10\i1}Everything's prepared. I was just waiting for this.
+Dialogue: 0,0:28:34.53,0:28:37.61,*Default,NTP,0000,0000,0000,,- 我的东西也在里面吗？ - 这里\N{\fs10\i1}Is my stuff in there too? - Here.
+Dialogue: 0,0:28:39.36,0:28:41.41,*Default,NTP,0000,0000,0000,,我不能拿着它过街\N{\fs10\i1}I can't take this across the street.
+Dialogue: 0,0:28:41.45,0:28:43.91,*Default,NTP,0000,0000,0000,,上面写着英语“小心搬运”\N{\fs10\i1}'Handle with care' it says.
+Dialogue: 0,0:28:43.95,0:28:46.08,*Default,NTP,0000,0000,0000,,办公室里还有些手提箱\N{\fs10\i1}There's still some suitcases left in the office.
+Dialogue: 0,0:28:49.96,0:28:51.75,*Default,NTP,0000,0000,0000,,开始装货，伙计们\N{\fs10\i1}Start loading up, guys.
+Dialogue: 0,0:28:57.88,0:29:01.97,*Default,NTP,0000,0000,0000,,举起手来！ 不许动！\N{\fs10\i1}Hands up. Don't move.
+Dialogue: 0,0:29:31.75,0:29:35.17,*Default,NTP,0000,0000,0000,,我的上帝，我们杀了5个人 我们都做了些什么啊？\N{\fs10\i1}Oh my god, we took 5 lives. What have we done?
+Dialogue: 0,0:29:35.17,0:29:37.17,*Default,NTP,0000,0000,0000,,不是他们死就是我们死，提欧\N{\fs10\i1}It was them or us, Theo.
+Dialogue: 0,0:29:37.17,0:29:40.56,*Default,NTP,0000,0000,0000,,开始装车，我们得马上离开 我去看着外面\N{\fs10\i1}Let's load up, we have to leave. I'll check outside.
+Dialogue: 0,0:29:40.59,0:29:44.32,*Default,NTP,0000,0000,0000,,天哪，汉斯真是个冷血杀手\N{\fs10\i1}Goddamn. He's such a cold one, Hans.
+Dialogue: 0,0:29:44.35,0:29:47.43,*Default,NTP,0000,0000,0000,,- 他是最棒的神射手 - 如果他没击中…\N{\fs10\i1}He's a top marksman. - And if he had missed…
+Dialogue: 0,0:29:47.43,0:29:50.90,*Default,NTP,0000,0000,0000,,他不会失手 汉斯是“爱国者”里最好的射手\N{\fs10\i1}He never misses. Hans was the best marksman of Pro Patria.
+Dialogue: 0,0:29:51.02,0:29:53.60,*Default,NTP,0000,0000,0000,,- 那是什么？ - 一个学生射击俱乐部\N{\fs10\i1}What's that? - A student shooting club.
+Dialogue: 0,0:29:53.60,0:29:58.26,*Default,NTP,0000,0000,0000,,学生神射手俱乐部 汉斯，玛登和我都是会员\N{\fs10\i1}THE student marksman club. Hans, Maarten and me were members.
+Dialogue: 0,0:29:58.28,0:30:00.40,*Default,NTP,0000,0000,0000,,我们一起工作 帮助犹太人\N{\fs10\i1}And we work together for helping the jews.
+Dialogue: 0,0:30:00.44,0:30:02.66,*Default,NTP,0000,0000,0000,,汉斯很了不起 他能帮你完成任何事\N{\fs10\i1}Hans is great, he'll get you through anything.
+Dialogue: 0,0:30:02.70,0:30:05.78,*Default,NTP,0000,0000,0000,,没发现德国佬 他们应该正忙着自己的事呢\N{\fs10\i1}No Kraut to be seen. They were working on their own.
+Dialogue: 0,0:30:06.45,0:30:08.70,*Default,NTP,0000,0000,0000,,脱下他们的军装 我们可以利用每样东西\N{\fs10\i1}Take off their uniforms. We can use everything.
+Dialogue: 0,0:30:08.70,0:30:10.45,*Default,NTP,0000,0000,0000,,我们可以给他们 一个基督教式的埋葬\N{\fs10\i1}We'll have to them a christian burial.
+Dialogue: 0,0:30:10.45,0:30:14.00,*Default,NTP,0000,0000,0000,,哦，是吗？ 这里有很多深坑，提欧\N{\fs10\i1}Oh yeah? There are lots of deep holes here, Theo.
+Dialogue: 0,0:30:14.04,0:30:17.21,*Default,NTP,0000,0000,0000,,你可以把他们都仍进去\N{\fs10\i1}You can throw'em in there by yourself.
+Dialogue: 0,0:30:41.15,0:30:43.65,*Default,NTP,0000,0000,0000,,那是我的枪，你在想什么啊\N{\fs10\i1}That's my gun. What did you think.
+Dialogue: 0,0:30:43.65,0:30:46.82,*Default,NTP,0000,0000,0000,,你又怎么知道我在想事情\N{\fs10\i1}What did you think, I was thinking?
+Dialogue: 0,0:30:47.24,0:30:50.33,*Default,NTP,0000,0000,0000,,检查！把证件都准备好\N{\fs10\i1}Check. Keep your ID's ready.
+Dialogue: 0,0:30:50.66,0:30:53.75,*Default,NTP,0000,0000,0000,,我们是恋人，对么？\N{\fs10\i1}We're in love right?
+Dialogue: 0,0:30:57.50,0:31:00.59,*Default,NTP,0000,0000,0000,,好吧…现在开始\N{\fs10\i1}Well.. here it goes.
+Dialogue: 0,0:31:08.01,0:31:11.18,*Default,NTP,0000,0000,0000,,打开所有的箱子\N{\fs10\i1}Open all suitcases.
+Dialogue: 0,0:31:13.85,0:31:17.69,*Default,NTP,0000,0000,0000,,我开枪引开他们，你去拉紧急制动 跳车逃跑，不要想其它的事\N{\fs10\i1}I'll shoot. You pull the emergency brake. Leave the train and run. Can't think of anything else.
+Dialogue: 0,0:31:18.69,0:31:22.74,*Default,NTP,0000,0000,0000,,离我远点，你这个混蛋\N{\fs10\i1}Stay away from me, you dirty bastard.
+Dialogue: 0,0:31:43.96,0:31:45.84,*Default,NTP,0000,0000,0000,,（德语）你好\N{\fs10\i1}(German:) good day.
+Dialogue: 0,0:31:45.88,0:31:48.97,*Default,NTP,0000,0000,0000,,- 可以帮你吗？ - 谢谢\N{\fs10\i1}Can I help you? - Thank you.
+Dialogue: 0,0:31:48.97,0:31:51.64,*Default,NTP,0000,0000,0000,,很重吧？\N{\fs10\i1}Heavy, huh?
+Dialogue: 0,0:31:51.64,0:31:54.81,*Default,NTP,0000,0000,0000,,漂亮女士可不应该提这么重的箱子\N{\fs10\i1}Beautiful ladies, should not carry heavy bags.
+Dialogue: 0,0:31:57.14,0:32:00.31,*Default,NTP,0000,0000,0000,,那是我的唱片和留声机\N{\fs10\i1}My records and my phonograph.
+Dialogue: 0,0:32:01.82,0:32:04.53,*Default,NTP,0000,0000,0000,,- 谢谢 - 你很喜欢音乐？\N{\fs10\i1}Thank you. -  You like music, very much?
+Dialogue: 0,0:32:04.57,0:32:07.66,*Default,NTP,0000,0000,0000,,- 那是我的职业 - 战前我是名歌手\N{\fs10\i1}That's my job. I used to be a singer, before the war.
+Dialogue: 0,0:32:09.57,0:32:12.66,*Default,NTP,0000,0000,0000,,- 艾莉丝·弗里斯 - 路德维希·蒙茨\N{\fs10\i1}Ellis de Vries. - Ludwig Müntze
+Dialogue: 0,0:32:17.50,0:32:20.67,*Default,NTP,0000,0000,0000,,打开你的箱子，证件\N{\fs10\i1}Open your suitcase. Papers.
+Dialogue: 0,0:32:27.42,0:32:29.34,*Default,NTP,0000,0000,0000,,很精彩吗？\N{\fs10\i1}Exciting?
+Dialogue: 0,0:32:29.34,0:32:32.51,*Default,NTP,0000,0000,0000,,非常精彩，对我来说\N{\fs10\i1}Very exciting. For me that is.
+Dialogue: 0,0:32:34.68,0:32:39.44,*Default,NTP,0000,0000,0000,,邮票啊 我从小就喜欢这个\N{\fs10\i1}Postage stamps. I loved those as a child.
+Dialogue: 0,0:32:39.52,0:32:42.69,*Default,NTP,0000,0000,0000,,- 这些都是异国邮票 - 我从6岁就开始收集邮票了\N{\fs10\i1}all those far away countries. - I collect them since I was six.
+Dialogue: 0,0:32:43.86,0:32:46.94,*Default,NTP,0000,0000,0000,,这可能正是我学习地理的原因\N{\fs10\i1}Probably why I studied geography.
+Dialogue: 0,0:32:48.11,0:32:49.78,*Default,NTP,0000,0000,0000,,检查\N{\fs10\i1}Inspection.
+Dialogue: 0,0:32:49.78,0:32:52.95,*Default,NTP,0000,0000,0000,,你没看到我正忙吗？ 去查下一个\N{\fs10\i1}Can't you see I'm busy? Move along.
+Dialogue: 0,0:32:53.62,0:32:55.20,*Default,NTP,0000,0000,0000,,是，上尉\N{\fs10\i1}Yes, captain.
+Dialogue: 0,0:32:59.62,0:33:02.71,*Default,NTP,0000,0000,0000,,我可以看看吗？ 我保证很小心\N{\fs10\i1}Can I look? I'll be very gentle.
+Dialogue: 0,0:33:07.38,0:33:10.47,*Default,NTP,0000,0000,0000,,波兰…法国…\N{\fs10\i1}Polski… France…
+Dialogue: 0,0:33:11.47,0:33:14.56,*Default,NTP,0000,0000,0000,,我总会收集 我驻扎过的国家的邮票\N{\fs10\i1}I always collect the countries where I am stationed.
+Dialogue: 0,0:33:14.56,0:33:18.73,*Default,NTP,0000,0000,0000,,首先是波兰，然后法国 现在这里\N{\fs10\i1}First Poland, then France and now here.
+Dialogue: 0,0:33:21.15,0:33:23.55,*Default,NTP,0000,0000,0000,,你在我们的女王这里停下来了\N{\fs10\i1}You've stopped with our queen.
+Dialogue: 0,0:33:23.56,0:33:28.22,*Default,NTP,0000,0000,0000,,荷属印度群岛的 威廉敏娜邮票\N{\fs10\i1}The Wilhelmina stamps from the dutch Indies.
+Dialogue: 0,0:33:28.24,0:33:33.41,*Default,NTP,0000,0000,0000,,我不知道是否还能够收集全\N{\fs10\i1}I don't know if I'll ever get them complete.
+Dialogue: 0,0:33:49.92,0:33:53.01,*Default,NTP,0000,0000,0000,,上尉，这里\N{\fs10\i1}Hauptsturmfürer, over here.
+Dialogue: 0,0:33:54.43,0:33:57.60,*Default,NTP,0000,0000,0000,,不，那些是我的东西\N{\fs10\i1}No, these are mine.
+Dialogue: 0,0:34:01.19,0:34:04.27,*Default,NTP,0000,0000,0000,,非常愿意送你回家 这样就不用你自己拿了\N{\fs10\i1}I'd be glad to take you home. So you don't have to carry them.
+Dialogue: 0,0:34:04.52,0:34:07.69,*Default,NTP,0000,0000,0000,,不用了 有人接我的，非常感谢\N{\fs10\i1}That's not necessary. I am being picked up. Thank you very much.
+Dialogue: 0,0:34:10.86,0:34:14.99,*Default,NTP,0000,0000,0000,,也许我们还会见面\N{\fs10\i1}Maybe I'll see you around.
+Dialogue: 0,0:34:15.03,0:34:19.16,*Default,NTP,0000,0000,0000,,希望如此 再见\N{\fs10\i1}I'd like that. Good bye.
+Dialogue: 0,0:34:37.56,0:34:40.72,*Default,NTP,0000,0000,0000,,- 你真会调情啊 - 是吗\N{\fs10\i1}You flirt very easy. Yes, well men…
+Dialogue: 0,0:34:41.89,0:34:44.40,*Default,NTP,0000,0000,0000,,- 他叫蒙茨，人还不错\N{\fs10\i1}Müntze, he's called. Quite a nice guy.
+Dialogue: 0,0:34:44.40,0:34:48.86,*Default,NTP,0000,0000,0000,,党卫队保安部的头目 抵抗组织很多人都死于他手\N{\fs10\i1}Chief of the SD. Because of him lots of people of the resistance have died.
+Dialogue: 0,0:34:49.07,0:34:51.69,*Default,NTP,0000,0000,0000,,那种人也会收集邮票？\N{\fs10\i1}And a man like that collects stamps?
+Dialogue: 0,0:34:51.74,0:34:54.82,*Default,NTP,0000,0000,0000,,如果战后他被送上刑场 我会很高兴说：开枪！\N{\fs10\i1}If he ever faces the wall after the war, I'll be glad to say: Fire.
+Dialogue: 0,0:34:55.49,0:34:56.45,*Default,NTP,0000,0000,0000,,- 小心 - 对不起\N{\fs10\i1}Watch out. - Sorry.
+Dialogue: 0,0:35:15.68,0:35:18.76,*Default,NTP,0000,0000,0000,,看，他找到一些\N{\fs10\i1}Look, he found something.
+Dialogue: 0,0:35:20.85,0:35:22.18,*Default,NTP,0000,0000,0000,,小心！\N{\fs10\i1}Watch it.
+Dialogue: 0,0:35:32.53,0:35:34.61,*Default,NTP,0000,0000,0000,,葛本先生，是我们的汽车\N{\fs10\i1}Mr. Gerben, it's our car.
+Dialogue: 0,0:35:38.57,0:35:40.91,*Default,NTP,0000,0000,0000,,不要碰那些！\N{\fs10\i1}Don't touch that.
+Dialogue: 0,0:35:41.16,0:35:44.29,*Default,NTP,0000,0000,0000,,- 弄开，快！ - 卡住了\N{\fs10\i1}Open up. OPEN. - It's jammed.
+Dialogue: 0,0:35:54.88,0:35:58.05,*Default,NTP,0000,0000,0000,,天啊\N{\fs10\i1}Jesus.
+Dialogue: 0,0:36:02.72,0:36:05.02,*Default,NTP,0000,0000,0000,,他们发现了武器！\N{\fs10\i1}They've seen the weapons.
+Dialogue: 0,0:36:08.27,0:36:11.40,*Default,NTP,0000,0000,0000,,快出来，跑！\N{\fs10\i1}Get out. Run.
+Dialogue: 0,0:36:12.57,0:36:15.65,*Default,NTP,0000,0000,0000,,嘿，站住！\N{\fs10\i1}Hey, stop there.
+Dialogue: 0,0:36:43.35,0:36:45.64,*Default,NTP,0000,0000,0000,,- 葛本 - 该死的\N{\fs10\i1}Gerben. - God damn.
+Dialogue: 0,0:36:45.68,0:36:48.06,*Default,NTP,0000,0000,0000,,葛本！\N{\fs10\i1}Gerben.
+Dialogue: 0,0:36:48.10,0:36:51.19,*Default,NTP,0000,0000,0000,,- 太晚了，他们会抓住你的 - 那是我儿子！\N{\fs10\i1}You're too late. They'll get you. - He's my son.
+Dialogue: 0,0:36:51.36,0:36:54.83,*Default,NTP,0000,0000,0000,,他们抓住你的话我们就都完了 你知道太多，他们会拷问出来的\N{\fs10\i1}If they get you, we're all fucked. You know too much: They'll beat it out of you.
+Dialogue: 0,0:36:54.86,0:36:58.03,*Default,NTP,0000,0000,0000,,凯普斯先生，我们无能为力\N{\fs10\i1}Mr. Kuipers, there's nothing more we can do.
+Dialogue: 0,0:37:15.00,0:37:20.76,*Default,NTP,0000,0000,0000,,把所有东西都带到赛伦提默 艾莉丝，你带上那些装空投物资的手提箱\N{\fs10\i1}Here, take everything to Silentium. Ellis, you take the suitcases of the dropping.
+Dialogue: 0,0:37:20.89,0:37:24.05,*Default,NTP,0000,0000,0000,,汉斯，给他们打电话 告诉他们我们这里已经暴露了\N{\fs10\i1}Here Hans, call them. Tell them there's a contamination here.
+Dialogue: 0,0:37:24.14,0:37:28.27,*Default,NTP,0000,0000,0000,,这要感谢那个叫蒙茨的混蛋 现在蒂姆被抓了\N{\fs10\i1}Thanks to that arse called Müntze, they now have Tim.
+Dialogue: 0,0:37:28.56,0:37:31.27,*Default,NTP,0000,0000,0000,,等下\N{\fs10\i1}Wait a minute.
+Dialogue: 0,0:37:31.31,0:37:34.30,*Default,NTP,0000,0000,0000,,请告诉他们汤馆现在关门了\N{\fs10\i1}Please tell'em the soup kitchen is now closed.
+Dialogue: 0,0:37:34.73,0:37:39.19,*Default,NTP,0000,0000,0000,,你在火车上遇到蒙茨的，对吧？\N{\fs10\i1}You met this Müntze in the train, right?
+Dialogue: 0,0:37:40.49,0:37:44.57,*Default,NTP,0000,0000,0000,,- 他有些喜欢你吧 - 那杂种喜欢上她了\N{\fs10\i1}And he kinda liked you. The bastard, adored her.
+Dialogue: 0,0:37:44.83,0:37:47.75,*Default,NTP,0000,0000,0000,,不要那么敏感\N{\fs10\i1}Oh don't overreact.
+Dialogue: 0,0:37:47.75,0:37:52.92,*Default,NTP,0000,0000,0000,,他给我看他的邮票 他正收集威廉敏娜的邮票\N{\fs10\i1}He showed me his stamps. He's collecting Wilhelmina.
+Dialogue: 0,0:37:56.09,0:37:58.76,*Default,NTP,0000,0000,0000,,你愿意和他接触到什么程度？\N{\fs10\i1}How far, would you be willing to go with him.
+Dialogue: 0,0:37:58.76,0:38:01.76,*Default,NTP,0000,0000,0000,,什么程度？\N{\fs10\i1}How far?
+Dialogue: 0,0:38:01.76,0:38:04.60,*Default,NTP,0000,0000,0000,,- 你是说跟他上床？ - 这样说太不雅了\N{\fs10\i1}You mean: Sleep with him? That's a rude way of saying it.
+Dialogue: 0,0:38:04.60,0:38:08.77,*Default,NTP,0000,0000,0000,,我希望说清楚 你是那个意思吧？\N{\fs10\i1}I like things to be clear. Is that what you mean?
+Dialogue: 0,0:38:09.27,0:38:13.44,*Default,NTP,0000,0000,0000,,你能做到什么程度？ 为了蒂姆，还有其他人\N{\fs10\i1}How far would you go? For Tim. For the others.
+Dialogue: 0,0:38:21.49,0:38:26.37,*Default,NTP,0000,0000,0000,,只要蒙茨愿意的话 我都做，可以不？\N{\fs10\i1}As far as Müntze is willing to go. OK?
+Dialogue: 0,0:38:28.24,0:38:31.29,*Default,NTP,0000,0000,0000,,真是罪恶 死人裹新装，活人穿旧衣\N{\fs10\i1}a deadly sin: A good suit for a dead body, while everyone else walks in rags.
+Dialogue: 0,0:38:31.29,0:38:34.12,*Default,NTP,0000,0000,0000,,- 顾客就是上帝 - 她把箱子放哪里了？\N{\fs10\i1}The customer remains king. Where did she put the suitcase?
+Dialogue: 0,0:38:34.12,0:38:37.71,*Default,NTP,0000,0000,0000,,那边，办公室里\N{\fs10\i1}Over there, in the office.
+Dialogue: 0,0:38:49.89,0:38:52.77,*Default,NTP,0000,0000,0000,,你考虑到了每个细节 都是为了那个混蛋德国佬\N{\fs10\i1}You think of everything. And that for that fucking kraut.
+Dialogue: 0,0:38:52.77,0:38:55.47,*Default,NTP,0000,0000,0000,,走开，不关你的事\N{\fs10\i1}Go away. This is none of you business.
+Dialogue: 0,0:38:55.48,0:38:59.88,*Default,NTP,0000,0000,0000,,- 火车上遇险后，也许可以有点… - 不，一点也不行\N{\fs10\i1}After the train incident, maybe a little? No, not even a little.
+Dialogue: 0,0:38:59.98,0:39:02.88,*Default,NTP,0000,0000,0000,,好吧，我是来拿手提箱的\N{\fs10\i1}Alright. I am here for the suitcase.
+Dialogue: 0,0:39:02.90,0:39:05.20,*Default,NTP,0000,0000,0000,,那儿\N{\fs10\i1}Over there.
+Dialogue: 0,0:39:12.86,0:39:15.75,*Default,NTP,0000,0000,0000,,该死的，都湿透了\N{\fs10\i1}Goddamn. It's soaking wet.
+Dialogue: 0,0:39:15.75,0:39:18.67,*Default,NTP,0000,0000,0000,,- 碎了？ - 希望没有，是胰岛素\N{\fs10\i1}It broke? - I hope not. It's insuline.
+Dialogue: 0,0:39:18.67,0:39:21.94,*Default,NTP,0000,0000,0000,,有些人必须要靠它 那些糖尿病人，如果没有胰岛素的话…\N{\fs10\i1}There's a dying need for that. Imagine a diabetic, without his insuline…
+Dialogue: 0,0:39:22.01,0:39:25.26,*Default,NTP,0000,0000,0000,,- 那他就得说再见了 - 告诉我详情\N{\fs10\i1}…he can say bye bye. - Tell me about it.
+Dialogue: 0,0:39:25.26,0:39:27.85,*Default,NTP,0000,0000,0000,,你也有糖尿病？ 我倒是没注意\N{\fs10\i1}You have it as well? I never noticed.
+Dialogue: 0,0:39:27.85,0:39:30.81,*Default,NTP,0000,0000,0000,,不，我很健康\N{\fs10\i1}No I don't. I am healthy.
+Dialogue: 0,0:39:30.81,0:39:33.87,*Default,NTP,0000,0000,0000,,别看了！\N{\fs10\i1}Stop watching.
+Dialogue: 0,0:39:35.19,0:39:39.17,*Default,NTP,0000,0000,0000,,剧团里有个患糖尿病的喜剧演员 每次演出前都要进行注射\N{\fs10\i1}At the revue, there was diabetic comedian. He always injected before a performance.
+Dialogue: 0,0:39:39.19,0:39:42.56,*Default,NTP,0000,0000,0000,,如果注射过多的话，他还得 吃一堆巧克力，真是受罪\N{\fs10\i1}Then he had to eat a lot of chocolate, if he injected too much. A never ending bother.
+Dialogue: 0,0:39:42.69,0:39:45.77,*Default,NTP,0000,0000,0000,,是啊，但总比痛苦死去要好\N{\fs10\i1}Yes, but still better than dying of pain.
+Dialogue: 0,0:39:45.78,0:39:48.98,*Default,NTP,0000,0000,0000,,这些英国货 至少一半都碎了\N{\fs10\i1}British bastards. At least half of it is broken.
+Dialogue: 0,0:39:49.32,0:39:51.49,*Default,NTP,0000,0000,0000,,医院可要高兴了\N{\fs10\i1}The hospital will be happy with that.
+Dialogue: 0,0:39:51.87,0:39:53.49,*Default,NTP,0000,0000,0000,,你要胰岛素干吗？\N{\fs10\i1}…………
+Dialogue: 0,0:39:54.29,0:39:58.42,*Default,NTP,0000,0000,0000,,不要问了 我也不会泄漏什么秘密\N{\fs10\i1}Don't ask, so I can't give away any secrets.
+Dialogue: 0,0:40:06.22,0:40:12.60,*Default,NTP,0000,0000,0000,,扎到了，医生 好痛，好痛\N{\fs10\i1}It stings, doctor. It stings, It stings, It stings,
+Dialogue: 0,0:40:14.73,0:40:17.81,*Default,NTP,0000,0000,0000,,要不要医生看一眼啊？\N{\fs10\i1}Shall the doctor have a look at it?
+Dialogue: 0,0:40:29.74,0:40:32.87,*Default,NTP,0000,0000,0000,,这样我还是第一个尝鲜啊\N{\fs10\i1}So I am still the first one.
+Dialogue: 0,0:40:38.25,0:40:40.21,*Default,NTP,0000,0000,0000,,进来\N{\fs10\i1}Yes?
+Dialogue: 0,0:40:41.67,0:40:45.76,*Default,NTP,0000,0000,0000,,威姆，那个女孩又来了 这回她看起来像是简·哈洛（女演员）\N{\fs10\i1}Wim, the girl is here again. This time she looks like Jean Harlow.
+Dialogue: 0,0:40:50.43,0:40:53.34,*Default,NTP,0000,0000,0000,,瑞秋，你回来了？\N{\fs10\i1}Rachel. You're back?
+Dialogue: 0,0:40:53.35,0:40:56.18,*Default,NTP,0000,0000,0000,,我们没能越过俾斯伯士河\N{\fs10\i1}We never got any further than the Biesbosch.
+Dialogue: 0,0:40:56.18,0:40:59.35,*Default,NTP,0000,0000,0000,,你的父母和马科斯… 他们和你一起的，不是吗？\N{\fs10\i1}And your parents and Max… They joined you didn't they?
+Dialogue: 0,0:40:59.94,0:41:03.02,*Default,NTP,0000,0000,0000,,我们突然遇到德国人的巡逻船…\N{\fs10\i1}Suddenly there was a patrol boat of the krauts and..
+Dialogue: 0,0:41:06.03,0:41:09.20,*Default,NTP,0000,0000,0000,,真不幸\N{\fs10\i1}Stupid coincedence
+Dialogue: 0,0:41:18.91,0:41:22.04,*Default,NTP,0000,0000,0000,,奇怪，他们都死了 我却哭不出来\N{\fs10\i1}Strange. Everybody's dead and I can't cry for them.
+Dialogue: 0,0:41:30.38,0:41:33.47,*Default,NTP,0000,0000,0000,,- 谁带你们过去的？ - 一个船长，我想他也死了\N{\fs10\i1}Who fared you over? - A skipper. Also dead, I think.
+Dialogue: 0,0:41:35.43,0:41:39.06,*Default,NTP,0000,0000,0000,,但总有人把你们带到 俾斯伯士河，对吗？\N{\fs10\i1}But someone brought you to the Biesbosch, right?
+Dialogue: 0,0:41:39.06,0:41:40.06,*Default,NTP,0000,0000,0000,,一个地下组织的人\N{\fs10\i1}A man from the underground.
+Dialogue: 0,0:41:41.15,0:41:42.31,*Default,NTP,0000,0000,0000,,是谁？\N{\fs10\i1}Who was that?
+Dialogue: 0,0:41:43.23,0:41:45.07,*Default,NTP,0000,0000,0000,,范·亨，我记得别人这么叫他\N{\fs10\i1}van Gein, he was called I think.
+Dialogue: 0,0:41:47.82,0:41:50.91,*Default,NTP,0000,0000,0000,,我深表同情\N{\fs10\i1}Disgusting. My sympathies.
+Dialogue: 0,0:41:54.58,0:41:57.75,*Default,NTP,0000,0000,0000,,我要去为女王和国家作些事\N{\fs10\i1}I am supposed to work for queen and country
+Dialogue: 0,0:41:58.75,0:42:01.92,*Default,NTP,0000,0000,0000,,去接近一个党卫队保卫部的高级官员\N{\fs10\i1}… by getting friendly with a high ranking SD- Officer.
+Dialogue: 0,0:42:04.00,0:42:06.78,*Default,NTP,0000,0000,0000,,甚至可能和他上床\N{\fs10\i1}maybe even sleep with him.
+Dialogue: 0,0:42:06.96,0:42:10.09,*Default,NTP,0000,0000,0000,,那你就要靠你自己了 无法帮助你\N{\fs10\i1}You're on your own with that. Can't help you with that.
+Dialogue: 0,0:42:11.51,0:42:14.60,*Default,NTP,0000,0000,0000,,不\N{\fs10\i1}No.
+Dialogue: 0,0:42:15.93,0:42:19.10,*Default,NTP,0000,0000,0000,,也许这里的某样东西可以帮到我\N{\fs10\i1}But maybe there's something in here, that can help me.
+Dialogue: 0,0:42:35.53,0:42:38.37,*Default,NTP,0000,0000,0000,,我是来见蒙茨上尉的\N{\fs10\i1}I am here to see captain Müntze
+Dialogue: 0,0:42:38.37,0:42:40.12,*Default,NTP,0000,0000,0000,,真的？什么事情？\N{\fs10\i1}really and why?
+Dialogue: 0,0:42:40.12,0:42:43.29,*Default,NTP,0000,0000,0000,,是关于皇宫的事 关于女王威廉敏娜本人\N{\fs10\i1}It's about the royal house. Queen Wilhelmina in person.
+Dialogue: 0,0:42:50.88,0:42:53.09,*Default,NTP,0000,0000,0000,,送她去蒙茨上尉那里\N{\fs10\i1}send her to captain Müntze
+Dialogue: 0,0:43:09.78,0:43:12.90,*Default,NTP,0000,0000,0000,,请稍坐一会，他马上就来\N{\fs10\i1}You are being expected. Wait over there.
+Dialogue: 0,0:43:30.34,0:43:33.01,*Default,NTP,0000,0000,0000,,弗里斯小姐\N{\fs10\i1}Ms. de Vries..
+Dialogue: 0,0:43:33.01,0:43:37.14,*Default,NTP,0000,0000,0000,,真是个惊喜 我肯定是交了什么好运气\N{\fs10\i1}What a surprise. To what do I owe the pleasure?
+Dialogue: 0,0:43:37.34,0:43:41.81,*Default,NTP,0000,0000,0000,,我在荷属印度群岛的 亲戚常常写信联系\N{\fs10\i1}I have family in the dutch Indies. They always wrote.
+Dialogue: 0,0:43:41.85,0:43:45.69,*Default,NTP,0000,0000,0000,,我母亲一直留着这些信 我就把邮票弄下来给你带来了\N{\fs10\i1}My mother kept the letters. I have softened the stamps off for you.
+Dialogue: 0,0:43:46.19,0:43:49.66,*Default,NTP,0000,0000,0000,,用水蒸汽弄下来的\N{\fs10\i1}with steam.
+Dialogue: 0,0:43:49.69,0:43:53.82,*Default,NTP,0000,0000,0000,,太棒了\N{\fs10\i1}Amazing.
+Dialogue: 0,0:43:56.45,0:43:59.41,*Default,NTP,0000,0000,0000,,漂亮，真漂亮\N{\fs10\i1}beautiful, very nice.
+Dialogue: 0,0:43:59.47,0:44:01.21,*Default,NTP,0000,0000,0000,,你好\N{\fs10\i1}Good day.
+Dialogue: 0,0:44:01.41,0:44:05.54,*Default,NTP,0000,0000,0000,,放那边吧，罗妮 我可不想弄脏了这些漂亮邮票\N{\fs10\i1}Put it over there, Ronnie. I don't want to damage these lovely stamps.
+Dialogue: 0,0:44:05.58,0:44:09.71,*Default,NTP,0000,0000,0000,,- 我帮你倒水吗？ - 不用了，我自己来吧\N{\fs10\i1}Shall I serve you? - No don't bother, I'll do that.
+Dialogue: 0,0:44:14.05,0:44:16.97,*Default,NTP,0000,0000,0000,,尝尝那些巧克力，英国的\N{\fs10\i1}Take some of the chocolate. British.
+Dialogue: 0,0:44:16.97,0:44:20.14,*Default,NTP,0000,0000,0000,,偶然弄到的\N{\fs10\i1}We got them by chance.
+Dialogue: 0,0:44:26.81,0:44:28.15,*Default,NTP,0000,0000,0000,,吃吧\N{\fs10\i1}Take some.
+Dialogue: 0,0:44:33.07,0:44:34.94,*Default,NTP,0000,0000,0000,,你这些邮票原来都留着干吗的\N{\fs10\i1}What were you planning to do with these stamps.
+Dialogue: 0,0:44:34.99,0:44:38.07,*Default,NTP,0000,0000,0000,,没什么啊，就是在我的抽屉里放着\N{\fs10\i1}Nothing special, they were in a drawer in my place.
+Dialogue: 0,0:44:40.07,0:44:42.96,*Default,NTP,0000,0000,0000,,差不多都是我所没有的 威廉敏娜邮票\N{\fs10\i1}Almost all the Wilhelmina stamps I don't have
+Dialogue: 0,0:44:43.37,0:44:48.08,*Default,NTP,0000,0000,0000,,如果你喜欢 就全部给你吧\N{\fs10\i1}If you see anything of interest, take it.
+Dialogue: 0,0:44:51.34,0:44:55.17,*Default,NTP,0000,0000,0000,,谢谢你 太感谢了\N{\fs10\i1}Thank you. I appreciate it.
+Dialogue: 0,0:44:58.47,0:44:59.05,*Default,NTP,0000,0000,0000,,进来\N{\fs10\i1}Yes.
+Dialogue: 0,0:45:01.10,0:45:04.22,*Default,NTP,0000,0000,0000,,关上门\N{\fs10\i1}close the door.
+Dialogue: 0,0:45:04.47,0:45:07.43,*Default,NTP,0000,0000,0000,,上尉，您的车准备好了\N{\fs10\i1}Captain, your car is ready.
+Dialogue: 0,0:45:07.43,0:45:11.23,*Default,NTP,0000,0000,0000,,已经好了？ 请帮我拿上帽子和大衣\N{\fs10\i1}Already? Take my hat and coat please.
+Dialogue: 0,0:45:12.06,0:45:16.78,*Default,NTP,0000,0000,0000,,真糟糕，要工作了 我还没来得及挑选呢\N{\fs10\i1}Too bad, duty calls. I haven't been able to choose yet.
+Dialogue: 0,0:45:16.78,0:45:18.24,*Default,NTP,0000,0000,0000,,那就都留在你这里吧\N{\fs10\i1}Then I'll leave them here.
+Dialogue: 0,0:45:21.70,0:45:23.53,*Default,NTP,0000,0000,0000,,谢谢\N{\fs10\i1}Thank you.
+Dialogue: 0,0:45:25.37,0:45:28.54,*Default,NTP,0000,0000,0000,,我觉得我吃了太多的巧克力 这不好吧？\N{\fs10\i1}I think I ate too much chocolate. Is that bad?
+Dialogue: 0,0:45:29.04,0:45:30.79,*Default,NTP,0000,0000,0000,,我不是每天都能吃到的\N{\fs10\i1}I don't get it everyday.
+Dialogue: 0,0:45:30.83,0:45:33.96,*Default,NTP,0000,0000,0000,,我要去参加一个聚会 那有更多好吃的\N{\fs10\i1}I have to go to a party. There will be much more to eat there.
+Dialogue: 0,0:45:35.13,0:45:39.72,*Default,NTP,0000,0000,0000,,你回家带上你的唱片和留声机 然后和我一起去，怎么样？\N{\fs10\i1}What if you could go home and pick up your phonograph and records and join me?
+Dialogue: 0,0:45:40.72,0:45:42.68,*Default,NTP,0000,0000,0000,,我来自己唱怎么样？\N{\fs10\i1}How about I sing?
+Dialogue: 0,0:45:42.72,0:45:43.97,*Default,NTP,0000,0000,0000,,那更好\N{\fs10\i1}Even better.
+Dialogue: 0,0:46:07.66,0:46:13.42,*Default,NTP,0000,0000,0000,,没有海牙的保安部 我们是不可能成功的\N{\fs10\i1}Without the SD from The Hague. All our successes had not been possible.
+Dialogue: 0,0:46:13.92,0:46:17.00,*Default,NTP,0000,0000,0000,,你们和恐怖分子的斗争 就是我们的斗争\N{\fs10\i1}Your fight against the terrorists is our fight.
+Dialogue: 0,0:46:17.50,0:46:21.59,*Default,NTP,0000,0000,0000,,我们将和元首一起 为一个自由的欧洲而战！\N{\fs10\i1}With the Fürer we fight for a free europe.
+Dialogue: 0,0:46:27.51,0:46:28.56,*Default,NTP,0000,0000,0000,,希特勒万岁\N{\fs10\i1}Heil Hitler.
+Dialogue: 0,0:46:29.85,0:46:31.81,*Default,NTP,0000,0000,0000,,希特勒万岁\N{\fs10\i1}Heil Hitler.
+Dialogue: 0,0:46:34.69,0:46:37.78,*Default,NTP,0000,0000,0000,,开始奏乐，富兰肯\N{\fs10\i1}And now music. Franken.
+Dialogue: 0,0:46:45.62,0:46:52.71,*Default,NTP,0000,0000,0000,,＂旗帜飘扬 看我们队伍多雄壮＂\N{\fs10\i1}# die Fahne hoch die Reihen fest sind geschIossen
+Dialogue: 0,0:46:53.21,0:46:59.88,*Default,NTP,0000,0000,0000,,＂突击队前进 脚步坚定从容＂\N{\fs10\i1}# SA marschiert mit ruhig festem Schritt
+Dialogue: 0,0:46:59.88,0:47:07.18,*Default,NTP,0000,0000,0000,,＂倒在赤色分子枪口下的同志们＂\N{\fs10\i1}# Kam'raden, die Rotfront und Reaktion erschossen
+Dialogue: 0,0:47:07.64,0:47:14.44,*Default,NTP,0000,0000,0000,,＂你们的精神与我们同行 与队伍同行＂\N{\fs10\i1}# marschier'n im Geist in unser'n Reihen mit
+Dialogue: 0,0:47:14.81,0:47:22.15,*Default,NTP,0000,0000,0000,,＂倒在赤色分子枪口下的同志们＂\N{\fs10\i1}# Kam'raden, die Rotfront und Reaktion erschossen
+Dialogue: 0,0:47:22.15,0:47:29.08,*Default,NTP,0000,0000,0000,,＂你们的精神与我们同行 与队伍同行＂\N{\fs10\i1}# marschier'n im Geist in unser'n Reihen mit
+Dialogue: 0,0:47:45.68,0:47:48.76,*Default,NTP,0000,0000,0000,,弗里斯小姐？\N{\fs10\i1}Ms. de Vries?
+Dialogue: 0,0:48:03.44,0:48:04.86,*Default,NTP,0000,0000,0000,,你没事吧？\N{\fs10\i1}Everything OK?
+Dialogue: 0,0:48:04.86,0:48:08.03,*Default,NTP,0000,0000,0000,,香槟酒闹的\N{\fs10\i1}The champagne didn't go down well.
+Dialogue: 0,0:48:08.20,0:48:10.91,*Default,NTP,0000,0000,0000,,我现在是一点酒都不能沾\N{\fs10\i1}I am not used to any alcohol anymore.
+Dialogue: 0,0:48:10.95,0:48:14.04,*Default,NTP,0000,0000,0000,,但是，现在又好了\N{\fs10\i1}But, I'm alright now.
+Dialogue: 0,0:48:18.38,0:48:19.92,*Default,NTP,0000,0000,0000,,要不要我唱歌啊？\N{\fs10\i1}Shall I sing some?
+Dialogue: 0,0:48:26.38,0:48:30.93,*Default,NTP,0000,0000,0000,,将军，女士们，先生们\N{\fs10\i1}General, ladies and gentlemen…
+Dialogue: 0,0:48:30.93,0:48:34.89,*Default,NTP,0000,0000,0000,,很荣幸向你们介绍 艾莉丝·弗里斯\N{\fs10\i1}It is my great honour to present you Ellis de Vries.
+Dialogue: 0,0:48:35.06,0:48:36.77,*Default,NTP,0000,0000,0000,,她将给我们唱歌\N{\fs10\i1}She will sing some for us.
+Dialogue: 0,0:48:40.15,0:48:41.69,*Default,NTP,0000,0000,0000,,谁要点歌？\N{\fs10\i1}Any requests.
+Dialogue: 0,0:48:42.57,0:48:44.94,*Default,NTP,0000,0000,0000,,《罗拉》，《时髦的罗拉》\N{\fs10\i1}Lola. Die fesche Lola.
+Dialogue: 0,0:48:44.99,0:48:48.07,*Default,NTP,0000,0000,0000,,对，《罗拉》，《罗拉》\N{\fs10\i1}Yes, Lola, Lola
+Dialogue: 0,0:49:00.75,0:49:03.17,*Default,NTP,0000,0000,0000,,＂我是时髦的罗拉＂\N{\fs10\i1}# ich bin die fesche Lola
+Dialogue: 0,0:49:03.21,0:49:09.39,*Default,NTP,0000,0000,0000,,＂是最时髦的宠儿 有个自动钢琴机，就在我家大厅里＂\N{\fs10\i1}# der Liebling der Saison. ich hab'ein Pianola. zu Haus in mein'm Salon.
+Dialogue: 0,0:49:09.43,0:49:12.93,*Default,NTP,0000,0000,0000,,＂我就是时髦罗拉 没有男人不爱我＂\N{\fs10\i1}# ich bin die fesche Lola mich liebt ein jeder Mann
+Dialogue: 0,0:49:13.01,0:49:17.35,*Default,NTP,0000,0000,0000,,＂但我的自动钢琴机 谁也不许碰＂\N{\fs10\i1}# doch an mein Pianola da lass ich keinen 'ran
+Dialogue: 0,0:49:17.69,0:49:20.77,*Default,NTP,0000,0000,0000,,罗拉，罗拉\N{\fs10\i1}Lola, Lola
+Dialogue: 0,0:49:21.19,0:49:25.11,*Default,NTP,0000,0000,0000,,＂我是时髦的罗拉 是现在最时髦的宠儿＂\N{\fs10\i1}# ich bin die fesche Lola der Liebling der Saison
+Dialogue: 0,0:49:25.15,0:49:29.24,*Default,NTP,0000,0000,0000,,＂有个自动钢琴机，就在我家大厅里＂\N{\fs10\i1}Ich hab'ein Pianola. zu Haus in mein'm Salon.
+Dialogue: 0,0:49:29.28,0:49:33.16,*Default,NTP,0000,0000,0000,,＂如果谁想引开我 引我离开大厅＂\N{\fs10\i1}# und wer mich will begleiten da d'runten aus dem Saal
+Dialogue: 0,0:49:33.20,0:49:37.04,*Default,NTP,0000,0000,0000,,＂我就用拳捶他 再狠踢他一脚＂\N{\fs10\i1}# den hau ich auf der Saiten und treff'ihn aufs Pedal
+Dialogue: 0,0:49:39.87,0:49:41.29,*Default,NTP,0000,0000,0000,,罗拉！\N{\fs10\i1}Lola.
+Dialogue: 0,0:49:53.64,0:49:54.05,*Default,NTP,0000,0000,0000,,再见\N{\fs10\i1}bye
+Dialogue: 0,0:49:54.35,0:49:55.76,*Default,NTP,0000,0000,0000,,再见\N{\fs10\i1}bye
+Dialogue: 0,0:50:02.31,0:50:04.36,*Default,NTP,0000,0000,0000,,那么…\N{\fs10\i1}so?
+Dialogue: 0,0:50:04.40,0:50:06.61,*Default,NTP,0000,0000,0000,,什么？\N{\fs10\i1}so what?
+Dialogue: 0,0:50:06.65,0:50:09.74,*Default,NTP,0000,0000,0000,,我想看看你的邮票\N{\fs10\i1}I'd like to see your stamps.
+Dialogue: 0,0:50:12.24,0:50:13.53,*Default,NTP,0000,0000,0000,,邮票太多了\N{\fs10\i1}There's quite many of them.
+Dialogue: 0,0:50:14.99,0:50:16.83,*Default,NTP,0000,0000,0000,,我有的是时间\N{\fs10\i1}I have lots of time.
+Dialogue: 0,0:50:20.00,0:50:22.21,*Default,NTP,0000,0000,0000,,我可没有多余的牙刷\N{\fs10\i1}I don't have any toothbrush for you.
+Dialogue: 0,0:50:34.18,0:50:35.26,*Default,NTP,0000,0000,0000,,刷好了\N{\fs10\i1}brushed.
+Dialogue: 0,0:50:43.19,0:50:44.23,*Default,NTP,0000,0000,0000,,不错啊\N{\fs10\i1}Not bad.
+Dialogue: 0,0:50:45.61,0:50:49.69,*Default,NTP,0000,0000,0000,,从被我们赶出去的 资本家手里夺来的\N{\fs10\i1}from the capitalists, we kicked out.
+Dialogue: 0,0:50:59.54,0:51:01.50,*Default,NTP,0000,0000,0000,,掠夺是属于胜利者的\N{\fs10\i1}the loot is for the winners.
+Dialogue: 0,0:51:03.37,0:51:04.29,*Default,NTP,0000,0000,0000,,完全正确\N{\fs10\i1}exactly.
+Dialogue: 0,0:51:18.14,0:51:20.39,*Default,NTP,0000,0000,0000,,你唱得很好 原来你在哪里演出？\N{\fs10\i1}You sing well. Where did you sing.
+Dialogue: 0,0:51:20.39,0:51:23.56,*Default,NTP,0000,0000,0000,,在柏林 跟剧团在酒店表演\N{\fs10\i1}In Berlin. Cabaret, revue.
+Dialogue: 0,0:51:26.23,0:51:28.44,*Default,NTP,0000,0000,0000,,你真该继续唱下去\N{\fs10\i1}You should have continued.
+Dialogue: 0,0:51:28.82,0:51:30.61,*Default,NTP,0000,0000,0000,,现在没人需要那些了\N{\fs10\i1}There is no need for that anymore now.
+Dialogue: 0,0:51:52.92,0:51:54.47,*Default,NTP,0000,0000,0000,,你头发以前是黑色的\N{\fs10\i1}Your hair is normally black.
+Dialogue: 0,0:51:59.35,0:52:01.56,*Default,NTP,0000,0000,0000,,现在流行金发，不是么？\N{\fs10\i1}Blond is fashion now.
+Dialogue: 0,0:52:03.02,0:52:07.56,*Default,NTP,0000,0000,0000,,或许这能使你活下来 如果你是犹太人的话\N{\fs10\i1}Or this fashion, will help you survive, for instance if you are a jew.
+Dialogue: 0,0:52:14.95,0:52:18.16,*Default,NTP,0000,0000,0000,,对，那又怎么样呢？\N{\fs10\i1}So what?
+Dialogue: 0,0:52:29.79,0:52:31.21,*Default,NTP,0000,0000,0000,,这也是犹太族的？\N{\fs10\i1}Are these jewish?
+Dialogue: 0,0:52:44.64,0:52:46.27,*Default,NTP,0000,0000,0000,,这也是犹太族的？\N{\fs10\i1}Are these jewish?
+Dialogue: 0,0:53:09.42,0:53:12.59,*Default,NTP,0000,0000,0000,,这里也是金色的 你真是个完美主义者\N{\fs10\i1}Also blond. A perfectionist
+Dialogue: 0,0:53:56.71,0:54:00.80,*Default,NTP,0000,0000,0000,,- 哦，对不起 - 进来吧，都是女孩\N{\fs10\i1}Oh, sorry. Come on in. girls are allowed.
+Dialogue: 0,0:54:03.89,0:54:09.73,*Default,NTP,0000,0000,0000,,你做完爱后也要小便吗？ 今晚你唱得棒极了\N{\fs10\i1}Do you also have to pee, after sex? You were really great tonight.
+Dialogue: 0,0:54:10.14,0:54:12.86,*Default,NTP,0000,0000,0000,,蒙茨雇用你了吗？ 你是想找份工作，对吧？\N{\fs10\i1}Did he hire you, Müntze? You came looking for a job, right?
+Dialogue: 0,0:54:12.90,0:54:17.78,*Default,NTP,0000,0000,0000,,还没，我确实想找一个 但我不是国家社会主义党成员\N{\fs10\i1}No, but I am searching for one. But I am no party (NSB) member
+Dialogue: 0,0:54:17.82,0:54:21.45,*Default,NTP,0000,0000,0000,,我也不是 虽然我也支持他们\N{\fs10\i1}Neither am I, although I do agree with them.
+Dialogue: 0,0:54:21.74,0:54:24.62,*Default,NTP,0000,0000,0000,,荷兰毕竟是德国的一部分了\N{\fs10\i1}Holland is after all a piece of Germany.
+Dialogue: 0,0:54:24.66,0:54:27.75,*Default,NTP,0000,0000,0000,,大家都说类似德国方言\N{\fs10\i1}We all speak a sort of german dialect.
+Dialogue: 0,0:54:29.58,0:54:32.00,*Default,NTP,0000,0000,0000,,啊，真好，真的肥皂\N{\fs10\i1}Oh, nice: real soap.
+Dialogue: 0,0:54:32.00,0:54:35.80,*Default,NTP,0000,0000,0000,,还有丰盛的食物和饮料 你还能奢望更多吗？\N{\fs10\i1}And good food and great drinks. What more do you want?
+Dialogue: 0,0:54:35.84,0:54:37.38,*Default,NTP,0000,0000,0000,,罗妮？\N{\fs10\i1}(FRANKEN:) Ronnie?
+Dialogue: 0,0:54:37.40,0:54:40.26,*Default,NTP,0000,0000,0000,,只要保证，那些高级军官 永远都想要你\N{\fs10\i1}Make sure, a high ranked kraut never gets enough of you.
+Dialogue: 0,0:54:40.26,0:54:44.43,*Default,NTP,0000,0000,0000,,- 贡特尔，在这里 - 罗妮？\N{\fs10\i1}Günther. Over here. - Ronnie?
+Dialogue: 0,0:54:48.97,0:54:50.94,*Default,NTP,0000,0000,0000,,你们俩正在玩吗？\N{\fs10\i1}Are you playing with each other?
+Dialogue: 0,0:54:51.69,0:54:55.34,*Default,NTP,0000,0000,0000,,我们正在谈工作 艾莉丝想在我们这里做事\N{\fs10\i1}We were talking about work. Ellis would like to work for us.
+Dialogue: 0,0:54:55.36,0:54:59.87,*Default,NTP,0000,0000,0000,,德语歌唱得这么棒的人 可以马上被雇用\N{\fs10\i1}Someone who sings such good german is hired right away.
+Dialogue: 0,0:55:00.53,0:55:03.24,*Default,NTP,0000,0000,0000,,前提是…\N{\fs10\i1}That is if…
+Dialogue: 0,0:55:04.78,0:55:07.20,*Default,NTP,0000,0000,0000,,你得通过体检\N{\fs10\i1}you pass the inspection.
+Dialogue: 0,0:55:09.29,0:55:13.46,*Default,NTP,0000,0000,0000,,如果这还不健康 真不知道什么是了\N{\fs10\i1}If that isn't healthy, I don't know what is…
+Dialogue: 0,0:55:18.21,0:55:22.30,*Default,NTP,0000,0000,0000,,不，不，那是给蒙茨上尉的\N{\fs10\i1}NO, NO, these are reserved for captain Müntze.
+Dialogue: 0,0:55:56.42,0:55:59.50,*Default,NTP,0000,0000,0000,,- 你去哪儿了？ - 在厕所\N{\fs10\i1}Where were you? On the toilet.
+Dialogue: 0,0:56:00.25,0:56:03.22,*Default,NTP,0000,0000,0000,,富兰肯给了我一份工作\N{\fs10\i1}Franken offered me a job.
+Dialogue: 0,0:56:03.26,0:56:07.39,*Default,NTP,0000,0000,0000,,好主意，你可以明天开始 帮助筹备元首的生日\N{\fs10\i1}Good idea. You can start helping with the Fürer's birthday tomorrow.
+Dialogue: 0,0:56:10.35,0:56:15.19,*Default,NTP,0000,0000,0000,,我看到你结过婚了 有可爱的孩子\N{\fs10\i1}You're married, I see. Nice kids you have.
+Dialogue: 0,0:56:15.77,0:56:18.94,*Default,NTP,0000,0000,0000,,曾经是的\N{\fs10\i1}Was. I was married.
+Dialogue: 0,0:56:20.86,0:56:23.32,*Default,NTP,0000,0000,0000,,现在不是了？\N{\fs10\i1}Not anymore?
+Dialogue: 0,0:56:24.45,0:56:26.70,*Default,NTP,0000,0000,0000,,不，不再是了\N{\fs10\i1}NO, not anymore.
+Dialogue: 0,0:56:29.53,0:56:31.33,*Default,NTP,0000,0000,0000,,戈林曾发誓说\N{\fs10\i1}G鰄ring, had sworn…
+Dialogue: 0,0:56:31.37,0:56:34.46,*Default,NTP,0000,0000,0000,,英国不会向德国投炸弹\N{\fs10\i1}… that no english bomb would fall on Germany.
+Dialogue: 0,0:56:37.12,0:56:40.29,*Default,NTP,0000,0000,0000,,克莉斯蒂娜和我孩子们 躲在了错误的地方\N{\fs10\i1}Christina, was with the children in the wrong hideout.
+Dialogue: 0,0:56:41.71,0:56:43.71,*Default,NTP,0000,0000,0000,,我当时不在\N{\fs10\i1}And I wasn't there.
+Dialogue: 0,0:56:45.05,0:56:48.51,*Default,NTP,0000,0000,0000,,正中目标\N{\fs10\i1}bulls eye.
+Dialogue: 0,0:56:53.31,0:56:57.95,*Default,NTP,0000,0000,0000,,一无所有的感觉，艾莉丝 很痛苦\N{\fs10\i1}To not have anything, Ellis… Isn't much.
+Dialogue: 0,0:56:59.48,0:57:03.65,*Default,NTP,0000,0000,0000,,是啊，我明白\N{\fs10\i1}I know.
+Dialogue: 0,0:57:11.66,0:57:14.75,*Default,NTP,0000,0000,0000,,那声音对你来说一定好极了\N{\fs10\i1}For you it must be a beautiful sound.
+Dialogue: 0,0:57:17.33,0:57:20.50,*Default,NTP,0000,0000,0000,,嘘…\N{\fs10\i1}SShhh…
+Dialogue: 0,0:57:45.44,0:57:48.07,*Default,NTP,0000,0000,0000,,你什么也没告诉我们\N{\fs10\i1}You haven't told us anything.
+Dialogue: 0,0:57:48.11,0:57:52.49,*Default,NTP,0000,0000,0000,,我真的不知道 是别人把武器放到车上的\N{\fs10\i1}I don't know anything. Someone else put those weapons in the car.
+Dialogue: 0,0:58:00.88,0:58:06.30,*Default,NTP,0000,0000,0000,,你只是我们通向胜利 道路上微不足道的一小堆狗屎\N{\fs10\i1}You are just a little piece of shit on our road to final victory.
+Dialogue: 0,0:58:06.38,0:58:10.89,*Default,NTP,0000,0000,0000,,再过几周，俄国人就会把 你们丢入海里，连同你那些刽子手们\N{\fs10\i1}In a few weeks, the Russians will throw you in the sea, along with your executioners.
+Dialogue: 0,0:58:12.80,0:58:14.14,*Default,NTP,0000,0000,0000,,赏给你的\N{\fs10\i1}For you.
+Dialogue: 0,0:58:15.47,0:58:17.56,*Default,NTP,0000,0000,0000,,还有给你的斯大林\N{\fs10\i1}And for your comrad Stalin.
+Dialogue: 0,0:58:18.56,0:58:19.98,*Default,NTP,0000,0000,0000,,狗杂种\N{\fs10\i1}Dirty bastard.
+Dialogue: 0,0:58:20.31,0:58:22.40,*Default,NTP,0000,0000,0000,,真会说脏话\N{\fs10\i1}What a filthy language.
+Dialogue: 0,0:58:24.65,0:58:26.78,*Default,NTP,0000,0000,0000,,给他洗嘴\N{\fs10\i1}wash his mouth.
+Dialogue: 0,0:58:44.00,0:58:45.46,*Default,NTP,0000,0000,0000,,他在憋气\N{\fs10\i1}He's holding his breath.
+Dialogue: 0,0:59:00.27,0:59:01.60,*Default,NTP,0000,0000,0000,,抬起来\N{\fs10\i1}Up
+Dialogue: 0,0:59:06.52,0:59:09.03,*Default,NTP,0000,0000,0000,,不到一小时你就会讲了\N{\fs10\i1}Within the hour you'll talk.
+Dialogue: 0,0:59:17.70,0:59:22.21,*Default,NTP,0000,0000,0000,,- 就我们自己？ - 是啊，其他人都逃回德国了\N{\fs10\i1}Are we here alone? - The rest fled back to Germany.
+Dialogue: 0,0:59:22.87,0:59:27.55,*Default,NTP,0000,0000,0000,,你坐这里吧 这样我们可以挨近些\N{\fs10\i1}Could you come and sit here? So we can sit next to each other.
+Dialogue: 0,0:59:29.88,0:59:32.47,*Default,NTP,0000,0000,0000,,把它打出来 再复印15份\N{\fs10\i1}Type it out and copy it 15 times.
+Dialogue: 0,0:59:32.47,0:59:34.30,*Default,NTP,0000,0000,0000,,你的军装脏了\N{\fs10\i1}You have spots on your uniform.
+Dialogue: 0,0:59:35.22,0:59:40.47,*Default,NTP,0000,0000,0000,,没事，只是些水 快点，一会还有更多事要做\N{\fs10\i1}It's nothing, just water. Hurry up, there will be more to do.
+Dialogue: 0,0:59:42.31,0:59:45.10,*Default,NTP,0000,0000,0000,,你念，我打\N{\fs10\i1}If you read, I'll type.
+Dialogue: 0,0:59:45.15,0:59:49.69,*Default,NTP,0000,0000,0000,,得拿掉这些，不然我打不了字\N{\fs10\i1}Let's take these of, with them I can't type.
+Dialogue: 0,0:59:53.90,0:59:56.82,*Default,NTP,0000,0000,0000,,- 是真的吗？ - 当然了，你认为是什么啊？\N{\fs10\i1}Are these real? - Of course, what did you think?
+Dialogue: 0,0:59:57.53,1:00:01.83,*Default,NTP,0000,0000,0000,,从贡特尔那里拿的，漂亮吧 他的保险箱就是个宝库\N{\fs10\i1}Got it from Günther. Nice, huh? His safe is a real treasure hole.
+Dialogue: 0,1:00:02.00,1:00:04.29,*Default,NTP,0000,0000,0000,,- 芝麻开门 - 对，就是那样\N{\fs10\i1}Open Sesame. - Yes just like that.
+Dialogue: 0,1:00:04.33,1:00:06.88,*Default,NTP,0000,0000,0000,,还有满满一盒钻石\N{\fs10\i1}There's a whole box full of diamonds.
+Dialogue: 0,1:00:06.92,1:00:08.00,*Default,NTP,0000,0000,0000,,好了\N{\fs10\i1}Right.
+Dialogue: 0,1:00:09.92,1:00:13.01,*Default,NTP,0000,0000,0000,,1944年4月19日 好了，开始吧\N{\fs10\i1}Let's see: 1945, 19th. There we go.
+Dialogue: 0,1:00:19.01,1:00:22.18,*Default,NTP,0000,0000,0000,,艾莉丝？你可以念了\N{\fs10\i1}Ellis? You can start.
+Dialogue: 0,1:00:26.02,1:00:29.11,*Default,NTP,0000,0000,0000,,恐怖分子提姆图斯·凯普斯给出如下…\N{\fs10\i1}The terrorist Timotheus Kuipers gave the following…
+Dialogue: 0,1:00:29.11,1:00:32.15,*Default,NTP,0000,0000,0000,,你可以念的稍微快一些\N{\fs10\i1}You can speed up a little bit.
+Dialogue: 0,1:00:32.19,1:00:34.95,*Default,NTP,0000,0000,0000,,…供词\N{\fs10\i1}…statement.
+Dialogue: 0,1:00:34.95,1:00:37.41,*Default,NTP,0000,0000,0000,,我是抵抗组织的一员\N{\fs10\i1}I am a member of a resistance group.
+Dialogue: 0,1:00:37.45,1:00:40.53,*Default,NTP,0000,0000,0000,,我父亲，葛本·凯普斯 是这个组织的首领\N{\fs10\i1}My father, is head of the group: Gerben Kuipers.
+Dialogue: 0,1:00:43.29,1:00:46.46,*Default,NTP,0000,0000,0000,,很无聊，是吧？\N{\fs10\i1}boring, huh.
+Dialogue: 0,1:01:03.89,1:01:06.98,*Default,NTP,0000,0000,0000,,放开我！\N{\fs10\i1}-  Untranslated subtitle -
+Dialogue: 0,1:01:28.50,1:01:29.58,*Default,NTP,0000,0000,0000,,艾莉丝？\N{\fs10\i1}Ellis?
+Dialogue: 0,1:01:32.92,1:01:34.42,*Default,NTP,0000,0000,0000,,您在这里干吗？\N{\fs10\i1}What are you doing here?
+Dialogue: 0,1:01:34.51,1:01:37.09,*Default,NTP,0000,0000,0000,,和德国人交涉公正\N{\fs10\i1}To talk with the germans about justice.
+Dialogue: 0,1:01:37.42,1:01:39.26,*Default,NTP,0000,0000,0000,,公正？这里？\N{\fs10\i1}Justice, HERE?
+Dialogue: 0,1:01:39.26,1:01:44.27,*Default,NTP,0000,0000,0000,,抵抗组织的人没有人权 但我是律师，我尽力帮助他们\N{\fs10\i1}People of the resistance have no rights, but as a lawyer, I try to help them nonetheless.
+Dialogue: 0,1:01:44.31,1:01:47.23,*Default,NTP,0000,0000,0000,,和像富兰肯这种人商量？ 简直是浪费时间\N{\fs10\i1}With a guy like Franken? A waste of time.
+Dialogue: 0,1:01:52.19,1:01:54.48,*Default,NTP,0000,0000,0000,,蒂姆的窃听器\N{\fs10\i1}Tim's microphone.
+Dialogue: 0,1:01:59.11,1:02:00.78,*Default,NTP,0000,0000,0000,,你怎么知道我在这里？\N{\fs10\i1}How did you know I was here?
+Dialogue: 0,1:02:01.62,1:02:03.62,*Default,NTP,0000,0000,0000,,我不会低估你的\N{\fs10\i1}I do not underestimate you.
+Dialogue: 0,1:02:08.62,1:02:11.46,*Default,NTP,0000,0000,0000,,蒙茨是个不错的家伙 你不觉得么？\N{\fs10\i1}That Müntze guy, is quite nice, don't you think?
+Dialogue: 0,1:02:12.54,1:02:17.21,*Default,NTP,0000,0000,0000,,帮我一把，我们得去 装饰走廊，为元首的生日做准备\N{\fs10\i1}Could you give me a hand? We have to decorate the hallway for the Fürer's birthday.
+Dialogue: 0,1:02:20.13,1:02:22.89,*Default,NTP,0000,0000,0000,,您来了，斯马尔先生 进来\N{\fs10\i1}Mr. Smaal, you are here. Come in.
+Dialogue: 0,1:02:26.89,1:02:29.60,*Default,NTP,0000,0000,0000,,不对，钢琴应该摆在那里\N{\fs10\i1}No the pian should go there.
+Dialogue: 0,1:02:32.31,1:02:33.31,*Default,NTP,0000,0000,0000,,又来一些\N{\fs10\i1}Some more
+Dialogue: 0,1:02:34.65,1:02:37.74,*Default,NTP,0000,0000,0000,,- 谢谢你 - 再见\N{\fs10\i1}Thank you. - Good bye.
+Dialogue: 0,1:02:38.15,1:02:40.24,*Default,NTP,0000,0000,0000,,真漂亮\N{\fs10\i1}That looks great.
+Dialogue: 0,1:02:41.82,1:02:44.91,*Default,NTP,0000,0000,0000,,别忘了元首在右的规则\N{\fs10\i1}Don't forget to put the Fürer in the right perspective.
+Dialogue: 0,1:02:45.58,1:02:48.75,*Default,NTP,0000,0000,0000,,- 聚光灯给我照一下 - 上尉！\N{\fs10\i1}Give me a spotlight. - Captain.
+Dialogue: 0,1:02:50.75,1:02:53.24,*Default,NTP,0000,0000,0000,,这是对那3个恐怖分子的 死刑执行命令\N{\fs10\i1}the execution order for the 3 terrorists.
+Dialogue: 0,1:02:53.25,1:02:55.34,*Default,NTP,0000,0000,0000,,明天执行 请在这里签字\N{\fs10\i1}Tomorrow we shoot'em. just sign here.
+Dialogue: 0,1:02:55.34,1:02:58.46,*Default,NTP,0000,0000,0000,,绝对不行 谁也不许枪决\N{\fs10\i1}Absolutely not. No one is getting shot.
+Dialogue: 0,1:02:58.67,1:03:01.40,*Default,NTP,0000,0000,0000,,但他们都承认了 必须枪决他们\N{\fs10\i1}But they confessed, they have to be shot.
+Dialogue: 0,1:03:01.43,1:03:03.09,*Default,NTP,0000,0000,0000,,这是元首的命令，你知道的\N{\fs10\i1}Fürer's order, you know that.
+Dialogue: 0,1:03:03.09,1:03:05.35,*Default,NTP,0000,0000,0000,,但我是这里的负责人\N{\fs10\i1}Only I am in command here.
+Dialogue: 0,1:03:05.35,1:03:08.97,*Default,NTP,0000,0000,0000,,我说不许枪决 那你就不能枪决！\N{\fs10\i1}No executions, if I say so.
+Dialogue: 0,1:03:09.18,1:03:10.18,*Default,NTP,0000,0000,0000,,走吧\N{\fs10\i1}Dismissed.
+Dialogue: 0,1:03:12.19,1:03:13.60,*Default,NTP,0000,0000,0000,,希特勒万岁！\N{\fs10\i1}Heil Hitler.
+Dialogue: 0,1:03:20.61,1:03:26.62,*Default,NTP,0000,0000,0000,,天啊，连德国人自己也开始 争起来了，战争什么时候才结束啊\N{\fs10\i1}Jesus, if even those germans start to fight among each other, where will it end?
+Dialogue: 0,1:03:27.70,1:03:30.87,*Default,NTP,0000,0000,0000,,照向我，跟上\N{\fs10\i1}To me. Follow me!
+Dialogue: 0,1:04:27.68,1:04:29.05,*Default,NTP,0000,0000,0000,,艾莉丝？\N{\fs10\i1}Ellis?
+Dialogue: 0,1:04:37.19,1:04:40.48,*Default,NTP,0000,0000,0000,,- 艾莉丝？ - 我就来了\N{\fs10\i1}Ellis? - I'm coming
+Dialogue: 0,1:04:48.53,1:04:53.29,*Default,NTP,0000,0000,0000,,- 你在这里干吗？ - 让他高兴些\N{\fs10\i1}What are you doing here? - To cheer him up.
+Dialogue: 0,1:04:56.62,1:04:59.79,*Default,NTP,0000,0000,0000,,- 最漂亮的留给你 - 真好\N{\fs10\i1}The nicest one is for you. - That's sweet.
+Dialogue: 0,1:05:01.21,1:05:02.46,*Default,NTP,0000,0000,0000,,跟我一起回去吗？\N{\fs10\i1}Are you coming with me?
+Dialogue: 0,1:05:02.46,1:05:06.97,*Default,NTP,0000,0000,0000,,- 我得回家一趟 - 啊，那我今晚见不到你了？\N{\fs10\i1}Actually I have to go home. - So I won't be seeing you tonight?
+Dialogue: 0,1:05:07.68,1:05:12.39,*Default,NTP,0000,0000,0000,,当然能见到 我只是回家取些衣服\N{\fs10\i1}Of course you will. I just have to pick up some clothes.
+Dialogue: 0,1:05:51.60,1:05:54.52,*Default,NTP,0000,0000,0000,,喔，亲爱的…\N{\fs10\i1}Oh Honey..
+Dialogue: 0,1:05:54.52,1:05:57.69,*Default,NTP,0000,0000,0000,,我的小宠物\N{\fs10\i1}My little animal.
+Dialogue: 0,1:06:01.02,1:06:04.11,*Default,NTP,0000,0000,0000,,小宠物…喔…\N{\fs10\i1}animal…. ahh…
+Dialogue: 0,1:06:07.86,1:06:10.07,*Default,NTP,0000,0000,0000,,- 它起作用了 - 艾莉丝\N{\fs10\i1}It works. - Ellis.
+Dialogue: 0,1:06:10.36,1:06:13.45,*Default,NTP,0000,0000,0000,,- 罗妮，罗妮… - 快，快，要来了，来了\N{\fs10\i1}Ronnie, Ronnie… Yes, yes, cum, cum
+Dialogue: 0,1:06:16.70,1:06:20.81,*Default,NTP,0000,0000,0000,,- 老天，真是个可爱的小宠物 - 不就是个傍德国佬的脏妓女吗\N{\fs10\i1}Jesus, what a horny animal. - Just a dirty kraut whore.
+Dialogue: 0,1:06:20.83,1:06:23.38,*Default,NTP,0000,0000,0000,,- 我们会让她们偿还的 - 剔光她们，再蘸上沥青\N{\fs10\i1}We'll get those after the war. - Shave'm and then put their heads in tar.
+Dialogue: 0,1:06:23.38,1:06:27.55,*Default,NTP,0000,0000,0000,,- 然后杀了她们 - 行了，不要这么野蛮\N{\fs10\i1}and after that shoot'em. -  come on, don't be so primitive
+Dialogue: 0,1:06:27.80,1:06:29.21,*Default,NTP,0000,0000,0000,,我们不是为了那些而战\N{\fs10\i1}That's not what we fight for.
+Dialogue: 0,1:06:29.22,1:06:32.09,*Default,NTP,0000,0000,0000,,该死的电话！\N{\fs10\i1}Damn, that fucking phone.
+Dialogue: 0,1:06:32.14,1:06:35.22,*Default,NTP,0000,0000,0000,,不要停，继续啊\N{\fs10\i1}Don't stop, keep going.
+Dialogue: 0,1:06:36.31,1:06:39.39,*Default,NTP,0000,0000,0000,,我都快来了，你看你滴的\N{\fs10\i1}I almost came, watch it you're dripping.
+Dialogue: 0,1:06:40.48,1:06:45.23,*Default,NTP,0000,0000,0000,,富兰肯 好的，让他进来\N{\fs10\i1}Franken. Yes, send him in.
+Dialogue: 0,1:06:45.57,1:06:49.70,*Default,NTP,0000,0000,0000,,我们今晚继续，现在快离开这里\N{\fs10\i1}We'll continue tonight. And now go.
+Dialogue: 0,1:06:50.24,1:06:50.99,*Default,NTP,0000,0000,0000,,卡斯\N{\fs10\i1}Cas.
+Dialogue: 0,1:06:52.24,1:06:54.37,*Default,NTP,0000,0000,0000,,- 你好，最近怎样？ - 还不错\N{\fs10\i1}Good day, how are you? - fine.
+Dialogue: 0,1:06:54.41,1:06:57.49,*Default,NTP,0000,0000,0000,,坐吧，上次欠的钱还没给你呢\N{\fs10\i1}Sit down. I still owe you money from last time.
+Dialogue: 0,1:06:58.66,1:07:02.79,*Default,NTP,0000,0000,0000,,- 那是什么声音？ - 他正开他的保险箱\N{\fs10\i1}What's that? - He's opening his safe.
+Dialogue: 0,1:07:02.83,1:07:05.88,*Default,NTP,0000,0000,0000,,这有张新的单子给你 放桌子上了\N{\fs10\i1}There's a new list before you on your desk.
+Dialogue: 0,1:07:05.92,1:07:09.01,*Default,NTP,0000,0000,0000,,不是很多 还值那么多吗？\N{\fs10\i1}Not many. Is it still worth it?
+Dialogue: 0,1:07:09.09,1:07:11.55,*Default,NTP,0000,0000,0000,,至少弄个50万\N{\fs10\i1}Easily half a million.
+Dialogue: 0,1:07:11.59,1:07:13.80,*Default,NTP,0000,0000,0000,,这可能是最后一次出手了\N{\fs10\i1}I think this will be the last ride.
+Dialogue: 0,1:07:14.85,1:07:17.10,*Default,NTP,0000,0000,0000,,- 那个声音很耳熟 - 嘘…\N{\fs10\i1}I know that voice. - Sssshhh…
+Dialogue: 0,1:07:17.10,1:07:18.52,*Default,NTP,0000,0000,0000,,什么？\N{\fs10\i1}What?
+Dialogue: 0,1:07:18.52,1:07:21.69,*Default,NTP,0000,0000,0000,,- 那声音让我想起那个帮我们逃跑的人 - 不要说话\N{\fs10\i1}It reminds me of the man who helped us flea. - Shut up.
+Dialogue: 0,1:07:22.35,1:07:25.31,*Default,NTP,0000,0000,0000,,- 该死，发电机不正常了 - 我去修下\N{\fs10\i1}Shit, the generator is cutting out. - I'll fix it.
+Dialogue: 0,1:07:25.36,1:07:28.44,*Default,NTP,0000,0000,0000,,- 你可以点一下 - 不必了\N{\fs10\i1}You can count it. - Don't have to.
+Dialogue: 0,1:07:29.11,1:07:32.20,*Default,NTP,0000,0000,0000,,下次运送什么时候准备好？\N{\fs10\i1}When can you have the next transport to be ready?
+Dialogue: 0,1:07:32.86,1:07:35.57,*Default,NTP,0000,0000,0000,,他们住的都很近 也许3天吧\N{\fs10\i1}They live close together. Maybe 3 days?
+Dialogue: 0,1:07:35.62,1:07:38.70,*Default,NTP,0000,0000,0000,,就是他 那个范·亨\N{\fs10\i1}That's him. That's van Gein.
+Dialogue: 0,1:07:39.04,1:07:43.54,*Default,NTP,0000,0000,0000,,那些富裕的犹太人 都是来自同一个圈子的\N{\fs10\i1}Those rich jews always come from the same circles.
+Dialogue: 0,1:07:44.12,1:07:46.46,*Default,NTP,0000,0000,0000,,不关你的事\N{\fs10\i1}None of your business
+Dialogue: 0,1:07:46.46,1:07:50.76,*Default,NTP,0000,0000,0000,,如果我想的话 我可以找到你的线人\N{\fs10\i1}If I wanted to, I could find out who your informant is.
+Dialogue: 0,1:07:50.80,1:07:52.68,*Default,NTP,0000,0000,0000,,那会要了你的命\N{\fs10\i1}This could cost you your head.
+Dialogue: 0,1:07:52.72,1:07:55.80,*Default,NTP,0000,0000,0000,,也可能在战后救我的命\N{\fs10\i1}Or save mine after the war.
+Dialogue: 0,1:07:56.47,1:07:59.56,*Default,NTP,0000,0000,0000,,战后我就不会在这里了 来喝一杯吧\N{\fs10\i1}After the war, I won't be here. Come let's have a drink.
+Dialogue: 0,1:08:00.72,1:08:03.81,*Default,NTP,0000,0000,0000,,为下一批愚蠢的犹太人干杯\N{\fs10\i1}To the next load of stupid jews.
+Dialogue: 0,1:08:06.98,1:08:10.15,*Default,NTP,0000,0000,0000,,那次遇到德国巡逻船 不是什么巧合\N{\fs10\i1}So it wasn't a coincedence, that german boat.
+Dialogue: 0,1:08:10.57,1:08:14.99,*Default,NTP,0000,0000,0000,,是个陷阱 他们一直按着名单来\N{\fs10\i1}It was a trap. They're just working on a list.
+Dialogue: 0,1:08:14.99,1:08:16.28,*Default,NTP,0000,0000,0000,,什么名单？\N{\fs10\i1}What list?
+Dialogue: 0,1:08:16.32,1:08:20.12,*Default,NTP,0000,0000,0000,,有钱犹太人的名单，他们假装答应 带他们去比利时，却会路上杀掉你\N{\fs10\i1}Jews with money. They promise to take them to Belgium, but instead they kill them.
+Dialogue: 0,1:08:20.45,1:08:23.08,*Default,NTP,0000,0000,0000,,- 你怎么知道？ - 因为我也被算计过\N{\fs10\i1}How do you know? - Cuz I have been set up to.
+Dialogue: 0,1:08:23.33,1:08:26.42,*Default,NTP,0000,0000,0000,,因为我的全家都被他们屠杀了\N{\fs10\i1}Because I have seen my whole family being slaughtered.
+Dialogue: 0,1:08:28.84,1:08:31.92,*Default,NTP,0000,0000,0000,,天啊，艾莉丝… 真是太可怕了\N{\fs10\i1}Jesus, Ellis…. That's horrible.
+Dialogue: 0,1:08:32.34,1:08:37.90,*Default,NTP,0000,0000,0000,,- 范·亨是谁 - 他假扮是抵抗组织的人\N{\fs10\i1}Who is this van Gein? He poses as someone of the resistance.
+Dialogue: 0,1:08:38.18,1:08:43.23,*Default,NTP,0000,0000,0000,,他告诉犹太人说，可以帮他们逃跑 但确保带上钱财以维持生计\N{\fs10\i1}He tells jews, that they can run for it, just make sure to bring your money.
+Dialogue: 0,1:08:43.27,1:08:46.19,*Default,NTP,0000,0000,0000,,富兰肯就等着他们来 然后杀光他们，再掠夺钱财\N{\fs10\i1}Franken, waits for them, kills them and finally robs them.
+Dialogue: 0,1:08:47.44,1:08:52.36,*Default,NTP,0000,0000,0000,,因此现在又有新的 将要受害的名单来了\N{\fs10\i1}So now there's a new list of potential victims.
+Dialogue: 0,1:08:52.40,1:08:54.07,*Default,NTP,0000,0000,0000,,我们不能让他们得逞\N{\fs10\i1}We cannot let that happen.
+Dialogue: 0,1:08:54.11,1:08:56.86,*Default,NTP,0000,0000,0000,,可我们不知道名单里都是些谁 又都在哪里\N{\fs10\i1}We don't know who they are, or where they are.
+Dialogue: 0,1:08:58.62,1:09:01.70,*Default,NTP,0000,0000,0000,,- 如果我们直接杀了那个富兰肯呢？ - 嗯，干掉那个杂种\N{\fs10\i1}What if we just kill Franken? -  Yes, stop that bastard.
+Dialogue: 0,1:09:01.79,1:09:04.96,*Default,NTP,0000,0000,0000,,不，如果我们杀了他 他手里的二三十个俘虏就会被送上刑场\N{\fs10\i1}NO, if we kill him, 20- 30 hostages will line up against a wall.
+Dialogue: 0,1:09:05.37,1:09:08.04,*Default,NTP,0000,0000,0000,,如果我们不杀他 那就会有二三十个犹太人被杀\N{\fs10\i1}We don't shoot Franken and 20- 30 jews will be killed.
+Dialogue: 0,1:09:08.04,1:09:11.21,*Default,NTP,0000,0000,0000,,难道随便一个犹太人的生命 都比一个优秀的荷兰人要珍贵吗？\N{\fs10\i1}Is the life of a random jew, worth more than a good Dutchman?
+Dialogue: 0,1:09:11.46,1:09:12.76,*Default,NTP,0000,0000,0000,,谁决定的，你吗？\N{\fs10\i1}Who decides that, you?
+Dialogue: 0,1:09:15.05,1:09:16.80,*Default,NTP,0000,0000,0000,,不能干掉富兰肯\N{\fs10\i1}Franken, will not be liquidated.
+Dialogue: 0,1:09:17.47,1:09:19.68,*Default,NTP,0000,0000,0000,,范·亨，我们干掉他 一样可以阻止他们\N{\fs10\i1}Van Gein. We kill him and it ends as well..
+Dialogue: 0,1:09:19.72,1:09:22.81,*Default,NTP,0000,0000,0000,,不能杀人 斯马尔先生，你的意见呢\N{\fs10\i1}No killing. Mr. Smaal, your call.
+Dialogue: 0,1:09:24.64,1:09:27.73,*Default,NTP,0000,0000,0000,,为了葛本 我正在和德国人谈判休战的事\N{\fs10\i1}On behalf of Gerben, I am negotiating a truce.
+Dialogue: 0,1:09:27.90,1:09:33.03,*Default,NTP,0000,0000,0000,,如果我们不再发起攻击 那么蒙茨也保证不再报复，这样也许能行\N{\fs10\i1}We do no more attacks and Müntze promises not to retaliate. Might work.
+Dialogue: 0,1:09:33.07,1:09:37.99,*Default,NTP,0000,0000,0000,,啊，原来富兰肯和蒙茨吵架是因为这个\N{\fs10\i1}Ah, so that's why that fight happened between Franken and Müntze.
+Dialogue: 0,1:09:38.66,1:09:41.84,*Default,NTP,0000,0000,0000,,葛本，祝贺你 你救了你的蒂姆\N{\fs10\i1}Gerben, congratulations. You saved, your Tim.
+Dialogue: 0,1:09:41.91,1:09:44.41,*Default,NTP,0000,0000,0000,,是他和其他人！ 你有什么意见吗？\N{\fs10\i1}Him AND others. Is that a problem for you?
+Dialogue: 0,1:09:44.41,1:09:47.41,*Default,NTP,0000,0000,0000,,我？没问题 如果那些都是“好”的荷兰人的话\N{\fs10\i1}Me? No. If those are the 'good' Dutchman
+Dialogue: 0,1:09:47.41,1:09:52.58,*Default,NTP,0000,0000,0000,,够了，艾莉丝，葛本是领导 他说不行，那么这件事就此打住\N{\fs10\i1}That's enough, Ellis. Gerben is chief. If he says no, than it ends there.
+Dialogue: 0,1:09:56.26,1:09:57.76,*Default,NTP,0000,0000,0000,,再见\N{\fs10\i1}Good day to you.
+Dialogue: 0,1:09:58.26,1:09:59.51,*Default,NTP,0000,0000,0000,,艾莉丝\N{\fs10\i1}Ellis.
+Dialogue: 0,1:10:01.76,1:10:06.52,*Default,NTP,0000,0000,0000,,事情有时就是这样的 窃听器安装你干得真漂亮\N{\fs10\i1}Things are, the way they are. That microphone of yours, is absolutely brilliant.
+Dialogue: 0,1:10:18.45,1:10:19.36,*Default,NTP,0000,0000,0000,,艾莉丝\N{\fs10\i1}Ellis.
+Dialogue: 0,1:10:20.86,1:10:24.03,*Default,NTP,0000,0000,0000,,我赞成你，我们不能让 那些犹太人就这么被杀害\N{\fs10\i1}I agree, with you. We can't let those jews be slaughtered.
+Dialogue: 0,1:10:24.03,1:10:27.20,*Default,NTP,0000,0000,0000,,葛本也是对的 我们不能就这么杀掉那个范·亨\N{\fs10\i1}Gerben is also right. We can't just kill van Gein.
+Dialogue: 0,1:10:29.87,1:10:31.96,*Default,NTP,0000,0000,0000,,如果他只是消失了呢？\N{\fs10\i1}What if he just dissapears?
+Dialogue: 0,1:10:31.96,1:10:34.55,*Default,NTP,0000,0000,0000,,富兰肯会知道的 他会枪决我们的人\N{\fs10\i1}Franken, will know. He will have people shot.
+Dialogue: 0,1:10:34.55,1:10:36.80,*Default,NTP,0000,0000,0000,,也许他以为范·亨逃跑了\N{\fs10\i1}Or he thinks, van Gein has deserted.
+Dialogue: 0,1:10:36.80,1:10:39.43,*Default,NTP,0000,0000,0000,,可他们刚商量好新的名单\N{\fs10\i1}After he just promised him a new list?
+Dialogue: 0,1:10:39.47,1:10:42.55,*Default,NTP,0000,0000,0000,,考虑到战后，范·亨努力躲起来了 就像他自己那么说的\N{\fs10\i1}Van Gein, is trying to cover up, for after the war, says so himself.
+Dialogue: 0,1:10:43.47,1:10:45.68,*Default,NTP,0000,0000,0000,,如果他消失了 富兰肯会认为他只是跑了\N{\fs10\i1}If he disappears, Franken will think, he just ran.
+Dialogue: 0,1:10:45.72,1:10:48.81,*Default,NTP,0000,0000,0000,,凯普斯和斯马尔忽略了一件事\N{\fs10\i1}There's one thing, Kuipers and Smaal pass by too easy.
+Dialogue: 0,1:10:49.06,1:10:51.27,*Default,NTP,0000,0000,0000,,某个人已经从事陷害 犹太人的勾当很久了\N{\fs10\i1}Someone has been setting up jews for a long time.
+Dialogue: 0,1:10:51.31,1:10:54.27,*Default,NTP,0000,0000,0000,,范·亨知道那个嫌疑人 他必须告诉我们\N{\fs10\i1}van Gein has a suspect. He'll have to tell us.
+Dialogue: 0,1:10:54.32,1:11:00.20,*Default,NTP,0000,0000,0000,,不得已的话我会拷问他说出来 来，我去召集我的手下\N{\fs10\i1}If I have to I'll beat it out of him. Come. I'll round up my boys.
+Dialogue: 0,1:11:00.24,1:11:02.99,*Default,NTP,0000,0000,0000,,我不能去，我还得去见蒙茨\N{\fs10\i1}I can't. I'm meeting Müntze.
+Dialogue: 0,1:11:04.49,1:11:08.25,*Default,NTP,0000,0000,0000,,只有你知道范·亨的样子 没你帮助我们找不到他的\N{\fs10\i1}You alone, know van Gein's face. We can't do anything, without you,
+Dialogue: 0,1:11:08.41,1:11:09.58,*Default,NTP,0000,0000,0000,,你必须得来\N{\fs10\i1}- You must be in.
+Dialogue: 0,1:11:28.02,1:11:29.23,*Default,NTP,0000,0000,0000,,就是他\N{\fs10\i1}That's him.
+Dialogue: 0,1:11:29.60,1:11:30.56,*Default,NTP,0000,0000,0000,,行动\N{\fs10\i1}Let's go.
+Dialogue: 0,1:11:56.63,1:11:57.67,*Default,NTP,0000,0000,0000,,把你围巾给我\N{\fs10\i1}Give me your shawl.
+Dialogue: 0,1:12:14.81,1:12:15.81,*Default,NTP,0000,0000,0000,,动手\N{\fs10\i1}Now.
+Dialogue: 0,1:12:52.02,1:12:53.23,*Default,NTP,0000,0000,0000,,他没子弹了\N{\fs10\i1}It's empty.
+Dialogue: 0,1:12:58.98,1:13:00.02,*Default,NTP,0000,0000,0000,,提欧\N{\fs10\i1}Theo.
+Dialogue: 0,1:13:23.46,1:13:26.43,*Default,NTP,0000,0000,0000,,- 开枪，开枪！ - 我下不了手\N{\fs10\i1}Shoot. Shoot. - I can't.
+Dialogue: 0,1:13:26.47,1:13:28.51,*Default,NTP,0000,0000,0000,,- 开枪啊！ - 我不能…\N{\fs10\i1}Shot. - I can't
+Dialogue: 0,1:13:32.26,1:13:35.27,*Default,NTP,0000,0000,0000,,啊，该死的！\N{\fs10\i1}Aaahhh.. Goddamn.
+Dialogue: 0,1:13:35.27,1:13:39.31,*Default,NTP,0000,0000,0000,,婊子，该死的婊子！ 我要你死…\N{\fs10\i1}Bitch. Goddamn bitch. I will goddamn….
+Dialogue: 0,1:13:41.48,1:13:44.65,*Default,NTP,0000,0000,0000,,你诅咒别人\N{\fs10\i1}You curse.
+Dialogue: 0,1:13:45.36,1:13:47.91,*Default,NTP,0000,0000,0000,,亵渎者\N{\fs10\i1}Blasphemer.
+Dialogue: 0,1:13:47.95,1:13:51.08,*Default,NTP,0000,0000,0000,,你咒骂别人！\N{\fs10\i1}You curse.
+Dialogue: 0,1:14:01.50,1:14:05.21,*Default,NTP,0000,0000,0000,,够了，提欧 提欧，来！走了！\N{\fs10\i1}That's enough, Theo. Theo, come!
+Dialogue: 0,1:14:11.35,1:14:15.27,*Default,NTP,0000,0000,0000,,啊…小心些\N{\fs10\i1}Aarrgghh… Be careful man.
+Dialogue: 0,1:14:21.90,1:14:24.57,*Default,NTP,0000,0000,0000,,皮肉伤，基斯 你算幸运的\N{\fs10\i1}Flesh wound, Kees. You got lucky.
+Dialogue: 0,1:14:24.61,1:14:28.28,*Default,NTP,0000,0000,0000,,但还是要把子弹取出来 艾莉丝，把氯仿拿来\N{\fs10\i1}The bullit must come out though. Ellis, take the chlorophorm.
+Dialogue: 0,1:14:39.87,1:14:43.29,*Default,NTP,0000,0000,0000,,深呼吸，基斯，深呼吸\N{\fs10\i1}Breathe deeply, Kees.
+Dialogue: 0,1:14:44.42,1:14:46.88,*Default,NTP,0000,0000,0000,,对，就是这样\N{\fs10\i1}Yes, like that.
+Dialogue: 0,1:14:52.34,1:14:54.00,*Default,NTP,0000,0000,0000,,住手！住手！\N{\fs10\i1}Stop it!
+Dialogue: 0,1:14:54.01,1:14:57.64,*Default,NTP,0000,0000,0000,,天啊，那鸟东西不管用 你这笨蛋！\N{\fs10\i1}Oh God, that shit doesn't work, you dick!
+Dialogue: 0,1:15:01.23,1:15:05.27,*Default,NTP,0000,0000,0000,,使用期限1941年 天啊，这东西早过期了\N{\fs10\i1}Expriry date 1941. Jessus, that stuff is way over due.
+Dialogue: 0,1:15:05.48,1:15:09.95,*Default,NTP,0000,0000,0000,,- 难怪范·亨才没被放倒 - 德国佬有什么东西能保质5年？\N{\fs10\i1}That's why van Gein wasn't knocked out. - What's still good after 5 years of krauts?
+Dialogue: 0,1:15:09.99,1:15:14.07,*Default,NTP,0000,0000,0000,,你想挨一锤子 还是喝口酒咬紧牙齿呢？\N{\fs10\i1}Choice: Hit by the hammer, or some booze and bite your teeth.
+Dialogue: 0,1:15:14.12,1:15:17.08,*Default,NTP,0000,0000,0000,,酒，笨蛋\N{\fs10\i1}Booze, dick.
+Dialogue: 0,1:15:19.16,1:15:22.04,*Default,NTP,0000,0000,0000,,- 干杯 - 干杯\N{\fs10\i1}Cheers. - Cheers.
+Dialogue: 0,1:15:22.08,1:15:25.17,*Default,NTP,0000,0000,0000,,基斯，想想快乐的事情\N{\fs10\i1}Kees, think of something nice.
+Dialogue: 0,1:15:26.75,1:15:29.34,*Default,NTP,0000,0000,0000,,好\N{\fs10\i1}OK
+Dialogue: 0,1:15:38.18,1:15:39.98,*Default,NTP,0000,0000,0000,,取出来了\N{\fs10\i1}Gotcha.
+Dialogue: 0,1:15:41.44,1:15:43.02,*Default,NTP,0000,0000,0000,,谢谢，笨蛋\N{\fs10\i1}Thanks, dick.
+Dialogue: 0,1:15:43.02,1:15:46.19,*Default,NTP,0000,0000,0000,,伙计们，合作愉快\N{\fs10\i1}Guys, cheers on a happy ending.
+Dialogue: 0,1:15:48.28,1:15:50.27,*Default,NTP,0000,0000,0000,,范·亨给德国佬提供了许多财宝\N{\fs10\i1}van Gein delivered the krauts tons.
+Dialogue: 0,1:15:50.28,1:15:53.86,*Default,NTP,0000,0000,0000,,许多？你是说几百万吧\N{\fs10\i1}Tons? You mean millions.
+Dialogue: 0,1:15:53.95,1:15:55.37,*Default,NTP,0000,0000,0000,,给，提欧\N{\fs10\i1}Come on Theo.
+Dialogue: 0,1:15:55.95,1:16:00.96,*Default,NTP,0000,0000,0000,,那些该死的荷兰人！ 他们杀了我最好的战士\N{\fs10\i1}Damn those dutchmen. They killed my best soldier.
+Dialogue: 0,1:16:01.21,1:16:06.00,*Default,NTP,0000,0000,0000,,这位勇敢的战友 带给了我上百万的财富\N{\fs10\i1}That brave warrior and comrad, handed me millions.
+Dialogue: 0,1:16:06.04,1:16:10.92,*Default,NTP,0000,0000,0000,,现在他死了 被那些该死的恐怖分子枪杀了\N{\fs10\i1}And now he's dead, shot by god damn terrorists.
+Dialogue: 0,1:16:12.63,1:16:15.51,*Default,NTP,0000,0000,0000,,我杀了人，我是坏人！\N{\fs10\i1}I shot a man. I am bad.
+Dialogue: 0,1:16:15.51,1:16:19.89,*Default,NTP,0000,0000,0000,,提欧，那是正义的 他才是杀人犯，不是你\N{\fs10\i1}That was justice. He's a murderer, you are not.
+Dialogue: 0,1:16:19.93,1:16:26.94,*Default,NTP,0000,0000,0000,,不，我是的 我和纳粹一样的坏\N{\fs10\i1}Yes I am. I am just as bad as the nazi's.
+Dialogue: 0,1:16:28.32,1:16:32.99,*Default,NTP,0000,0000,0000,,我说过不许这么做，不是吗？ 难道我没有说过吗？\N{\fs10\i1}I said no, didn't I? I said god damn No, didn't I?
+Dialogue: 0,1:16:32.99,1:16:35.36,*Default,NTP,0000,0000,0000,,那混蛋必须死 而且，这又有什么关系呢？\N{\fs10\i1}The bastard had to die. Besides, what does it matter?
+Dialogue: 0,1:16:35.36,1:16:38.15,*Default,NTP,0000,0000,0000,,这样蒂姆就会被枪决，你这笨蛋！\N{\fs10\i1}That Tim, will face the firing squad. Dick.
+Dialogue: 0,1:16:38.16,1:16:42.37,*Default,NTP,0000,0000,0000,,还有其他40个俘虏……\N{\fs10\i1}Along with 40 other hostages.
+Dialogue: 0,1:16:42.91,1:16:47.83,*Default,NTP,0000,0000,0000,,都因为你这个杀死范·亨的 抵抗组织“英雄”而送命\N{\fs10\i1}Because you as a resistance hero, had to go and shoot van Gein.
+Dialogue: 0,1:16:47.88,1:16:50.75,*Default,NTP,0000,0000,0000,,天啊，葛本，40个？ 你怎么知道的？\N{\fs10\i1}Jesus, Gerben. 40? How do you know?
+Dialogue: 0,1:16:50.75,1:16:54.72,*Default,NTP,0000,0000,0000,,从富兰肯那儿的窃听器里听到的\N{\fs10\i1}From the microphone we placed on Franken.
+Dialogue: 0,1:16:56.01,1:16:59.89,*Default,NTP,0000,0000,0000,,他的摇钱树被杀死了 他要报复\N{\fs10\i1}His best man killed. He wants blood.
+Dialogue: 0,1:17:00.01,1:17:02.06,*Default,NTP,0000,0000,0000,,你还在和蒙茨谈判吗？\N{\fs10\i1}You still negotiate with Müntze?
+Dialogue: 0,1:17:02.10,1:17:05.19,*Default,NTP,0000,0000,0000,,自从你这次行动后就没了\N{\fs10\i1}Not after the attack you pulled.
+Dialogue: 0,1:17:05.19,1:17:08.19,*Default,NTP,0000,0000,0000,,蒂姆没救了\N{\fs10\i1}Tim is as good as dead.
+Dialogue: 0,1:17:08.69,1:17:11.82,*Default,NTP,0000,0000,0000,,但你们犹太人却得救了\N{\fs10\i1}But your jews are saved…
+Dialogue: 0,1:17:13.19,1:17:16.91,*Default,NTP,0000,0000,0000,,艾莉丝，不要这样 都是我的错，不关其他人的事\N{\fs10\i1}Ellis, no. I am responsible. No one else.
+Dialogue: 0,1:17:17.87,1:17:22.33,*Default,NTP,0000,0000,0000,,我去自首 只有我才应该被枪决\N{\fs10\i1}I am turning myself in. Only I shall face the firing squad.
+Dialogue: 0,1:17:23.37,1:17:26.04,*Default,NTP,0000,0000,0000,,我跟你去，汉斯 我的罪孽最重\N{\fs10\i1}I will be beside you, Hans. I carry most of the guilt.
+Dialogue: 0,1:17:26.04,1:17:29.21,*Default,NTP,0000,0000,0000,,- 我也去 - 那我们都去\N{\fs10\i1}I will join too. -  Then we all go.
+Dialogue: 0,1:17:31.21,1:17:36.55,*Default,NTP,0000,0000,0000,,站住！真是荒谬 你们都喝醉了！\N{\fs10\i1}Stop it, this is ridiculous. You're all drunk.
+Dialogue: 0,1:17:36.59,1:17:40.14,*Default,NTP,0000,0000,0000,,不能让酒毁了我们的抵抗组织\N{\fs10\i1}Before you know it, all of the resistance will give up, because of gin.
+Dialogue: 0,1:17:40.18,1:17:43.52,*Default,NTP,0000,0000,0000,,自首不是解决问题的办法\N{\fs10\i1}Turning in, is not a solution.
+Dialogue: 0,1:17:43.68,1:17:45.23,*Default,NTP,0000,0000,0000,,那还能怎么办呢？\N{\fs10\i1}Then what is?
+Dialogue: 0,1:17:45.23,1:17:46.94,*Default,NTP,0000,0000,0000,,救出他们\N{\fs10\i1}Rescue them.
+Dialogue: 0,1:17:46.98,1:17:51.06,*Default,NTP,0000,0000,0000,,你不可能活着从 党卫队保安部的地下室出来的\N{\fs10\i1}You will not get out alive of the SD basement.
+Dialogue: 0,1:17:52.90,1:17:58.53,*Default,NTP,0000,0000,0000,,这是保安部办公室的建筑图纸 那里以前曾是银行\N{\fs10\i1}The building plans of the SD office, when it was still a bank.
+Dialogue: 0,1:18:00.82,1:18:04.37,*Default,NTP,0000,0000,0000,,从一个朋友那里拿到的\N{\fs10\i1}Got it from a friend
+Dialogue: 0,1:18:06.83,1:18:08.08,*Default,NTP,0000,0000,0000,,我来了\N{\fs10\i1}Here I am.
+Dialogue: 0,1:18:09.75,1:18:11.54,*Default,NTP,0000,0000,0000,,我以为你不来了呢\N{\fs10\i1}I thought: she's not coming back.
+Dialogue: 0,1:18:11.59,1:18:15.92,*Default,NTP,0000,0000,0000,,回家后就忘了时间了\N{\fs10\i1}I lost track of time at home.
+Dialogue: 0,1:18:15.92,1:18:18.93,*Default,NTP,0000,0000,0000,,然后又碰到宵禁 我只能偷偷溜来了\N{\fs10\i1}And then it was curfew and I had to sneak my way in.
+Dialogue: 0,1:18:35.59,1:18:37.17,*Default,NTP,0000,0000,0000,,那是什么东东啊？\N{\fs10\i1}What do we have here?
+Dialogue: 0,1:18:44.72,1:18:46.52,*Default,NTP,0000,0000,0000,,你以为我是傻子吗？\N{\fs10\i1}How dumb do you think I am?
+Dialogue: 0,1:18:49.14,1:18:52.27,*Default,NTP,0000,0000,0000,,突然间一个漂亮女人 闯进我的生活\N{\fs10\i1}Suddenly a beautiful woman comes into my life.
+Dialogue: 0,1:18:52.77,1:18:54.86,*Default,NTP,0000,0000,0000,,之后她又找到我的指挥部……\N{\fs10\i1}Later she comes to my headquarters…
+Dialogue: 0,1:18:54.86,1:18:57.99,*Default,NTP,0000,0000,0000,,她正巧有我要找的邮票\N{\fs10\i1}Then she accidentally has the stamps I am looking for.
+Dialogue: 0,1:18:59.24,1:19:02.37,*Default,NTP,0000,0000,0000,,又偶然发现她是犹太人\N{\fs10\i1}Then she coincidentally appears to be jewish.
+Dialogue: 0,1:19:03.03,1:19:05.12,*Default,NTP,0000,0000,0000,,而且刚来这里工作不久\N{\fs10\i1}And as soon as she comes to work here..
+Dialogue: 0,1:19:05.12,1:19:07.62,*Default,NTP,0000,0000,0000,,富兰肯最好的间谍就被杀了\N{\fs10\i1}Franken's best undercover man, gets killed.
+Dialogue: 0,1:19:07.62,1:19:10.75,*Default,NTP,0000,0000,0000,,太巧合了 你不认为吗？\N{\fs10\i1}Quite a coincedence don't you think?
+Dialogue: 0,1:19:15.88,1:19:23.05,*Default,NTP,0000,0000,0000,,自己选择，要么沉默 那么我明天就把你交给富兰肯\N{\fs10\i1}Choice: be silent and I will hand you to Franken tomorrow.
+Dialogue: 0,1:19:25.14,1:19:28.51,*Default,NTP,0000,0000,0000,,要么你告诉我所有的事\N{\fs10\i1}Or you tell me everything now
+Dialogue: 0,1:19:32.31,1:19:35.02,*Default,NTP,0000,0000,0000,,除非你把枪拿开……\N{\fs10\i1}Only if you put away that gun…
+Dialogue: 0,1:19:40.49,1:19:41.99,*Default,NTP,0000,0000,0000,,并吻我\N{\fs10\i1}… and kiss me now.
+Dialogue: 0,1:20:00.38,1:20:02.09,*Default,NTP,0000,0000,0000,,我吻你了\N{\fs10\i1}I kissed you.
+Dialogue: 0,1:20:04.59,1:20:05.93,*Default,NTP,0000,0000,0000,,现在告诉我\N{\fs10\i1}Now tell me.
+Dialogue: 0,1:20:10.06,1:20:12.64,*Default,NTP,0000,0000,0000,,女士们，脱掉外衣 开始工作\N{\fs10\i1}Put away your jackets and get to work.
+Dialogue: 0,1:20:13.31,1:20:15.65,*Default,NTP,0000,0000,0000,,给所有的监狱打电话\N{\fs10\i1}Call all prisons and ask..
+Dialogue: 0,1:20:15.65,1:20:17.86,*Default,NTP,0000,0000,0000,,问一下他们共有多少俘虏\N{\fs10\i1}How many hostages they have…
+Dialogue: 0,1:20:17.86,1:20:21.32,*Default,NTP,0000,0000,0000,,满40个就可以了 今天押送\N{\fs10\i1}You can stop at 40 pieces, Delivery today.
+Dialogue: 0,1:20:21.90,1:20:24.78,*Default,NTP,0000,0000,0000,,枪决将在明早6点钟执行\N{\fs10\i1}Executions, will be tomorrow morning at 06:00
+Dialogue: 0,1:20:24.78,1:20:27.91,*Default,NTP,0000,0000,0000,,女士们，不用打电话了\N{\fs10\i1}Those calls will not be necessary.
+Dialogue: 0,1:20:28.37,1:20:31.20,*Default,NTP,0000,0000,0000,,中尉，打开你的保险柜\N{\fs10\i1}Lieutenant, open your safe.
+Dialogue: 0,1:20:32.12,1:20:35.83,*Default,NTP,0000,0000,0000,,当然，您要找哪个文件？\N{\fs10\i1}Of course. What document are you looking for?
+Dialogue: 0,1:20:35.88,1:20:39.21,*Default,NTP,0000,0000,0000,,不是，你涉嫌抢劫谋杀犹太富人\N{\fs10\i1}None, you are under the suspicion of robbing and killing rich jews.
+Dialogue: 0,1:20:39.25,1:20:40.84,*Default,NTP,0000,0000,0000,,我们并不反对这样…\N{\fs10\i1}There's nothing against that…
+Dialogue: 0,1:20:40.84,1:20:45.38,*Default,NTP,0000,0000,0000,,但是你被控告 私自占有犹太人的财产\N{\fs10\i1}…but you are accused of keeping their treasure to yourself.
+Dialogue: 0,1:20:46.47,1:20:48.68,*Default,NTP,0000,0000,0000,,对于不上交犹太人财产 给帝国的人\N{\fs10\i1}By not handing over jewish property to the empire…
+Dialogue: 0,1:20:48.68,1:20:53.02,*Default,NTP,0000,0000,0000,,将被送上军事法庭审判 可能被判死刑，打开你的保险柜\N{\fs10\i1}… you risk court martial and the death penalty. Open your safe.
+Dialogue: 0,1:20:54.64,1:20:56.90,*Default,NTP,0000,0000,0000,,遵命，将军\N{\fs10\i1}At your order, general.
+Dialogue: 0,1:21:14.71,1:21:15.87,*Default,NTP,0000,0000,0000,,清空，快\N{\fs10\i1}Empty it quickly.
+Dialogue: 0,1:21:35.06,1:21:36.23,*Default,NTP,0000,0000,0000,,这里呢？\N{\fs10\i1}And here?
+Dialogue: 0,1:21:54.50,1:21:56.58,*Default,NTP,0000,0000,0000,,请打开\N{\fs10\i1}Open it please.
+Dialogue: 0,1:22:06.34,1:22:11.76,*Default,NTP,0000,0000,0000,,从39年起 我们战役开始的那一年\N{\fs10\i1}From '39, when we started our campaign
+Dialogue: 0,1:22:11.80,1:22:14.56,*Default,NTP,0000,0000,0000,,我一直存着 等到我们胜利那天\N{\fs10\i1}Saved it for our victory.
+Dialogue: 0,1:22:15.85,1:22:19.52,*Default,NTP,0000,0000,0000,,看起来你的人消息有误啊\N{\fs10\i1}Your Informant seems to have been mistaken.
+Dialogue: 0,1:22:20.52,1:22:23.32,*Default,NTP,0000,0000,0000,,这个人一向消息很灵通的\N{\fs10\i1}This person is always well informed.
+Dialogue: 0,1:22:23.32,1:22:24.82,*Default,NTP,0000,0000,0000,,这次可不是\N{\fs10\i1}Not this time.
+Dialogue: 0,1:22:26.11,1:22:27.78,*Default,NTP,0000,0000,0000,,很抱歉，富兰肯\N{\fs10\i1}My apologies, Franken.
+Dialogue: 0,1:22:28.20,1:22:31.41,*Default,NTP,0000,0000,0000,,我们的讨论还没结束\N{\fs10\i1}This is not the end of this discussion.
+Dialogue: 0,1:22:32.45,1:22:33.99,*Default,NTP,0000,0000,0000,,将军…\N{\fs10\i1}- General…
+Dialogue: 0,1:22:39.71,1:22:41.92,*Default,NTP,0000,0000,0000,,蒙茨在与恐怖分子谈判\N{\fs10\i1}Müntze is negotiating with terrorists.
+Dialogue: 0,1:22:43.25,1:22:47.17,*Default,NTP,0000,0000,0000,,他答应他们不予以还击\N{\fs10\i1}He promised them, no more retaliation.
+Dialogue: 0,1:22:47.30,1:22:49.43,*Default,NTP,0000,0000,0000,,甚至对范·亨被谋杀也不还击\N{\fs10\i1}Even not for the murder of van Gein.
+Dialogue: 0,1:22:54.85,1:22:58.48,*Default,NTP,0000,0000,0000,,你和恐怖分子谈判？\N{\fs10\i1}You negotiate? With terrorists?
+Dialogue: 0,1:22:59.27,1:23:03.23,*Default,NTP,0000,0000,0000,,如果我们停止追究\N{\fs10\i1}The resistance is willing to stop and give in their weapons.
+Dialogue: 0,1:23:03.36,1:23:05.94,*Default,NTP,0000,0000,0000,,抵抗组织愿意停止战斗 并交出他们的武器\N{\fs10\i1}If we stop retaliating.
+Dialogue: 0,1:23:05.94,1:23:13.16,*Default,NTP,0000,0000,0000,,这有背于元首9月4号的命令 命令必须无条件执行！\N{\fs10\i1}This is in violation of a Fürer order of the 4th of September.
+Dialogue: 0,1:23:13.20,1:23:14.78,*Default,NTP,0000,0000,0000,,为什么要留更多的血呢，将军？\N{\fs10\i1}Which stays in force! - Why shed more blood?
+Dialogue: 0,1:23:15.45,1:23:19.37,*Default,NTP,0000,0000,0000,,俄国人已经到了柏林 那香槟恐怕永远也喝不到了\N{\fs10\i1}Russians in Berlin. That Champagne will never be drunk.
+Dialogue: 0,1:23:21.96,1:23:25.42,*Default,NTP,0000,0000,0000,,这是失败主义言论，上尉\N{\fs10\i1}That is defeatism.
+Dialogue: 0,1:23:25.84,1:23:28.97,*Default,NTP,0000,0000,0000,,和敌人谈判更是叛国罪\N{\fs10\i1}And negotiating with enemy is high treason.
+Dialogue: 0,1:23:32.59,1:23:35.72,*Default,NTP,0000,0000,0000,,警察，逮捕这个人\N{\fs10\i1}Police, arrest this man.
+Dialogue: 0,1:23:39.77,1:23:42.90,*Default,NTP,0000,0000,0000,,这意味着死刑，蒙茨\N{\fs10\i1}This means death penalty, Müntze.
+Dialogue: 0,1:23:43.94,1:23:47.69,*Default,NTP,0000,0000,0000,,我会亲自指挥你的枪决\N{\fs10\i1}And I will lead the firing squad.
+Dialogue: 0,1:24:06.34,1:24:08.63,*Default,NTP,0000,0000,0000,,准备好了\N{\fs10\i1}Ready.
+Dialogue: 0,1:24:13.43,1:24:16.22,*Default,NTP,0000,0000,0000,,汉斯，这是进去的通行证\N{\fs10\i1}Hans, the papers to get inside.
+Dialogue: 0,1:24:16.22,1:24:18.31,*Default,NTP,0000,0000,0000,,钥匙呢？\N{\fs10\i1}And the keys?
+Dialogue: 0,1:24:18.31,1:24:20.68,*Default,NTP,0000,0000,0000,,复制的 从承包商祖特菲纳那里搞到的\N{\fs10\i1}Duplicates. From contractor Zutfenaar.
+Dialogue: 0,1:24:20.68,1:24:23.14,*Default,NTP,0000,0000,0000,,就是那个建监狱的人\N{\fs10\i1}Who build the cells.
+Dialogue: 0,1:24:23.14,1:24:26.87,*Default,NTP,0000,0000,0000,,我让他自己选择 是想吃子弹，还是战后拿勋章\N{\fs10\i1}I let him choose: A bullet now, or a medal after the war.
+Dialogue: 0,1:24:26.90,1:24:29.48,*Default,NTP,0000,0000,0000,,他就很乐意地给我了\N{\fs10\i1}He gave'm gladly.
+Dialogue: 0,1:24:34.28,1:24:36.99,*Default,NTP,0000,0000,0000,,葛本，你要干什么？\N{\fs10\i1}Gerben, what are you up to?
+Dialogue: 0,1:24:36.99,1:24:39.12,*Default,NTP,0000,0000,0000,,我不会让你们单独去的\N{\fs10\i1}I will not let you go alone.
+Dialogue: 0,1:24:39.12,1:24:42.21,*Default,NTP,0000,0000,0000,,- 这事我决定，你留在这里 - 我不能干坐着\N{\fs10\i1}I decide that. You stay here. - I can't stay here and do nothing.
+Dialogue: 0,1:24:42.21,1:24:44.92,*Default,NTP,0000,0000,0000,,我会救出那40个战友 你的任务是带他们安全离开这里\N{\fs10\i1}I'm going to liberate 40 man. It's your job to get them safely out of here.
+Dialogue: 0,1:24:44.92,1:24:48.29,*Default,NTP,0000,0000,0000,,每个人都有自己的任务 钥匙给我\N{\fs10\i1}Everybody has a job, that one is yours. The keys.
+Dialogue: 0,1:24:55.47,1:24:57.76,*Default,NTP,0000,0000,0000,,葛本\N{\fs10\i1}Gerben.
+Dialogue: 0,1:24:59.47,1:25:03.73,*Default,NTP,0000,0000,0000,,蒂姆一定会回来的 我向你承诺\N{\fs10\i1}You will get Tim back. On my word of honour.
+Dialogue: 0,1:25:06.06,1:25:08.81,*Default,NTP,0000,0000,0000,,- 你怎么还不就位？ - 蒙茨被捕了\N{\fs10\i1}Why aren't you at your station? Müntze go arrested.
+Dialogue: 0,1:25:08.81,1:25:11.61,*Default,NTP,0000,0000,0000,,- 我们听说了 - 很好，德国佬自相残杀了\N{\fs10\i1}Yes we heard. - Good so the krauts are killing among themselves.
+Dialogue: 0,1:25:11.61,1:25:15.78,*Default,NTP,0000,0000,0000,,- 救出蒙茨 - 想也别想\N{\fs10\i1}Get Müntze out. - Over my dead body.
+Dialogue: 0,1:25:15.78,1:25:19.62,*Default,NTP,0000,0000,0000,,救出蒙茨 不然我就退出\N{\fs10\i1}Get Müntze out, or I'm out.
+Dialogue: 0,1:25:21.37,1:25:22.91,*Default,NTP,0000,0000,0000,,你真让我们为难\N{\fs10\i1}That leaves us no choice.
+Dialogue: 0,1:25:23.66,1:25:27.67,*Default,NTP,0000,0000,0000,,- 你真的这么看重那个混蛋？ - 是的\N{\fs10\i1}You really think this highly of this dick? - Yes, I do.
+Dialogue: 0,1:25:30.63,1:25:32.42,*Default,NTP,0000,0000,0000,,好吧，带上他\N{\fs10\i1}Good. Take him.
+Dialogue: 0,1:25:39.14,1:25:42.27,*Default,NTP,0000,0000,0000,,- 嗨 - 嗨\N{\fs10\i1}Hi. - Hey
+Dialogue: 0,1:25:43.68,1:25:45.48,*Default,NTP,0000,0000,0000,,又是聚会，太好了\N{\fs10\i1}Nice, a party.
+Dialogue: 0,1:25:47.90,1:25:50.48,*Default,NTP,0000,0000,0000,,蒙茨被捕你一点也不担心？\N{\fs10\i1}Müntze being arrested doesn't do you anything?
+Dialogue: 0,1:25:51.52,1:25:53.73,*Default,NTP,0000,0000,0000,,只要活着，就有希望\N{\fs10\i1}Where there is life, there is hope.
+Dialogue: 0,1:25:54.53,1:25:55.70,*Default,NTP,0000,0000,0000,,我们还能有什么希望？\N{\fs10\i1}What hope, do we have left?
+Dialogue: 0,1:25:56.28,1:25:57.82,*Default,NTP,0000,0000,0000,,英国兵就要来了\N{\fs10\i1}That the Tommy's will arrive.
+Dialogue: 0,1:25:58.57,1:26:04.87,*Default,NTP,0000,0000,0000,,艾莉丝，我们完蛋了 我们给德国佬工作\N{\fs10\i1}Ellis, we're finished. We worked for the krauts.
+Dialogue: 0,1:26:04.91,1:26:08.33,*Default,NTP,0000,0000,0000,,被富兰肯折磨过的那些人的家属 会来这里找我们算帐\N{\fs10\i1}The families of the poor bastards that Franken tortured will come here.
+Dialogue: 0,1:26:08.46,1:26:11.21,*Default,NTP,0000,0000,0000,,抵抗组织的人也可能杀我们\N{\fs10\i1}Or the resistance will kill us.
+Dialogue: 0,1:26:13.25,1:26:14.67,*Default,NTP,0000,0000,0000,,他们不会杀任何人\N{\fs10\i1}The resistance won't kill anyone.
+Dialogue: 0,1:26:14.88,1:26:16.01,*Default,NTP,0000,0000,0000,,好像你知道似的\N{\fs10\i1}Like you know.
+Dialogue: 0,1:26:16.26,1:26:18.76,*Default,NTP,0000,0000,0000,,对，我知道\N{\fs10\i1}Yes, I do.
+Dialogue: 0,1:26:23.10,1:26:24.47,*Default,NTP,0000,0000,0000,,你认识那些家伙？\N{\fs10\i1}So you know those guys?
+Dialogue: 0,1:26:27.60,1:26:30.73,*Default,NTP,0000,0000,0000,,艾莉丝…你是？\N{\fs10\i1}Ellis…. What?
+Dialogue: 0,1:26:31.90,1:26:33.40,*Default,NTP,0000,0000,0000,,你是个间谍\N{\fs10\i1}You're a spy.
+Dialogue: 0,1:26:33.98,1:26:38.15,*Default,NTP,0000,0000,0000,,天啊 我从没想到你竟然会是间谍\N{\fs10\i1}Jesus. I had never thought you would.
+Dialogue: 0,1:26:38.20,1:26:41.45,*Default,NTP,0000,0000,0000,,就像演玛塔·哈里的那个葛丽泰·嘉宝 （玛塔·哈里：一战时荷兰的女间谍）\N{\fs10\i1}That's like Mata Hari, with Greta Garbo
+Dialogue: 0,1:26:42.83,1:26:45.04,*Default,NTP,0000,0000,0000,,女士们，大家在等你们\N{\fs10\i1}Ladies, you are expected.
+Dialogue: 0,1:26:46.54,1:26:48.25,*Default,NTP,0000,0000,0000,,你先去吧，我就来\N{\fs10\i1}You go ahead, I'll join.
+Dialogue: 0,1:26:53.13,1:26:56.84,*Default,NTP,0000,0000,0000,,那个嘉宝 最后还是死了\N{\fs10\i1}That Garbo, huh. She did die though.
+Dialogue: 0,1:28:06.37,1:28:07.74,*Default,NTP,0000,0000,0000,,请出示证件\N{\fs10\i1}Show me your papers.
+Dialogue: 0,1:28:09.29,1:28:12.12,*Default,NTP,0000,0000,0000,,从乌得勒支押来的俘虏\N{\fs10\i1}Hostages and terrorists from Utrecht.
+Dialogue: 0,1:28:12.12,1:28:14.25,*Default,NTP,0000,0000,0000,,一共6个人，明天枪决\N{\fs10\i1}6 men, for the execution tomorrow.
+Dialogue: 0,1:28:16.38,1:28:17.55,*Default,NTP,0000,0000,0000,,俘虏\N{\fs10\i1}Hostages.
+Dialogue: 0,1:28:21.01,1:28:22.18,*Default,NTP,0000,0000,0000,,可以了\N{\fs10\i1}Right.
+Dialogue: 0,1:28:22.93,1:28:24.72,*Default,NTP,0000,0000,0000,,进去吧\N{\fs10\i1}Move along.
+Dialogue: 0,1:28:25.39,1:28:27.10,*Default,NTP,0000,0000,0000,,开门\N{\fs10\i1}Open up.
+Dialogue: 0,1:29:15.94,1:29:17.40,*Default,NTP,0000,0000,0000,,你把车调个头\N{\fs10\i1}You turn the van around.
+Dialogue: 0,1:29:26.91,1:29:27.91,*Default,NTP,0000,0000,0000,,跟我来\N{\fs10\i1}Follow me.
+Dialogue: 0,1:29:38.50,1:29:39.42,*Default,NTP,0000,0000,0000,,胡斯\N{\fs10\i1}Guus.
+Dialogue: 0,1:30:05.90,1:30:07.11,*Default,NTP,0000,0000,0000,,艾莉丝\N{\fs10\i1}Ellis.
+Dialogue: 0,1:30:19.67,1:30:23.71,*Default,NTP,0000,0000,0000,,＂这就是我要唱得旋律＂\N{\fs10\i1}# ja, das ist meine Melodie nach der ich singen muss
+Dialogue: 0,1:30:23.75,1:30:26.76,*Default,NTP,0000,0000,0000,,＂口哨，舞动和跳动的旋律＂\N{\fs10\i1}# nach der ich pfeifen muss und tanzen muss, und springen muss
+Dialogue: 0,1:30:26.80,1:30:31.39,*Default,NTP,0000,0000,0000,,＂每个音符都会抓住你的心 每个人都为此陶醉＂\N{\fs10\i1}# die man beim ersten Ton versteht weil sie jedem in die Beine geht
+Dialogue: 0,1:30:32.31,1:30:36.35,*Default,NTP,0000,0000,0000,,＂就是这个旋律 让我感到幸福无比＂\N{\fs10\i1}# ja, das ist eine Melodie die mich so selig macht
+Dialogue: 0,1:30:36.39,1:30:39.31,*Default,NTP,0000,0000,0000,,＂当我听到这旋律 总是幸福不已＂\N{\fs10\i1}# wenn ich sie h鰎e, hab ich immer an das GI點k gedacht
+Dialogue: 0,1:30:39.35,1:30:43.90,*Default,NTP,0000,0000,0000,,＂请告诉我 你们也喜欢，我最爱的旋律＂\N{\fs10\i1}# ach bitte sagt mir, liebt ihr sie meine kleine Lieblingsmelodie
+Dialogue: 0,1:31:10.22,1:31:11.34,*Default,NTP,0000,0000,0000,,上\N{\fs10\i1}Go.
+Dialogue: 0,1:31:11.80,1:31:14.76,*Default,NTP,0000,0000,0000,,- 蒙茨也带走？ - 我们答应过艾莉丝\N{\fs10\i1}Müntze too? - We promised Ellis.
+Dialogue: 0,1:31:19.35,1:31:20.44,*Default,NTP,0000,0000,0000,,希姆\N{\fs10\i1}Siem.
+Dialogue: 0,1:31:21.02,1:31:22.40,*Default,NTP,0000,0000,0000,,嗨，我们来了\N{\fs10\i1}hi, come.
+Dialogue: 0,1:31:27.82,1:31:29.61,*Default,NTP,0000,0000,0000,,是我，玛登\N{\fs10\i1}It's me, Maarten.
+Dialogue: 0,1:31:30.82,1:31:32.07,*Default,NTP,0000,0000,0000,,玛登\N{\fs10\i1}Maarten.
+Dialogue: 0,1:31:33.37,1:31:37.25,*Default,NTP,0000,0000,0000,,嗨，蒂姆 伙计\N{\fs10\i1}Hi Tim, old boy.
+Dialogue: 0,1:32:22.50,1:32:24.67,*Default,NTP,0000,0000,0000,,大家一起唱\N{\fs10\i1}All together. Chorus.
+Dialogue: 0,1:32:29.96,1:32:31.88,*Default,NTP,0000,0000,0000,,伙计们，赶快\N{\fs10\i1}Boys hurry up.
+Dialogue: 0,1:33:12.80,1:33:15.89,*Default,NTP,0000,0000,0000,,下面发生什么事情了？\N{\fs10\i1}What's going on down there?
+Dialogue: 0,1:33:15.97,1:33:18.89,*Default,NTP,0000,0000,0000,,都在掌握之中\N{\fs10\i1}Nothing we can't handle.
+Dialogue: 0,1:33:19.93,1:33:20.97,*Default,NTP,0000,0000,0000,,卫兵\N{\fs10\i1}Guards.
+Dialogue: 0,1:33:36.74,1:33:37.78,*Default,NTP,0000,0000,0000,,蒂姆！\N{\fs10\i1}Tim.
+Dialogue: 0,1:33:41.16,1:33:42.95,*Default,NTP,0000,0000,0000,,- 快走 - 约普！\N{\fs10\i1}Go. - Joop.
+Dialogue: 0,1:34:12.28,1:34:14.82,*Default,NTP,0000,0000,0000,,- 怎么回事？ - 马上离开\N{\fs10\i1}What happened? - Go, now.
+Dialogue: 0,1:34:21.87,1:34:23.33,*Default,NTP,0000,0000,0000,,放松\N{\fs10\i1}Easy.
+Dialogue: 0,1:34:24.87,1:34:26.25,*Default,NTP,0000,0000,0000,,撞开它\N{\fs10\i1}Hit it.
+Dialogue: 0,1:34:49.94,1:34:56.74,*Default,NTP,0000,0000,0000,,罗妮，你去帮凯特纳先生 艾莉丝，你跟我来写份报告\N{\fs10\i1}Ronnie, you help K鋟tner. Ellis, come with me to write a report.
+Dialogue: 0,1:35:16.30,1:35:17.34,*Default,NTP,0000,0000,0000,,怎么样？\N{\fs10\i1}And?
+Dialogue: 0,1:35:18.55,1:35:21.68,*Default,NTP,0000,0000,0000,,那是个陷阱 我们完全失败了\N{\fs10\i1}A trap. Complete failure.
+Dialogue: 0,1:35:26.60,1:35:27.56,*Default,NTP,0000,0000,0000,,蒂姆他？\N{\fs10\i1}And Tim?
+Dialogue: 0,1:35:34.48,1:35:37.61,*Default,NTP,0000,0000,0000,,天啊…\N{\fs10\i1}oh God.
+Dialogue: 0,1:35:45.41,1:35:47.41,*Default,NTP,0000,0000,0000,,请坐吧\N{\fs10\i1}Have a seat.
+Dialogue: 0,1:35:48.33,1:35:53.13,*Default,NTP,0000,0000,0000,,艾莉丝，这事你办得真棒\N{\fs10\i1}Ellis you did a great job.
+Dialogue: 0,1:35:54.42,1:35:56.17,*Default,NTP,0000,0000,0000,,我非常满意\N{\fs10\i1}I am very satisfied.
+Dialogue: 0,1:35:57.59,1:36:01.93,*Default,NTP,0000,0000,0000,,应该的 每个人都该为元首尽忠\N{\fs10\i1}Well of course, one does what one can for the Fürer.
+Dialogue: 0,1:36:01.97,1:36:05.39,*Default,NTP,0000,0000,0000,,是啊，但结果真是 出乎意料的好\N{\fs10\i1}Yes, but the result is above all expectations.
+Dialogue: 0,1:36:05.60,1:36:09.35,*Default,NTP,0000,0000,0000,,- 这不可能 - 该死的！\N{\fs10\i1}It can't be true? - God damn
+Dialogue: 0,1:36:09.35,1:36:14.81,*Default,NTP,0000,0000,0000,,他们完全陷入了我们的圈套\N{\fs10\i1}They have been beautifully set up with that coal hatch.
+Dialogue: 0,1:36:15.23,1:36:17.53,*Default,NTP,0000,0000,0000,,就像瓮中之鳖\N{\fs10\i1}Like rats in cage.
+Dialogue: 0,1:36:21.32,1:36:23.87,*Default,NTP,0000,0000,0000,,这是你应得的钱\N{\fs10\i1}You earned your money fair and square.
+Dialogue: 0,1:36:23.87,1:36:28.49,*Default,NTP,0000,0000,0000,,那婊子出卖了我们 肮脏的犹太骗子！\N{\fs10\i1}The bitch tricked us. What a dirty jewish trick.
+Dialogue: 0,1:36:28.49,1:36:31.00,*Default,NTP,0000,0000,0000,,- 看到没，你绝对不能相信他们 - 安静！\N{\fs10\i1}See, you can't trust them. - Silence.
+Dialogue: 0,1:36:31.00,1:36:36.42,*Default,NTP,0000,0000,0000,,现在希姆莱的画像可以拿下来了 你可以亲自去拿，宝贝 （海因里希·希姆莱——党卫队首领）\N{\fs10\i1}Himmler can come down now. You may do that dear.
+Dialogue: 0,1:36:41.38,1:36:44.51,*Default,NTP,0000,0000,0000,,我们不再需要 这个英国玩具了\N{\fs10\i1}We won't be needing this english toy now anymore.
+Dialogue: 0,1:36:45.80,1:36:48.93,*Default,NTP,0000,0000,0000,,我亲爱的凯普斯先生 向您道别了\N{\fs10\i1}My dear Kuipers, Lieutenant Kuipers, is saying goodbye to you now.
+Dialogue: 0,1:36:50.89,1:36:54.02,*Default,NTP,0000,0000,0000,,艾莉丝，你还要说什么吗？\N{\fs10\i1}Ellis, one last word?
+Dialogue: 0,1:36:56.81,1:36:59.94,*Default,NTP,0000,0000,0000,,这婊子居然在笑\N{\fs10\i1}She laughs. That bitch laughs.
+Dialogue: 0,1:37:00.36,1:37:07.33,*Default,NTP,0000,0000,0000,,那么晚安，你做得很好 谢谢你的合作\N{\fs10\i1}Good night and good watch. Thank you for your cooperation.
+Dialogue: 0,1:37:21.96,1:37:25.55,*Default,NTP,0000,0000,0000,,您真是颇费周折，亲爱的\N{\fs10\i1}Never bite more than you can chew, darling.
+Dialogue: 0,1:37:26.09,1:37:29.43,*Default,NTP,0000,0000,0000,,明天你就会被送上刑场 和你的蒙茨一起\N{\fs10\i1}Tomorrow, firing squad, along side with your Müntze.
+Dialogue: 0,1:37:39.19,1:37:43.49,*Default,NTP,0000,0000,0000,,只要我还活着 我就要她死！\N{\fs10\i1}Even if it's the last thing I can do: That girl dies.
+Dialogue: 0,1:37:44.78,1:37:46.49,*Default,NTP,0000,0000,0000,,作为犹太人 她怎么能这样？\N{\fs10\i1}How can she do that, as a jew?
+Dialogue: 0,1:37:46.49,1:37:49.62,*Default,NTP,0000,0000,0000,,- 谁知道她承受了多少压力 - 即使这样…\N{\fs10\i1}Who knows, under how much pressure she was. - Still..
+Dialogue: 0,1:37:50.12,1:37:54.46,*Default,NTP,0000,0000,0000,,如果那是你 你选择子弹还是背叛呢\N{\fs10\i1}What if you had to chose between a bullet or treason.
+Dialogue: 0,1:37:54.50,1:37:57.83,*Default,NTP,0000,0000,0000,,这不是借口 无论如何，我们都要杀了她\N{\fs10\i1}An explanation is not an excuse. We kill the girl, no matter what.
+Dialogue: 0,1:37:59.29,1:38:03.26,*Default,NTP,0000,0000,0000,,无论如何！无论如何！\N{\fs10\i1}Wherever, whenever.
+Dialogue: 0,1:38:07.47,1:38:09.18,*Default,NTP,0000,0000,0000,,快走！\N{\fs10\i1}Move along.
+Dialogue: 0,1:38:52.60,1:38:55.77,*Default,NTP,0000,0000,0000,,空了！空了！\N{\fs10\i1}Empty, empty.
+Dialogue: 0,1:38:58.81,1:39:00.73,*Default,NTP,0000,0000,0000,,来，这儿\N{\fs10\i1}Here, come here.
+Dialogue: 0,1:39:04.73,1:39:11.41,*Default,NTP,0000,0000,0000,,不要啊，我的漂亮衣服 快，给我手帕\N{\fs10\i1}Oh, no my beautiful dress. Quickly a hanky.
+Dialogue: 0,1:39:16.16,1:39:17.54,*Default,NTP,0000,0000,0000,,好痒\N{\fs10\i1}That tickles.
+Dialogue: 0,1:39:31.47,1:39:32.68,*Default,NTP,0000,0000,0000,,好痒\N{\fs10\i1}That tickles.
+Dialogue: 0,1:40:20.48,1:40:21.52,*Default,NTP,0000,0000,0000,,嘘…\N{\fs10\i1}Ssshhh…
+Dialogue: 0,1:40:24.31,1:40:25.40,*Default,NTP,0000,0000,0000,,来\N{\fs10\i1}Come.
+Dialogue: 0,1:40:41.54,1:40:42.58,*Default,NTP,0000,0000,0000,,把枪给我\N{\fs10\i1}Give me the gun.
+Dialogue: 0,1:40:56.43,1:40:59.56,*Default,NTP,0000,0000,0000,,富兰肯永远也别想活抓我们 永远别想！\N{\fs10\i1}Franken, will never catch us alive. Never.
+Dialogue: 0,1:41:07.82,1:41:09.11,*Default,NTP,0000,0000,0000,,走吧\N{\fs10\i1}Move along
+Dialogue: 0,1:41:09.94,1:41:11.28,*Default,NTP,0000,0000,0000,,过来，快点\N{\fs10\i1}Come, hurry up.
+Dialogue: 0,1:41:12.99,1:41:14.78,*Default,NTP,0000,0000,0000,,都正常了吧，希格弗里德？\N{\fs10\i1}Everything in order again, Siegfried?
+Dialogue: 0,1:41:14.86,1:41:15.49,*Default,NTP,0000,0000,0000,,是啊\N{\fs10\i1}Yeah
+Dialogue: 0,1:41:20.20,1:41:22.00,*Default,NTP,0000,0000,0000,,走吧\N{\fs10\i1}Move along.
+Dialogue: 0,1:41:22.16,1:41:25.75,*Default,NTP,0000,0000,0000,,- 快走！ - 今晚你可真不友好啊\N{\fs10\i1}Make way! - Not very friendly today are we.
+Dialogue: 0,1:41:48.23,1:41:50.73,*Default,NTP,0000,0000,0000,,没想到你这么勤劳啊\N{\fs10\i1}Very diligent. I'd never have thought.
+Dialogue: 0,1:41:50.94,1:41:53.36,*Default,NTP,0000,0000,0000,,懒人，擦干\N{\fs10\i1}Here you lazy, dry'em.
+Dialogue: 0,1:41:57.66,1:41:58.99,*Default,NTP,0000,0000,0000,,很安逸吧\N{\fs10\i1}Cosy, huh?
+Dialogue: 0,1:42:02.41,1:42:04.71,*Default,NTP,0000,0000,0000,,我希望永远能这样\N{\fs10\i1}I wish, it could stay like that forever.
+Dialogue: 0,1:42:04.71,1:42:07.71,*Default,NTP,0000,0000,0000,,当然能 只要我们在一起\N{\fs10\i1}It can, if we stay together.
+Dialogue: 0,1:42:08.08,1:42:09.63,*Default,NTP,0000,0000,0000,,永远？\N{\fs10\i1}Forever.
+Dialogue: 0,1:42:15.97,1:42:17.80,*Default,NTP,0000,0000,0000,,但不能待在荷兰\N{\fs10\i1}But not here in Holland.
+Dialogue: 0,1:42:18.47,1:42:21.60,*Default,NTP,0000,0000,0000,,他们认为我是叛徒 会追捕我\N{\fs10\i1}They'll think I am a traitor. They will look for me.
+Dialogue: 0,1:42:21.85,1:42:26.31,*Default,NTP,0000,0000,0000,,我们必须澄清那事 把叛变的事实告诉他们\N{\fs10\i1}We'll have to straighten that out. We know what the treason was like.
+Dialogue: 0,1:42:26.35,1:42:31.15,*Default,NTP,0000,0000,0000,,你真乐观，你真以为他们会 听一个党卫队保安部军官说话吗？\N{\fs10\i1}Optimist. Do you really think they'll let you finish your talk as an SD- officer.
+Dialogue: 0,1:42:31.36,1:42:33.11,*Default,NTP,0000,0000,0000,,我们别无选择\N{\fs10\i1}We have no other choice.
+Dialogue: 0,1:42:39.03,1:42:42.16,*Default,NTP,0000,0000,0000,,［节目暂停，插播如下公告］\N{\fs10\i1}We interrupt this program for the following announcement:
+Dialogue: 0,1:42:43.79,1:42:47.58,*Default,NTP,0000,0000,0000,,［德国司令部同意撤出…］\N{\fs10\i1}The german command has agreed to surrender…
+Dialogue: 0,1:42:47.62,1:42:53.92,*Default,NTP,0000,0000,0000,,［…在荷兰以及德国西北 和丹麦的德军武装力量］\N{\fs10\i1}… Of all german armed forces in Holland, the north west of Germany and Denmark…
+Dialogue: 0,1:42:53.96,1:42:56.42,*Default,NTP,0000,0000,0000,,［全部交由第21军总司令接管］\N{\fs10\i1}To the commander in chief of the 21st army.
+Dialogue: 0,1:42:56.42,1:42:58.76,*Default,NTP,0000,0000,0000,,战争结束了，亲爱的 战争结束了\N{\fs10\i1}The war is over, my love. The war is gone.
+Dialogue: 0,1:42:58.76,1:43:01.89,*Default,NTP,0000,0000,0000,,［包括所有海军舰船］\N{\fs10\i1}This includes all the marine vessels.
+Dialogue: 0,1:43:03.10,1:43:04.39,*Default,NTP,0000,0000,0000,,对我们来说 只是刚刚开始\N{\fs10\i1}For us it is merely starting.
+Dialogue: 0,1:43:06.64,1:43:10.77,*Default,NTP,0000,0000,0000,,我从没想到过 我居然会害怕解放\N{\fs10\i1}I'd never thought to be afraid of liberation.
+Dialogue: 0,1:43:33.88,1:43:35.88,*Default,NTP,0000,0000,0000,,富兰肯中尉\N{\fs10\i1}Lieutenant Franken.
+Dialogue: 0,1:43:53.15,1:43:54.44,*Default,NTP,0000,0000,0000,,中尉\N{\fs10\i1}Lieutenant
+Dialogue: 0,1:44:00.11,1:44:01.95,*Default,NTP,0000,0000,0000,,解开绳索\N{\fs10\i1}Ropes away.
+Dialogue: 0,1:44:29.89,1:44:32.27,*Default,NTP,0000,0000,0000,,- 你设定好航向了吗？ - 是的\N{\fs10\i1}Did you set course? - Yes.
+Dialogue: 0,1:44:32.31,1:44:36.27,*Default,NTP,0000,0000,0000,,- 6小时后我们就在汉堡了 - 很好\N{\fs10\i1}In 6 hours, we'll be in Hamburg. - Very good
+Dialogue: 0,1:44:51.46,1:44:54.17,*Default,NTP,0000,0000,0000,,- 去下面检查一下 - 是\N{\fs10\i1}-  Have a look down below. -  Yes
+Dialogue: 0,1:45:03.93,1:45:05.39,*Default,NTP,0000,0000,0000,,约瑟夫，怎么回事？\N{\fs10\i1}Joseph, what's wrong.
+Dialogue: 0,1:45:05.97,1:45:07.10,*Default,NTP,0000,0000,0000,,约瑟夫？\N{\fs10\i1}Joseph?
+Dialogue: 0,1:45:17.57,1:45:18.32,*Default,NTP,0000,0000,0000,,约瑟夫？\N{\fs10\i1}Joseph?
+Dialogue: 0,1:45:37.67,1:45:40.55,*Default,NTP,0000,0000,0000,,你真以为我们会放过你吗？\N{\fs10\i1}Did your really think, we'd let you get away?
+Dialogue: 0,1:45:40.59,1:45:44.59,*Default,NTP,0000,0000,0000,,- 你怎么在这里？ - 来取你的命和你的财宝\N{\fs10\i1}What are you doing here? - You. And your treasure.
+Dialogue: 0,1:46:20.04,1:46:21.21,*Default,NTP,0000,0000,0000,,艾莉丝！\N{\fs10\i1}Ellis.
+Dialogue: 0,1:46:22.71,1:46:24.22,*Default,NTP,0000,0000,0000,,艾莉丝！\N{\fs10\i1}Ellis.
+Dialogue: 0,1:46:24.51,1:46:26.01,*Default,NTP,0000,0000,0000,,艾莉丝！\N{\fs10\i1}Ellis.
+Dialogue: 0,1:46:26.72,1:46:29.18,*Default,NTP,0000,0000,0000,,艾莉丝，这里 吉普车上\N{\fs10\i1}Ellis. Here, on the jeep.
+Dialogue: 0,1:46:34.35,1:46:36.85,*Default,NTP,0000,0000,0000,,- 罗妮 - 嗨，艾莉丝，加入我们\N{\fs10\i1}Ronnie. - Hi, Ellis. Join us.
+Dialogue: 0,1:46:36.85,1:46:39.40,*Default,NTP,0000,0000,0000,,- 你怎么到这上来了？ - 因为我站在前排\N{\fs10\i1}How did you get here? - Just stand in front.
+Dialogue: 0,1:46:39.40,1:46:41.98,*Default,NTP,0000,0000,0000,,欢声笑语，拥挤不堪\N{\fs10\i1}A bit of laughing and pushing around.
+Dialogue: 0,1:46:42.02,1:46:45.49,*Default,NTP,0000,0000,0000,,看，我的新男友 他拥有女孩想要的一切\N{\fs10\i1}Look, my new boyfriend. He has everything a girl wants.
+Dialogue: 0,1:46:45.53,1:46:49.07,*Default,NTP,0000,0000,0000,,尼龙布，巧克力，还有威士忌 我爱他！\N{\fs10\i1}Nylons, Chocolate and whiskey. Oh, I love him.!
+Dialogue: 0,1:46:49.37,1:46:52.49,*Default,NTP,0000,0000,0000,,- 上来吧 - 不了，我还有事\N{\fs10\i1}Come ride with me. No, I have no time.
+Dialogue: 0,1:46:52.87,1:46:55.04,*Default,NTP,0000,0000,0000,,好吧，再见\N{\fs10\i1}Ok, see you soon.
+Dialogue: 0,1:46:55.83,1:46:58.33,*Default,NTP,0000,0000,0000,,拜拜！拜拜！\N{\fs10\i1}Bye. Bye.
+Dialogue: 0,1:47:05.84,1:47:07.34,*Default,NTP,0000,0000,0000,,［卖国贼］\N{\fs10\i1}[Traitor]
+Dialogue: 0,1:47:15.77,1:47:17.39,*Default,NTP,0000,0000,0000,,［娼妓］\N{\fs10\i1}[Whore]
+Dialogue: 0,1:47:37.33,1:47:39.83,*Default,NTP,0000,0000,0000,,等一下 我们就来了\N{\fs10\i1}One moment, we're coming.
+Dialogue: 0,1:47:39.87,1:47:42.59,*Default,NTP,0000,0000,0000,,威姆，那些加拿大人来了\N{\fs10\i1}Come, Wim. The canadians are here.
+Dialogue: 0,1:47:47.26,1:47:50.30,*Default,NTP,0000,0000,0000,,不会吧，你们还都活着？\N{\fs10\i1}No. You're still alive?
+Dialogue: 0,1:47:50.30,1:47:53.43,*Default,NTP,0000,0000,0000,,是啊，惊讶吧 这么多人都想杀我们\N{\fs10\i1}Yes, strange huh, with all those people trying to kill us.
+Dialogue: 0,1:47:54.22,1:47:56.47,*Default,NTP,0000,0000,0000,,我以为富兰肯已经枪决了你们\N{\fs10\i1}I thought Franken had shot you.
+Dialogue: 0,1:47:56.47,1:47:58.81,*Default,NTP,0000,0000,0000,,他没告诉你我们逃走了？\N{\fs10\i1}Surely he told you we got away?
+Dialogue: 0,1:47:59.35,1:48:02.48,*Default,NTP,0000,0000,0000,,富兰肯？告诉我？\N{\fs10\i1}Franken? Tell me? Me?
+Dialogue: 0,1:48:02.69,1:48:05.82,*Default,NTP,0000,0000,0000,,我们已经出去躲了好几周了 才刚回来半小时\N{\fs10\i1}We've been in hiding for weeks. We just got home half an hour ago.
+Dialogue: 0,1:48:06.07,1:48:09.70,*Default,NTP,0000,0000,0000,,- 没人说你们要离开 - 你这是什么意思？\N{\fs10\i1}Who says you are not trying to leave? - What do you mean child?
+Dialogue: 0,1:48:10.20,1:48:14.20,*Default,NTP,0000,0000,0000,,加拿大战地保卫正要来接我们\N{\fs10\i1}I am about to be picked up by canadian field security
+Dialogue: 0,1:48:14.20,1:48:17.04,*Default,NTP,0000,0000,0000,,好，那我们跟你们一起去\N{\fs10\i1}Good, then we'll join you.
+Dialogue: 0,1:48:17.41,1:48:21.87,*Default,NTP,0000,0000,0000,,- 那我们在你办公室等吧 - 路德维希，你这是干什么？\N{\fs10\i1}We'll wait in your office. - Ludwig, what's wrong with you?
+Dialogue: 0,1:48:21.92,1:48:22.42,*Default,NTP,0000,0000,0000,,进去！\N{\fs10\i1}Go inside!
+Dialogue: 0,1:48:23.71,1:48:24.88,*Default,NTP,0000,0000,0000,,坐下\N{\fs10\i1}Sit down.
+Dialogue: 0,1:48:25.84,1:48:26.84,*Default,NTP,0000,0000,0000,,坐下\N{\fs10\i1}Sit down.
+Dialogue: 0,1:48:32.09,1:48:35.93,*Default,NTP,0000,0000,0000,,你们认为 我是那次伏击的幕后黑手吗？\N{\fs10\i1}So you think I am guilty for the desastrous attack?
+Dialogue: 0,1:48:35.97,1:48:39.02,*Default,NTP,0000,0000,0000,,是的 还有你对你犹太客户的屠杀\N{\fs10\i1}Yes and for the extradiction of your jewish clients.
+Dialogue: 0,1:48:39.14,1:48:43.91,*Default,NTP,0000,0000,0000,,你胡说！ 他们都是认识他多年的朋友\N{\fs10\i1}How dare you. Most of them knew him for years. They were friends.
+Dialogue: 0,1:48:43.94,1:48:46.02,*Default,NTP,0000,0000,0000,,我这么做有何利益？\N{\fs10\i1}What would be my gain?
+Dialogue: 0,1:48:46.02,1:48:49.07,*Default,NTP,0000,0000,0000,,为了偷走他们委托你的财宝 你和富兰肯！\N{\fs10\i1}By stealing of what they entrusted you with. You and Franken.
+Dialogue: 0,1:48:49.07,1:48:50.70,*Default,NTP,0000,0000,0000,,你告诉了他窃听器的事情\N{\fs10\i1}You betrayed him where the microphone was.
+Dialogue: 0,1:48:50.70,1:48:52.99,*Default,NTP,0000,0000,0000,,劫狱是你的主意\N{\fs10\i1}The hold up was your idea.
+Dialogue: 0,1:48:52.99,1:48:54.66,*Default,NTP,0000,0000,0000,,你设计想杀害汉斯和他的战友\N{\fs10\i1}You let Hans and his men get slaughtered.
+Dialogue: 0,1:48:54.66,1:48:56.37,*Default,NTP,0000,0000,0000,,等一下，等一下\N{\fs10\i1}Wait a minute, wait a minute.
+Dialogue: 0,1:48:56.37,1:48:59.45,*Default,NTP,0000,0000,0000,,又不是只有我知道这事 凯普斯也知道啊\N{\fs10\i1}I wasn't the only one. Kuipers knew all this as well.
+Dialogue: 0,1:48:59.45,1:49:02.58,*Default,NTP,0000,0000,0000,,但是没人会让自己儿子去死\N{\fs10\i1}But nobody will have his own son killed
+Dialogue: 0,1:49:02.62,1:49:06.38,*Default,NTP,0000,0000,0000,,每个人都有别人不知的秘密\N{\fs10\i1}Every man has unknown deapths.
+Dialogue: 0,1:49:07.63,1:49:09.59,*Default,NTP,0000,0000,0000,,我能给你们看些东西吗？\N{\fs10\i1}May I show you something?
+Dialogue: 0,1:49:12.51,1:49:16.89,*Default,NTP,0000,0000,0000,,我们躲起来后 我夫人和我努力回想过\N{\fs10\i1}While we were in hiding. My wife and I tried to put things in perspective.
+Dialogue: 0,1:49:17.01,1:49:19.22,*Default,NTP,0000,0000,0000,,我检查了我的记事本\N{\fs10\i1}I examined my agenda.
+Dialogue: 0,1:49:19.81,1:49:24.02,*Default,NTP,0000,0000,0000,,最后我们得出了一个基本结论 对吧，亲爱的？\N{\fs10\i1}And we came to a radical conclusion. Didn't we darling?
+Dialogue: 0,1:49:24.48,1:49:25.73,*Default,NTP,0000,0000,0000,,什么结论？\N{\fs10\i1}And that is?
+Dialogue: 0,1:49:26.36,1:49:29.36,*Default,NTP,0000,0000,0000,,你们得和我们一起去 加拿大警察那里\N{\fs10\i1}You'll have to join us by going to the canadian police.
+Dialogue: 0,1:49:30.49,1:49:32.15,*Default,NTP,0000,0000,0000,,现在就告诉我\N{\fs10\i1}Just tell me.
+Dialogue: 0,1:49:32.28,1:49:35.03,*Default,NTP,0000,0000,0000,,作为一个律师，我不能\N{\fs10\i1}As a lawyer, I can't.
+Dialogue: 0,1:49:35.03,1:49:38.16,*Default,NTP,0000,0000,0000,,我必须要保证公平性\N{\fs10\i1}I have to keep you unprejudiced.
+Dialogue: 0,1:49:38.16,1:49:41.33,*Default,NTP,0000,0000,0000,,一定是加拿大人来了\N{\fs10\i1}That will be the canadians.
+Dialogue: 0,1:49:42.66,1:49:46.46,*Default,NTP,0000,0000,0000,,每个嫌疑人都会 受到公正的审判\N{\fs10\i1}Every suspect deserves a fair trial.
+Dialogue: 0,1:49:46.92,1:49:48.54,*Default,NTP,0000,0000,0000,,即使是最毒辣的混蛋？\N{\fs10\i1}Even the biggest bastard?
+Dialogue: 0,1:49:49.75,1:49:51.38,*Default,NTP,0000,0000,0000,,也会如此\N{\fs10\i1}Even those.
+Dialogue: 0,1:49:56.18,1:49:59.14,*Default,NTP,0000,0000,0000,,我们来了 你？\N{\fs10\i1}We're coming. You?
+Dialogue: 0,1:50:02.56,1:50:03.64,*Default,NTP,0000,0000,0000,,威姆？\N{\fs10\i1}Wim?
+Dialogue: 0,1:50:04.81,1:50:05.85,*Default,NTP,0000,0000,0000,,威姆？\N{\fs10\i1}Wim?
+Dialogue: 0,1:50:14.24,1:50:15.45,*Default,NTP,0000,0000,0000,,待在这里\N{\fs10\i1}Stay here.
+Dialogue: 0,1:50:49.56,1:50:52.69,*Default,NTP,0000,0000,0000,,- 看 - 该死的，那是蒙茨，抓住他！\N{\fs10\i1}Look. - God damn, that's Müntze. Get him.
+Dialogue: 0,1:51:03.87,1:51:07.62,*Default,NTP,0000,0000,0000,,蒙茨，我们抓到蒙茨了！\N{\fs10\i1}Müntze, we've got Müntze.
+Dialogue: 0,1:51:09.00,1:51:12.13,*Default,NTP,0000,0000,0000,,我们抓到蒙茨了！\N{\fs10\i1}We have Müntze.
+Dialogue: 0,1:51:21.55,1:51:25.73,*Default,NTP,0000,0000,0000,,该死，那是艾莉丝·弗里斯 跟我来！\N{\fs10\i1}God damn. There's Ellis de Vries. Come with me.
+Dialogue: 0,1:51:27.19,1:51:29.06,*Default,NTP,0000,0000,0000,,艾莉丝·弗里斯\N{\fs10\i1}Ellis de Vries.
+Dialogue: 0,1:51:37.45,1:51:39.28,*Default,NTP,0000,0000,0000,,这里！\N{\fs10\i1}Over here.
+Dialogue: 0,1:51:50.25,1:51:53.54,*Default,NTP,0000,0000,0000,,抓到你了，婊子！\N{\fs10\i1}I've got you. Bitch.
+Dialogue: 0,1:52:09.73,1:52:12.86,*Default,NTP,0000,0000,0000,,蒙茨上尉 拿掉他的手铐，约翰\N{\fs10\i1}Captain Müntze. Take of his cuffs, John.
+Dialogue: 0,1:52:15.44,1:52:17.15,*Default,NTP,0000,0000,0000,,请坐\N{\fs10\i1}Please sit down.
+Dialogue: 0,1:52:21.91,1:52:25.03,*Default,NTP,0000,0000,0000,,这份报告上记载了关于…\N{\fs10\i1}In this report a collaboration is being described between…
+Dialogue: 0,1:52:25.16,1:52:28.29,*Default,NTP,0000,0000,0000,,…蒙茨和叫凯普斯的先生合作的事情\N{\fs10\i1}…Müntze and a certain Mr. Kuipers.
+Dialogue: 0,1:52:29.21,1:52:31.92,*Default,NTP,0000,0000,0000,,他怎么会参与进来，上校？\N{\fs10\i1}Why is this man gettin involved Colonel?
+Dialogue: 0,1:52:31.92,1:52:36.21,*Default,NTP,0000,0000,0000,,凯特纳将军友好地提供帮助 帮我们弄清这些乱事\N{\fs10\i1}General K鋟tner has very kindly offered to clear up this mess.
+Dialogue: 0,1:52:36.63,1:52:39.76,*Default,NTP,0000,0000,0000,,- 凯培斯是谁？ - 一个彻底的斯大林主义者\N{\fs10\i1}Who is this Kuipers. - A Stalinist in heart and soul.
+Dialogue: 0,1:52:39.92,1:52:42.64,*Default,NTP,0000,0000,0000,,他和蒙茨这几个月一直在共谋\N{\fs10\i1}He and Müntze haven been conspiring in the last few months.
+Dialogue: 0,1:52:42.64,1:52:44.39,*Default,NTP,0000,0000,0000,,只是想避免流血冲突！\N{\fs10\i1}To avoid bloodshed.
+Dialogue: 0,1:52:44.39,1:52:48.51,*Default,NTP,0000,0000,0000,,他在和共产主义者谈判 上校，那是我们未来的敌人\N{\fs10\i1}He was negotiating with the communists, Colonel, our future enemy.
+Dialogue: 0,1:52:48.64,1:52:49.81,*Default,NTP,0000,0000,0000,,你永远也搞不懂，凯特纳\N{\fs10\i1}You've got never K鋟tner.
+Dialogue: 0,1:52:49.81,1:52:53.75,*Default,NTP,0000,0000,0000,,我认为蒙茨为了保命 会不顾一切的撒谎\N{\fs10\i1}I consider Müntze a liar, who will do anything to save his own skin.
+Dialogue: 0,1:52:53.77,1:52:56.90,*Default,NTP,0000,0000,0000,,当然，谁不是呢？\N{\fs10\i1}Of course, who wouldn't?
+Dialogue: 0,1:53:02.24,1:53:05.83,*Default,NTP,0000,0000,0000,,无论如何，我们会查出真相的 约翰，带他去牢房\N{\fs10\i1}We'll get to the bottom of this. Take him to his cell.
+Dialogue: 0,1:53:06.87,1:53:08.86,*Default,NTP,0000,0000,0000,,如果你允许的话…\N{\fs10\i1}If you allow me.
+Dialogue: 0,1:53:09.16,1:53:12.08,*Default,NTP,0000,0000,0000,,约翰，等下\N{\fs10\i1}John.
+Dialogue: 0,1:53:13.54,1:53:15.70,*Default,NTP,0000,0000,0000,,这是死刑执行令\N{\fs10\i1}This is a death warrant.
+Dialogue: 0,1:53:15.71,1:53:19.92,*Default,NTP,0000,0000,0000,,蒙茨因为叛国罪 被军事法庭判处死刑\N{\fs10\i1}Müntze has been sentenced to death for high treason.
+Dialogue: 0,1:53:23.84,1:53:28.51,*Default,NTP,0000,0000,0000,,德国法律裁决和我无关 那些裁决都是无效的\N{\fs10\i1}The rulings of german law are none of my concern. Therefore the rulings are null and void.
+Dialogue: 0,1:53:28.56,1:53:33.14,*Default,NTP,0000,0000,0000,,不好意思，您肯定弄错了 英国军事法律是承认……\N{\fs10\i1}You have been misinformed. British military law does recognise the jurisdiction
+Dialogue: 0,1:53:33.19,1:53:35.81,*Default,NTP,0000,0000,0000,,…德国军事法庭的战地司法权的\N{\fs10\i1}…of german tribunals in the field
+Dialogue: 0,1:53:36.36,1:53:38.57,*Default,NTP,0000,0000,0000,,即使有条件投降后也是有效的\N{\fs10\i1}Even after capitulation.
+Dialogue: 0,1:53:39.65,1:53:43.36,*Default,NTP,0000,0000,0000,,具体请参见第153条\N{\fs10\i1}In article 153, to be exact.
+Dialogue: 0,1:53:46.53,1:53:49.62,*Default,NTP,0000,0000,0000,,你是建议我们枪决一个证人？\N{\fs10\i1}Are you suggesting we shoot a witness?
+Dialogue: 0,1:53:50.37,1:53:52.21,*Default,NTP,0000,0000,0000,,你们的将军福克斯 已经准许我们…\N{\fs10\i1}Your own general Foulkes has allowed us…
+Dialogue: 0,1:53:52.21,1:53:55.33,*Default,NTP,0000,0000,0000,,惩戒我们自己的军人\N{\fs10\i1}… to discipline our own men.
+Dialogue: 0,1:53:56.08,1:53:58.92,*Default,NTP,0000,0000,0000,,您可以打电话问他\N{\fs10\i1}You can call him and ask.
+Dialogue: 0,1:54:00.17,1:54:05.34,*Default,NTP,0000,0000,0000,,如果您拒绝执行蒙茨的判决 我将向福克斯将军提出控告\N{\fs10\i1}If you refuse to carry out a Müntze's sentence I will file a complaint with general Foulkes.
+Dialogue: 0,1:54:05.38,1:54:06.22,*Default,NTP,0000,0000,0000,,您肯定将后悔莫及\N{\fs10\i1}Which you will no doubt regret.
+Dialogue: 0,1:54:07.30,1:54:09.06,*Default,NTP,0000,0000,0000,,你知道将军是什么样的人\N{\fs10\i1}You know what generals are like.
+Dialogue: 0,1:54:15.73,1:54:17.44,*Default,NTP,0000,0000,0000,,宪兵！\N{\fs10\i1}MP.
+Dialogue: 0,1:54:33.45,1:54:35.04,*Default,NTP,0000,0000,0000,,把他带出去！\N{\fs10\i1}Get him out of here.
+Dialogue: 0,1:55:16.41,1:55:17.58,*Default,NTP,0000,0000,0000,,立正！\N{\fs10\i1}Attention.
+Dialogue: 0,1:55:18.83,1:55:20.08,*Default,NTP,0000,0000,0000,,瞄准！\N{\fs10\i1}Aim.
+Dialogue: 0,1:55:26.34,1:55:27.34,*Default,NTP,0000,0000,0000,,开枪！\N{\fs10\i1}Fire.
+Dialogue: 0,1:55:34.39,1:55:37.52,*Default,NTP,0000,0000,0000,,起来！去教堂做礼拜\N{\fs10\i1}Get up, you're going to church.
+Dialogue: 0,1:55:38.73,1:55:42.94,*Default,NTP,0000,0000,0000,,快点，带上你们的粪桶\N{\fs10\i1}Come on, bring your shit buckets.
+Dialogue: 0,1:55:42.98,1:55:45.86,*Default,NTP,0000,0000,0000,,- 跟上！ - 教堂在楼上\N{\fs10\i1}Go on, move. - Church is up stairs.
+Dialogue: 0,1:55:46.28,1:55:47.15,*Default,NTP,0000,0000,0000,,跟上！\N{\fs10\i1}Come on.
+Dialogue: 0,1:55:52.83,1:55:55.70,*Default,NTP,0000,0000,0000,,嘿，婊子 屎倒在那里\N{\fs10\i1}Hey bitch, shit is over there.
+Dialogue: 0,1:55:56.95,1:56:00.08,*Default,NTP,0000,0000,0000,,跟上！ 你把它拉上去，快点\N{\fs10\i1}Move along. You pull it up. Hurry up.
+Dialogue: 0,1:56:04.16,1:56:09.34,*Default,NTP,0000,0000,0000,,听听上帝的声音 也许会改变你们的命运\N{\fs10\i1}Listen ot the voice of God. Maybe you can change your ways.
+Dialogue: 0,1:56:09.43,1:56:11.01,*Default,NTP,0000,0000,0000,,向前看\N{\fs10\i1}Look ahead.
+Dialogue: 0,1:56:34.08,1:56:36.64,*Default,NTP,0000,0000,0000,,嘿，安静\N{\fs10\i1}Hey, silence.
+Dialogue: 0,1:56:36.74,1:56:38.00,*Default,NTP,0000,0000,0000,,安静！\N{\fs10\i1}silence.
+Dialogue: 0,1:56:41.50,1:56:47.12,*Default,NTP,0000,0000,0000,,我们是来看那帮卖国贼的 头抬起来，让我看看你们的脸\N{\fs10\i1}We come to see traitors. Heads up, let me see your faces.
+Dialogue: 0,1:56:47.13,1:56:49.88,*Default,NTP,0000,0000,0000,,- 看看他们 - 恶臭的脑袋\N{\fs10\i1}Look at them. - Dirty rotten heads.
+Dialogue: 0,1:56:49.88,1:56:54.01,*Default,NTP,0000,0000,0000,,- 也许其它部位还可以 - 脱掉你们的衣服！\N{\fs10\i1}Maybe the rest has some to offer. - Take of your clothes.
+Dialogue: 0,1:56:54.30,1:56:57.14,*Default,NTP,0000,0000,0000,,- 男的脱掉内裤 - 露出屁股！\N{\fs10\i1}Guys take off your pants. - Bare ass.
+Dialogue: 0,1:56:57.14,1:57:01.27,*Default,NTP,0000,0000,0000,,女的脱光上衣 我要看胸部！\N{\fs10\i1}All women naked on top. I wann see some tits.
+Dialogue: 0,1:57:06.02,1:57:08.19,*Default,NTP,0000,0000,0000,,这个也脱掉\N{\fs10\i1}This too.
+Dialogue: 0,1:57:10.28,1:57:12.90,*Default,NTP,0000,0000,0000,,脱掉！\N{\fs10\i1}Take it off
+Dialogue: 0,1:57:15.04,1:57:17.45,*Default,NTP,0000,0000,0000,,她给德国佬唱过歌\N{\fs10\i1}She sang for the krauts.
+Dialogue: 0,1:57:17.45,1:57:19.41,*Default,NTP,0000,0000,0000,,她也得给我们唱\N{\fs10\i1}She'll certainly sing for us.
+Dialogue: 0,1:57:19.41,1:57:23.62,*Default,NTP,0000,0000,0000,,- 给你唱？休想！ - 必须唱，每个人都要唱\N{\fs10\i1}Sing for you? Never. -  Of course you do. Everybody sings.
+Dialogue: 0,1:57:25.08,1:57:27.96,*Default,NTP,0000,0000,0000,,唱！\N{\fs10\i1}Sing.
+Dialogue: 0,1:57:30.46,1:57:34.25,*Default,NTP,0000,0000,0000,,想让我下不来台？\N{\fs10\i1}Do you want me to lose face?
+Dialogue: 0,1:57:34.26,1:57:38.24,*Default,NTP,0000,0000,0000,,没门，你这肮脏的德国婊子 臭妓女！\N{\fs10\i1}No way. Dirty Kraut bitch. Dirty whore.
+Dialogue: 0,1:57:38.39,1:57:41.52,*Default,NTP,0000,0000,0000,,揍她，揍她！\N{\fs10\i1}Hit her. Hit her.
+Dialogue: 0,1:57:45.15,1:57:48.65,*Default,NTP,0000,0000,0000,,闪开，躲开那婊子\N{\fs10\i1}Take cover, move away from the girl.
+Dialogue: 0,1:58:10.00,1:58:11.88,*Default,NTP,0000,0000,0000,,臭死了\N{\fs10\i1}Damn, it stinks.
+Dialogue: 0,1:58:13.26,1:58:15.34,*Default,NTP,0000,0000,0000,,谁有香水？\N{\fs10\i1}Who's got some perfume?
+Dialogue: 0,1:58:15.34,1:58:19.47,*Default,NTP,0000,0000,0000,,臭荡妇 肮脏恶臭的荡妇\N{\fs10\i1}Stinky slut. Dirty stinky slut.
+Dialogue: 0,1:58:20.68,1:58:24.81,*Default,NTP,0000,0000,0000,,消防员来了，躲开\N{\fs10\i1}Make way for the fireman.
+Dialogue: 0,1:58:33.49,1:58:36.61,*Default,NTP,0000,0000,0000,,别碰我的水管！\N{\fs10\i1}Stay away from my hose.
+Dialogue: 0,1:58:38.87,1:58:41.70,*Default,NTP,0000,0000,0000,,- 卷好 - 这里没士兵的事\N{\fs10\i1}Roll it up. - Soldiers have nothing to say down here.
+Dialogue: 0,1:58:41.70,1:58:43.95,*Default,NTP,0000,0000,0000,,这里我说了算\N{\fs10\i1}I am the boss here.
+Dialogue: 0,1:58:51.17,1:58:54.17,*Default,NTP,0000,0000,0000,,我是指挥官阿克曼斯 王子参谋处的\N{\fs10\i1}I am commander Akkermans. of the Prince's staff
+Dialogue: 0,1:58:54.17,1:58:56.84,*Default,NTP,0000,0000,0000,,这是令人唾弃的丑恶行径\N{\fs10\i1}This is a godforesaken scandal
+Dialogue: 0,1:58:56.84,1:59:02.06,*Default,NTP,0000,0000,0000,,令人耻辱！ 你们和纳粹没有两样\N{\fs10\i1}This is a disgrace. You're just as bad as the nazi's.
+Dialogue: 0,1:59:02.56,1:59:05.27,*Default,NTP,0000,0000,0000,,24小时内 你们都会被调离\N{\fs10\i1}Within 24 hours, you are out.
+Dialogue: 0,1:59:05.27,1:59:08.27,*Default,NTP,0000,0000,0000,,- 翻译给他们听，阿克曼斯 - 是，长官\N{\fs10\i1}Translate, commander Akkermans. - Yes, sir.
+Dialogue: 0,1:59:08.73,1:59:11.86,*Default,NTP,0000,0000,0000,,肮脏的法西斯分子 限你们24小时内离开\N{\fs10\i1}Dirty fascists, you'll be out of here within 24 hours.
+Dialogue: 0,1:59:12.94,1:59:16.07,*Default,NTP,0000,0000,0000,,上面的流氓 都给我滚出去！\N{\fs10\i1}And those punks up there, get out of here, now!
+Dialogue: 0,1:59:21.28,1:59:23.74,*Default,NTP,0000,0000,0000,,- 照看一下这可怜的姑娘 - 是，长官\N{\fs10\i1}See to this poor girl. - Sir.
+Dialogue: 0,1:59:26.12,1:59:31.59,*Default,NTP,0000,0000,0000,,艾莉丝，没事了，起来吧 没事了，起来\N{\fs10\i1}Ellis it's over. Come. It's over. Come.
+Dialogue: 0,1:59:32.71,1:59:34.34,*Default,NTP,0000,0000,0000,,我要离开这里\N{\fs10\i1}I want to leave.
+Dialogue: 0,1:59:35.34,1:59:38.89,*Default,NTP,0000,0000,0000,,来吧，亲爱的 都结束了\N{\fs10\i1}Come honey. It's over.
+Dialogue: 0,1:59:45.14,1:59:49.65,*Default,NTP,0000,0000,0000,,请稍等，弗里斯小姐 你的东西\N{\fs10\i1}Just a moment, Mrs. de Vries. Your personal belongings.
+Dialogue: 0,1:59:49.81,1:59:51.52,*Default,NTP,0000,0000,0000,,你能检查一下吗？\N{\fs10\i1}Could you check?
+Dialogue: 0,1:59:58.61,1:59:59.57,*Default,NTP,0000,0000,0000,,斯马尔的？\N{\fs10\i1}van Smaal?
+Dialogue: 0,2:00:06.37,2:00:09.50,*Default,NTP,0000,0000,0000,,阿克曼斯医生来了 是阿克曼斯医生\N{\fs10\i1}There goes the doctor. That's doctor Akkermans.
+Dialogue: 0,2:00:10.33,2:00:14.71,*Default,NTP,0000,0000,0000,,他曾在抵抗组织工作 阿克曼斯医生万岁！\N{\fs10\i1}He was in the resistance. Long live the doctor.
+Dialogue: 0,2:00:15.38,2:00:17.26,*Default,NTP,0000,0000,0000,,巧克力！巧克力！\N{\fs10\i1}Chocolate. Chocolate.
+Dialogue: 0,2:00:17.26,2:00:21.22,*Default,NTP,0000,0000,0000,,这儿，别都给了 供给还是很紧张的\N{\fs10\i1}Here, don't spend it all. Supplies are still scarce.
+Dialogue: 0,2:00:37.53,2:00:40.66,*Default,NTP,0000,0000,0000,,＂格林奇万岁，女王万岁＂\N{\fs10\i1}# oranje boven, oranje boven leve de koningin
+Dialogue: 0,2:00:46.12,2:00:47.54,*Default,NTP,0000,0000,0000,,我给你看些东西\N{\fs10\i1}I want to show you something.
+Dialogue: 0,2:00:57.09,2:01:02.44,*Default,NTP,0000,0000,0000,,- 你从哪里弄到这些的？ - 富兰肯试图带着这些逃跑\N{\fs10\i1}How did you get it? - Franken tried to get away with it.
+Dialogue: 0,2:01:02.51,2:01:05.94,*Default,NTP,0000,0000,0000,,都是他从被杀害的 犹太人身上偷的\N{\fs10\i1}Everything he robbed from the murdered jews.
+Dialogue: 0,2:01:10.48,2:01:16.94,*Default,NTP,0000,0000,0000,,这是我爸爸给我的 作为我第一次演出的奖励\N{\fs10\i1}I got this from my father, for my first performance.
+Dialogue: 0,2:01:17.23,2:01:21.65,*Default,NTP,0000,0000,0000,,那个杂种富兰肯陷害你，是吧？\N{\fs10\i1}That bastard Franken, tried to make you an accomplice, huh?
+Dialogue: 0,2:01:22.70,2:01:26.37,*Default,NTP,0000,0000,0000,,我会和凯普斯谈的 或者直接向王子讲\N{\fs10\i1}I'll talk to Kuipers about that. Or higher up with the Prince.
+Dialogue: 0,2:01:28.45,2:01:29.87,*Default,NTP,0000,0000,0000,,我会解释的\N{\fs10\i1}I'll explain.
+Dialogue: 0,2:01:30.20,2:01:31.83,*Default,NTP,0000,0000,0000,,他们不会相信你的\N{\fs10\i1}They'll never believe you.
+Dialogue: 0,2:01:31.91,2:01:35.99,*Default,NTP,0000,0000,0000,,都会好起来的，美好的结局 喝一杯？\N{\fs10\i1}Everything will be alright. A happy end. A drink?
+Dialogue: 0,2:01:38.42,2:01:42.88,*Default,NTP,0000,0000,0000,,还有件事，蒙茨被抓了 我想见见他\N{\fs10\i1}One more thing. Müntze got caught. I want to see him.
+Dialogue: 0,2:01:43.55,2:01:46.35,*Default,NTP,0000,0000,0000,,- 你还没听说吗？ - 什么？\N{\fs10\i1}Haven't you heard? - What?
+Dialogue: 0,2:01:48.31,2:01:52.39,*Default,NTP,0000,0000,0000,,- 这说起来太荒谬了 - 发生什么事了？\N{\fs10\i1}It's too insane for words. - What happened?
+Dialogue: 0,2:01:52.44,2:01:55.98,*Default,NTP,0000,0000,0000,,一个加拿大混蛋批准了…\N{\fs10\i1}A canadian dick allowed…
+Dialogue: 0,2:01:58.19,2:02:01.82,*Default,NTP,0000,0000,0000,,…德国佬执行蒙茨的死刑判决\N{\fs10\i1}…that the krauts could finish the death sentence.
+Dialogue: 0,2:02:24.72,2:02:27.01,*Default,NTP,0000,0000,0000,,到底何时才是个头？\N{\fs10\i1}Doesn't it ever stop?
+Dialogue: 0,2:02:34.31,2:02:37.44,*Default,NTP,0000,0000,0000,,艾莉丝？\N{\fs10\i1}Ellis?
+Dialogue: 0,2:03:07.13,2:03:09.80,*Default,NTP,0000,0000,0000,,这会让你平静下来\N{\fs10\i1}This will calm you down.
+Dialogue: 0,2:03:14.73,2:03:16.31,*Default,NTP,0000,0000,0000,,来，躺下\N{\fs10\i1}Come, lie down.
+Dialogue: 0,2:03:40.75,2:03:42.96,*Default,NTP,0000,0000,0000,,好些了吗？\N{\fs10\i1}Feeling better?
+Dialogue: 0,2:03:45.55,2:03:48.68,*Default,NTP,0000,0000,0000,,＂医生，医生…＂\N{\fs10\i1}Doctor, Doctor…
+Dialogue: 0,2:04:15.08,2:04:19.92,*Default,NTP,0000,0000,0000,,胰岛素，很多的胰岛素\N{\fs10\i1}Insuline. Too much insuline.
+Dialogue: 0,2:04:20.12,2:04:25.13,*Default,NTP,0000,0000,0000,,它会让你一睡不醒 永别了\N{\fs10\i1}That will put you to sleep. Forever.
+Dialogue: 0,2:04:40.98,2:04:44.11,*Default,NTP,0000,0000,0000,,＂阿卡曼斯医生，阿卡曼斯医生…＂\N{\fs10\i1}Doctor Akkermans. Doctor Akkermans.
+Dialogue: 0,2:04:44.66,2:04:47.59,*Default,NTP,0000,0000,0000,,他们的英雄得出场了\N{\fs10\i1}The 'hero' hast to show himself.
+Dialogue: 0,2:04:47.69,2:04:51.49,*Default,NTP,0000,0000,0000,,躺在这儿吧 很快你就能见到你家人了\N{\fs10\i1}Stay there. Soon you'll see your family again.
+Dialogue: 0,2:04:53.37,2:04:56.20,*Default,NTP,0000,0000,0000,,说不定还能见到蒙茨呢\N{\fs10\i1}and who knows, maybe Müntze too.
+Dialogue: 0,2:04:59.08,2:05:02.21,*Default,NTP,0000,0000,0000,,＂医生，医生…＂\N{\fs10\i1}Doctor, Doctor…
+Dialogue: 0,2:05:23.44,2:05:27.57,*Default,NTP,0000,0000,0000,,（荷兰国歌）＂拿骚的威廉姆斯 自古德意志血统＂\N{\fs10\i1}(Anthem:)# Wilhelmus van Nassouwe ben ik van Duitsen bloed
+Dialogue: 0,2:05:29.24,2:05:32.96,*Default,NTP,0000,0000,0000,,＂永远尽忠于祖国＂\N{\fs10\i1}# den vaderland getrouwe
+Dialogue: 0,2:05:33.24,2:05:36.97,*Default,NTP,0000,0000,0000,,＂至死也不会改变＂\N{\fs10\i1}# blijf ik tot in den dood
+Dialogue: 0,2:05:37.99,2:05:41.12,*Default,NTP,0000,0000,0000,,＂我乃奥林奇王子＂\N{\fs10\i1}# een prinse van Oranje
+Dialogue: 0,2:05:43.29,2:05:46.42,*Default,NTP,0000,0000,0000,,＂永远自由而无畏＂\N{\fs10\i1}# ben ik vrij onverveerd.
+Dialogue: 0,2:05:47.67,2:05:50.80,*Default,NTP,0000,0000,0000,,＂对于西班牙的王＂\N{\fs10\i1}# de koning van Hispanje
+Dialogue: 0,2:05:53.01,2:05:56.14,*Default,NTP,0000,0000,0000,,＂敬意忠诚永不减＂\N{\fs10\i1}# heb ik aItijd ge雃rd
+Dialogue: 0,2:06:15.66,2:06:17.74,*Default,NTP,0000,0000,0000,,拦住她！\N{\fs10\i1}Stop her.
+Dialogue: 0,2:06:18.87,2:06:24.37,*Default,NTP,0000,0000,0000,,她是病人，她病了 拦住她！拦住她！\N{\fs10\i1}She's a patient, she's ill. Stop her.
+Dialogue: 0,2:06:28.59,2:06:31.71,*Default,NTP,0000,0000,0000,,艾莉丝，艾莉丝！\N{\fs10\i1}Ellis. Ellis.
+Dialogue: 0,2:06:33.17,2:06:35.64,*Default,NTP,0000,0000,0000,,让开\N{\fs10\i1}Out of my way.
+Dialogue: 0,2:06:35.64,2:06:39.56,*Default,NTP,0000,0000,0000,,拦住她，她很危险\N{\fs10\i1}Stop her. She's dangerous.
+Dialogue: 0,2:06:40.39,2:06:42.14,*Default,NTP,0000,0000,0000,,放开我！\N{\fs10\i1}Let me go.
+Dialogue: 0,2:06:42.14,2:06:44.94,*Default,NTP,0000,0000,0000,,拦住她，她很危险\N{\fs10\i1}Stop her. She's dangerous.
+Dialogue: 0,2:06:44.94,2:06:48.06,*Default,NTP,0000,0000,0000,,放开我 该死的，放开我！\N{\fs10\i1}Let me go. Goddamnit, let me go.
+Dialogue: 0,2:06:48.15,2:06:51.44,*Default,NTP,0000,0000,0000,,我会抓住你的，婊子\N{\fs10\i1}I'll get you, you whore.
+Dialogue: 0,2:06:51.86,2:06:54.99,*Default,NTP,0000,0000,0000,,放开我，混蛋 放开我！\N{\fs10\i1}Let me go, bastards, let me go!
+Dialogue: 0,2:07:15.72,2:07:18.34,*Default,NTP,0000,0000,0000,,金戒指，编号23\N{\fs10\i1}Golden ring, number 23
+Dialogue: 0,2:07:23.60,2:07:25.27,*Default,NTP,0000,0000,0000,,我们找到他了\N{\fs10\i1}We found him.
+Dialogue: 0,2:07:27.23,2:07:31.15,*Default,NTP,0000,0000,0000,,葛本，我想你最好走开下\N{\fs10\i1}Gerben, I think you'd better go.
+Dialogue: 0,2:07:54.88,2:07:58.01,*Default,NTP,0000,0000,0000,,可以让我们自己的人做吗？ 我不想让德国佬碰他\N{\fs10\i1}Can our own people do this? I don't want the krauts to touch him.
+Dialogue: 0,2:07:59.68,2:08:02.81,*Default,NTP,0000,0000,0000,,你们住手\N{\fs10\i1}You, stop.
+Dialogue: 0,2:08:03.60,2:08:06.73,*Default,NTP,0000,0000,0000,,伙计们，你们接手 为了葛本\N{\fs10\i1}Guys take over, it's for Gerben.
+Dialogue: 0,2:08:20.62,2:08:26.24,*Default,NTP,0000,0000,0000,,凯培斯先生，一位女士想和你谈谈 艾莉丝·弗里斯\N{\fs10\i1}Mr. Kuipers? A lady wants to speak to you. Ellis de Vries?
+Dialogue: 0,2:08:26.91,2:08:32.50,*Default,NTP,0000,0000,0000,,等一下，凯培斯先生 请冷静，凯培斯先生！\N{\fs10\i1}Wait Mr Kuipers. Calm down please, Mr Kuipers.
+Dialogue: 0,2:08:32.54,2:08:34.75,*Default,NTP,0000,0000,0000,,她有这些死人的消息和名字\N{\fs10\i1}She has information, names.
+Dialogue: 0,2:08:34.75,2:08:37.88,*Default,NTP,0000,0000,0000,,包括你儿子\N{\fs10\i1}About these dead people, including your son.
+Dialogue: 0,2:08:38.26,2:08:41.39,*Default,NTP,0000,0000,0000,,您想听她说说吗？\N{\fs10\i1}Will you listen to her?
+Dialogue: 0,2:08:41.72,2:08:43.43,*Default,NTP,0000,0000,0000,,好吧\N{\fs10\i1}Yes.
+Dialogue: 0,2:08:43.43,2:08:44.39,*Default,NTP,0000,0000,0000,,艾莉丝！\N{\fs10\i1}Ellis?
+Dialogue: 0,2:08:55.90,2:08:58.03,*Default,NTP,0000,0000,0000,,你知道这是谁吗？\N{\fs10\i1}Do you know, who this is?
+Dialogue: 0,2:08:59.20,2:09:02.52,*Default,NTP,0000,0000,0000,,- 你还有什么要说的？ - 这个\N{\fs10\i1}What do you have to say about it? - This.
+Dialogue: 0,2:09:02.62,2:09:05.00,*Default,NTP,0000,0000,0000,,它会告诉你所有事情\N{\fs10\i1}This says it all.
+Dialogue: 0,2:09:05.91,2:09:10.67,*Default,NTP,0000,0000,0000,,1942年起，汉斯和他的朋友们 就开始帮助犹太人寻找避难所\N{\fs10\i1}From '42 onwards Hans and his friends helped jews to find shelter.
+Dialogue: 0,2:09:10.71,2:09:12.29,*Default,NTP,0000,0000,0000,,通常都是他的病人\N{\fs10\i1}Usually his own patients.
+Dialogue: 0,2:09:12.29,2:09:15.62,*Default,NTP,0000,0000,0000,,还有银行家玛登和 律师基斯的客户们\N{\fs10\i1}And clients of Maarten, the banker. And Kees who was a lawyer.
+Dialogue: 0,2:09:15.67,2:09:19.83,*Default,NTP,0000,0000,0000,,汉斯对于他们有多少钱 藏在哪里都一清二楚\N{\fs10\i1}Hans knew, how much money they had and where they were hiding.
+Dialogue: 0,2:09:19.84,2:09:25.54,*Default,NTP,0000,0000,0000,,看，斯马尔写的那些名字： 维茨曼，豪特，范·维特森\N{\fs10\i1}Look. The names that Smaal wrote down: Weiszman, Goud, van Witsen.
+Dialogue: 0,2:09:25.56,2:09:28.51,*Default,NTP,0000,0000,0000,,他们都曾经来找过斯马尔取钱 以便逃到比利时\N{\fs10\i1}All those men came to him for their money in order to flea to Belgium.
+Dialogue: 0,2:09:28.60,2:09:31.93,*Default,NTP,0000,0000,0000,,根据红十字会提供的信息 他们谁也没有成功逃出\N{\fs10\i1}According to the Red cross. None of them ever made it.
+Dialogue: 0,2:09:32.10,2:09:35.26,*Default,NTP,0000,0000,0000,,都是被诱骗到俾斯伯士河上 然后被屠杀和掠夺的\N{\fs10\i1}Lured to the Biesbosch and then murdered and robbed.
+Dialogue: 0,2:09:35.27,2:09:39.80,*Default,NTP,0000,0000,0000,,- 这里，我父母 - 他们也是汉斯的病人？\N{\fs10\i1}Here, my parents. - Were they patients of Hans?
+Dialogue: 0,2:09:39.82,2:09:42.36,*Default,NTP,0000,0000,0000,,不是，但我弟弟得了急性阑尾炎\N{\fs10\i1}No, but my brother got an acute appendix problem.
+Dialogue: 0,2:09:42.36,2:09:44.62,*Default,NTP,0000,0000,0000,,我父母去求助斯马尔 他告诉他们去找汉斯医生\N{\fs10\i1}They asked Smaal, for help, who sent in Doc Hans.
+Dialogue: 0,2:09:44.62,2:09:46.99,*Default,NTP,0000,0000,0000,,这里写着： 阿克斯曼医生拜访斯坦恩\N{\fs10\i1}It says here: 'Dr A. visits Stein.'
+Dialogue: 0,2:09:46.99,2:09:50.12,*Default,NTP,0000,0000,0000,,我们这位“善良的兄弟” 就给他做了手术\N{\fs10\i1}Our good samaritan even operated him
+Dialogue: 0,2:09:50.12,2:09:52.29,*Default,NTP,0000,0000,0000,,不错了，要知道他根本 不是外科医生\N{\fs10\i1}Not bad, he wasn't even a surgeon.
+Dialogue: 0,2:09:52.29,2:09:54.88,*Default,NTP,0000,0000,0000,,然后他告诉了富兰肯 把他们都出卖了\N{\fs10\i1}Then he called Franken and turned them in.
+Dialogue: 0,2:09:54.88,2:09:58.80,*Default,NTP,0000,0000,0000,,富兰肯让范·亨去设计诱骗 2天后他们就都死了\N{\fs10\i1}Franken had van Gein turn up and 2 days later they were dead.
+Dialogue: 0,2:10:00.00,2:10:02.68,*Default,NTP,0000,0000,0000,,我不明白，汉斯他…\N{\fs10\i1}I don't understand. Hans…
+Dialogue: 0,2:10:02.68,2:10:05.84,*Default,NTP,0000,0000,0000,,- 你知道他去年被捕的事情吗？ - 不知道\N{\fs10\i1}Did you know he got arrested last year? - No?
+Dialogue: 0,2:10:05.85,2:10:09.77,*Default,NTP,0000,0000,0000,,幸运的是，德国人总是 把所有文件拷贝15份\N{\fs10\i1}Thank God, the germans always made 15 copies of everything.
+Dialogue: 0,2:10:09.81,2:10:14.06,*Default,NTP,0000,0000,0000,,这是德国人的正式逮捕令 看\N{\fs10\i1}This is the official german arrest sheet. See.
+Dialogue: 0,2:10:14.06,2:10:17.19,*Default,NTP,0000,0000,0000,,汉斯·阿卡斯曼医生 1944年2月19日被捕\N{\fs10\i1}Dr. H Akkermans, arrested 19.02.1944
+Dialogue: 0,2:10:17.19,2:10:19.90,*Default,NTP,0000,0000,0000,,签名：富兰肯\N{\fs10\i1}Signed: G. Franken.
+Dialogue: 0,2:10:19.90,2:10:25.11,*Default,NTP,0000,0000,0000,,3周后斯马尔记载： 阿卡曼斯医生，因证据不足被释放\N{\fs10\i1}3 weeks later Smaal wrote down: Dr. A. got out, due to lack of proof.
+Dialogue: 0,2:10:25.57,2:10:28.33,*Default,NTP,0000,0000,0000,,他和富兰肯做了交易\N{\fs10\i1}He made a deal with Franken.
+Dialogue: 0,2:10:28.74,2:10:30.58,*Default,NTP,0000,0000,0000,,混蛋！\N{\fs10\i1}The bastard.
+Dialogue: 0,2:10:32.16,2:10:35.66,*Default,NTP,0000,0000,0000,,- 他居然杀了自己的人 - 基斯，玛登，每个人\N{\fs10\i1}He had his own people killed. - Kees, Maarten, everyone.
+Dialogue: 0,2:10:35.67,2:10:39.91,*Default,NTP,0000,0000,0000,,这样就不会有人问 他们的犹太客户都到哪里去了\N{\fs10\i1}So no one could ask where there jewish clients had been.
+Dialogue: 0,2:10:40.84,2:10:44.84,*Default,NTP,0000,0000,0000,,- 你逮捕他了吗？ - 没有，他消失了\N{\fs10\i1}Did you arrest him? - No, he vanished.
+Dialogue: 0,2:10:44.88,2:10:47.22,*Default,NTP,0000,0000,0000,,消失的无影无踪了 屋子是空的\N{\fs10\i1}In thin air. His house is empty.
+Dialogue: 0,2:10:47.22,2:10:51.00,*Default,NTP,0000,0000,0000,,- 我们刚从他那里来 - 那些装满掠夺物的箱子也不见了\N{\fs10\i1}We just came from there. The suitcases with the loot are gone.
+Dialogue: 0,2:10:51.10,2:10:52.89,*Default,NTP,0000,0000,0000,,葛本？\N{\fs10\i1}Gerben?
+Dialogue: 0,2:10:53.94,2:10:55.85,*Default,NTP,0000,0000,0000,,好的\N{\fs10\i1}Yes.
+Dialogue: 0,2:10:58.57,2:11:03.74,*Default,NTP,0000,0000,0000,,我们要回去了 我已经向各检查站发了汉斯的汽车牌号\N{\fs10\i1}We have to get back. I telexed Hans' licence plate to all the checkpoint.
+Dialogue: 0,2:11:09.03,2:11:12.70,*Default,NTP,0000,0000,0000,,上尉，我想留在葛本这里\N{\fs10\i1}Captain… I'll stay with Gerben.
+Dialogue: 0,2:11:42.32,2:11:45.44,*Default,NTP,0000,0000,0000,,＂格林奇万岁，女王万岁＂\N{\fs10\i1}# oranje boven oranje boven, leve de koningin
+Dialogue: 0,2:12:04.09,2:12:07.63,*Default,NTP,0000,0000,0000,,看，这是汉斯的吉普车\N{\fs10\i1}Look. That's Hans' Jeep.
+Dialogue: 0,2:12:21.77,2:12:23.69,*Default,NTP,0000,0000,0000,,灵车不见了\N{\fs10\i1}The hearse is gone.
+Dialogue: 0,2:12:23.69,2:12:27.91,*Default,NTP,0000,0000,0000,,- 他想溜走 - 他会去哪里？\N{\fs10\i1}He's trying to sneak away. - Where can he go to?
+Dialogue: 0,2:12:27.99,2:12:32.49,*Default,NTP,0000,0000,0000,,我猜是比利时，但是上尉说 他们正在检查各个路卡\N{\fs10\i1}Belgium, I think. But the captain said, they're checking all the road blocks.
+Dialogue: 0,2:12:32.53,2:12:35.99,*Default,NTP,0000,0000,0000,,你来开车\N{\fs10\i1}You drive.
+Dialogue: 0,2:12:38.71,2:12:41.42,*Default,NTP,0000,0000,0000,,我给战地保安部打电话\N{\fs10\i1}I'll call Field security.
+Dialogue: 0,2:12:46.88,2:12:51.99,*Default,NTP,0000,0000,0000,,那离我们这不远 不用了，谢谢\N{\fs10\i1}That's not far from here. No, thanks.
+Dialogue: 0,2:12:52.14,2:12:56.64,*Default,NTP,0000,0000,0000,,一封锁站刚看到一辆灵车 正向荷兰的迪普驶去\N{\fs10\i1}A hearse has been seen near a blockade in the direction of 't Hollands Diep.
+Dialogue: 0,2:12:58.73,2:13:01.85,*Default,NTP,0000,0000,0000,,前面，前面向右拐\N{\fs10\i1}Here, turn right.
+Dialogue: 0,2:13:26.00,2:13:28.67,*Default,NTP,0000,0000,0000,,- 证件 - 但我刚被检查过啊\N{\fs10\i1}Papers. - But I have just been checked.
+Dialogue: 0,2:13:28.67,2:13:30.80,*Default,NTP,0000,0000,0000,,快\N{\fs10\i1}Let go.
+Dialogue: 0,2:13:33.55,2:13:36.68,*Default,NTP,0000,0000,0000,,放手\N{\fs10\i1}Let go.
+Dialogue: 0,2:13:39.09,2:13:40.98,*Default,NTP,0000,0000,0000,,威利？\N{\fs10\i1}Willi?
+Dialogue: 0,2:13:40.98,2:13:44.06,*Default,NTP,0000,0000,0000,,- 快，到后面去 - 威利，发生什么事了？\N{\fs10\i1}Quick, to the back. - Willi, what's happening?
+Dialogue: 0,2:13:44.06,2:13:46.57,*Default,NTP,0000,0000,0000,,发生什么事了，该死的！\N{\fs10\i1}What's happening, goddammit?
+Dialogue: 0,2:13:46.57,2:13:50.65,*Default,NTP,0000,0000,0000,,是谁？艾莉丝？ 艾莉丝，是你吗?\N{\fs10\i1}Who are you? Ellis? Ellis, is that you?
+Dialogue: 0,2:13:50.70,2:13:52.49,*Default,NTP,0000,0000,0000,,不要这样做，该死！\N{\fs10\i1}Don't do it. Goddammit.
+Dialogue: 0,2:13:52.49,2:13:55.62,*Default,NTP,0000,0000,0000,,该死的，让我出去 艾莉丝？\N{\fs10\i1}Goddammit, let me out. Ellis?
+Dialogue: 0,2:13:55.62,2:13:58.74,*Default,NTP,0000,0000,0000,,艾莉丝，不要啊 艾莉丝\N{\fs10\i1}Ellis, please don't. Ellis.
+Dialogue: 0,2:13:58.87,2:14:02.00,*Default,NTP,0000,0000,0000,,让我出去，艾莉丝，求求你了 我们可以谈谈\N{\fs10\i1}Let me out, Ellis, please. We can talk about this?
+Dialogue: 0,2:14:16.43,2:14:18.97,*Default,NTP,0000,0000,0000,,艾莉丝，你看\N{\fs10\i1}Ellis, look.
+Dialogue: 0,2:14:18.97,2:14:24.80,*Default,NTP,0000,0000,0000,,都给你，珠宝，金条 我这里还有更多\N{\fs10\i1}All for you. Jewelry. I've got more. Jewels. Gold.
+Dialogue: 0,2:14:24.81,2:14:28.15,*Default,NTP,0000,0000,0000,,给，美元 拿着\N{\fs10\i1}American dollars. Take it.
+Dialogue: 0,2:14:29.69,2:14:32.82,*Default,NTP,0000,0000,0000,,只要你打开棺材，艾莉丝\N{\fs10\i1}Just open the coffin, Ellis.
+Dialogue: 0,2:14:32.86,2:14:34.96,*Default,NTP,0000,0000,0000,,你在做什么啊？\N{\fs10\i1}What are you doing?
+Dialogue: 0,2:14:35.95,2:14:39.08,*Default,NTP,0000,0000,0000,,艾莉丝？该死\N{\fs10\i1}Ellis? Goddammit.
+Dialogue: 0,2:14:39.66,2:14:41.92,*Default,NTP,0000,0000,0000,,艾莉丝，你在干吗？\N{\fs10\i1}Ellis, what are you doing?
+Dialogue: 0,2:14:43.62,2:14:46.75,*Default,NTP,0000,0000,0000,,你在干什么？\N{\fs10\i1}What are you doing?
+Dialogue: 0,2:14:46.75,2:14:48.04,*Default,NTP,0000,0000,0000,,艾莉丝？\N{\fs10\i1}Ellis?
+Dialogue: 0,2:14:50.09,2:14:54.47,*Default,NTP,0000,0000,0000,,艾莉丝？不要！该死\N{\fs10\i1}Ellis? Don't Goddammit.
+Dialogue: 0,2:14:55.09,2:14:55.51,*Default,NTP,0000,0000,0000,,艾莉丝\N{\fs10\i1}Ellis.
+Dialogue: 0,2:14:55.93,2:14:58.30,*Default,NTP,0000,0000,0000,,不要这样 我和这事无关\N{\fs10\i1}Don't. I have nothing to do with this.
+Dialogue: 0,2:14:58.30,2:15:02.52,*Default,NTP,0000,0000,0000,,打开它，该死 让我出去！\N{\fs10\i1}Open it. Goddammit. Let me out. Goddammit.
+Dialogue: 0,2:15:03.52,2:15:06.65,*Default,NTP,0000,0000,0000,,不要，不要！\N{\fs10\i1}I want to… Don't… Don't
+Dialogue: 0,2:15:11.03,2:15:12.69,*Default,NTP,0000,0000,0000,,该死\N{\fs10\i1}Goddammit.
+Dialogue: 0,2:15:13.40,2:15:15.20,*Default,NTP,0000,0000,0000,,该死\N{\fs10\i1}Goddammit.
+Dialogue: 0,2:15:18.12,2:15:20.49,*Default,NTP,0000,0000,0000,,艾莉丝，不要\N{\fs10\i1}Ellis? Don't
+Dialogue: 0,2:15:20.49,2:15:23.62,*Default,NTP,0000,0000,0000,,不要这样！艾莉丝？\N{\fs10\i1}Don't Ellis?
+Dialogue: 0,2:15:24.62,2:15:27.75,*Default,NTP,0000,0000,0000,,听我解释，亲爱的\N{\fs10\i1}Let me explain, honey.
+Dialogue: 0,2:15:28.38,2:15:30.04,*Default,NTP,0000,0000,0000,,让我..\N{\fs10\i1}Let me…
+Dialogue: 0,2:15:31.05,2:15:34.17,*Default,NTP,0000,0000,0000,,该死的，你这臭婊子！\N{\fs10\i1}Goddammit. You dirty whore.
+Dialogue: 0,2:15:35.42,2:15:38.51,*Default,NTP,0000,0000,0000,,我会抓住你的，婊子 肮脏的妓女\N{\fs10\i1}I'm going to get you, bitch. Dirty kraut whore.
+Dialogue: 0,2:15:38.51,2:15:41.64,*Default,NTP,0000,0000,0000,,我会抓住你的 你死定了\N{\fs10\i1}I'm going to get you. You're going to die.
+Dialogue: 0,2:16:25.35,2:16:29.10,*Default,NTP,0000,0000,0000,,我们本该早打开棺材了\N{\fs10\i1}We should be opening his coffin, by now.
+Dialogue: 0,2:16:33.15,2:16:35.99,*Default,NTP,0000,0000,0000,,是的，我们是该\N{\fs10\i1}Yeah, we should.
+Dialogue: 0,2:16:40.87,2:16:42.53,*Default,NTP,0000,0000,0000,,怎么处理这些钱财呢？\N{\fs10\i1}What do we do with the money?
+Dialogue: 0,2:16:44.12,2:16:45.79,*Default,NTP,0000,0000,0000,,不属于我们\N{\fs10\i1}It's not ours.
+Dialogue: 0,2:16:46.41,2:16:48.00,*Default,NTP,0000,0000,0000,,不属于任何人\N{\fs10\i1}It's nobody's
+Dialogue: 0,2:16:50.29,2:16:54.13,*Default,NTP,0000,0000,0000,,是属于死去的那些人的\N{\fs10\i1}It belongs to the dead.
+Dialogue: 0,2:17:05.47,2:17:09.06,*Default,NTP,0000,0000,0000,,他终于安静了\N{\fs10\i1}He's silent now. At last.
+Dialogue: 0,2:17:11.90,2:17:14.02,*Default,NTP,0000,0000,0000,,似乎是永远地安静了\N{\fs10\i1}Seemed like an eternity.
+Dialogue: 0,2:17:36.55,2:17:39.67,*Default,NTP,0000,0000,0000,,妈妈\N{\fs10\i1}Mummy.
+Dialogue: 0,2:17:46.18,2:17:49.23,*Default,NTP,0000,0000,0000,,嗨，亲爱的\N{\fs10\i1}Hi, sweethearts.
+Dialogue: 0,2:17:49.85,2:17:52.90,*Default,NTP,0000,0000,0000,,- 你去哪儿了？ - 我就在这儿啊\N{\fs10\i1}Where were you? - I was here.
+Dialogue: 0,2:17:53.48,2:17:55.90,*Default,NTP,0000,0000,0000,,- 你在这儿想什么呢？ - 过去的事情\N{\fs10\i1}What were you thinking about? - About the past.
+Dialogue: 0,2:18:00.61,2:18:07.32,*Default,NTP,0000,0000,0000,,［凯法斯坦恩 - 集体农庄 以二战犹太遇难者基金创建］\N{\fs10\i1}…………
+Dialogue: 0,2:24:40.00,2:24:50.00,*Default,NTP,0000,0000,0000,,谢谢观赏

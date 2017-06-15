@@ -1,0 +1,4524 @@
+1
+00:00:02,160 --> 00:00:04,170
+《超感警探》前情提要
+Previously on "The Mentalist"...
+
+2
+00:00:04,170 --> 00:00:06,090
+我們有個撲克牌局
+Listen, there's this poker game we've got going on.
+
+3
+00:00:06,090 --> 00:00:07,870
+-想來嗎  -也許吧  什么時候
+- You want in? - Maybe. When?
+
+4
+00:00:07,870 --> 00:00:09,070
+我想想  星期四晚
+Let me see-- Thursday night.
+
+5
+00:00:09,750 --> 00:00:11,450
+你要去玩撲克
+You're going to play poker.
+
+6
+00:00:11,450 --> 00:00:13,320
+特蕾莎  很高興你來了
+Hey. Teresa. Glad you made it.
+
+7
+00:00:13,320 --> 00:00:15,090
+-這位是地檢官唐·沃爾科特  -您好
+- This is District Attorney Don Wolcott. - Hi.
+
+8
+00:00:15,090 --> 00:00:16,730
+聯調局局長查爾斯·貝利
+FBI Bureau Director Charles Bailey.
+
+9
+00:00:16,730 --> 00:00:18,600
+-您好  -參議員艾琳·道金斯
+- Sir. - Senator Eileen Dawkins.
+
+10
+00:00:18,780 --> 00:00:19,780
+是州議員
+State Senator.
+
+11
+00:00:19,790 --> 00:00:21,500
+來了這么多高層人士
+It's a pretty high-class crowd.
+
+12
+00:00:21,500 --> 00:00:22,550
+你早跟我說一聲就好了
+I wish you would have warned me.
+
+13
+00:00:22,550 --> 00:00:24,270
+我想這位你認識  對嗎
+Oh, I think you know this guy, right?
+
+14
+00:00:24,320 --> 00:00:26,750
+特蕾莎  我沒想過你會喜歡賭博
+Teresa. I didn't take you for a gambler.
+
+15
+00:00:26,750 --> 00:00:29,170
+如果知道自己贏定了  就不算是賭了
+It's not gambling if you know you're gonna win.
+
+16
+00:00:35,920 --> 00:00:37,170
+紅心A
+Ace of hearts.
+
+17
+00:00:42,610 --> 00:00:43,440
+不跟
+Not me.
+
+18
+00:00:45,470 --> 00:00:47,310
+法官先生  看你的了
+Action's on you, Judge.
+
+19
+00:00:48,760 --> 00:00:50,100
+那就
+Well...
+
+20
+00:00:50,780 --> 00:00:52,310
+五百美元
+$500.
+
+21
+00:00:54,020 --> 00:00:55,370
+莊家封牌
+Dealer folds.
+
+22
+00:00:55,520 --> 00:00:57,240
+伯特侖  比你多了五百美元
+That's $500 more to you, Bertram.
+
+23
+00:01:01,370 --> 00:01:03,000
+加注一千
+Raise it $1,000.
+
+24
+00:01:08,660 --> 00:01:09,830
+你在虛張聲勢
+You're bluffing.
+
+25
+00:01:11,740 --> 00:01:12,820
+全押上
+All in.
+
+26
+00:01:25,520 --> 00:01:26,910
+我喜歡跟你打牌  蓋爾
+I love playing with you, Gale.
+
+27
+00:01:26,910 --> 00:01:29,360
+看透你就跟讀兒童讀物一樣容易
+I can read you like a kids' book.
+
+28
+00:01:29,360 --> 00:01:31,330
+隨你說  拿走你的籌碼吧
+Yeah, yeah. Just pick up your chips.
+
+29
+00:01:31,960 --> 00:01:33,280
+"晚安  月亮"
+"Goodnight moon."
+
+30
+00:01:31,960 --> 00:01:33,280
+{\an8}源自美國兒童讀物《晚安  月亮》
+
+31
+00:01:37,210 --> 00:01:39,520
+抱歉  失陪了各位  有個案子
+I'm sorry, guys, but we caught one.
+
+32
+00:01:39,520 --> 00:01:41,510
+-能幫我兌現嗎  -好的
+- Will you cash me out? - Yeah.
+
+33
+00:01:41,880 --> 00:01:42,810
+玩得愉快
+Have fun.
+
+34
+00:01:45,460 --> 00:01:48,120
+{\pos(192,206)}北加州大學  自然歷史博物館
+
+35
+00:01:55,290 --> 00:01:56,130
+你在這
+There you are.
+
+36
+00:01:56,140 --> 00:01:57,430
+沒尸體的時候
+I should come by sometime
+
+37
+00:01:57,430 --> 00:01:59,550
+我也該常來這里看看
+when there's not a corpse here to meet us.
+
+38
+00:02:00,350 --> 00:02:02,080
+你又去玩撲克了嗎  里斯本
+Are you playing poker again, Lisbon?
+
+39
+00:02:02,140 --> 00:02:03,730
+你被撲克打垮了
+It's getting the better of you.
+
+40
+00:02:03,940 --> 00:02:04,710
+輸錢了
+Losing money?
+
+41
+00:02:04,710 --> 00:02:06,280
+腿毛都輸光了
+Losing skin's more like it.
+
+42
+00:02:06,280 --> 00:02:08,040
+伯特侖狀態不好
+Bertram's been in a bad mood.
+
+43
+00:02:08,620 --> 00:02:11,150
+你好  我是加調局的里斯本探員
+Hi. I'm Agent Lisbon with the CBI.
+
+44
+00:02:11,410 --> 00:02:12,950
+克里斯托·帕帕達基斯
+Christos Papadakis.
+
+45
+00:02:13,360 --> 00:02:16,420
+我是校自然科學系主任
+I am Dean of the university's Natural Science Department,
+
+46
+00:02:16,420 --> 00:02:19,550
+博物館是由我負責的
+So... the museum is my responsibility.
+
+47
+00:02:19,550 --> 00:02:20,800
+請跟我來
+Please follow me.
+
+48
+00:02:22,140 --> 00:02:24,480
+你們就是上次調查
+I believe your team is the one
+
+49
+00:02:24,480 --> 00:02:27,320
+門特洛教授遇害案的小組吧
+who investigated the death of professor Montero.
+
+50
+00:02:27,320 --> 00:02:28,600
+是的
+Yeah, we were.
+
+51
+00:02:28,920 --> 00:02:30,700
+要走一段路
+We have a bit of a walk.
+
+52
+00:02:30,990 --> 00:02:34,320
+博物館的實驗室在東翼
+The museum labs are in the east wing of the museum.
+
+53
+00:02:34,560 --> 00:02:36,610
+對死者的情況你有多少了解
+What can you tell us about the victim?
+
+54
+00:02:37,240 --> 00:02:39,790
+我們認為死者是琳達·帕弗瑞
+We think it is Linda Parfrey.
+
+55
+00:02:39,790 --> 00:02:41,040
+你們認為是她
+You think it's her?
+
+56
+00:02:41,290 --> 00:02:44,260
+琳達失蹤了好一陣子了  而且...
+Linda has been missing for some time, and...
+
+57
+00:02:45,070 --> 00:02:46,810
+你們很快就知道了
+Well, you'll see.
+
+58
+00:02:48,350 --> 00:02:51,220
+這位是發現琳達的學生
+Ah, this is the student who found Linda.
+
+59
+00:02:51,220 --> 00:02:52,720
+告訴他們你的名字
+Tell--tell them your name.
+
+60
+00:02:52,770 --> 00:02:55,620
+我叫格雷  格雷戈里·劉易斯
+Uh, Greg. Uh, Gregory Lewis.
+
+61
+00:02:55,620 --> 00:02:57,500
+我是大約午夜的時候發現她的
+I found her around midnight.
+
+62
+00:02:57,820 --> 00:02:59,030
+說說事發經過
+Tell me what happened.
+
+63
+00:02:59,800 --> 00:03:03,490
+全憑運氣  我找到了一只非常好的樹鼩
+Well, by sheer luck, I-I happened upon a very nice tree shrew.
+
+64
+00:03:03,490 --> 00:03:05,100
+我從未研究過樹鼩
+Um, I've never examined one before,
+
+65
+00:03:05,100 --> 00:03:07,860
+就把它帶回來準備去除皮肉
+and I-I brought it in to strip the flesh off.
+
+66
+00:03:07,860 --> 00:03:09,780
+就是只保留骨架
+You know, to keep the skeleton.
+
+67
+00:03:09,780 --> 00:03:11,130
+這怎么做
+How do you do that?
+
+68
+00:03:11,390 --> 00:03:13,550
+把它們放到這些箱子里
+Oh, w-we put 'em in these tanks.
+
+69
+00:03:14,990 --> 00:03:17,060
+這又怎么把骨架和皮肉分離開來
+How does that strip them of their flesh?
+
+70
+00:03:17,060 --> 00:03:20,140
+-食尸蟲  -食尸蟲  對
+- Flesh-eating bugs. - Flesh-eating bugs. Right.
+
+71
+00:03:20,140 --> 00:03:21,150
+沒錯
+Right.
+
+72
+00:03:22,250 --> 00:03:23,970
+我就是這樣發現琳達的
+That's when I found linda.
+
+73
+00:03:33,180 --> 00:03:34,910
+沒事了
+Oh! Okay.
+
+78
+00:03:35,340 --> 00:03:37,340
+{\pos(100,254)}人人影視
+YYeTs.com
+
+79
+00:03:35,340 --> 00:03:37,340
+{\pos(101,267)}原創翻譯  雙語字幕
+
+81
+00:03:35,340 --> 00:03:37,340
+{\pos(240,267)}僅供學習 禁止用于任何商業盈利行為
+更多影視更新
+請登陸www.YYeTs.com
+
+83
+00:03:37,340 --> 00:03:40,340
+{\pos(190,268)}翻譯：灰灰是菇涼 非燕 那時花開 Bony Michael 面條打包子  時間軸：玖月
+
+84
+00:03:38,610 --> 00:03:40,160
+超感警探
+
+85
+00:03:40,160 --> 00:03:40,410
+超感警探
+
+86
+00:03:40,240 --> 00:03:40,450
+第五季
+第十四集
+
+87
+00:03:40,450 --> 00:03:41,990
+第五季
+第十四集
+
+89
+00:03:40,340 --> 00:03:43,340
+{\pos(190,268)}時間軸：煙幕遲遲   校對：灰灰是菇涼  非燕  Bony  王小麥
+
+91
+00:03:43,340 --> 00:03:45,340
+{\pos(190,268)}特效&后期：灰灰是菇涼   總監：灰灰是菇涼
+
+92
+00:03:43,780 --> 00:03:46,780
+{\an8}失蹤  琳達·帕弗瑞
+
+93
+00:03:46,500 --> 00:03:47,990
+對  是琳達的戒指
+Yeah, that's Linda's ring, all right.
+
+94
+00:03:47,990 --> 00:03:49,930
+那死者就是琳達·帕弗瑞
+So it is Linda Parfrey.
+
+95
+00:03:49,930 --> 00:03:52,050
+為何要棄尸于蟲箱里
+Why dump a body into a beetle tank?
+
+96
+00:03:52,230 --> 00:03:53,890
+博物館安保措置不佳
+The museum doesn't have great security,
+
+97
+00:03:53,890 --> 00:03:56,340
+但也沒到能隨隨便便把尸體運出去的地步
+but it's not the kind of place you can sneak a body out of.
+
+98
+00:03:56,690 --> 00:03:58,920
+除非尸體小到能裝進行李袋
+Unless you make it small enough to fit in a duffel bag.
+
+99
+00:03:58,930 --> 00:04:00,570
+兇手是在等蟲子將尸體啃食至
+So the killer was waiting for the bugs to eat it
+
+100
+00:04:00,580 --> 00:04:02,580
+只剩骨架  然后再偷運出去
+down to the skeleton so they could sneak it out?
+
+101
+00:04:02,740 --> 00:04:06,380
+有可能  我們在箱子里發現了一件科學器械
+Possibly. Uh, we found a scientific tool in the tank.
+
+102
+00:04:06,380 --> 00:04:07,760
+有可能是兇器
+It could be the murder weapon.
+
+103
+00:04:07,760 --> 00:04:10,480
+兇手也許也是一名科學家
+So the killer's probably another scientist then.
+
+104
+00:04:10,480 --> 00:04:12,940
+或者是博物館的工作人員
+Or someone that works at the museum.
+
+105
+00:04:13,080 --> 00:04:14,490
+最后一次看見琳達是什么時候
+When was Linda last seen?
+
+106
+00:04:14,490 --> 00:04:16,440
+琳達已經失蹤好幾星期了
+Linda's been missing a couple weeks.
+
+107
+00:04:16,630 --> 00:04:17,840
+大家以為她是去
+People thought she was out camping
+
+108
+00:04:17,840 --> 00:04:20,140
+約塞米蒂國家公園做什么研究去了
+near Yosemite doing some kind of research.
+
+109
+00:04:20,320 --> 00:04:22,030
+后來有人注意到她的車停在校園里
+Then someone noticed her car was on campus,
+
+110
+00:04:22,030 --> 00:04:23,460
+才意識到她失蹤了
+and they realized she was missing.
+
+111
+00:04:23,460 --> 00:04:25,410
+是誰填的失蹤人口報告
+Who filed the missing persons report?
+
+112
+00:04:25,410 --> 00:04:27,020
+索尼亞·基德博士
+Dr. Sonia Kidd.
+
+113
+00:04:27,120 --> 00:04:28,760
+她是校生物系主任
+Head of the Biology Department at the university
+
+114
+00:04:28,760 --> 00:04:30,150
+也是琳達的顧問
+and Linda's adviser.
+
+115
+00:04:30,470 --> 00:04:32,130
+名字聽起來很耳熟
+Her name sounds familiar.
+
+116
+00:04:32,130 --> 00:04:33,610
+是的  她寫過幾本書
+Yeah, she's written a couple books.
+
+117
+00:04:33,610 --> 00:04:35,530
+流行科學讀物  有一本叫
+Popular science stuff. One's called
+
+118
+00:04:35,630 --> 00:04:38,720
+《天生殺手:謀殺的進化根源》
+"Natural born killers: The evolutionary roots of murder."
+
+119
+00:04:38,980 --> 00:04:40,840
+有趣  我和簡去找她談談
+Cute. Jane and I will go talk to her.
+
+120
+00:04:40,840 --> 00:04:44,120
+琳達在博物館有間辦公室
+And, uh, Linda had an office here at the museum.
+
+121
+00:04:44,120 --> 00:04:45,350
+你和周去查看一下
+You and Cho check it out.
+
+122
+00:04:45,350 --> 00:04:46,640
+收到  頭兒
+You got it, boss.
+
+123
+00:04:55,690 --> 00:04:58,140
+我們以為她在山里迷路了
+We thought she was lost in the mountains.
+
+124
+00:04:58,300 --> 00:05:00,030
+沒想到她一直都在這里
+But she was here the whole time.
+
+125
+00:05:00,820 --> 00:05:02,530
+簡直太可怕了
+It's too horrible for words.
+
+126
+00:05:02,540 --> 00:05:04,820
+她研究什么  研究哪種動物
+What did she study? What kind of animal?
+
+127
+00:05:04,830 --> 00:05:05,880
+有什么關系嗎
+Why does that matter?
+
+128
+00:05:07,010 --> 00:05:09,610
+沒有人會因為偶然而選擇其終身事業
+Nobody picks what they dedicate their life to by accident.
+
+129
+00:05:09,610 --> 00:05:10,880
+都是有原因的
+It says something.
+
+130
+00:05:11,430 --> 00:05:12,880
+我研究靈長類動物大腦
+I study primate brains.
+
+131
+00:05:12,880 --> 00:05:14,620
+這能說明我是怎樣的人
+What does that say about me?
+
+132
+00:05:14,620 --> 00:05:16,650
+你有一些陰暗的思想
+You have dark thoughts inside your head
+
+133
+00:05:16,660 --> 00:05:19,110
+但你覺得它們很正常很自然
+that you want to believe are normal and natural.
+
+134
+00:05:19,790 --> 00:05:21,180
+當然它們確實是那樣
+Which they are, of course.
+
+135
+00:05:22,640 --> 00:05:24,640
+琳達是研究鳥類的
+Linda was an ornithologist.
+
+136
+00:05:25,140 --> 00:05:28,380
+她的博士生項目是研究北撲翅鴷的飲食
+Her doctorate was on the diet of the northern flicker.
+
+137
+00:05:29,000 --> 00:05:31,540
+北撲翅鴷是一種啄木鳥
+A kind of woodpecker.
+
+138
+00:05:31,540 --> 00:05:32,690
+有意思
+Interesting.
+
+139
+00:05:33,460 --> 00:05:34,770
+啄木鳥十分執著
+Tenacious.
+
+140
+00:05:35,710 --> 00:05:38,800
+不斷用頭撞樹直到問題解決
+Bang their head against the problem until they solve it.
+
+141
+00:05:39,330 --> 00:05:40,440
+琳達也是這種性格嗎
+Was that Linda?
+
+142
+00:05:40,530 --> 00:05:41,590
+是的
+It was.
+
+143
+00:05:41,700 --> 00:05:44,160
+但是啄木鳥并不是用頭撞樹
+Although woodpeckers don't bang their heads
+
+144
+00:05:44,160 --> 00:05:47,530
+而是用喙在樹上鉆洞
+against things so much as they use their bills to drill holes.
+
+145
+00:05:47,580 --> 00:05:51,420
+的確  潛意識這東西
+Yes. Well, the subconscious mind is--
+
+146
+00:05:51,710 --> 00:05:54,520
+沒那么準
+isn't really a stickler about that kind of thing.
+
+147
+00:05:54,570 --> 00:05:56,410
+她是個好學生嗎
+Uh, was she a good student?
+
+148
+00:05:56,770 --> 00:05:57,800
+她很聰明
+Brilliant.
+
+149
+00:05:58,230 --> 00:06:00,680
+她已經和人合作在著名期刊上
+She had already co-authored several papers
+
+150
+00:06:00,680 --> 00:06:02,000
+發表了好幾篇論文了
+in prestigious journals.
+
+151
+00:06:02,290 --> 00:06:03,790
+有誰嫉妒她嗎
+Well, who was jealous?
+
+152
+00:06:03,900 --> 00:06:04,880
+沒有
+Nobody.
+
+153
+00:06:05,370 --> 00:06:08,610
+我們的生物系在整個西海岸是頂尖的
+This is the top biology department on the west coast.
+
+154
+00:06:09,040 --> 00:06:10,810
+這里的人都是精英
+Best and brightest only.
+
+155
+00:06:11,440 --> 00:06:14,610
+每一個人的成功對我們都有好處
+The success of one of us helps all of us.
+
+156
+00:06:14,940 --> 00:06:16,040
+我們是一家人
+We're a family.
+
+157
+00:06:16,240 --> 00:06:19,060
+每天都有謀害親人的事發生
+Well, people murder family members every day.
+
+158
+00:06:19,060 --> 00:06:20,360
+這很自然
+It's natural.
+
+159
+00:06:20,690 --> 00:06:22,150
+謀殺是一件自然的事
+Murder is natural.
+
+160
+00:06:22,780 --> 00:06:24,170
+但卻不正常
+But abnormal.
+
+161
+00:06:24,310 --> 00:06:25,860
+教授們不會了解丑聞
+Teachers don't know there's scandals
+
+162
+00:06:25,860 --> 00:06:28,820
+除非他們自己深陷其中
+unless of course they are the scandal.
+
+163
+00:06:31,500 --> 00:06:32,720
+你們問完了嗎
+Are we done?
+
+164
+00:06:33,110 --> 00:06:33,780
+暫時問完了
+Yeah. For now.
+
+165
+00:06:33,780 --> 00:06:35,520
+我們得跟幾個學生談談
+Uh, we're gonna need to talk to some students
+
+166
+00:06:35,520 --> 00:06:37,210
+還得去一趟禮品店
+and visit the gift shop,
+
+167
+00:06:37,220 --> 00:06:39,950
+出門左拐  對嗎
+which is left out the door, isn't it?
+
+168
+00:06:44,040 --> 00:06:46,160
+打擾一下  你在做什么
+Excuse me. What are you doing?
+
+169
+00:06:46,250 --> 00:06:47,180
+你們是什么人
+Who are you?
+
+170
+00:06:47,180 --> 00:06:48,770
+我是瑞斯比探員  這位是周探員
+I'm Agent Rigsby. This is Agent Cho.
+
+171
+00:06:48,770 --> 00:06:51,040
+我們是加調局的  你是誰
+We're with CBI. And you are?
+
+172
+00:06:51,130 --> 00:06:52,540
+梅根·帕克
+Megan Parker.
+
+173
+00:06:52,550 --> 00:06:55,260
+我是琳達博士課題的同學
+I was Linda's classmate in the doctoral program.
+
+174
+00:06:55,320 --> 00:06:57,000
+我的辦公室就在隔壁
+And I have the office next door.
+
+175
+00:06:57,000 --> 00:06:58,240
+你在這做什么
+What are you doing here?
+
+176
+00:06:58,330 --> 00:07:01,170
+我想在你們把這里封鎖之前
+I just came to get my copy of "Understanding macro-evolution"
+
+177
+00:07:01,170 --> 00:07:03,270
+拿走我的《理解宏觀進化》的拷貝
+before you guys sealed the place off.
+
+178
+00:07:04,820 --> 00:07:06,010
+你跟琳達熟悉嗎
+Did you know Linda well?
+
+179
+00:07:06,010 --> 00:07:07,280
+她是這里的明星
+She was a rock star.
+
+180
+00:07:07,510 --> 00:07:10,030
+也許需要打扮下  但確實是明星
+A rock star who could use a makeover, but still.
+
+181
+00:07:10,630 --> 00:07:12,520
+她拿到了今年的院長獎學金
+She got the Dean's fellowship this year.
+
+182
+00:07:12,520 --> 00:07:14,220
+大約有10萬塊
+That's like 100 grand.
+
+183
+00:07:14,280 --> 00:07:16,430
+而我們這些人只能用社保金
+The rest of us will be paying off our student loans
+
+184
+00:07:16,430 --> 00:07:18,150
+去交我們的助學貸款
+with our social security checks.
+
+185
+00:07:18,150 --> 00:07:19,830
+怎么會有這么多動物標本
+What's with all the taxidermy?
+
+186
+00:07:19,830 --> 00:07:21,790
+琳達不是研究啄木鳥的嗎
+I thought Linda just studied woodpeckers.
+
+187
+00:07:21,790 --> 00:07:24,450
+管理標本室是琳達勤工儉學的工作
+No, Linda managed the specimen rooms for her work-study,
+
+188
+00:07:24,450 --> 00:07:25,750
+她精力旺盛嘛
+so she got the overflow.
+
+189
+00:07:25,750 --> 00:07:28,050
+毒品嗎
+Huh. Drugs?
+
+190
+00:07:33,060 --> 00:07:34,090
+是糖
+Sugar.
+
+191
+00:07:34,140 --> 00:07:35,670
+她不吸毒
+She didn't do drugs.
+
+192
+00:07:35,780 --> 00:07:37,520
+連無糖汽水也不喝
+Not even diet soda.
+
+193
+00:07:37,730 --> 00:07:38,790
+她的私生活怎么樣
+What about her personal life?
+
+194
+00:07:38,790 --> 00:07:40,530
+-什么意思  -她有男朋友嗎
+- What about it? - Did she have one?
+
+195
+00:07:40,930 --> 00:07:43,030
+我們沒怎么談論過這個話題
+We didn't talk about that stuff very much.
+
+196
+00:07:43,300 --> 00:07:45,680
+我知道她有個校外的男朋友
+I know she had a boyfriend outside the school.
+
+197
+00:07:46,140 --> 00:07:47,650
+但僅此而已
+But that's all I know.
+
+198
+00:07:50,430 --> 00:07:52,760
+簡  收到留言后給我回電話
+Hey, Jane, call me when you get this.
+
+199
+00:07:52,760 --> 00:07:54,730
+我想我找到琳達的同學了
+I think I found Linda's classmates.
+
+200
+00:07:54,730 --> 00:07:55,770
+在大象這邊
+Look for the elephants.
+
+201
+00:07:55,770 --> 00:07:58,770
+大多數的物種在很長一段時間都不進化
+Most species stay in stasis for long periods of time.
+
+202
+00:07:58,770 --> 00:08:01,740
+-抱歉  有什么需要  -我是加調局的里斯本探員
+- Sorry, can I help you? - I'm Agent Lisbon with the CBI.
+
+203
+00:08:01,740 --> 00:08:04,520
+-你是弗里德曼教授嗎  -客座教授
+- Professor Friedman? - Adjunct Professor.
+
+204
+00:08:04,520 --> 00:08:06,430
+對  客座教授保羅·弗里德曼
+Yes, Adjunct Professor Paul Friedman,
+
+205
+00:08:06,430 --> 00:08:08,840
+你也看到了  學生們都對我
+which, as you can see, engenders a great deal of respect
+
+206
+00:08:08,850 --> 00:08:10,080
+非常敬重
+from the students.
+
+207
+00:08:10,080 --> 00:08:12,340
+我在基德教授手下教課
+Uh, I teach a couple seminars under Dr. Kidd.
+
+208
+00:08:12,340 --> 00:08:13,640
+抱歉打斷你了
+I'm sorry to interrupt,
+
+209
+00:08:13,640 --> 00:08:15,990
+我是來調查琳達·帕弗瑞的情況的
+but I'm looking for information on Linda Parfrey.
+
+210
+00:08:15,990 --> 00:08:17,550
+這些都是她的同學  對嗎
+These are her classmates, right?
+
+211
+00:08:17,550 --> 00:08:19,530
+對  我們都認識琳達
+Yeah. Uh, we all know Linda.
+
+212
+00:08:19,880 --> 00:08:21,420
+你們知道什么能協助
+Do you know anything that might be helpful
+
+213
+00:08:21,420 --> 00:08:22,910
+調查的線索嗎
+with the investigation?
+
+214
+00:08:26,300 --> 00:08:28,410
+我們知道琳達有個男友
+We know that Linda had a boyfriend.
+
+215
+00:08:28,410 --> 00:08:30,000
+我們想找他談談
+Uh, we'd like to talk to him.
+
+216
+00:08:30,000 --> 00:08:32,290
+應該是前男友吧
+Ex-boyfriend, I guess.
+
+217
+00:08:32,920 --> 00:08:35,370
+她不怎么談這事  可有一晚在實驗室
+She didn't talk much about it, but late one night in the lab,
+
+218
+00:08:35,370 --> 00:08:36,710
+她告訴我他們分手了
+she told me they broke up.
+
+219
+00:08:36,710 --> 00:08:37,970
+什么時候的事
+When was that?
+
+220
+00:08:38,420 --> 00:08:40,260
+大概是她失蹤前一周
+About a week before she went missing.
+
+221
+00:08:40,300 --> 00:08:41,600
+你不會懷疑是他干的吧
+You don't think he did it, do you?
+
+222
+00:08:41,600 --> 00:08:43,050
+他可是個警察
+I mean, he's a cop.
+
+223
+00:08:43,130 --> 00:08:45,970
+-警察  知道名字嗎  -知道
+- A cop? Do you know his name? - Yeah.
+
+224
+00:08:46,350 --> 00:08:48,940
+舊金山警局的雷·莫蘭警官
+Officer Ray Moran, San Francisco P.D.
+
+225
+00:08:48,940 --> 00:08:49,800
+片警
+Beat cop.
+
+226
+00:08:49,800 --> 00:08:50,920
+好  和他的隊長談談
+All right, talk to his captain.
+
+227
+00:08:50,920 --> 00:08:53,330
+問問能不能把他帶來局里問話
+See if we can bring Moran in for an interview.
+
+228
+00:08:53,330 --> 00:08:56,530
+讓周問話  也叫上簡  如果他來了的話
+Put Cho on it. Jane, too, if he ever comes in.
+
+229
+00:08:56,590 --> 00:08:57,430
+好
+You got it.
+
+230
+00:08:57,430 --> 00:08:58,590
+頭兒
+Hey, boss?
+
+231
+00:08:58,910 --> 00:09:01,280
+我成功了  我考入了培訓計劃
+I did it. I made it into the program.
+
+232
+00:09:01,520 --> 00:09:04,010
+白帽黑客  你考上了  真不錯
+White hat? You got in? That's great.
+
+233
+00:09:04,010 --> 00:09:05,870
+對  在洛杉磯培訓一個月
+Yeah. A month in L.A.
+
+234
+00:09:06,330 --> 00:09:08,000
+雖然我還是會一直盯著電腦屏幕
+I'll be staring at a computer screen the whole time,
+
+235
+00:09:08,000 --> 00:09:09,190
+可還是很棒
+but still.
+
+236
+00:09:09,190 --> 00:09:10,680
+大家都會想你的
+The team's gonna miss you.
+
+237
+00:09:10,680 --> 00:09:14,000
+你說會幫我向伯特侖申請助學金的
+You said you'd talk to Bertram about the stipend request.
+
+238
+00:09:14,000 --> 00:09:15,750
+兩天后就得交保證金了
+The deposit's due in two days.
+
+239
+00:09:16,020 --> 00:09:17,690
+我回去路上會找他
+I'll swing by on my way back.
+
+240
+00:09:17,860 --> 00:09:18,880
+謝了  頭兒
+Thanks, boss.
+
+241
+00:09:20,760 --> 00:09:21,900
+這叫做白帽黑客
+It's called white hat.
+
+242
+00:09:21,900 --> 00:09:24,520
+這是由真正黑客教授的先進的
+It's an advanced computer investigation training program
+
+243
+00:09:24,520 --> 00:09:26,050
+電腦調查培訓項目
+taught by actual hackers.
+
+244
+00:09:26,050 --> 00:09:27,160
+非常高級
+It's so advanced,
+
+245
+00:09:27,160 --> 00:09:29,230
+她給我介紹的時候我都聽不太明白
+I don't know what she's saying when she talks about it.
+
+246
+00:09:31,350 --> 00:09:34,400
+我想馬上申請培訓津貼
+I'd like to rush a request for a training stipend
+
+247
+00:09:34,400 --> 00:09:35,640
+幫她支付培訓費用
+to cover the costs.
+
+248
+00:09:35,640 --> 00:09:37,630
+你覺得曼徹斯特出老千了嗎
+You think Manchester's been cheating?
+
+249
+00:09:38,980 --> 00:09:39,760
+-什么  -打牌時候
+- What? - At poker.
+
+250
+00:09:39,760 --> 00:09:40,650
+沒
+No.
+
+251
+00:09:40,650 --> 00:09:43,130
+他太得意了
+Well, he's just s-so damn smug.
+
+252
+00:09:43,130 --> 00:09:45,520
+《月亮晚安》  他說
+You know, "Goodnight moon," he says--
+
+253
+00:09:45,520 --> 00:09:46,860
+那是什么意思
+What the hell is that?
+
+254
+00:09:46,860 --> 00:09:48,330
+只是打牌而已
+It's just a game.
+
+255
+00:09:48,330 --> 00:09:49,530
+你自己都不信吧
+You don't believe that.
+
+256
+00:09:51,860 --> 00:09:52,880
+長官
+Sir...
+
+257
+00:09:53,660 --> 00:09:56,580
+不  對了  范佩爾是什么事
+No--oh, what was that about Van Pelt?
+
+258
+00:09:56,590 --> 00:09:58,250
+她的培訓津貼
+Her training stipend.
+
+259
+00:09:59,550 --> 00:10:00,690
+時間很緊
+Times are tight.
+
+260
+00:10:00,700 --> 00:10:03,400
+我們砍了所有外部培訓金的預算
+We've cut all outside training funds from the budget.
+
+261
+00:10:03,410 --> 00:10:04,670
+不行  沒法撥款
+No, request denied.
+
+262
+00:10:14,380 --> 00:10:15,820
+里斯本說聯系不上你
+Lisbon said she lost you.
+
+263
+00:10:16,110 --> 00:10:18,270
+我帶了禮物來
+Well, I come bearing gifts.
+
+264
+00:10:19,000 --> 00:10:20,020
+格蕾斯
+Grace.
+
+265
+00:10:21,170 --> 00:10:23,730
+恐龍果凍是給我的
+Jelly dinosaurs are for me...
+
+266
+00:10:24,520 --> 00:10:25,460
+以后吃
+For later.
+
+267
+00:10:26,360 --> 00:10:27,330
+還有...
+And...
+
+268
+00:10:28,180 --> 00:10:31,350
+-我猜你喜歡三角龍  -對
+- I'm guessing you're a Triceratops man. - Yeah.
+
+269
+00:10:31,390 --> 00:10:32,870
+而瑞斯比喜歡霸王龍
+Rigsby is a T. Rex.
+
+270
+00:10:34,550 --> 00:10:35,600
+案情有新進展嗎
+Any news on the case?
+
+271
+00:10:35,600 --> 00:10:38,120
+有  死者的前男友是舊金山警察
+Yeah, the victim's ex-boyfriend is an S.F.P.D. beat cop.
+
+272
+00:10:38,120 --> 00:10:40,230
+現在正在巡邏  我正要去找他問話
+He's on patrol right now. I was just gonna go talk to him.
+
+273
+00:10:40,230 --> 00:10:41,420
+-出警嗎  -對
+- On the streets? - Yeah.
+
+274
+00:10:41,420 --> 00:10:44,100
+走吧  我有段時間沒出警了
+Let's go. I haven't been on the streets for a while.
+
+275
+00:10:44,770 --> 00:10:45,780
+走吧
+Let's do it.
+
+276
+00:10:47,540 --> 00:10:49,540
+-走吧  -不謝我嗎
+- Come on. - Thanks?
+
+277
+00:10:49,920 --> 00:10:52,210
+我不知道  他大概五尺六
+I don't know. He was like, uh, 5'6".
+
+278
+00:10:52,210 --> 00:10:54,470
+體型不算胖  臉很大
+Not fat, really. Just a big face.
+
+279
+00:10:54,480 --> 00:10:55,460
+棕色頭發
+Brown hair.
+
+280
+00:10:55,460 --> 00:10:58,110
+他都沒有持槍  你為什么給他錢
+He didn't even have a gun. Why'd you give him the money?
+
+281
+00:10:58,110 --> 00:11:00,440
+我沒給他  是他自己拿走的
+I didn't give it to him, he took it!
+
+282
+00:11:00,510 --> 00:11:02,260
+這家伙什么打扮
+What was he dressed like, this guy?
+
+283
+00:11:02,280 --> 00:11:03,560
+你們是加調局的嗎
+You guys from CBI?
+
+284
+00:11:04,110 --> 00:11:05,930
+我是周探員  這位是派翠克·簡
+Agent Cho. This is Patrick Jane.
+
+285
+00:11:06,100 --> 00:11:07,340
+我很愿意配合你們工作
+Uh, look, I want to talk to you guys,
+
+286
+00:11:07,340 --> 00:11:08,610
+可我得先把手頭的事處理完
+but we gotta handle this, okay?
+
+287
+00:11:08,610 --> 00:11:10,440
+我過幾個小時找你們吧
+Let me catch up with you in a couple hours.
+
+288
+00:11:10,440 --> 00:11:12,500
+-幾個小時  -對  我們剛接警
+- A couple hours? - Yeah, we just got this.
+
+289
+00:11:12,500 --> 00:11:14,340
+我們得發布犯罪通報
+I mean, we gotta put out a crime broadcast.
+
+290
+00:11:14,340 --> 00:11:16,030
+還得片區巡邏
+We gotta cruise the neighborhood.
+
+291
+00:11:16,030 --> 00:11:17,530
+然后寫報告
+Then there's the paperwork.
+
+292
+00:11:17,530 --> 00:11:20,190
+你的報告我是愛莫能助了
+Well, can't help you with the paperwork.
+
+293
+00:11:20,190 --> 00:11:21,680
+-他戴著兜帽  走進來  -你為什么把錢給他
+- He had a hood. He came in... - Why'd you give him the money?
+
+294
+00:11:21,680 --> 00:11:23,710
+先生  請由我們來問話
+Sir, we're asking the questions here.
+
+295
+00:11:23,980 --> 00:11:25,420
+告訴我事發經過
+Just tell me what happened.
+
+296
+00:11:25,720 --> 00:11:28,710
+我從收銀機取錢時這家伙走進來
+So this dude comes up while I'm cashing out the register,
+
+297
+00:11:28,710 --> 00:11:30,120
+問我要名片
+asks for a calling card.
+
+298
+00:11:30,560 --> 00:11:32,270
+我只轉過身一秒鐘
+I just turned for one second,
+
+299
+00:11:32,270 --> 00:11:34,740
+他就把手伸進窗口搶了一摞20塊
+and he reached through the gap and grabbed a stack of $20s.
+
+300
+00:11:34,740 --> 00:11:37,320
+你得等到取完鈔
+You wait until you're finished cashing out
+
+301
+00:11:37,320 --> 00:11:39,020
+才能做另一筆交易
+before you do another transaction!
+
+302
+00:11:39,020 --> 00:11:40,780
+聽著  這家伙拿著錢
+Look, the guy had money.
+
+303
+00:11:40,780 --> 00:11:41,980
+他看上去沒什么可疑的
+He didn't look shady or anything.
+
+304
+00:11:41,980 --> 00:11:43,400
+我怎么會知道他會搶錢
+How was I supposed to know?
+
+305
+00:11:43,400 --> 00:11:44,900
+請問
+Hey. Excuse me.
+
+306
+00:11:44,900 --> 00:11:46,910
+給我演示一下他手伸進來夠錢的情景
+Show me how he reached through the gap again.
+
+307
+00:11:52,990 --> 00:11:54,690
+好了  手縮回去
+All right. Pull your hand out.
+
+308
+00:11:56,620 --> 00:11:59,290
+這就是抓浣熊的方法  你知道嗎
+That's how they catch a raccoon, you know that?
+
+309
+00:11:59,510 --> 00:12:01,990
+這么說  那家伙沒法通過這個口搶錢
+So the guy couldn't have grabbed the cash through the gap.
+
+310
+00:12:01,990 --> 00:12:04,290
+根本沒有這個人  是嗎  哥們
+There wasn't another guy, was there, buddy?
+
+311
+00:12:04,390 --> 00:12:06,620
+是你  你就是小偷
+You! You're the thief!
+
+312
+00:12:06,660 --> 00:12:07,410
+我是小偷
+I'm the thief?
+
+313
+00:12:07,410 --> 00:12:08,760
+你就是小偷
+You're the thief.
+
+314
+00:12:09,140 --> 00:12:11,520
+你就付我那么點工資  反倒說我是小偷
+With what you're paying me, I'm the thief?
+
+315
+00:12:11,700 --> 00:12:12,550
+活兒干完了  哥們
+Work's done here, buddy.
+
+316
+00:12:12,550 --> 00:12:14,760
+我想你們可以把小偷帶去做筆錄了
+I think you can get your man to do the paperwork.
+
+317
+00:12:16,010 --> 00:12:16,970
+聽著
+Look--
+
+318
+00:12:17,650 --> 00:12:18,850
+不不不
+No, no, no.
+
+319
+00:12:21,730 --> 00:12:23,000
+你和琳達什么時候認識的
+When did you and Linda meet?
+
+320
+00:12:23,190 --> 00:12:25,380
+去年  我在值夜班
+Last year. I was moonlighting,
+
+321
+00:12:25,380 --> 00:12:26,580
+在博物館做安保
+doing security at the museum.
+
+322
+00:12:26,580 --> 00:12:28,000
+你們的感情生活如何
+And how was the relationship?
+
+323
+00:12:29,310 --> 00:12:32,030
+她的生活比我認識的任何人都穩當
+Her life was more together than anybody I ever met.
+
+324
+00:12:32,030 --> 00:12:33,320
+她很專注
+She was so focused.
+
+325
+00:12:33,900 --> 00:12:34,790
+我想也感染到了我
+Got to me, too, I guess.
+
+326
+00:12:34,790 --> 00:12:37,110
+我甚至開始為警官考試做準備
+I even started studying for the sergeant's exam.
+
+327
+00:12:37,110 --> 00:12:38,410
+然后把她給甩了
+Mm-hmm. And then you dumped her?
+
+328
+00:12:38,470 --> 00:12:40,460
+-你以為我不難過嗎  -這要你告訴我們
+- You think I was happy about it? - You tell me.
+
+329
+00:12:40,600 --> 00:12:42,990
+大約兩個月前  我收到了一封匿名電郵
+About two months ago I got an anonymous e-mail
+
+330
+00:12:42,990 --> 00:12:44,310
+里面有個鏈接
+with a link in it
+
+331
+00:12:44,360 --> 00:12:46,260
+是她網上的約會資料
+to her online dating profile.
+
+332
+00:12:47,330 --> 00:12:48,470
+我無法相信
+I couldn't believe it.
+
+333
+00:12:48,790 --> 00:12:50,440
+她已經在和別人交往了嗎
+And she'd started seeing other people?
+
+334
+00:12:50,440 --> 00:12:52,660
+我不知道有沒有
+I... I don't know if she started.
+
+335
+00:12:53,050 --> 00:12:53,960
+她只是在看有沒有更好的
+She was just shopping around.
+
+336
+00:12:53,960 --> 00:12:55,250
+可能她一直都這樣吧
+Maybe she'd been doing it the whole time.
+
+337
+00:12:55,250 --> 00:12:57,340
+-你和她聊過這事嗎  -聊過
+- You talk to her about it? - Yeah.
+
+338
+00:12:58,420 --> 00:12:59,500
+大吵了一架
+Big fight.
+
+339
+00:13:00,810 --> 00:13:02,100
+你對她動粗了嗎
+You get rough with her?
+
+340
+00:13:03,490 --> 00:13:04,860
+沒  我不干這種事
+Mnh. I don't have that in me.
+
+341
+00:13:05,300 --> 00:13:07,480
+我不會傷害女人  尤其是琳達
+Hurt a woman? Especially not Linda.
+
+342
+00:13:07,480 --> 00:13:08,930
+她有解釋嗎
+She have an explanation?
+
+343
+00:13:10,220 --> 00:13:12,990
+她不承認  不過她還能怎么樣呢
+She denied it, you know, but what else was she gonna do?
+
+344
+00:13:13,190 --> 00:13:15,270
+我無法接受她腳踏兩條船  只好放手了
+I can't take cheating. I had to let her go.
+
+345
+00:13:15,570 --> 00:13:16,930
+你知道資料是誰發給你的嗎
+Mm-hmm. Did you know who sent you the profile?
+
+346
+00:13:16,930 --> 00:13:18,790
+-不知道  -你不好奇嗎
+- No. - And you weren't curious?
+
+347
+00:13:19,720 --> 00:13:21,060
+我不知道  我...
+I don't know. I...
+
+348
+00:13:21,150 --> 00:13:23,060
+某個人的女友和我同病相憐
+Some guy's girlfriend's in the same boat as me,
+
+349
+00:13:23,060 --> 00:13:24,620
+有人心存怨恨
+somebody's holding a grudge.
+
+350
+00:13:24,960 --> 00:13:27,510
+唯一重要的是  我配不上她
+Only thing that mattered was I wasn't enough for her.
+
+351
+00:13:27,700 --> 00:13:29,670
+分手后  你沒再和她聯系過嗎
+And after you broke up, you never spoke to her again?
+
+352
+00:13:29,670 --> 00:13:30,660
+沒
+No.
+
+353
+00:13:33,610 --> 00:13:34,810
+我早該知道的
+I should have known.
+
+354
+00:13:35,460 --> 00:13:36,830
+她很有頭腦
+You know, she had smarts.
+
+355
+00:13:37,330 --> 00:13:39,030
+她會大有作為
+She was gonna have a big life.
+
+356
+00:13:40,370 --> 00:13:42,110
+她怎么會想要我這樣的小人物呢
+What'd she want with a mook like me, right?
+
+357
+00:13:46,770 --> 00:13:47,660
+有什么進展嗎
+Do you have something?
+
+358
+00:13:47,660 --> 00:13:49,930
+這是別人傳給莫蘭的約會資料
+Here's the dating profile somebody sent Moran.
+
+359
+00:13:49,850 --> 00:13:50,760
+{\pos(198.6,184.8)}東方海灣
+
+360
+00:13:51,140 --> 00:13:53,080
+查查這個交友網站
+Get a hold of the dating site.
+
+361
+00:13:53,080 --> 00:13:56,050
+看是否有人在她失蹤前后聯系過她
+See if anybody contacted her around the time she went missing.
+
+362
+00:13:56,050 --> 00:13:58,040
+我覺得琳達沒和人約會
+I don't think Linda went on any dates.
+
+363
+00:13:58,040 --> 00:13:59,090
+為什么
+Well, why not?
+
+364
+00:13:59,170 --> 00:14:00,980
+發送莫蘭這封電郵的地址
+The address that sent Moran the e-mail
+
+365
+00:14:00,980 --> 00:14:03,760
+正是建立這個交友賬戶的郵箱地址
+was used to set up an account with the dating site.
+
+366
+00:14:04,340 --> 00:14:05,520
+你找到了嗎
+Did you find them?
+
+367
+00:14:05,650 --> 00:14:08,290
+算是吧  我登陸了賬戶
+Sort of. I logged into the account.
+
+368
+00:14:08,450 --> 00:14:09,990
+你不需要密碼嗎
+Don't you need a password for that?
+
+369
+00:14:09,990 --> 00:14:12,590
+我用最常見的密碼試了兩分鐘
+I spent two minutes using the most common passwords.
+
+370
+00:14:12,590 --> 00:14:13,920
+是"Qwerty"
+It was "Qwerty."
+
+371
+00:14:13,930 --> 00:14:14,950
+"Qwerty"
+"Qwerty"?
+
+372
+00:14:14,960 --> 00:14:16,850
+Q-w-e-r-t-y
+Q-w-e-r-t-y.
+
+373
+00:14:16,850 --> 00:14:19,230
+這是最常見的密碼第五位
+It's the fifth most common password.
+
+374
+00:14:19,340 --> 00:14:20,830
+猜猜是誰的資料
+Guess whose profile it was.
+
+375
+00:14:21,520 --> 00:14:22,520
+琳達
+Linda.
+
+376
+00:14:22,520 --> 00:14:25,750
+那發給莫蘭資料的人就是創建賬戶的人
+So whoever sent Moran the profile also created it.
+
+377
+00:14:25,750 --> 00:14:27,450
+對  資料是偽造的
+Yep. Profile's a fake.
+
+378
+00:14:27,680 --> 00:14:30,940
+有人想拆散琳達和莫蘭警官
+Someone was trying to break up Linda and officer Moran.
+
+379
+00:14:30,940 --> 00:14:32,690
+干得好
+Nice work. Mm.
+
+380
+00:14:32,950 --> 00:14:36,240
+聽著  我知道你沒去成培訓計劃很失望
+Look, I know you're disappointed about the training program.
+
+381
+00:14:36,770 --> 00:14:38,080
+我們明年送你去
+We'll get you in next year.
+
+382
+00:14:38,390 --> 00:14:39,360
+沒事
+It's fine.
+
+383
+00:14:43,860 --> 00:14:46,440
+伯特侖本應該打的得心應手
+Bertram's supposed to be this real smooth player,
+
+384
+00:14:46,440 --> 00:14:48,250
+但他卻輸了好幾把牌
+but he loses a couple of hands of poker
+
+385
+00:14:48,250 --> 00:14:50,090
+還惹惱了跟他打牌的人
+and he has to bum everybody else out.
+
+386
+00:14:50,090 --> 00:14:53,450
+琳達想找一個"身材火辣的男人"
+Linda wanted "A man with a super hot body."
+
+387
+00:14:53,730 --> 00:14:55,470
+你是在說偽造的交友簡介
+The fake dating profile, right?
+
+388
+00:14:55,700 --> 00:14:56,850
+你剛才在說什么
+You were saying something?
+
+389
+00:14:56,850 --> 00:14:58,910
+伯特侖把范佩爾給坑慘了
+Bertram hanging Van Pelt out to dry.
+
+390
+00:14:58,910 --> 00:15:02,000
+他打牌輸了很多錢  就變得歇斯底里了
+He's just mad because he's losing big money at poker.
+
+391
+00:15:02,700 --> 00:15:05,610
+有些人就是喜歡把他們的痛苦凌駕于他人之上
+Well, some people like to push their pain onto other people,
+
+392
+00:15:05,620 --> 00:15:07,520
+軟弱的人  總是有人更軟弱的
+weaker people, and there's always someone weaker.
+
+393
+00:15:07,520 --> 00:15:09,000
+這就是生命的輪回啊
+That's just the circle of life.
+
+394
+00:15:09,000 --> 00:15:10,180
+好吧
+Cheery.
+
+395
+00:15:10,680 --> 00:15:13,440
+里斯本  伯特侖不是想贏  是必須贏
+Bertram doesn't want to win, Lisbon, he has to.
+
+396
+00:15:13,450 --> 00:15:15,300
+所以他才會在現在的位子上
+It's why he is where he is.
+
+397
+00:15:15,300 --> 00:15:18,220
+對他而言  輸是不可忍受的
+The idea of losing is just intolerable to him.
+
+398
+00:15:18,910 --> 00:15:21,630
+為什么會有人想拆散琳達和她男友呢
+Why would somebody want to break Linda and her boyfriend up?
+
+399
+00:15:21,660 --> 00:15:22,950
+情敵
+Romantic rivalry?
+
+400
+00:15:23,230 --> 00:15:24,480
+有可能
+Yeah, possibly.
+
+401
+00:15:24,900 --> 00:15:28,450
+"我在找有頭腦  有肌肉  全面的男人"
+"I'm looking for brains, brawn, the total package."
+
+402
+00:15:28,450 --> 00:15:29,800
+范佩爾試著追蹤電子郵件
+Van Pelt's trying to trace the e-mail,
+
+403
+00:15:29,800 --> 00:15:31,110
+但毫無收獲
+but she hit a dead end.
+
+404
+00:15:31,110 --> 00:15:34,650
+不管是誰做的肯定留下了線索
+Well, whoever authored this left their fingerprints all over it.
+
+405
+00:15:34,660 --> 00:15:36,100
+"半吊子不行"
+"No half-steppers.
+
+406
+00:15:36,440 --> 00:15:38,140
+"我在找一個真正的壞小子
+"A genuine badass.
+
+407
+00:15:38,370 --> 00:15:40,040
+裝點我的小巢"
+Feather my nest."
+
+408
+00:15:40,330 --> 00:15:41,900
+把人都喊來  里斯本
+Gather the troops, Lisbon.
+
+409
+00:15:41,900 --> 00:15:42,910
+為啥
+Why?
+
+410
+00:15:43,570 --> 00:15:45,400
+咱們來玩賓果游戲
+It's time to play bingo.
+
+411
+00:15:47,410 --> 00:15:50,710
+我們從偽造的約會資料里提取了一些詞
+So we have a list of words from the fake dating profile.
+
+412
+00:15:51,010 --> 00:15:52,000
+我們和學生們談談
+We talk to the students
+
+413
+00:15:52,000 --> 00:15:54,170
+對比學生們的用詞
+and compare what they say to the words in the list,
+
+414
+00:15:54,170 --> 00:15:56,370
+如果他們的用詞和列表上的詞相吻合
+and if what they say matches up with the words on the list,
+
+415
+00:15:56,370 --> 00:15:58,500
+那他們就是偽造資料的人嗎
+Then they're the one that wrote the profile?
+
+416
+00:15:58,500 --> 00:15:59,740
+你說的沒錯
+So far, so good.
+
+417
+00:15:59,740 --> 00:16:01,450
+但我們怎么讓他們說出這些詞呢
+But how do we get them to say the right words?
+
+418
+00:16:01,450 --> 00:16:02,460
+我們該問他們些什么
+What do we ask them about?
+
+419
+00:16:02,460 --> 00:16:04,070
+讓他們不停的說話就行了
+You have to try to get their words flowing.
+
+420
+00:16:04,070 --> 00:16:06,610
+-談談他們喜歡的東西  -喜歡的東西
+- Talk to them about their passions. - Their passions?
+
+421
+00:16:06,610 --> 00:16:08,290
+當然是動物
+Animals, of course.
+
+422
+00:16:08,520 --> 00:16:10,630
+蟲子  以及小動物
+Bugs. Critters.
+
+423
+00:16:11,510 --> 00:16:14,080
+人們用"冷血"來表示邪惡
+People use "Coldblooded" to mean evil,
+
+424
+00:16:14,080 --> 00:16:16,770
+就好像物種的體溫調節特性
+as if a species' thermophysiology
+
+425
+00:16:16,770 --> 00:16:18,890
+能夠決定它們的道德屬性一樣
+could determine its moral attributes.
+
+426
+00:16:18,890 --> 00:16:19,970
+這太荒唐了
+That's ridiculous.
+
+427
+00:16:20,530 --> 00:16:22,510
+爬行動物永遠也發明不了原子彈
+Reptiles never invented the atomic bomb.
+
+428
+00:16:23,770 --> 00:16:27,330
+要我說  恒溫動物才是問題的所在
+If you ask me, warm blood is the problem.
+
+429
+00:16:28,140 --> 00:16:29,210
+明白我的意思嗎
+Know what I mean?
+
+430
+00:16:35,290 --> 00:16:36,350
+失陪一下
+Excuse me.
+
+431
+00:16:36,580 --> 00:16:38,900
+說說...骷髏吧
+So... skeletons.
+
+432
+00:16:38,900 --> 00:16:40,300
+你為什么喜歡骷髏
+Why are you into them?
+
+433
+00:16:40,310 --> 00:16:41,590
+為什么一定要有原因呢
+Why do I need a reason?
+
+434
+00:16:42,920 --> 00:16:44,140
+我就當你是不正常了
+I'll just go with "Weird."
+
+435
+00:16:44,590 --> 00:16:47,120
+這就像是在我們的五臟六腑之下
+It's, like, under all this viscera we wear,
+
+436
+00:16:47,130 --> 00:16:50,420
+有一些很強壯  很干凈  
+there's--well, there's something strong and--and clean
+
+437
+00:16:50,430 --> 00:16:53,030
+很美麗的東西  把它們組合在了一起
+and--and beautiful that--that holds us together.
+
+438
+00:16:53,090 --> 00:16:55,850
+沒它們還真不行  我覺得這很酷
+You can't lose it. I think--I think that's cool.
+
+439
+00:16:59,540 --> 00:17:00,640
+我通過了嗎
+Did I pass?
+
+440
+00:17:01,160 --> 00:17:03,040
+我之前接受過精神分析測試
+I've taken a psych test before.
+
+441
+00:17:12,870 --> 00:17:14,790
+簡先生
+Mr. Jane.
+
+442
+00:17:15,110 --> 00:17:16,710
+我們剛才還談到了你
+We were just discussing you.
+
+443
+00:17:17,630 --> 00:17:20,620
+帕帕達基斯院長和我說了你驚人的記憶力
+Dean Papadakis told me about your impressive memory.
+
+444
+00:17:20,810 --> 00:17:23,250
+我現在的記憶力大不如前了
+My own memory isn't as good as it used to be.
+
+445
+00:17:23,330 --> 00:17:24,540
+你有什么秘訣嗎
+What's your secret?
+
+446
+00:17:25,960 --> 00:17:28,090
+不要忘記就行了
+It's easy to remember when you never forget.
+
+447
+00:17:29,430 --> 00:17:30,450
+你在做什么
+What you doing?
+
+448
+00:17:30,510 --> 00:17:32,900
+放置捕捉飛蛾的誘餌
+Laying bait for moths.
+
+449
+00:17:33,420 --> 00:17:34,780
+它們喜歡甜味
+They like sweetness,
+
+450
+00:17:34,950 --> 00:17:37,460
+所以我就用芝麻蕉和啤酒做餌
+so I use brown bananas and beer.
+
+451
+00:17:37,840 --> 00:17:39,670
+真美味
+Delicious.
+
+452
+00:17:40,750 --> 00:17:43,420
+保羅在這里發現了一個全新的飛蛾物種
+Paul here discovered a new species of moth.
+
+453
+00:17:43,460 --> 00:17:44,940
+加利福尼亞綠玉蛾
+The California Jade Moth.
+
+454
+00:17:44,950 --> 00:17:46,820
+在我們的博物館里就有展出
+It's on display in our museum.
+
+455
+00:17:47,180 --> 00:17:48,590
+真是件了不起的大事
+It's rather a big deal.
+
+456
+00:17:48,970 --> 00:17:52,260
+是啊  現在世界上的蕓蕓昆蟲又多了一種
+Yeah. Now there are 1,500,001 types of insects in the world.
+
+457
+00:17:52,720 --> 00:17:54,210
+這謙虛可真假
+Well, that's false modesty.
+
+458
+00:17:54,330 --> 00:17:56,480
+我想是的  這的確是件大事
+I guess so. It is a big deal.
+
+459
+00:17:56,520 --> 00:17:57,610
+對研究蛾的人來說
+To moth people.
+
+460
+00:17:57,870 --> 00:17:59,370
+是對我們大家來說
+To all of us.
+
+461
+00:18:00,460 --> 00:18:02,620
+恭喜你獲得新發現
+Congratulations on your new addition.
+
+462
+00:18:02,660 --> 00:18:04,660
+-謝謝  -令人印象深刻
+- Thank you. - It's most impressive.
+
+463
+00:18:05,550 --> 00:18:06,520
+謝謝
+Thank you.
+
+464
+00:18:11,550 --> 00:18:14,260
+讓我猜猜  你是在研究禿鷹
+Uh, let me guess. You're studying buzzards,
+
+465
+00:18:14,260 --> 00:18:16,290
+而你還設好了陷阱
+and you're laying a trap for one right now.
+
+466
+00:18:16,330 --> 00:18:17,400
+說的跟真的一樣
+As if.
+
+467
+00:18:17,930 --> 00:18:20,770
+我研究的是"加州海獅的交配習慣"
+Mating habits of the Zalophus Californianus.
+
+468
+00:18:20,770 --> 00:18:21,970
+海獅
+Sea lions.
+
+469
+00:18:22,030 --> 00:18:26,140
+雄海獅靠打斗吸引一群雌海獅  像個壞小子
+One badass male maintaining a stable of females through combat.
+
+470
+00:18:26,960 --> 00:18:29,550
+那很吸引你嗎  有個能為你大打出手的男人
+And that appeals to you? A man fighting for you?
+
+471
+00:18:30,160 --> 00:18:31,660
+誰不想找個霸道的男人
+Who doesn't want an alpha male?
+
+472
+00:18:31,660 --> 00:18:33,590
+一個會為他的東西大打出手的男人
+A guy who will fight for what's his?
+
+473
+00:18:33,620 --> 00:18:35,590
+超級火辣
+Yeah. Super hot.
+
+474
+00:18:36,010 --> 00:18:37,410
+聽起來不錯
+Sounds exciting.
+
+475
+00:18:37,410 --> 00:18:39,730
+很酷的  當保羅在追逐蛾子
+It's so cool. While Paul chases moths
+
+476
+00:18:39,730 --> 00:18:42,410
+而珍妮特和她的蜥蜴混在一起的時候
+and Jeanette messes around with her lizards,
+
+477
+00:18:42,610 --> 00:18:45,170
+我正在海島間穿梭觀察海豹
+I head out for the islands to watch the seals play.
+
+478
+00:18:45,760 --> 00:18:47,350
+我不光只有腦子  瞧見沒
+I'm not just a brain, see?
+
+479
+00:18:47,460 --> 00:18:49,170
+我還喜歡玩
+I like to play, too.
+
+480
+00:18:49,270 --> 00:18:50,720
+我是全方位的
+I'm the total package.
+
+481
+00:18:51,390 --> 00:18:56,200
+壞小子  熱辣  全方位
+"Badass," "Super hot," "Total package."
+
+482
+00:18:57,020 --> 00:18:58,080
+全中
+Bingo!
+
+483
+00:19:00,050 --> 00:19:01,630
+全中
+Bingo!
+
+484
+00:19:06,180 --> 00:19:07,410
+是你偽造了約會資料
+You wrote the fake dating profile
+
+485
+00:19:07,410 --> 00:19:09,470
+導致了琳達和她男友分手
+that made Linda and her boyfriend break up.
+
+486
+00:19:10,130 --> 00:19:12,140
+這也沒犯法啊  對吧
+No law against it, is there?
+
+487
+00:19:12,140 --> 00:19:13,230
+也許她發現了是你干的
+Maybe she found out it was you,
+
+488
+00:19:13,230 --> 00:19:15,570
+在實驗室里找你對質  接著事情就失控了
+confronted you in the lab, and things got out of hand.
+
+489
+00:19:15,580 --> 00:19:18,620
+聽著  我沒殺琳達
+Look--hello! I didn't kill Linda.
+
+490
+00:19:18,830 --> 00:19:20,660
+那你為什么要拆散他們
+So why did you want to break them up?
+
+491
+00:19:23,140 --> 00:19:25,450
+你是不知道項目組里的情況
+You don't even know what it's like in the program.
+
+492
+00:19:25,960 --> 00:19:29,070
+基德博士希望我們像歡樂的一家人一樣
+Dr. Kidd likes us to play like we're one happy family.
+
+493
+00:19:29,390 --> 00:19:31,920
+但我們就像一群鬣狗一樣  撕咬著對方
+We're like a pack of hyenas tearing each other apart.
+
+494
+00:19:31,920 --> 00:19:32,900
+為什么
+Why?
+
+495
+00:19:32,900 --> 00:19:34,950
+為了錢  還能為什么
+Money. Why else?
+
+496
+00:19:35,400 --> 00:19:37,810
+博物館里的東西可不是免費得來的
+Look, the museum doesn't get all that stuff for free.
+
+497
+00:19:37,900 --> 00:19:41,290
+它需要各種發現  宣傳和捐助
+It needs discoveries, publicity, donations.
+
+498
+00:19:42,000 --> 00:19:44,080
+基德博士希望我們的項目小組是最棒的
+Dr. Kidd wants our program to be the best.
+
+499
+00:19:44,280 --> 00:19:47,000
+所以如果你沒有成果的話  再見了
+So if you aren't producing, so long.
+
+500
+00:19:47,000 --> 00:19:48,140
+這話是什么意思
+What does that mean?
+
+501
+00:19:48,960 --> 00:19:51,110
+你有沒有聽說過適者生存
+You ever heard of survival of the fittest?
+
+502
+00:19:51,110 --> 00:19:52,730
+基德博士肯定聽說過
+'cause Dr. Kidd sure has.
+
+503
+00:19:53,190 --> 00:19:55,260
+她會淘汰到那些沒有貢獻
+She likes to weed out the ones who can't contribute,
+
+504
+00:19:55,260 --> 00:19:56,690
+不能勝任的人
+who can't hack it.
+
+505
+00:19:56,870 --> 00:19:58,990
+但沒人能勝任  根本沒有
+But nobody hacks it. Not really.
+
+506
+00:19:58,990 --> 00:19:59,980
+什么意思
+What do you mean?
+
+507
+00:20:00,660 --> 00:20:02,640
+珍妮特  那個蜥蜴女
+Jeanette? Lizard girl?
+
+508
+00:20:02,900 --> 00:20:06,070
+你以為她能留下來  她都要急哭了
+She has a special place on the back stairs? She goes to cry.
+
+509
+00:20:06,130 --> 00:20:07,890
+格雷格去年出了大紕漏
+Greg had a major breakdown last year,
+
+510
+00:20:07,900 --> 00:20:10,200
+比如把老鼠骷髏扔到了窗戶外
+like throwing rat skulls out the window.
+
+511
+00:20:10,440 --> 00:20:14,290
+保羅呢  在他發現那該死的蛾子之前
+And Paul? He was convinced Dr. Kidd was gonna fire him
+
+512
+00:20:14,290 --> 00:20:16,150
+他一度確信基德博士就要開除他了
+until he discovered that dumb moth.
+
+513
+00:20:16,150 --> 00:20:18,370
+琳達呢  她是怎么應對的
+How about Linda? How did she handle it?
+
+514
+00:20:19,700 --> 00:20:21,160
+她就像個機器
+She was a machine.
+
+515
+00:20:22,280 --> 00:20:24,820
+我們都快瘋了  她卻什么事都沒有
+You're losing your mind, and there she is,
+
+516
+00:20:24,820 --> 00:20:27,430
+一樣辛苦工作  卻毫不費勁
+working just as hard, not even breaking a sweat.
+
+517
+00:20:28,320 --> 00:20:29,160
+而我呢  因為沒拿到
+My mom wanted to kill me
+
+518
+00:20:29,160 --> 00:20:31,150
+院長的獎學金  我媽差點要殺了我
+for not getting the dean's fellowship.
+
+519
+00:20:31,560 --> 00:20:34,360
+接著琳達遇到了她那個性感的警察男友
+And then Linda lands that hot cop boyfriend?
+
+520
+00:20:34,540 --> 00:20:35,590
+就憑她
+Her?
+
+521
+00:20:36,010 --> 00:20:36,960
+我是說
+I mean...
+
+522
+00:20:38,320 --> 00:20:39,340
+看看
+Right?
+
+523
+00:20:40,580 --> 00:20:43,850
+所以你偽造了約會資料想讓他們分手
+So you made up the fake dating profile to break them up.
+
+524
+00:20:45,930 --> 00:20:48,320
+我只是想看看  我能不能傷到她
+I just wanted to see if I could hurt her.
+
+525
+00:20:49,060 --> 00:20:50,330
+或者她能不能被傷害到
+If she could even be hurt.
+
+526
+00:20:50,330 --> 00:20:51,470
+她知道是你干的嗎
+Did she know it was you?
+
+527
+00:20:53,120 --> 00:20:54,210
+這件事毀了她
+It wrecked her.
+
+528
+00:20:54,790 --> 00:20:56,220
+第二天  她做了一些很愚蠢的事情
+The next day she messed up something stupid,
+
+529
+00:20:56,220 --> 00:20:57,520
+基德博士還朝她大吼來著
+and Dr. Kidd yelled at her.
+
+530
+00:20:58,920 --> 00:20:59,940
+你知道嗎
+You know what?
+
+531
+00:21:00,300 --> 00:21:01,860
+這讓我感覺真的很好
+It felt really, really good.
+
+532
+00:21:02,410 --> 00:21:04,660
+我知道  這讓我聽上去像個壞人
+And I know that doesn't make me sound like a nice person.
+
+533
+00:21:05,470 --> 00:21:06,420
+對  還真不是好人
+No. No, it doesn't.
+
+534
+00:21:10,270 --> 00:21:12,030
+有點像"蠅王"的橋段啊
+It's like "Lord of the Flies" over there.
+
+535
+00:21:10,270 --> 00:21:12,030
+{\an8}英國作家威廉·戈爾丁的代表作  借小孩的天真來探討人性的惡
+
+536
+00:21:12,030 --> 00:21:14,620
+我不知道原來科學世界是如此的殘酷
+I didn't know the world of science was so cutthroat.
+
+537
+00:21:14,620 --> 00:21:16,890
+人們不是常說  因為風險極小
+Well, like the man said, academic politics
+
+538
+00:21:16,900 --> 00:21:18,940
+學術政治也會充滿惡意
+can be vicious, because the stakes are small.
+
+539
+00:21:19,310 --> 00:21:20,390
+事實上風險非常小
+Very small, indeed.
+
+540
+00:21:20,390 --> 00:21:22,330
+明天早上我們回博物館一趟
+Tomorrow morning we need to go back to the museum.
+
+541
+00:21:22,330 --> 00:21:23,070
+為什么
+Why?
+
+542
+00:21:23,070 --> 00:21:24,420
+去教育
+Education.
+
+543
+00:21:25,090 --> 00:21:27,200
+但現在我得做些事情
+But now I have to do something.
+
+544
+00:21:29,360 --> 00:21:32,200
+檢察長很清楚  控告不會堅持到最后
+And the A.G. knows damn well the indictment won't stick.
+
+545
+00:21:33,140 --> 00:21:34,440
+我現在沒空和你談
+Uh, I don't have time for this.
+
+546
+00:21:35,530 --> 00:21:37,920
+天下沒有免費的午餐  這道理他懂
+Nobody rides for free. I mean, he knows that.
+
+547
+00:21:39,400 --> 00:21:41,390
+怎么  你過來找我打撲克嗎
+What--what, you came here to play games?
+
+548
+00:21:42,880 --> 00:21:44,880
+我聽說你輸得挺慘
+I heard you've been losing,
+
+549
+00:21:44,880 --> 00:21:47,020
+還影響到了你的工作
+and, uh, it's been affecting your work.
+
+550
+00:21:49,360 --> 00:21:50,810
+我再打給你
+Uh, I'll call you back.
+
+551
+00:21:52,390 --> 00:21:54,410
+撲克根本沒影響我的工作
+Look, the cards haven't been falling my way.
+
+552
+00:21:55,050 --> 00:21:56,010
+得了吧
+Oh, come on.
+
+553
+00:21:57,570 --> 00:21:58,690
+你相信運氣嗎
+You believe in luck?
+
+554
+00:22:00,190 --> 00:22:01,010
+不
+No.
+
+555
+00:22:02,440 --> 00:22:04,040
+里斯本說你很厲害
+Lisbon says you're pretty good.
+
+556
+00:22:06,820 --> 00:22:08,540
+瑪格麗特  取消六點的安排
+Margaret, cancel my 6:00.
+
+557
+00:22:15,610 --> 00:22:16,840
+兩對
+Two pair.
+
+558
+00:22:18,070 --> 00:22:18,980
+四條[四張同點]
+Four of a kind.
+
+559
+00:22:18,980 --> 00:22:19,850
+瞧見沒
+See?
+
+560
+00:22:20,970 --> 00:22:22,280
+我知道怎么玩撲克
+I know how to play poker.
+
+561
+00:22:22,280 --> 00:22:23,350
+你當然知道
+Of course you do.
+
+562
+00:22:23,350 --> 00:22:25,440
+你擅長玩弄人  而不是牌
+You play the man, not the cards.
+
+563
+00:22:25,440 --> 00:22:27,300
+對吧  我懂機率  我了解我自己
+Right? I know the odds, I know myself.
+
+564
+00:22:27,300 --> 00:22:29,610
+你了解人性  知道如何操縱他們
+You know people, you know how to control them.
+
+565
+00:22:29,610 --> 00:22:31,210
+卻不善利用
+Not that you always care.
+
+566
+00:22:31,800 --> 00:22:32,940
+什么意思
+Uh... what's that mean?
+
+567
+00:22:33,310 --> 00:22:35,430
+要多抓蒼蠅  蜂蜜比醋有效
+Well, you win more flies with honey than with vinegar,
+
+568
+00:22:35,430 --> 00:22:37,610
+但你卻非用醋
+but you use vinegar anyway.
+
+569
+00:22:37,790 --> 00:22:38,920
+你是為里斯本來的吧
+Is this about Lisbon?
+
+570
+00:22:38,920 --> 00:22:40,890
+你很喜歡虛張聲勢  是吧
+You're very fond of the fake tell, aren't you?
+
+571
+00:22:41,300 --> 00:22:45,430
+你押注前  會四處張望  緩慢呼氣
+Before you bet, you look away and you breathe out very slowly,
+
+572
+00:22:45,430 --> 00:22:47,820
+看似想讓自己平靜下來
+like you're trying to... calm yourself.
+
+573
+00:22:50,520 --> 00:22:51,340
+沒錯
+Yes.
+
+574
+00:22:53,480 --> 00:22:56,050
+其實你有破綻
+Well, you have a tell inside the fake tell.
+
+575
+00:22:56,250 --> 00:22:57,450
+當你這么做的時候
+When you're bluffing,
+
+576
+00:22:58,500 --> 00:23:00,780
+別人能聽見你的呼吸聲
+the breathing is audible.
+
+577
+00:23:01,520 --> 00:23:03,410
+說什么呢  我能控制住自己
+The hell it is. I-I control myself.
+
+578
+00:23:03,410 --> 00:23:05,820
+你拿到好牌以后  就像那樣呼吸
+You get yourself a good hand and puff away like that,
+
+579
+00:23:05,820 --> 00:23:07,660
+曼徹斯特一定以為你在虛張聲勢
+Manchester will for sure think you're bluffing.
+
+580
+00:23:08,920 --> 00:23:10,130
+相信我
+Trust me.
+
+581
+00:23:25,370 --> 00:23:27,740
+簡先生  有什么可以效勞
+Mr. Jane. Can I help you?
+
+582
+00:23:28,170 --> 00:23:31,280
+但愿吧  你還想學我的記憶訣竅嗎
+I hope so. Uh, you still want to learn my memory trick?
+
+583
+00:23:32,100 --> 00:23:33,050
+當然
+I would.
+
+584
+00:23:33,590 --> 00:23:35,650
+好  你要給琳達的同學們
+Yeah, you teach a master class
+
+585
+00:23:35,660 --> 00:23:38,300
+上研修課的  是吧
+with all of Linda's fellow classmates, huh?
+
+586
+00:23:38,300 --> 00:23:40,210
+今天下午的課  是我和保羅來上
+Paul and I will be teaching it this afternoon.
+
+587
+00:23:40,210 --> 00:23:41,400
+這樣啊
+Yeah.
+
+588
+00:23:42,120 --> 00:23:44,020
+那我給你和你的學生
+Well, how about I put on a memory seminar
+
+589
+00:23:44,020 --> 00:23:45,470
+來場記憶講座如何
+for you and your class?
+
+590
+00:23:46,140 --> 00:23:47,560
+再好不過了
+That would be terrific.
+
+591
+00:23:48,170 --> 00:23:50,090
+不過你不是有謀殺案要破嗎
+But don't you have a murder to solve?
+
+592
+00:23:50,090 --> 00:23:51,460
+來得及
+Eh, all in good time.
+
+593
+00:23:51,460 --> 00:23:52,710
+我需要幾張桌子
+Uh, I'm gonna need some tables,
+
+594
+00:23:52,710 --> 00:23:55,200
+大概三到四張排在那后面
+possibly three or four across the back there.
+
+595
+00:23:55,360 --> 00:23:56,190
+好的
+Okay.
+
+596
+00:23:56,190 --> 00:23:59,180
+還有  琳達的辦公室里有很多動物標本
+And, uh, Linda's office, it's full of animals-- dead ones.
+
+597
+00:23:59,180 --> 00:24:00,150
+是的
+It is.
+
+598
+00:24:00,150 --> 00:24:02,840
+那些也要  做道具用
+We'll need access to that, uh, for props.
+
+599
+00:24:03,040 --> 00:24:05,090
+好的  我猜
+Okay. I assume...
+
+600
+00:24:05,410 --> 00:24:07,430
+你這么做一定另有意圖吧
+that you have some ulterior motive for all of this.
+
+601
+00:24:07,430 --> 00:24:08,610
+你們有懷疑對象了嗎
+Do you have a suspect?
+
+602
+00:24:10,180 --> 00:24:12,200
+有件事我要向你求證一下
+There's one thing I'd like you to confirm for me.
+
+603
+00:24:12,860 --> 00:24:13,620
+什么事
+What is that?
+
+604
+00:24:13,620 --> 00:24:17,430
+北撲翅鴷以什么為食
+Just what is the diet of the northern flicker woodpecker?
+
+605
+00:24:22,010 --> 00:24:23,140
+好的  當然
+Yeah. Sure.
+
+606
+00:24:24,310 --> 00:24:25,500
+你怎么會喜歡三角龍
+How can you like Triceratops
+
+607
+00:24:25,500 --> 00:24:27,150
+而不是霸王龍
+more than... T-rex?
+
+608
+00:24:27,310 --> 00:24:28,480
+霸王龍都是廢物
+T-rex are losers.
+
+609
+00:24:29,030 --> 00:24:31,350
+小胳膊小腿的  不過是長了牙的大型雞
+Little arms. It's a big chicken with teeth.
+
+610
+00:24:31,720 --> 00:24:34,100
+是嗎  那三角龍根本就是長了角的豬
+Yeah, and Triceratops is basically a pig with horns.
+
+611
+00:24:34,100 --> 00:24:35,410
+可它頭上長著盾牌呢
+And a shield on its head.
+
+612
+00:24:36,080 --> 00:24:37,860
+分分鐘秒殺你那巨型雞
+Beats a giant chicken any day of the week.
+
+613
+00:24:37,860 --> 00:24:40,290
+做夢去吧  簡有什么事
+Ha ha, in your dreams. What did Jane want?
+
+614
+00:24:41,270 --> 00:24:42,610
+他叫我們回博物館去
+He wants us back at the museum.
+
+615
+00:24:42,760 --> 00:24:43,810
+回去干嘛
+What are we gonna do?
+
+616
+00:24:44,370 --> 00:24:46,270
+-搶劫博物館  -為什么
+- Museum heist. - Why?
+
+617
+00:24:46,670 --> 00:24:48,720
+我早就不問這些問題了  走吧
+I stopped asking questions a long time ago. Come on.
+
+618
+00:24:54,520 --> 00:24:55,830
+這是干嘛
+What's this all about?
+
+619
+00:24:56,060 --> 00:24:57,550
+我們只是不想有任何遺漏  先生
+We just need to cover our bases, sir.
+
+620
+00:24:57,550 --> 00:24:59,220
+這跟調查有什么關系
+What does this have to do with the investigation?
+
+621
+00:24:59,220 --> 00:25:01,870
+我不能透露在辦案件的細節
+I can't discuss ongoing details of an investigation.
+
+622
+00:25:01,870 --> 00:25:05,000
+我得看看這些蜘蛛
+I'm gonna need to look at one of these, uh, spiders.
+
+623
+00:25:05,150 --> 00:25:06,430
+狼蛛嗎
+The tarantulas?
+
+624
+00:25:06,670 --> 00:25:09,670
+孩子們  來看這些蜘蛛啊
+Hey, kids, come check this out. Spiders.
+
+625
+00:25:09,670 --> 00:25:12,070
+對了  叫狼蛛
+Oh, yes. The tarantulas.
+
+626
+00:25:12,070 --> 00:25:13,680
+我看沒必要吧
+I don't see why it is necessary.
+
+627
+00:25:14,080 --> 00:25:17,850
+別擔心  先生  警方只是例行公事
+Don't worry, sir. This is, uh, official police business.
+
+628
+00:25:17,850 --> 00:25:20,070
+你們一定想看看...
+I'm sure you want to take...
+
+629
+00:25:20,070 --> 00:25:21,720
+等等  你要干嘛
+Wait! What are you doing?
+
+630
+00:25:22,200 --> 00:25:26,790
+-我得近距離觀察一下這只蜘蛛  -不行
+- I'm gonna need to take a close look at this spider here. - No.
+
+631
+00:25:27,210 --> 00:25:30,300
+就是這只蜘蛛
+This one specifically here, this spider.
+
+632
+00:25:30,310 --> 00:25:31,330
+不行  不行  你要干嘛
+No, no, what are you doing?
+
+633
+00:25:33,180 --> 00:25:34,270
+來吧
+Here we go.
+
+634
+00:25:34,360 --> 00:25:36,080
+不行  求你了
+Just-- no. Oh, oh, please.
+
+635
+00:25:36,080 --> 00:25:37,140
+多加小心
+Be very careful.
+
+636
+00:25:37,620 --> 00:25:39,640
+來吧  太好了
+There we go. Uh, yeah.
+
+637
+00:25:39,780 --> 00:25:42,150
+我看沒這個必要吧
+I-I don't see why this is necessary.
+
+638
+00:25:43,330 --> 00:25:44,660
+別害怕  孩子們
+Don't worry, children, it's...
+
+639
+00:25:45,150 --> 00:25:47,180
+好了  來吧
+Uh, yeah... there we go.
+
+640
+00:25:47,180 --> 00:25:48,230
+等等  你在干嘛
+Wait, what are you doing?
+
+641
+00:25:48,370 --> 00:25:50,280
+好了  我們得...
+Yeah, we're gonna have to, uh...
+
+642
+00:25:50,280 --> 00:25:53,020
+-采集它的指紋  -什么
+- dust this for prints. - Do what?
+
+643
+00:25:53,130 --> 00:25:55,120
+顏色真漂亮  是吧  孩子們
+Oh, pretty colors. Huh, kids?
+
+644
+00:25:57,480 --> 00:25:58,520
+我被咬了
+It bit--it bit me.
+
+645
+00:25:58,880 --> 00:25:59,910
+慢著  你說什么
+Oh, wait. What?
+
+646
+00:26:00,340 --> 00:26:01,380
+我被它咬了
+It bit me.
+
+647
+00:26:04,450 --> 00:26:05,900
+我去叫人來吧
+Let me call somebody,
+
+648
+00:26:05,900 --> 00:26:07,900
+這個很危險
+this can be a danger.
+
+649
+00:26:09,590 --> 00:26:11,570
+看  看見沒有  我死定了
+Look. See? It's deadly.
+
+650
+00:26:11,730 --> 00:26:13,030
+我感覺怪怪的
+It feels a little strange.
+
+651
+00:26:13,030 --> 00:26:15,120
+-什么都看不出來  -我頭暈了
+- I don't see anything. - Oh, I'm feeling woozy.
+
+652
+00:26:15,310 --> 00:26:16,750
+沒有  我開玩笑的  我沒事
+No, I'm just kidding. I'm fine.
+
+653
+00:26:16,910 --> 00:26:19,920
+別玩蜘蛛  孩子們  懂了嗎
+Don't play with spiders, kids. Okay?
+
+654
+00:26:24,940 --> 00:26:26,890
+我們今天有福了
+We've got a real treat today.
+
+655
+00:26:26,900 --> 00:26:29,310
+可以稱之為"現實版進化論"
+You could call it "Evolution in Action."
+
+656
+00:26:29,870 --> 00:26:32,600
+派翠克·簡先生將給我們做一場
+Mr. Patrick Jane is coming to give us a seminar
+
+657
+00:26:32,600 --> 00:26:34,440
+有關記憶力上限的講座
+on the upper limits of memory.
+
+658
+00:26:35,100 --> 00:26:37,200
+-我們到教室了吧  -是的  到了
+- Are we in the classroom? - Yes, we are.
+
+659
+00:26:37,620 --> 00:26:38,620
+太棒了
+Great.
+
+660
+00:26:40,470 --> 00:26:44,690
+人類的記憶能力通常比人們意識到的要強
+The human memory is far more capable than most people realize.
+
+661
+00:26:44,690 --> 00:26:46,540
+我之前進過這個房間
+I've been in this room once before.
+
+662
+00:26:46,940 --> 00:26:48,330
+我當時來的時候
+But when I was in here...
+
+663
+00:26:51,370 --> 00:26:52,590
+觀察了一下
+I paid attention.
+
+664
+00:26:53,910 --> 00:26:55,880
+觀察得非常仔細
+Very close attention.
+
+665
+00:27:03,680 --> 00:27:06,320
+謝謝  不過這只是記憶力方面的小兒科
+Oh, thank you. Please. But that's just memory 101.
+
+666
+00:27:06,320 --> 00:27:09,220
+讓我們轉入高級課程吧
+Let's move forward into the advanced coursework.
+
+667
+00:27:10,080 --> 00:27:11,270
+要想記憶力發揮作用
+For memory to be useful,
+
+668
+00:27:11,270 --> 00:27:15,290
+就必須使其如照相機一般精準和迅速
+it has to be as accurate and as fast as a camera.
+
+669
+00:27:15,290 --> 00:27:16,930
+你拿了多少動物  里斯本
+How many animals did you get, Lisbon?
+
+670
+00:27:16,930 --> 00:27:17,670
+大概三十個
+Around 30.
+
+671
+00:27:17,670 --> 00:27:19,250
+是從琳達的辦公室里拿的吧
+And you got them from Linda's office?
+
+672
+00:27:19,250 --> 00:27:20,070
+是  沒錯
+Yes, I did.
+
+673
+00:27:20,070 --> 00:27:22,550
+所有的動物都來自琳達的辦公室
+All of the animals came from Linda's office.
+
+674
+00:27:22,720 --> 00:27:24,590
+之前我從沒去過那兒
+That's a place that I have never been.
+
+675
+00:27:25,260 --> 00:27:27,980
+一會兒  我會回過頭
+And in a moment, I will turn around
+
+676
+00:27:28,140 --> 00:27:30,110
+看我身后的東西  只需要幾秒鐘
+and look behind me-- and just for a few seconds--
+
+677
+00:27:30,110 --> 00:27:34,050
+我就能按順序記住桌上的所有動物
+and I will memorize every animal on those tables in order.
+
+678
+00:27:34,540 --> 00:27:37,080
+然后我會教你們如何做到這一點
+And then I will show you how you can do the same.
+
+679
+00:27:37,220 --> 00:27:39,410
+誰知道你是不是已經背下來了
+How do we know you didn't already memorize them?
+
+680
+00:27:39,420 --> 00:27:42,290
+有個懷疑論者  我該想到的
+Ah. A skeptic. I should have known.
+
+681
+00:27:42,430 --> 00:27:43,280
+不過你說得對
+And you're right.
+
+682
+00:27:44,160 --> 00:27:46,160
+你們沒道理要相信我
+There's no reason for you to trust me.
+
+683
+00:27:46,160 --> 00:27:49,400
+保羅  你能不能把那些動物
+Paul, would you mind rearranging the animals
+
+684
+00:27:49,400 --> 00:27:50,490
+按你認為合適的方式重新擺放
+any way you see fit?
+
+685
+00:27:50,650 --> 00:27:51,620
+沒問題
+Sure.
+
+686
+00:27:52,580 --> 00:27:53,650
+謝謝
+Thank you.
+
+687
+00:27:54,040 --> 00:27:55,710
+人類的大腦
+The human brain.
+
+688
+00:27:56,490 --> 00:27:59,830
+只要運用得當  就能異常高效
+Once you get it working right, it can be incredibly effective.
+
+689
+00:27:59,830 --> 00:28:02,490
+我們的大腦能作出很多不可思議的事情
+The mind can do some miraculous things.
+
+690
+00:28:03,160 --> 00:28:06,290
+比如  預知未來
+Uh, like... telling the future.
+
+691
+00:28:06,830 --> 00:28:08,340
+正如我現在所做的一樣
+Which is what I'm doing right now.
+
+692
+00:28:08,520 --> 00:28:09,520
+吹牛
+Bull.
+
+693
+00:28:14,430 --> 00:28:15,490
+你要是這么說
+For that...
+
+694
+00:28:17,900 --> 00:28:20,440
+就由你來拿著這個預言吧
+You can be the one who holds the prediction.
+
+695
+00:28:20,790 --> 00:28:22,660
+科學就是預言  不是嗎
+Science is about prediction, isn't it?
+
+696
+00:28:23,560 --> 00:28:26,550
+是以確實的數據為基礎的預言  不是算命
+Predictions based on hard data, not fortunetelling.
+
+697
+00:28:27,120 --> 00:28:28,940
+表達不同而已
+Ahh. Well, you say "Tomato,"
+
+698
+00:28:28,940 --> 00:28:31,270
+我認為科學家推崇理性思維
+I say scientists believe in rational thought.
+
+699
+00:28:31,600 --> 00:28:33,880
+表格  列表  分類
+And grids and lists and classification,
+
+700
+00:28:33,880 --> 00:28:35,770
+這些都沒問題  可世界不是這么運轉的
+which is fine, but it's not how the world works,
+
+701
+00:28:35,780 --> 00:28:37,430
+當然大腦也并非如此運轉的
+and it's certainly not how the brain works.
+
+702
+00:28:37,960 --> 00:28:40,590
+你是說人是非理性的嗎
+You're saying people aren't rational?
+
+703
+00:28:40,920 --> 00:28:44,210
+保持理性只是一種手段
+Well, being rational is a tool,
+
+704
+00:28:44,210 --> 00:28:46,080
+但并非我們掌握的唯一手段
+but it's not the only tool we have.
+
+705
+00:28:46,080 --> 00:28:49,780
+早在我們把知識填進圖表前
+Long before we stuffed our knowledge into graphs and charts,
+
+706
+00:28:50,100 --> 00:28:52,090
+我們就用上了很多古老的方式  有時候
+we used older and, in some cases,
+
+707
+00:28:52,090 --> 00:28:55,170
+是更為有趣的方式來記事
+more entertaining ways to remember things.
+
+708
+00:28:55,170 --> 00:28:56,330
+怎么樣了  保羅
+How we doing there, Paul?
+
+709
+00:28:56,870 --> 00:28:59,280
+-好了  -太好了  請坐吧
+- I think we're good. - Excellent. Please, take a seat.
+
+710
+00:28:59,420 --> 00:29:01,770
+現在  我要讓你們見識一下我的理論
+Now, I'd like to show you what I'm talking about.
+
+711
+00:29:09,650 --> 00:29:11,660
+里斯本  勞駕
+Lisbon, uh, would you mind?
+
+712
+00:29:12,660 --> 00:29:13,230
+多謝
+Thank you.
+
+713
+00:29:15,440 --> 00:29:20,910
+我們可以在大腦中建造一座宮殿來幫助記憶
+We can create a memory by building a palace in our minds.
+
+714
+00:29:22,090 --> 00:29:23,790
+我們可以給自己唱首歌
+We can sing ourselves a song,
+
+715
+00:29:24,680 --> 00:29:26,340
+或是講個小故事
+or tell ourselves a little story.
+
+716
+00:29:27,250 --> 00:29:29,170
+這是個惡霸的故事
+A story of a bully--
+
+717
+00:29:29,740 --> 00:29:31,040
+一只灰色的狐貍
+a gray fox--
+
+718
+00:29:31,420 --> 00:29:32,900
+和一個小個子勇士
+and a little brave man--
+
+719
+00:29:33,070 --> 00:29:34,040
+一只老鼠
+a rat--
+
+720
+00:29:34,430 --> 00:29:37,290
+他為他胖乎乎的兄弟癩蛤蟆
+that stood up for his chubby little buddy the toad
+
+721
+00:29:38,250 --> 00:29:40,160
+和他的朋友蛋頭出頭
+and his friend egghead.
+
+722
+00:29:41,170 --> 00:29:43,130
+接著是個穿燕尾服的男人的故事
+The story of a man in a tuxedo
+
+723
+00:29:43,130 --> 00:29:44,850
+他在人群中鉆來鉆去
+who snaked his way through a crowd
+
+724
+00:29:44,850 --> 00:29:46,830
+只為去見一位身著華服的女人
+to meet a woman in a colorful dress.
+
+725
+00:29:47,770 --> 00:29:51,760
+企鵝  蟒蛇  三只松鼠  還有一只鸚鵡
+Penguin, cobra, three squirrels, and a parrot.
+
+726
+00:29:52,280 --> 00:29:53,550
+接著是個關于飛行的故事
+The story of flight...
+
+727
+00:29:54,100 --> 00:29:57,150
+貓頭鷹  蝙蝠  飛蛾
+An owl, a bat, a moth,
+
+728
+00:29:57,300 --> 00:29:58,300
+全部...
+All...
+
+729
+00:30:00,280 --> 00:30:03,170
+看來我說錯了
+Ah, I sense I made a mistake.
+
+730
+00:30:03,170 --> 00:30:04,830
+沒有飛蛾
+No moth.
+
+731
+00:30:06,190 --> 00:30:11,310
+也許我的預言能解釋我犯的錯
+Well, perhaps my prediction will explain my error.
+
+732
+00:30:11,310 --> 00:30:13,650
+珍妮特  請讀出來  好嗎
+Uh, Jeanette, could you read it out, please?
+
+733
+00:30:17,130 --> 00:30:19,410
+飛蛾在保羅的口袋里
+"The moth is in Paul's pocket"?
+
+734
+00:30:19,870 --> 00:30:20,920
+等等  什么
+Wait, what?
+
+735
+00:30:21,050 --> 00:30:22,130
+那只飛蛾
+The moth.
+
+736
+00:30:22,890 --> 00:30:24,900
+那只你重新擺放動物時
+The moth you stole from the table
+
+737
+00:30:24,900 --> 00:30:26,400
+從桌上偷走的飛蛾
+when you were rearranging the animals--
+
+738
+00:30:26,410 --> 00:30:27,730
+在你口袋里面
+It's in your pocket.
+
+739
+00:30:28,320 --> 00:30:30,510
+我需要你清空你的口袋
+I'm gonna need you to empty your pockets.
+
+740
+00:30:30,700 --> 00:30:31,540
+快點
+Come on.
+
+741
+00:30:33,480 --> 00:30:34,580
+讓我們看看
+Let's have a look.
+
+742
+00:30:37,070 --> 00:30:39,060
+保羅  你拿這只飛蛾做什么
+Paul, why did you take the moth?
+
+743
+00:30:40,360 --> 00:30:42,570
+那是只加利福尼亞綠玉蛾
+That's a California Jade Moth.
+
+744
+00:30:42,570 --> 00:30:44,590
+-是的  -這物種是他發現的
+- So it is. - The kind he discovered.
+
+745
+00:30:44,590 --> 00:30:46,440
+我以為唯一的一只收藏在博物館里
+I thought the only other one was in the museum.
+
+746
+00:30:46,600 --> 00:30:48,790
+-那這只是從哪兒來的  -等一下
+- Where did that come from? - Wait a second.
+
+747
+00:30:48,800 --> 00:30:49,640
+你說過所有的動物
+You said all the animals
+
+748
+00:30:49,650 --> 00:30:50,810
+都是從琳達辦公室拿來的
+came from Linda's office.
+
+749
+00:30:50,810 --> 00:30:51,580
+是從那兒拿的
+They did.
+
+750
+00:30:53,100 --> 00:30:55,480
+保羅在琳達死后才發現了這種飛蛾
+Linda died before Paul discovered the moth.
+
+751
+00:30:55,480 --> 00:30:57,040
+這飛蛾不可能是從她辦公室拿的
+This moth couldn't have come from her... office.
+
+752
+00:30:57,040 --> 00:30:58,660
+你會想明白的
+You'll get there.
+
+753
+00:30:59,000 --> 00:31:01,570
+除非  是她先發現的這種飛蛾
+Unless... she discovered the moth first.
+
+754
+00:31:03,540 --> 00:31:04,690
+保羅
+Paul...
+
+755
+00:31:05,490 --> 00:31:06,920
+不會是你殺了琳達吧
+You didn't kill Linda.
+
+756
+00:31:07,080 --> 00:31:08,270
+對  就是他
+Yes, he did.
+
+757
+00:31:08,880 --> 00:31:11,180
+但是  我承認
+But, uh, I confess--
+
+758
+00:31:11,370 --> 00:31:13,620
+那只飛蛾不是我從琳達辦公室拿的
+that moth didn't come from Linda's office.
+
+759
+00:31:13,620 --> 00:31:14,580
+我
+I...
+
+760
+00:31:14,910 --> 00:31:16,030
+偷
+s--
+
+761
+00:31:16,690 --> 00:31:18,940
+我從博物館借出來的
+Well, I-I borrowed it from the museum...
+
+762
+00:31:19,440 --> 00:31:20,660
+為了證明我的觀點
+to prove a point.
+
+763
+00:31:21,140 --> 00:31:22,250
+保羅
+Paul.
+
+764
+00:31:27,250 --> 00:31:29,070
+之前我的論文被退稿了
+I'd just had a paper rejected.
+
+765
+00:31:30,250 --> 00:31:31,930
+被同行評審打回了
+Peer review threw it back at me.
+
+766
+00:31:32,840 --> 00:31:34,600
+基德博士非常失望
+Dr. Kidd was so disappointed.
+
+767
+00:31:35,380 --> 00:31:36,660
+她從沒說過什么
+She never said anything.
+
+768
+00:31:37,680 --> 00:31:38,890
+她也不需要說
+She never had to.
+
+769
+00:31:38,890 --> 00:31:40,060
+琳達的死跟這些事有什么關系
+How did Linda come into it?
+
+770
+00:31:42,150 --> 00:31:43,780
+那天半夜在實驗室里
+It was late night at the lab.
+
+771
+00:31:44,300 --> 00:31:47,660
+她剛剛從森林里回來  非常興奮
+Uh, she came in fresh from the forest, excited.
+
+772
+00:31:48,570 --> 00:31:51,320
+她看到她的一只啄木鳥正在吃一只
+Uh, she'd seen one of her woodpeckers eating a moth
+
+773
+00:31:51,330 --> 00:31:52,430
+她說不出種類的飛蛾
+that she couldn't identify.
+
+774
+00:31:53,960 --> 00:31:55,940
+所以她放了些誘餌并抓住了一只
+So she put down some bait and caught one.
+
+775
+00:31:57,020 --> 00:31:58,810
+我們在她的辦公室找到了紅糖
+We found the brown sugar in her office.
+
+776
+00:31:59,370 --> 00:32:00,300
+就是她的誘餌嗎
+Was that her bait?
+
+777
+00:32:00,450 --> 00:32:01,430
+對
+Yeah.
+
+778
+00:32:02,210 --> 00:32:04,220
+當我看到它的一瞬間我就知道這它是什么
+I knew what it was the moment I saw it.
+
+779
+00:32:04,810 --> 00:32:06,120
+一個新物種
+A new species.
+
+780
+00:32:07,010 --> 00:32:08,240
+它將帶來新文章
+I mean, that's articles,
+
+781
+00:32:08,390 --> 00:32:09,400
+博物館展覽
+that's museum exhibits,
+
+782
+00:32:09,400 --> 00:32:10,830
+為項目帶來資金
+that's money for the program.
+
+783
+00:32:12,210 --> 00:32:14,230
+我看到未來由我自己命名這種飛蛾
+I saw myself naming the moth.
+
+784
+00:32:15,220 --> 00:32:17,100
+我一直都想要給什么東西命名
+I'd--I'd always wanted to name something.
+
+785
+00:32:18,380 --> 00:32:19,830
+我的工作岌岌可危
+My job was on the line.
+
+786
+00:32:20,920 --> 00:32:21,950
+還有我的未來
+My future.
+
+787
+00:32:22,800 --> 00:32:23,840
+我需要這只飛蛾
+I needed it...
+
+788
+00:32:24,630 --> 00:32:25,620
+來度過難關
+to survive.
+
+789
+00:32:36,310 --> 00:32:38,270
+我完全失去了理智
+I just lost myself completely.
+
+790
+00:32:40,170 --> 00:32:41,910
+當我回過神以后
+I came back to my senses,
+
+791
+00:32:42,570 --> 00:32:44,160
+把現場收拾干凈
+I cleaned up,
+
+792
+00:32:44,310 --> 00:32:46,210
+在我們實驗室有很多種清理血跡的方法
+lots of ways to clean blood in our lab.
+
+793
+00:32:46,960 --> 00:32:50,200
+然后  我讓蠕蟲來處理琳達
+And then, I gave Linda to the worms.
+
+794
+00:33:04,310 --> 00:33:06,280
+之后我去了琳達之前
+Then I went out to the part of the forest
+
+795
+00:33:06,280 --> 00:33:07,360
+發現飛蛾的
+where I knew she'd been
+
+796
+00:33:08,950 --> 00:33:10,470
+那片樹林
+discovered the moth.
+
+797
+00:33:12,540 --> 00:33:14,560
+然后回來將這一切據為己有
+I came back and got my accolades.
+
+798
+00:33:15,800 --> 00:33:17,060
+我保住了我的工作
+I saved my job.
+
+799
+00:33:19,400 --> 00:33:20,780
+得到了一切我渴望的東西
+I got everything I wanted.
+
+800
+00:33:34,550 --> 00:33:35,810
+基德博士
+Dr. Kidd.
+
+801
+00:33:37,660 --> 00:33:39,610
+請叫我索尼亞
+Sonia, please.
+
+802
+00:33:40,680 --> 00:33:42,880
+我想要感謝你抓住了保羅
+I wanted to thank you for catching Paul.
+
+803
+00:33:43,350 --> 00:33:46,550
+你不必客氣
+Ah. There's no thanks necessary.
+
+804
+00:33:49,270 --> 00:33:52,150
+琳達死了  保羅進了監獄
+Linda's dead, Paul's in jail,
+
+805
+00:33:52,150 --> 00:33:54,160
+梅根將被開除
+and Megan is being expelled.
+
+806
+00:33:54,950 --> 00:33:57,030
+我想這個項目永遠不會恢復了
+I don't think the program will ever recover.
+
+807
+00:33:57,590 --> 00:33:59,170
+項目并不是真實存在的
+The program isn't real.
+
+808
+00:34:00,190 --> 00:34:02,060
+問題是  你能從中恢復嗎
+The question is, will you recover?
+
+809
+00:34:04,510 --> 00:34:06,150
+我覺得非常無力
+I felt so powerless.
+
+810
+00:34:06,890 --> 00:34:09,040
+我是說  面對死亡你又能做什么呢
+I mean, what can you do in the face of death?
+
+811
+00:34:10,520 --> 00:34:12,380
+但是你并不軟弱無力
+You're not powerless, though.
+
+812
+00:34:12,950 --> 00:34:13,930
+你會行動
+You act.
+
+813
+00:34:14,330 --> 00:34:15,900
+至少你可以做這件事
+Well, there's one thing you can do.
+
+814
+00:34:15,900 --> 00:34:19,780
+保羅通過命名那種飛蛾獲得了很多的榮譽
+Uh... Paul took a lot of pride in naming that moth, when...
+
+815
+00:34:19,780 --> 00:34:21,740
+但實際上應該是琳達來命名它
+When it should have been Linda who named it.
+
+816
+00:34:21,750 --> 00:34:22,590
+沒錯
+Yes.
+
+817
+00:34:23,360 --> 00:34:25,390
+我會確保飛蛾將重新以她來命名
+I'll make sure to rename it after her.
+
+818
+00:34:26,630 --> 00:34:27,670
+謝謝你
+Thank you.
+
+819
+00:34:28,320 --> 00:34:29,430
+是我的榮幸
+Pleasure.
+
+820
+00:34:35,260 --> 00:34:36,500
+對
+Yeah.
+
+821
+00:34:37,500 --> 00:34:38,620
+講得通
+Makes sense.
+
+822
+00:34:39,090 --> 00:34:40,630
+好男人都有主了
+All the good ones are taken.
+
+823
+00:34:40,630 --> 00:34:41,640
+得了吧
+Please.
+
+824
+00:34:41,790 --> 00:34:43,590
+我想是物競天擇
+Natural selection, I suppose.
+
+825
+00:34:43,860 --> 00:34:44,680
+行啦
+Come on.
+
+826
+00:34:46,210 --> 00:34:47,320
+再見  派翠克
+Good-bye, Patrick.
+
+827
+00:34:47,860 --> 00:34:48,860
+再見  索尼亞
+Good-bye, Sonia.
+
+828
+00:34:58,420 --> 00:35:00,000
+跟道金斯五百美元
+$500 to Dawkins.
+
+829
+00:35:01,600 --> 00:35:02,450
+不跟
+Nope.
+
+830
+00:35:05,240 --> 00:35:06,500
+我要
+I'll, uh...
+
+831
+00:35:08,290 --> 00:35:09,650
+加注一百美元
+raise $100.
+
+832
+00:35:11,450 --> 00:35:14,070
+看來我不得不再加注一百美元
+Well, I'm just gonna have to raise you another $100.
+
+833
+00:35:15,970 --> 00:35:17,370
+你怎么就學不會呢  蓋爾
+When are you gonna learn, Gale?
+
+834
+00:35:27,440 --> 00:35:28,780
+再加注一千美元
+Raise $1,000.
+
+835
+00:35:33,030 --> 00:35:34,090
+全押上
+All in.
+
+836
+00:35:52,010 --> 00:35:53,370
+兩對
+Two pair.
+
+837
+00:36:01,380 --> 00:36:03,200
+同花
+Flush.
+
+838
+00:36:04,190 --> 00:36:05,560
+同花更大
+Flush takes the pot.
+
+839
+00:36:11,140 --> 00:36:12,490
+"晚安  月亮"
+"Goodnight moon."
+
+840
+00:36:11,140 --> 00:36:12,490
+{\an8}以下皆源自美國兒童讀物《晚安  月亮》
+
+841
+00:36:15,020 --> 00:36:16,500
+"晚安  星星"
+"Goodnight stars."
+
+842
+00:36:17,880 --> 00:36:19,720
+晚安  大法官
+Goodnight Judge.
+
+843
+00:36:25,890 --> 00:36:27,590
+你看到沒  你剛才看到沒
+You see that? Did you see that?
+
+844
+00:36:27,740 --> 00:36:29,330
+同花嗎  非常帶勁
+The flush? It was very nice.
+
+845
+00:36:29,330 --> 00:36:30,700
+我把他贏光了
+Ah, I gutted him!
+
+846
+00:36:30,700 --> 00:36:32,370
+我也這么想
+I would say so, yeah.
+
+847
+00:36:32,740 --> 00:36:35,650
+你很聰明  讓簡來給我上課
+That was very slick, you having Jane give me lessons.
+
+848
+00:36:36,000 --> 00:36:38,160
+看來你真得很想幫范佩爾
+You must really want to help Van Pelt.
+
+849
+00:36:38,320 --> 00:36:39,340
+簡到底做了什么
+What did Jane do?
+
+850
+00:36:39,680 --> 00:36:41,530
+現在就不要再裝了
+Oh, now there's no need to be coy.
+
+851
+00:36:41,910 --> 00:36:44,160
+我會給你回報的
+I don't have a problem with a little quid pro quo.
+
+852
+00:36:44,900 --> 00:36:47,310
+白帽黑客項目  對嗎
+The white hat program, wasn't it?
+
+853
+00:36:48,040 --> 00:36:49,800
+明早我就會批準津貼
+I'll authorize the stipend in the morning.
+
+854
+00:36:50,380 --> 00:36:51,440
+謝謝你  長官
+Thank you, Sir.
+
+855
+00:36:51,440 --> 00:36:52,710
+不  不  多謝你
+No, no. Thank you.
+
+856
+00:36:52,860 --> 00:36:55,080
+-還要謝謝簡  -我會的
+- And thank Jane. - I will.
+
+857
+00:37:02,450 --> 00:37:05,050
+一些科學家認為霸王龍
+And some scientists think the T.Rex could run
+
+858
+00:37:05,060 --> 00:37:07,070
+一小時可以跑45英里[72.4公里]
+up to 45 miles an hour.
+
+859
+00:37:07,070 --> 00:37:07,770
+它是頂級捕食者
+That's apex predator.
+
+860
+00:37:07,770 --> 00:37:09,240
+-你知道這意味著什么嗎  -是的
+- You know what that means? - Yes.
+
+861
+00:37:09,240 --> 00:37:10,450
+這意味著它們是食物鏈的最頂端
+That means they're top of the food chain.
+
+862
+00:37:10,450 --> 00:37:11,970
+-它們能吃掉任何動物  -所以呢
+- They eat everything. - So?
+
+863
+00:37:11,980 --> 00:37:15,320
+所以霸王龍比三角龍更強  我贏了
+So... T. Rex beats Triceratops. I win.
+
+864
+00:37:15,700 --> 00:37:17,460
+你昨晚回家百度了恐龍
+You went home last night and googled dinosaurs,
+
+865
+00:37:17,460 --> 00:37:18,430
+-是不是  -沒錯  我查了
+- didn't you? - Yeah, I did.
+
+866
+00:37:18,430 --> 00:37:19,550
+你連生活都沒  我贏了
+You have no life. I win.
+
+867
+00:37:28,050 --> 00:37:29,320
+我昨天欠她的
+I owe her from yesterday.
+
+868
+00:37:29,650 --> 00:37:30,910
+她正在去機場的路上
+She's on her way to the airport.
+
+869
+00:37:33,680 --> 00:37:35,950
+對  為了那個什么白帽項目的事
+Oh. Yeah, for that white hat thing.
+
+870
+00:37:36,110 --> 00:37:37,560
+不是說沒有津貼嗎
+I thought there's no money for that.
+
+871
+00:37:39,200 --> 00:37:40,280
+里斯本解決了
+Lisbon fixed it.
+
+872
+00:37:44,220 --> 00:37:45,760
+要是能說聲再見就好了
+Would have been nice to say good-bye.
+
+873
+00:37:46,900 --> 00:37:48,300
+對啊  膽小鬼可沒機會
+Yeah, well, cowards don't get to say good-bye
+
+874
+00:37:48,300 --> 00:37:49,350
+說再見
+when they want.
+
+875
+00:37:49,510 --> 00:37:51,390
+膽小...
+Cow--wow.
+
+876
+00:37:51,580 --> 00:37:53,200
+你為什么這么說  你叫我膽小鬼
+Where'd that come from? You calling me a coward?
+
+877
+00:37:53,200 --> 00:37:54,190
+沒錯
+Yep.
+
+878
+00:37:54,340 --> 00:37:55,230
+此話怎講
+How so?
+
+879
+00:38:00,870 --> 00:38:01,720
+你假裝沒有愛著范佩爾
+How long have you been pretending
+
+880
+00:38:01,720 --> 00:38:02,850
+裝了多長時間了
+you're not in love with Van Pelt?
+
+881
+00:38:02,850 --> 00:38:04,220
+誰說我愛著范佩爾了
+Who says I'm in love with Van Pelt?
+
+882
+00:38:04,350 --> 00:38:06,660
+我很久以前有過  但之后再沒有了
+I was once, a long time ago, but not anymore.
+
+883
+00:38:06,780 --> 00:38:10,210
+我們只是  只不過是  好朋友
+We're just... we're just... good friends.
+
+884
+00:38:10,210 --> 00:38:12,250
+你是個膽小鬼和糟糕的騙子
+You're a coward and terrible liar.
+
+885
+00:38:12,290 --> 00:38:13,780
+你胡扯
+Uh... says you.
+
+886
+00:38:14,380 --> 00:38:17,190
+膽小鬼  他懂什么是戀愛嗎
+"Coward." What does he know about relationships?
+
+887
+00:38:17,840 --> 00:38:19,190
+你就跟懷孕的妓女約會
+Yeah, well, you date pregnant hookers
+
+888
+00:38:19,190 --> 00:38:21,180
+而且你的恐龍是吃草的
+and your-- your dinosaur eats grass!
+
+889
+00:38:30,890 --> 00:38:32,610
+-早  -早上好
+- Morning. - Good morning.
+
+890
+00:38:33,020 --> 00:38:35,040
+這段時間我們人手會不夠
+We're gonna be short-staffed for a while.
+
+891
+00:38:35,040 --> 00:38:36,350
+范佩爾啟程去洛杉磯了
+Van Pelt's off to L.A.
+
+892
+00:38:36,730 --> 00:38:37,590
+謝謝你
+Thank you.
+
+893
+00:38:37,590 --> 00:38:39,460
+成人教育是很美好的事
+Adult education's a beautiful thing.
+
+894
+00:38:39,460 --> 00:38:41,680
+說到這
+Uh, speaking of which, uh...
+
+895
+00:38:42,210 --> 00:38:45,440
+我破壞了撲克游戲的生態系統
+I've upset the ecosystem of the poker game.
+
+896
+00:38:46,040 --> 00:38:48,160
+我想你在博物館呆了太久了
+I think you've been spending too much time at the museum.
+
+897
+00:38:48,320 --> 00:38:49,430
+"破壞了生態系統"
+"Upset the ecosystem"?
+
+898
+00:38:49,430 --> 00:38:52,370
+全靠我  伯特侖現在牌技進步了
+Bertram's now a better poker player because of me.
+
+899
+00:38:52,530 --> 00:38:55,720
+生態系統改變了  你要么適應它要么就死亡
+The ecosystem has changed. You need to adapt or die.
+
+900
+00:38:55,910 --> 00:38:57,200
+誰說我需要幫助的
+Who says I need the help?
+
+901
+00:39:01,880 --> 00:39:03,750
+別想跟我耍花招
+Don't try to razzle-dazzle me.
+
+902
+00:39:04,330 --> 00:39:05,420
+有錢能使鬼推磨
+Money talks.
+
+903
+00:39:06,610 --> 00:39:07,820
+我們用什么來做籌碼
+What do we use for stakes?
+
+904
+00:39:07,820 --> 00:39:09,440
+沒有籌碼怎么打撲克
+You can't play poker without stakes.
+
+905
+00:39:09,440 --> 00:39:10,560
+我已經搞定了
+Oh, I have that covered.
+
+906
+00:39:12,120 --> 00:39:15,430
+食草動物算一  食肉動物算五
+Herbivores are worth 1, carnivores are worth 5.
+
+907
+00:39:15,440 --> 00:39:16,350
+好的
+Okay.
+
+908
+00:39:19,620 --> 00:39:20,650
+發牌
+Deal.
+
+909
+00:39:26,980 --> 00:39:27,970
+你有什么牌
+What do you got?
+
+910
+00:39:37,060 --> 00:39:37,550
+全押了
+All in.
+
+911
+00:39:37,550 --> 00:39:38,820
+你在虛張聲勢  我跟注
+You're bluffing. I call.
+
+912
+00:39:39,990 --> 00:39:41,050
+你確定
+Really?
+
+913
+00:39:42,170 --> 00:39:43,370
+好吧  你出老千了嗎
+Okay, are you cheating?
+
+914
+00:39:43,550 --> 00:39:44,330
+沒有
+No.
+
+915
+00:39:46,600 --> 00:39:47,820
+我贏定你了
+I'm gonna smoke you.
+

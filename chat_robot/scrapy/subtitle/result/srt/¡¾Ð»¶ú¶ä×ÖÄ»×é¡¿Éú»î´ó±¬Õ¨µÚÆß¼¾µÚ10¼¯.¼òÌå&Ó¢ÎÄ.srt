@@ -1,0 +1,2438 @@
+﻿1
+00:00:01,148 --> 00:00:02,548
+生活大爆炸前情提要
+Previously on The Big Bang Theory...
+
+2
+00:00:03,265 --> 00:00:04,865
+Sheldon  难道你刚刚是想出了
+Sheldon, did you just figure out
+
+3
+00:00:04,867 --> 00:00:08,135
+合成新型稳定超重元素的方法了?
+a method for synthesizing a new stable super-heavy element?
+
+4
+00:00:08,256 --> 00:00:09,939
+我有吗?!
+Did I?!
+
+5
+00:00:09,941 --> 00:00:11,207
+这不太可能
+Well, that can't be right.
+
+6
+00:00:11,209 --> 00:00:12,908
+这事前无古人啊
+No one's ever done that before.
+
+7
+00:00:12,910 --> 00:00:14,376
+除了我  因为我刚刚做到啦!
+Except me because I just did it!
+
+8
+00:00:14,378 --> 00:00:16,545
+# Sheldon和他的大脑  万岁! #
+# Sheldon and his brain, yeah
+
+9
+00:00:16,547 --> 00:00:18,581
+# Sheldon和他的大脑  万岁! #
+# Sheldon and his brain, yeah! #
+
+10
+00:00:18,583 --> 00:00:20,949
+我犯了一个致命的错误
+I've made a horrible mistake.
+
+11
+00:00:20,951 --> 00:00:22,051
+你在说什么
+What are you talking about?
+
+12
+00:00:22,053 --> 00:00:24,786
+这个表格  单位是平方厘米
+This table, it's in square centimeters
+
+13
+00:00:24,788 --> 00:00:26,805
+我把它当成平方米读了
+I read it as square meters.
+
+14
+00:00:26,807 --> 00:00:28,257
+你知道意味着什么吗
+You know what that means?
+
+15
+00:00:28,259 --> 00:00:30,843
+美国人搞不定公制单位?
+That Americans can't handle the metric system?
+
+16
+00:00:32,429 --> 00:00:36,265
+Amy  我差了整整1万倍
+Amy, I was off by a factor of 10,000.
+
+17
+00:00:36,267 --> 00:00:38,684
+但是中国科学家找到了该元素
+But the Chinese team found the element.
+
+18
+00:00:38,686 --> 00:00:39,652
+是啊  他们不该找到的
+Yeah, well, they shouldn't have.
+
+19
+00:00:39,654 --> 00:00:41,604
+我的计算有误
+My calculations were wrong.
+
+20
+00:00:41,606 --> 00:00:43,572
+我一生中最重要的发现
+The greatest scientific achievement of my life
+
+21
+00:00:43,574 --> 00:00:45,307
+却是来自一个错误
+is based on a blunder.
+
+22
+00:00:45,309 --> 00:00:46,609
+我不是个天才
+I'm not a genius.
+
+23
+00:00:46,611 --> 00:00:47,943
+而是个骗子
+I'm a fraud.
+
+24
+00:00:47,945 --> 00:00:50,112
+Sheldon你要知道  在神经学里
+You know, Sheldon, in neuroscience,
+
+25
+00:00:50,114 --> 00:00:52,814
+我们永远会在大脑某部分发现
+we're forever finding something in one part of the brain
+
+26
+00:00:52,816 --> 00:00:54,283
+本以为在其他地方的东西
+that we thought was someplace else.
+
+27
+00:00:54,285 --> 00:00:56,985
+噢  太好了  我现在连骗子都不如
+Oh, great, now I'm worse than a fraud.
+
+28
+00:00:56,987 --> 00:00:59,154
+我成生物学家了  
+I'm practically a biologist.
+
+29
+00:01:01,758 --> 00:01:04,260
+这是科学星期五  我是Ira Flatow
+This is Science Friday. I'm Ira Flatow.
+
+30
+00:01:04,262 --> 00:01:07,596
+我们今天的嘉宾是发现首个稳定超重元素的
+My guest today is responsible for the discovery of the first
+
+31
+00:01:07,598 --> 00:01:10,165
+科学家
+stable super-heavy element.
+
+32
+00:01:10,167 --> 00:01:11,684
+欢迎  Sheldon Cooper博士
+Welcome, Dr. Sheldon Cooper.
+
+33
+00:01:11,686 --> 00:01:13,435
+谢谢
+Thank you.
+
+34
+00:01:13,437 --> 00:01:15,020
+唔  学校叫我过来的
+Uh, the university made me come here.
+
+35
+00:01:15,022 --> 00:01:16,505
+我一点也不想来
+I didn't want to.
+
+36
+00:01:17,324 --> 00:01:20,359
+厄  我是这个节目的粉丝
+Uh, big fan of the show.
+
+37
+00:01:20,361 --> 00:01:23,345
+那么  我知道你实际上是误打误撞
+So, I understand that you actually discovered
+
+38
+00:01:23,347 --> 00:01:25,531
+才找到这个元素的
+this element by mistake.
+
+39
+00:01:27,485 --> 00:01:29,318
+是的
+Yes.
+
+40
+00:01:29,320 --> 00:01:32,371
+在科学圈里有人把这个现象称作
+And some people in the science community are calling it
+
+41
+00:01:32,373 --> 00:01:34,356
+"神奇的大错误"
+"The Wonder Blunder."
+
+42
+00:01:34,358 --> 00:01:36,024
+谁说的?  把他们名字告诉我
+Who? Give me their names.
+
+43
+00:01:36,026 --> 00:01:37,910
+我打赌肯定是Wolowitz
+I bet it's Wolowitz.
+
+44
+00:01:37,912 --> 00:01:40,296
+这真是个神奇的故事
+It's just such a fascinating story.
+
+45
+00:01:40,298 --> 00:01:41,830
+你的计算差的十万八千里
+Your calculations are way off,
+
+46
+00:01:41,832 --> 00:01:44,199
+但是他们却找到了这个元素
+but they find the element anyway.
+
+47
+00:01:44,201 --> 00:01:46,502
+就好像读错了藏宝图
+It's like misreading a treasure map
+
+48
+00:01:46,504 --> 00:01:48,921
+却仍找到了宝藏
+and still finding the treasure.
+
+49
+00:01:48,923 --> 00:01:50,923
+我们能聊聊其他的吗?
+Can we talk about something else?
+
+50
+00:01:50,925 --> 00:01:53,509
+你知道我会约德尔唱法吗?
+Do you know that I yodel?
+
+51
+00:01:55,845 --> 00:01:57,229
+有意思  但是这个发现有可能会帮你
+That's interesting, but this could be taking you
+
+52
+00:01:57,231 --> 00:01:59,982
+打通获得诺贝尔奖之路
+down the path toward a Nobel Prize.
+
+53
+00:01:59,984 --> 00:02:01,350
+毫无疑问是化学奖
+And in chemistry, no less.
+
+54
+00:02:01,352 --> 00:02:03,502
+不是很奇怪吗?
+And wouldn't that be unusual?
+
+55
+00:02:03,504 --> 00:02:05,854
+因为你是个物理学家
+Because you're a physicist.
+
+56
+00:02:05,856 --> 00:02:08,157
+是啊  是啊  我将会是个获得诺贝尔化学奖的物理学家
+Yes, yes, I'd be a physicist with a Nobel in chemistry.
+
+57
+00:02:08,159 --> 00:02:10,359
+人人都会嘲笑这个马戏团的怪物
+Everyone laugh at the circus freak.
+
+58
+00:02:11,611 --> 00:02:14,163
+你知道吗  Flatow  我没必要呆在这里忍受这些
+You know, I don't need to sit here and take this, Flatow.
+
+59
+00:02:14,165 --> 00:02:16,498
+正是因为像你这些恶人
+It is because of bullies like you,
+
+60
+00:02:16,500 --> 00:02:18,200
+越来越多的美国人
+every day more and more Americans
+
+61
+00:02:18,202 --> 00:02:20,703
+才选择看电视了
+are making the switch to television.
+
+
+62
+00:02:21,788 --> 00:02:28,761
+本字幕由  谢耳朵字幕组  翻译制作
+更多生活大爆炸剧集，访谈及资讯
+请关注新浪围脖  @谢耳朵字幕组
+
+64
+00:02:28,763 --> 00:02:32,931
+翻译：南京小黑  高珊啊啊  卡布瑞￠浠
+
+66
+00:02:32,933 --> 00:02:38,270
+审校：冰之冷  压制：伍步书
+
+68
+00:02:38,272 --> 00:02:42,141
+招募审校, 美工, 资讯等  报名qq群 186040513
+
+70
+00:02:42,148 --> 00:02:51,149
+生活大爆炸第七季第十集
+
+72
+00:02:51,175 --> 00:02:53,810
+Seibert校长  我不知道为啥你要冲我吼
+President Seibert, I don't know why you're yelling.
+
+73
+00:02:53,812 --> 00:02:56,179
+就是你逼我去上节目的
+You're the one who made me go on the radio.
+
+74
+00:02:56,181 --> 00:02:59,016
+我还以为是一个专业的科学访谈
+I was expecting a professional science interview,
+
+75
+00:02:59,018 --> 00:03:02,836
+而不是收到那些哗众取宠的名嘴的攻击
+not an attack by some morning zoo shock jock.
+
+76
+00:03:04,305 --> 00:03:06,239
+好吧  如果大学这么需要钱
+Well, if the university needs money so badly,
+
+77
+00:03:06,241 --> 00:03:09,026
+也许你应该准备一个脏话罐 
+(脏话罐: 说脏话就要向里面投钱的罐子)
+perhaps you should start a swear jar.
+
+78
+00:03:10,328 --> 00:03:13,363
+哇!  你刚才说的话可要投一美金了
+Whoa! That one's worth a dollar.
+
+79
+00:03:14,665 --> 00:03:16,033
+我知道你不喜欢这样
+I know you don't like it,
+
+80
+00:03:16,035 --> 00:03:17,367
+但是每次你去参加访谈
+but every time you do an interview,
+
+81
+00:03:17,369 --> 00:03:19,402
+都会增加学校的声誉
+it raises the profile of the university.
+
+82
+00:03:19,404 --> 00:03:21,071
+那会带来更多的资助
+That translates to funding.
+
+83
+00:03:21,073 --> 00:03:22,089
+是啊  但是我不是被训练
+Yeah, well, I'm not just
+
+84
+00:03:22,091 --> 00:03:25,909
+靠跳舞来赚钱的猴子
+some trained monkey dancing for coins.
+
+85
+00:03:25,911 --> 00:03:27,010
+你当然不是
+Of course you're not.
+
+86
+00:03:27,012 --> 00:03:29,046
+人们喜欢那些猴子
+People love trained monkeys.
+
+87
+00:03:31,265 --> 00:03:32,299
+你有什么好不开心的?
+How can you not be happy?
+
+88
+00:03:32,301 --> 00:03:34,017
+你又高又瘦还出名
+You're tall, thin and famous.
+
+89
+00:03:34,019 --> 00:03:37,137
+偶滴神啊  我居然在嫉妒Sheldon
+Oh, my God, I'm jealous of Sheldon.
+
+90
+00:03:38,389 --> 00:03:39,973
+听着  你还得做这些事情做一段时间
+Look, you're gonna be doing this stuff for a while.
+
+91
+00:03:39,975 --> 00:03:42,359
+你必须找到接受它的方法
+You're just gonna have to find a way to get used to it.
+
+92
+00:03:42,361 --> 00:03:44,260
+你们没人能理解这种感受
+But none of you know what this is like.
+
+93
+00:03:44,262 --> 00:03:47,430
+别人一直在庆祝一件你希望自己从没干过的事情
+Being celebrated for something you wish you never did.
+
+94
+00:03:47,432 --> 00:03:50,650
+唔  你肯定没跟我去过狂欢节
+Mmm... you clearly haven't been with me at Mardi Gras.
+
+95
+00:03:54,122 --> 00:03:56,289
+可以停一下游戏来帮我打扫一下吗?
+Want to pause the video game and help me clean up?
+
+96
+00:03:56,291 --> 00:03:57,457
+我正在打扫呢
+I am cleaning up.
+
+97
+00:03:57,459 --> 00:03:59,876
+看看小丑把这哥谭市弄得一团糟
+Look at the mess the Joker made of Gotham City.
+
+98
+00:04:01,079 --> 00:04:03,914
+拜托  要过来住的可是你哥们
+Come on, it's your friend who's coming to stay here.
+
+99
+00:04:03,916 --> 00:04:05,298
+Raj在印度长大
+Raj grew up in India.
+
+100
+00:04:05,300 --> 00:04:07,634
+相信我  他看过更乱的
+Trust me, he's seen worse.
+
+101
+00:04:08,302 --> 00:04:09,452
+Howie!
+Howie.
+
+102
+00:04:09,454 --> 00:04:10,637
+我保证在接下来的这一周
+I promise I'll help out
+
+103
+00:04:10,639 --> 00:04:11,671
+我会帮你打扫的
+the rest of the week.
+
+104
+00:04:11,673 --> 00:04:12,806
+接下来的这一周?
+The rest of the week?
+
+105
+00:04:12,808 --> 00:04:14,624
+你说只是住一两天
+You said it was just gonna be a night or two.
+
+106
+00:04:14,626 --> 00:04:15,675
+好吧  如果我说住一个礼拜
+Yeah, but if I told you a week,
+
+107
+00:04:15,677 --> 00:04:16,593
+你会同意吗?
+would you have said yes?
+
+108
+00:04:16,595 --> 00:04:20,347
+-不!  -那你让我没得选啦
+-No! -Then you left me no choice.
+
+109
+00:04:20,349 --> 00:04:24,017
+我喜欢Raj  但是这也住的太久啦
+I love Raj, but that's a long time for a house guest.
+
+110
+00:04:24,019 --> 00:04:25,685
+我知道  但是他们在装修大楼
+I know, but they're tenting his building.
+
+111
+00:04:25,687 --> 00:04:28,071
+而且他也找不到既能让狗住又让他满意的酒店
+He can't find a hotel he likes that allows dogs.
+
+112
+00:04:28,073 --> 00:04:29,639
+他还要带着肉桂儿?
+He's bringing Cinnamon?
+
+113
+00:04:29,641 --> 00:04:30,640
+在这住一个礼拜!
+For a whole week!
+
+114
+00:04:30,642 --> 00:04:32,659
+某些人胆子实在太大了
+The nerve of some people.
+
+115
+00:04:35,196 --> 00:04:39,116
+尴尬快车来了
+Here comes the Embarrassment Express.
+
+116
+00:04:39,984 --> 00:04:42,586
+将要在欺诈市
+With stops at Fraudville...
+
+117
+00:04:42,588 --> 00:04:45,088
+神奇的大错误山
+WonderBlunderberg...
+
+118
+00:04:45,090 --> 00:04:48,041
+还有堪萨斯城停车
+and Kansas City.
+
+119
+00:04:48,043 --> 00:04:49,309
+因为它是个中转站
+Because it's a hub.
+
+120
+00:04:51,814 --> 00:04:53,280
+Sheldon  我能进来吗
+Sheldon, can I come in?
+
+121
+00:04:53,282 --> 00:04:54,931
+-你有曲奇饼吗  -没有
+-Do you have cookies? -No.
+
+122
+00:04:54,933 --> 00:04:56,883
+好  我不配吃曲奇饼  进来吧
+Good. I don't deserve cookies. Come in.
+
+123
+00:04:58,519 --> 00:05:00,170
+Wil...?
+Wil...?
+
+124
+00:05:00,172 --> 00:05:01,104
+嗨  Sheldon
+Hey, Sheldon.
+
+125
+00:05:01,106 --> 00:05:02,022
+好久没见
+It's been a while.
+
+126
+00:05:02,024 --> 00:05:03,523
+你来干啥?
+Why are you here?
+
+127
+00:05:03,525 --> 00:05:04,558
+Amy告诉我你最近过的不好
+Amy said you were having a rough time,
+
+128
+00:05:04,560 --> 00:05:06,143
+我想也许我们能聊聊
+and I thought maybe we could talk.
+
+129
+00:05:06,145 --> 00:05:07,010
+可以吗?
+Is that okay?
+
+130
+00:05:07,012 --> 00:05:08,645
+当然
+Certainly.
+
+131
+00:05:08,647 --> 00:05:09,679
+尽管...
+Although...
+
+132
+00:05:09,681 --> 00:05:11,231
+现在我就感到很不舒服
+right now, I'm having a rough time
+
+133
+00:05:11,233 --> 00:05:12,899
+因为有三个人在我的房间里
+because there's three people in my room,
+
+134
+00:05:12,901 --> 00:05:15,919
+感觉像是在迪斯科舞厅一样
+and it's starting to feel like a discotheque.
+
+135
+00:05:17,371 --> 00:05:19,573
+Sheldon你说你因为别人总是注意那些
+Sheldon, you said you were unhappy getting attention
+
+136
+00:05:19,575 --> 00:05:21,858
+你希望自己从未做过的事而不开心
+for something you wished you never did.
+
+137
+00:05:21,860 --> 00:05:23,693
+嗯  我处理这些有点经验
+Yeah, I know a little something about that.
+
+138
+00:05:23,695 --> 00:05:25,745
+哦  Wil你胡说  
+Oh, nonsense, Wil.
+
+139
+00:05:25,747 --> 00:05:29,299
+你没完没了的微博没有那么挫啦
+Your endless tweets are not that bad.
+
+140
+00:05:29,301 --> 00:05:31,718
+我想起来为什么这么久没见他了
+I remember why it's been a while.
+
+141
+00:05:31,720 --> 00:05:34,171
+Sheldon  我说的是我小时候
+Sheldon, I was actually talking
+
+142
+00:05:34,173 --> 00:05:35,872
+演星际迷航的事情
+about when I was a kid on Star Trek.
+
+143
+00:05:35,874 --> 00:05:38,391
+你怎么会不喜欢
+How could you not like getting attention
+
+144
+00:05:38,393 --> 00:05:39,876
+扮演Wesley Crusher带来的关注
+for playing Wesley Crusher?
+
+145
+00:05:39,878 --> 00:05:41,995
+你演的很棒啊
+You were wonderful.
+
+146
+00:05:41,997 --> 00:05:44,731
+一个拥有高清记忆能力无所不知的天才少年
+A know-it-all boy genius with an eidetic memory.
+
+147
+00:05:44,733 --> 00:05:47,567
+谁不会感同身受?
+Who couldn't relate to that?
+
+148
+00:05:48,436 --> 00:05:50,237
+额  不是所有人这么想的
+Well, not everybody felt that way.
+
+149
+00:05:50,239 --> 00:05:51,988
+好多人讨厌那个角色
+A lot of people really hated the character,
+
+150
+00:05:51,990 --> 00:05:54,241
+还有人因为这个角色而讨厌我
+and some of them hated me because of it.
+
+151
+00:05:54,243 --> 00:05:55,225
+我上访谈节目
+I would do interviews,
+
+152
+00:05:55,227 --> 00:05:56,893
+那些人对我也很苛刻
+and people would be mean to me.
+
+153
+00:05:56,895 --> 00:05:59,162
+我也是这样
+That just happened to me.
+
+154
+00:05:59,164 --> 00:06:00,914
+下次你疯狂发微博的时候
+Next time you're stuck for a tweet,
+
+155
+00:06:00,916 --> 00:06:04,201
+你可以吐槽Ira Flatow的坏人品
+feel free to say what a jerk Ira Flatow is.
+
+156
+00:06:04,203 --> 00:06:07,287
+Sheldon关键是Wil学会接受那段生活
+Sheldon, the point is Wil learned to embrace
+
+157
+00:06:07,289 --> 00:06:10,573
+然后向更美好的方向继续前行
+that part of his life and moved on to bigger and better things.
+
+158
+00:06:10,575 --> 00:06:12,075
+是啊  我现在是个作家
+Yeah, I'm an author now,
+
+159
+00:06:12,077 --> 00:06:13,627
+我还会做一些公共演说
+I do public speaking,
+
+160
+00:06:13,629 --> 00:06:15,795
+而且我还有一些关于棋盘游戏的网站
+and I have my own Web series about board games.
+
+161
+00:06:15,797 --> 00:06:17,180
+额...
+Uh...
+
+162
+00:06:17,182 --> 00:06:19,049
+我们是想让他开心  所以...
+We're trying to cheer him up, so...
+
+163
+00:06:24,055 --> 00:06:26,022
+我想说的是我曾经一度以为
+I'm just saying that there was a time
+
+164
+00:06:26,024 --> 00:06:28,525
+我再也无法逃脱Wesley Crusher的阴影的
+when I thought I would never get out of Wesley Crusher's shadow.
+
+165
+00:06:28,527 --> 00:06:29,859
+但是现在
+But now,
+
+166
+00:06:29,861 --> 00:06:32,312
+那只是我快乐生活的一小部分
+it's just one small part of a pretty great life,
+
+167
+00:06:32,314 --> 00:06:34,430
+而且我很高兴我度过了那样一段时光
+and it's a part that I'm happy is there.
+
+168
+00:06:34,432 --> 00:06:36,733
+我知道你想说什么了
+I do see what you're saying.
+
+169
+00:06:36,735 --> 00:06:38,235
+很有帮助
+That helps.
+
+170
+00:06:38,237 --> 00:06:39,369
+太好了
+Good.
+
+171
+00:06:39,371 --> 00:06:40,604
+你们俩想留下来
+Would you two like to stay
+
+172
+00:06:40,606 --> 00:06:41,638
+和我一起玩火车游戏吗?
+and play trains with me?
+
+173
+00:06:41,640 --> 00:06:42,706
+-当然  -没问题
+-Sure. -Okay.
+
+174
+00:06:42,708 --> 00:06:43,773
+太好了
+Oh, great!
+
+175
+00:06:43,775 --> 00:06:47,110
+现在...
+Now...
+
+176
+00:06:47,112 --> 00:06:48,111
+我负责控制
+I work the controls.
+
+177
+00:06:48,113 --> 00:06:49,296
+我说"开动了"
+I say "All aboard"
+
+178
+00:06:49,298 --> 00:06:52,282
+你们就静静的坐着看
+You sit quietly and watch.
+
+179
+00:06:52,284 --> 00:06:54,384
+我能吹口哨吗?
+Can I blow the whistle?
+
+180
+00:06:55,753 --> 00:06:57,754
+你还是走吧
+You should probably go.
+
+181
+00:07:05,313 --> 00:07:07,414
+你这是要在我沙发上刷牙么?
+You're gonna brush your teeth on my couch?
+
+182
+00:07:07,416 --> 00:07:10,567
+不  我是要刷肉桂儿的牙
+No, I'm gonna brush Cinnamon's teeth.
+
+183
+00:07:10,569 --> 00:07:11,685
+何必呢?
+Why bother?
+
+184
+00:07:11,687 --> 00:07:14,321
+一半的时间她都是在舔屁屁
+She spends half the time licking her butt.
+
+186
+00:07:15,273 --> 00:07:16,740
+还有一半时间是在舔我的脸
+And the other half licking my face.
+
+187
+00:07:16,742 --> 00:07:18,808
+所以我要给她刷牙
+That's why I'm brushing her teeth.
+
+188
+00:07:20,644 --> 00:07:22,645
+嘿  不好意思回来晚了
+Hey, guys. Sorry I'm so late.
+
+189
+00:07:22,647 --> 00:07:23,646
+你们吃过晚饭了吗?
+Did you already have dinner?
+
+190
+00:07:23,648 --> 00:07:25,248
+没呢  在等你
+No, we were waiting for you.
+
+191
+00:07:25,250 --> 00:07:26,499
+你们太贴心了
+Aw, that's so sweet.
+
+192
+00:07:26,501 --> 00:07:28,752
+那当然  所以你打算做什么晚饭?
+Yeah. So what do you feel like making?
+
+193
+00:07:30,321 --> 00:07:32,505
+Howard  你的小可怜刚刚工作回来呢
+Howard, the poor thing just got home from work.
+
+195
+00:07:32,507 --> 00:07:34,657
+我去给你倒杯酒
+Let me get you a glass of wine.
+
+196
+00:07:34,659 --> 00:07:36,176
+我来做饭
+I'll cook dinner.
+
+197
+00:07:36,178 --> 00:07:38,128
+-别啊Raj  你是客人  -客气啥呢
+-Oh, Raj, you're our guest.  -Don't be silly.
+
+198
+00:07:38,130 --> 00:07:40,163
+你坐  看起来你累了一天了
+Sit. You look like you've had a long day.
+
+199
+00:07:40,165 --> 00:07:43,149
+她看起来总是那样
+No, she always looks like that.
+
+200
+00:07:45,553 --> 00:07:48,938
+因为她嫁给了一个白痴
+Because she married an idiot.
+
+201
+00:07:49,690 --> 00:07:51,591
+谢谢你  Raj
+Thank you, Raj.
+
+202
+00:07:51,593 --> 00:07:54,527
+没事儿  这是我感谢的方式
+Please, this is my way of thanking you
+
+204
+00:07:54,529 --> 00:07:56,363
+谢谢你们让我住在这
+for letting me stay here.
+
+205
+00:07:56,365 --> 00:07:59,316
+来  说说你今天怎么样
+Now, tell us all about your day.
+
+206
+00:07:59,318 --> 00:08:01,318
+好的呢  首先呢
+Okay, um, well, first,
+
+207
+00:08:01,320 --> 00:08:03,286
+我开会迟到了  因为堵在路上了
+I was late to a meeting 'cause I was stuck in traffic.
+
+208
+00:08:03,288 --> 00:08:06,289
+我一直叫你手机里安一个实时交通软件的
+Well, I keep telling you to put that traffic app on your phone.
+
+209
+00:08:06,291 --> 00:08:08,191
+喂喂  你今天回家
+Hey, when you got home today complaining 
+
+210
+00:08:08,193 --> 00:08:09,525
+抱怨吃太多软糖不大舒服的时候
+that you felt sick from eating too many jelly beans,
+
+211
+00:08:09,527 --> 00:08:10,660
+我对你指手画脚了吗?
+did I tell you how to fix it?
+
+212
+00:08:10,662 --> 00:08:11,861
+没有!
+No.
+
+213
+00:08:13,547 --> 00:08:17,533
+我跟你说了 "一定很难受吧"  然后摸了摸你的肚子
+I said, "Aw, that must hurt," and I rubbed your belly.
+
+214
+00:08:20,871 --> 00:08:23,089
+我一直都在想着你
+I thought of you the whole time.
+
+215
+00:08:26,227 --> 00:08:28,178
+我想说的就是  有时候你就该安静倾听
+All I'm saying is there's a time to just listen.
+
+216
+00:08:28,180 --> 00:08:29,512
+谢谢
+Thank you.
+
+217
+00:08:29,514 --> 00:08:31,681
+有时候你也得控制不吃太多软糖
+There's also a time to stop eating too many jelly beans.
+
+219
+00:08:31,683 --> 00:08:33,850
+你十岁的时候就该这么做了
+And it's when you're ten.
+
+220
+00:08:36,654 --> 00:08:38,254
+你好  Siebert主席
+Hello, President Siebert.
+
+221
+00:08:38,256 --> 00:08:39,773
+谢谢你接了我的电话
+Thank you for taking my call.
+
+222
+00:08:39,775 --> 00:08:42,575
+我只是想告诉你  本人现在会非常有热情的
+I just wanted you to know that you can now expect
+
+223
+00:08:42,577 --> 00:08:46,413
+参加你鉴于我的重大发现安排的活动
+enthusiastic participation from me regarding my discovery.
+
+224
+00:08:46,415 --> 00:08:47,697
+不不不不不
+Oh, no, no, no, no.
+
+225
+00:08:47,699 --> 00:08:48,998
+没必要谢我
+No need to thank me.
+
+226
+00:08:49,000 --> 00:08:51,785
+谢谢我的朋友  Wil Wheaton
+Thank my friend, Wil Wheaton.
+
+227
+00:08:51,787 --> 00:08:55,004
+我可以告诉你   我可是有9位朋友
+For your information, I have nine friends, hmm?
+
+228
+00:08:56,207 --> 00:08:59,409
+算上你的话有10位哦
+Ten if we include you.
+
+229
+00:08:59,411 --> 00:09:01,594
+那就9位吧
+Nine it is.
+
+230
+00:09:04,181 --> 00:09:06,182
+还是算10位吧
+Ah, it's ten.
+
+231
+00:09:06,184 --> 00:09:08,017
+Wolowitz也算上
+I'll count Wolowitz.
+
+232
+00:09:08,919 --> 00:09:10,770
+你好  我的朋友Leonard
+Hello, friend Leonard.
+
+233
+00:09:10,772 --> 00:09:12,055
+你心情不错哟
+Hey, you're in a good mood.
+
+234
+00:09:12,057 --> 00:09:14,023
+我心情大好
+I'm in a great mood.
+
+235
+00:09:14,025 --> 00:09:15,892
+你马上就要心情更好了
+Well, you're about to be in an even better one.
+
+236
+00:09:15,894 --> 00:09:18,645
+本来还不确定的时候我不想说的  但是...
+I didn't want to say anything until I knew for sure, but...
+
+238
+00:09:18,647 --> 00:09:21,364
+我一直在实验室重复测试你的元素
+I've been re-running the tests on your element in my lab
+
+239
+00:09:21,366 --> 00:09:22,899
+而且我已经证明它错误了
+and I disproved it.
+
+240
+00:09:22,901 --> 00:09:24,701
+你的元素根本不存在
+Your element does not exist!
+
+241
+00:09:25,736 --> 00:09:27,470
+但那些中国科研团队是怎么回事?
+Yeah, but what about the Chinese research team?
+
+242
+00:09:27,472 --> 00:09:28,571
+他们明明发现了
+They found it.
+
+243
+00:09:28,573 --> 00:09:32,442
+应该是有人在数据文件里加了模拟信号
+Yeah, it turns out someone added simulated signals to the data files.
+
+245
+00:09:32,444 --> 00:09:34,127
+他们伪造试验结果
+They faked the results.
+
+246
+00:09:34,129 --> 00:09:35,128
+真的?
+Really?
+
+247
+00:09:35,130 --> 00:09:36,863
+是呀! 你知道这意味着什么不?
+Yes! Do you know what that means?
+
+248
+00:09:36,865 --> 00:09:39,883
+这意味着你厌恶的所有瞩目都烟消云散了
+That means all of this attention that you hate goes away.
+
+249
+00:09:39,885 --> 00:09:41,117
+所以再也没有什么访问接见了?
+So no more interviews?
+
+250
+00:09:41,119 --> 00:09:42,118
+没有  都没有了
+No, it's all over.
+
+251
+00:09:42,120 --> 00:09:43,219
+真不敢相信
+I can't believe it.
+
+252
+00:09:43,221 --> 00:09:44,120
+不谢
+Well, you're welcome.
+
+253
+00:09:44,122 --> 00:09:47,056
+你夺走了我最伟大的成就!
+You robbed me of my greatest achievement!
+
+255
+00:09:48,042 --> 00:09:49,008
+啥?!
+What?!
+
+256
+00:09:49,010 --> 00:09:51,811
+重新回到9位朋友的生活!
+I'm back down to nine friends!
+
+257
+00:09:51,813 --> 00:09:55,231
+还是8位吧... 我也受够Wolowitz了!
+Make it eight... I'm sick of Wolowitz, too!
+
+258
+00:09:55,233 --> 00:09:57,734
+我不懂啊
+I... I don't understand.
+
+259
+00:09:57,736 --> 00:09:59,352
+自从你发现该死的元素
+All you've done since you discovered
+
+260
+00:09:59,354 --> 00:10:00,770
+你一直就是抱怨抱怨
+this stupid element was complain.
+
+261
+00:10:00,772 --> 00:10:02,105
+我是想哄你开心啊!
+I was trying to make you happy!
+
+262
+00:10:02,107 --> 00:10:04,741
+通过夺走我唯一的成名之举吗?
+By taking away my only claim to fame?
+
+263
+00:10:04,743 --> 00:10:06,409
+如果你想让我开心
+Well, if you wanted to make me happy,
+
+264
+00:10:06,411 --> 00:10:07,827
+可以给我讲个笑话啊
+you could have told me a joke.
+
+265
+00:10:07,829 --> 00:10:11,147
+或者给我看个树袋熊和水獭
+Or shown me a cute video of a koala and an otter
+
+267
+00:10:11,149 --> 00:10:12,648
+意外做朋友的可爱视频
+becoming unlikely friends.
+
+268
+00:10:12,650 --> 00:10:16,035
+怎么对你都不算好啊
+Oh, there is no winning with you.
+
+269
+00:10:16,037 --> 00:10:18,421
+再说树袋熊和水獭根本不生活在一个地方
+And koalas and otters don't even live near each other!
+
+270
+00:10:18,423 --> 00:10:21,424
+所以才让他们的友谊变得意外啊!
+That's what makes their friendship unlikely!
+
+271
+00:10:21,426 --> 00:10:23,042
+嘿
+Hey!
+
+272
+00:10:23,044 --> 00:10:24,344
+你们在吵什么啊?
+What's with all the yelling?
+
+273
+00:10:24,346 --> 00:10:26,429
+Leonard证明了我的元素并不存在
+Leonard disproved my element.
+
+274
+00:10:26,431 --> 00:10:28,765
+现在所有的关注都随风而去了
+Now all the attention is going to go away.
+
+275
+00:10:28,767 --> 00:10:30,266
+那不是很好  你一定很激动吧!
+Oh, that's great. You must be thrilled!
+
+276
+00:10:30,268 --> 00:10:33,686
+到此为止! 我现在只有7位朋友了
+That's it! I'm down to seven friends.
+
+277
+00:10:33,688 --> 00:10:37,390
+他是算上了霍比特人和超级英雄  是吧?
+He's counting hobbits and superheroes, right?
+
+278
+00:10:37,392 --> 00:10:40,643
+当我以为元素是存在的时候  我并不想得到它
+When I thought the element was real, I didn't want it.
+
+279
+00:10:40,645 --> 00:10:42,479
+但是现在Leonard证明了它不存在
+But now that Leonard made it not exist,
+
+280
+00:10:42,481 --> 00:10:44,981
+我想要它胜过世界上的所有东西啊
+I want it more than anything in the world.
+
+281
+00:10:44,983 --> 00:10:46,566
+那元素从来就没存在过啊
+The... the element never existed.
+
+282
+00:10:46,568 --> 00:10:48,351
+又不是我抢走的  是科学抢走的啊
+I didn't take it away, science took it away.
+
+283
+00:10:48,353 --> 00:10:49,452
+生科学的气去吧
+Be mad at science.
+
+284
+00:10:49,454 --> 00:10:52,455
+你怎么敢拿科学来堵我
+Don't you dare use science against me.
+
+285
+00:10:52,457 --> 00:10:54,991
+科学是我最好的朋友!
+Science is my best friend!
+
+286
+00:10:54,993 --> 00:10:56,459
+太好了  我又有8位朋友了
+Oh, good, I'm back up to eight.
+
+287
+00:10:57,828 --> 00:11:00,046
+你能不能告诉他  他已经疯了
+Will you tell him he's out of his mind.
+
+288
+00:11:00,048 --> 00:11:01,347
+其实  我懂他说的话
+Actually, I get what he's saying.
+
+289
+00:11:01,349 --> 00:11:02,715
+太好了! 9位!
+Oh, yes! Nine!
+
+290
+00:11:02,717 --> 00:11:03,716
+欢迎回来  哥们儿
+Welcome back, buddy.
+
+291
+00:11:06,003 --> 00:11:08,037
+就像你在和你不怎么喜欢的男生约会
+It's like if you're dating someone you're not that into,
+
+292
+00:11:08,039 --> 00:11:09,305
+然后他们跟你分手了
+and then they break up with you
+
+293
+00:11:09,307 --> 00:11:10,723
+然后你更想得到他们了
+and then you want them more than ever.
+
+294
+00:11:10,725 --> 00:11:12,425
+我完全不知道她在说什么
+I have no idea what she's talking about.
+
+295
+00:11:12,427 --> 00:11:15,812
+但是我们组团对抗你  所以我赞同
+but we're ganged up on you so I agree.
+
+296
+00:11:16,713 --> 00:11:18,881
+算了  Sheldon  你到底想让我怎么样
+Okay, Sheldon, what do you want me to do,
+
+297
+00:11:18,883 --> 00:11:20,483
+把实验结果藏起来吗?
+hide the information?
+
+298
+00:11:20,485 --> 00:11:21,851
+就算我不发表
+If I don't publish it,
+
+299
+00:11:21,853 --> 00:11:23,236
+迟早会有人发表的
+it's just a matter of time before someone else does.
+
+300
+00:11:23,238 --> 00:11:25,021
+不不不  你当然得发表
+No, no, of course you have to publish.
+
+301
+00:11:25,023 --> 00:11:26,956
+这是你作为科学家的责任
+That's your responsibility as a scientist.
+
+302
+00:11:26,958 --> 00:11:28,608
+不然就违背职业道德了
+Doing otherwise would be unethical.
+
+303
+00:11:28,610 --> 00:11:29,892
+你别无选择
+You have no choice.
+
+304
+00:11:29,894 --> 00:11:31,661
+行  我会发表的
+Fine, I'll publish.
+
+305
+00:11:31,663 --> 00:11:33,363
+这家伙简直让人难以置信啊
+Can you believe this guy?
+
+306
+00:11:43,479 --> 00:11:45,480
+哇! Raj把碗给洗了
+Aw! Raj did the dishes.
+
+307
+00:11:45,482 --> 00:11:47,032
+你怎么知道不是我洗的?
+How do you know I didn't do them?
+
+308
+00:11:47,034 --> 00:11:48,767
+因为有一次  所有的刀都没洗
+Because once, when all the knives were dirty,
+
+309
+00:11:48,769 --> 00:11:51,603
+你直接用钥匙切的面包
+you cut a bagel with your keys.
+
+310
+00:11:53,039 --> 00:11:54,873
+早上好  各位
+Good morning, everybody.
+
+311
+00:11:54,875 --> 00:11:57,008
+我出去买了咖啡
+I picked up coffee while I was out.
+
+312
+00:11:57,010 --> 00:11:59,628
+Bernadette  这是你的薄荷摩卡加豆奶
+Bernadette, here's your soy peppermint mocha.
+
+313
+00:11:59,630 --> 00:12:01,797
+哇  你不需要帮我买的
+Aw, you didn't have to do that.
+
+314
+00:12:01,799 --> 00:12:02,931
+荣幸之至啊
+Oh, my pleasure, and don't worry
+
+315
+00:12:02,933 --> 00:12:03,999
+还有  别担心你今天的演讲
+about your presentation today.
+
+316
+00:12:04,001 --> 00:12:05,217
+你会表现很棒的
+You're gonna be great.
+
+317
+00:12:05,219 --> 00:12:07,419
+没错  你一定会完美收工的
+Yeah, you're gonna knock it out of the park.
+
+318
+00:12:07,421 --> 00:12:09,621
+我今天做的是什么演讲?
+What presentation do I have today?
+
+319
+00:12:11,057 --> 00:12:12,674
+去吧
+Just go.
+
+320
+00:12:16,012 --> 00:12:18,180
+他爱你哦
+He loves you.
+
+321
+00:12:18,182 --> 00:12:19,147
+你在干吗?
+What are you doing?
+
+322
+00:12:19,149 --> 00:12:20,599
+你想让我这么没面子么?
+Are you trying to make me look bad?
+
+323
+00:12:20,601 --> 00:12:22,133
+我就想做个好客人啊
+I'm just being a good house guest.
+
+324
+00:12:22,135 --> 00:12:23,602
+才不是  你是在扮演一个比我更好的丈夫角色
+No, you're being a better husband than I am.
+
+325
+00:12:23,604 --> 00:12:25,353
+洗碗  买咖啡
+Doing the dishes, getting coffee,
+
+326
+00:12:25,355 --> 00:12:26,571
+了解她的生活...
+knowing about her life...
+
+327
+00:12:26,573 --> 00:12:28,473
+谁会这么做啊?
+who does that?
+
+328
+00:12:28,475 --> 00:12:31,109
+拜托  我也给你买了一杯啊
+Oh, come on, I brought you one, too.
+
+329
+00:12:31,111 --> 00:12:32,794
+我不想喝咖啡
+I don't want coffee.
+
+330
+00:12:32,796 --> 00:12:34,246
+所以我买了热巧克力
+That's why I got you hot chocolate.
+
+331
+00:12:34,248 --> 00:12:36,331
+快给我
+Give me that.
+
+332
+00:12:36,333 --> 00:12:39,034
+别在让我出丑了行么
+Just stop showing me up.
+
+333
+00:12:39,036 --> 00:12:40,585
+Howard  你听我说
+Howard, listen to me.
+
+334
+00:12:40,587 --> 00:12:41,986
+你是个好丈夫
+You're a great husband.
+
+335
+00:12:41,988 --> 00:12:44,589
+当然你的倾听技术还有待加强
+Yes, your listening skills could use some work.
+
+336
+00:12:44,591 --> 00:12:47,793
+但是作为一个被母亲溺爱大的独生子
+But it's amazing how far you've come given that you're
+
+337
+00:12:47,795 --> 00:12:51,263
+你已经做得很棒了
+an only child raised by an over-protective mom.
+
+338
+00:12:51,265 --> 00:12:53,882
+这是不是变得有点诡异?
+Um, is this getting weird?
+
+339
+00:12:53,884 --> 00:12:54,933
+等下
+Hang on.
+
+340
+00:12:59,388 --> 00:13:02,224
+确实很诡异
+So, yes.
+
+341
+00:13:03,392 --> 00:13:05,594
+嘿
+Hey.
+
+342
+00:13:05,596 --> 00:13:07,946
+我就是想通知你我已经把实验结果发表了
+I just wanted to let you know that I-I posted my findings.
+
+343
+00:13:07,948 --> 00:13:09,180
+我看见了
+I saw.
+
+344
+00:13:09,182 --> 00:13:10,532
+我刚才
+And I just
+
+345
+00:13:10,534 --> 00:13:12,617
+发出了收回我论文的声明
+posted a retraction of my paper.
+
+346
+00:13:12,619 --> 00:13:15,620
+现在整个科学界都知道我犯错了
+Now the whole scientific community knows I was wrong.
+
+347
+00:13:15,622 --> 00:13:18,290
+这是常有的事  Sheldon
+These things happen all the time, Sheldon.
+
+348
+00:13:18,292 --> 00:13:19,457
+对我来说不是
+Not to me.
+
+349
+00:13:19,459 --> 00:13:21,543
+我唯一收回的另一件事便是
+The only other retraction I ever had to issue
+
+350
+00:13:21,545 --> 00:13:24,212
+在我七岁时承认我哥哥是
+was when I was seven and I conceded that my brother
+
+351
+00:13:24,214 --> 00:13:26,915
+德克萨斯东部最好的忍者
+was the greatest ninja in East Texas.
+
+352
+00:13:28,167 --> 00:13:30,448
+但那只是能让我的脑袋从他腋窝下解脱的策略而已
+But that was just a ploy to get my face out of his armpit.
+
+353
+00:13:31,721 --> 00:13:34,055
+你在这呢!
+There he is!
+
+354
+00:13:35,207 --> 00:13:36,808
+这不是我最爱的超级英雄:
+It's my favorite superhero
+
+355
+00:13:36,810 --> 00:13:39,594
+回收侠吗!
+the Retractor!
+
+356
+00:13:40,730 --> 00:13:43,398
+拜托了  别让他不好过
+Come on, don't give him a hard time.
+
+357
+00:13:43,400 --> 00:13:44,683
+抱歉啦  Cooper
+I'm sorry, Cooper.
+
+358
+00:13:44,685 --> 00:13:46,885
+我"收回"这句话
+I retract it.
+
+359
+00:13:47,820 --> 00:13:49,654
+顺便说一句  Hofstader
+By the way, Hofstadter,
+
+360
+00:13:49,656 --> 00:13:52,190
+驳回中国团队的发现这事干的太好了
+nice job disproving the Chinese team.
+
+361
+00:13:52,192 --> 00:13:53,275
+这没什么大不了的
+It's not a big deal.
+
+362
+00:13:53,277 --> 00:13:54,910
+这很重要好不好
+It's a huge deal.
+
+363
+00:13:54,912 --> 00:13:57,896
+Cooper  也许干物理不是你的强项
+Cooper, maybe physics just isn't your thing.
+
+364
+00:13:58,898 --> 00:14:00,749
+你有没有想过在零售业谋一份工作?
+Have you ever considered a career in retail?
+
+365
+00:14:00,751 --> 00:14:04,002
+这样你就能靠回收东西养家糊口了
+That way you could take things back for a living.
+
+366
+00:14:05,454 --> 00:14:06,504
+好了  Barry  到此为止
+Okay, Barry, that's enough.
+
+367
+00:14:06,506 --> 00:14:07,906
+噢不  这没关系
+Oh, no, that's okay.
+
+368
+00:14:07,908 --> 00:14:09,875
+我的仗我自己来打
+I can fight my own battles.
+
+369
+00:14:09,877 --> 00:14:12,961
+你说对吧  "Bawwy"
+Isn't that right, "Bawwy."
+
+370
+00:14:14,580 --> 00:14:16,431
+这是...?
+Is...?
+
+371
+00:14:16,433 --> 00:14:19,017
+你这是戳我言语障碍的痛处吗?
+Is that a reference to my speech impediment?
+
+372
+00:14:20,469 --> 00:14:23,054
+这太伤人了
+That's pretty hurtful.
+
+373
+00:14:23,056 --> 00:14:24,472
+我...
+I...
+
+374
+00:14:24,474 --> 00:14:26,474
+我没法控制它
+I can't control it.
+
+375
+00:14:27,944 --> 00:14:29,027
+你说得对
+You're right,
+
+376
+00:14:29,029 --> 00:14:31,062
+这太没必要了
+That was uncalled for.
+
+377
+00:14:31,064 --> 00:14:32,480
+我收回这句话
+I take it back.
+
+378
+00:14:32,482 --> 00:14:33,448
+当然你会啦
+Of course you do.
+
+379
+00:14:33,450 --> 00:14:35,450
+因为你是回收侠啊!
+Because you're the Retractor!
+
+380
+00:14:39,822 --> 00:14:41,990
+Raj  这顿饭太美味了
+Raj, this dinner was amazing.
+
+381
+00:14:41,992 --> 00:14:43,107
+如果你再住久点
+If you're here much longer,
+
+382
+00:14:43,109 --> 00:14:45,126
+我得去买大一号的衣服了
+I'm gonna have to buy bigger clothes.
+
+383
+00:14:45,128 --> 00:14:46,110
+说什么呢
+Nonsense.
+
+384
+00:14:46,112 --> 00:14:47,295
+你需要长点肉
+You need a little fattening up.
+
+385
+00:14:47,297 --> 00:14:49,280
+你最近看起来太消瘦了
+You've been looking too skinny lately.
+
+386
+00:14:49,282 --> 00:14:50,615
+真贴心
+Aw.
+
+387
+00:14:50,617 --> 00:14:53,134
+Howie  为什么你从来不说像这么贴心的话呢?
+Howie, how come you never say anything sweet like that?
+
+388
+00:14:53,136 --> 00:14:54,118
+你说什么呢?
+What are you talking about?
+
+389
+00:14:54,120 --> 00:14:55,337
+还记得上周  我问你
+Remember last week, when I asked you
+
+390
+00:14:55,339 --> 00:14:56,721
+是不是穿着塑身衣结果你没穿么?
+if you were wearing Spanx and you weren't?
+
+391
+00:14:56,723 --> 00:14:59,007
+这有什么区别吗?
+How's that different?
+
+392
+00:15:00,509 --> 00:15:02,010
+也许你能试着变得更体贴周到
+Maybe you could try being more thoughtful,
+
+393
+00:15:02,012 --> 00:15:03,628
+像你的朋友Raj一样
+like your friend Raj.
+
+394
+00:15:03,630 --> 00:15:06,147
+是吗  也许你也能试着变得更像他一样
+Yeah, well, maybe you could try being more like Raj.
+
+395
+00:15:06,149 --> 00:15:07,232
+噢  真的吗?
+Oh, really?
+
+396
+00:15:07,234 --> 00:15:08,149
+真的  那当然
+Yeah, yeah.
+
+397
+00:15:08,151 --> 00:15:09,567
+他早上帮我准备了午餐
+He packed me a lunch this morning.
+
+398
+00:15:09,569 --> 00:15:12,771
+里面还有张便条写着"去打败他们"
+And there was a note inside that said, "Go get 'em""
+
+399
+00:15:12,773 --> 00:15:15,357
+好像我做的还不够一样
+Like I don't do enough around here.
+
+400
+00:15:15,359 --> 00:15:16,658
+现在我还得帮你准备午餐?
+Now I need to pack your lunch?
+
+401
+00:15:16,660 --> 00:15:18,309
+顺便说一句，  你为什么需要一张便条来告诉你
+And by the way, why do you need a note telling you
+
+402
+00:15:18,311 --> 00:15:19,744
+"去打败他们"? 你是个成年人好吗!
+to "go get 'em"? You're a grown man!
+
+403
+00:15:19,746 --> 00:15:21,079
+你应该知道"去打败他们"
+You should know to "go get 'em"!
+
+404
+00:15:21,981 --> 00:15:23,365
+我确实知道"去打败他们"
+I do know to "go get 'em""
+
+405
+00:15:23,367 --> 00:15:25,050
+但有时候当我"出去"并"打败他们"的时候
+but sometimes it's nice to have emotional support
+
+406
+00:15:25,052 --> 00:15:27,485
+有这种精神支持感觉很好!
+when I'm going and getting them!
+
+407
+00:15:27,487 --> 00:15:29,921
+嘿  你们能听见自己在说什么吗?
+Hey, hey, do you hear yourselves?
+
+408
+00:15:29,923 --> 00:15:33,208
+让我们都冷静下退一步讲
+Let's just, you know, all calm down and take a step back.
+
+409
+00:15:33,210 --> 00:15:35,310
+这太傻了
+This is stupid.
+
+410
+00:15:35,312 --> 00:15:36,511
+我们为什么要吵架?
+Why are we fighting?
+
+411
+00:15:36,513 --> 00:15:37,545
+我也不知道
+I don't know.
+
+412
+00:15:37,547 --> 00:15:38,997
+我猜我就是感觉
+I guess I was just feeling
+
+413
+00:15:38,999 --> 00:15:40,832
+自己像是个差劲的丈夫
+like I'm a lousy husband.
+
+414
+00:15:40,834 --> 00:15:42,350
+你不是个差劲的丈夫
+You're not a lousy husband.
+
+415
+00:15:42,352 --> 00:15:43,635
+你是个好丈夫
+You're a great husband.
+
+416
+00:15:43,637 --> 00:15:45,887
+我才感觉我自己是个差劲的妻子呢
+I was the one feeling like a lousy wife.
+
+417
+00:15:45,889 --> 00:15:48,139
+你说什么呢? 你是最好的妻子
+Are you kidding? You're the best.
+
+418
+00:15:48,141 --> 00:15:49,691
+我知道问题所在了
+I know what the problem is.
+
+419
+00:15:49,693 --> 00:15:51,376
+就是他!
+It's him!
+
+420
+00:15:52,194 --> 00:15:54,312
+我招谁惹谁啦?
+Oh, what did I do?
+
+421
+00:15:54,314 --> 00:15:56,681
+你让我们觉得我们不够努力
+You made us feel like we're not trying hard enough.
+
+422
+00:15:56,683 --> 00:15:58,349
+就是  我们本来在婚姻的中途好好的
+Yeah, we were totally fine half-assing our marriage
+
+423
+00:15:58,351 --> 00:16:00,251
+直到你出现
+till you showed up.
+
+424
+00:16:00,253 --> 00:16:02,954
+听着  我很抱歉你们对我很生气
+Look, I'm sorry you're upset with me,
+
+425
+00:16:02,956 --> 00:16:04,656
+但我就是想说很高兴看到
+but I just have to say it's nice to see
+
+426
+00:16:04,658 --> 00:16:06,190
+你们站在同一阵线
+the two of you on the same page.
+
+427
+00:16:06,192 --> 00:16:07,859
+是啊  感觉真的很好  
+Oh, it does feel good
+
+428
+00:16:07,861 --> 00:16:09,461
+你终于挺了我一次
+to have you backing me up for once.
+
+429
+00:16:09,463 --> 00:16:11,778
+我一直挺你的好不好! 这也太...
+I back you up all the time! That is not...
+
+430
+00:16:11,779 --> 00:16:14,146
+他又故技重施了! 你丫有病吗?!
+He's doing it again! What is wrong with you?!
+
+431
+00:16:15,718 --> 00:16:17,419
+我真不敢相信他们赶你出来了
+I can't believe they kicked you out.
+
+432
+00:16:17,421 --> 00:16:21,056
+我不敢相信他们竟然还没离婚
+I can't believe they're still married.
+
+433
+00:16:21,058 --> 00:16:24,559
+噢糟了  我把肉桂儿的牙刷忘在Howard家了
+Oh, no, I forgot Cinnamon's toothbrush at Howard's.
+
+434
+00:16:24,561 --> 00:16:27,312
+我想你又得和你爹地我合用啦
+I guess you're sharing with Daddy again.
+
+435
+00:16:32,351 --> 00:16:34,736
+需要我打电话给善待动物组织请叫一声
+Bark once if you need me to call PETA.
+
+436
+00:16:37,606 --> 00:16:40,325
+这只动物在我们公寓做什么呢?
+What's that animal doing in our apartment?
+
+437
+00:16:40,327 --> 00:16:42,610
+别激动  她在箱子里出不来
+Oh, relax, she's in her crate. She can't get out.
+
+438
+00:16:42,612 --> 00:16:44,329
+我给你五个字:
+I have two words for you:
+
+439
+00:16:44,331 --> 00:16:46,364
+侏罗纪公园
+Jurassic Park.
+
+440
+00:16:46,366 --> 00:16:49,584
+这些天真是每况愈下啊
+This day just keeps getting worse and worse.
+
+441
+00:16:49,586 --> 00:16:51,119
+如果能让你好过点...
+You know, if it makes you feel any better...
+
+442
+00:16:51,121 --> 00:16:52,087
+我估计不能
+It probably won't.
+
+443
+00:16:52,089 --> 00:16:53,204
+估计你是对的
+You're probably right.
+
+444
+00:16:53,206 --> 00:16:56,257
+Sheldon  多美的夜晚啊
+Sheldon, it's a beautiful night.
+
+445
+00:16:56,259 --> 00:16:58,877
+要不你和我一起去散个步吧?
+Why don't you and I go for a nice walk together?
+
+446
+00:16:58,879 --> 00:17:01,429
+是不是每件事都能让你性致盎然啊?
+Oh, everything is just sex with you isn't it?
+
+447
+00:17:02,915 --> 00:17:05,517
+Sheldon  我想你可能找到了
+Sheldon, I think you might find the support
+
+448
+00:17:05,519 --> 00:17:07,085
+你一直在寻找的支持  如果你能意识到
+you're looking for, if you realize
+
+449
+00:17:07,087 --> 00:17:09,304
+感情有付出和回报
+that relationships are a give and take.
+
+450
+00:17:09,306 --> 00:17:10,755
+只有你对她不离不弃
+She can only be there for you
+
+451
+00:17:10,757 --> 00:17:12,640
+她才会一直在你身边
+as much as you are for her.
+
+452
+00:17:12,642 --> 00:17:14,442
+谢谢你  Rajesh
+Thank you, Rajesh.
+
+453
+00:17:14,444 --> 00:17:16,761
+还有  Amy  你得对Sheldon耐心点
+And, Amy, you need to be patient with Sheldon,
+
+454
+00:17:16,763 --> 00:17:20,482
+别老给他施压让他接受你想要的那种亲密
+instead of pressuring him to accept intimacy on your terms.
+
+455
+00:17:21,433 --> 00:17:23,768
+你还是走人吧
+You should probably go.
+
+456
+00:17:33,390 --> 00:17:36,092
+我是Ira Flatow  这里是科学星期五
+I'm Ira Flatow, and this is Science Friday.
+
+457
+00:17:36,094 --> 00:17:38,194
+让我们欢迎Sheldon Cooper博士回来
+I'd like to welcome back Dr. Sheldon Cooper,
+
+458
+00:17:38,196 --> 00:17:40,280
+他认为自己发现了
+who thought he had discovered
+
+459
+00:17:40,282 --> 00:17:43,032
+一种新型的超重元素却不料被
+a new super-heavy element only to have it disproved
+
+460
+00:17:43,034 --> 00:17:45,485
+我的另一位嘉宾Leonard Hofstadter博士驳回  
+by my next guest, Dr. Leonard Hofstadter.
+
+461
+00:17:45,487 --> 00:17:46,619
+欢迎来到科学星期五  先生们
+Welcome to Science Friday, gentlemen.
+
+462
+00:17:46,621 --> 00:17:48,071
+-谢谢 -谢谢你
+-Thanks. -Thank you.
+
+463
+00:17:48,073 --> 00:17:50,707
+Ira  请允许我
+Ira, if I may, I'd like to apologize
+
+464
+00:17:50,709 --> 00:17:52,742
+为我上周的行为致歉
+for my behavior last week.
+
+465
+00:17:52,744 --> 00:17:54,327
+这没关系
+It's all right.
+
+466
+00:17:54,329 --> 00:17:57,714
+难道你没有什么对我想说的吗?
+Now, isn't there something you'd like to say to me?
+
+467
+00:17:58,632 --> 00:18:00,667
+没有
+No.
+
+468
+00:18:01,302 --> 00:18:03,169
+好的  Hofstadter博士
+Now, Dr. Hofstadter.
+
+469
+00:18:03,171 --> 00:18:04,554
+能否给我们讲述一下你
+Can you walk us through the process
+
+470
+00:18:04,556 --> 00:18:06,422
+驳回他理论所用的方法呢?
+you used to disprove his theory?
+
+471
+00:18:06,424 --> 00:18:09,142
+-嗯... -我想我可以回答
+-Well... -I believe I can answer that.
+
+472
+00:18:09,144 --> 00:18:11,094
+他问的是我
+He asked me.
+
+473
+00:18:11,096 --> 00:18:12,312
+好吧
+Fine.
+
+474
+00:18:12,314 --> 00:18:13,346
+就像我说的...
+As I was saying...
+
+475
+00:18:13,348 --> 00:18:14,814
+你说的不对 Ira...
+You're telling it wrong. Ira...
+
+476
+00:18:14,816 --> 00:18:16,816
+为了能真正了解事情的始末
+to really understand the story here,
+
+477
+00:18:16,818 --> 00:18:18,401
+你得从头开始
+you have to start at the very beginning:
+
+478
+00:18:18,403 --> 00:18:21,437
+在德克萨斯州东部的小镇里  有一个年轻的天才叫做...
+A small town in East Texas, where a young genius named...
+
+479
+00:18:21,439 --> 00:18:23,306
+-Sheldon... -对的  叫Sheldon Cooper  
+-Sheldon... -That's right, Sheldon Cooper.
+
+480
+00:18:23,308 --> 00:18:26,576
+在他被邻居家的狗咬了之后
+He was bitten by his neighbor's dog,
+
+481
+00:18:26,578 --> 00:18:28,494
+引导了他第一个科学发现
+leading to his first scientific breakthrough--
+
+482
+00:18:28,496 --> 00:18:30,747
+狗狗死亡射线
+the doggie death-ray.
+
+483
+00:18:30,749 --> 00:18:33,116
+可惜的是  他失败了
+Which, sadly, he couldn't build
+
+484
+00:18:33,118 --> 00:18:35,985
+因为圣诞老人没得带给他所需的浓缩铀
+because Santa wouldn't bring him enriched uranium.
+
+485
+00:18:35,987 --> 00:18:38,755
+我的意思是  我比较希望能听Hofstadter博士讲讲
+I mean, I'd really like to hear it from Dr. Hofstadter,
+
+486
+00:18:38,757 --> 00:18:40,039
+如果你不介意
+if it's okay with you.
+
+487
+00:18:40,041 --> 00:18:41,991
+真是奇了怪了
+What a surprise.
+
+488
+00:18:41,993 --> 00:18:44,677
+你把我请回来就是为了无视我么?
+Did-did you invite me back just so you could ignore me?
+
+489
+00:18:44,679 --> 00:18:46,512
+事实上  我根本没邀请你
+Actually, I didn't invite you.
+
+490
+00:18:46,514 --> 00:18:47,997
+你进来  找了个座
+You came in, you took a seat,
+
+491
+00:18:47,999 --> 00:18:51,017
+而且我对这种对峙感到很不舒服
+and I'm not comfortable with confrontation.
+
+492
+00:18:52,636 --> 00:18:55,121
+Sheldon  这个采访应该是和我有关的
+LEONARD: Sheldon, this interview is supposed to be about me.
+
+493
+00:18:55,123 --> 00:18:57,323
+好吧  这也太无趣了
+Well, that seems like a snooze.
+
+494
+00:18:57,325 --> 00:19:00,093
+甚至对公共广播电台来说
+Even for public radio.
+
+495
+00:19:00,095 --> 00:19:01,928
+你知道吗  如果他们每说一句丢人的话
+You know, if we did a shot every time
+
+496
+00:19:01,930 --> 00:19:03,129
+我们都喝一杯
+they said something embarrassing,
+
+497
+00:19:03,131 --> 00:19:05,281
+这绝对会是个翻天覆地的饮酒赛
+this would be one hell of a drinking game.
+
+498
+00:19:05,283 --> 00:19:07,467
+现在喝酒早了点吧  是不是?
+A little early for alcohol, isn't it?
+
+499
+00:19:07,469 --> 00:19:09,352
+你要知道  我不止能发表犀利的科学观点
+SHELDON: You know, I don't just say smart things about science.
+
+500
+00:19:09,354 --> 00:19:10,853
+我还会约德尔唱法
+I also yodel.
+
+501
+00:19:15,359 --> 00:19:16,826
+我去拿伏特加
+I'll get the vodka.

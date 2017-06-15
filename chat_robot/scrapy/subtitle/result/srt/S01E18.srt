@@ -1,0 +1,3703 @@
+1
+00:01:24,876 --> 00:01:26,460
+Sheppard少校
+Major Sheppard.
+
+2
+00:01:27,753 --> 00:01:28,963
+少校!
+Major!
+
+3
+00:02:50,004 --> 00:02:56,024
+星际之门之亚特兰蒂斯
+第一季第18集 天赋
+Season 1 : Episode 18
+The Gift
+
+4
+00:03:21,993 --> 00:03:23,286
+继续
+Continue.
+
+5
+00:03:23,995 --> 00:03:25,538
+不把我放在心上, 啊?
+Going easy on me, huh?
+
+6
+00:03:25,705 --> 00:03:27,456
+我向你保证, 少校, 不是的
+I assure you, Major, I am not.
+
+7
+00:03:27,582 --> 00:03:28,541
+继续
+Continue.
+
+8
+00:03:39,135 --> 00:03:40,553
+你没事吧?
+You okay?
+
+9
+00:03:43,014 --> 00:03:44,056
+是的
+Yes.
+
+10
+00:03:44,182 --> 00:03:45,266
+真的?
+Are you sure?
+
+11
+00:03:45,850 --> 00:03:48,227
+以前可都是我被打倒在地上
+Because it's usually me
+picking my butt up off the mat.
+
+12
+00:03:48,394 --> 00:03:50,897
+说实话, 我没有睡好
+Truthfully, I have not been sleeping much,
+
+13
+00:03:51,230 --> 00:03:53,900
+我总是在梦中看到幽灵
+and when I do,
+I've been having nightmares about the Wraith.
+
+14
+00:03:54,025 --> 00:03:55,610
+做这种恶梦的不仅仅是你一个人
+Well, you're not the only one.
+
+15
+00:03:56,777 --> 00:03:59,780
+自从我父亲被掠走之后
+还从来没有这么糟糕过
+It has not been so bad since my father was taken.
+
+16
+00:04:09,415 --> 00:04:12,293
+根据Zelenka博士的计算
+According to Dr. Zelenka's calculations,
+
+17
+00:04:12,293 --> 00:04:15,296
+据幽灵到达这里还剩不到一个星期了
+we have less than one week before the Wraith arrive.
+
+18
+00:04:15,713 --> 00:04:17,173
+我需要一些方案
+I want options.
+
+19
+00:04:17,632 --> 00:04:19,675
+你是说除了哭着进入梦乡之外?
+You mean besides crying ourselves to sleep?
+
+20
+00:04:20,885 --> 00:04:23,137
+不是我
+我已经有好些天没有睡觉了
+Well, not me.
+I haven't slept in days.
+
+21
+00:04:23,304 --> 00:04:26,015
+那么经过了这么多不眠之夜之后
+你有什么可以展示给我们看的, Rodney?
+And what do you have to show
+for your sleepless nights, Rodney?
+
+22
+00:04:26,057 --> 00:04:30,186
+自从我们到这里以来, 除了防护罩
+我们还找到了一些防御武器系统
+Since we got here, we've uncovered a number
+of defensive weapons systems beyond the shield...
+
+23
+00:04:30,228 --> 00:04:33,773
+- 我们认为我们最好的主意就是控制椅
+- 这正是我想说的
+- We think our best option is the control chair.
+- I was going to say that.
+
+24
+00:04:33,814 --> 00:04:36,651
+- 是的, 不过你挨得太久了, 跟往常一样
+- 不错, 不过我想说的是, 这可能不是我们最好的选择
+- Yes, but you were taking too long, as usual.
+- Yes, but the point is, this may not be our best chance.
+
+25
+00:04:36,859 --> 00:04:38,069
+- 那你再举一个更好的?
+- 先生们
+- Name a better one.
+- Gentlemen.
+
+26
+00:04:38,069 --> 00:04:41,280
+当然, 跟防护罩一样
+能量是我们最大的问题
+Of course, like the shield,
+power will be our biggest problem.
+
+27
+00:04:41,322 --> 00:04:43,574
+我们甚至不能让那座椅子完成初始化
+We haven't even been able to initialize the chair yet,
+
+28
+00:04:43,616 --> 00:04:46,202
+更不用说找到足够的能量
+让它运行起来
+much less determine whether we can
+meet the power requirements to run it.
+
+29
+00:04:46,285 --> 00:04:47,703
+好吧
+有消息就通知我
+Okay. Keep me posted.
+
+30
+00:04:48,287 --> 00:04:51,415
+Sergeant Bates, 阿尔法站点准备得怎么样了?
+Sergeant Bates, where are we with our alpha site?
+
+31
+00:04:51,541 --> 00:04:55,837
+我们已经完成了地面和空中的防御
+现在已经打扫干净, 可以建立大本营了
+We've completed the ground and aerial security
+sweep and are ready to begin establishing base camp.
+
+32
+00:04:55,837 --> 00:04:58,047
+我们现在在等Sheppard少校的最后验收
+We're just awaiting final inspection by major Sheppard.
+
+33
+00:04:58,214 --> 00:04:59,340
+午饭后就去
+Right after lunch.
+
+34
+00:04:59,423 --> 00:05:00,842
+很好
+Good.
+
+35
+00:05:01,050 --> 00:05:03,928
+Teyla, Athosian准备好撤离了么?
+Teyla, are the Athosians getting
+prepared for an evacuation?
+
+36
+00:05:04,011 --> 00:05:07,265
+是的, 不过很多人认为
+没有星球可以躲避幽灵的袭击
+Yes, but many believe there is
+no other world that is safe from the Wraith.
+
+37
+00:05:08,099 --> 00:05:09,517
+他们想留下?
+They want to stay?
+
+38
+00:05:09,517 --> 00:05:14,188
+根据从盟友听到的消息以及我们的亲眼所见
+幽灵正在这个星系的每个角落洗劫
+As we have heard from our allies and seen for ourselves,
+there are cullings happening all over the galaxy.
+
+39
+00:05:14,272 --> 00:05:16,357
+我们人民花费了他们的一生来躲避幽灵
+My people have spent
+their lives hiding from the Wraith.
+
+40
+00:05:16,524 --> 00:05:20,152
+是的, 现在不同的是
+我们准备毁掉这座城市
+Yes, well, the difference here
+being we do intend to destroy the city
+
+41
+00:05:20,278 --> 00:05:22,029
+而不是让它落入幽灵之手
+rather than let it fall into the hands of the Wraith,
+
+42
+00:05:22,613 --> 00:05:27,535
+如果是那样的话, 任何留在大陆的人
+将会无法通过星际之门进行穿梭
+and, if it comes to that, anyone left on the
+mainland will be cut off from the Stargate for good.
+
+43
+00:05:27,994 --> 00:05:31,831
+还好, 感谢Rodney发现了星际之门的控制水晶
+Now, thanks to Rodney's discovery
+of the Gate's control crystal,
+
+44
+00:05:32,039 --> 00:05:34,709
+我们至少知道, 可以把它带上
+希望它可以派上用场
+we at least know we'll be able
+to take that with us and hopefully use it
+
+45
+00:05:34,750 --> 00:05:36,460
+在未来某个时候可以再次访问地球
+to access Earth again some time in the future.
+
+46
+00:05:36,460 --> 00:05:37,962
+我们知道了,  Weir博士
+We understand that, Dr. Weir.
+
+47
+00:05:39,630 --> 00:05:40,464
+- 很抱歉, 我...
+- I'm sorry, I...
+
+48
+00:05:40,464 --> 00:05:42,675
+我只是想说
+Athos的人民想让你知道
+I am merely saying that
+the people of Athos wish you to know
+
+49
+00:05:42,925 --> 00:05:46,179
+如果我们想留下来战斗的话
+他们也可以来帮忙保卫这座古人的城市
+that if we are going to stay and fight,
+they too will help defend the city of the ancestors.
+
+50
+00:05:46,262 --> 00:05:49,098
+- 这非常值得尊敬, 不过我...
+- 噢, 行了!
+- Well that is very honorable, but I...
+- Oh please !
+
+51
+00:05:49,307 --> 00:05:51,475
+我们完全没有可能留下来战斗
+We can't possibly consider staying and fighting.
+
+52
+00:05:51,809 --> 00:05:53,144
+我不同意
+Well, I disagree.
+
+53
+00:05:53,477 --> 00:05:56,439
+我认为这完全在可能的范围之内
+I think it's entirely within the realm of possibility.
+
+54
+00:05:56,522 --> 00:06:02,570
+成千上万凶神恶煞的敌人正坐着它们
+高度先进的飞船在赶来干掉我们的途中
+There are tens of thousands of life-sucking aliens in
+highly advanced spaceships on their way here to destroy us.
+
+55
+00:06:03,237 --> 00:06:05,990
+而我们有什么, 200人,
+而且大部分还是科学家
+And we have what, 200 people,
+most of whom are scientists
+
+56
+00:06:06,282 --> 00:06:08,075
+它们之前从来没有开过枪
+who've never even fired a gun before?
+
+57
+00:06:08,117 --> 00:06:11,913
+虽然很不情愿, 而且这是第一次
+我这次不得不同意Kavanagh
+Shockingly, for the first time ever,
+I find myself having to agree with Kavanagh.
+
+58
+00:06:11,996 --> 00:06:15,541
+我想说的是我们不要放弃... 现在还不能
+All I'm saying is let's not give up... just yet.
+
+59
+00:06:16,167 --> 00:06:17,960
+那么我们大家都应该记住的东西是什么?
+What was that we were supposed to all remember?
+
+60
+00:06:18,294 --> 00:06:19,295
+很重要的东西
+Something important.
+
+61
+00:06:19,795 --> 00:06:21,380
+哦, 是的, 就是这个... Alamo
+Oh, yes, that's right... the Alamo.
+
+62
+00:06:22,381 --> 00:06:26,469
+是的, 你们都是科学家
+没人想把你们这些人送上前线
+Granted, you guys are scientists. No one's
+considering putting you guys on the front line,
+
+63
+00:06:26,636 --> 00:06:28,679
+不过科学家确实可以扭转战争
+but science can turn the tide of war.
+
+64
+00:06:28,846 --> 00:06:30,473
+瞧瞧原子弹
+Look at the a-bomb.
+
+65
+00:06:30,515 --> 00:06:32,683
+那并不是我们最自豪的时刻
+Not exactly our proudest moment.
+
+66
+00:06:32,892 --> 00:06:34,602
+现在的事实是, 幽灵还没有到达这里
+The fact is, the Wraith aren't here quite yet,
+
+67
+00:06:35,019 --> 00:06:38,481
+在那以前, 我希望每个人
+都在做他们所能够做的最好的事情
+and until that moment, I would like everyone
+to remain focused on what it is they do best.
+
+68
+00:06:39,398 --> 00:06:43,945
+就像我最开始所说的
+如果有任何可行的方案, 我需要它们
+Like I said off the top,
+if there are any options, I want them.
+
+69
+00:06:44,278 --> 00:06:45,321
+就这
+That's all.
+
+70
+00:07:03,130 --> 00:07:04,549
+Teyla?
+Teyla?
+
+71
+00:07:06,050 --> 00:07:06,801
+嗨
+Hi.
+
+72
+00:07:07,510 --> 00:07:09,220
+Kate Heightmeyer
+Kate Heightmeyer.
+
+73
+00:07:09,720 --> 00:07:12,265
+是的, 对
+刚才想不起来了, 抱歉
+Yes. Right.
+I knew that. I'm sorry.
+
+74
+00:07:13,057 --> 00:07:15,268
+没关系
+介意我坐在这里么?
+No problem.
+Mind if I join you?
+
+75
+00:07:16,185 --> 00:07:18,229
+不, 当然不会
+No, of course not.
+
+76
+00:07:20,022 --> 00:07:22,650
+是不是觉得很奇怪, 在我们很累的时候
+记忆就这样从脑海中溜走了
+Strange how the memory
+just goes away when we're tired.
+
+77
+00:07:23,651 --> 00:07:26,779
+- 你是一名医生, 对吧?
+- 心理学家, 事实上
+- You are a doctor, right?
+- Psychologist, actually.
+
+78
+00:07:28,114 --> 00:07:31,033
+跟Beckett博士不同?
+And that is different than Dr. Beckett?
+
+79
+00:07:31,409 --> 00:07:33,286
+是这样
+Quite, yes.
+
+80
+00:07:34,453 --> 00:07:35,913
+我侧重于心理方面
+I deal with the mind.
+
+81
+00:07:36,497 --> 00:07:38,875
+我帮助人们应对情绪上的问题
+I try and help people deal with emotional problems,
+
+82
+00:07:39,166 --> 00:07:42,545
+就像焦虑, 沮丧, 外伤过后的精神抑制
+like anxiety, depression, post-traumatic distress.
+
+83
+00:07:43,171 --> 00:07:45,756
+不必说, 自从我们到这以来
+我一直都非常忙
+Well, needless to say,
+I've been pretty busy since we got here.
+
+84
+00:07:46,757 --> 00:07:48,050
+可以想象
+I can imagine.
+
+85
+00:07:48,217 --> 00:07:51,554
+我知道你为你的人民做的事情
+有很多跟我的工作类似
+I'm sure that you do a lot of the
+same things that I do for your people,
+
+86
+00:07:52,889 --> 00:07:56,767
+不过总是要保持一副勇敢的容貌
+对你来说一定是非常困难
+but it must be very hard on you,
+always having to keep such a brave face.
+
+87
+00:07:57,143 --> 00:07:59,562
+力量来自于希望
+From strength comes hope.
+
+88
+00:07:59,812 --> 00:08:01,689
+没有希望, 我的人民可能早就不复存在了
+Without hope, my people would be lost.
+
+89
+00:08:03,858 --> 00:08:06,569
+你一定认为在我们面前
+你也必须表现得非常坚强
+You must feel you have to be
+outwardly strong for us, as well.
+
+90
+00:08:09,488 --> 00:08:14,660
+Teyla, 我知道你的价值和你的忠诚
+在过去曾经受到这里一小部分人的质疑
+Teyla, I know that your value and your loyalty
+have been questioned by a few here in the past.
+
+91
+00:08:14,869 --> 00:08:19,123
+不过我想告诉你的是
+如果你需要与人谈谈的话, 我会乐意奉陪的
+What I'm trying to say to you is,
+if you ever need to talk, I'm here.
+
+92
+00:08:19,207 --> 00:08:21,209
+是Sheppard少校叫你来的吧?
+Did major Sheppard ask you to speak with me?
+
+93
+00:08:21,959 --> 00:08:23,085
+是的, 他本可以...
+Yes, he may have...
+
+94
+00:08:23,085 --> 00:08:24,128
+很抱歉
+I'm sorry.
+
+95
+00:08:24,670 --> 00:08:27,548
+我并不是有意冒犯, 不过我没事
+I do not mean to be rude, but I'm fine.
+
+96
+00:08:27,965 --> 00:08:29,133
+真的
+Really.
+
+97
+00:08:33,554 --> 00:08:35,681
+非常感谢你的关注
+I appreciate your concern.
+
+98
+00:08:49,654 --> 00:08:50,821
+少校
+Major.
+
+99
+00:08:52,323 --> 00:08:53,074
+Teyla
+Teyla.
+
+100
+00:08:53,157 --> 00:08:54,659
+你告诉Heightmeyer什么了?
+What did you tell Dr. Heightmeyer?
+
+101
+00:08:55,076 --> 00:08:58,329
+就是你所跟我说的那些
+就是你无法入睡因为总是在做噩梦
+Exactly what you told me. That you
+couldn't sleep because you were having nightmares.
+
+102
+00:08:59,372 --> 00:09:01,123
+我是信赖你才跟你这样说的
+I confided in you.
+
+103
+00:09:01,415 --> 00:09:04,335
+你是我的队伍中的一员
+这让我有责任为你负责
+You're a member of my team,
+which makes you my responsibility,
+
+104
+00:09:04,335 --> 00:09:10,007
+而且我只告诉了一个人, 而她的工作
+正是处理此类事情的
+and I only told one person, whose job, by the way,
+is to deal exactly with this sort of thing.
+
+105
+00:09:10,299 --> 00:09:12,635
+我的精神没有任何问题
+There is nothing wrong with my mind.
+
+106
+00:09:12,844 --> 00:09:14,303
+没人说有问题
+Nobody said there was.
+
+107
+00:09:14,637 --> 00:09:18,599
+为了让你的人尊敬我, 而不是认为我疯了
+我一直都在努力
+I have a hard enough time getting your people
+to respect me without them thinking I'm crazy.
+
+108
+00:09:18,766 --> 00:09:21,102
+没人认为你疯了
+而且每个人都很尊敬你
+Nobody thinks you're crazy,
+and everybody respects you.
+
+109
+00:09:21,227 --> 00:09:22,520
+不是这样的
+That is not the point.
+
+110
+00:09:22,812 --> 00:09:26,649
+听我说, Teyla, 你可能需要休息一下
+Look, Teyla, you may want to sit this one out.
+
+111
+00:09:27,441 --> 00:09:28,401
+什么意思?
+What do you mean?
+
+112
+00:09:28,484 --> 00:09:30,528
+Rodney, Ford和我正准备去
+Well, Rodney's staying back,
+and Ford and I are just going to
+
+113
+00:09:30,528 --> 00:09:33,447
+最后检查一下阿尔法站点
+在我们必须转移到那里之前
+check out the alpha site
+one last time before we have to move in.
+
+114
+00:09:33,990 --> 00:09:36,993
+如果我们必须撤离的话
+我的人民也将被迫转移到哪个星球
+Should we evacuate, my people
+will be forced to that planet as well.
+
+115
+00:09:36,993 --> 00:09:39,161
+我保证对每个人来说
+那里都会是安全的
+And I'll make sure it's safe for everyone.
+
+116
+00:09:39,745 --> 00:09:43,499
+听着, Teyla, 我并不是说
+你有什么地方不对劲
+Look, Teyla, I'm not saying
+there's anything wrong with you.
+
+117
+00:09:43,541 --> 00:09:47,753
+但愿不会这样, 不过你自己也承认
+你的表现有些离谱
+God forbid, but you yourself admitted
+that you were a little off your game.
+
+118
+00:09:48,129 --> 00:09:50,965
+今天早上在报告厅
+你无缘无故的呵斥Weir博士
+You snapped at Dr. Weir this morning
+in the briefing room for no good reason.
+
+119
+00:09:51,299 --> 00:09:53,009
+现在你又在朝我开火, 仅仅因为
+我觉得你可能需要一些帮助
+Now you're biting my head off
+for caring that you might need help
+
+120
+00:09:53,050 --> 00:09:56,345
+因为已经三天了
+你一直没法好好睡上一觉
+dealing with the fact that it's been
+three days since you've had any sleep.
+
+121
+00:09:56,721 --> 00:09:59,765
+我很抱歉, 不过我并不需要任何帮助
+I'm sorry, but I do not need any help.
+
+122
+00:10:00,141 --> 00:10:03,060
+幽灵就要来了
+我现在需要的就是做些什么
+The Wraith are coming.
+What I need is to do something.
+
+123
+00:10:03,102 --> 00:10:04,729
+是的, 很好
+Okay. Good.
+
+124
+00:10:05,188 --> 00:10:06,981
+我建议你去打个盹
+I suggest you take a nap.
+
+125
+00:10:42,934 --> 00:10:45,311
+- Teyla
+- McKay博士
+- Teyla.
+- Dr. McKay.
+
+126
+00:10:46,145 --> 00:10:47,688
+我只是, 嗯...
+I was just, um...
+
+127
+00:10:49,565 --> 00:10:50,942
+我们正彼此注视着对方
+We're seeing each other.
+
+128
+00:10:53,903 --> 00:10:56,072
+你和Heightmeyer医生?
+You and Dr. Heightmeyer?
+
+129
+00:10:58,950 --> 00:11:02,286
+你知道我是如何的喜欢
+具有伟大... 思想的女人
+Well, you know how much
+I love women with great... minds.
+
+130
+00:11:02,453 --> 00:11:05,289
+请不要告诉... 任何人
+Just don't say anything to... anyone.
+
+131
+00:11:05,706 --> 00:11:07,124
+我会替你保密的
+Your secret is safe with me.
+
+132
+00:11:07,166 --> 00:11:08,626
+好的, 很好
+Right. Very good. Excellent.
+
+133
+00:11:15,174 --> 00:11:16,634
+Heightmeyer医生?
+Dr. Heightmeyer?
+
+134
+00:11:16,759 --> 00:11:18,386
+Teyla  请进
+Teyla. Come in.
+
+135
+00:11:18,553 --> 00:11:20,179
+很抱歉打扰你了
+I'm sorry to bother you.
+
+136
+00:11:20,680 --> 00:11:23,266
+- 我可不可以...
+- 当然
+- Is it all right if I...
+- Of course.
+
+137
+00:11:23,641 --> 00:11:24,976
+请坐吧
+Please, have a seat.
+
+138
+00:11:37,446 --> 00:11:40,825
+我并不是十分清楚这是如何工作的
+I guess I'm not really sure
+how this is supposed to work.
+
+139
+00:11:41,534 --> 00:11:43,035
+没事, 放松
+Just relax.
+
+140
+00:11:43,452 --> 00:11:45,079
+告诉我你脑袋中所想的东西
+Tell me whatever's on your mind.
+
+141
+00:11:48,124 --> 00:11:50,501
+我作过一些很恐怖的梦
+I have been having bad dreams.
+
+142
+00:11:52,170 --> 00:11:53,212
+我感觉...
+I feel...
+
+143
+00:11:58,509 --> 00:12:00,595
+在这个基地中的每个人可能都会觉得害怕
+Everyone on this base is probably afraid.
+
+144
+00:12:00,845 --> 00:12:03,890
+- 我不知道我为什么到这里来打扰你...
+- 你是不是总是感觉到幽灵?
+- I do not know why I'm bothering you...
+- Have you always been able to sense the Wraith?
+
+145
+00:12:05,141 --> 00:12:08,144
+是的, 自从我记事开始
+Yes. Since I can remember.
+
+146
+00:12:08,603 --> 00:12:09,937
+这种感觉像是什么?
+Well, what does it feel like?
+
+147
+00:12:20,364 --> 00:12:25,786
+感觉就像来自身体内部的一股很深的寒意
+It feels like a deep cold that comes from within.
+
+148
+00:12:27,330 --> 00:12:29,332
+我第一次有这个感觉的时候
+还是一个小女孩
+I first felt it when I was a girl.
+
+149
+00:12:30,541 --> 00:12:35,338
+我无法呼吸, 然后不知道为什么
+接着我就听到了幽灵的梭镖飞船
+I could not breathe, and I did not know why,
+and then we heard the darts.
+
+150
+00:12:36,422 --> 00:12:38,341
+你现在也是这样的感觉么?
+Do you feel that way now?
+
+151
+00:12:39,509 --> 00:12:43,554
+我感觉我的心中有个结
+将来某个时候就会发作
+I have had a knot inside me for some time now.
+
+152
+00:12:44,514 --> 00:12:47,934
+据我所知, 它们的飞船
+距离亚特兰蒂斯还有很长一段距离
+As I understand, though,
+their ships are still a great distance from Atlantis.
+
+153
+00:12:48,476 --> 00:12:50,686
+你真的能够从这么远的地方感觉到它们?
+Can you really sense them from so far away?
+
+154
+00:12:52,396 --> 00:12:56,275
+这种感觉跟过去有一点不同
+This feeling is a little different than in the past.
+
+155
+00:12:57,485 --> 00:12:59,904
+也许是因为它一直在那里
+Perhaps it is because it is always there now.
+
+156
+00:13:00,196 --> 00:13:01,572
+我已经习惯了
+I am getting used to it.
+
+157
+00:13:03,616 --> 00:13:07,703
+在我的一生中
+还从来没有碰到这么多的幽灵醒来
+Never before in my lifetime
+have so many Wraith been awake.
+
+158
+00:13:08,329 --> 00:13:10,540
+你的人民当中, 很多人都有这个能力么?
+Do many of your people have this ability?
+
+159
+00:13:10,873 --> 00:13:12,083
+有些人有
+Some.
+
+160
+00:13:12,625 --> 00:13:16,587
+在这些人当中
+一些人对幽灵的感觉更强一些
+Among those few, some can
+sense the Wraith stronger than others.
+
+161
+00:13:17,797 --> 00:13:20,633
+我总是第一个知道它们要来的人
+I have always been among
+the first to know they are coming.
+
+162
+00:13:20,675 --> 00:13:22,301
+这让你很特别
+That makes you special.
+
+163
+00:13:23,010 --> 00:13:23,886
+这会让你有什么感觉?
+How does that make you feel?
+
+164
+00:13:23,970 --> 00:13:26,931
+我不知道
+我从来没有深入的思考这个问题
+I do not know.
+I suppose I have not given it much thought.
+
+165
+00:13:27,306 --> 00:13:28,057
+为什么不呢?
+Why not?
+
+166
+00:13:28,099 --> 00:13:30,726
+为什么有些人的眼睛是蓝色
+而其他人是褐色的?
+Why do some people have blue eyes and others brown?
+
+167
+00:13:36,023 --> 00:13:38,276
+跟我讲讲你的噩梦
+Tell me about your nightmares.
+
+168
+00:14:21,777 --> 00:14:23,154
+它就是我
+It was me.
+
+169
+00:14:23,571 --> 00:14:25,990
+你站在你自己的身边?
+You were standing over yourself?
+
+170
+00:14:26,324 --> 00:14:28,910
+它就是我... 不过它又不是我
+It was me... but it was not me.
+
+171
+00:14:29,327 --> 00:14:30,870
+我是一个幽灵
+I was a Wraith.
+
+172
+00:14:31,037 --> 00:14:34,373
+事实上, 人们浪费了大量的时间
+试图解释它们的梦境
+The truth is, people waste a lot of
+time trying to interpret their dreams.
+
+173
+00:14:34,707 --> 00:14:36,959
+它们其实只是在我们睡觉时
+我们大脑的另外一种思考方式
+They're really just another way
+our brain thinks when we're asleep.
+
+174
+00:14:37,001 --> 00:14:38,461
+并没有什么隐藏的含意
+There are no hidden meanings.
+
+175
+00:14:38,920 --> 00:14:41,756
+实际上, 我们总是倾向于忘记
+我们所梦到的几乎所有的东西
+In fact, we tend to forget
+most everything we dream about.
+
+176
+00:14:41,881 --> 00:14:46,093
+我们有意识的大脑能够判断
+哪些东西对我们最为重要
+Our conscious mind is capable
+of deciding what's most important to us.
+
+177
+00:14:46,219 --> 00:14:50,723
+可是实际上, 在某种程度上,
+我看到自己变成一个幽灵对我来说非常困惑
+Well, the fact that, on some level,
+I see myself as a Wraith is very disturbing to me.
+
+178
+00:14:51,390 --> 00:14:56,562
+我认为你所具有的这种特殊能力,
+这种可以感觉幽灵的天性,
+I think this special ability you have,
+this talent for sensing the Wraith,
+
+179
+00:14:56,646 --> 00:15:01,776
+在你的意识中将你和它们联系起来,
+而这也正是你试图抗拒的
+connects you to them in your mind,
+maybe in a way you would like to deny.
+
+180
+00:15:03,361 --> 00:15:07,323
+你说在过去从来没有真正的考虑这个问题
+我认为这不是真的
+You said you hadn't really given it much thought
+in the past. I don't think that's true.
+
+181
+00:15:07,740 --> 00:15:10,368
+那我应该怎么做? 我又不能改变它
+What am I supposed to do? I cannot change it.
+
+182
+00:15:10,409 --> 00:15:14,747
+也许是不行, 不过我们所害怕的
+正是这些未知的东西
+Probably not, but the unknown frightens us.
+
+183
+00:15:15,414 --> 00:15:22,338
+我们都愿意感觉一切都在控制之中
+即便大部分时候我们的能力事实上还远远不够
+We all like to feel in control, even though most of the
+time our power over most things is just an illusion,
+
+184
+00:15:22,880 --> 00:15:29,262
+不过我发现我们对某样东西了解得越多
+我们就越可以说服自己, 我们可以控制它
+but I find the more we know about something, the more
+we can convince ourselves we are in control of it.
+
+185
+00:15:32,515 --> 00:15:35,476
+我已经对你进行了我所能够采取的每项测试
+I ran every test I could on all of you from the get-go.
+
+186
+00:15:35,518 --> 00:15:38,229
+从生理学上讲, 你和你的人民
+跟我们是完全一样的
+Physiologically, you and
+your people are the same as we are.
+
+187
+00:15:38,354 --> 00:15:41,274
+我无法解释你所具有的那些超能力
+I have no explanation for any
+of your special super powers.
+
+188
+00:15:41,357 --> 00:15:42,984
+我只有一个
+I only have one.
+
+189
+00:15:43,359 --> 00:15:45,236
+我看到过你战斗
+I've seen you fight, my dear.
+
+190
+00:15:45,611 --> 00:15:50,241
+我过去曾经认为这种能力是
+家族血统所遗传下来的
+并以此作过一些追查
+I have previously traced this ability as something
+that is passed on through family lineage.
+
+191
+00:15:50,324 --> 00:15:52,159
+你说这不是生物学上的?
+Does that not make it biological?
+
+192
+00:15:52,201 --> 00:15:56,205
+看起来应该是, 不过没有你的族谱中
+每个人的基因样本
+It would seem so, but without genetic samples
+from everyone in your family tree,
+
+193
+00:15:56,289 --> 00:16:01,961
+我也无法标示出
+引起这一生理学反映的基因片段
+I would have little to no chance of identifying the specific
+characteristic that causes the anatomical response.
+
+194
+00:16:02,795 --> 00:16:04,881
+这非常困难
+It'd be difficult.
+
+195
+00:16:06,048 --> 00:16:09,177
+那如果你和我一同飞到大陆中去,
+有没有这个可能呢?
+Any chance you would have time
+to fly me over to the mainland?
+
+196
+00:16:09,719 --> 00:16:12,180
+如果你想将你的生命掌握在你自己手中
+If you're willing to take your life into your own hands.
+
+197
+00:16:13,639 --> 00:16:15,308
+我很乐意
+I'd love a break.
+
+198
+00:16:32,283 --> 00:16:34,368
+你变了, Teyla
+You've changed, Teyla.
+
+199
+00:16:34,493 --> 00:16:35,995
+我的头发变短了
+My hair is shorter.
+
+200
+00:16:36,162 --> 00:16:38,581
+不止是你的头发, 亲爱的
+It's more than your hair, dear.
+
+201
+00:16:38,748 --> 00:16:44,086
+我仍然还可以看到那个
+常常为我画出美妙图画的小女孩
+I can still see the little girl
+who used to paint me beautiful pictures
+
+202
+00:16:44,128 --> 00:16:47,006
+那个唱着古人歌曲的小女孩
+while she sang the songs of the Ancients.
+
+203
+00:16:47,048 --> 00:16:49,675
+我早就已经不是那个小女孩了, Charin
+I have not been that girl in a long time, Charin.
+
+204
+00:16:49,800 --> 00:16:56,807
+不, 即便是Teyla, Athosian人的领袖,
+也总是可以抽空来探访我, 老Charin, 这样卑微的人
+No, but even Teyla, leader of the Athosians, always
+found the time to come and visit with poor, old Charin.
+
+205
+00:16:57,016 --> 00:16:59,435
+我很想念你做的tuttleroot汤
+I have missed your tuttleroot soup.
+
+206
+00:16:59,560 --> 00:17:03,773
+不过我想并不只是我的汤
+让你来到这里
+But I suspect it's more than my soup
+that has brought you here.
+
+207
+00:17:04,232 --> 00:17:08,736
+你来这里是要把我拉出我的帐篷
+并把我带到另外一个星球
+You've come to pluck me from my tent
+and take me to yet another world.
+
+208
+00:17:09,111 --> 00:17:16,202
+现在不是, 不过看起来我们可能不得不
+再次撤离, 至少是暂时性的
+Not yet, but it seems we may have
+to evacuate again soon, at least temporarily.
+
+209
+00:17:17,578 --> 00:17:20,665
+假如实现不了, 你会答应么?
+Did you allow yourself to expect differently?
+
+210
+00:17:20,790 --> 00:17:24,377
+我仍然相信终究有一天
+我们可以从幽灵的阴影中解放出来
+I still believe that we can
+one day be free of the Wraith.
+
+211
+00:17:25,336 --> 00:17:30,258
+你可以为那些英勇献出自己生命的人
+去讲这些故事
+You can save such stories for those
+whose bones aren't failing them.
+
+212
+00:17:33,719 --> 00:17:34,554
+Charin...
+Charin...
+
+213
+00:17:35,388 --> 00:17:37,890
+你知道为什么我会感觉到幽灵即将到来?
+do you know why I can sense the Wraith coming?
+
+214
+00:17:38,015 --> 00:17:39,934
+你生来就是如此
+You were born to it.
+
+215
+00:17:40,059 --> 00:17:42,937
+在每一代人中, 总有几个人具有这个能力
+There have been a few in every generation.
+
+216
+00:17:43,104 --> 00:17:47,191
+我知道, 不过从来都没有人想过
+为什么会这样么?
+I know, but has no one ever
+wondered how that is possible?
+
+217
+00:17:47,358 --> 00:17:51,779
+有些人认为这是祖先们所传下来的天赋
+Some believe it was a gift from the ancestors.
+
+218
+00:17:51,863 --> 00:17:53,823
+你呢?
+And you?
+
+219
+00:17:55,616 --> 00:17:59,620
+你父亲让我不要告诉你
+Your father asked me not to tell you.
+
+220
+00:18:00,663 --> 00:18:04,667
+我父亲已经不在了
+My father is not here anymore.
+
+221
+00:18:06,377 --> 00:18:13,176
+不能让其他活着的Athosian人知道
+No other living Athosian
+knows of this, for good reason.
+
+222
+00:18:14,594 --> 00:18:16,304
+求你了
+Please.
+
+223
+00:18:16,429 --> 00:18:18,681
+无论如何告诉我吧
+Tell me anyway.
+
+224
+00:18:19,765 --> 00:18:25,021
+我的祖父曾经告诉我一个故事...
+My grandfather used to tell a story...
+
+225
+00:18:25,062 --> 00:18:28,983
+从来没有人听过的...
+no one has ever heard the like, before or since...
+
+226
+00:18:28,983 --> 00:18:33,779
+关于少数被送回来的人
+about the few who once returned.
+
+227
+00:18:34,197 --> 00:18:35,865
+被送回的?
+Returned?
+
+228
+00:18:37,408 --> 00:18:40,036
+有一个星球...
+There was a planet...
+
+229
+00:18:40,036 --> 00:18:45,041
+就跟我们所想到的一样
+幽灵经常光顾那里
+as was expected, every so often, the Wraith came,
+
+230
+00:18:45,082 --> 00:18:50,630
+村民被掠走, 不过那里
+在这个特别的星球
+villagers were taken, but there,
+on this particular planet,
+
+231
+00:18:50,880 --> 00:18:57,428
+有几次, 被掠走的人又回来了
+on several occasions, the taken came back.
+
+232
+00:19:02,266 --> 00:19:05,686
+有些人认为祖先们
+将他们所珍爱的东西遗传了下来
+Some believed that the ancestors
+had returned their loved ones to them,
+
+233
+00:19:05,895 --> 00:19:11,025
+那种可以免受幽灵迫害的天赋
+that they had been blessed with a gift
+that made them unwanted by the Wraith.
+
+234
+00:19:11,692 --> 00:19:15,738
+还有人甚至还讲述了一些故事
+那些被掠走的人如何征服了幽灵
+Others even told tales of how the taken
+had somehow vanquished the Wraith,
+
+235
+00:19:16,364 --> 00:19:19,075
+不过不久之后, 被掠走的人就开始感到害怕
+but soon, the taken began to be feared.
+
+236
+00:19:19,242 --> 00:19:20,243
+为什么?
+Why?
+
+237
+00:19:20,368 --> 00:19:22,703
+他们说听到了一些声音
+They spoke of hearing voices.
+
+238
+00:19:22,828 --> 00:19:25,206
+很多人开始行为古怪
+Many began to behave strangely.
+
+239
+00:19:25,456 --> 00:19:29,168
+有些人变得非常暴力, 甚至杀人
+Some became violent, even murderous.
+
+240
+00:19:29,877 --> 00:19:32,421
+听起来好像
+这并不是由古人所造成的
+Well, it doesn't sound like
+the Ancients were responsible for that.
+
+241
+00:19:32,505 --> 00:19:33,506
+不是
+No.
+
+242
+00:19:33,631 --> 00:19:36,759
+村民们开始转向那些被掠走的人
+这是一场大屠杀
+The villagers turned on the taken. It was a massacre.
+
+243
+00:19:36,801 --> 00:19:38,344
+除了极少数, 大部分人都被杀死了
+All but a few were killed.
+
+244
+00:19:38,469 --> 00:19:41,389
+剩下的人被放逐了
+The rest were ostracized, sent away.
+
+245
+00:19:41,472 --> 00:19:45,977
+从那里后, 那个村子被掠走的人
+就再也没有回来的了
+After that, no others that were taken
+from that village ever returned again,
+
+246
+00:19:46,185 --> 00:19:54,068
+不过那些活下来的, 他们就是那些
+Charin所认为的传递天赋的人
+but those few who survived, they are the ones
+who Charin believes passed on the gift.
+
+247
+00:19:54,193 --> 00:19:57,697
+- 而有一个被掠走又活下来的人就是...
+- 我的祖先
+- And one of the taken that survived was...
+-  My lineage.
+
+248
+00:19:58,656 --> 00:20:01,284
+我有发生这件事的星球的地址
+I have the address to the planet where this happened.
+
+249
+00:20:01,534 --> 00:20:03,286
+Charin说那个村子早就不复存在了
+Charin says the village is long gone.
+
+250
+00:20:03,369 --> 00:20:07,915
+剩下的只有废墟
+不过我仍然很想去那里
+All that is left are ruins,
+but still, I wish to go there.
+
+251
+00:20:09,083 --> 00:20:10,209
+现在?
+Now?
+
+252
+00:20:10,251 --> 00:20:14,297
+我认为发生这一切的原因
+一定要大白于天下
+I believe this must be coming to light now for a reason.
+
+253
+00:20:14,505 --> 00:20:17,216
+也许我们可以发现真正所发生事情的证据
+Maybe we can find evidence of what really happened.
+
+254
+00:20:17,425 --> 00:20:20,803
+听着, Teyla, 我们还有很多事情要去做
+Look, Teyla, there are a lot
+of things that we need to get done.
+
+255
+00:20:20,845 --> 00:20:24,307
+也许这可以帮我们找到一个
+抗击幽灵的方法
+Maybe there is a way to fight
+the Wraith that we have yet to discover.
+
+256
+00:20:24,515 --> 00:20:33,024
+或许我的祖先并没有达到足够的认知水平
+以弄清楚这种天赋到底是什么
+Perhaps my ancestors were simply not enlightened
+enough to recognize their gift for what it was.
+
+257
+00:20:34,901 --> 00:20:37,612
+去看看没有什么大不了的
+Doesn't hurt to take a look around.
+
+258
+00:20:48,247 --> 00:20:50,374
+- 长官, 这儿什么都没有
+- 我知道
+- Sir, there's nothing here.
+- I know.
+
+259
+00:20:50,625 --> 00:20:53,920
+- 天黑了, 我们是不是该回去了?
+- 再给她几分钟
+- Well, it's dark. Shouldn't we be getting back?
+- Give her a minute.
+
+260
+00:20:55,004 --> 00:20:55,755
+长官...
+Sir...
+
+261
+00:20:55,796 --> 00:20:58,758
+Ford, 我需要她能够摆脱这一切
+好好睡上一觉
+Ford, I need her to put
+this behind her, get some sleep.
+
+262
+00:20:58,799 --> 00:21:01,928
+我们大家这样做, 不管会发生什么
+We all do so, whatever it takes.
+
+263
+00:21:05,723 --> 00:21:06,974
+Rodney?
+Rodney?
+
+264
+00:21:07,266 --> 00:21:08,601
+我在这里收到一些信号
+I've got something here.
+
+265
+00:21:08,643 --> 00:21:09,894
+真的么?
+Really?
+
+266
+00:21:09,936 --> 00:21:12,271
+我不知道  我收到了一些...
+I don't know. I've got a little...
+
+267
+00:21:15,191 --> 00:21:16,984
+你收到了一些什么?
+You've got a little what?
+
+268
+00:21:17,151 --> 00:21:19,403
+嗨, McKay, 你收到了一些什么?
+Hey, McKay, you've got a little what?
+
+269
+00:21:21,155 --> 00:21:22,615
+什么?
+What?
+
+270
+00:21:25,409 --> 00:21:27,286
+哦, 你们这些家伙不要跟我开玩笑了
+Oh, it's okay when you guys make fun of me.
+
+271
+00:21:27,328 --> 00:21:28,955
+Rodney?
+Rodney?
+
+272
+00:21:29,080 --> 00:21:31,249
+收到一个微弱的能量信号
+Picking up a faint energy signal.
+
+273
+00:21:31,582 --> 00:21:33,501
+变得越来越强了
+It's getting stronger.
+
+274
+00:21:33,751 --> 00:21:35,920
+从这里发出的
+Coming from here.
+
+275
+00:21:36,546 --> 00:21:38,130
+这里什么都没有
+There's nothing here.
+
+276
+00:21:38,172 --> 00:21:41,342
+古人的设备到现在为止
+还从来没有欺骗过我们
+Well, the magic ancient device hasn't lied yet.
+
+277
+00:21:41,467 --> 00:21:42,677
+这是实心的
+It's solid.
+
+278
+00:21:42,718 --> 00:21:44,262
+这里确实有些东西很奇怪
+Well, there's definitely something weird here.
+
+279
+00:21:44,303 --> 00:21:45,763
+怎么奇怪?
+Weird how?
+
+280
+00:21:46,973 --> 00:21:48,975
+- 那是怎么回事?
+- Teyla!
+- How about that?
+- Teyla!
+
+281
+00:21:49,725 --> 00:21:50,977
+Teyla!
+Teyla!
+
+282
+00:21:51,477 --> 00:21:54,814
+如果你有一个良好的开端
+也许, 你就可以冲进去
+Maybe if you got a good running start.
+You know, really slam into it.
+
+283
+00:22:01,904 --> 00:22:03,489
+你是怎么做到的?
+How'd you do that?
+
+284
+00:22:03,698 --> 00:22:06,284
+我不知道
+我只是在找出来的路
+I do not know. I was just looking for a way out.
+
+285
+00:22:17,753 --> 00:22:19,755
+看起来像是在幽灵的飞船里面
+Looks like the inside of a Wraith ship.
+
+286
+00:22:19,797 --> 00:22:21,674
+他们到底在这里做什么?
+What the hell were they doing here?
+
+287
+00:22:37,607 --> 00:22:38,649
+Rodney.
+Rodney.
+
+288
+00:22:38,774 --> 00:22:39,984
+Elizabeth.
+Elizabeth.
+
+289
+00:22:40,151 --> 00:22:42,278
+Sheppard说你认为找到了一个幽灵的实验室?
+Sheppard said you think you found a Wraith laboratory.
+
+290
+00:22:42,403 --> 00:22:45,698
+看起来像是
+某种隐藏的秘密研究室
+Certainly looks that way.
+Some sort of hidden secret facility.
+
+291
+00:22:45,781 --> 00:22:48,034
+很明显被抛弃很长时间了
+It's obviously been abandoned for a very long time.
+
+292
+00:22:48,117 --> 00:22:53,664
+我要把这个数据记录器
+接入到某个计算机终端
+I was able to pull this data recorder
+from one of the computer consoles.
+
+293
+00:22:53,956 --> 00:22:56,709
+你认为幽灵是在
+那个星球上的人身上做实验?
+You think the Wraith were experimenting
+on the people of that planet?
+
+294
+00:22:56,751 --> 00:22:57,919
+我也说不清楚
+I have no idea.
+
+295
+00:22:57,960 --> 00:23:00,505
+- 希望这个东西能够告诉我们
+- 它们为什么要保密呢?
+- Hoping this thing will tell us.
+- Why their need for secrecy?
+
+296
+00:23:00,546 --> 00:23:04,342
+幽灵可以随便掠走人们
+用他们做任何想做的事情
+The Wraith can take people at will
+and do whatever they want with them.
+
+297
+00:23:06,219 --> 00:23:07,762
+搞定了
+Here we go.
+
+298
+00:23:10,097 --> 00:23:11,140
+这里
+There.
+
+299
+00:23:11,891 --> 00:23:13,226
+现在, 这个, 嗯...
+Now, that, uh...
+
+300
+00:23:14,560 --> 00:23:16,354
+我对这个一窍不通
+that means absolutely nothing to me.
+
+301
+00:23:16,395 --> 00:23:19,899
+上一次我见到类似的内容
+展示的是一个飞船的星系定位系统
+Last time I saw the contents of one of these,
+it showed a galactic positioning system for ships.
+
+302
+00:23:19,941 --> 00:23:22,610
+它有更多的... 图像而不是符号
+It was more... pictures than symbols.
+
+303
+00:23:22,818 --> 00:23:23,861
+我想...
+I wonder...
+
+304
+00:23:26,155 --> 00:23:30,076
+你就知道这些
+你实际上并没有读完那个句子
+Just so you know, you didn't
+actually finish that sentence out loud.
+
+305
+00:23:30,201 --> 00:23:32,495
+这很显然是一种语言
+Well, this is obviously a language.
+
+306
+00:23:32,620 --> 00:23:33,829
+幽灵的语言?
+Wraith language?
+
+307
+00:23:33,955 --> 00:23:35,748
+有理由相信是
+That would make sense.
+
+308
+00:23:35,873 --> 00:23:37,625
+我想好好看看这个
+I'd love to have a good look through this.
+
+309
+00:23:37,667 --> 00:23:39,085
+随便
+Knock yourself out.
+
+310
+00:23:39,126 --> 00:23:41,087
+我要回去看看那个控制椅了
+I have to get back to the control chair anyway.
+
+311
+00:23:47,009 --> 00:23:50,096
+你认为为什么你可以通过那道门
+而其他人却不行呢?
+Why do you think you could access
+the doorway when no one else could?
+
+312
+00:23:50,096 --> 00:23:51,013
+我不知道
+I don't know.
+
+313
+00:23:51,180 --> 00:23:53,891
+是不是因为只有幽灵
+才可以进入那个秘密的研究室?
+Is it because only a Wraith
+can enter a secret Wraith facility?
+
+314
+00:23:54,058 --> 00:23:55,184
+我不是幽灵
+I'm not a Wraith.
+
+315
+00:23:55,309 --> 00:23:59,313
+告诉我... 当幽灵的感觉如何?
+Tell me... what does it feel like to be a Wraith?
+
+316
+00:23:59,564 --> 00:24:01,899
+我觉得很饿
+I feel hunger.
+
+317
+00:24:13,160 --> 00:24:15,538
+你还记不记得最后一次
+我坐在其中一个当中时发生了什么?
+Don't you remember what happened
+last time I sat in one of those?
+
+318
+00:24:15,663 --> 00:24:18,207
+现在的能量远远不够
+这玩意儿什么也做不了
+There's nowhere near enough power
+in the thing to do anything.
+
+319
+00:24:18,249 --> 00:24:20,251
+那为什么还要搞得这么麻烦呢?
+先生们, 已经很晚了
+Then why bother? Gentlemen, it's quite late.
+
+320
+00:24:20,293 --> 00:24:22,879
+我们只是想判断一下到底需要多少能量
+We are trying to determine exactly how much power
+
+321
+00:24:22,920 --> 00:24:25,173
+才能操纵由这个椅子所控制的系统
+is required to operate the systems
+that are controlled by the chair.
+
+322
+00:24:25,214 --> 00:24:27,466
+为了做到这一点, 它必须就必须启动
+And in order to do that, it needs to be on.
+
+323
+00:24:27,508 --> 00:24:28,593
+你现在有这个基因了
+You have the gene now.
+
+324
+00:24:28,718 --> 00:24:32,346
+是的, 不过我在集中精力想着
+如何激活这个东西的时候
+我就没有办法分析返回的数据了
+Yeah, but I can't be trying to analyze
+the feedback data while I'm concentrating
+on keeping the damn thing activated.
+
+325
+00:24:32,388 --> 00:24:33,514
+你为什么不去分析一下它?
+Why don't you analyze it?
+
+326
+00:24:33,556 --> 00:24:35,391
+是的, 我可以分析它
+不过Rodney并不认为...
+Well, I could analyze it,
+but Rodney doesn't think that...
+
+327
+00:24:35,474 --> 00:24:36,684
+先生们, 怎么样了?
+Gentlemen, how's it coming?
+
+328
+00:24:36,851 --> 00:24:37,935
+不好
+Well, not good.
+
+329
+00:24:38,186 --> 00:24:40,646
+我很抱歉, 这帮不上忙
+Carson, 我需要你
+Well, I'm sorry.
+This won't help. Carson, I need you.
+
+330
+00:24:40,688 --> 00:24:41,731
+噢, 感谢上帝
+Oh, thank god.
+
+331
+00:24:41,772 --> 00:24:42,690
+不过我们正在用他
+But we're using him.
+
+332
+00:24:42,899 --> 00:24:44,984
+- 怎么了? 有人受伤了?
+- 你的理论是对的
+- What is it? Is someone hurt?
+- You were right.
+
+333
+00:24:45,026 --> 00:24:46,444
+真令人高兴  是关于什么的理论?
+Lovely. About what?
+
+334
+00:24:46,569 --> 00:24:50,406
+那个幽灵是在古人到达飞马星系之后
+开始进化的理论
+Your theory of the Wraith evolving after
+the Ancients arrived in the Pegasus galaxy.
+
+335
+00:24:50,448 --> 00:24:51,616
+简直是开玩笑
+You've got to be kidding me.
+
+336
+00:24:51,657 --> 00:24:52,742
+(我赢了), 付钱吧
+Pay up.
+
+337
+00:24:52,783 --> 00:24:53,743
+你怎么知道?
+How do you know?
+
+338
+00:24:53,784 --> 00:24:55,870
+幽灵的语言是从古人的语言派生出来的
+The Wraith language is a derivative of ancient.
+
+339
+00:24:55,912 --> 00:24:57,246
+那并不绝对就说...
+Well, that doesn't categorically mean...
+
+340
+00:24:57,330 --> 00:24:58,748
+Rodney, 请听我说
+Rodney, please.
+
+341
+00:24:59,290 --> 00:25:01,417
+那并不是我想见你的原因
+That's not why I need to see you.
+
+342
+00:25:01,459 --> 00:25:04,837
+我已经能够翻译幽灵的数据设备中
+记录的日志的第一部分了
+I've been able to translate the first part
+of the log from the Wraith data device.
+
+343
+00:25:04,879 --> 00:25:05,713
+真的么?
+Really?
+
+344
+00:25:10,051 --> 00:25:12,094
+- 好了, 我们再试试Kusanagi博士
+- 再试试Kusanagi
+- All right, we'll try Dr. Kusanagi again.
+- Kusanagi again.
+
+345
+00:25:12,136 --> 00:25:14,180
+- 马上
+- 好的
+- 谢谢
+- Now.
+- Okay.
+- Thank you.
+
+346
+00:25:23,814 --> 00:25:25,566
+早上好
+Good morning.
+
+347
+00:25:26,776 --> 00:25:28,528
+你看起来就像我担心的那样
+You look like I fear.
+
+348
+00:25:30,696 --> 00:25:32,782
+我们整晚都没睡
+Well, we've been up all night.
+
+349
+00:25:34,033 --> 00:25:35,701
+你想找我?
+You wished to see me?
+
+350
+00:25:36,160 --> 00:25:37,787
+你最好坐下来
+You'd better sit down.
+
+351
+00:25:37,828 --> 00:25:39,497
+怎么了?
+What is it?
+
+352
+00:25:42,124 --> 00:25:45,670
+我翻译了你带回的日志的第一部分, 然后...
+Well, I translated the first part
+of the log you brought back, and...
+
+353
+00:25:46,337 --> 00:25:48,506
+你真的认为你不想坐下来?
+are you sure you don't want to have a seat?
+
+354
+00:25:52,301 --> 00:25:56,222
+幽灵在你的祖先身上做了一些实验
+The Wraith were conducting
+experiments on your ancestors.
+
+355
+00:25:56,305 --> 00:26:00,268
+实际上, 只是一个幽灵
+而且它这样做是违背了其它幽灵的意愿
+It was just one Wraith, actually, and he was
+doing it against the wishes of the other Wraith,
+
+356
+00:26:00,309 --> 00:26:02,311
+这就是为什么它要秘密进行
+which is why he was doing it in secret.
+
+357
+00:26:02,436 --> 00:26:04,105
+他做了什么?
+What was he doing?
+
+358
+00:26:05,106 --> 00:26:10,486
+我想他正试图让他们的食物来源
+与他们这个物种更加协调
+I think he was trying to make their
+food source more compatible with their species.
+
+359
+00:26:10,528 --> 00:26:11,571
+我不明白
+I do not understand.
+
+360
+00:26:12,446 --> 00:26:13,614
+这很难成功
+It was very easy to miss.
+
+361
+00:26:13,656 --> 00:26:17,952
+事实上, 我甚至无法进行必需的比较
+来分离特定的片断
+In fact, I couldn't even make the kind of comparison
+necessary to isolate the specific strand.
+
+362
+00:26:18,411 --> 00:26:20,663
+我们需要幽灵的细胞
+这个我们终于得到了
+We needed Wraith cells,
+which we eventually got,
+
+363
+00:26:20,663 --> 00:26:23,916
+不过我们还需要包含在这些细胞中的
+完整的基因图谱
+but then we needed a full mapping of
+the genetic code contained within those cells,
+
+364
+00:26:23,958 --> 00:26:25,334
+而这个还没有完成50%...
+which wasn't even 50% complete...
+
+365
+00:26:25,376 --> 00:26:25,960
+求你了
+Please.
+
+366
+00:26:28,379 --> 00:26:29,213
+告诉我
+Tell me.
+
+367
+00:26:30,756 --> 00:26:34,677
+在你的遗传信息中, 含有一些幽灵的DNA
+You have some Wraith DNA in your genetic makeup.
+
+368
+00:26:39,056 --> 00:26:41,058
+你在说Teyla有一部分是幽灵?
+You're saying Teyla is part Wraith?
+
+369
+00:26:41,100 --> 00:26:42,185
+一个很小的部分
+A very small part.
+
+370
+00:26:42,226 --> 00:26:46,480
+这让她同你一样, 跟我们不同
+由于你所带有的古人的基因
+Which makes her about as different from us as
+you, because of the ancient gene you possess.
+
+371
+00:26:46,522 --> 00:26:48,065
+还有一些其它的东西
+Well, and some other things.
+
+372
+00:26:48,065 --> 00:26:49,775
+如果知道这个, Bates就会发狂的
+Still, Bates is going to go nuts over this.
+
+373
+00:26:49,817 --> 00:26:51,110
+我们先不要把这个公布出去
+Let's just keep this one under our hat.
+
+374
+00:26:51,152 --> 00:26:54,614
+是的, 很显然Teyla将会非常在意每个人的反应
+Well, obviously Teyla is very concerned
+about how everyone will react.
+
+375
+00:26:54,655 --> 00:26:58,409
+怎么, 这么说你认为这个幽灵科学家
+正试图让人类, 怎么说呢, 更可口?
+What, so you think this Wraith scientist was
+trying to make humans what, more tasty?
+
+376
+00:26:58,659 --> 00:27:03,539
+日志看起来是在说明他正在试图寻找一种方法
+以让取食的过程更加有效
+The log seems to indicate that he was looking for a
+way to make the feeding process more efficient.
+
+377
+00:27:03,581 --> 00:27:07,460
+我想你说过它们具有一些
+类似于人类的基因特征
+I thought you already said they had a number
+of genetic characteristics similar to humans.
+
+378
+00:27:07,460 --> 00:27:11,672
+确实是这样, 不过相比我们而言, 它们还是
+更接近于攻击Sheppard 少校的麻烦制造者
+They do, but they're still much closer to the bug
+creature that attacked major Sheppard than to us.
+
+379
+00:27:11,714 --> 00:27:14,342
+嗨, 不要再提那个了好么
+Hey, I thought we weren't
+going to mention that anymore.
+
+380
+00:27:14,383 --> 00:27:15,468
+抱歉
+Sorry.
+
+381
+00:27:15,468 --> 00:27:21,098
+同时令我们感兴趣的还有幽灵的语言
+看起来是从古人的语言派生出来的
+Also interesting is the fact that the Wraith
+language appears to be a derivative of ancient,
+
+382
+00:27:21,098 --> 00:27:25,436
+这就意味着幽灵是在
+古人到达飞马星系之后发展起来的
+which seems to suggest that the Wraith
+evolved after the Ancients arrived in Pegasus.
+
+383
+00:27:25,811 --> 00:27:29,732
+我的理论就是古人无意中
+允许人类在一个星球上进化
+My theory is that the Ancients unwittingly
+allowed humans to evolve on a planet
+
+384
+00:27:29,774 --> 00:27:32,443
+同时还有... 昆虫物种在上面
+with the... insect species on it.
+
+385
+00:27:32,818 --> 00:27:38,282
+在某种情况下, 这些昆虫以人类为食
+并且不知为何将我们的DNA结合进了它们的DNA
+At some point, the insects fed on humans and
+somehow incorporated our DNA into theirs.
+
+386
+00:27:38,324 --> 00:27:40,701
+幽灵就是这种组合所进化出来的结果
+The Wraith are an evolution of that combination.
+
+387
+00:27:40,701 --> 00:27:44,539
+照你这么说, 实际上是古人创造了幽灵?
+So, what you're saying is the
+Ancients actually created the Wraith?
+
+388
+00:27:44,539 --> 00:27:45,164
+不经意间
+By accident.
+
+389
+00:27:45,206 --> 00:27:46,541
+或者是疏忽
+Or negligence.
+
+390
+00:27:46,749 --> 00:27:48,501
+不管是哪种方式, 这都无所谓了
+Well, either way, it doesn't matter.
+
+391
+00:27:48,918 --> 00:27:52,797
+从根本上说, 在生理学上我们对幽灵了解得越多,
+我们就越有可能制造出一种生物武器
+Ultimately, the more we know about Wraith physiology,
+the closer we get to a biological weapon
+
+392
+00:27:52,839 --> 00:27:55,383
+用它来袭击幽灵, 保护人类免受伤害
+that can attack the Wraith and leave humans unharmed.
+
+393
+00:27:55,383 --> 00:28:00,888
+是的, 不过此时, 我们所知道的就是
+古人可能偶然间制造了幽灵
+Yes, but for the moment, all we know is that the
+Ancients might have accidentally created the Wraith,
+
+394
+00:28:00,930 --> 00:28:02,890
+以及为什么Teyla可以感觉到它们的到来
+and why Teyla can sense them coming.
+
+395
+00:28:02,890 --> 00:28:07,436
+具有讽刺意味的是, 秘密揭开了,
+不过不管是哪个都无法帮助我们阻止它们的到来
+I mean, fabulous, mystery solved, but neither of
+which that help, in any way, stop them from coming.
+
+396
+00:28:07,478 --> 00:28:09,230
+Rodney是对的
+Rodney's right.
+
+397
+00:28:09,272 --> 00:28:10,815
+让我们回去干活吧
+Let's get back to work.
+
+398
+00:28:11,649 --> 00:28:12,650
+谢谢
+Thank you.
+
+399
+00:28:16,070 --> 00:28:17,572
+我知道这不是我的错
+I know that it is not my fault.
+
+400
+00:28:17,613 --> 00:28:19,448
+我什么也做不了
+There's nothing I can do about it.
+
+401
+00:28:19,490 --> 00:28:23,953
+事实上, 我现在跟昨天
+以及上星期没有什么不同
+The fact is, I'm really no different now
+than I was yesterday or last week.
+
+402
+00:28:23,995 --> 00:28:25,746
+不过你感觉到不同了
+But you feel different.
+
+403
+00:28:26,664 --> 00:28:27,248
+是的
+Yes.
+
+404
+00:28:29,876 --> 00:28:34,255
+我想我最担心的就是人们会如何看待我
+I think the thing that I am most
+worried about is how people will perceive me.
+
+405
+00:28:36,048 --> 00:28:41,554
+我的父亲告诉人们, 我与众不同
+这是天赋
+My father told people that it was a gift,
+that I was special, but in a good way.
+
+406
+00:28:41,596 --> 00:28:45,016
+我可以帮助我的人民
+通知他们幽灵即将到来
+I could help my people by warning
+them of the Wraith's approach.
+
+407
+00:28:45,057 --> 00:28:51,814
+他这样做是为了保护我, 不过在多数情况下, 我想
+这也是为什么他们首先把我当作首领的原因
+He did it to protect me, but in many ways, I think
+that it is why they first turned to me as a leader.
+
+408
+00:28:51,856 --> 00:28:54,734
+正如你刚才所说的,
+你跟昨天没有什么不同
+As you just said, you're no
+different than you were yesterday.
+
+409
+00:28:54,734 --> 00:28:58,571
+是的, 不过现在他们有理由害怕我了
+Yes, but now they have reason to fear me.
+
+410
+00:29:03,242 --> 00:29:06,495
+好了, 即便是Sheppard坐在那个椅子中
+我们仍然不能...
+All right, even with major Sheppard in
+the chair, we weren't able to...
+
+411
+00:29:07,747 --> 00:29:09,540
+怎么了?
+What is that?
+
+412
+00:29:12,668 --> 00:29:14,545
+你所说的让我想起...
+Something you said made me wonder...
+
+413
+00:29:16,339 --> 00:29:18,549
+我想我们所决定的
+应该是更重要的事情...
+I thought we decided there
+were more important things...
+
+414
+00:29:18,591 --> 00:29:20,468
+为什么幽灵科学家停止了实验?
+why did the Wraith scientist stop the experiments?
+
+415
+00:29:20,510 --> 00:29:22,637
+我说过的什么让你想起了这个?
+What would I have said that
+would make you think that?
+
+416
+00:29:22,637 --> 00:29:24,263
+我记不起来了
+I don't remember.
+
+417
+00:29:24,263 --> 00:29:26,307
+这真是... 真是一个好问题
+我只是想知道我说过的什么...
+Well, it's just... it's a good point.
+I'm just wondering what I said that...
+
+418
+00:29:26,557 --> 00:29:28,351
+抱歉, 你想到了什么?
+Sorry. What have you got?
+
+419
+00:29:28,392 --> 00:29:31,062
+首先, 我认为是其它幽灵抓住了他
+Well, at first I thought it was
+because the other Wraith caught him.
+
+420
+00:29:31,062 --> 00:29:31,771
+他们没有?
+They didn't?
+
+421
+00:29:31,812 --> 00:29:33,689
+没有, 根据这个, 他是自己停止的
+No, according to this, he stopped on his own.
+
+422
+00:29:33,731 --> 00:29:37,026
+现在你的话让我想搞清楚为什么
+其它幽灵不想这些实验在第一个地方进行
+See, now you've got me wondering why the rest
+of the Wraith didn't want these experiments
+taking place in the first place.
+
+423
+00:29:37,068 --> 00:29:38,152
+很对
+Exactly.
+
+424
+00:29:38,194 --> 00:29:41,531
+特别是当它们每个人都可以从中获益的时候
+Especially since they were supposed to
+be intended to improve things for everyone.
+
+425
+00:29:41,531 --> 00:29:42,949
+是的, 我也是这样想的
+Yeah. That's what I'm saying.
+
+426
+00:29:42,949 --> 00:29:43,741
+我刚说的
+I just said it.
+
+427
+00:29:43,741 --> 00:29:44,492
+你可以停一下么?
+Will you stop?
+
+428
+00:29:45,409 --> 00:29:46,911
+OK, 现在是最重要的部分...
+Okay, here's the most interesting part...
+
+429
+00:29:46,953 --> 00:29:50,331
+幽灵使用某种心灵感应网络来相互交流
+The Wraith communicate with each
+other using some sort of telepathic network.
+
+430
+00:29:50,373 --> 00:29:51,666
+我注意到了
+I noticed that.
+
+431
+00:29:52,375 --> 00:29:53,084
+幸运的是
+Thankfully,
+
+432
+00:29:53,125 --> 00:29:55,294
+它们还不能读取人类的心灵
+they can't seem to read the
+minds of humans, though.
+
+433
+00:29:57,547 --> 00:30:00,591
+这很好, 不过这跟幽灵停止试验
+有什么关系呢?
+That's good, but what does this have
+to do with the Wraith stopping the experiments?
+
+434
+00:30:00,591 --> 00:30:04,303
+因为, 通过将哪怕是很小一部分的
+幽灵DNA组合到人类的DNA当中
+Because, by combining even small
+amounts of Wraith DNA with humans,
+
+435
+00:30:04,303 --> 00:30:07,682
+那个科学家赋予了人类幽灵的精神能力
+the scientist was giving the
+humans Wraith mental abilities.
+
+436
+00:30:07,723 --> 00:30:11,143
+他那些试验的受实验者
+能够听到幽灵的通信
+The subjects of his experiments were
+able to hear the Wraith communications.
+
+437
+00:30:12,728 --> 00:30:15,565
+Teyla所讲述的故事中,
+那些人们所听到的声音就是...
+In the stories that Teyla told,
+the voices that the people heard were...
+
+438
+00:30:15,565 --> 00:30:17,692
+是幽灵, 其实
+were Wraith. Exactly.
+
+439
+00:30:17,733 --> 00:30:19,277
+这很可能让他们发疯
+It must have driven them mad.
+
+440
+00:30:19,277 --> 00:30:23,823
+那个幽灵科学家找不到解决办法
+所以最终他放弃了
+The Wraith scientist couldn't find a
+way around it, so eventually he gave up.
+
+441
+00:30:23,865 --> 00:30:24,907
+我不理解
+I don't understand.
+
+442
+00:30:24,949 --> 00:30:26,993
+我是说, 他为什么又让他们回到人群当中呢?
+I mean, why let them back in
+the general population, then?
+
+443
+00:30:26,993 --> 00:30:32,248
+看起来他认为这样与普通人类
+杂种繁殖之后应该会削弱这种反应
+Well, it seems he thought that interbreeding
+with normal humans might dilute the effect.
+
+444
+00:30:32,290 --> 00:30:34,625
+当他认为这种想法错了的时候
+已经太迟了
+Before he realized he was wrong, it was too late.
+
+445
+00:30:34,625 --> 00:30:39,964
+当其它幽灵发现了他所做的一切之后
+它们那个星球上的所有人一扫而光
+When the other Wraith did find out what he had
+done, they wiped out all the people on the planet...
+
+446
+00:30:42,175 --> 00:30:46,470
+不过这是在一些受实验者被放逐以及
+被迫离开之后
+but not before several of the test subjects had
+already been ostracized and forced to leave.
+
+447
+00:30:46,470 --> 00:30:48,389
+好吧, 这对我们有什么帮助?
+Okay, so how does this help us?
+
+448
+00:30:48,431 --> 00:30:51,559
+Teyla可能不仅仅只有可以感觉到
+幽灵即将到来的能力
+Teyla may have more than just
+the ability to sense the Wraith coming.
+
+449
+00:30:53,269 --> 00:30:55,062
+你是说你认为Teyla可能可以...
+You're saying you think Teyla might be able to...
+
+450
+00:30:55,479 --> 00:30:58,316
+接入到幽灵的精神网络?
+tap into this Wraith psychic network?
+
+451
+00:30:58,357 --> 00:31:03,029
+如果她可以的话, 我们就能够收集到
+所有我们需要的关于它们的内部信息
+If she can, we'll be able to gather
+all the intel we ever needed about them.
+
+452
+00:31:10,661 --> 00:31:14,457
+我以前从来没有听到过幽灵的思考
+I have never been able to hear
+the thoughts of the Wraith before.
+
+453
+00:31:14,498 --> 00:31:18,669
+根据笔记的记载, 所有的被赋予幽灵DNA的
+受测试者, 都有这个能力
+According to the notes, all the test subjects
+who were given the Wraith DNA, they had the ability.
+
+454
+00:31:18,669 --> 00:31:21,339
+可能是因为你以前从来没有尝试过
+It's possible it's because
+you've never actually tried before.
+
+455
+00:31:21,339 --> 00:31:25,510
+你不知道你可以读取幽灵的心灵,
+而且很坦白的说, 谁曾想过?
+You didn't know you could read Wraith
+minds, and quite frankly, who would want to?
+
+456
+00:31:28,804 --> 00:31:31,974
+听着, Teyla, 如果我认为这不会给我们
+带来一些潜在的重要的信息的话
+Look, Teyla, I would not even
+consider asking you to do this
+
+457
+00:31:32,016 --> 00:31:35,728
+我不会要求你这样做的
+if I didn't think it could potentially
+provide us with some vital information.
+
+458
+00:31:35,770 --> 00:31:38,439
+我只是不知道我该怎么去做
+I just do not know what to do.
+
+459
+00:31:38,481 --> 00:31:40,816
+好吧, Heightmeyer医生有办法
+Well, Dr. Heightmeyer has a theory.
+
+460
+00:31:40,858 --> 00:31:44,529
+我认为有可能, 经过漫长的时间,
+经过很多代人之后
+I think it's possible that, over time,
+through several generations,
+
+461
+00:31:44,570 --> 00:31:49,033
+具有你这种能力的人
+已经建立起了一道心理上的防线
+people with your ability have developed a mental
+barrier to the thought projections of the Wraith.
+
+462
+00:31:49,075 --> 00:31:51,410
+某种自我保护机制
+Sort of a self-defense mechanism.
+
+463
+00:31:51,452 --> 00:31:52,745
+如果我们可以穿过那道...
+If we can get past that...
+
+464
+00:31:52,787 --> 00:31:53,704
+怎样穿过?
+How?
+
+465
+00:31:53,746 --> 00:31:56,332
+我们有一种被称作催眠的治疗方法
+We have a treatment process called hypnosis.
+
+466
+00:31:56,374 --> 00:31:58,668
+Heightmeyer可以引导你穿过它
+Dr. Heightmeyer can lead you through it,
+
+467
+00:31:58,709 --> 00:32:02,922
+而且Beckett博士将会一直守在旁边
+监视你的身体状况
+and Dr. Beckett will remain on hand
+at all times to monitor your physiology.
+
+468
+00:32:03,047 --> 00:32:06,217
+幽灵仍然还在非常远的地方, 是不是?
+The Wraith are still very far away, are they not?
+
+469
+00:32:06,259 --> 00:32:10,137
+是的, 而且McKay, 他确实也对心灵感应的范围
+有一些疑虑
+Yes, they are, and McKay, he does have
+some doubts about the range of this telepathy.
+
+470
+00:32:10,179 --> 00:32:13,099
+不过如你所说的
+你现在已经可以感觉到幽灵了
+But as you've said, you can sense the Wraith now.
+
+471
+00:32:13,099 --> 00:32:17,812
+如果这可以激发你意识中
+一个更大的潜能的话
+If that's merely a bleed-through effect
+into your consciousness of a greater latent ability,
+
+472
+00:32:17,854 --> 00:32:20,314
+那么就值得去打破这道心理防线
+then it may be worth trying to break the barrier.
+
+473
+00:32:20,356 --> 00:32:26,404
+非常诚实的讲, 如果是在其它情况下
+我是不会推荐这样做的
+To be perfectly honest, it's not something I would
+ever recommend doing under any other circumstances.
+
+474
+00:32:26,445 --> 00:32:31,158
+不过现在已经远不是平常的情况了, Teyla
+But these are far from normal
+circumstances that we're in, Teyla.
+
+475
+00:32:31,200 --> 00:32:33,786
+如果我确实可以为我们提供一些东西...
+If I can somehow provide us with something...
+
+476
+00:32:33,828 --> 00:32:36,539
+它们的战略, 某个弱点...
+their strategy, a weakness...
+
+477
+00:32:36,581 --> 00:32:39,792
+我看我别无选择
+I see no other choice.
+
+478
+00:32:47,091 --> 00:32:49,010
+好了, 我认为已经准备好了
+Okay, I think we're ready.
+
+479
+00:32:49,302 --> 00:32:50,845
+好了么?
+Are you?
+
+480
+00:32:51,679 --> 00:32:54,307
+OK, 我现在要你呼吸...
+Okay, I want you to breathe...
+
+481
+00:32:54,599 --> 00:32:57,059
+完全的, 深深的呼吸, 并且尽量的放松
+nice and deeply, and try to relax.
+
+482
+00:32:57,101 --> 00:32:59,896
+Beckett博士准备注射一计轻度的镇静剂
+Dr. Beckett's going to administer a mild sedative.
+
+483
+00:32:59,937 --> 00:33:03,149
+如果这奏效的话
+我们应该还可以彼此间对话
+Now, if this works, we should still be able
+to communicate with each other.
+
+484
+00:33:03,191 --> 00:33:07,653
+记住, 我们任何时候都可以
+使用一个非常低等级的电流来唤醒你
+Remember, we can wake you at any time,
+using a very low-grade electrical current.
+
+485
+00:33:07,695 --> 00:33:09,488
+这不会造成任何伤害的
+It won't hurt at all.
+
+486
+00:33:09,530 --> 00:33:12,241
+如果想停止, 就说"out", 我们马上就会停下来
+Just say, "out", and we'll end it.
+
+487
+00:33:13,284 --> 00:33:16,454
+现在, 在我说话的时候注视这个灯光
+Now, focus on this light as I speak.
+
+488
+00:33:17,288 --> 00:33:22,460
+你跟我说过, 你从幽灵那里得到的就是
+来自于身体内部的寒冷, 黑暗的感觉
+You told me that the feeling that you get
+from the Wraith is a cold, dark feeling deep inside you.
+
+489
+00:33:22,502 --> 00:33:24,754
+我要你想着这个感觉
+I want you to think about that.
+
+490
+00:33:24,837 --> 00:33:27,465
+在你的头脑中寻找这个感觉
+Look for it in your mind.
+
+491
+00:33:27,507 --> 00:33:30,301
+现在,  闭上眼睛, 仔细聆听
+Now, close your eyes and listen to it.
+
+492
+00:33:30,343 --> 00:33:32,178
+不要抵抗
+Don't resist.
+
+493
+00:33:32,553 --> 00:33:35,306
+顺其自然
+Go to that place where it lives.
+
+494
+00:33:43,397 --> 00:33:45,233
+你听到了什么?
+What do you hear?
+
+495
+00:33:47,818 --> 00:33:49,695
+什么也没有
+Nothing.
+
+496
+00:33:51,697 --> 00:33:54,325
+你跟我说过你的父亲被幽灵掠走
+You told me that your father was taken by the Wraith.
+
+497
+00:33:54,367 --> 00:33:57,036
+你还记不记得自那以后的感觉?
+Do you remember sensing it that day?
+
+498
+00:33:57,286 --> 00:33:58,329
+是的
+Yes.
+
+499
+00:33:58,663 --> 00:34:01,082
+后头想想那种感觉
+Think back to that feeling.
+
+500
+00:34:01,582 --> 00:34:04,001
+现在仔细听
+Now listen.
+
+501
+00:34:04,919 --> 00:34:07,004
+你听到了什么?
+What do you hear?
+
+502
+00:34:07,755 --> 00:34:09,257
+噪声
+Noise.
+
+503
+00:34:09,590 --> 00:34:12,802
+说话声, 很多说话声, 窃窃私语
+Voices, so many voices, whispering.
+
+504
+00:34:12,844 --> 00:34:14,178
+靠近些去听
+Listen closely.
+
+505
+00:34:14,220 --> 00:34:17,139
+听一个声音
+Listen for one.
+
+506
+00:34:19,725 --> 00:34:21,060
+我可以看到了
+I can see.
+
+507
+00:34:21,060 --> 00:34:22,228
+告诉我们你看到了什么, Teyla
+Tell us what you see, Teyla.
+
+508
+00:34:22,270 --> 00:34:24,438
+我在一艘飞船上
+I am on a ship.
+
+509
+00:34:26,023 --> 00:34:27,149
+我在走路
+I am walking.
+
+510
+00:34:27,191 --> 00:34:28,860
+她真的看到了正在发生的事情?
+She can actually see what's happening?
+
+511
+00:34:28,901 --> 00:34:32,238
+如果幽灵可以发射出他们的思维,
+那么那就可以包括它们所看到的东西
+If the Wraith can project their thoughts,
+then that may include what they're seeing.
+
+512
+00:34:32,280 --> 00:34:34,574
+有其它幽灵
+There are other Wraith.
+
+513
+00:34:34,615 --> 00:34:37,410
+它们没有注意到我
+They do not notice me.
+
+514
+00:34:37,451 --> 00:34:42,957
+我在一个房间中, 四周贮藏满了人
+以便它们取食
+I am in a room full of people being preserved
+so that they can be fed upon.
+
+515
+00:34:47,712 --> 00:34:50,006
+我正在取食
+I am feeding.
+
+516
+00:34:50,006 --> 00:34:51,841
+我正在杀死他
+I am killing him.
+
+517
+00:34:51,883 --> 00:34:54,510
+停止. Beckett, 停止
+Stop. Beckett, stop.
+
+518
+00:34:55,386 --> 00:34:56,888
+没事了
+It's okay.
+
+519
+00:34:56,888 --> 00:34:59,432
+没事了, 你在这里, 在亚特兰蒂斯
+It's okay. You're here, in Atlantis.
+
+520
+00:34:59,557 --> 00:35:01,100
+Teyla, 我...
+Teyla, I...
+
+521
+00:35:01,684 --> 00:35:05,980
+我没有权利要求你这样做
+I had no right to ask you to do this.
+
+522
+00:35:07,273 --> 00:35:08,232
+把这些东西从我身上拿开
+Get these things off of me.
+
+523
+00:35:08,274 --> 00:35:09,317
+好的, 平静下来, Teyla.
+All right, settle down, Teyla.
+
+524
+00:35:09,358 --> 00:35:10,902
+我会把这个拿掉
+I have to take this off.
+
+525
+00:35:10,902 --> 00:35:12,320
+我不能让她做这些, John.
+I can't put her through this, John.
+
+526
+00:35:12,403 --> 00:35:14,363
+我知道这是我的主意, 不过它的代价太大
+I know it was my idea, but it's too much to ask.
+
+527
+00:35:14,405 --> 00:35:16,490
+当幽灵的母船出现的时候
+你可能就会是另外一种想法
+You might feel differently once the hive ships show up.
+
+528
+00:35:16,490 --> 00:35:18,159
+Weir博士
+Dr. Weir.
+
+529
+00:35:18,326 --> 00:35:19,785
+你为什么让他们停下来?
+Why did you make them stop?
+
+530
+00:35:19,827 --> 00:35:20,912
+对不起?
+Excuse me?
+
+531
+00:35:20,912 --> 00:35:23,497
+我正在前往这里的一艘母船上
+I was on one of the hive ships that is headed here.
+
+532
+00:35:23,539 --> 00:35:25,041
+我可以听到他们
+I could hear them.
+
+533
+00:35:25,082 --> 00:35:26,167
+我可以看到
+I could see.
+
+534
+00:35:26,167 --> 00:35:27,251
+这是有效的
+It was working.
+
+535
+00:35:27,251 --> 00:35:29,253
+你看到它们正在取食
+You were watching them feed.
+
+536
+00:35:29,295 --> 00:35:30,838
+是的
+Yes.
+
+537
+00:35:30,880 --> 00:35:32,757
+我确实感觉到它们当中有一个正在取食
+I actually felt one of them feed,
+
+538
+00:35:32,798 --> 00:35:34,342
+不过我可以承受
+but I can handle it.
+
+539
+00:35:34,383 --> 00:35:35,927
+你可以帮助我们, 我知道
+I can help us, I know it.
+
+540
+00:35:35,968 --> 00:35:36,928
+Teyla, 我不会再...
+Teyla, I never should've...
+
+541
+00:35:36,969 --> 00:35:41,474
+我要再试一次
+I am going to try again.
+
+542
+00:35:50,191 --> 00:35:53,194
+我正走过飞船
+I am walking through the ship.
+
+543
+00:35:56,948 --> 00:36:00,535
+我在某个控制室中
+I am in some sort of control room.
+
+544
+00:36:17,760 --> 00:36:22,265
+你们都是如此的可怜
+You are all so pathetic.
+
+545
+00:36:22,306 --> 00:36:25,434
+我觉得这不是Teyla在说话
+Something tells me that's not Teyla talking.
+
+546
+00:36:25,476 --> 00:36:27,520
+没有什么可以阻止我们
+Nothing can stop us.
+
+547
+00:36:27,562 --> 00:36:29,772
+唤醒她
+Wake her up.
+
+548
+00:36:31,774 --> 00:36:33,401
+你们都将去死
+You are all going to die.
+
+549
+00:36:33,401 --> 00:36:34,777
+马上!
+Now!
+
+550
+00:36:45,162 --> 00:36:47,790
+发生什么了?
+What happened?
+
+551
+00:36:51,460 --> 00:36:54,213
+Beckett已经给她服用了镇静剂
+她现在正在休息
+Dr. Beckett has her sedated,
+and she's resting comfortably.
+
+552
+00:36:54,255 --> 00:36:57,758
+她看起来没事, 不过我需要一些时间
+来了解她看到了什么
+She seems fine, but I would like some time
+to let what she's been through sink in.
+
+553
+00:36:57,758 --> 00:36:59,260
+她可能是受到了惊吓
+She may still be in shock.
+
+554
+00:36:59,302 --> 00:37:02,305
+我不知道会不会有长期的心理影响
+I have no idea what
+the long-term psychological effect will be.
+
+555
+00:37:02,305 --> 00:37:05,892
+她说她可以看到某种控制室...
+也许一张地图, 一份攻击计划
+She said she could see some type
+of control room... maybe a map, an attack plan.
+
+556
+00:37:05,933 --> 00:37:08,019
+她需要更仔细的看一下
+She just needs to get a better look.
+
+557
+00:37:08,060 --> 00:37:09,270
+John, 你当时在那里
+John, you were there.
+
+558
+00:37:09,312 --> 00:37:13,482
+一个幽灵控制了她
+A Wraith had control of her.
+
+559
+00:37:16,652 --> 00:37:19,947
+有虫洞连接进来
+Incoming wormhole.
+
+560
+00:37:24,911 --> 00:37:26,704
+我们收到了Bates上士的身份识别码
+We're getting sergeant Bates' I.D.C.
+
+561
+00:37:26,704 --> 00:37:27,622
+是阿尔法站点
+It's the alpha site.
+
+562
+00:37:27,663 --> 00:37:28,789
+我是Bates上士
+This is sergeant Bates.
+
+563
+00:37:28,831 --> 00:37:30,833
+红色代码 我们正受到攻击, 正急速赶来!
+Code red. We're under attack and coming in hot!
+
+564
+00:37:30,875 --> 00:37:33,544
+放下防护盾
+Lower the shield.
+
+565
+00:37:42,345 --> 00:37:44,514
+快, 快!
+Move it, move it!
+
+566
+00:37:46,057 --> 00:37:46,891
+好了, 我们都到了
+That's it, we're clear.
+
+567
+00:37:46,933 --> 00:37:49,310
+升起防护盾!
+Raise the shield!
+
+568
+00:37:51,771 --> 00:37:53,689
+所有人都还好吧?
+Is everybody okay?
+
+569
+00:37:53,981 --> 00:37:56,609
+所有回来人员报道
+All off-world personnel accounted for.
+
+570
+00:37:56,817 --> 00:37:59,111
+我想那个星球已经不再安全了
+I guess that planet isn't safe anymore.
+
+571
+00:37:59,111 --> 00:38:00,279
+它们坐飞船出现在那里
+They showed up by ship,
+
+572
+00:38:00,321 --> 00:38:02,865
+在我们准备离开的时候
+在星际之门的旁边丢下某种设备
+and dropped some sort of device
+by the Gate as we were leaving.
+
+573
+00:38:02,907 --> 00:38:04,659
+我以前见过
+I've seen it before.
+
+574
+00:38:04,659 --> 00:38:05,868
+它们在标记那个星球
+They're tagging the planet.
+
+575
+00:38:05,910 --> 00:38:07,537
+如我我们要从亚特兰蒂斯撤退
+我们需要另外选一个地方
+If we're going to evacuate Atlantis,
+we're going to need a new place to go.
+
+576
+00:38:07,578 --> 00:38:09,080
+那个星球应该无人居住
+That planet was supposed to be uninhabited.
+
+577
+00:38:09,121 --> 00:38:10,081
+幽灵过去想要什么?
+What did the Wraith want with it?
+
+578
+00:38:10,122 --> 00:38:10,998
+我不知道
+I don't know.
+
+579
+00:38:10,998 --> 00:38:14,627
+看起来它们好像知道我们在那里
+It's almost like they knew we were there.
+
+580
+00:38:19,131 --> 00:38:22,468
+我已经接近了, 我已经很近了
+I was close. I was so close.
+
+581
+00:38:22,510 --> 00:38:24,595
+我认为如果我还有一次机会...
+I really think if I had another chance...
+
+582
+00:38:24,595 --> 00:38:26,722
+嗨, 你没有必要向这里的每个人
+证明所有事情
+hey, you don't have to prove
+anything to anyone around here.
+
+583
+00:38:26,722 --> 00:38:28,766
+我认为这可以带来一些改变
+I think this could make a difference.
+
+584
+00:38:28,766 --> 00:38:30,142
+我看到一个全息图
+I saw a hologram.
+
+585
+00:38:30,184 --> 00:38:31,477
+我想那是一幅地图
+I think it was a map,
+
+586
+00:38:31,519 --> 00:38:32,895
+甚至可能是一个作战计划
+maybe even a battle plan.
+
+587
+00:38:32,937 --> 00:38:34,438
+我们知道它们的作战计划
+We know their battle plan.
+
+588
+00:38:34,522 --> 00:38:35,898
+它们要来把我们清除掉
+They're coming to wipe us out.
+
+589
+00:38:35,898 --> 00:38:38,150
+我不是十分肯定这是真的
+I'm not so sure that is true.
+
+590
+00:38:38,192 --> 00:38:39,402
+它们需要从我们这里得到一些东西
+They want something from us.
+
+591
+00:38:39,443 --> 00:38:41,320
+是的, 是的, 他们想吃掉我们
+Yeah. Yeah, they want to eat us.
+
+592
+00:38:41,362 --> 00:38:43,030
+不, 不仅仅是这些
+No, something more.
+
+593
+00:38:43,072 --> 00:38:44,824
+它们在孤注一掷
+They are desperate.
+
+594
+00:38:44,866 --> 00:38:45,449
+真的么?
+Really?
+
+595
+00:38:45,491 --> 00:38:47,994
+是的, 很令人惊奇
+Yes, it is surprising.
+
+596
+00:38:48,035 --> 00:38:53,624
+它们对征服我们非常有信心,
+不过这主要是因为它们的数量非常之多...
+They are confident in their dominance over us,
+but mainly because there are so many of them...
+
+597
+00:38:53,666 --> 00:38:56,043
+太多了以至于无法维持很长的时间
+too many to sustain for long.
+
+598
+00:38:56,085 --> 00:39:00,798
+它们都过早的醒来,
+而四周没有足够的食物
+They have all awakened early,
+and there is not enough food to go around.
+
+599
+00:39:00,798 --> 00:39:02,049
+这只是一种感觉
+It was just a feeling.
+
+600
+00:39:02,091 --> 00:39:05,386
+那种声音很难分离出来
+The voices were so hard to separate.
+
+601
+00:39:05,428 --> 00:39:07,555
+你记不起来其中一个通过你所说的话?
+You don't remember one of them speaking through you?
+
+602
+00:39:07,597 --> 00:39:12,268
+不, 不过我记得在这以前的感受
+No, but I remember the feeling just before it happened.
+
+603
+00:39:12,268 --> 00:39:12,852
+下一次...
+Next time...
+
+604
+00:39:12,894 --> 00:39:17,565
+我想 Weir 博士不会允许再进行一次了
+I don't think Dr. Weir will let there be a next time.
+
+605
+00:39:21,777 --> 00:39:26,824
+如果你说的是真的, 那么就有可能是
+Teyla将我们的阿尔法站点的位置告诉给了幽灵
+if what you're saying is true, then chances are
+it was Teyla who gave away the location
+of our alpha site to the Wraith.
+
+606
+00:39:26,866 --> 00:39:27,992
+我认为没有足够的时间
+I don't think there was time.
+
+607
+00:39:27,992 --> 00:39:30,119
+你不知道它们在那个区域没有飞船
+You don't know that they didn't
+have a ship in the general area.
+
+608
+00:39:30,161 --> 00:39:34,582
+我同意, 现在回想起来, 要求Teyla
+连接到幽灵, 这可能是一个错误
+Look, I admit, in retrospect, asking Teyla
+to connect with the Wraith, it may have been a mistake.
+
+609
+00:39:34,624 --> 00:39:37,251
+很客气地说, 我认为这是毋庸置疑的
+With all due respect,
+I don't think there's much doubt about that.
+
+610
+00:39:37,293 --> 00:39:38,503
+放松一下, 上士
+Take it easy, sergeant.
+
+611
+00:39:38,544 --> 00:39:41,714
+她并不是有意想透漏我们的位置
+It's not like she willfully gave away our position.
+
+612
+00:39:41,964 --> 00:39:44,467
+她想再试一次
+She wants to try again.
+
+613
+00:39:45,051 --> 00:39:48,846
+她说她已经接近某个非常重要的东西
+某件她可以说服我们去了解的东西
+Look, she says she was getting close to something big,
+something she's convinced we need to know.
+
+614
+00:39:48,888 --> 00:39:49,931
+不行, 我很抱歉
+No. I'm sorry.
+
+615
+00:39:49,931 --> 00:39:52,975
+问题是, 我不敢保证Teyla所想的
+是对她最有利的
+The problem is, I'm not sure Teyla's thinking
+about what's best for herself.
+
+616
+00:39:53,017 --> 00:39:54,936
+同时她可能更加威胁我们的安全
+Or that she could compromise us further.
+
+617
+00:39:54,936 --> 00:39:58,189
+从这一点来说, 相比它们了解我们的
+我们需要从幽灵那里了解更多
+At this point, we have more to gain
+from the Wraith than they do from us.
+
+618
+00:39:58,231 --> 00:39:59,607
+她想要去做
+She wants to do it.
+
+619
+00:39:59,649 --> 00:40:06,989
+事实是, 我们没有什么可以阻止她去尝试
+所以如果我们都在那里是不是更好?
+Fact is, there may not be anything we can do to stop her
+from trying, so isn't it better if we're all there?
+
+620
+00:40:11,536 --> 00:40:12,954
+好吧
+Okay.
+
+621
+00:40:13,329 --> 00:40:18,960
+闭上你的眼睛, 放松, 聆听那些声音
+Close your eyes and relax, and listen for the voices.
+
+622
+00:40:37,311 --> 00:40:39,689
+Teyla?
+Teyla?
+
+623
+00:40:39,939 --> 00:40:41,941
+终端连接
+Break the connection.
+
+624
+00:40:41,983 --> 00:40:42,775
+没有作用
+It's not working.
+
+625
+00:40:42,817 --> 00:40:43,693
+不要!
+No!
+
+626
+00:40:43,776 --> 00:40:45,361
+Teyla!
+Teyla!
+
+627
+00:41:24,358 --> 00:41:27,236
+我只能希望, 我们没有给她造成心理损害
+I can only hope we haven't
+caused her psychological damage.
+
+628
+00:41:27,236 --> 00:41:28,988
+Teyla是我所认识的最强健的人之一
+Teyla's one of the strongest people I know.
+
+629
+00:41:29,030 --> 00:41:33,451
+事实上她可以在以前走过的日子中
+很好的处理这些...
+The fact that she's been able to hold it together
+until now after what she's been through in her life...
+
+630
+00:41:33,492 --> 00:41:34,619
+你们在这里
+now, there you are.
+
+631
+00:41:34,660 --> 00:41:36,704
+少校, Weir博士
+Major, Dr. Weir.
+
+632
+00:41:36,996 --> 00:41:38,581
+Carson, 你感觉怎么样?
+Carson, how are you feeling?
+
+633
+00:41:38,623 --> 00:41:41,125
+有些头疼, 不过我没事
+Doozy of a headache, but I'll be fine.
+
+634
+00:41:41,167 --> 00:41:41,959
+Teyla醒了
+Teyla's awake.
+
+635
+00:41:42,001 --> 00:41:46,088
+她想见你们两个
+She wants to see both of you.
+
+636
+00:41:50,092 --> 00:41:52,178
+Teyla, 你口渴么? 我可以给你倒些水么?
+Teyla, are you thirsty? Can I get you some water?
+
+637
+00:41:52,220 --> 00:41:52,929
+不用
+No.
+
+638
+00:41:54,138 --> 00:41:56,015
+我很抱歉
+I am so sorry.
+
+639
+00:41:56,057 --> 00:41:57,308
+我本以为我可以阻止...
+I really thought I could prevent...
+
+640
+00:41:57,350 --> 00:41:59,727
+没事, 所有人都还好
+it's all right. Everyone's fine.
+
+641
+00:41:59,727 --> 00:42:03,189
+我们所关注的是幽灵可以任意连接你
+We are concerned that the Wraith
+can connect to you at will, though.
+
+642
+00:42:03,231 --> 00:42:05,399
+这以前从来没有发生过?
+It has never happened before?
+
+643
+00:42:05,441 --> 00:42:10,154
+不, 我肯定我必须首先连接到他们
+No, I am sure I have to connect with them first.
+
+644
+00:42:10,279 --> 00:42:12,490
+我看到了它们的计划,
+I saw their plans,
+
+645
+00:42:12,698 --> 00:42:14,992
+它们的飞船来到这里的路线
+the route their ships are taking to get here.
+
+646
+00:42:15,034 --> 00:42:16,118
+很好
+That's good.
+
+647
+00:42:16,118 --> 00:42:17,328
+还有
+There's more.
+
+648
+00:42:17,370 --> 00:42:20,206
+它们想要的不仅仅是亚特兰蒂斯
+They do not just want Atlantis.
+
+649
+00:42:20,581 --> 00:42:22,458
+它们了解你们
+They know about you.
+
+650
+00:42:22,500 --> 00:42:23,584
+什么意思?
+What do you mean?
+
+651
+00:42:23,626 --> 00:42:25,169
+Sumner
+Sumner.
+
+652
+00:42:25,545 --> 00:42:27,672
+那个母幽灵并不仅仅是取食他
+The female Wraith wasn't just feeding on him.
+
+653
+00:42:27,713 --> 00:42:29,298
+她在审问他
+She was interrogating him.
+
+654
+00:42:29,298 --> 00:42:31,926
+这就是为什么它们全部都醒来
+That is why they're all waking up.
+
+655
+00:42:31,968 --> 00:42:34,303
+这就是为什么它们要来这里
+That is why they are coming here.
+
+656
+00:42:34,345 --> 00:42:40,268
+它们知道亚特兰蒂斯是唯一通往
+一个全新的, 富饶的取食场的通道
+They know that Atlantis is the only way to get
+to a new, rich feeding ground.
+
+657
+00:42:41,561 --> 00:42:44,272
+地球
+
+
+Earth.
+

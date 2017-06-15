@@ -1,0 +1,3615 @@
+1
+00:00:00,800 --> 00:00:15,000
+{\an8}本字幕由 {\c&H26F4FF&}ShinY {\c&HFFAE1A&}深影字幕组{\c&HFFFFFF&} 原创翻译制作
+
+2
+00:00:01,600 --> 00:00:15,000
+{\an8}深影字幕组论坛地址 {\c&H26F4FF&}http://shinybbs.com
+
+3
+00:00:15,800 --> 00:00:25,500
+{\an8}{\c&H26F4FF&}翻译： {\c&HFFFFFF&}苦手 吹风   {\c&H26F4FF&}时间轴： {\c&HFFFFFF&}糖醋栗
+
+4
+00:00:25,800 --> 00:00:35,500
+{\an8}{\c&H26F4FF&}校对： {\c&HFFFFFF&}锁链   {\c&H26F4FF&}后期： {\c&HFFFFFF&}小安
+
+1
+00:00:02,127 --> 00:00:03,921
+混乱之子前情提要
+Previously on Sons of Anarchy:
+
+2
+00:00:03,921 --> 00:00:06,190
+这个是从亚伯的图画本里掉出来的
+This fell out of one of Abel's coloring books.
+
+3
+00:00:06,200 --> 00:00:08,404
+他肯定是在贾克斯家里找到的
+He must have found it in Jax's house.
+
+4
+00:00:08,425 --> 00:00:10,300
+- 信? - 莫林・阿什比
+Letters? Maureen Ashby.
+
+5
+00:00:10,302 --> 00:00:12,111
+你觉得贾克斯读了? 
+And you think Jax read them? 
+
+6
+00:00:12,111 --> 00:00:14,044
+肯定是贾克斯或者塔拉找到的
+Had to be Jax or Tara who found them.
+
+7
+00:00:14,098 --> 00:00:16,224
+克雷 贾克斯 罗密欧・帕拉达
+Clay, Jax, Romero Parada.
+
+8
+00:00:16,225 --> 00:00:19,054
+- 朋友们叫我罗密欧 - 每扎有两打
+- Friends call me Romeo. - Got two dozen of each load.
+
+9
+00:00:19,056 --> 00:00:21,703
+70万是付给你现有的货的
+That's 700 for your current stock.
+
+10
+00:00:21,730 --> 00:00:24,270
+大概够一半外加你的运费
+It should cover half plus your transport payment.
+
+11
+00:00:24,274 --> 00:00:27,318
+我准备好毒品等你回去时带走
+I'll have the coke ready for you for the run back.
+
+12
+00:00:27,528 --> 00:00:31,110
+你忘了告诉我我们要为盖林度集团运毒了?
+You forgot to mention we'd be running coke for the Galindo Cartel?
+
+13
+00:00:31,111 --> 00:00:33,117
+我们投票是决定卖枪给他们
+We voted in selling them guns.
+
+14
+00:00:33,117 --> 00:00:34,697
+我们会再投一次票的
+We'll have another vote.
+
+15
+00:00:34,700 --> 00:00:37,492
+我要你支持我 这样才能通过
+I want you to back me. It's the only way this passes.
+
+16
+00:00:37,496 --> 00:00:39,785
+如果我帮你 那你移交帮派时
+If I do this, when you hand over the club
+
+17
+00:00:39,785 --> 00:00:43,334
+你得尽量让奥佩当主席 就这个条件
+you push for president's patch to go to Opie. That's the deal.
+
+18
+00:00:43,344 --> 00:00:45,189
+我退出换你的毒品
+My out for your drugs.
+
+19
+00:00:45,462 --> 00:00:46,905
+你们闻到烟味了?
+You smell smoke?
+
+20
+00:00:49,383 --> 00:00:53,441
+你逼我的 我强烈建议你别再这么做
+You pushed me to this, and I strongly suggest you don't do it again.
+
+21
+00:00:53,554 --> 00:00:54,962
+我有些好消息
+I have some good news.
+
+22
+00:00:54,972 --> 00:00:56,472
+我们订婚了
+We're engaged.
+
+23
+00:01:04,189 --> 00:01:07,942
+现在鲍比 派尼 祖斯反对
+We got Bobby, Piney, Juice opposed.
+
+24
+00:01:08,485 --> 00:01:09,979
+其他人怎么说?
+Where we at with the rest?
+
+25
+00:01:09,987 --> 00:01:11,171
+奇博斯知道我们需要这个
+Chibs knows we need this 
+
+26
+00:01:11,172 --> 00:01:12,737
+来达成对爱尔兰共和军的承诺
+to fill our Irish commitment.
+
+27
+00:01:12,740 --> 00:01:13,990
+他会支持我们
+He'll go our way.
+
+28
+00:01:13,991 --> 00:01:15,526
+蒂格和爽哥也是
+Tig and Happy too.
+
+29
+00:01:15,534 --> 00:01:16,909
+还得要一票
+Still need one more.
+
+30
+00:01:17,077 --> 00:01:20,204
+柯茨克? 戒过毒 我估计他会反对
+Kozik? Ex-junkie. I'm thinking he's a no.
+
+31
+00:01:21,081 --> 00:01:23,583
+- 我们能争取到奥佩? - 有可能
+- We any closer with Ope? - A little.
+
+32
+00:01:23,792 --> 00:01:26,402
+他明白集团这单快递送货的好处 
+He saw the benefit of having the cartel on speed-dial, 
+
+33
+00:01:26,403 --> 00:01:27,795
+但他还没完全同意
+but he's not there yet.
+
+34
+00:01:29,214 --> 00:01:31,174
+那你就得推他一把
+Well, you need to get him there now.
+
+35
+00:01:31,175 --> 00:01:32,413
+奥佩能为我们争取到迈尔斯
+Ope gives us Miles,
+
+36
+00:01:32,414 --> 00:01:33,542
+那样就是多数票了
+ that gets us the majority.
+
+37
+00:01:33,552 --> 00:01:35,171
+你还得去做做鲍比工作
+And you need to work on Bobby.
+
+38
+00:01:35,179 --> 00:01:37,764
+太难了 别想阻止他散播负面情绪了
+Very least, stop him from spreading woe.
+
+39
+00:01:39,391 --> 00:01:40,992
+- 你用那个? - 是啊
+- You using that? - Yeah.
+
+40
+00:01:41,059 --> 00:01:42,351
+那是亚伯用旧的
+It's Abel's old one.
+
+41
+00:01:42,561 --> 00:01:44,748
+那个不行了 买个新的
+It's a piece of shit. Buy a new one.
+
+42
+00:01:44,758 --> 00:01:46,397
+- 你确定? - 是啊
+- You sure? - Yeah.
+
+43
+00:01:46,607 --> 00:01:50,058
+我们应该把它存放好防止其中一个小子用的上
+We should put it in storage just in case one of the guys needs it.
+
+44
+00:01:50,068 --> 00:01:53,321
+好的 钥匙在垃圾抽屉里
+Okay. Key's in the junk drawer.
+
+45
+00:02:01,955 --> 00:02:03,331
+对不起
+Sorry.
+
+46
+00:02:03,499 --> 00:02:05,082
+没事
+It's okay.
+
+47
+00:02:05,250 --> 00:02:08,294
+我想谢谢你那晚上做的事
+I just wanted to thank you for the other night.
+
+48
+00:02:08,462 --> 00:02:10,796
+你在适当的时候分享了好消息 
+You sharing the news when you did.
+
+49
+00:02:10,797 --> 00:02:12,131
+那绝对是经典一招
+ That was a class act.
+
+50
+00:02:12,299 --> 00:02:14,759
+- 那确实帮了忙 - 没什么
+- It really helped. - Of course.
+
+51
+00:02:16,220 --> 00:02:19,013
+我很高兴你融入了这个大家庭
+I'm so happy you're joining this family.
+
+52
+00:02:19,181 --> 00:02:20,396
+你本来就是个很棒的妈妈
+You're already a great mom,
+
+53
+00:02:20,400 --> 00:02:22,927
+你还会成为一个很棒的妻子
+ you're gonna be a great old lady.
+
+54
+00:02:22,935 --> 00:02:24,560
+谢谢
+Thank you.
+
+55
+00:02:26,230 --> 00:02:30,960
+能够抚养贾克斯是我这辈子遇到的最好的事情
+Raising Jax was the best thing that ever happened to me.
+
+56
+00:02:31,109 --> 00:02:33,152
+我爱我的儿子
+I love my son
+
+57
+00:02:34,905 --> 00:02:37,573
+就像我爱他的老爸
+as much as I loved his old man.
+
+58
+00:02:51,421 --> 00:02:52,672
+嘿
+Hey.
+
+59
+00:02:53,173 --> 00:02:55,758
+- 我觉得他可能该换尿布了 - 哦
+- I think he might need a change. - Oh.
+
+60
+00:02:55,926 --> 00:02:59,406
+是吗? 你知道吗 这些其实是一次性的
+You think? You know, these are actually disposable.
+
+61
+00:02:59,407 --> 00:03:01,420
+只要脱下来 换个新的
+You just take them off, put a new one on.
+
+62
+00:03:01,420 --> 00:03:02,034
+真的? 
+Really? 
+
+63
+00:03:02,035 --> 00:03:05,265
+现在我真觉得带孩子这个事对你真不容易
+And here I thought this whole raising-kids thing was so hard on you.
+
+64
+00:03:05,265 --> 00:03:06,027
+哦 嚯 嚯
+Oh, ho, ho.
+
+65
+00:03:06,030 --> 00:03:10,481
+你再不走就得在孩子的尿里洗澡了
+You should just get out of here before you're swimming in baby piss.
+
+66
+00:03:11,567 --> 00:03:14,652
+- 我爱你 - 我也爱你
+- I love you. - I love you too.
+
+67
+00:03:14,820 --> 00:03:16,279
+嗨
+Hi.
+
+68
+00:03:18,615 --> 00:03:21,367
+- 再见 亲爱的 - 回头见
+- Bye, honey. - See you later.
+
+69
+00:03:28,000 --> 00:03:29,584
+嘿
+Hey.
+
+70
+00:03:29,751 --> 00:03:33,421
+你的医生朋友们怎么看这一切?
+What do your doctor friends think of all this?
+
+71
+00:03:33,797 --> 00:03:36,799
+一个好外科大夫去做一个黑社会孩子的母亲?
+The good surgeon being an outlaw baby mama?
+
+72
+00:03:36,800 --> 00:03:39,128
+我不清楚 我没问
+I don't know. I don't ask.
+
+73
+00:03:39,136 --> 00:03:42,096
+跟你一起被绑架的朋友玛格丽特呢?
+What about your kidnappy friend Margaret?
+
+74
+00:03:42,764 --> 00:03:46,689
+我知道她对我们的看法比较具体
+I know she's got some very specific opinions about us.
+
+75
+00:03:46,700 --> 00:03:49,645
+玛格丽特和我一起工作
+Margaret and I work together.
+
+76
+00:03:49,813 --> 00:03:51,743
+慢慢了解一些情况 
+Learned to navigate around the subject. 
+
+77
+00:03:51,744 --> 00:03:54,025
+啊 你就是这么处理的?
+Ah, is that how you deal with it?
+
+78
+00:03:54,192 --> 00:03:56,752
+假装它不存在? 围着它打转?
+Pretend it doesn't exist? Move around it?
+
+79
+00:03:56,820 --> 00:03:58,358
+我真没时间回答一个接一个的
+I don't have time for 20 
+
+80
+00:03:58,359 --> 00:04:00,715
+消极且带攻击性的问题伽玛 直奔主题吧
+Passive-Aggressive Questions, Gemma. Get to the point.
+
+81
+00:04:01,783 --> 00:04:02,825
+我问过了
+I did.
+
+82
+00:04:03,493 --> 00:04:06,537
+我没有欺骗别人我是谁或者跟谁在一起
+I don't lie about who I am or who I'm with
+
+83
+00:04:06,705 --> 00:04:08,774
+但我也不想把它当成很光荣的事 
+but I don't wear it like a badge of honor. 
+
+84
+00:04:08,777 --> 00:04:10,833
+你应该的
+Well, you should.
+
+85
+00:04:11,335 --> 00:04:13,502
+你争取到的
+You earned it.
+
+86
+00:04:13,670 --> 00:04:15,972
+我的个人关系不是为了给自己加分
+My relationship isn't about accruing points.
+
+87
+00:04:15,973 --> 00:04:18,657
+我不是在玩魔兽世界
+ I'm not playing "World of Warcraft."
+
+88
+00:04:18,675 --> 00:04:21,377
+哼嗯 我完全不知道那是什么意思 
+Hmm. I have no idea what that means. 
+
+89
+00:04:21,378 --> 00:04:23,179
+意思是我们想法不一样
+It means we think differently.
+
+90
+00:04:25,265 --> 00:04:26,307
+我得走了
+I gotta go.
+
+91
+00:04:27,517 --> 00:04:31,103
+哦 对了 马上要动手术了
+Oh, right. Back-to-back surgeries.
+
+92
+00:04:31,271 --> 00:04:37,860
+好吧 我就待这儿 住在大芝麻街
+All right, I'll just be here, living large on Sesame Street.
+
+93
+00:04:39,237 --> 00:04:40,821
+谢谢
+Thank you.
+
+94
+00:04:45,369 --> 00:04:46,869
+再见 妈妈
+Bye, Mom.
+
+95
+00:04:54,211 --> 00:04:57,106
+嘿 呆鸟 是你大便的?
+Hey, dickhead, you the one made pancakes?
+
+96
+00:04:57,110 --> 00:04:59,282
+- 是啊 - 打算弄干净吗?
+- Yeah. - Gonna clean your shit up?
+
+97
+00:04:59,282 --> 00:05:01,984
+- 现在? - 是的 立刻
+- Now? - Yeah. Now.
+
+98
+00:05:01,985 --> 00:05:04,478
+- 你以为让谁来? - 你妈妈和阿姨
+- Who you think's gonna do it? - Your mom and aunt.
+
+99
+00:05:04,496 --> 00:05:05,578
+不是你的佣人 
+Ain't your maids. 
+
+100
+00:05:05,579 --> 00:05:07,319
+我们得先把这些装起来
+We should load these first.
+
+101
+00:05:07,319 --> 00:05:09,558
+不 去 他最恨乱糟糟
+No, go. He hates messy.
+
+102
+00:05:11,770 --> 00:05:13,729
+死进去
+Get inside there.
+
+103
+00:05:20,570 --> 00:05:24,607
+哟 哥们 把那球扔回来好吗?
+Yo, Gomer. You wanna toss me that rock?
+
+104
+00:05:24,616 --> 00:05:26,942
+哟  金发帅哥 你大白天穿那么多?
+Yo, Buckwheat, wanna keep your shirt on?
+
+105
+00:05:30,956 --> 00:05:32,415
+谢谢
+Thanks.
+
+106
+00:05:36,820 --> 00:05:38,575
+- 嘿 玩球吗? - 今天不了 伙计
+- Hey, you ball? - Not today, man.
+
+107
+00:05:38,588 --> 00:05:41,800
+怎么了 冲浪小子 还害怕小小的街球?
+What's the matter, surfer dude, scared of a little 'hood ball?
+
+108
+00:05:41,800 --> 00:05:43,456
+来吧 10块1分
+Come on, 10 bucks a point.
+
+109
+00:05:43,457 --> 00:05:45,428
+闭嘴 婊子 你根本没钱
+Shut up, bitch. You ain't got no money.
+
+110
+00:05:45,595 --> 00:05:47,096
+扯淡
+Bullshit.
+
+111
+00:05:47,931 --> 00:05:49,265
+你有多少?
+How much you got?
+
+112
+00:05:49,433 --> 00:05:52,551
+大概 300块左右
+Like, 300 and something.
+
+113
+00:05:56,481 --> 00:05:58,441
+好的 我和你 黑娃
+All right, me and you, LeBrown.
+
+114
+00:05:58,441 --> 00:06:00,257
+一对一 赢的全拿走
+One on one, winner takes all.
+
+115
+00:06:00,257 --> 00:06:02,637
+见鬼 好 我的柠檬脑袋混球
+Shit, yeah, my lemon-headed sucker.
+
+116
+00:06:06,700 --> 00:06:09,660
+好 哦 看看这个
+Yeah. Oh, look at this.
+
+117
+00:06:25,135 --> 00:06:27,678
+看看我的欢乐的小侏儒们
+Look at my happy, little elves.
+
+118
+00:06:29,055 --> 00:06:31,300
+他们看来很不错 怎么装?
+They look great. How do they hold?
+
+119
+00:06:31,308 --> 00:06:33,717
+能装10到16支 要看枪的
+Hold between 10 and 16, depending on the gun.
+
+120
+00:06:33,727 --> 00:06:35,644
+重量跟车部件相似
+The weight matches the car parts.
+
+121
+00:06:35,645 --> 00:06:36,333
+不错 
+Beautiful. 
+
+122
+00:06:36,334 --> 00:06:38,981
+奇博斯从爱尔兰共和军那儿弄的规格
+Chibs got the specs from the Irish.
+
+123
+00:06:38,982 --> 00:06:40,733
+- 他去哪儿了? - 别问
+- Where is he? - Don't ask.
+
+124
+00:06:40,734 --> 00:06:42,485
+浴室 在搞定大便
+Bathroom, working shit out.
+
+125
+00:06:42,486 --> 00:06:44,837
+文艺点说 所有处理过的食物
+Literally. All that processed food.
+
+126
+00:06:46,823 --> 00:06:48,949
+见鬼 你还好吧 伙计?
+Shit, you all right, man?
+
+127
+00:06:49,743 --> 00:06:52,578
+有点不对劲 便宜的墨西哥食物
+Something didn't settle right. Cheap Mexican food.
+
+128
+00:06:52,579 --> 00:06:55,915
+看来杰克詹姆斯家的墨西哥卷不行
+Chasing burritos with Jack and James probably didn't help.
+
+129
+00:06:56,082 --> 00:06:57,779
+祖斯 你能帮我振作起来? 
+Juicy, you're gonna hit me up? 
+
+130
+00:06:57,780 --> 00:06:59,251
+绿茶和薄荷
+Green tea and a mint colonic.
+
+131
+00:06:59,252 --> 00:07:02,338
+- 一点草药混合物 - 停 停 停 停
+- A little herbal fusion. - Stop, stop, stop. Stop.
+
+132
+00:07:02,339 --> 00:07:04,470
+在我们了解所有人的选择之前 
+Before we clear anybody's passage, 
+
+133
+00:07:04,471 --> 00:07:06,001
+先把这些木板箱做好
+let's just get these crates built.
+
+134
+00:07:06,009 --> 00:07:08,469
+鲍比 你跟我一起 去瓦汉瓦
+Bobby, you're with me. Wahewa.
+
+135
+00:07:09,012 --> 00:07:10,679
+要我做什么?
+Why you need me?
+
+136
+00:07:10,847 --> 00:07:12,933
+- 因为我想你 - 要我一起吗?
+- Because I miss you. - You want me with?
+
+137
+00:07:12,939 --> 00:07:15,000
+不不 我们没事 在这儿帮忙
+No, no, we're good. Stay available.
+
+138
+00:07:15,018 --> 00:07:17,478
+也许还需要人装些弹药
+May need somebody to haul some ammo.
+
+139
+00:07:25,862 --> 00:07:26,904
+装吧 婊子
+D up, bitch.
+
+140
+00:07:27,280 --> 00:07:29,031
+别让他这么玩弄 拦住他
+Don't give him that lane. Stop that.
+
+141
+00:07:29,741 --> 00:07:31,158
+哦! 哦 老天!
+Oh! Oh, God!
+
+142
+00:07:31,326 --> 00:07:34,000
+# 回到头罩里变得很忙 说真的 #
+Back in the 'hood Getting busy, for sheezy
+
+143
+00:07:34,037 --> 00:07:36,914
+你要让他继续侮辱你吗? 加油 伙计
+You gonna let him shoot that shit over you? Come on, man.
+
+144
+00:07:37,541 --> 00:07:38,707
+18比12
+Eighteen-12.
+
+145
+00:07:39,084 --> 00:07:40,959
+该死 布鲁 这沙滩白大战黑人的状况 
+Damn, Brew, this beach-white nigga 
+
+146
+00:07:40,960 --> 00:07:42,170
+让你看起来像个傻逼
+got you looking like Cleveland.
+
+147
+00:07:42,170 --> 00:07:45,089
+- 哈 哈 哈 - 确实
+- Ha-ha-ha. - For real.
+
+148
+00:07:46,883 --> 00:07:48,717
+胡闹 伙计
+That's bullshit, man.
+
+149
+00:07:50,443 --> 00:07:52,555
+- 抢钥匙! - 快!
+- Get the keys! - Hurry up!
+
+150
+00:07:52,722 --> 00:07:54,223
+快跑! 走 走!
+Get the hell out of here! Go, go!
+
+151
+00:07:54,391 --> 00:07:56,375
+# 我要让你知道我的力量 #
+I'm gonna show you I got the power
+
+152
+00:07:56,393 --> 00:07:58,227
+你知道怎么开卡车吗?
+Do you even know how to drive a truck?
+
+153
+00:07:58,395 --> 00:08:00,604
+把你的屁股挪过围墙
+Get your ass over the fence.
+
+154
+00:08:01,815 --> 00:08:04,441
+# 我要让你看看谁是老大 #
+I'm gonna show you who's the boss
+
+155
+00:08:04,609 --> 00:08:06,902
+# 你会付出代价的 #
+You're gonna have to pay the cost
+
+156
+00:08:07,070 --> 00:08:08,404
+# 抓我的现行啊 #
+Catch me on the run
+
+157
+00:08:08,572 --> 00:08:09,655
+哦 见鬼
+Oh, shit.
+
+158
+00:08:09,823 --> 00:08:11,907
+# 戴上头罩什么都不容易 那是真的 #
+Ain't nothing come easy in the 'hood That's for sheezy
+
+159
+00:08:12,075 --> 00:08:14,368
+# 为了我的工作 #
+For my business
+
+160
+00:08:14,536 --> 00:08:16,954
+真操蛋!
+You got to be shitting me!
+
+161
+00:08:17,647 --> 00:08:23,294
+# 在这世间 独自穿行 #
+Riding through this world All alone
+
+162
+00:08:23,461 --> 00:08:28,841
+# 上帝带走你的灵魂 你独自一人 #
+God takes your soul You're on your own
+
+163
+00:08:29,676 --> 00:08:34,763
+# 乌鸦径直飞过 划出完美的线条 #
+The crow flies straight A perfect line
+
+164
+00:08:36,133 --> 00:08:40,603
+# 在恶魔的床上 奄奄一息 #
+On the devil's bed Until you die
+
+165
+00:08:43,023 --> 00:08:47,990
+# 此生如是 你必须直视 #
+Gotta look this life In the eye
+
+166
+00:08:49,048 --> 00:08:51,200
+混乱之子 第四季 第3集
+
+167
+00:08:56,211 --> 00:08:59,246
+罗密罗 "罗密欧" 帕拉达
+Romero "Romeo" Parada.
+
+168
+00:08:59,414 --> 00:09:02,000
+前墨西哥军队指挥官
+Ex-Mexican military commando
+
+169
+00:09:02,002 --> 00:09:04,001
+由乔斯・盖林度征募 
+enlisted by Jose Galindo 
+
+170
+00:09:04,002 --> 00:09:07,003
+掌管他的集团战略执行单位
+to head up his cartel's strategic enforcement unit.
+
+171
+00:09:07,005 --> 00:09:10,406
+集团还有战略执行单位?
+The cartel has a strategic enforcement unit?
+
+172
+00:09:10,407 --> 00:09:12,637
+索诺拉的集团有两个 
+There are two Sonora-based cartels: 
+
+173
+00:09:12,638 --> 00:09:15,346
+盖林度和罗布・索诺拉
+Galindo's and Lobo Sonora.
+
+174
+00:09:15,513 --> 00:09:19,109
+六个月前整个地区开始血拼
+Blood feud over the whole territory began about six months ago.
+
+175
+00:09:19,109 --> 00:09:20,643
+看不出停手的迹象
+Shows no sign of stopping.
+
+176
+00:09:20,644 --> 00:09:22,010
+所以罗密欧需要枪支
+And Romeo needs guns.
+
+177
+00:09:22,020 --> 00:09:23,953
+是的 我猜为了拿到酬劳 
+Yes, I'm guessing the Sons will be 
+
+178
+00:09:23,954 --> 00:09:25,814
+混乱之子会给他们运毒
+expediting the coke that pays for them.
+
+179
+00:09:25,815 --> 00:09:27,724
+- 贩毒? - 不是在他们的仓库里
+- Dealing? - Not in their wheelhouse.
+
+180
+00:09:27,734 --> 00:09:30,020
+也许用摩托运回北加州
+Probably muling blow back to Northern Cali.
+
+181
+00:09:30,028 --> 00:09:32,386
+- 见鬼 - 我们过去几年
+- Shit. - We've been watching Galindo
+
+182
+00:09:32,388 --> 00:09:35,826
+一直监视盖林度 他有点精神变态
+for the last couple years. He's a spunky little psychopath.
+
+183
+00:09:35,832 --> 00:09:39,100
+自从他招募了罗密欧 他们就为TJ和其他人
+Since he hired Romeo, they've been giving TJ and others
+
+184
+00:09:39,100 --> 00:09:40,646
+努力提供钱和毒品
+a hard run for money and drugs.
+
+185
+00:09:40,646 --> 00:09:43,541
+我们听说罗密欧在斯托克顿跟混乱之子会面了
+We'd heard Romeo had reached out to the Sons in Stockton
+
+186
+00:09:43,541 --> 00:09:46,370
+但是不能确定他们怎么解决俄罗斯人的
+but weren't sure how they'd fit with the Russians.
+
+187
+00:09:46,378 --> 00:09:47,921
+我猜他们最后达成了一致
+Guess they figured that out.
+
+188
+00:09:47,921 --> 00:09:50,632
+这个是从一个加油站的监控镜头提取的
+This was lifted from a gas station security cam
+
+189
+00:09:50,632 --> 00:09:53,000
+就在我美丽的出生地 
+outside of my beautiful birthplace, 
+
+190
+00:09:53,000 --> 00:09:54,650
+莫得斯托的附近 两天前
+Modesto, two days ago.
+
+191
+00:09:54,651 --> 00:09:56,511
+所以帕拉达回到镇子里来了 哼?
+So Parada's back in town, hm?
+
+192
+00:09:56,513 --> 00:09:58,859
+是的 不过又消失了 
+He was. Off the grid again. 
+
+193
+00:09:58,860 --> 00:09:59,872
+那现在怎么办?
+So now what?
+
+194
+00:09:59,876 --> 00:10:02,551
+没人打入内部记载枪支运送记录
+Without someone inside to document the gunrunning
+
+195
+00:10:02,560 --> 00:10:05,222
+我们要将混乱之子作为RICO法案的主要目标
+...we need to make the Sons the primary RICO target.
+
+196
+00:10:05,230 --> 00:10:08,681
+所以现在 我的当地执法朋友 
+So now, my locally enforced friend, 
+
+197
+00:10:08,682 --> 00:10:11,346
+我们开始执行B计划
+we move on to plan B.
+
+198
+00:10:11,486 --> 00:10:15,656
+请这位乌鸦先生做线人
+Engage Mr. Crow to create the ties that bind.
+
+199
+00:10:16,366 --> 00:10:18,032
+胡汉・卡洛斯・奥提茨
+Juan Carlos Ortiz.
+
+200
+00:10:18,034 --> 00:10:19,826
+我需要你把他抓起来
+I need you to pick him up.
+
+201
+00:10:21,329 --> 00:10:22,794
+那有什么用?
+How does that help?
+
+202
+00:10:22,799 --> 00:10:25,620
+我们需要建立一个新的组织犯罪史 
+We need to create a history of organized crime, 
+
+203
+00:10:25,620 --> 00:10:26,867
+过去和现在的
+past and present.
+
+204
+00:10:26,876 --> 00:10:29,378
+祖斯是我们的联结点
+Juice is our "now" connection.
+
+205
+00:10:29,796 --> 00:10:32,328
+我可以以违反释放协定为名逮捕他
+I can pick him up on a release violation.
+
+206
+00:10:32,328 --> 00:10:34,992
+他是一家草药店的合伙拥有者
+He's a part owner of a weed shop.
+
+207
+00:10:35,510 --> 00:10:37,120
+很好
+Good.
+
+208
+00:10:37,229 --> 00:10:40,150
+但是你不能让他察觉到这么多 
+But you can't tip him off to any of this. 
+
+209
+00:10:40,151 --> 00:10:41,593
+只能以本地事务威胁他
+The threat must remain local.
+
+210
+00:10:41,594 --> 00:10:43,300
+你们想要我对他做什么?
+What do you want me to do with him?
+
+211
+00:10:43,309 --> 00:10:46,893
+就让他知道你察觉到他的家庭关系了
+Just let him know that you're aware of his family tree
+
+212
+00:10:46,896 --> 00:10:50,482
+而且你会再找到他
+and that you'll be in touch.
+
+213
+00:10:56,740 --> 00:10:58,615
+好的 我马上过来
+All right, I'm coming.
+
+214
+00:11:00,577 --> 00:11:02,700
+- 怎么了? - 是迈尔斯
+- What's going on? - That was Miles.
+
+215
+00:11:02,704 --> 00:11:05,664
+- 貌似枪支有点麻烦 - 要我叫克雷吗?
+- Some kind of hiccup with the guns. - Should I call Clay?
+
+216
+00:11:05,832 --> 00:11:07,955
+不 他跟鲍比需要好好谈谈
+No, him and Bobby need some quality time.
+
+217
+00:11:07,959 --> 00:11:11,503
+呆在这儿 叫其他的菜鸟帮着搞定这些
+Stay here, get the other prospects to help finish these up.
+
+218
+00:11:11,571 --> 00:11:13,780
+- 照顾好他 - 没问题
+- Take care of him. - Absolutely.
+
+219
+00:11:13,798 --> 00:11:16,460
+你跟我们走 跟着小货车 我们走
+You're with us. Follow in the van. Let's go.
+
+220
+00:11:16,468 --> 00:11:19,000
+我跟 克雷要你呆在这儿
+I'm going with. Clay wanted you to stay here.
+
+221
+00:11:19,004 --> 00:11:22,000
+我不想做他的小弹药婊子 我不干
+I'm not gonna be his little ammo bitch. I'm not gonna do it.
+
+222
+00:11:22,008 --> 00:11:24,767
+要是枪有问题 我得去
+If there's a problem with those guns, I should be there.
+
+223
+00:11:26,269 --> 00:11:27,978
+好吧 蒂格
+All right, Tiggy.
+
+224
+00:11:35,365 --> 00:11:39,198
+我知道你带我出来不会是因为我懂子弹
+I know you didn't bring me out here for my vast knowledge of projectiles.
+
+225
+00:11:39,365 --> 00:11:41,742
+我想跟你单独谈谈
+I wanted to talk to you alone.
+
+226
+00:11:42,035 --> 00:11:44,661
+想说什么就说吧 老大
+Say what you gotta say, pres.
+
+227
+00:11:45,163 --> 00:11:47,309
+过去几年我们后受到的打击 
+The beating we took over these last few years, 
+
+228
+00:11:47,310 --> 00:11:49,451
+你知道 让我们损失了很多
+you know has set us way back.
+
+229
+00:11:49,459 --> 00:11:52,371
+生活的一部分 我加入帮派不是为了变得富有
+Part of the life. I didn't join this club to get rich.
+
+230
+00:11:52,378 --> 00:11:55,000
+无关富有 但关乎生存
+It ain't about getting rich, it's about getting whole.
+
+231
+00:11:55,006 --> 00:11:57,382
+帮派需要动力
+This club needs an infusion.
+
+232
+00:12:01,554 --> 00:12:04,430
+你怎么让你儿子同意这些的?
+How'd you get the boy to sign off on this?
+
+233
+00:12:06,434 --> 00:12:08,894
+毒品几乎杀了他的第一个孩子
+Drugs nearly killed his firstborn.
+
+234
+00:12:10,146 --> 00:12:11,605
+他改变了
+He's changed.
+
+235
+00:12:11,773 --> 00:12:14,608
+他陷的太深了 我
+He's gone way inside. I
+
+236
+00:12:15,693 --> 00:12:18,530
+我不知道是什么推动了他 也许是时间
+I don't know what pushed him. Maybe it was the time.
+
+237
+00:12:18,530 --> 00:12:20,781
+- 也许是我? - 我不知道
+- Maybe it was me? - I don't know.
+
+238
+00:12:20,990 --> 00:12:23,242
+他不再是原来那个他
+He's not the same guy.
+
+239
+00:12:23,910 --> 00:12:26,000
+好吧 他当然知道对帮派什么最重要
+Well, he sure knows what's best for this club.
+
+240
+00:12:26,001 --> 00:12:29,080
+省省吧 我们不是在投票桌前
+Kill the bullshit, we're not sitting around the table.
+
+241
+00:12:29,082 --> 00:12:30,680
+你是在向着门口猛冲 
+You're sprinting for the door, 
+
+242
+00:12:30,681 --> 00:12:33,126
+趁它还开着赶紧塞满自己的口袋
+stuffing your pockets before it slams shut.
+
+243
+00:12:33,126 --> 00:12:34,586
+我明白的
+I get that.
+
+244
+00:12:34,754 --> 00:12:36,169
+但是贾克斯得到了什么好处? 
+But what does Jax get out of it? 
+
+245
+00:12:36,171 --> 00:12:36,922
+知道吗?
+You know what?
+
+246
+00:12:37,090 --> 00:12:41,301
+你要怎么想我无所谓 因为我不在乎
+You think whatever the hell you want to about me, because I don't give a shit.
+
+247
+00:12:41,309 --> 00:12:44,052
+我唯一关心的是这个帮派的未来
+My main concern is the future of this MC.
+
+248
+00:12:44,053 --> 00:12:46,198
+我告诉你贾克斯得到了什么 
+I'll tell you what Jax gets out of it. 
+
+249
+00:12:46,200 --> 00:12:48,302
+我就是带你来谈这个
+That's what I brought you to talk about.
+
+250
+00:12:48,309 --> 00:12:52,340
+不过 我希望这只是你跟我之间的事 
+Only thing is, I need for this to stay between you and me, 
+
+251
+00:12:52,345 --> 00:12:53,575
+你明白吗?
+you understand?
+
+252
+00:12:53,579 --> 00:12:56,568
+因为贾克斯不想任何人知道这个
+Because Jax doesn't want anybody to know about this.
+
+253
+00:12:56,568 --> 00:12:58,277
+我要你保证
+I need your word.
+
+254
+00:13:03,032 --> 00:13:04,950
+贾克斯想要退出
+Jax wants out.
+
+255
+00:13:05,160 --> 00:13:09,034
+他有两个孩子 他有个爱着的妻子
+He's got two sons, he's got an old lady he loves.
+
+256
+00:13:10,331 --> 00:13:11,582
+他不干了
+He's done.
+
+257
+00:13:14,961 --> 00:13:18,674
+他支持运毒 你让他净身出户
+He backs the drugs, you let him out clean.
+
+258
+00:13:19,132 --> 00:13:20,507
+是的
+Yep.
+
+259
+00:13:23,636 --> 00:13:25,846
+那跟我有什么关系?
+What's that got to do with me?
+
+260
+00:13:28,725 --> 00:13:32,644
+我想支持你取代我
+You're the guy I endorse to replace me.
+
+261
+00:13:34,397 --> 00:13:36,510
+是啊 如果我投票支持毒品 你就... 
+Yeah, if I vote for the drugs, you'll... 
+
+262
+00:13:36,510 --> 00:13:38,181
+无关投票
+It's not about any vote.
+
+263
+00:13:38,318 --> 00:13:40,900
+我是在传位于你
+I'm handing you the gavel
+
+264
+00:13:41,696 --> 00:13:44,323
+因为你是做这个工作的最合适人选
+because you're the best guy for the job.
+
+265
+00:13:46,242 --> 00:13:48,160
+如果你想的话
+If you want it.
+
+266
+00:13:50,914 --> 00:13:52,998
+我是在向你做出承诺
+I'm giving you my word.
+
+267
+00:13:55,335 --> 00:13:57,419
+你想找查理 Horse?
+You looking for Charlie Horse?
+
+268
+00:13:58,713 --> 00:14:02,003
+- 呃 是的 - 他出去了 在南边屋子
+- Uh, yeah. - He's out in the south res.
+
+269
+00:14:02,008 --> 00:14:04,301
+上车跟着我
+Get in your truck and follow me.
+
+270
+00:14:19,025 --> 00:14:20,609
+- 嘿 - 嗯
+- Hey. - Mm.
+
+271
+00:14:21,694 --> 00:14:24,571
+我就想记住该怎么做
+Just trying to remember how to do this.
+
+272
+00:14:25,615 --> 00:14:28,116
+把火点着香
+You put the flame to the wick.
+
+273
+00:14:28,952 --> 00:14:30,285
+谢谢
+Thanks.
+
+274
+00:14:34,749 --> 00:14:36,606
+你不去你的教堂了?
+You stop going to your church?
+
+275
+00:14:36,606 --> 00:14:38,168
+当你被你自己的罪行埋葬时 
+When you're buried in your own shit, 
+
+276
+00:14:38,169 --> 00:14:41,421
+那神圣之心似乎有点遥不可及
+the Sacred Heart seems a little out of reach.
+
+277
+00:14:43,049 --> 00:14:45,801
+你总得相信些什么 韦恩
+You gotta believe in something, Wayne.
+
+278
+00:14:47,387 --> 00:14:49,513
+你自己有多信?
+Where you at with that?
+
+279
+00:14:50,223 --> 00:14:52,068
+保持不变的信仰
+Same place I'm always at.
+
+280
+00:14:52,684 --> 00:14:54,893
+不 你不是 亲爱的
+No, you're not, sweetheart.
+
+281
+00:14:55,061 --> 00:14:57,669
+我们想做到不变 但我们做不到
+We wanna stay the same, but we can't.
+
+282
+00:14:57,689 --> 00:14:59,856
+我们越老
+Older we get
+
+283
+00:15:00,066 --> 00:15:03,402
+就越变得不像我们希望自己变成的那样
+the further away we get from who we think we are.
+
+284
+00:15:07,907 --> 00:15:09,950
+说够了吗 孔夫子?
+Are we done here, Confucius?
+
+285
+00:15:10,159 --> 00:15:12,995
+- 是的 - 我们走
+- Yeah. - Let's go.
+
+286
+00:15:19,877 --> 00:15:22,754
+在这儿等着 你看见塔拉过来 就敲一下门
+Wait here. You see Tara coming, knock on the door.
+
+287
+00:15:22,755 --> 00:15:26,710
+哇哦 不是把? 你带我来是给你望风的?
+Whoa. Really? You brought me here to be your goddamn spotter?
+
+288
+00:15:26,718 --> 00:15:28,844
+我得做完我自己开始做的事情
+I'm finishing what I started.
+
+289
+00:15:37,520 --> 00:15:39,229
+见鬼
+Shit.
+
+290
+00:15:41,566 --> 00:15:44,259
+好吧 你个聪明的小婊子 
+All right, you clever, little bitch, 
+
+291
+00:15:44,260 --> 00:15:46,233
+你把钥匙藏哪儿了?
+where'd you hide that key?
+
+292
+00:15:53,369 --> 00:15:57,039
+我很难过 宝贝 我们会没事的
+I'm sorry, baby. We're gonna be okay.
+
+293
+00:16:01,377 --> 00:16:03,086
+我们走
+Let's go.
+
+293
+00:16:13,377 --> 00:16:14,086
+海特・威尔默特 医学博士
+试管婴儿专家
+
+294
+00:16:22,940 --> 00:16:24,066
+哦 见鬼
+Oh, shit.
+
+295
+00:16:25,985 --> 00:16:27,527
+哦
+Oh.
+
+296
+00:16:27,695 --> 00:16:29,071
+抱歉
+Sorry.
+
+297
+00:16:29,530 --> 00:16:30,820
+塔拉要跟你见面吗? 
+Is Tara expecting you? 
+
+298
+00:16:30,823 --> 00:16:32,908
+不 我 嗯...
+No. I, um...
+
+299
+00:16:33,076 --> 00:16:35,327
+我只是在做些研究
+I was just doing some research.
+
+300
+00:16:35,495 --> 00:16:38,623
+超音波解剖学与可行性的超声指导
+"Sonoanatomy and Feasibility of Ultrasonographic Guidance...
+
+301
+00:16:38,623 --> 00:16:40,833
+相关术语以及在早产儿的应用
+...in Term and Preterm Neonates."
+
+302
+00:16:40,833 --> 00:16:42,081
+是三部曲
+It's a trilogy.
+
+303
+00:16:42,085 --> 00:16:44,253
+- 嘿 在这儿啊 - 嘿 韦恩
+- Hey there. - Hey, Wayne.
+
+304
+00:16:44,253 --> 00:16:46,643
+- 昂瑟警长 - 呃 不再是了
+- Chief Unser. - Uh, not anymore.
+
+305
+00:16:46,672 --> 00:16:48,048
+当然
+Of course.
+
+306
+00:16:48,216 --> 00:16:50,175
+能够你谈一会儿吗?
+Can I talk to you for a second?
+
+307
+00:16:50,385 --> 00:16:51,551
+- 我? - 好啊
+- Me? - Yeah.
+
+308
+00:16:51,719 --> 00:16:54,201
+关于我的医疗保险
+I got some questions about my HMO 
+
+309
+00:16:54,203 --> 00:16:55,800
+以及新的治疗方法我有些问题
+and these new treatments.
+
+310
+00:16:55,807 --> 00:16:57,474
+当然
+Sure.
+
+311
+00:16:57,642 --> 00:16:59,476
+我会告诉塔拉你进来了 
+I'll tell Tara you're in here, 
+
+312
+00:16:59,477 --> 00:17:01,960
+专注于你的新生儿三部曲吧
+engrossed in the Neonatas Trilogy.
+
+313
+00:17:20,623 --> 00:17:22,291
+先生们 这边请
+Gentlemen. This way, please.
+
+314
+00:17:22,307 --> 00:17:23,968
+我们到这儿来到底干什么? 
+What the hell we doing out here? 
+
+315
+00:17:24,000 --> 00:17:25,246
+部族事务
+Tribal matters.
+
+316
+00:17:25,253 --> 00:17:30,173
+而且 让我们有机会私下谈谈需求的增长
+Also, it gives us a chance to talk privately about this increase in demand.
+
+317
+00:17:30,183 --> 00:17:31,167
+有问题吗? 
+Is that a problem? 
+
+318
+00:17:31,206 --> 00:17:33,761
+人手不是问题 而是补偿
+Labor, no. Compensation, yes.
+
+319
+00:17:33,761 --> 00:17:36,721
+我知道你们现在在把我们的弹药卖给墨西哥人
+I know you're selling our ammo to the Mexicans now.
+
+320
+00:17:36,722 --> 00:17:38,626
+我们跟瓦汉瓦的交易是定好的 
+Our deal with the Wahewa is set, 
+
+321
+00:17:38,627 --> 00:17:40,000
+跟我们卖给谁没关系
+doesn't matter who we're selling to.
+
+322
+00:17:40,017 --> 00:17:42,308
+我没那么老土 克雷
+I'm not living in a teepee, Clay.
+
+323
+00:17:42,310 --> 00:17:44,070
+集团对你来说风险很大 
+The cartel is a risk for you. 
+
+324
+00:17:44,071 --> 00:17:46,982
+我知道你肯定拿我们的子弹卖了更高价
+I know you gotta be charging more for our bullets.
+
+325
+00:17:47,150 --> 00:17:51,194
+我只想确保瓦汉瓦得到应得的利益
+I just wanna make sure that the Wahewa get their piece.
+
+326
+00:17:52,738 --> 00:17:55,240
+老天
+Jesus Christ.
+
+327
+00:17:55,408 --> 00:18:00,081
+温图语中有一个词 意思是 哀悼战争
+There's a word in the Wintu language, means "mourning war."
+
+328
+00:18:00,163 --> 00:18:05,040
+我们死去的孩子们的家人向神寻求复仇的方式
+Families of our dead sons ask the gods to choose their revenge.
+
+329
+00:18:05,042 --> 00:18:08,421
+他们选择了食人蚁这种缓慢的死法
+They chose slow death by flesh-eating ants.
+
+330
+00:18:08,421 --> 00:18:11,756
+那真的是牛仔和印第安的做法 酋长
+That's some real cowboy and Indian shit, chief.
+
+331
+00:18:14,177 --> 00:18:15,873
+这个一种终结的方式 
+It's about closure. 
+
+332
+00:18:15,874 --> 00:18:19,416
+你在他步入到精神领域的过程中起到了作用
+You play a part in his passing over into the spirit realm.
+
+333
+00:18:31,611 --> 00:18:32,986
+我等会儿回来
+I'll be right back.
+
+334
+00:18:41,496 --> 00:18:43,955
+他们要把他留在这儿多久?
+How long they gonna leave him out here?
+
+335
+00:18:45,166 --> 00:18:47,918
+我猜直到野餐结束吧
+I guess till the picnic's over.
+
+336
+00:18:48,085 --> 00:18:50,288
+你准备让查理得到更多分成?
+Are you gonna give Charlie his bump?
+
+337
+00:18:50,296 --> 00:18:52,230
+我是说 我们同样的子弹
+I mean, we are charging the Mexicans 
+
+338
+00:18:52,231 --> 00:18:54,580
+卖给墨西哥人贵了至少一半
+50 percent more for the same ammo.
+
+339
+00:18:54,580 --> 00:18:57,505
+我给查理个鸟 因为就他能知道的
+I'm gonna give Charlie dick. Because as far as he knows
+
+340
+00:18:57,505 --> 00:19:01,091
+我们卖个墨西哥人跟卖给其他人一个价钱
+we're charging the Mexicans the same as we charge anybody else.
+
+341
+00:19:01,682 --> 00:19:03,183
+求你了
+Please.
+
+342
+00:19:03,684 --> 00:19:05,101
+帮帮我
+Help.
+
+343
+00:19:05,811 --> 00:19:08,647
+嘿你能听到我们说话?
+Hey. Are you listening to us?
+
+344
+00:19:08,814 --> 00:19:10,273
+不
+No.
+
+345
+00:19:10,775 --> 00:19:13,068
+不不 你一定听到了 是不是?
+Well, you heard that, didn't you?
+
+346
+00:19:20,618 --> 00:19:22,428
+这里的神灵会被你气疯的
+You're gonna piss off the gods.
+
+347
+00:19:22,428 --> 00:19:24,913
+我才懒得鸟他们
+I don't give a shit about the gods.
+
+348
+00:19:29,752 --> 00:19:31,308
+我们的枪被一些小P孩偷了? 
+Someone is Stealing our guns is a hiccup? 
+
+349
+00:19:31,309 --> 00:19:32,247
+你胡说什么?
+You shitting me?
+
+350
+00:19:32,255 --> 00:19:33,989
+他们以为这皮卡里装满了酒 
+They thought the truck was full of booze. 
+
+351
+00:19:33,990 --> 00:19:35,800
+里面还有一箱AR-15s
+It had one case of AR-15s.
+
+352
+00:19:35,800 --> 00:19:38,552
+这些枪已经卖出去了的 混蛋
+Those guns are already sold, asshole.
+
+353
+00:19:38,719 --> 00:19:42,011
+集团要在2天内拿到所有的货
+The cartel is expecting all of them in two days.
+
+354
+00:19:42,014 --> 00:19:44,007
+- 这个我知道! - 你知道个屁
+- I get it! - No, what you get...
+
+355
+00:19:44,016 --> 00:19:46,601
+你只会让一群贫民区的小屁孩玩弄 混蛋
+...is jacked by a bunch of ghetto babies, asshole.
+
+356
+00:19:46,811 --> 00:19:48,470
+好了贾克斯! 先别计较这个!
+All right, Jax! Let him go!
+
+357
+00:19:48,479 --> 00:19:50,555
+冷静点! 看上帝的份上!
+Hang on! Save it for church!
+
+358
+00:19:50,565 --> 00:19:52,148
+让我们一起把枪支找回来
+Let's just get the guns back.
+
+359
+00:19:52,149 --> 00:19:54,249
+他们不会公然在大街上使用那些武器
+They're not gonna hit the streets with that.
+
+360
+00:19:54,318 --> 00:19:55,826
+他们肯定会找个地方想法卖了 
+They're gonna try and sell them. 
+
+361
+00:19:55,827 --> 00:19:56,486
+你他妈闭嘴
+Shut up.
+
+362
+00:19:56,654 --> 00:19:59,316
+在这块地方? 只有一个地方做那总生意
+This 'hood? Only one place to do that.
+
+363
+00:19:59,365 --> 00:20:02,490
+- 法人区的维维卡 - 东西最好在那
+- Vivica. French fence. - They better be there.
+
+364
+00:20:05,079 --> 00:20:07,331
+皮卡在几个小时前被偷了
+Truck got jacked a couple hours ago.
+
+365
+00:20:07,331 --> 00:20:09,407
+我们估计你这应该是他们停留的第一站
+We think you may be their first stop.
+
+366
+00:20:09,417 --> 00:20:10,772
+我看起来是做枪支买卖的? 
+Do I look like I buy guns? 
+
+367
+00:20:10,773 --> 00:20:12,327
+不 但也许你认识那些孩子?
+Well, maybe you know the kids.
+
+368
+00:20:12,336 --> 00:20:14,370
+布鲁斯特 他管他的伙计们叫变态
+Brewster. He called his buddy "Frecks."
+
+369
+00:20:14,380 --> 00:20:17,674
+我的孩子够多了 没心情去认识更多的
+I got enough kids. Don't need to know anyone else's.
+
+370
+00:20:17,842 --> 00:20:20,757
+听着 如果你们要iPad
+Look, if you want iPads, 
+
+371
+00:20:20,758 --> 00:20:23,550
+还是微波炉或是有机蔬菜
+microwaves, or organic vegetables...
+
+372
+00:20:23,598 --> 00:20:26,217
+我将是你们的幸运女神
+...I'm your Nubian goddess.
+
+373
+00:20:26,225 --> 00:20:29,429
+但枪支 那是肮脏的生意
+But guns, that's dirty business.
+
+374
+00:20:29,437 --> 00:20:32,731
+不在我的经营范围 这附近的所有人都知道
+Not my flow. Everybody around here knows that.
+
+375
+00:20:32,732 --> 00:20:36,008
+路德 范爵斯 送客 
+Luther, Vandross. Show them out.
+
+376
+00:20:36,027 --> 00:20:39,391
+如果它们确实涉足了你的经营范围 
+Well, if for some reason they do flow your way, 
+
+377
+00:20:39,392 --> 00:20:40,864
+我们需要弄清楚
+we need to know.
+
+378
+00:20:41,198 --> 00:20:44,296
+你唯一要弄清楚的是
+The only thing you need to know is that 
+
+379
+00:20:44,297 --> 00:20:47,829
+我的庄园被你们搞的透不过气
+my soil is in desperate need of aeration.
+
+380
+00:20:51,751 --> 00:20:54,112
+那我们不影响这里了
+Wouldn't wanna get between you and your dirt.
+
+381
+00:20:54,128 --> 00:20:56,564
+非常感谢
+I appreciate that.
+
+382
+00:20:57,214 --> 00:20:59,673
+- 我可不相信她 - 暂时没有别的办法
+- I don't believe her, man. - Got no choice.
+
+383
+00:20:59,675 --> 00:21:02,345
+会打草惊蛇的
+Rock that boat, blow back on the whole neighborhood.
+
+384
+00:21:02,345 --> 00:21:04,179
+我老妈还有姨妈她们都有份
+My aunt and mom included.
+
+385
+00:21:05,598 --> 00:21:07,140
+我靠 是他们!
+Shit, that's them!
+
+386
+00:21:07,308 --> 00:21:09,187
+你守在着 看皮卡车会不会出现 
+Yo, stay here in case the truck shows up. 
+
+387
+00:21:09,188 --> 00:21:09,851
+走走走!
+Go, go, go!
+
+388
+00:21:20,696 --> 00:21:21,902
+# 当我还是个孩子时 #
+# When I was a boy 
+
+389
+00:21:21,902 --> 00:21:24,622
+# 我就憧憬我长大后的情景 #
+I thought about the times I'd be a man #
+
+390
+00:21:26,661 --> 00:21:28,085
+# 我坐在瓶子里面 #
+# I'd sit inside a bottle 
+
+391
+00:21:28,086 --> 00:21:31,321
+# 幻想着我四处拥挤不堪 #
+And pretend that I was in a jam #
+
+392
+00:21:32,875 --> 00:21:34,073
+# 在这个狭小的空间里 #
+# In my lonely room 
+
+393
+00:21:34,074 --> 00:21:37,170
+# 我可以专心幻想着那可爱的甜筒 #
+I'd sit my mind in an ice cream cone #
+
+394
+00:21:38,506 --> 00:21:41,068
+# 你可以把我扔掉 因为我是如此渺小 #
+# You can throw me if you wanna 'Cause I'm a bone #
+
+395
+00:21:41,069 --> 00:21:41,250
+# 我被丢掉时 #
+# And I go 
+
+396
+00:21:42,251 --> 00:21:44,552
+# 还会发出"噗噗噗"的声音#
+"oop-ip-ip, oop-ip-ip," yeah #
+
+397
+00:21:54,021 --> 00:21:55,409
+# 如果我没有哭泣 #
+# If I don't start cryin' 
+
+398
+00:21:55,409 --> 00:21:58,191
+# 那是因为我根本就没有双眼 #
+It's because that I have got no eyes #
+
+399
+00:21:59,860 --> 00:22:01,528
+- 小心! - 哦我靠!
+- Look out! - Oh, Shit!
+
+400
+00:22:01,696 --> 00:22:04,531
+# 我的小狗已经被任由摆布 #
+# And my dog lies hypnotized #
+
+401
+00:22:06,283 --> 00:22:07,867
+# 被一种我从未知道的光束 #
+# Through a crack of light I was unable #
+
+402
+00:22:08,035 --> 00:22:09,077
+我们上
+Let's go.
+
+403
+00:22:09,245 --> 00:22:10,912
+# 去寻找我的生活 #
+# To find my way #
+
+404
+00:22:12,540 --> 00:22:14,464
+# 虽然被困其中 但我很快乐 #
+# Trapped inside a night, but I'm a day 
+
+405
+00:22:14,465 --> 00:22:17,234
+# 还能"噗噗噗"的响 #
+And I go "oop-ip-ip" #
+
+406
+00:22:17,253 --> 00:22:18,775
+该死 如果条子发现了那些枪 
+Shit. Cops find our guns 
+
+407
+00:22:18,775 --> 00:22:20,928
+他们肯定会追踪爽哥姨妈家里
+they'll lead them right back to Happy's aunt's house.
+
+408
+00:22:20,930 --> 00:22:22,716
+嘿让我来对付
+Hey, I got this.
+
+409
+00:22:30,891 --> 00:22:32,392
+靠边停下!
+Pull over!
+
+410
+00:22:38,691 --> 00:22:40,942
+手举到我看的见的地方
+Keep your hands where we can see them.
+
+411
+00:22:48,701 --> 00:22:49,743
+我们追!
+Let's go!
+
+412
+00:22:57,251 --> 00:22:58,460
+呼
+Whew.
+
+413
+00:23:06,302 --> 00:23:08,928
+请出示驾驶执照 谢谢
+License and registration, please.
+
+414
+00:23:14,018 --> 00:23:15,810
+他死了
+He's dead.
+
+415
+00:23:16,020 --> 00:23:18,104
+- 怎么回事? - 不清楚
+- What happened? - Not sure.
+
+416
+00:23:18,314 --> 00:23:22,113
+他一直那样 喘了几口气就呜呼了
+He came to, gasped a little bit, and just went out.
+
+417
+00:23:22,114 --> 00:23:24,778
+是啊 发生的很快
+Yeah. It was quick.
+
+418
+00:23:26,322 --> 00:23:28,990
+家族会很失望的
+Family's gonna be disappointed.
+
+419
+00:23:29,742 --> 00:23:32,655
+他应该至少再受两天的苦
+He should've suffered at least another two days.
+
+420
+00:23:32,655 --> 00:23:35,413
+或许... 那些蚂蚁比你想象的要饿的多
+Well, maybe the ants were a little hungrier than you thought.
+
+421
+00:23:35,581 --> 00:23:37,165
+或许吧
+Yes.
+
+422
+00:23:37,666 --> 00:23:39,172
+就像我们所有人一样
+Like all of us.
+
+423
+00:23:39,627 --> 00:23:42,544
+听着查理 我不知道你听到过什么
+Look, uh, Charlie, I don't know what you heard...
+
+424
+00:23:42,546 --> 00:23:45,632
+或者你是怎么认为的  但...
+...or what you think you might know, but, uh...
+
+425
+00:23:46,801 --> 00:23:48,487
+但我们和集团的生意 
+...we got the same deal going with the cartel 
+
+426
+00:23:48,488 --> 00:23:50,672
+一点都不比和俄国佬做的多
+as we had with the Russians.
+
+427
+00:23:50,679 --> 00:23:54,432
+我们不会让你蒙受一个子的损失
+We're not making a dime more off your ammo.
+
+428
+00:23:56,435 --> 00:23:58,353
+我向你保证
+You got my word.
+
+429
+00:24:02,525 --> 00:24:03,942
+好吧
+Okay.
+
+430
+00:24:04,151 --> 00:24:06,611
+我们会尽快把订单完成
+We'll push through with the order then.
+
+431
+00:24:40,521 --> 00:24:41,916
+我们的皮卡还有那些枪在哪? 
+Where's that truck and our guns? 
+
+432
+00:24:41,916 --> 00:24:43,731
+什么皮卡?
+What truck?
+
+433
+00:24:47,069 --> 00:24:51,005
+该死的 我可没拿你们那该死的枪
+Damn, man. I ain't got your goddamn guns.
+
+434
+00:24:51,240 --> 00:24:53,533
+- 冲击试验? - 我看行
+- Crash test? - Think so.
+
+435
+00:24:53,701 --> 00:24:55,577
+请允许我来 给我钥匙
+Allow me. Keys.
+
+436
+00:24:55,744 --> 00:24:59,247
+- 老兄 拜托 - 玩的开心点
+- Oh, man. Come on, man. - Have fun.
+
+437
+00:24:59,415 --> 00:25:01,082
+老兄拜托!
+Come on, man!
+
+438
+00:25:37,369 --> 00:25:38,356
+放我出去 老兄! 
+Let me out, man. Let me out! 
+
+439
+00:25:38,357 --> 00:25:39,871
+你们这些基佬想杀了我们吗?
+You cracker-ass bitches trying to kill us?
+
+440
+00:25:39,872 --> 00:25:41,399
+有这打算 除非你们老老实实说出来
+That's the plan, unless you start talking.
+
+441
+00:25:41,400 --> 00:25:43,718
+我都不知道你在说什么!
+I don't know what you're talking about!
+
+442
+00:25:43,719 --> 00:25:45,460
+哦完了
+Oh, shit.
+
+443
+00:25:45,711 --> 00:25:47,315
+- 不 不要! - 狗娘养的骗子!
+- No, no! - Lying bitch!
+
+444
+00:25:47,317 --> 00:25:50,798
+嘿兄弟 你怎么回事? 听我说听我说!
+Hey, man, what's wrong with you? Listen, listen, listen!
+
+445
+00:25:51,133 --> 00:25:53,635
+你在干什么啊? 你在...?
+Yo, what are you doing? Yo, man, what are you...?
+
+446
+00:25:53,802 --> 00:25:56,802
+- 放我走吧 老兄! - 听着 听好了
+- Let me go, man! - Listen to me. Listen to me.
+
+447
+00:25:56,805 --> 00:26:00,476
+这个家伙曾经抱了我一下就抱断我三根肋骨
+Now, this guy here, he's cracked three of my ribs giving me a hug.
+
+448
+00:26:00,476 --> 00:26:02,285
+他会把你们的脸给撕碎的 
+He's gonna shatter your boy's face. 
+
+449
+00:26:02,285 --> 00:26:02,947
+除非你们老实交代
+Unless you Give it up.
+
+450
+00:26:02,947 --> 00:26:06,024
+- 该死的那好吧 - 听我说 
+- All right. Goddamn, man. - Just listen. 
+
+451
+00:26:06,024 --> 00:26:07,711
+我们把枪卖给了维维卡
+We sold it to Vivica.
+
+452
+00:26:07,733 --> 00:26:09,729
+Luther给了我们一半的钱
+Luther gave us half the cash.
+
+453
+00:26:09,730 --> 00:26:12,111
+我们刚才去那就是拿剩下的一半
+We were headed to get the rest when y'all spotted us.
+
+454
+00:26:12,279 --> 00:26:14,197
+钱就在杂物箱里
+The money is in the glove box.
+
+455
+00:26:17,826 --> 00:26:21,329
+- 钱在这 - 我们把皮卡停在兰利市里
+- It's here. - We unloaded the truck on Langley.
+
+456
+00:26:21,497 --> 00:26:22,914
+我打电话给迈尔斯
+I'm calling Miles.
+
+457
+00:26:23,123 --> 00:26:24,654
+我就知道那个婊子在撒谎
+I knew that bitch was lying.
+
+458
+00:26:24,708 --> 00:26:26,960
+要么就是这些混账 把他丢到后备箱里
+Or these assholes are. Put him in the trunk.
+
+459
+00:26:26,961 --> 00:26:28,541
+给我起来! 
+Get up! 
+
+460
+00:26:28,542 --> 00:26:30,296
+兄弟拜托 我们都招了!
+Man, come on! We told you!
+
+461
+00:26:30,581 --> 00:26:32,382
+去找下那辆皮卡
+Check on the truck. 
+
+462
+00:26:49,024 --> 00:26:51,735
+等他出来 直接把他带来
+Wait until he comes out, pull him over.
+
+463
+00:26:51,735 --> 00:26:53,460
+如果他有卡不能算违法 
+It's not a violation if he's got a card. 
+
+464
+00:26:53,461 --> 00:26:55,190
+他现在已经正式释放了
+He's on federal release.
+
+465
+00:26:55,197 --> 00:26:58,429
+山姆大叔从来没有认可过加州的大麻药用法律
+Uncle Sam doesn't recognize Cali's medical-marijuana laws.
+
+466
+00:26:58,433 --> 00:27:01,647
+我们只针对奥提茨  有没有特别的原因
+Is there any reason why we're just going after Ortiz, LT?
+
+467
+00:27:03,872 --> 00:27:05,415
+没什么特别的
+Nothing specific.
+
+468
+00:27:05,582 --> 00:27:08,459
+我们先抓小鱼 然后慢慢钓大的
+We start off small, we work our way up.
+
+469
+00:27:08,627 --> 00:27:10,253
+随时向我报告
+You let me know.
+
+470
+00:27:14,049 --> 00:27:15,258
+请进
+Come in.
+
+471
+00:27:16,385 --> 00:27:18,136
+- 手术顺利不? - 顺利
+- Surgery went well? - Yes.
+
+472
+00:27:18,303 --> 00:27:20,805
+常规的膈疝而已
+Routine diaphragmatic hernia.
+
+473
+00:27:20,973 --> 00:27:22,557
+这个给你的
+Here you go.
+
+474
+00:27:23,058 --> 00:27:24,969
+仅供参考
+References and other info.
+
+475
+00:27:24,977 --> 00:27:27,243
+兰格斯・伊曼纽尔医院和天道医院
+Legacy Emanuel and Providence Hospital 
+
+476
+00:27:27,244 --> 00:27:28,764
+都很希望能找你谈谈
+are very interested in speaking with you.
+
+477
+00:27:28,772 --> 00:27:32,070
+哇哦 很感激你帮我做这些
+Wow. Thank you for doing this.
+
+478
+00:27:32,151 --> 00:27:34,902
+我刚才打算把这些放你办公室的
+I came by to drop them off earlier.
+
+479
+00:27:35,070 --> 00:27:38,012
+伽玛在这呢
+Gemma was here in your office.
+
+480
+00:27:38,282 --> 00:27:40,274
+- 她有没有说为什么来? - 没说
+- Did she say why? - No.
+
+481
+00:27:40,284 --> 00:27:44,662
+但我非常确信她当时是在找什么东西
+But I'm pretty certain I interrupted her looking for something.
+
+482
+00:27:46,373 --> 00:27:48,847
+- 她看到这个了没? - 没
+- Did she see this? - No.
+
+483
+00:27:49,501 --> 00:27:53,337
+或许... 她是在找一些孩子要用的东西
+Well, she was probably just looking for something for the baby.
+
+484
+00:27:53,505 --> 00:27:55,006
+或许吧
+Probably.
+
+485
+00:27:55,382 --> 00:27:56,799
+谢了
+Thanks.
+
+486
+00:27:59,178 --> 00:28:01,929
+我听到那些护士们在说...
+I've heard the nurses talking. Um...
+
+487
+00:28:02,097 --> 00:28:03,960
+你真的订婚了?
+Are you really engaged?
+
+488
+00:28:04,433 --> 00:28:06,225
+是的
+I am.
+
+489
+00:28:07,060 --> 00:28:09,968
+贾克斯知道你打算离开的事吗?
+Does Jax know you're planning to move?
+
+490
+00:28:11,190 --> 00:28:13,274
+我还没告诉他
+I'm not just yet.
+
+491
+00:28:13,442 --> 00:28:15,526
+- 塔拉你... - 我得留在这
+- Tara. - I need to be here.
+
+492
+00:28:15,694 --> 00:28:18,611
+两个月前你闯进我的办公室
+Two months ago you broke down in my office.
+
+493
+00:28:18,614 --> 00:28:20,615
+- 你要我帮你... - 我知道...
+- You asked me... - I know, and...
+
+494
+00:28:24,077 --> 00:28:25,659
+我坚信那样做没错 
+I still feel that way, 
+
+495
+00:28:25,660 --> 00:28:28,122
+但我不得不由贾克斯来决定这个
+but I have to let Jax lead us out, Margaret.
+
+496
+00:28:28,332 --> 00:28:30,124
+这可能需要更久的时间 但...
+It may take longer, but...
+
+497
+00:28:30,834 --> 00:28:33,628
+这是让我们一家全身而退的唯一方法
+...it's the only way I get my whole family out clean.
+
+498
+00:28:33,837 --> 00:28:38,269
+更久可能意味着永久 你懂的
+Longer can very easily turn into forever. You know that.
+
+499
+00:28:38,509 --> 00:28:40,676
+你好好考虑下
+Please think about this.
+
+500
+00:28:41,470 --> 00:28:44,082
+这是我唯一能想到的
+It's the only thing I think about.
+
+501
+00:28:47,392 --> 00:28:49,811
+我得准备去做手术了
+I have to get ready for surgery.
+
+502
+00:29:16,630 --> 00:29:19,423
+嘿小子 放松点
+Hey, hey, hey, easy. Easy, man, easy.
+
+503
+00:29:19,424 --> 00:29:20,730
+只是来找你老妈谈谈 
+Just wanna talk to your mom. 
+
+504
+00:29:20,736 --> 00:29:22,927
+孩子们 没事的
+It's okay, boys.
+
+505
+00:29:26,265 --> 00:29:28,516
+多谢你招待我兄弟
+Appreciate you taking care of my crew.
+
+506
+00:29:28,684 --> 00:29:30,586
+他们看起来有点口渴
+They looked a little thirsty.
+
+507
+00:29:30,602 --> 00:29:33,499
+我也不喜欢被白人小孩监视
+And I don't like white boys spying on me.
+
+508
+00:29:33,522 --> 00:29:35,994
+长话短说吧 我们抓到了那些偷我们枪支的人
+Yeah, well, we tracked down the crew that jacked our guns.
+
+509
+00:29:36,000 --> 00:29:38,526
+他们说把枪卖给了你
+Said they sold them to you.
+
+510
+00:29:38,694 --> 00:29:40,595
+你们这些人他妈的是不是有病? 
+What the hell is it with you guys? 
+
+511
+00:29:40,599 --> 00:29:43,364
+我没有你们那些破枪
+I don't have your goddamn guns.
+
+512
+00:29:43,365 --> 00:29:45,000
+或许你的孩子们知道些什么
+Maybe your boys know something.
+
+513
+00:29:45,033 --> 00:29:46,749
+是啊 孩子们你们怎么说? 
+Yeah, how about it, boys? 
+
+514
+00:29:46,756 --> 00:29:49,537
+你们是不是瞒着老妈搞副业?
+You taking on a little side biz mama don't know about?
+
+515
+00:29:58,922 --> 00:30:00,047
+你们这些蠢猪!
+You idiots!
+
+516
+00:30:00,924 --> 00:30:03,426
+- 贾克斯小心! - 不! 住手!
+- Jax! - No! Stop! Stop!
+
+517
+00:30:03,635 --> 00:30:06,012
+- 妈! - 喂! 趴下!
+- Mama! - Hey, hey! Get down!
+
+518
+00:30:07,014 --> 00:30:09,570
+- 我靠 - 都他妈住手!
+- Shit. - Knock it off!
+
+519
+00:30:10,642 --> 00:30:12,393
+我的天!
+Jesus Christ!
+
+520
+00:30:12,728 --> 00:30:16,581
+你们这两个猪脑袋在想什么呢?
+What the hell were you two cat-brained morons thinking?
+
+521
+00:30:16,590 --> 00:30:18,316
+我们是想给您个惊喜
+It was supposed to be a surprise.
+
+522
+00:30:18,483 --> 00:30:21,569
+我们本想送您那部超级F-350
+We was gonna get you that F-350 Super Duty.
+
+523
+00:30:21,737 --> 00:30:22,917
+我们知道您有多么喜欢那种皮卡 
+We know how much you love that truck. 
+
+524
+00:30:22,937 --> 00:30:25,656
+我们都已经把它装饰成红色了
+We even had a red one all picked out.
+
+525
+00:30:27,326 --> 00:30:29,318
+我深表歉意
+My apologies.
+
+526
+00:30:30,078 --> 00:30:32,949
+把枪还给他们! 所有的!
+Give them their guns! All of them!
+
+527
+00:30:33,000 --> 00:30:34,976
+刚才那枪声会把条子引过来的 
+Cops are gonna be here after that blast. 
+
+528
+00:30:34,977 --> 00:30:36,042
+不 他们不会来
+No, they won't.
+
+529
+00:30:41,757 --> 00:30:43,257
+这是给你们的补偿
+For your troubles.
+
+530
+00:30:43,467 --> 00:30:47,094
+告诉爽哥我等下会送些西红柿给他老妈
+Tell Happy I'll send his mom some tomatoes.
+
+531
+00:30:47,262 --> 00:30:50,130
+家庭会议 都进来!
+Family meeting inside!
+
+532
+00:30:55,479 --> 00:30:57,438
+- 路德和范爵斯 - 快去 杀手先生
+- Luther, Vandross! - Come on, killer.
+
+533
+00:30:57,606 --> 00:30:59,482
+马上过来!
+I said now!
+
+534
+00:31:00,067 --> 00:31:04,113
+你看那老妈 伽玛和她比简直就是一淑女
+That one there, she makes Gemma look like Donna Reed.
+
+535
+00:31:04,821 --> 00:31:07,865
+我瞬间对女人一点想法都没了
+I'm suddenly feeling a little less dysfunctional.
+
+536
+00:31:36,561 --> 00:31:39,021
+- 是你 - 抱歉没和你打招呼
+- Hi. - Sorry to barge in.
+
+537
+00:31:39,189 --> 00:31:42,024
+- 手头有事在忙? - 没有 
+- In the middle of something? - No. Just, um...
+
+538
+00:31:42,234 --> 00:31:44,568
+刚做好手术 只是些文件 
+...finished surgery. Just paperwork.
+
+539
+00:31:45,362 --> 00:31:46,946
+我刚才来过
+I came by earlier.
+
+540
+00:31:47,114 --> 00:31:49,362
+是的 玛格丽特告诉我了 
+Yeah, Margaret mentioned that. 
+
+541
+00:31:49,363 --> 00:31:51,450
+是啊 我知道她会告诉你
+Yeah, I'm sure she did.
+
+542
+00:31:58,000 --> 00:32:01,867
+这个夹在亚伯的填色本里
+This fell out of one of Abel's coloring books.
+
+543
+00:32:02,170 --> 00:32:04,880
+你知不知道他在哪找到的?
+You have any idea where he might've found it?
+
+544
+00:32:05,048 --> 00:32:06,549
+那是什么?
+What is it?
+
+545
+00:32:07,676 --> 00:32:09,176
+一个目录
+A note.
+
+546
+00:32:10,178 --> 00:32:12,513
+关于一些信件的
+Talks about some letters.
+
+547
+00:32:12,931 --> 00:32:14,787
+谁的信件?
+Letters to whom?
+
+548
+00:32:16,101 --> 00:32:18,227
+你是不是藏了我的一些东西?
+You hiding something from me?
+
+549
+00:32:20,063 --> 00:32:21,772
+我为什么要那么做?
+Why would I do that?
+
+550
+00:32:21,982 --> 00:32:25,693
+这个原因你自己很清楚
+Same reason you keep answering my questions with questions.
+
+551
+00:32:26,278 --> 00:32:28,811
+听起来你已经知道原因了
+Sounds like you already know the answers.
+
+552
+00:32:28,822 --> 00:32:30,364
+不
+No.
+
+553
+00:32:31,074 --> 00:32:32,616
+我不知道
+I don't.
+
+554
+00:32:34,870 --> 00:32:36,662
+我知道的是...
+What I do know...
+
+555
+00:32:37,039 --> 00:32:38,873
+那些信是约翰 特勒写的
+...is that letters from John Teller...
+
+556
+00:32:39,041 --> 00:32:42,305
+如果我儿子读到那些信 他将会痛苦不堪
+...would be very painful for my son to read.
+
+557
+00:32:42,461 --> 00:32:43,544
+为什么?
+Why?
+
+558
+00:32:49,593 --> 00:32:53,220
+约翰当时爱上了莫林・阿什比
+John was in love with Maureen Ashby.
+
+559
+00:32:56,808 --> 00:32:58,976
+那次我们去比尔法斯特的时候
+When we were in Belfast...
+
+560
+00:32:59,603 --> 00:33:01,748
+我发现了他们之间有个孩子
+...found out she had a kid with him.
+
+561
+00:33:01,813 --> 00:33:04,231
+于是那些陈年往事被激起千层浪
+Stirred up all that old shit.
+
+562
+00:33:05,901 --> 00:33:08,986
+当时我也已经爱上了克雷
+I had already fallen in love with Clay.
+
+563
+00:33:12,616 --> 00:33:14,700
+所以在托马斯死后
+When Thomas died, uh...
+
+564
+00:33:17,746 --> 00:33:19,605
+我就再也不去忌讳这个
+...I didn't care anymore.
+
+565
+00:33:19,790 --> 00:33:21,874
+我当时甚至都不隐藏点什么
+I didn't even try to hide it.
+
+566
+00:33:22,501 --> 00:33:25,795
+那是个错误 把克雷推到了风口浪尖上
+That was a mistake. Put Clay at risk.
+
+567
+00:33:25,962 --> 00:33:28,839
+对约翰来说 这是多么耻辱的事
+It was humiliating for JT.
+
+568
+00:33:30,634 --> 00:33:32,735
+杰克斯对这些事毫无所知
+Jax doesn't know any of that.
+
+569
+00:33:34,346 --> 00:33:38,682
+但如果他知道了 他肯定会和克雷隔阂很大
+Him finding out could set things off with Clay again.
+
+570
+00:33:47,150 --> 00:33:49,568
+约翰当时伤透了我的心
+John ripped me apart.
+
+571
+00:33:52,239 --> 00:33:56,777
+他在贝尔法斯特一直待了数月
+Spent months at a time in Belfast...
+
+572
+00:33:56,785 --> 00:33:58,327
+就为了和她在一起
+...with her.
+
+573
+00:34:00,122 --> 00:34:02,123
+丢下了我
+Left me here.
+
+574
+00:34:02,290 --> 00:34:03,791
+一个人在这
+Alone.
+
+575
+00:34:04,626 --> 00:34:06,621
+照顾他的孩子
+With his sons.
+
+576
+00:34:09,339 --> 00:34:10,840
+抱歉
+Sorry.
+
+577
+00:34:13,468 --> 00:34:15,136
+我爱他
+I loved him.
+
+578
+00:34:18,223 --> 00:34:20,661
+像你爱贾克斯那样
+Like you and Jax.
+
+579
+00:34:24,771 --> 00:34:27,148
+我才十九岁
+I was 19.
+
+580
+00:34:29,526 --> 00:34:32,653
+那时他就是我的一切
+He was my goddamn world.
+
+581
+00:34:38,326 --> 00:34:40,828
+这事对任何人都没好处
+This ain't good for anybody.
+
+582
+00:34:40,996 --> 00:34:42,714
+你明白我的意思吗?
+You understand me?
+
+583
+00:34:45,500 --> 00:34:50,794
+任它传播 对我们家庭最终都没好处
+Wherever this leads, this is bad for our family.
+
+584
+00:35:14,696 --> 00:35:17,907
+噢噢 那太疯狂了
+Oh, ho. That was crazy.
+
+585
+00:35:18,158 --> 00:35:22,117
+我看到自己拉出了我七岁时吞下的东西
+I just saw some stuff in there I ate when I was 7 years old.
+
+586
+00:35:22,370 --> 00:35:25,581
+现在一身轻松 焕然一新啊
+I'm like 100 pounds lighter. I'm a brand-new man.
+
+587
+00:35:25,749 --> 00:35:28,751
+嘿 你肠道彻底清洗过了
+Hey, just got a full cleanse.
+
+588
+00:35:29,169 --> 00:35:34,166
+等等 什么? 好 回聊
+Hang on. You know what? Sure, I'll call you back.
+
+589
+00:35:34,716 --> 00:35:37,735
+如果你们要光顾 我推荐绿茶哦
+If you guys are heading in, I recommend the green tea.
+
+590
+00:35:37,739 --> 00:35:39,428
+双手扶墙 过去
+Hands on the wall. Let's go.
+
+591
+00:35:48,396 --> 00:35:50,314
+有带卡
+Got a card for that.
+
+592
+00:35:50,482 --> 00:35:53,000
+联邦政府才不鸟这个
+The federal government doesn't give a shit.
+
+593
+00:35:53,068 --> 00:35:55,194
+你他妈逗我?
+Is this some kind of joke?
+
+594
+00:35:55,737 --> 00:35:57,613
+你说呢?
+Does that feel like a joke?
+
+595
+00:35:57,781 --> 00:35:59,406
+走
+Let's go.
+
+596
+00:36:12,921 --> 00:36:14,713
+你们两个还好吧?
+You boys still love each other?
+
+597
+00:36:17,217 --> 00:36:19,051
+嗯 没问题
+Yeah. Cool.
+
+598
+00:36:19,219 --> 00:36:21,595
+这才是大团圆结局
+It's all about the happy ending.
+
+599
+00:36:21,763 --> 00:36:23,639
+耶耶耶 走吧 来
+Yeah, yeah, yeah, let's go. Come on.
+
+600
+00:36:24,432 --> 00:36:26,517
+要投票
+Got a vote to get to.
+
+601
+00:36:29,271 --> 00:36:30,938
+好的 来
+All right, here you go.
+
+602
+00:36:32,524 --> 00:36:33,732
+什么回事?
+So, what's going on?
+
+603
+00:36:33,900 --> 00:36:36,611
+嘿 我只是想和你聊会 就这样
+Hey, I just wanna have a conversation, that's all.
+
+604
+00:36:36,611 --> 00:36:38,120
+你跟我律师聊去 
+You can do that with my lawyer. 
+
+605
+00:36:38,121 --> 00:36:39,780
+噢 用不着你的律师
+Oh, you don't need your lawyer.
+
+606
+00:36:39,948 --> 00:36:42,132
+我才不鸟你的草药店 伙计
+I don't give a shit about the weed, man.
+
+607
+00:36:42,200 --> 00:36:43,867
+请坐
+Please, sit down.
+
+608
+00:36:51,501 --> 00:36:53,502
+那你抓我干嘛?
+So why'd you pick me up?
+
+609
+00:36:55,922 --> 00:37:01,110
+这是我和我爸在洛科威沙滩钓鱼拍的
+This is me and my father fishing at Rockaway Beach.
+
+610
+00:37:01,177 --> 00:37:02,845
+啊 所以 
+Huh? Heh.
+
+611
+00:37:03,972 --> 00:37:06,265
+- 你是在昆士长大的对吧? - 嗯哼
+Now, you grew up in Queens, right? Heh, heh.
+
+612
+00:37:06,641 --> 00:37:08,710
+没人会在洛科威钓鱼
+Nobody fished at Rockaway.
+
+613
+00:37:08,710 --> 00:37:11,477
+除非你是想去烧瓶子针筒
+Not unless you wanted to fry up bottles and syringes.
+
+614
+00:37:11,477 --> 00:37:14,315
+- 你不是昆士长大的 - 你想玩什么?
+That ain't Queens. What's the game here, man?
+
+615
+00:37:17,068 --> 00:37:19,320
+- 你见过你爸爸吗? - 没
+Do you ever see your father? No.
+
+616
+00:37:21,281 --> 00:37:23,157
+我可以给你安排
+I can arrange that.
+
+617
+00:37:32,083 --> 00:37:34,626
+迈克尔・霍华德・科尔
+Michael Howard Cole.
+
+618
+00:37:36,504 --> 00:37:38,339
+他是你爸
+It's your daddy...
+
+619
+00:37:38,757 --> 00:37:40,299
+胡汉・卡洛斯
+...Juan Carlos.
+
+620
+00:37:42,135 --> 00:37:43,260
+哼?
+Huh?
+
+621
+00:37:44,763 --> 00:37:48,349
+从你的沉默中 我可以知道
+By your silence, I'm assuming that...
+
+622
+00:37:48,558 --> 00:37:49,808
+你已经知道了
+...you already knew.
+
+623
+00:37:50,977 --> 00:37:53,354
+我知道他是谁 我没见过他
+I knew who he was. I never met him.
+
+624
+00:37:54,981 --> 00:37:58,359
+我不知道你能不能在照片上看出来 但是 呃
+Now, I don't know if you can tell by this picture, but, um...
+
+625
+00:37:59,194 --> 00:38:00,739
+他是黑人
+...he's black.
+
+626
+00:38:00,862 --> 00:38:03,030
+纯黑那种
+Like, African black.
+
+627
+00:38:03,198 --> 00:38:04,365
+嗯
+Yeah.
+
+628
+00:38:04,574 --> 00:38:06,367
+我受遗传了
+I picked that up.
+
+629
+00:38:06,868 --> 00:38:08,285
+对
+Yeah.
+
+630
+00:38:08,703 --> 00:38:12,790
+我不知道 你说如果帮派知道了
+I don't know, you tell me. What would the club do if they found out that...
+
+631
+00:38:12,957 --> 00:38:14,558
+你是黑人会怎样?
+...you were black?
+
+632
+00:38:16,044 --> 00:38:18,337
+嗯?你不知道?
+Hm? You don't know?
+
+633
+00:38:18,797 --> 00:38:20,381
+我来给你描述一下
+Let me break it down for you.
+
+634
+00:38:20,590 --> 00:38:24,051
+他们先把你赶出去 然后让你剥掉纹身
+Well, first they'll pull your patch, then they make you scrape the ink.
+
+635
+00:38:24,219 --> 00:38:27,888
+如果运气好 你还能活着出去
+Then if you're lucky enough, you'll walk out alive.
+
+636
+00:38:28,390 --> 00:38:32,142
+但对于萨门克罗来说 就当从来没你这个人了
+As far as Samcro is concerned, you never even existed.
+
+637
+00:38:33,019 --> 00:38:34,833
+这些都是肯定的
+So much for affirmative action.
+
+638
+00:38:34,833 --> 00:38:38,148
+- 你知道我帮派个屁 - 对 没错
+You don't know dick about my club. Yeah, you right.
+
+639
+00:38:40,026 --> 00:38:42,820
+帮派我知道个屁
+About dick, nothing.
+
+640
+00:38:43,238 --> 00:38:47,604
+但是你呢 惨了 啥都知道
+But Leroy? Shit, everything.
+
+641
+00:38:49,869 --> 00:38:51,412
+祝你愉快
+Enjoy your day.
+
+642
+00:38:58,628 --> 00:39:00,546
+那现在怎样?
+So, what happens now?
+
+643
+00:39:01,089 --> 00:39:03,507
+我们都回家去
+We go back home to our families.
+
+644
+00:39:04,759 --> 00:39:06,885
+我会保持联系的 兄弟
+I'll stay in touch, brother.
+
+645
+00:39:31,035 --> 00:39:33,078
+墨西哥酒当午餐?
+Mexican for lunch?
+
+646
+00:39:33,788 --> 00:39:36,206
+是啊 差不多
+Yeah, something like that.
+
+647
+00:39:38,543 --> 00:39:40,294
+什么事?
+What's going on?
+
+648
+00:39:41,796 --> 00:39:45,424
+我倒希望你告诉我呢 他会听你说的
+I was hoping you could tell me. He listens to you.
+
+649
+00:39:45,592 --> 00:39:47,050
+谁?
+Who?
+
+650
+00:39:47,427 --> 00:39:48,927
+克雷?
+Clay?
+
+651
+00:39:50,638 --> 00:39:54,271
+他正带着我们走向深渊
+You know, he is getting us involved in some very deep shit.
+
+652
+00:39:54,277 --> 00:39:56,268
+你说什么呢?
+What are you talking about?
+
+653
+00:39:56,895 --> 00:40:00,621
+你男人想让我们给集团运毒
+Your old man wants us running drugs for the cartel.
+
+654
+00:40:02,484 --> 00:40:05,068
+帮里全部人都跟着他
+And all those other drones at the table...
+
+655
+00:40:05,278 --> 00:40:08,822
+大家都会消亡殆尽的
+...they're gonna follow him right down to that last little crumb.
+
+656
+00:40:17,540 --> 00:40:20,250
+跟他讲讲道理 伽玛
+Talk some sense into him, Gemma.
+
+657
+00:40:39,354 --> 00:40:41,605
+怎样? 发生什么事了
+So? What happened?
+
+658
+00:40:41,773 --> 00:40:45,541
+鸟事 他们头摆摆架势
+It's nothing. Method Man just slapping his dick around.
+
+659
+00:40:46,361 --> 00:40:48,362
+- 真的? - 是啊
+Yeah? Yeah.
+
+660
+00:41:32,657 --> 00:41:35,617
+你们给墨西哥人运毒?
+You guys are running coke for the Mexicans?
+
+661
+00:41:35,785 --> 00:41:37,286
+什么?
+What?
+
+662
+00:41:38,288 --> 00:41:39,649
+谁告诉你的?
+Who told you that?
+
+663
+00:41:40,081 --> 00:41:41,748
+反正不是你
+Not you.
+
+664
+00:41:46,796 --> 00:41:48,088
+你不需要知道
+You don't need to know.
+
+665
+00:41:48,298 --> 00:41:50,299
+我们不该干这个
+Drugs are not what we do.
+
+666
+00:41:53,428 --> 00:41:56,263
+你别跟我说要干什么
+You don't tell me what we do.
+
+667
+00:42:09,944 --> 00:42:11,737
+还好吗?
+Everything okay?
+
+668
+00:42:11,904 --> 00:42:14,781
+恩 我们来把事情解决了吧
+Yeah. Let's just get this done.
+
+669
+00:42:20,330 --> 00:42:25,834
+我知道怎么解决你的问题
+I had a cure for your disease
+
+670
+00:42:27,462 --> 00:42:28,879
+但你不听
+But you threw it away
+
+671
+00:42:29,964 --> 00:42:32,799
+而且你说得很清楚 不让我插手
+And you made it clear I was not welcome
+
+672
+00:42:32,967 --> 00:42:34,343
+嘿
+Hey.
+
+673
+00:42:35,762 --> 00:42:38,472
+你真的觉得我们能处理好毒品的事吗?
+You really think that we can handle the drug end of this?
+
+674
+00:42:38,640 --> 00:42:40,265
+我们可以的
+I know we can.
+
+675
+00:42:40,516 --> 00:42:42,684
+你像克雷一样疯了
+Getting as cocky as Clay too.
+
+676
+00:42:42,852 --> 00:42:45,020
+这不是坏事 伙计
+That's not a bad thing, man.
+
+677
+00:42:45,438 --> 00:42:46,938
+你变得强硬了
+You came out harder.
+
+678
+00:42:47,148 --> 00:42:49,274
+像帮派的领袖
+Looking like a guy who can lead a club.
+
+679
+00:42:49,442 --> 00:42:52,319
+今天的破事 你都处理好了 
+That bullshit today, you handled it, man.
+
+680
+00:42:52,945 --> 00:42:55,864
+- 谢谢 - 我会投支持票的
+Thanks. You got my vote.
+
+681
+00:42:56,032 --> 00:42:59,430
+还有迈尔斯 当我们做完集团的生意
+And Miles. And when we're done with the cartel...
+
+682
+00:42:59,430 --> 00:43:02,245
+还有克雷下台了 你和我就是帮派的领袖
+...and Clay is gone, it's you and me at the head of that table.
+
+683
+00:43:02,413 --> 00:43:04,331
+把帮派带回正轨吧
+Get this back to the way it should be.
+
+684
+00:43:06,167 --> 00:43:07,834
+你同意吗?
+You good with that?
+
+685
+00:43:08,795 --> 00:43:11,004
+# 这一切本来都会属于你 #
+And all of this would've been
+
+686
+00:43:11,172 --> 00:43:14,841
+# 这一切本来就该属于你 #
+All of this could've been yours
+
+687
+00:43:15,885 --> 00:43:18,387
+你们都有足够时间想清楚
+You've all had time to think on this.
+
+688
+00:43:19,180 --> 00:43:20,847
+赞成或反对
+Yea or nay.
+
+689
+00:43:21,182 --> 00:43:24,559
+我们和盖林度集团做生意
+We get in business with the Galindo Cartel.
+
+690
+00:43:27,313 --> 00:43:31,817
+赞成
+Yea.
+
+691
+00:43:33,277 --> 00:43:35,654
+他们信不过
+I don't trust them.
+
+692
+00:43:35,822 --> 00:43:37,197
+反对
+No.
+
+693
+00:43:41,911 --> 00:43:43,370
+赞成
+Yea.
+
+694
+00:43:46,374 --> 00:43:48,041
+我赞成
+I'm a yea.
+
+695
+00:43:49,836 --> 00:43:55,340
+反对
+Nay.
+
+696
+00:43:58,803 --> 00:44:00,220
+反对
+No.
+
+697
+00:44:01,806 --> 00:44:03,724
+抱歉
+I'm sorry.
+
+698
+00:44:03,891 --> 00:44:05,100
+我反对
+I'm a no.
+
+699
+00:44:10,940 --> 00:44:13,024
+支持正副会长
+Backing my pres and VP.
+
+700
+00:44:13,192 --> 00:44:21,241
+赞成
+Yea.
+
+701
+00:44:22,243 --> 00:44:24,035
+6个赞成 5个反对
+Six, five.
+
+702
+00:44:25,121 --> 00:44:26,329
+通过
+It passes.
+
+703
+00:44:28,416 --> 00:44:30,625
+# 我的否定和恐惧 #
+My denial and fear
+
+704
+00:44:30,793 --> 00:44:35,464
+# 我所有的怨恨 我所有的眼泪 #
+And all of my hatred And all of my tears
+
+705
+00:44:35,631 --> 00:44:40,260
+# 我所有不能归家的时候 #
+All of the time That I couldn't go home
+
+706
+00:44:40,428 --> 00:44:45,056
+# 我所有独自悲凉的时候 #
+And all of the times That I froze all alone
+
+707
+00:44:45,224 --> 00:44:49,853
+# 所有的悲惨 所有的谎言 #
+And all of the sadness All of the lies
+
+708
+00:44:50,021 --> 00:44:55,108
+# 所有蒙蔽我眼睛的阴影 #
+And all of the shadows That blackened my eyes
+
+709
+00:44:59,947 --> 00:45:03,784
+你要再利用我老婆跟我对抗
+You ever try to end-run me through my old lady again...
+
+710
+00:45:05,119 --> 00:45:07,370
+我就毙了你
+...I'll slit your throat.
+
+711
+00:45:09,457 --> 00:45:14,085
+# 在角落蜷缩吧 他们都在我脑海里 #
+Now creep in the corner They're all in my head
+
+712
+00:45:14,253 --> 00:45:18,965
+# 所有被你变成噩梦的梦 #
+All of the dreams That you made nightmares
+
+713
+00:45:19,133 --> 00:45:23,804
+# 所有沉默而喧嚣的眼神 #
+All of the silence Deafening stares
+
+714
+00:45:23,971 --> 00:45:28,308
+# 所有不堪重负的船 #
+All of the ships Who can't carry loads
+
+715
+00:45:28,476 --> 00:45:33,563
+# 被你在彼岸用愤怒之火焚烧 #
+You wrecked in anger Upon distant shores
+
+716
+00:45:33,731 --> 00:45:36,235
+# 这一切本来都会属于你 #
+All of this would've been 
+
+717
+00:45:36,237 --> 00:45:42,195
+# 这一切本该属于你 #
+All of this could've been yours
+
+718
+00:45:42,865 --> 00:45:46,027
+# 噢 这一切本来都会属于你 # 
+Oh, all of this should've been 
+
+719
+00:45:46,029 --> 00:45:49,579
+# 这一切本来就该属于你 #
+All of this could've been yours
+

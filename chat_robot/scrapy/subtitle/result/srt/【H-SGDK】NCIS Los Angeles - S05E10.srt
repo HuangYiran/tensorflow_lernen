@@ -1,0 +1,3951 @@
+1
+00:00:05,790 --> 00:00:08,810
+美国巴林海军支援设施
+
+2
+00:00:18,895 --> 00:00:19,890
+晚上好 Hill先生
+Good evening, Mr. Hill.
+
+3
+00:00:20,095 --> 00:00:20,705
+你好吗
+How you doing?
+
+4
+00:01:02,280 --> 00:01:05,140
+== 海军罪案调查处:洛杉矶 第五季 第10集 ==
+【H-SGDK】字幕组倾情奉献
+
+5
+00:01:05,220 --> 00:01:08,380
+== 翻译：一直向左走 特特 暮暮 尧之雪 小怪 ==
+
+6
+00:01:08,500 --> 00:01:11,380
+== 校对&时间轴：小怪 天之行者  ==
+
+7
+00:01:11,520 --> 00:01:15,360
+== 后期&统筹：尧之雪 封装：天之行者 ==
+
+8
+00:01:15,480 --> 00:01:20,280
+本字幕仅用于交流 学习之用
+禁止用于任何商业用途 否则后果自负
+
+9
+00:01:25,505 --> 00:01:26,305
+发生了什么
+What the...?
+
+10
+00:01:27,795 --> 00:01:29,100
+这屋子里透着诡异
+Anomaly in the room.
+
+11
+00:01:29,200 --> 00:01:30,615
+Deeks竟然在辛勤工作
+Deeks hard at work.
+
+12
+00:01:31,110 --> 00:01:32,110
+Deeks居然没话痨
+Deeks not talking.
+
+13
+00:01:32,205 --> 00:01:33,100
+真有趣
+Interesting.
+
+14
+00:01:33,145 --> 00:01:35,195
+嗯哼 太有趣了
+Mm-hmm. Very interesting.
+
+15
+00:01:35,220 --> 00:01:36,410
+有趣吗 一点也没有
+Interesting? No, no.
+
+16
+00:01:36,445 --> 00:01:39,305
+我 呃 才不有趣
+I'm, uh, not interesting.
+
+17
+00:01:39,905 --> 00:01:41,200
+现在越来越逗了
+Now that's interesting.
+
+18
+00:01:42,610 --> 00:01:43,805
+Deeks 别介意哈
+Don't mind us, Deeks.
+
+19
+00:01:46,800 --> 00:01:48,085
+都不瞧我们一眼
+Won't make eye contact.
+
+20
+00:01:48,110 --> 00:01:49,310
+心率升高
+Elevated heart rate.
+
+21
+00:01:49,340 --> 00:01:51,210
+坐立不安 还不是咖啡的缘故
+Fidgety... not from the coffee.
+
+22
+00:01:51,250 --> 00:01:53,695
+出汗 也不是因为气候
+Sweaty... and it's not the climate.
+
+23
+00:01:53,725 --> 00:01:54,795
+拜托了
+Come on, guys.
+
+24
+00:01:54,915 --> 00:01:55,695
+开始辩解了
+Defensive.
+
+25
+00:01:55,790 --> 00:01:57,200
+我只是 我觉得也许是
+I just... I think that maybe
+
+26
+00:01:57,235 --> 00:01:59,600
+因为今天喝的咖啡比较浓而已
+the coffee is just stronger today.
+
+27
+00:01:59,635 --> 00:02:00,800
+开始转移话题了
+Changing the subject.
+
+28
+00:02:01,095 --> 00:02:03,700
+他今天有熊猫眼
+And he's got some dark rings under his eyes.
+
+29
+00:02:05,110 --> 00:02:05,905
+早上好
+Morning.
+
+30
+00:02:06,600 --> 00:02:08,115
+你的搭档今天很怪异
+Your partner's acting weird.
+
+31
+00:02:08,200 --> 00:02:10,215
+- 我搭档就是怪胎  - 她说的对
+- My partner is weird. - She has a point.
+
+32
+00:02:11,710 --> 00:02:13,195
+喔 毫无反应
+Oh, he's unresponsive.
+
+33
+00:02:13,220 --> 00:02:15,005
+独具创造性的回避方法
+Creative avoidance.
+
+34
+00:02:15,200 --> 00:02:16,105
+你怎么看
+What do you think?
+
+35
+00:02:18,105 --> 00:02:20,295
+你怎么穿的跟昨天一样
+Isn't that the same shirt you had on yesterday?
+
+36
+00:02:23,000 --> 00:02:23,710
+哇
+Wow.
+
+37
+00:02:24,310 --> 00:02:25,405
+这可是第一次
+This is a first.
+
+38
+00:02:26,200 --> 00:02:27,815
+你们俩就没什么要说的吗
+Neither of you have anything to say.
+
+39
+00:02:27,840 --> 00:02:28,800
+不不 我
+No, no, I...
+
+40
+00:02:30,905 --> 00:02:32,345
+有案子 简短报告
+Case on deck, quick briefing,
+
+41
+00:02:32,375 --> 00:02:33,715
+我们今天有战术任务了
+and then our day gets tactical.
+
+42
+00:02:38,395 --> 00:02:39,660
+- 你先走  - 不 你先走 不 你先走
+- Go ahead. - No, go ahead. No, go ahead.
+
+43
+00:02:39,700 --> 00:02:40,770
+- 不好意思  - 不 你该先走
+- Sorry. - No, I think you should go first,
+
+44
+00:02:40,805 --> 00:02:41,995
+- 我们得去行动中心...  - 好吧
+- 'cause we should go to ops... - Okay.
+
+45
+00:02:42,020 --> 00:02:42,600
+分开走
+separately.
+
+46
+00:02:44,600 --> 00:02:47,100
+不会 才不是我想的
+No... no...
+
+47
+00:02:48,295 --> 00:02:49,105
+才不是
+No!
+
+48
+00:03:01,605 --> 00:03:03,015
+你在想什么
+A penny for your thoughts?
+
+49
+00:03:03,405 --> 00:03:04,695
+早就涨价了
+Price has gone up.
+
+50
+00:03:05,605 --> 00:03:07,595
+分享个故事都不能给个折扣
+There's no discount for shared history?
+
+51
+00:03:07,620 --> 00:03:09,690
+不行 对你没有折扣
+No, no discount for you,
+
+52
+00:03:09,720 --> 00:03:13,785
+因为你恰巧是少数几个懂得交易成本的人
+because you're one of the few who understand the cost.
+
+53
+00:03:13,820 --> 00:03:15,400
+听着像是在恭维我
+That sounds like a compliment.
+
+54
+00:03:15,605 --> 00:03:17,110
+或者是诅咒
+Or a curse.
+
+55
+00:03:22,495 --> 00:03:23,895
+还有些其他事儿浮出水面了
+Something else has come up.
+
+56
+00:03:24,585 --> 00:03:25,995
+不是什么好事儿
+You're not gonna like it.
+
+57
+00:03:30,500 --> 00:03:31,895
+两国交兵不斩来使
+Don't shoot the messenger.
+
+58
+00:03:33,305 --> 00:03:35,195
+这只是时间问题
+It was only a matter of time.
+
+59
+00:03:40,510 --> 00:03:42,560
+24小时前 一位名叫Ron Hill的
+24 hours ago, a Pentagon consultant
+
+60
+00:03:42,590 --> 00:03:46,505
+五角大楼顾问在巴林海军中心指挥部被杀
+named Ron Hill was murdered at the Naval Central Command in Bahrain.
+
+61
+00:03:46,535 --> 00:03:49,895
+他为联合特种作战司令部制定应急方案
+He created contingencies for Joint Special Operations Command.
+
+62
+00:03:49,925 --> 00:03:52,405
+防备全球不可预知事件的发生
+The art of gaming unpredictable global events.
+
+63
+00:03:52,445 --> 00:03:56,290
+他正打算传送一份夺取巴基斯坦核军火库的方案
+And he was about to deliver a plan for seizing Pakistan's nuclear arsenal
+
+64
+00:03:56,335 --> 00:03:58,200
+如果发生政变 美国政府想确保那些
+If a coup happens, the United States wants to make sure
+
+65
+00:03:58,235 --> 00:04:00,215
+大规模杀伤性武器不会落入敌手
+those WMDs don't fall in the wrong hands.
+
+66
+00:04:00,300 --> 00:04:03,015
+问题是 应急计划双方都能利用
+Problem is, contingency plans cut both ways.
+
+67
+00:04:03,040 --> 00:04:04,155
+对我们来说 是解决之道
+For us, it's a solution.
+
+68
+00:04:04,180 --> 00:04:05,695
+而对对方来说 则是个机会
+For the other side, it's an opportunity.
+
+69
+00:04:05,900 --> 00:04:09,350
+保护巴基斯坦核武的计划 也可以借览成
+The plan to secure Pakistan's nukes could also be exploited
+
+70
+00:04:09,385 --> 00:04:10,495
+盗取的计划
+as a plan to steal them.
+
+71
+00:04:10,520 --> 00:04:13,010
+Hill把文件传到了U盘上
+Hill transferred the plan to a thumb drive.
+
+72
+00:04:13,050 --> 00:04:15,510
+仅此一份 不可复制
+It was the only copy, impossible to duplicate.
+
+73
+00:04:15,550 --> 00:04:17,810
+黑市上许多买家对这种情报垂涎三尺
+Lot of buyers in the black market for intel like that.
+
+74
+00:04:17,855 --> 00:04:19,200
+别忘了 还有很多杀手
+Lot of murder suspects, too.
+
+75
+00:04:19,235 --> 00:04:20,510
+凶手轻车熟路
+Killer knew his blade.
+
+76
+00:04:20,550 --> 00:04:22,395
+一刀砍头 这本事可不小
+Taking a head with one cut takes skill.
+
+77
+00:04:22,435 --> 00:04:24,005
+我以前去过巴林基地
+I've been to that base in Bahrain.
+
+78
+00:04:24,040 --> 00:04:25,500
+廓尔喀人负责看守
+Gurkhas pull security there.
+
+79
+00:04:25,540 --> 00:04:26,500
+廓什么 是谁
+Gerka-what? Who?
+
+80
+00:04:26,540 --> 00:04:29,695
+是十四岁就从尼泊尔深山里征募的部队
+Commandos recruited from the mountains of Nepal at age 14.
+
+81
+00:04:29,740 --> 00:04:31,575
+给他们把枪 他们能毁掉一个射击场
+Hand 'em a gun, and they'll tear up a shooting range.
+
+82
+00:04:31,615 --> 00:04:34,200
+给他们把刀 他们能悄无声息地毁灭整个城市
+You hand them a knife, they'll wipe out an entire city without making a noise.
+
+83
+00:04:34,240 --> 00:04:36,800
+他们擅长各种兵刃 但是以廓尔喀刀闻名
+They're good with any blade, but they made the kukri famous.
+
+84
+00:04:36,845 --> 00:04:38,005
+他们就是传奇
+They're legendary.
+
+85
+00:04:38,040 --> 00:04:40,915
+廓尔喀人平均身高一米六 125磅重
+The average Gurkha's about 5'4'', 125 pounds,
+
+86
+00:04:40,940 --> 00:04:44,300
+有传闻说 他们在阿富汗杀死的人比其他军队都多
+and rumor has it, they stacked more kills in Afghanistan than anyone else,
+
+87
+00:04:44,340 --> 00:04:45,895
+除了美国和英国以外
+except for America and England.
+
+88
+00:04:45,925 --> 00:04:48,600
+没有什么比一个拿着刀的男人更能激发你内心的狂热了
+Well, nothing brings out your inner fangirl like a guy with a knife.
+
+89
+00:04:48,635 --> 00:04:52,500
+Hill被杀当晚负责安保的 事实上 确实是廓尔喀人
+Security detail in Bahrain on the night of Hill's murder were, in fact, Gurkhas
+
+90
+00:04:52,720 --> 00:04:53,680
+从印度军队借调过来的
+on loan from India's Army.
+
+91
+00:04:53,820 --> 00:04:56,080
+他们宣称关于Hill的谋杀案 是被陷害的
+And they claim they're being framed for Hill's murder.
+
+92
+00:04:56,160 --> 00:04:57,700
+Eric 你说过我们要进行战术行动
+Eric, you said we were going tactical?
+
+93
+00:04:57,735 --> 00:04:59,695
+U盘内存储的归航信标
+Homing beacon planted inside the thumb drive
+
+94
+00:04:59,725 --> 00:05:02,185
+显示其现在正位于好莱坞的一间旅馆内
+shows that it's now located in this Hollywood hotel.
+
+95
+00:05:02,610 --> 00:05:03,995
+如果我们要跟廓尔喀人交手呢
+And what if we're fighting Gurkhas?
+
+96
+00:05:04,610 --> 00:05:05,700
+保护好你的脖子
+Protect your neck.
+
+97
+00:05:10,590 --> 00:05:11,895
+我们在二楼
+We're on the second floor.
+
+98
+00:05:12,595 --> 00:05:14,000
+房间号255
+Room 255.
+
+99
+00:05:14,195 --> 00:05:16,810
+GPS信号只能精确到十英尺的范围
+A GPS beacon's accurate to ten feet.
+
+100
+00:05:16,850 --> 00:05:18,200
+U盘不是在那个房间
+The thumb drive's either in that room,
+
+101
+00:05:18,235 --> 00:05:19,405
+就是在正下方的那间
+or the one directly below it.
+
+102
+00:05:19,435 --> 00:05:21,010
+正在接近155号房间
+Approaching room 155.
+
+103
+00:05:24,215 --> 00:05:25,195
+准备破门
+Ready to breach.
+
+104
+00:05:25,390 --> 00:05:26,295
+听我口令
+On my count.
+
+105
+00:05:26,810 --> 00:05:28,710
+三 二
+Three... two...
+
+106
+00:05:28,890 --> 00:05:29,495
+一
+...one.
+
+107
+00:05:32,100 --> 00:05:33,110
+联邦探员
+Federal agents!
+
+108
+00:05:36,505 --> 00:05:37,420
+安全
+Clear.
+
+109
+00:05:37,690 --> 00:05:38,405
+安全
+Clear.
+
+110
+00:05:40,195 --> 00:05:41,005
+Kens
+Kens!
+
+111
+00:05:51,105 --> 00:05:51,820
+你还好吗
+You good?
+
+112
+00:05:51,855 --> 00:05:53,410
+北侧停车场有枪手正在移动
+We've got an active shooter in the north lot.
+
+113
+00:05:53,505 --> 00:05:54,400
+我们正在追
+We're moving.
+
+114
+00:05:54,500 --> 00:05:55,910
+- 我们分开追 拦住他  - 好
+- Split up, cut him off.   - Check.
+
+115
+00:06:10,490 --> 00:06:12,795
+Deeks Kensi 走廊里击毙一人
+Deeks, Kensi, one hostile down in the hallway.
+
+116
+00:06:16,595 --> 00:06:17,895
+没有U盘
+No thumb drive.
+
+117
+00:06:24,810 --> 00:06:26,490
+嗨 你还好吗
+Hey, are you okay?
+
+118
+00:06:28,790 --> 00:06:30,005
+是吗 你叫什么名字
+Yeah? What's your name?
+
+119
+00:06:30,090 --> 00:06:31,385
+- 我叫 Maddie  - 是Maddie吗
+- Maddie. - Maddie?
+
+120
+00:06:31,430 --> 00:06:32,725
+- 好的 听着...  - 放下武器
+- All right, look... - Drop your weapons.
+
+121
+00:06:39,100 --> 00:06:39,910
+没事儿的
+It's okay.
+
+122
+00:06:40,790 --> 00:06:41,980
+你会没事儿的 Maddie
+You're gonna be fine, Maddie.
+
+123
+00:06:42,015 --> 00:06:42,495
+好吗
+Okay?
+
+124
+00:06:43,900 --> 00:06:44,990
+这刀不错
+Nice knife.
+
+125
+00:06:46,685 --> 00:06:47,790
+让这个小女孩离开
+Please let the girl go.
+
+126
+00:06:48,700 --> 00:06:49,600
+你走吧
+Get out of here.
+
+127
+00:06:50,495 --> 00:06:51,000
+快跑
+Run.
+
+128
+00:06:51,790 --> 00:06:52,410
+快跑
+Run!
+
+129
+00:06:52,450 --> 00:06:53,900
+- Kensi你在哪儿  - Deeks 这儿
+- Kensi?! - Deeks!
+
+130
+00:06:58,300 --> 00:07:00,795
+走开 否则我让她血溅当场
+Move, and I'll empty her guts all over the pavement.
+
+131
+00:07:01,905 --> 00:07:02,995
+开枪
+Take the shot.
+
+132
+00:07:05,905 --> 00:07:06,810
+放下武器
+Drop it!
+
+133
+00:07:07,190 --> 00:07:08,305
+快开枪
+Take the shot.
+
+134
+00:07:08,590 --> 00:07:09,705
+快 我们走
+Come on, let's go!
+
+135
+00:07:10,395 --> 00:07:11,405
+开枪啊
+Send it.
+
+136
+00:07:11,505 --> 00:07:12,215
+上车
+Get in!
+
+137
+00:07:21,810 --> 00:07:22,790
+你怎么样
+You okay?
+
+138
+00:07:23,100 --> 00:07:24,195
+我没机会开枪
+I didn't have a shot.
+
+139
+00:07:28,710 --> 00:07:29,215
+嗨
+Hey.
+
+140
+00:07:33,495 --> 00:07:34,900
+听我说 我没机会开枪
+Listen, I didn't have a shot.
+
+141
+00:07:46,400 --> 00:07:47,795
+我压根没机会
+I didn't have a shot!
+
+142
+00:08:09,095 --> 00:08:10,195
+U盘
+Thumb drive?
+
+143
+00:08:10,390 --> 00:08:11,805
+GPS信号消失了
+GPS beacon's down.
+
+144
+00:08:11,830 --> 00:08:13,210
+他们一定破解了我们的追踪方法
+They must have figured out how we tracked them.
+
+145
+00:08:13,690 --> 00:08:14,790
+这帮人不是廓尔喀人
+They weren't Gurkhas.
+
+146
+00:08:14,825 --> 00:08:16,100
+体型太大 话太多
+Too big. Too loud.
+
+147
+00:08:16,135 --> 00:08:17,005
+没有作战技巧
+No finesse.
+
+148
+00:08:17,495 --> 00:08:18,790
+他们是巴基斯坦人
+They were Pakistani.
+
+149
+00:08:19,495 --> 00:08:20,560
+你放倒的枪手
+The shooter you took down
+
+150
+00:08:20,595 --> 00:08:22,820
+是一名三军情报局的特工
+was an Inter-Services Intelligence agent
+
+151
+00:08:22,855 --> 00:08:24,395
+非官方身份的卧底
+working under non-official cover.
+
+152
+00:08:24,495 --> 00:08:26,310
+廓尔喀人服役于印度军队
+Gurkhas serve in the Indian military.
+
+153
+00:08:27,010 --> 00:08:29,305
+巴基斯坦和印度是毗邻的竞争对手
+Pakistan and India are rivals who share a border.
+
+154
+00:08:30,205 --> 00:08:31,505
+有很多历史纷争
+There's a lot of history there.
+
+155
+00:08:31,535 --> 00:08:32,305
+许多仇恨
+Lot of hate.
+
+156
+00:08:32,495 --> 00:08:35,015
+Hill起草计划来夺取巴基斯坦核武
+Hill drew up the plan to seize the Pakistan nukes.
+
+157
+00:08:35,710 --> 00:08:37,810
+他们得确定这份计划不会流传出去
+They'd love to make sure it never got out.
+
+158
+00:08:38,710 --> 00:08:41,905
+偷一个U盘并且陷害他们最大的敌人
+Well, stealing a thumb drive and framing your worst enemy for murder
+
+159
+00:08:42,795 --> 00:08:46,305
+- 兵行险招  - 有什么想法呢
+- it's a pretty bold move. - Thoughts?
+
+160
+00:08:47,495 --> 00:08:50,895
+这符合巴基斯坦情报机关的思维
+It's consistent with our profile of the Pakistani spy agency's mindset.
+
+161
+00:08:51,000 --> 00:08:51,700
+附议
+Agreed.
+
+162
+00:08:53,705 --> 00:08:54,495
+不好意思
+Excuse me.
+
+163
+00:08:58,000 --> 00:08:58,800
+我马上回来
+I'll be right back.
+
+164
+00:09:05,995 --> 00:09:07,905
+- 有什么事吗  - 是的
+- Something we should know? - Yeah.
+
+165
+00:09:09,200 --> 00:09:11,290
+还有两名ISI特工还未到案
+Two more ISI agents are on the loose,
+
+166
+00:09:11,330 --> 00:09:12,490
+他们手上有U盘
+and they have the thumb drive.
+
+167
+00:09:12,885 --> 00:09:13,600
+找到他们
+Find 'em.
+
+168
+00:09:14,500 --> 00:09:14,995
+好的
+Okay.
+
+169
+00:09:37,990 --> 00:09:40,210
+24小时之前 你本该抓住机会开枪
+24 hours ago, you would have taken that shot.
+
+170
+00:09:40,290 --> 00:09:42,500
+- 我没有机会  - 不 你有的
+- I didn't have the shot. - Yes, you did.
+
+171
+00:09:47,220 --> 00:09:48,990
+好吧 昨天 我是该开枪的
+Okay, yesterday, I would have taken the shot,
+
+172
+00:09:49,025 --> 00:09:51,905
+但现在已经不是昨天了 对吗
+but it's not yesterday anymore... is it?
+
+173
+00:09:55,010 --> 00:09:55,610
+对吗
+Is it?
+
+174
+00:09:58,405 --> 00:10:00,105
+发生了什么
+What happened out there?
+
+175
+00:10:00,505 --> 00:10:02,710
+跟往常行动没什么区别
+Same thing that happens every time we go kinetic.
+
+176
+00:10:02,750 --> 00:10:05,305
+有些意外的事情发生了 我们赶紧补救
+Variables got in the way, and decisions were made.
+
+177
+00:10:05,695 --> 00:10:07,500
+我们正在进行行动后的汇报
+We ran our after-action debrief,
+
+178
+00:10:07,540 --> 00:10:08,805
+正有所进展
+and we're moving forward.
+
+179
+00:10:08,835 --> 00:10:11,605
+但是意外还没解决啊 Hanna先生
+But the variables are still out there, Mr. Hanna.
+
+180
+00:10:11,640 --> 00:10:13,505
+我们会找回U盘的
+We'll recover the thumb drive.
+
+181
+00:10:13,540 --> 00:10:16,090
+我不是在说U盘
+The thumb drive is not what I'm referring to.
+
+182
+00:10:17,210 --> 00:10:20,095
+你的队伍 准备好出任务了吗
+Is your team mission-ready?
+
+183
+00:10:22,205 --> 00:10:23,115
+希望吧
+I hope so.
+
+184
+00:10:24,205 --> 00:10:27,395
+这个嘛 希望可不是个计划 Callen先生
+Well, hope is not a plan, Mr. Callen.
+
+185
+00:10:41,000 --> 00:10:41,715
+好吧
+Okay.
+
+186
+00:10:41,895 --> 00:10:43,205
+我该开枪的
+I should have taken the shot,
+
+187
+00:10:43,235 --> 00:10:46,840
+我让我的感情妨碍了工作 很抱歉
+and I let my emotions get in the way, and I'm sorry.
+
+188
+00:10:46,870 --> 00:10:48,310
+我真的尽力做到感情和工作互不干涉了
+I'm honestly just trying to make this work.
+
+189
+00:10:49,700 --> 00:10:50,805
+这不可能的
+It's not going to work.
+
+190
+00:10:55,290 --> 00:10:56,995
+我好像正站在冰冻的湖面上
+I'm standing on my frozen lake.
+
+191
+00:10:58,195 --> 00:10:59,495
+我不知道你什么意思
+I don't know what that means.
+
+192
+00:11:00,295 --> 00:11:01,795
+这是我从菲律宾格斗课学到的
+It's something that I learned in Sayoc.
+
+193
+00:11:04,210 --> 00:11:06,406
+冰湖这个词 代表你在这世上
+Your frozen lake is the name for what you want
+
+194
+00:11:06,886 --> 00:11:09,090
+最想要的东西 你想拥有它
+the most in the world, and you want it...
+
+195
+00:11:09,809 --> 00:11:11,083
+你渴求得到它
+you want it so bad
+
+196
+00:11:12,140 --> 00:11:13,298
+宁愿为此付出一切
+that you'll do anything to get it.
+
+197
+00:11:14,920 --> 00:11:15,993
+你的心在驱使着行动
+And your heart takes over.
+
+198
+00:11:18,953 --> 00:11:20,141
+但是正因如此
+But because of that...
+
+199
+00:11:20,996 --> 00:11:22,572
+它最后会毁了你
+it destroys you in the end.
+
+200
+00:11:25,010 --> 00:11:27,310
+你想要的就在那儿 就在冰封的湖面中间待着
+It's right there, just sitting in the middle of this frozen lake.
+
+201
+00:11:28,627 --> 00:11:30,012
+你觉得自己速度够快
+And you think you're fast enough to...
+
+202
+00:11:30,150 --> 00:11:32,190
+能在冰面碎裂之前 过去抓住它
+to go out there and grab it before the ice cracks...
+
+203
+00:11:32,770 --> 00:11:34,270
+不过你没有发现的是
+And what you don't realize is...
+
+204
+00:11:35,390 --> 00:11:36,640
+自己已经站在冰上
+you're already standing on the ice
+
+205
+00:11:36,670 --> 00:11:37,827
+而且冰面正在你周围开裂
+and it's falling apart around you.
+
+206
+00:11:42,650 --> 00:11:44,806
+呃 洛杉矶警方刚找到了尸体
+Um, LAPD just found a body.
+
+207
+00:11:44,930 --> 00:11:46,307
+是旅店的其中一个枪手
+One of the shooters from the hotel.
+
+208
+00:11:48,750 --> 00:11:49,446
+好勒
+Good.
+
+209
+00:12:05,120 --> 00:12:06,732
+倒数第二个ISI特工
+Second-to-last ISI agent.
+
+210
+00:12:07,950 --> 00:12:09,255
+一招毙命
+One cut, one kill.
+
+211
+00:12:10,806 --> 00:12:12,012
+洛杉矶警方怎么说
+What did LAPD say?
+
+212
+00:12:12,070 --> 00:12:13,236
+他们没找到U盘
+They didn't find the thumb drive.
+
+213
+00:12:13,260 --> 00:12:14,338
+凶手消失得无影无踪
+The last shooter's in the wind.
+
+214
+00:12:14,610 --> 00:12:15,680
+他们跑了
+Well, they were on the run.
+
+215
+00:12:16,060 --> 00:12:17,778
+他们可能对事态升级情况达不成一致吧
+Could've had a disagreement that escalated.
+
+216
+00:12:18,010 --> 00:12:18,972
+但是他们有枪
+But they had guns.
+
+217
+00:12:18,990 --> 00:12:20,646
+如果情况恶化 为什么还非得用刀呢
+If it escalated, why mess around with knives?
+
+218
+00:12:20,670 --> 00:12:21,723
+为什么不直接打死呢
+Why not just shoot someone?
+
+219
+00:12:22,200 --> 00:12:23,661
+也许不是意见不合
+Maybe it wasn't a disagreement.
+
+220
+00:12:23,840 --> 00:12:25,015
+可能是个埋伏
+Maybe it was an ambush.
+
+221
+00:12:25,540 --> 00:12:27,335
+让一个极度反感被诬陷为谋杀
+An ambush by someone who doesn't take kindly
+
+222
+00:12:27,370 --> 00:12:29,212
+和从事间谍活动的人伏击了
+to being framed for murder and espionage.
+
+223
+00:12:30,584 --> 00:12:31,340
+有道理
+Yeah.
+
+224
+00:12:32,578 --> 00:12:33,981
+他可能也没跑那么远
+Maybe he's closer than we think.
+
+225
+00:12:37,033 --> 00:12:37,649
+Sam
+Sam?
+
+226
+00:12:38,160 --> 00:12:38,800
+没错
+Yup.
+
+227
+00:12:40,978 --> 00:12:42,190
+注意那把刀
+Watch for the blade.
+
+228
+00:12:43,160 --> 00:12:45,181
+带刀来参加枪战 够他喝一壶了
+Bring a knife to a gunfight, he'll see what happens.
+
+229
+00:13:06,790 --> 00:13:07,606
+没法开枪
+No shot!
+
+230
+00:13:31,267 --> 00:13:33,280
+知道吗 这就是我说带刀来枪战的后果
+What was that I said about bringing a knife to a gunfight?
+
+231
+00:13:37,630 --> 00:13:38,713
+没有U盘
+No thumb drive.
+
+232
+00:13:39,624 --> 00:13:40,492
+你是谁
+Who are you?
+
+233
+00:13:40,843 --> 00:13:42,129
+Jemadar Thapa
+Jemadar Thapa,
+
+234
+00:13:42,486 --> 00:13:44,356
+廓尔喀第五步枪团
+5th Gurkha Rifle Regiment,
+
+235
+00:13:44,966 --> 00:13:46,455
+边防部队
+Frontier Force.
+
+236
+00:13:46,892 --> 00:13:49,169
+Jai Maa kali, Ayo Gorkhali
+Jai Maa kali, Ayo Gorkhali.
+
+237
+00:13:51,370 --> 00:13:53,033
+"胜利归于吾神时母
+"Victory to the Goddess Kali,
+
+238
+00:13:54,258 --> 00:13:55,593
+廓尔喀部队来了"
+the Gurkhas are coming."
+
+239
+00:13:56,769 --> 00:13:57,950
+他们的作战口号
+It's their war cry.
+
+240
+00:14:14,535 --> 00:14:16,418
+如果有人告诉你他不怕死
+If a man tells you he's not afraid of dying
+
+241
+00:14:16,440 --> 00:14:18,153
+这人不是说谎就是廓尔喀人
+he's either lying or he's a Gurkha.
+
+242
+00:14:19,218 --> 00:14:20,535
+你肯定听说过这个 对吧
+I take it you've heard that one, huh?
+
+243
+00:14:21,766 --> 00:14:23,243
+从第一次说的人口中听来的
+From the man who said it first,
+
+244
+00:14:23,520 --> 00:14:25,587
+已故陆军元帅Sam Manekshaw
+the late Field Marshal Sam Manekshaw,
+
+245
+00:14:25,778 --> 00:14:27,310
+印度陆军参谋长
+Indian Army Chief of Staff,
+
+246
+00:14:27,370 --> 00:14:28,344
+我的导师
+my mentor.
+
+247
+00:14:28,436 --> 00:14:29,046
+嗯
+Mm.
+
+248
+00:14:29,729 --> 00:14:31,520
+那他会支持你实施谋杀吗
+Would he approve of you committing murder?
+
+249
+00:14:31,729 --> 00:14:34,732
+更别提在美国领土上袭击两名联邦探员了
+Not to mention attacking two federal agents on American soil?
+
+250
+00:14:34,818 --> 00:14:36,430
+印度国防部
+India's Ministry of Defense
+
+251
+00:14:36,440 --> 00:14:38,436
+派我来为廓尔喀正名
+sent me here to clear the Gurkha name.
+
+252
+00:14:39,156 --> 00:14:40,190
+你为什么逃跑
+Then why'd you run?
+
+253
+00:14:41,286 --> 00:14:43,580
+我不想在一个巴基斯坦间谍拿着
+I did not want to waste time playing diplomat
+
+254
+00:14:43,606 --> 00:14:46,387
+敏感情报逃跑这种事情上花时间费口舌
+while a Pakistani spy is on the run with sensitive intel.
+
+255
+00:14:46,720 --> 00:14:48,953
+如果我们想让你花时间 你现在就已经蹲监狱了
+If we wanted to waste your time, you'd be in a prison right now.
+
+256
+00:14:49,064 --> 00:14:49,876
+顺便一提
+And for the record,
+
+257
+00:14:50,080 --> 00:14:51,378
+那个敏感情报
+that sensitive intel
+
+258
+00:14:52,010 --> 00:14:53,249
+由美国所有
+is U.S. Property.
+
+259
+00:14:54,701 --> 00:14:56,221
+我不关心情报
+The intel is not my concern.
+
+260
+00:14:56,820 --> 00:14:59,009
+没错 你在意的是复仇
+No, your concern is revenge.
+
+261
+00:14:59,378 --> 00:15:00,473
+我管它叫荣誉
+I call it honor.
+
+262
+00:15:00,800 --> 00:15:01,446
+荣誉吗
+Honor?
+
+263
+00:15:03,950 --> 00:15:05,655
+你只为了这个才来这里吗 Thapa
+Is that really the only reason you're here, Thapa?
+
+264
+00:15:08,098 --> 00:15:09,415
+我执行命令
+I carry out my orders.
+
+265
+00:15:09,624 --> 00:15:11,298
+仅此而已
+No more, no less.
+
+266
+00:15:11,378 --> 00:15:13,341
+没错 不过那个U盘还蛮有诱惑的 不是吗
+Yeah, but that thumb drive's pretty tempting, isn't it?
+
+267
+00:15:16,190 --> 00:15:18,713
+挫败巴基斯坦核计划的行动方案
+An operational plan to seize Pakistan's nukes;
+
+268
+00:15:19,970 --> 00:15:22,861
+让你们国家迫在眉睫的威胁彻底消失
+to make the looming threat against your country disappear forever.
+
+269
+00:15:23,895 --> 00:15:25,803
+没准你的长官没告诉你要把它带回去
+Maybe your command didn't tell you to bring it back...
+
+270
+00:15:28,203 --> 00:15:30,541
+但你要是带回去了 必定受到英雄般的欢迎
+but you'd get a hero's welcome if you did.
+
+271
+00:15:31,255 --> 00:15:33,163
+就说你手上有U盘吧
+Let's say you got your hands on the thumb drive.
+
+272
+00:15:34,720 --> 00:15:36,461
+你会说你会把它交给我们
+You tell me you're just going to hand it over to us
+
+273
+00:15:36,480 --> 00:15:37,243
+然后一走了之吗
+and walk away?
+
+274
+00:15:41,680 --> 00:15:43,876
+想让他交出U盘 必须经历一场恶战
+There's no way he's giving up this thumb drive without a fight.
+
+275
+00:15:44,010 --> 00:15:45,698
+五角大楼说Thapa没问题
+Pentagon says that Thapa checks out,
+
+276
+00:15:45,720 --> 00:15:47,846
+就是说官方已经确认他和我们在同一战线了
+which means he's officially on our side.
+
+277
+00:15:48,381 --> 00:15:50,529
+他的妻子和三个孩子在西孟加拉邦
+He's got a wife and three kids in West Bengal.
+
+278
+00:15:50,940 --> 00:15:52,658
+巴基斯坦只要一个袭击就能炸平那里
+A strike by Pakistan would wipe them out.
+
+279
+00:15:52,670 --> 00:15:54,633
+你真觉得他能为了保证他们的安全而不去冒险吗
+You really think he's going to give up a shot at keeping them safe?
+
+280
+00:15:55,200 --> 00:15:56,689
+只要他能控制情绪
+If he can control his emotions.
+
+281
+00:16:00,226 --> 00:16:01,664
+事到行时才觉难啊
+A lot easier said than done.
+
+282
+00:16:02,184 --> 00:16:04,190
+是啊 只要在意 就都不再简单了
+Well, it's never easy when you start to care.
+
+283
+00:16:06,049 --> 00:16:08,252
+我猜那U盘就是他的冰湖吧
+I guess this makes the thumb drive his frozen lake?
+
+284
+00:16:11,649 --> 00:16:12,473
+估计是了
+Guess it does.
+
+285
+00:16:18,092 --> 00:16:19,144
+他会做正确的选择的
+He'll do the right thing.
+
+286
+00:16:24,596 --> 00:16:27,458
+"白色幽灵"是个危险又诡秘的人
+The White Ghost is a dangerous and elusive man.
+
+287
+00:16:27,913 --> 00:16:30,043
+这不是个简单的任务啊 Owen
+This is not an easy mission, Owen.
+
+288
+00:16:30,240 --> 00:16:31,981
+所以我才亲自上阵
+Which is why I'm running it myself.
+
+289
+00:16:34,227 --> 00:16:36,104
+你需要一个快速响应小组
+You're going to need a QRF.
+
+290
+00:16:37,236 --> 00:16:39,193
+我让我的队伍随时待命
+I'll keep my team on standby.
+
+291
+00:16:39,483 --> 00:16:41,476
+你在这儿掌能管一切 Henrietta
+You've got your hands full right here, Henrietta,
+
+292
+00:16:41,490 --> 00:16:43,003
+不过我确实很感激这个提议
+but I do appreciate the offer.
+
+293
+00:16:45,409 --> 00:16:47,427
+看来岁月让你变得温和了
+It seems the years have made you kind.
+
+294
+00:16:52,978 --> 00:16:53,772
+有吗
+Have they?
+
+295
+00:16:55,292 --> 00:16:56,683
+正在找最后的枪手 不过
+Looking for the last shooter, but...
+
+296
+00:16:56,850 --> 00:16:59,027
+他参加过反监控训练 找他得花上大把时间
+given his countersurveillance training, it's a long shot.
+
+297
+00:16:59,090 --> 00:17:01,132
+等一下 酒店那里用来逃跑的那辆车呢
+Wait, what about the getaway car from the hotel?
+
+298
+00:17:01,360 --> 00:17:02,363
+它一直没出现
+It still hasn't shown up.
+
+299
+00:17:02,460 --> 00:17:04,504
+我已经通过万花筒在找相同外观和型号的轿车了
+I've got Kaleidoscope searching sedans of that make and model.
+
+300
+00:17:04,590 --> 00:17:05,692
+现在咱只能等了
+Well, all we can do is wait.
+
+301
+00:17:10,966 --> 00:17:11,600
+我觉得
+I think...
+
+302
+00:17:11,880 --> 00:17:13,741
+我不想知道你怎么想Kensi和Deeks的
+I don't want to know what you think about Kensi and Deeks.
+
+303
+00:17:14,116 --> 00:17:15,341
+我没说我在想啊
+I didn't say what I was thinking.
+
+304
+00:17:16,030 --> 00:17:17,193
+但是我知道你在想
+But I know what you're thinking.
+
+305
+00:17:17,723 --> 00:17:18,800
+所以 你也在想这个
+So, you're thinking it, too?
+
+306
+00:17:21,544 --> 00:17:22,566
+你觉得Hetty知道吗
+You think Hetty knows?
+
+307
+00:17:24,658 --> 00:17:26,061
+我想 Hetty什么都知道
+Hetty knows everything, I think.
+
+308
+00:17:26,430 --> 00:17:27,420
+咱俩想的一样
+That's what I thought.
+
+309
+00:17:29,910 --> 00:17:30,953
+私人跑道
+Private airstrip.
+
+310
+00:17:31,729 --> 00:17:32,307
+什么
+Huh?
+
+311
+00:17:32,620 --> 00:17:34,541
+那个枪手 他得从美国逃走
+The last shooter... he needs to leave the country
+
+312
+00:17:34,570 --> 00:17:36,800
+但是他的受训经验告诉他 要避开像洛杉矶国际机场这种枢纽
+but he's trained to avoid major hubs like LAX
+
+313
+00:17:36,830 --> 00:17:38,793
+因为他知道我们会在哪里监控
+because he knows that's where we'd be looking.
+
+314
+00:17:39,510 --> 00:17:42,055
+没错 但是万花筒已经找过私人停机坪了
+Okay, but Kaleidoscope already searched private airstrip parking lots.
+
+315
+00:17:43,323 --> 00:17:45,876
+搜索私人停机坪周围的停机坪
+Search major parking lots around the parking lots.
+
+316
+00:17:46,140 --> 00:17:47,587
+方圆五英里范围
+In a five-mile radius.
+
+317
+00:17:53,890 --> 00:17:55,218
+离Pacoima的Whiteman机场
+Sedan matching that description
+
+318
+00:17:55,240 --> 00:17:57,304
+两英里远有辆符合特征的车
+two miles from Whiteman Airport in Pacoima.
+
+319
+00:17:57,380 --> 00:17:59,501
+没错 很合理 地方小 不是中央枢纽
+Yep, makes sense... it's small, not a major hub.
+
+320
+00:17:59,852 --> 00:18:00,824
+我跟其他人说
+I'll tell the others.
+
+321
+00:18:00,984 --> 00:18:02,443
+帮我接Callen探员
+Get me Agent Callen.
+
+322
+00:18:06,178 --> 00:18:07,347
+明白 Hetty
+Understood, Hetty.
+
+323
+00:18:09,113 --> 00:18:10,455
+咱得改变计划了
+We got a change of plans.
+
+324
+00:18:11,140 --> 00:18:12,615
+Thapa跟着我们去跑道那里
+Thapa's coming with us to the airstrip.
+
+325
+00:18:13,070 --> 00:18:14,252
+坏主意
+It's a bad idea.
+
+326
+00:18:14,301 --> 00:18:15,243
+是啊 没准
+Yeah, probably.
+
+327
+00:18:15,846 --> 00:18:18,166
+海军部长希望我们对他像自己的队友一样
+SECNAV wants us to treat him like a member of the team.
+
+328
+00:18:18,850 --> 00:18:20,633
+她希望能促进我们和印度的关系
+She's hoping to bolster relations with India.
+
+329
+00:18:20,940 --> 00:18:23,304
+海军部长从来没被这家伙的刀抵住过喉咙
+SECNAV never had this little dude's knife to her throat.
+
+330
+00:18:24,135 --> 00:18:25,630
+我去枪械室给Thapa拿把枪
+I'll get Thapa a gun from the armory.
+
+331
+00:18:26,092 --> 00:18:28,424
+不用 Deeks 把刀给他
+No. Deeks, handle his stuff.
+
+332
+00:18:28,646 --> 00:18:29,889
+Kensi 你跟我和Sam走
+Kensi, you're coming with Sam and me.
+
+333
+00:18:30,227 --> 00:18:30,800
+什
+Wh...?
+
+334
+00:18:32,504 --> 00:18:33,883
+给你俩分开一下
+You two could use some space.
+
+335
+00:18:36,313 --> 00:18:37,170
+明白
+Understood.
+
+336
+00:18:41,987 --> 00:18:42,769
+有问题吗
+You got this?
+
+337
+00:18:43,920 --> 00:18:44,800
+没问题
+I got this.
+
+338
+00:18:58,490 --> 00:18:59,446
+欢迎入队
+Welcome aboard.
+
+339
+00:19:00,418 --> 00:19:01,206
+谢谢
+Thank you.
+
+340
+00:19:01,640 --> 00:19:03,366
+嗯 你的热枕势不可挡啊
+Well, your enthusiasm is overwhelming.
+
+341
+00:19:04,683 --> 00:19:06,012
+我喜欢单独行动
+I prefer to work alone.
+
+342
+00:19:06,566 --> 00:19:08,098
+我以前也这么觉得
+Hmm, I used to feel the same way.
+
+343
+00:19:09,390 --> 00:19:10,332
+什么令你变了
+What changed?
+
+344
+00:19:10,855 --> 00:19:11,987
+我发现有人值得去信任
+I found somebody worth trusting.
+
+345
+00:19:12,301 --> 00:19:13,944
+你的队友信任我
+And your team trusts me?
+
+346
+00:19:14,449 --> 00:19:16,695
+我不能替他们说 不过 呃
+I can't really speak for my team, but, uh...
+
+347
+00:19:21,156 --> 00:19:21,883
+我相信你
+...I do.
+
+348
+00:19:24,603 --> 00:19:25,292
+为什么
+Why?
+
+349
+00:19:27,575 --> 00:19:28,920
+问得太好了
+It's a damn good question.
+
+350
+00:19:30,470 --> 00:19:32,184
+我知道你想要U盘
+I understand that you want the thumb drive.
+
+351
+00:19:32,810 --> 00:19:34,713
+而且我知道 如果我是你 我也想拿到
+And I get that, 'cause if I was you, I'd want it, too.
+
+352
+00:19:34,740 --> 00:19:37,003
+因为这次行动 它让你变成了累赘
+And for this mission, that makes you a liability.
+
+353
+00:19:38,540 --> 00:19:39,495
+但是你有能力
+But you got this.
+
+354
+00:19:40,941 --> 00:19:42,178
+你相信我能办成
+You believe I can do it?
+
+355
+00:19:42,369 --> 00:19:44,307
+我的理智可以胜过情感吗
+That my brain will win over my heart?
+
+356
+00:19:44,720 --> 00:19:45,753
+兄弟 我得去相信
+Brother, I got to believe that,
+
+357
+00:19:45,790 --> 00:19:47,009
+因为如果你能做到 我也能
+'cause if you can do it, so can I.
+
+358
+00:19:48,787 --> 00:19:50,006
+Jemadar Thapa
+Jemadar Thapa.
+
+359
+00:19:50,055 --> 00:19:51,507
+廓尔喀第五步枪团
+5th Gurkha Rifle Regiment,
+
+360
+00:19:52,104 --> 00:19:53,187
+边防部队
+Frontier Force.
+
+361
+00:19:53,366 --> 00:19:54,941
+Marty Deeks警探 洛杉矶警方
+Detective Marty Deeks. LAPD.
+
+362
+00:19:56,609 --> 00:19:57,993
+廓尔喀的部队有句座右铭
+The Gurkhas have a saying:
+
+363
+00:19:58,621 --> 00:20:00,621
+"宁可战死 不愿苟活"
+"Better to die than be a coward."
+
+364
+00:20:01,150 --> 00:20:05,144
+哇哦 我觉得我搭档上辈子是个廓尔喀人
+Wow. I think my regular partner was a Gurkha in a past life.
+
+365
+00:20:05,513 --> 00:20:06,596
+那他一定很勇敢
+Then he must be brave.
+
+366
+00:20:06,652 --> 00:20:07,624
+应该是 她
+Well, she...
+
+367
+00:20:09,593 --> 00:20:10,541
+她是最勇敢的
+...she's the bravest.
+
+368
+00:20:11,329 --> 00:20:12,800
+我不会让您失望 先生
+I will not let you down, sahib.
+
+369
+00:20:15,858 --> 00:20:16,720
+好的
+Okay.
+
+370
+00:20:22,990 --> 00:20:24,781
+训练有素的巴基斯坦飞行员
+Pakistani's a trained pilot.
+
+371
+00:20:25,280 --> 00:20:26,670
+只要一架飞机就能办成一切
+All he's goona need is a plane.
+
+372
+00:20:31,667 --> 00:20:32,652
+风向合适吗
+You got a good wind?
+
+373
+00:20:33,052 --> 00:20:33,710
+合适
+Yeah.
+
+374
+00:20:35,130 --> 00:20:36,430
+角度没问题吧
+Got yourself a nice angle?
+
+375
+00:20:36,812 --> 00:20:37,495
+没问题
+Yep.
+
+376
+00:20:38,972 --> 00:20:40,880
+1500码也没问题
+Still automatic from 1,500 yards?
+
+377
+00:20:42,018 --> 00:20:42,609
+对
+Yep.
+
+378
+00:20:51,513 --> 00:20:53,587
+这孩子真爱敞开了说啊 是吧
+Loves to open up about her feelings, doesn't she?
+
+379
+00:20:56,566 --> 00:20:57,930
+你从来没有搭档吗
+So you've never had a partner?
+
+380
+00:20:58,360 --> 00:20:59,089
+没有
+No.
+
+381
+00:20:59,747 --> 00:21:00,966
+廓尔喀部队没有女兵吗
+There's no female Gurkhas?
+
+382
+00:21:01,520 --> 00:21:02,264
+没有
+No.
+
+383
+00:21:03,820 --> 00:21:05,846
+那你就偷着乐去吧
+Well, you should consider yourself lucky then.
+
+384
+00:21:06,178 --> 00:21:08,436
+我是说 你看我 我已经站在冰封的湖面了
+I mean, look at me, I'm standing on a frozen lake.
+
+385
+00:21:08,880 --> 00:21:11,415
+我说话的感觉都有点像她了
+And I'm beginning to sound like her.
+
+386
+00:21:12,418 --> 00:21:13,852
+人心需要自律
+The heart needs discipline.
+
+387
+00:21:14,582 --> 00:21:17,300
+没有纪律 就没有荣誉
+Without discipline there is no honor.
+
+388
+00:21:17,755 --> 00:21:19,568
+没有了荣誉 我们什么都不是
+Without honor, we are nothing.
+
+389
+00:21:21,591 --> 00:21:23,069
+你知道吗 你还挺有意思的 Thapa
+You know what, you're pretty cool, Thapa.
+
+390
+00:21:23,421 --> 00:21:24,503
+有那么一瞬间
+For a second there, I forgot
+
+391
+00:21:24,526 --> 00:21:26,254
+我都忘了你今天早上还砍下了某人的头
+that you chopped off some guy's head this morning.
+
+392
+00:21:26,565 --> 00:21:28,796
+要穿过冰封的湖面只有一个办法
+There is only one way to cross a frozen lake.
+
+393
+00:21:30,683 --> 00:21:32,315
+ISI的特工已经抵达了跑道
+The ISI agent has reached the airstrip.
+
+394
+00:21:32,351 --> 00:21:33,392
+他独自一人 走着来的
+He's alone and on foot.
+
+395
+00:21:39,444 --> 00:21:40,166
+Deeks 待命
+Stand by, Deeks.
+
+396
+00:21:40,212 --> 00:21:41,274
+看起来他要和别人会面
+Looks like he's meeting somebody.
+
+397
+00:21:42,492 --> 00:21:44,210
+他不可能回到巴基斯坦
+He will never make it back to Pakistan.
+
+398
+00:21:44,260 --> 00:21:45,520
+他的护照被标记了
+His passport has been tagged.
+
+399
+00:21:45,555 --> 00:21:46,280
+他会被抓住的
+He will be caught.
+
+400
+00:21:47,237 --> 00:21:50,503
+在Glendale的亚美尼亚犯罪集团
+是洛杉矶附近办假证中最拿手的
+Armenian Mob in Glendale has the best forgery operation in L.A.
+
+401
+00:21:50,523 --> 00:21:52,524
+他的第一件事肯定就是办个假护照
+Fake passport would've been his first stop for sure.
+
+402
+00:21:53,151 --> 00:21:54,141
+这并不是问题
+It does not matter.
+
+403
+00:21:54,168 --> 00:21:55,879
+- 他是个将死之人了  - 不 不 不
+- He is a dead man. - No. No, no.
+
+404
+00:21:55,941 --> 00:21:57,363
+不要死人 好吗 我们得活捉他
+No dead man, all right, we need to take him alive,
+
+405
+00:21:57,408 --> 00:21:58,754
+要不留痕迹 漂亮地完成 明白了吗
+tie up any loose ends, you got that?
+
+406
+00:21:58,874 --> 00:21:59,613
+明白了 先生
+Got it, sahib.
+
+407
+00:21:59,889 --> 00:22:01,646
+你一看见那个U盘 就行动
+The moment you see that thumb drive, move in.
+
+408
+00:22:02,541 --> 00:22:03,830
+特工刚刚递了一个信封
+Agent just passed an envelope.
+
+409
+00:22:04,689 --> 00:22:05,467
+可能是钱
+I think it was money.
+
+410
+00:22:08,628 --> 00:22:09,810
+某种钥匙
+Some sort of keys.
+
+411
+00:22:09,930 --> 00:22:11,291
+没看见U盘
+No thumb drive visible.
+
+412
+00:22:12,264 --> 00:22:12,659
+不要
+No.
+
+413
+00:22:12,912 --> 00:22:13,284
+Thapa
+Thapa.
+
+414
+00:22:13,728 --> 00:22:14,291
+Deeks 行动
+Deeks, move.
+
+415
+00:22:15,485 --> 00:22:16,338
+联邦探员
+Federal agents!
+
+416
+00:22:16,907 --> 00:22:17,352
+放下武器
+Drop it!
+
+417
+00:22:19,632 --> 00:22:21,045
+- 注意了望  - 收到
+- Hold overwatch. - Check.
+
+418
+00:22:44,699 --> 00:22:45,666
+Thapa失踪了
+Thapa's MIA.
+
+419
+00:22:45,886 --> 00:22:46,546
+Eric
+Eric?
+
+420
+00:22:46,766 --> 00:22:48,174
+正在扫瞄跑道附近的摄像头
+Scanning airstrip cams now.
+
+421
+00:23:06,734 --> 00:23:07,317
+Kensi
+Kensi?
+
+422
+00:23:07,437 --> 00:23:09,483
+- 那个廓尔喀人去哪了  - 我看不见Thapa
+- The Gurkha? - No visual on Thapa.
+
+423
+00:23:15,235 --> 00:23:15,785
+见鬼
+Damn it.
+
+424
+00:23:22,170 --> 00:23:23,137
+不 不
+No, no.
+
+425
+00:23:25,491 --> 00:23:26,425
+U盘不见了
+Thumb drive's gone.
+
+426
+00:23:51,284 --> 00:23:52,570
+让我猜猜 你有个坏消息
+Let me guess. You got bad news
+
+427
+00:23:52,581 --> 00:23:55,609
+然后还有个更坏的消息
+and then you got "Fredo at the end of Godfather Part II" bad news.
+
+428
+00:23:56,304 --> 00:23:57,754
+棒级了 先告诉我坏消息吧
+Awesome. Give me the bad news first.
+
+429
+00:23:57,874 --> 00:24:00,191
+这消息是不太好 但我不是送消息的人 Deeks
+The news isn't good, but I'm not a messenger, Deeks.
+
+430
+00:24:00,311 --> 00:24:01,817
+那你是来给我加油打气的
+So, what, you're the guy that gives me the pep talk?
+
+431
+00:24:01,937 --> 00:24:04,210
+我是来提醒你 你并不是孤军奋战
+I'm the one that reminds you you're not in this alone.
+
+432
+00:24:04,668 --> 00:24:05,442
+坏消息是
+Here's the bad news:
+
+433
+00:24:05,745 --> 00:24:07,300
+情况是 那巴基斯坦人
+What happened was that the Pakistanis
+
+434
+00:24:07,328 --> 00:24:09,475
+今天早上 在网上找了个有飞机的人
+found a plane owner online earlier today,
+
+435
+00:24:10,362 --> 00:24:12,691
+付钱让机主开飞机带他兜风
+offered him cash for a ride. Owner had no idea
+
+436
+00:24:12,735 --> 00:24:13,869
+机主完全不知道他牵涉了什么
+what he'd gotten himself into.
+
+437
+00:24:14,143 --> 00:24:16,001
+他在踏上跑道那刻就死了
+Dead the moment he stepped on the tarmac.
+
+438
+00:24:16,740 --> 00:24:17,860
+好吧 告诉我那条更糟糕的消息
+Okay. Give me Fredo.
+
+439
+00:24:18,594 --> 00:24:20,464
+Thapa溜了 而且没留下什么线索
+Thapa's in the wind. No trace of him.
+
+440
+00:24:21,513 --> 00:24:23,371
+嗯 Eric正在从监控录像里搜索
+Right. Eric's searching cam footage,
+
+441
+00:24:23,399 --> 00:24:26,346
+全州通缉 FBI 警犬队已经开始行动
+statewide APB, FBI K-9 units are in route.
+
+442
+00:24:26,379 --> 00:24:29,047
+你觉得这些措施能阻止一个拿到了
+And you think all that's enough to hunt down a Gurkha carrying the holy grail
+
+443
+00:24:29,053 --> 00:24:30,117
+绝密情报的廓尔喀军人吗
+of intel in his pocket?
+
+444
+00:24:30,156 --> 00:24:31,721
+他的信用卡和银行账户都被冻结了
+His credit cards and bank accounts are frozen.
+
+445
+00:24:32,194 --> 00:24:34,861
+印度政府因他违抗命令而将他除名了
+Indian government disavowed him for violating direct orders.
+
+446
+00:24:35,857 --> 00:24:37,684
+这是个国际事件
+This is an international incident.
+
+447
+00:24:38,416 --> 00:24:39,976
+Thapa是整个洛杉矶里的头号通缉犯
+Thapa's the most wanted man in L.A.
+
+448
+00:24:40,049 --> 00:24:41,733
+我知道 而且是我相信了他
+Yeah, I know. And I'm the one that trusted him.
+
+449
+00:24:41,750 --> 00:24:43,917
+- 可能你刚才没听见我说的话  - 我听见了
+- Maybe you didn't hear me just now. - No, I did.
+
+450
+00:24:43,944 --> 00:24:45,114
+我不是孤军奋战 我明白
+I'm not alone. I got it.
+
+451
+00:24:46,552 --> 00:24:47,300
+听着 呃
+Listen, uh,
+
+452
+00:24:47,529 --> 00:24:48,989
+准确起见 是Kensi让我
+just for the record, Kensi told me
+
+453
+00:24:49,016 --> 00:24:50,283
+在酒店里开火的
+to take that shot at the hotel.
+
+454
+00:24:50,969 --> 00:24:52,236
+过去的我会开火
+I've made that shot before. I've been there,
+
+455
+00:24:52,262 --> 00:24:54,871
+但我在那里 却没有开枪
+I've done that, I got the T-shirt, I just didn't take it.
+
+456
+00:24:55,117 --> 00:24:56,155
+那让我们接着来
+So get us back in the game.
+
+457
+00:25:00,501 --> 00:25:02,367
+我知道怎么找到Thapa并且拿回那个U盘
+I know a way to find Thapa and get the thumb drive back.
+
+458
+00:25:03,026 --> 00:25:04,689
+看来你好像知道些我们所不知道的事
+Something tells me you know something we don't.
+
+459
+00:25:05,710 --> 00:25:06,352
+很疯狂 不是吗
+Crazy, right?
+
+460
+00:25:15,035 --> 00:25:16,117
+Hetty 我能处理好的
+Hetty, I can make this right.
+
+461
+00:25:17,402 --> 00:25:19,496
+你有不少问题 Deeks先生
+You have several problems, Mr. Deeks.
+
+462
+00:25:19,760 --> 00:25:21,203
+你想谈的是哪一个
+Which one are we talking about?
+
+463
+00:25:23,969 --> 00:25:24,814
+我说的是那个廓尔喀人
+I'm talking about the Gurkha.
+
+464
+00:25:24,858 --> 00:25:26,107
+我有个关于廓尔喀人的计划
+I have a plan for the Gurkha.
+
+465
+00:25:26,227 --> 00:25:26,855
+啊
+Ah.
+
+466
+00:25:27,876 --> 00:25:29,028
+我确信这会是个好主意
+I'm sure it's brilliant.
+
+467
+00:25:30,101 --> 00:25:30,524
+告诉我
+Tell me.
+
+468
+00:25:30,893 --> 00:25:33,716
+我真心觉得这人不会像个混混一样
+I honestly don't think that this guy's gonna go rogue
+
+469
+00:25:33,718 --> 00:25:35,368
+把这个U盘拍卖出去
+and sell the thumb drive to the highest bidder.
+
+470
+00:25:36,257 --> 00:25:37,999
+我是说 你想啊 他 他是个爱国者
+I mean, think about this. He's a... he's a patriot,
+
+471
+00:25:38,307 --> 00:25:40,774
+他是个军人 如果他要把情报带回去
+he's a soldier, and if he brings home the information
+
+472
+00:25:40,776 --> 00:25:42,364
+以打击巴基斯坦
+to neutralize Pakistan, there's a good chance
+
+473
+00:25:42,399 --> 00:25:43,341
+印度很可能会让他回去的
+India's gonna take him back.
+
+474
+00:25:43,461 --> 00:25:44,106
+嗯嗯
+Mm-hmm.
+
+475
+00:25:45,478 --> 00:25:48,065
+请求原谅总是比征得同意要好些
+Always better to beg forgiveness than ask permission.
+
+476
+00:25:48,408 --> 00:25:48,760
+正是
+Exactly.
+
+477
+00:25:49,465 --> 00:25:50,266
+那他的下一步行动会是啥
+So what's his next step?
+
+478
+00:25:51,533 --> 00:25:52,615
+他得离开洛杉矶
+He's got to get out of Los Angeles,
+
+479
+00:25:52,659 --> 00:25:54,207
+这意味着他需要有一本新护照
+which means he needs a new passport,
+
+480
+00:25:54,401 --> 00:25:56,406
+他需要一个新的身份 而且根据目前他被通缉的情况
+he needs a new identity and, given the heat that's on him,
+
+481
+00:25:56,442 --> 00:25:57,269
+他的新身份必须完美无瑕
+it's got to be perfect.
+
+482
+00:25:57,735 --> 00:26:00,093
+这任务可不简单啊 Deeks先生
+That's a large task, Mr. Deeks.
+
+483
+00:26:01,122 --> 00:26:02,850
+Thapa对这城市里很陌生
+Thapa's a stranger in this city.
+
+484
+00:26:03,079 --> 00:26:04,408
+他怎么知道该去哪
+How would he know where to go?
+
+485
+00:26:05,133 --> 00:26:05,850
+我告诉他了
+Because I told him.
+
+486
+00:26:07,786 --> 00:26:08,657
+我 呃
+I, um...
+
+487
+00:26:09,589 --> 00:26:12,325
+提到了Glandale里 一处亚美尼亚犯罪集团办假证的地方
+mentioned the Armenian Mob franchise in Glendale.
+
+488
+00:26:13,442 --> 00:26:15,211
+那里由一个叫Talita Pambakian的女人运作
+It's run by a woman named Talita Pambakian.
+
+489
+00:26:16,055 --> 00:26:19,085
+- 你知道她的住址  - 我花了两个星期
+- You know her location?  - I spent two weeks
+
+490
+00:26:19,578 --> 00:26:22,146
+为洛杉矶警方做卧底 渗透进他她的组织
+infiltrating her group, working undercover for LAPD.
+
+491
+00:26:22,507 --> 00:26:25,041
+我们建立了联系 她以为我是个律师
+We established contact. She thinks I'm a lawyer.
+
+492
+00:26:25,358 --> 00:26:26,255
+然后发生什么了
+And what happened?
+
+493
+00:26:28,516 --> 00:26:30,991
+她察觉了他身边的另一个卧底
+She found out there was another cop working undercover
+
+494
+00:26:30,993 --> 00:26:31,840
+并且将他射杀了
+and she shot him in the head.
+
+495
+00:26:34,989 --> 00:26:37,910
+显然 洛杉矶警方中止了行动 把我拉了出来
+Obviously, LAPD shut it down and then they pulled me out.
+
+496
+00:26:40,051 --> 00:26:43,110
+你现在想重新建立联系
+And you want to reestablish contact.
+
+497
+00:26:43,391 --> 00:26:44,896
+Thapa正在去见她的路上
+Thapa's on his way to see her right now.
+
+498
+00:26:44,940 --> 00:26:46,685
+我只需要在那里制服他就行了
+All I got to do is beat him there.
+
+499
+00:26:49,830 --> 00:26:50,787
+你需要一套西装
+You need a suit.
+
+500
+00:26:57,186 --> 00:26:57,848
+Hetty向你做简报了吗
+Hetty brief you?
+
+501
+00:26:58,165 --> 00:26:58,446
+嗯
+Yeah.
+
+502
+00:26:59,713 --> 00:27:01,156
+我们评估了行动地点
+We assessed the location in Ops
+
+503
+00:27:01,184 --> 00:27:02,521
+说实话 我不喜欢
+and, honestly, I don't like it.
+
+504
+00:27:03,204 --> 00:27:05,358
+如果有什么意外 我们很难赶来
+Makes it impossible for us to reach you if something goes wrong.
+
+505
+00:27:05,688 --> 00:27:07,315
+没得选 这是唯一的办法
+Not much of a choice. It's the only way.
+
+506
+00:27:09,144 --> 00:27:10,841
+或者你其实觉得这是唯一能挽回
+Or you mean the only way to redeem yourself
+
+507
+00:27:10,883 --> 00:27:12,079
+关于旅店及Thapa这些事的方法
+for the hotel and Thapa?
+
+508
+00:27:17,338 --> 00:27:18,485
+你能帮我个忙吗
+Can you do something for me?
+
+509
+00:27:20,182 --> 00:27:20,505
+啥
+What?
+
+510
+00:27:22,694 --> 00:27:25,136
+就现在 你能不能假装我不是Deeks
+Can you, for a second, just pretend that I'm not Deeks
+
+511
+00:27:26,438 --> 00:27:28,397
+而你也不是Kensi
+and, for a second, pretend that you're not Kensi
+
+512
+00:27:28,441 --> 00:27:29,483
+我们不是搭档
+and that we're not partners
+
+513
+00:27:29,539 --> 00:27:30,926
+我们也没有天天去拯救世界什么的
+and no one's trying to save the planet?
+
+514
+00:27:31,644 --> 00:27:34,466
+能不能假装我们只是
+Can we pretend for a second that we're just a boy and a girl
+
+515
+00:27:34,508 --> 00:27:35,254
+一起厮混的男女
+who are hanging out?
+
+516
+00:27:37,278 --> 00:27:37,602
+我们能
+We can...
+
+517
+00:27:38,538 --> 00:27:40,473
+开着我的皮卡 去买冰淇淋
+drive around in my pickup truck, go get ice cream,
+
+518
+00:27:41,036 --> 00:27:41,775
+打保龄球
+go bowling.
+
+519
+00:27:44,968 --> 00:27:47,509
+我们有无限多的可能
+But that's the thing because the possibilities are endless.
+
+520
+00:27:49,022 --> 00:27:49,592
+我们很年轻
+We're young.
+
+521
+00:27:50,939 --> 00:27:51,988
+我们有大把的时间
+We have all the time in the world.
+
+522
+00:28:00,284 --> 00:28:01,776
+我是Fern 嗨
+My name is Fern. Hi.
+
+523
+00:28:03,416 --> 00:28:04,085
+你是Fern
+You're Fern.
+
+524
+00:28:05,838 --> 00:28:09,221
+呃 见到你 很高兴 Fern 我是Max
+Well, so nice to... so nice to meet you, Fern. I'm Max.
+
+525
+00:28:09,266 --> 00:28:09,976
+幸会幸会
+Nice to meet you.
+
+526
+00:28:10,525 --> 00:28:11,851
+今晚有空吗
+You have any plans for tonight?
+
+527
+00:28:12,189 --> 00:28:13,808
+不知道 这很复杂
+I don't know. It's complicated.
+
+528
+00:28:13,836 --> 00:28:15,110
+呃 在我看来没啥复杂的嘛
+Well, not from where I'm standing, it's not.
+
+529
+00:28:15,300 --> 00:28:16,067
+我有男朋友了
+I have a boyfriend.
+
+530
+00:28:16,363 --> 00:28:17,299
+我也有女朋友了
+So is my girlfriend.
+
+531
+00:28:18,872 --> 00:28:20,447
+西装很漂亮 是啊
+That's a nice suit. Yeah.
+
+532
+00:28:22,301 --> 00:28:23,146
+问题是
+The problem with it is
+
+533
+00:28:23,172 --> 00:28:24,554
+这衣服太紧了
+that's it's too-too tight.
+
+534
+00:28:24,580 --> 00:28:25,922
+很难藏起武器
+It's gonna be hard to conceal a weapon.
+
+535
+00:28:27,092 --> 00:28:29,045
+Talita对我做的第一件事就会是搜身
+The first thing Talita's guys are gonna do are pat me down.
+
+536
+00:28:29,987 --> 00:28:30,998
+他们总要发现的
+They're gonna find it anyway.
+
+537
+00:28:36,881 --> 00:28:37,260
+给你
+Here.
+
+538
+00:28:40,488 --> 00:28:41,676
+不 我 我不能拿这个
+No, I-I can't take that.
+
+539
+00:28:41,952 --> 00:28:43,154
+我的搭档不能毫无防范地去执行任务
+My partner doesn't go unarmed.
+
+540
+00:28:43,832 --> 00:28:44,175
+拿着它
+Take it.
+
+541
+00:28:50,464 --> 00:28:53,553
+我还从没遇到一个女人给我 呃 她的刀
+I've never had a girl give me her, uh... knife before.
+
+542
+00:28:53,552 --> 00:28:56,219
+这是不是意味着我们正式确定了关系
+Does that mean that we are... official?
+
+543
+00:29:00,609 --> 00:29:02,114
+呃 有时候这仅仅是把刀而已
+Eh, sometimes a knife is just a knife.
+
+544
+00:29:12,601 --> 00:29:13,560
+来吧 Eric 给我们报告
+All right, take us through it, Eric.
+
+545
+00:29:14,000 --> 00:29:16,422
+那些墙很结实 厚而且结实
+Those walls are concrete. Thick concrete.
+
+546
+00:29:16,773 --> 00:29:18,744
+结构也很完整 唯一的入口
+The structural integrity's sound, the only way in
+
+547
+00:29:18,788 --> 00:29:20,672
+是通过前门 外面有两个守卫
+is through the front door. There are the two guards
+
+548
+00:29:20,700 --> 00:29:22,800
+可能在墙后还有更多人
+out front and probably more inside that we can't see.
+
+549
+00:29:23,140 --> 00:29:24,060
+Talita在哪
+Where's Talita located?
+
+550
+00:29:25,083 --> 00:29:26,966
+结构图表明
+Uh, schematics show
+
+551
+00:29:27,011 --> 00:29:28,735
+建筑的后方有一间办公室
+an office in the back of the building,
+
+552
+00:29:28,770 --> 00:29:29,780
+但是 要去那里的话
+but you'll have to make it through
+
+553
+00:29:29,860 --> 00:29:30,950
+你必须穿过那条狭窄的走廊
+ a narrow hallway to get there.
+
+554
+00:29:31,943 --> 00:29:32,717
+致命的危险区
+Fatal funnel.
+
+555
+00:29:33,456 --> 00:29:35,075
+- 战略上的噩梦  - 的确是
+- Strategic nightmare. - Yeah.
+
+556
+00:29:43,456 --> 00:29:43,906
+信号良好吗
+Comm's good?
+
+557
+00:29:44,441 --> 00:29:45,539
+很清楚
+Loud and clear.
+
+558
+00:30:00,691 --> 00:30:01,430
+我是来见Talita的
+Here to see Talita.
+
+559
+00:30:01,930 --> 00:30:02,720
+你有预约吗
+- You got an appointment?
+
+560
+00:30:03,360 --> 00:30:04,910
+告诉她Marty Finch来见她了
+Tell her Marty Finch is here to see her.
+
+561
+00:30:05,389 --> 00:30:07,247
+你或许是个警察呢 Marty Finch
+Maybe you're a cop, Marty Finch.
+
+562
+00:30:08,160 --> 00:30:08,930
+打电话给她的律师
+Call her lawyer.
+
+563
+00:30:09,204 --> 00:30:10,993
+真巧 因为我就是她的律师
+Well, that's perfect timing 'cause I am her lawyer.
+
+564
+00:30:14,182 --> 00:30:15,263
+有个叫Marty Finch的人在这儿
+Guy named Marty Finch is here.
+
+565
+00:30:16,307 --> 00:30:17,031
+把他带到后面来
+Send him back.
+
+566
+00:30:17,721 --> 00:30:18,108
+好的
+Yeah.
+
+567
+00:30:19,826 --> 00:30:20,318
+他可以进去
+He's good.
+
+568
+00:30:20,923 --> 00:30:21,550
+我们走
+Let's go.
+
+569
+00:30:28,946 --> 00:30:30,100
+右手边第一道门
+First door on the right.
+
+570
+00:30:36,449 --> 00:30:38,828
+你是那位在09年解决了
+You're the guy who made those narco charges go away
+
+571
+00:30:38,856 --> 00:30:39,743
+那些关于毒品指控的人吗
+back in '09?
+
+572
+00:30:42,953 --> 00:30:44,544
+现在交出你身上的武器
+Hand over any weapons now.
+
+573
+00:30:44,966 --> 00:30:46,015
+我没带武器
+I'm not carrying.
+
+574
+00:30:47,338 --> 00:30:48,879
+在找线路
+Look for a wire, too...
+
+575
+00:30:49,752 --> 00:30:51,058
+那个区域是建筑里的
+Comms deadzone in that sector
+
+576
+00:30:51,100 --> 00:30:52,895
+通信盲区 我无能为力了
+of the building, guys. My hands are tied.
+
+577
+00:30:54,844 --> 00:30:55,710
+那我们等
+Then we wait.
+
+578
+00:30:56,639 --> 00:30:57,142
+你没问题吧
+You good?
+
+579
+00:31:01,182 --> 00:31:01,815
+我很好
+I'm good.
+
+580
+00:31:13,197 --> 00:31:14,295
+你很享受嘛
+You enjoying yourself?
+
+581
+00:31:15,822 --> 00:31:16,357
+他没带武器
+He's clean.
+
+582
+00:31:23,629 --> 00:31:25,290
+从坟墓里爬出来了 律师
+Back from the dead, counselor?
+
+583
+00:31:26,162 --> 00:31:28,826
+Talita 我没死 只是非常忙
+Not dead, Talita, just incredibly busy.
+
+584
+00:31:30,346 --> 00:31:31,888
+如果你不为我工作
+If you're not working for me,
+
+585
+00:31:32,669 --> 00:31:33,665
+那都一样
+it's all the same.
+
+586
+00:31:34,679 --> 00:31:35,896
+来听听你的说辞吧
+Let's hear your pitch.
+
+587
+00:31:36,177 --> 00:31:38,275
+你是来推销业务 是吧
+You've come to peddle your wares, right?
+
+588
+00:31:38,570 --> 00:31:40,280
+说到这儿 我是不是该说你依然漂亮
+Is this the part where I tell you you still look good
+
+589
+00:31:40,400 --> 00:31:41,520
+还有 你的生意越来越旺了
+and your business is thriving?
+
+590
+00:31:42,516 --> 00:31:44,353
+问题是我从不对顾客说谎
+Only problem is I don't lie to clients.
+
+591
+00:31:44,712 --> 00:31:45,908
+你死定了 Talita
+You're screwed, Talita.
+
+592
+00:31:46,520 --> 00:31:48,040
+洛杉矶警方会来找你麻烦
+LAPD's coming for you.
+
+593
+00:31:48,520 --> 00:31:51,130
+他们知道当卧底出现在我家门口时 会发生什么
+They knowwhat happens when undercovers show up at my door.
+
+594
+00:31:51,517 --> 00:31:53,248
+对你来说很不幸 他们惦记着你
+And, unfortunately for you, they don't forget.
+
+595
+00:31:54,121 --> 00:31:56,644
+我线人说你现在还有个人在找你麻烦
+My source says you have another one coming your way right now.
+
+596
+00:31:56,694 --> 00:32:00,227
+小个子 有一米六七 深色皮肤 还带着一套卧底说辞
+Small guy, maybe five-five, dark skin with an undercover
+
+597
+00:32:00,241 --> 00:32:02,666
+需要返回印度的伪造文件
+story about needing forged papers to get back to India.
+
+598
+00:32:04,538 --> 00:32:05,883
+我听着呢 Finch
+I'm waiting, Finch.
+
+599
+00:32:06,122 --> 00:32:07,551
+你说啥呢 等啥
+What are you talking about? Waiting for what?
+
+600
+00:32:07,586 --> 00:32:08,962
+那家伙可是个专业人士
+That was pro bono.
+
+601
+00:32:09,082 --> 00:32:11,260
+我还漂亮吗
+Do I still look good or not?
+
+602
+00:32:12,604 --> 00:32:13,555
+我之前说谎了
+I lied before.
+
+603
+00:32:15,518 --> 00:32:16,630
+你看起来还是很漂亮
+You still look good.
+
+604
+00:32:16,910 --> 00:32:18,200
+你想要啥
+What do you want?
+
+605
+00:32:19,060 --> 00:32:20,920
+你有一群笨蛋带着枪
+You got a lot of meatheads carrying guns,
+
+606
+00:32:21,080 --> 00:32:22,590
+但没人能帮你重建你整个组织
+but you don't have anybody that can restructure
+
+607
+00:32:22,637 --> 00:32:25,847
+让它合法 那 Talita
+your entire organization and make it legit. That, Talita,
+
+608
+00:32:26,560 --> 00:32:27,480
+就是我想要的
+is what I want.
+
+609
+00:32:27,780 --> 00:32:28,920
+还是以前的价格吗
+Still billing the same rate?
+
+610
+00:32:29,289 --> 00:32:30,978
+不 不 现在是大人物规则了
+No, no. Big boy rules now.
+
+611
+00:32:31,020 --> 00:32:32,981
+不再收律师费了 我要抽成
+No more retainers. I need a percentage.
+
+612
+00:32:33,255 --> 00:32:34,212
+大人物规则
+"Big boy rules"?
+
+613
+00:32:34,712 --> 00:32:35,144
+是
+Yeah.
+
+614
+00:32:35,587 --> 00:32:36,333
+我喜欢
+I like that.
+
+615
+00:32:43,080 --> 00:32:44,521
+- 小心我的西装  - 起来
+- Easy on the suit.  - Get up.
+
+616
+00:32:45,640 --> 00:32:48,529
+你知道 我不喜欢你09年时不守诺言
+You see, I don't like the one-and-done thing
+
+617
+00:32:48,585 --> 00:32:50,380
+打一枪就跑
+that you pulled back in '09.
+
+618
+00:32:51,450 --> 00:32:52,308
+把事情搞定
+Make things right.
+
+619
+00:32:53,265 --> 00:32:54,430
+跟我表表衷心
+Show me you're loyal.
+
+620
+00:32:55,549 --> 00:32:56,513
+你指的是啥
+What are you talking about?
+
+621
+00:32:57,095 --> 00:33:00,455
+在大人物的桌旁有你的位置
+There's a seat for you at my big boy table.
+
+622
+00:33:01,588 --> 00:33:02,796
+但你得去争取
+But you got to take it.
+
+623
+00:33:03,851 --> 00:33:04,555
+带他去
+Show him.
+
+624
+00:33:21,768 --> 00:33:22,838
+你线人说得对
+Your source was right.
+
+625
+00:33:24,429 --> 00:33:25,586
+这家伙一出现
+This guy showed up,
+
+626
+00:33:25,626 --> 00:33:27,707
+说他急需一个身份证
+said he needed clean I.D. Fast.
+
+627
+00:33:27,709 --> 00:33:29,647
+但是如果他是个警察
+But if he's a cop,
+
+628
+00:33:30,224 --> 00:33:31,801
+为什么 当我们搜遍了他全身
+how come, when we shook him down,
+
+629
+00:33:31,843 --> 00:33:33,871
+只发现一个U盘
+all we found was a thumb drive?
+
+630
+00:33:35,750 --> 00:33:37,453
+我不知道什么U盘
+I don't know anything about a thumb drive.
+
+631
+00:33:38,079 --> 00:33:39,220
+现在我拥有U盘了
+Now that I have it,
+
+632
+00:33:39,740 --> 00:33:41,584
+我不需要他了 是吧
+I don't need him, do I?
+
+633
+00:33:44,510 --> 00:33:45,544
+证明你的忠诚
+Prove your loyalty.
+
+634
+00:33:47,768 --> 00:33:48,514
+拿着
+Take it.
+
+635
+00:33:54,648 --> 00:33:55,887
+小个子忘记了
+Little man here forgot
+
+636
+00:33:55,908 --> 00:33:58,202
+在小偷之间是没有荣誉可言的
+there's no honor among thieves.
+
+637
+00:34:03,805 --> 00:34:04,847
+他有段时间没消息了
+He's been dark for a while.
+
+638
+00:34:05,128 --> 00:34:06,874
+我们知道里面有问题
+We knew this building had problems.
+
+639
+00:34:09,398 --> 00:34:12,389
+- 听着 Talita 我不杀人的  - 也许不是为了生存
+- Listen, Talita, I don't shoot people. Maybe not for a living,
+
+640
+00:34:12,431 --> 00:34:15,831
+不过任何人都可以在一个受了伤的人面前开枪的
+but anyone can stand before a beaten man and pull a trigger.
+
+641
+00:34:16,900 --> 00:34:19,050
+我只放了一个子弹在那枪里
+I only put one bullet in that gun.
+
+642
+00:34:20,161 --> 00:34:21,624
+别打歪了
+Don't miss.
+
+643
+00:34:23,915 --> 00:34:25,343
+要么现在 Finch
+Now, Finch,
+
+644
+00:34:26,329 --> 00:34:29,742
+要么我们就会有两具尸体挂在这些吊钩上了
+or we're going to have two bodies hanging from hooks.
+
+645
+00:35:04,707 --> 00:35:05,063
+Eric
+Eric?
+
+646
+00:35:05,372 --> 00:35:06,646
+信号已经是最大限度增幅了
+The signal's on full boost.
+
+647
+00:35:06,682 --> 00:35:07,604
+我们啥都不能做
+There's nothing we can do.
+
+648
+00:35:08,522 --> 00:35:09,085
+在那地方
+Lots of guns
+
+649
+00:35:09,138 --> 00:35:10,077
+有好多枪
+inside that place.
+
+650
+00:35:10,886 --> 00:35:11,358
+我们进去
+We go in,
+
+651
+00:35:11,400 --> 00:35:12,308
+我们就会遭遇强火力
+we're going in big.
+
+652
+00:35:12,660 --> 00:35:14,448
+我们再等一分钟
+Let's let it play out for another 60 seconds,
+
+653
+00:35:14,849 --> 00:35:15,647
+然后我们攻入
+then we breach.
+
+654
+00:35:17,076 --> 00:35:17,541
+明白
+We clear?
+
+655
+00:35:19,913 --> 00:35:20,511
+Kensi
+Kensi?
+
+656
+00:35:27,516 --> 00:35:28,445
+Kensi
+Kensi...!
+
+657
+00:35:28,818 --> 00:35:31,225
+妹的 Eric 告诉洛杉矶警方我们要行动了
+Damn it. Eric, tell LAPD we're going in hot.
+
+658
+00:35:31,320 --> 00:35:31,880
+收到
+Copy that.
+
+659
+00:35:33,502 --> 00:35:33,987
+Kensi
+Kensi!
+
+660
+00:35:42,859 --> 00:35:44,112
+放下枪 联邦探员
+Drop it! Federal agent!
+
+661
+00:35:49,003 --> 00:35:49,440
+Deeks
+Deeks!
+
+662
+00:36:04,308 --> 00:36:05,223
+你疯了吗
+Are you crazy?
+
+663
+00:36:05,690 --> 00:36:06,580
+你差点打爆我的头
+You almost took my head off.
+
+664
+00:36:06,660 --> 00:36:07,690
+谁开的那枪
+Who takes that shot?
+
+665
+00:36:08,115 --> 00:36:09,199
+你怎么现在才来
+Took you long enough.
+
+666
+00:36:10,120 --> 00:36:11,120
+Thapa 跟我走
+Stay with me, Thapa.
+
+667
+00:36:19,994 --> 00:36:21,271
+我向你们道歉
+I owe you guys an apology.
+
+668
+00:36:22,482 --> 00:36:22,932
+对不起
+I'm sorry.
+
+669
+00:36:23,446 --> 00:36:24,551
+告诉我你拿到了那个U盘
+Tell me you secured the thumb drive,
+
+670
+00:36:24,600 --> 00:36:25,705
+我们会忘了这事儿
+we're going to forget about it.
+
+671
+00:36:26,212 --> 00:36:26,851
+我没拿
+I don't have it.
+
+672
+00:36:27,119 --> 00:36:28,209
+谁拿了 Deeks
+Well, who has it-- Deeks?
+
+673
+00:36:29,005 --> 00:36:30,278
+呃 没有
+Um, no.
+
+674
+00:36:30,398 --> 00:36:31,799
+我的意思是 他要是拿了他就会说了 是吧
+I mean, he would have said if he had it, right?
+
+675
+00:36:31,841 --> 00:36:32,320
+但我
+But I...
+
+676
+00:36:32,918 --> 00:36:34,483
+好吧 肯定不可能是廓尔喀人拿着U盘
+Okay, there's no way the Gurkha held onto it,
+
+677
+00:36:34,504 --> 00:36:36,517
+所以是在这儿的某个地方 我 我会找到的
+so it's got to be here somewhere. I-I will find it.
+
+678
+00:36:40,930 --> 00:36:42,115
+我猜是在夹克的衣袋里
+I'm thinking inside jacket pocket,
+
+679
+00:36:43,080 --> 00:36:43,776
+左边
+left side.
+
+680
+00:36:44,544 --> 00:36:45,240
+我猜是右边
+I'll go right.
+
+681
+00:36:54,018 --> 00:36:54,567
+找到了
+Bingo.
+
+682
+00:36:55,081 --> 00:36:55,873
+猜得好
+Nice call.
+
+683
+00:36:59,012 --> 00:37:02,744
+Kensi 道歉接受了
+Kensi... apology accepted.
+
+684
+00:37:05,158 --> 00:37:06,122
+去和你搭档汇合吧
+Go be with your partner.
+
+685
+00:37:06,741 --> 00:37:07,241
+谢谢
+Thanks.
+
+686
+00:37:12,535 --> 00:37:13,795
+这件事带来了一大堆麻烦
+Lot of trouble over this thing.
+
+687
+00:37:14,140 --> 00:37:14,421
+你对了
+That's right,
+
+688
+00:37:14,435 --> 00:37:15,308
+所以我们得把它放在安全的地方
+so let's put it somewhere safe.
+
+689
+00:37:15,913 --> 00:37:16,533
+你知道吗
+You know what?
+
+690
+00:37:16,955 --> 00:37:18,145
+这主意太好了
+That's a good idea.
+
+691
+00:37:19,543 --> 00:37:20,704
+安全为上 G
+Watch my back, G.
+
+692
+00:37:23,738 --> 00:37:24,491
+预备 抬
+Here we go.
+
+693
+00:37:31,819 --> 00:37:33,283
+他流了不少血 但是会活下来的
+He lost a lot of blood but he'll live.
+
+694
+00:37:33,839 --> 00:37:36,182
+廓尔喀人的流言 绝不夸张
+Gurkhas, believe the hype.
+
+695
+00:37:37,108 --> 00:37:37,460
+Deeks
+Deeks...
+
+696
+00:37:38,002 --> 00:37:39,226
+我准备跟他去医院
+I'm gonna go with him to the hospital.
+
+697
+00:37:39,346 --> 00:37:40,901
+不 嘿 哇 拜托 先等我
+No, hey, whoa, please, let me just...
+
+698
+00:37:41,422 --> 00:37:42,576
+我只是想跟你说点事
+I just want to say something.
+
+699
+00:37:42,780 --> 00:37:43,199
+嗯
+Yeah.
+
+700
+00:37:46,014 --> 00:37:47,077
+我们要搞清楚
+We're gonna figure this out.
+
+701
+00:37:48,985 --> 00:37:50,346
+我们只是谈论它
+All we got to do is talk about it.
+
+702
+00:37:51,916 --> 00:37:53,485
+但是你不 你不真的想
+Okay, but you don't, you don't really like
+
+703
+00:37:53,520 --> 00:37:54,829
+谈这个吧
+the talking about it.
+
+704
+00:37:54,851 --> 00:37:57,042
+是 但是我还是说出来比较好
+Yeah, but I promise I'll be better at talking about this.
+
+705
+00:37:59,428 --> 00:38:01,920
+什么意思 你的"这个"指什么
+What do you, what do you mean by "This"?
+
+706
+00:38:03,412 --> 00:38:06,671
+这个 你懂的
+This... you know.
+
+707
+00:38:08,247 --> 00:38:08,937
+这个事吗
+This thing?
+
+708
+00:38:13,221 --> 00:38:15,734
+是 我们的 事
+Yes, our... thing.
+
+709
+00:38:16,086 --> 00:38:17,297
+我很抱歉 只是 我没 我没听见
+I'm sorry, just... I didn't, I didn't hear you
+
+710
+00:38:17,325 --> 00:38:19,528
+因为很多人在旁走过
+'cause there were so many people walking by.
+
+711
+00:38:19,648 --> 00:38:21,403
+你大一点声说 哪怕只为我说一次
+If you could just maybe say it louder just for me.
+
+712
+00:38:21,593 --> 00:38:22,311
+就一次 说出来
+Just once, just say it.
+
+713
+00:38:23,409 --> 00:38:24,155
+我恨你
+I hate you.
+
+714
+00:38:24,535 --> 00:38:26,604
+不可能 不能 你不恨我
+You don't, you don't, you don't hate me.
+
+715
+00:38:26,654 --> 00:38:27,913
+- 我们的事  - 哇
+- Our thing. - Wow.
+
+716
+00:38:34,910 --> 00:38:36,613
+你也必须向我保证一些事
+You have to promise me something, too, though.
+
+717
+00:38:37,436 --> 00:38:38,190
+任何事都可以
+Anything.
+
+718
+00:38:40,111 --> 00:38:41,575
+你要对我有耐心 可以吗
+Promise you'll be patient with me?
+
+719
+00:38:43,159 --> 00:38:44,346
+呦 该走了
+Yo, got to roll.
+
+720
+00:38:46,626 --> 00:38:47,267
+今晚见吗
+See you tonight?
+
+721
+00:38:49,153 --> 00:38:49,580
+没问题
+Yeah.
+
+722
+00:38:53,556 --> 00:38:55,274
+帮我个忙 Fern
+You do me a favor, Fern?
+
+723
+00:38:55,597 --> 00:38:56,161
+任何事
+Anything.
+
+724
+00:38:56,689 --> 00:38:58,244
+把那衬衫烧了吧
+Can you burn that shirt for me?
+
+725
+00:39:09,245 --> 00:39:13,743
+在我还没察觉到自己人性向上的一面时 你却发现了它
+You saw good in me when I could not even see it in myself.
+
+726
+00:39:14,538 --> 00:39:16,414
+我永远不会忘的 先生
+I will never forget that, sahib.
+
+727
+00:39:19,570 --> 00:39:21,000
+呃 你在机场的时候是不是准备
+You know, you actually started to tell me something
+
+728
+00:39:21,100 --> 00:39:22,020
+告诉我一些事
+back at the airstrip.
+
+729
+00:39:23,857 --> 00:39:26,461
+你想告诉我渡过冰湖的唯一方法
+You started to tell me the only way to cross a frozen lake.
+
+730
+00:39:30,060 --> 00:39:31,249
+别急
+Do not run.
+
+731
+00:39:32,087 --> 00:39:33,353
+稳步向前
+Walk slowly.
+
+732
+00:39:34,085 --> 00:39:36,700
+心无旁鹜
+Stop to look at everything.
+
+733
+00:39:37,707 --> 00:39:38,959
+保持从容不迫
+Take your time.
+
+734
+00:39:39,938 --> 00:39:41,500
+她会等着你的
+She will wait for you.
+
+735
+00:39:46,981 --> 00:39:47,621
+好吧
+Okay.
+
+736
+00:39:57,327 --> 00:39:58,115
+你在等Deeks吗
+You waiting for Deeks?
+
+737
+00:39:59,515 --> 00:39:59,783
+是的
+Yeah.
+
+738
+00:40:01,652 --> 00:40:03,109
+打包你的东西 Blye探员
+Pack your things, Agent Blye.
+
+739
+00:40:06,509 --> 00:40:06,980
+什么
+Excuse me?
+
+740
+00:40:08,462 --> 00:40:10,181
+一架C-130在等你
+There's a C-130 waiting for you.
+
+741
+00:40:10,208 --> 00:40:11,101
+你被借调了
+You've been reassigned.
+
+742
+00:40:13,790 --> 00:40:14,606
+借调
+Reassigned?
+
+743
+00:40:18,040 --> 00:40:19,680
+额 Hetty 副主任Granger说
+Uh, Hetty, Assistant Director Granger says
+
+744
+00:40:19,760 --> 00:40:20,660
+我被借调了
+I've been reassigned.
+
+745
+00:40:21,492 --> 00:40:22,689
+没错
+That's correct.
+
+746
+00:40:23,810 --> 00:40:25,429
+你需要一件干净的衬衫
+You'll be needing a clean shirt,
+
+747
+00:40:25,457 --> 00:40:26,027
+Blye小姐
+Miss Blye.
+
+748
+00:40:27,527 --> 00:40:28,349
+为什么他这么做
+Why is he doing that?
+
+749
+00:40:28,607 --> 00:40:30,261
+他没有 是我
+He's not. I am.
+
+750
+00:40:34,336 --> 00:40:35,065
+我什么时候能回来
+When will I be back?
+
+751
+00:40:35,783 --> 00:40:37,423
+等任务结束
+When the job's done.
+
+752
+00:40:38,556 --> 00:40:39,689
+动身吧 Blye探员
+Let's move, Agent Blye.
+
+753
+00:40:56,899 --> 00:40:57,793
+这是什么情况 Hetty
+What's this about, Hetty?
+
+754
+00:40:59,243 --> 00:41:00,451
+按需知密 先生们
+"Need to know," Gentlemen.
+
+755
+00:41:01,106 --> 00:41:03,978
+你能不把我们当棋子般动吗
+You ever gonna stop moving us around like pieces in a chess game?
+
+756
+00:41:04,175 --> 00:41:06,371
+我不动棋子 Callen先生
+I don't move pieces, Mr. Callen.
+
+757
+00:41:07,524 --> 00:41:08,414
+我动棋盘
+I move the board.
+
+758
+00:41:11,476 --> 00:41:12,130
+晚安
+Good night.
+
+759
+00:41:19,933 --> 00:41:22,794
+拜托 我犯了所有交通条例回来
+Oh, come on, I break every traffic law on the planet
+
+760
+00:41:22,836 --> 00:41:23,821
+而她已经离开了吗
+to get here and she already left?
+
+761
+00:41:26,749 --> 00:41:29,774
+你的搭档被调离了 Deeks先生
+Your partner's been reassigned, Mr. Deeks.
+
+762
+00:41:31,069 --> 00:41:32,272
+你什么意思 什么意思 被借调
+What do you mean? What do you mean, reassigned?
+
+763
+00:41:33,941 --> 00:41:35,746
+一个机密任务
+A classified mission.
+
+764
+00:41:37,970 --> 00:41:40,110
+执行时间多长的机密任务
+A c-classified mission for how long?
+
+765
+00:41:41,624 --> 00:41:43,791
+看情况
+Indefinitely.
+
+766
+00:41:47,485 --> 00:41:48,090
+看情况
+Indefinitely.
+
+767
+00:41:55,005 --> 00:41:56,237
+看起来很眼熟啊
+That looks familiar.
+
+768
+00:41:57,986 --> 00:41:58,838
+这是她父亲的
+It was her dad's.
+
+769
+00:42:00,189 --> 00:42:01,646
+这算一份重礼了
+Well... that is quite a gift.
+
+770
+00:42:05,787 --> 00:42:07,449
+有时候 这仅仅是把刀而已
+Well, sometimes a knife is just a knife.
+
+771
+00:42:11,834 --> 00:42:14,527
+现在她把这个托付给你
+And now she's entrusted it to you.
+
+772
+00:42:24,419 --> 00:42:25,756
+我还应该知道什么吗 Hetty
+Anything else I should know, Hetty?
+
+773
+00:42:32,701 --> 00:42:34,116
+扣好纽扣 Deeks先生
+Button up, Mr. Deeks.
+
+774
+00:42:36,389 --> 00:42:37,237
+外面好冷
+It's cold out there.
+
+775
+00:43:11,840 --> 00:43:16,140
+== 开头G神吐糟 ==
+== Callen跑步追不上大黑了！！加强运动啊 ==
+== 毛茸茸左手开枪帅爆了！！！ ==
+== 话唠的解药难道是K姐吗？！ ==
+== 廓尔喀大兵一下子就看出毛茸茸在想啥了 ==
+== 楼上的没错↑↑↑Deeks你果然瞒不住啊 ==
+== 我DK党就这么被拆了吗 ==
+== K姐快回来啊 Hetty好狠啊 ==
+
+776
+00:43:16,220 --> 00:43:21,720
+== Deeks最近吃药吃多了 话真少 ==
+== 果然Deeks话少了 都被大黑吐槽了 ==
+== Deeks你敢换个袜子吗 太难看了 ==
+== K姐表白是傲娇了吗 ==
+== 最后一个人好可怜啊 ==
+== 导演你要不要这么狠 又拆散毛茸茸和K姐 ==
+
+777
+00:43:21,860 --> 00:43:30,480
+== 【H-SGDK】字幕组欢迎各位加入
+有意者请加QQ群109164858，注明 字幕组+申请职位即可 ==
+
+== 海军罪案调查处:洛杉矶 第五季 第10集【H-SGDK】字幕组倾情奉献 ==
+
+43
+00:03:01,605 --> 00:03:03,015
+{\a6}前一句是俚语 不过直译会成"给你一分钱 告诉我你想什么事情"
+
+83
+00:04:34,240 --> 00:04:36,800
+{\a6}廓尔喀刀闻名 尼泊尔的国刀 较重的刀刃能造成很深的伤口 甚至能切断肌肉与骨头
+近期最出名的是生化危机3里 女主角的形象
+
+85
+00:04:38,040 --> 00:04:40,915
+{\a6}考据狂表示较精准为1.62米……
+
+150
+00:08:20,595 --> 00:08:22,820
+{\a6}简称ISI 巴基斯坦情报部门
+
+237
+00:13:51,370 --> 00:13:53,033
+{\a6}Kali 印度教女神 中文译为时母 雪山神女的化身之一
+
+244
+00:14:23,520 --> 00:14:25,587
+{\a6}因1971年印巴战争时的表现 在1973年获得印度陆军元帅军衔
+
+277
+00:15:48,381 --> 00:15:50,529
+{\a6}西孟加拉邦 位于印度东部
+
+289
+00:16:34,227 --> 00:16:36,104
+{\a6}Quick Reaction Force
+
+398
+00:21:44,260 --> 00:21:45,520
+{\a6}海关不允许他出境
+
+427
+00:23:52,581 --> 00:23:55,609
+{\a6}在教父 第二部中 有Mike杀死自己的哥哥Fredo的情节
+
+441
+00:24:23,399 --> 00:24:26,346
+{\a6}警犬在欧美被称为K-9 英语canine的同音异义语词
+
+454
+00:24:50,969 --> 000:24:54,871
+{\a6}I've been there, I've done that, I got the T-shirt.
+俚语 意指完成一切
+
+554
+00:29:31,943 --> 00:29:32,717
+{\a6}Fatal funnel 属于必经之地 敌人枪口势必瞄准之处
+
+740
+00:40:08,462 --> 00:40:10,181
+{\a6}C-130 中型战术运输机

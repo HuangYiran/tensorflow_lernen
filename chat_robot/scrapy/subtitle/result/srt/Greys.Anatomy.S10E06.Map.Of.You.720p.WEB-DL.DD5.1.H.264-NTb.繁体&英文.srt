@@ -1,0 +1,4962 @@
+1
+00:07:33,590 --> 00:07:36,420
+實習醫生格蕾
+
+2
+00:07:33,590 --> 00:07:36,420
+—
+
+3
+00:07:37,230 --> 00:07:40,540
+第十季  第六集  "讀懂一個人"
+"Map of You"
+
+4
+00:37:00,250 --> 00:37:02,750
+■
+
+5
+00:37:00,250 --> 00:37:02,750
+m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0
+
+6
+00:37:00,250 --> 00:37:02,750
+m 115 64 l 115 35 l 171 0 l 177 0 l 133 46 l 143 52 l 179 0 l 184 0 l 159 63 l 229 107 l 229 182 l 145 96 l 135 122 l 207 227 l 137 227 l 115 172 l 115 93 l 126 76 l 115 64 l 104 76 l 115 93 l 115 172 l 93 227 l 23 227 l 95 122 l 84 96 l 0 182 l 0 107 l 70 63 l 45 0 l 50 0 l 87 52 l 97 46 l 52 0 l 59 0 l 115 35
+
+7
+00:37:00,250 --> 00:37:02,750
+m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60
+
+8
+00:37:00,250 --> 00:37:02,750
+m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172
+
+9
+00:37:00,250 --> 00:37:02,750
+原創翻譯  雙語字幕
+
+10
+00:37:00,250 --> 00:37:02,750
+僅供學習 禁止用于任何商業盈利行為
+更多影視更新
+請登陸 www.YYeTs.com
+
+11
+00:37:02,750 --> 00:37:05,250
+翻譯：喵記 小蠻腰 四方蝦 J小米 SMU囧 想往D 宅女之后 小shy
+
+12
+00:37:02,750 --> 00:37:05,250
+■
+
+13
+00:37:05,250 --> 00:37:07,750
+校對：喵記   月月   AS    總監：月月
+
+14
+00:37:05,250 --> 00:37:07,750
+■
+
+15
+00:37:07,750 --> 00:37:10,250
+時間軸：NO.Zero    兜兜兜爹    后期：Ghost
+
+16
+00:37:07,750 --> 00:37:10,250
+■
+
+17
+00:00:01,520 --> 00:00:03,160
+研究人員目前正在
+Researchers are currently working
+
+18
+00:00:03,160 --> 00:00:05,440
+繪制人類大腦架構圖
+to make a map of the human brain.
+
+19
+00:00:07,460 --> 00:00:09,140
+這興許是有史以來最復雜的
+It may be the most complex map
+
+20
+00:00:09,140 --> 00:00:10,470
+架構
+ever created...
+
+21
+00:00:10,500 --> 00:00:11,880
+-早安  -早安
+- Good morning. - Good morning.
+
+22
+00:00:12,400 --> 00:00:15,120
+上十億的神經發生萬億次的神經傳遞
+Billions of neurons making trillions of connections.
+
+23
+00:00:21,020 --> 00:00:23,640
+而最初  它們看似完全無章可循
+At first glance, they seem completely random.
+
+24
+00:00:33,580 --> 00:00:34,650
+小心燙
+Careful. Hot.
+
+25
+00:00:38,080 --> 00:00:40,320
+然而  它們并非沒有規律
+But there is nothing random about them.
+
+26
+00:00:43,060 --> 00:00:45,150
+這些神經傳遞都是有章可循
+All these connections have to happen
+
+27
+00:00:46,950 --> 00:00:48,390
+并共有一套機制
+in a specific pattern.
+
+28
+00:00:50,910 --> 00:00:52,960
+每種存在都有自己的功能
+It is designed for a function.
+
+29
+00:00:56,090 --> 00:00:58,670
+這些傳遞決定了我們的一切  包括
+These connections determine everything about us,
+
+30
+00:00:59,810 --> 00:01:00,890
+我們所愛的
+what we love...
+
+31
+00:01:03,010 --> 00:01:04,070
+深惡痛絕的
+what we hate...
+
+32
+00:01:04,740 --> 00:01:05,740
+我們的言語
+what we say...
+
+33
+00:01:06,990 --> 00:01:07,940
+我們的行為
+what we do...
+
+34
+00:01:08,560 --> 00:01:10,490
+我們做的每一個動作
+Every action we take.
+
+35
+00:01:10,810 --> 00:01:12,500
+把手張開  米基
+Open your hand, okay, Mickey?
+
+36
+00:01:18,040 --> 00:01:19,000
+這樣么
+Like this?
+
+37
+00:01:19,080 --> 00:01:20,880
+正是  就這樣
+Exactly. Like that.
+
+38
+00:01:20,930 --> 00:01:22,810
+叼爆了
+Yeah, baby!
+
+39
+00:01:22,810 --> 00:01:24,090
+好的  現在合上
+Okay, now close it.
+
+40
+00:01:24,550 --> 00:01:25,510
+不錯
+Oh, yeah!
+
+41
+00:01:25,510 --> 00:01:28,450
+他想著各種動作時  我們看到大腦的
+As he thinks about movements, we see brain activity
+
+42
+00:01:28,450 --> 00:01:31,050
+這  還有這  開始發亮
+here and here. These areas lighting up.
+
+43
+00:01:31,050 --> 00:01:33,060
+這個腦機接口讓一切變為可能
+Now the brain-computer interface is the key
+
+44
+00:01:33,060 --> 00:01:36,210
+即使是像米基這樣的四肢癱患者
+to new possibilities, whether it be robotic prosthetics...
+
+45
+00:01:36,210 --> 00:01:37,690
+裝的機械假肢
+for quadriplegics like Mickey...
+
+46
+00:01:37,690 --> 00:01:39,990
+還能讓我再次完爆俄羅斯方塊
+Or letting me kick ass at "Tetris" again.
+
+47
+00:01:40,140 --> 00:01:41,490
+大家伙來看這個
+Hey, check this out, you guys.
+
+48
+00:01:41,720 --> 00:01:43,580
+不費吹灰之力啊
+Hang loose!
+
+49
+00:01:47,460 --> 00:01:49,100
+誒  托瑞斯醫生呢
+Hey, where's Dr. Torres?
+
+50
+00:01:49,100 --> 00:01:49,980
+她怎么能錯過這個
+How's she missing this?
+
+51
+00:01:49,980 --> 00:01:51,370
+歷史性的突破啊
+This is the best that we've ever done.
+
+52
+00:01:51,370 --> 00:01:52,960
+肖恩  再給她發個短信
+Shane, text her again, will you?
+
+53
+00:01:55,460 --> 00:01:58,510
+-有什么不對勁嗎  -顳葉沒有任何反應
+- Is something wrong? - There's not a lot of temporal lobe activity.
+
+54
+00:01:58,540 --> 00:01:59,460
+這里沒有發亮
+Nothing lights up here.
+
+55
+00:01:59,460 --> 00:02:01,790
+-是不是傳感器連接的問題  -但愿如此
+- Is it a bad connection in the sensor? - I hope so.
+
+56
+00:02:01,790 --> 00:02:03,480
+如果不是傳感器  那就是他大腦有問題了
+If not, it's a bad connection in his brain.
+
+57
+00:02:03,480 --> 00:02:05,050
+給米基做個磁共振
+Schedule Mickey for an M.R.I.
+
+58
+00:02:06,760 --> 00:02:08,750
+這個我出門的時候帶錯了
+I brought this from home accidentally.
+
+59
+00:02:08,750 --> 00:02:10,550
+麻煩你把它和我那些尿片放一起吧
+Can you just put it in with my diaper bag and stuff?
+
+60
+00:02:10,550 --> 00:02:12,600
+然后  我等會去找托瑞斯
+And, uh, I'll try and find Torres.
+
+61
+00:02:15,370 --> 00:02:16,790
+感覺如何  小二年
+What's up, second year?
+
+62
+00:02:16,790 --> 00:02:18,750
+-更上一層樓了喲  -這都是發的么
+- This is a step up, right? - Are these assigned?
+
+63
+00:02:18,760 --> 00:02:21,120
+對啊  我們衣服上都繡了名字
+Yes. There's a lab coat with your name.
+
+64
+00:02:21,120 --> 00:02:22,620
+你到底在高興什么啊
+What are you so happy about?
+
+65
+00:02:22,620 --> 00:02:23,290
+才不告訴你  
+Can't tell you.
+
+66
+00:02:23,300 --> 00:02:24,930
+你肯定想知道  但不可說
+You wish I could, but I can't.
+
+67
+00:02:24,930 --> 00:02:26,250
+所以就不要問啦
+So please don't ask.
+
+68
+00:02:26,690 --> 00:02:28,370
+-怎么連個門都沒了  -就是啊
+- Why are there no doors on these? - I know, right?
+
+69
+00:02:28,370 --> 00:02:30,270
+姨媽棉條都沒地兒藏了
+Like, "Hello, tampons. Meet everyone."
+
+70
+00:02:36,420 --> 00:02:39,030
+海瑟·布魯克斯醫生
+
+71
+00:02:36,690 --> 00:02:39,180
+大伙兒  竟然有給海瑟·布魯克斯的白大褂
+You guys, there's a coat here for Heather Brooks.
+
+72
+00:02:39,180 --> 00:02:40,620
+-天哪  -真的么
+- Oh, my god. - Seriously?
+
+73
+00:02:44,020 --> 00:02:45,270
+他近來很怪啊
+Okay, is he being weird?
+
+74
+00:02:45,270 --> 00:02:46,550
+沒過測試么
+Did he fail the exam?
+
+75
+00:02:46,550 --> 00:02:48,520
+他直接離開了  都沒來一起慶祝
+He left right after. He didn't come celebrate.
+
+76
+00:02:48,520 --> 00:02:49,840
+還有  他竟然親了我
+Also, he kissed me.
+
+77
+00:02:50,150 --> 00:02:52,610
+說的跟真的似的  想得到挺美
+Oh, yeah, he kissed her. It could be that.
+
+78
+00:02:52,930 --> 00:02:55,270
+完全能理解  我自己也有小秘密
+I totally get it. I've got a secret thing going, too.
+
+79
+00:02:55,900 --> 00:02:58,530
+竟然沒咖啡  糟透了
+There's no coffee here. This is bad.
+
+80
+00:02:58,530 --> 00:03:00,290
+只能告訴你某人親了我
+I can't tell you who kissed me, though.
+
+81
+00:03:02,440 --> 00:03:03,000
+嗨
+Hey.
+
+82
+00:03:03,000 --> 00:03:04,910
+嗨  我今早從你床上起來
+Hey! I woke up at your place...
+
+83
+00:03:04,910 --> 00:03:07,270
+-發現又是我一人  -噢  我晚上在外頭
+- alone, again. - Yeah, I was out late.
+
+84
+00:03:07,270 --> 00:03:08,550
+連著三晚都是這樣
+This has been three nights now.
+
+85
+00:03:08,550 --> 00:03:10,710
+對  我每晚都出去了  沒別的原因
+Yeah, I've been, uh, going out. That--that's all.
+
+86
+00:03:12,570 --> 00:03:15,280
+我的實習測試過了  你都沒打電話來問我
+I passed my intern exam. I never heard from you.
+
+87
+00:03:15,780 --> 00:03:17,180
+是不是出什么事了
+Is there something going on?
+
+88
+00:03:17,940 --> 00:03:19,660
+阿歷克斯  回答我
+Alex, talk to me.
+
+89
+00:03:20,140 --> 00:03:21,050
+阿歷克斯
+Alex?
+
+90
+00:03:28,690 --> 00:03:30,930
+終于走了  我還以為她不走了呢
+Ugh. I thought she would never leave.
+
+91
+00:03:31,100 --> 00:03:32,730
+-怎么  -你收到我的短信了么
+- Hmm? - So you got my texts?
+
+92
+00:03:32,730 --> 00:03:33,900
+我通過了測試
+I passed my intern exam.
+
+93
+00:03:33,900 --> 00:03:36,160
+當然  我也回了啊
+Yeah, yeah, I did. I-I replied.
+
+94
+00:03:36,160 --> 00:03:38,330
+回了  "恭喜"
+I-I wrote "Congratulations."
+
+95
+00:03:38,330 --> 00:03:40,120
+我還想著能見見你呢
+I hoped I would see you.
+
+96
+00:03:40,530 --> 00:03:42,670
+畢竟那晚我倆過得挺愉快嘛
+I had such an amazing time the other night.
+
+97
+00:03:42,780 --> 00:03:43,860
+對  挺愉快的 
+Yeah, it was fun.
+
+98
+00:03:44,360 --> 00:03:47,310
+我覺得  我們可以更進一步
+I feel like I'm ready to... take it further--
+
+99
+00:03:47,310 --> 00:03:50,130
+這個  也許不是個好主意
+Um, you know, um, it's-- it's not a good idea,
+
+100
+00:03:50,130 --> 00:03:51,890
+是啊  上班不該談的
+Um... at work?
+
+101
+00:03:52,040 --> 00:03:53,270
+完全理解
+I totally get it.
+
+102
+00:03:53,300 --> 00:03:54,280
+-那今晚見  -噢
+- See you tonight? - Mm-hmm.
+
+103
+00:04:00,480 --> 00:04:01,140
+你呼我
+You paged me?
+
+104
+00:04:01,140 --> 00:04:02,490
+愛德華茲醫生  這是本·博斯克
+Dr. Edwards, Ben Bosco,
+
+105
+00:04:02,490 --> 00:04:03,760
+-還有他妻子喬伊斯  -你好
+- his wife Joyce. - Hi.
+
+106
+00:04:03,760 --> 00:04:05,170
+他踝關節骨折了
+He's got an ankle fracture.
+
+107
+00:04:05,170 --> 00:04:06,850
+我們當時在機場的傳送走道上跑
+That moving walkway thing at the airport--
+
+108
+00:04:06,850 --> 00:04:09,470
+因為要去趕阿拉斯加的飛機
+We were running to catch our connection to Alaska--
+
+109
+00:04:09,470 --> 00:04:10,970
+去那看北極光嘛
+Ahh, to see the northern lights.
+
+110
+00:04:10,970 --> 00:04:12,520
+結果他崴了一下
+Then he steps off that thing,
+
+111
+00:04:12,520 --> 00:04:14,010
+然后我就聽到了
+and I heard it. I heard it just go
+
+112
+00:04:14,010 --> 00:04:16,400
+-”?”的一聲  -就像劇烈的剎車聲
+- crack. - Like the whole world slammed on the brakes,
+
+113
+00:04:16,400 --> 00:04:18,250
+-而我還在繼續跑  -于是就來這了
+- and I kept going. - And here we are.
+
+114
+00:04:18,260 --> 00:04:20,580
+給他做個全身檢查  再喊骨科醫生來會診
+He's gonna need a full workup and an ortho consult.
+
+115
+00:04:20,580 --> 00:04:22,550
+再做個胸腔照片  因為可能會要做手術
+Also get a chest x-ray, 'cause it might be surgical.
+
+116
+00:04:22,550 --> 00:04:23,690
+記得告訴我結果
+Keep me posted.
+
+117
+00:04:23,700 --> 00:04:25,700
+好了  我先去安排X光
+Okay. I will get those x-rays.
+
+118
+00:04:25,700 --> 00:04:27,380
+-抱歉  -抱歉
+- Oh! Excuse me. - Sorry. Oh! Sorry.
+
+119
+00:04:27,550 --> 00:04:29,770
+-你確定這沒關系  -我喊你來的  沒事
+- You're sure it's not weird? - I called you.
+
+120
+00:04:29,770 --> 00:04:31,480
+羅賓斯還不知道我們在交往吧
+Robbins doesn't know that we're dating, does she?
+
+121
+00:04:31,490 --> 00:04:33,140
+因為我可不想靠這個
+'cause I just don't want to trade on our...
+
+122
+00:04:33,140 --> 00:04:35,410
+不管這是什么 換參觀手術的機會
+Whatever this is to, uh, get to observe a surgery.
+
+123
+00:04:35,410 --> 00:04:36,400
+她不知道
+No.
+
+124
+00:04:36,770 --> 00:04:39,000
+很好  我只是想專業點  你懂的
+Good. I just like to keep it professional, you know?
+
+125
+00:04:39,000 --> 00:04:40,230
+-工作嘛  -當然
+- At work. - Yeah, of course.
+
+126
+00:04:40,230 --> 00:04:41,950
+那個
+Um, hey, uh...
+
+127
+00:04:42,380 --> 00:04:45,390
+真不能告訴別人么  因為我已經告訴幾個了
+Are we not telling people? 'cause I told a couple people.
+
+128
+00:04:46,180 --> 00:04:47,170
+當然可以
+Yeah, you could.
+
+129
+00:04:47,170 --> 00:04:48,230
+該告訴嘛
+Uh, you should.
+
+130
+00:04:48,230 --> 00:04:49,940
+我也會告訴啦
+I would.
+
+131
+00:04:50,210 --> 00:04:51,610
+那就好
+Good. Good.
+
+132
+00:04:52,650 --> 00:04:54,610
+好了  既然是工作
+Well, we are at work. So...
+
+133
+00:04:54,980 --> 00:04:56,340
+-多謝你請我來  -沒問題
+- Thanks for the call. - Yeah.
+
+134
+00:04:58,430 --> 00:04:59,920
+-抱歉  -你好
+- Oh. Excuse me. - Hi. Hello.
+
+135
+00:05:02,430 --> 00:05:03,950
+上班還帶女友來了
+Bring your girlfriend to work day?
+
+136
+00:05:04,240 --> 00:05:06,440
+羅賓斯要給一個三月大的的畸胎瘤嬰兒做手術
+Robbins has a teratoma in a 3-month,
+
+137
+00:05:06,440 --> 00:05:08,170
+而  艾瑪
+And, uh, Emma--
+
+138
+00:05:08,390 --> 00:05:10,270
+瑪琳醫生
+Doctor, uh, Marling--
+
+139
+00:05:10,270 --> 00:05:11,690
+想看看
+is gonna observe.
+
+140
+00:05:12,260 --> 00:05:13,310
+真貼心啊
+That's sweet.
+
+141
+00:05:14,760 --> 00:05:16,150
+這樣不會太奇怪吧  是嗎
+This isn't gonna be weird, is it?
+
+142
+00:05:16,160 --> 00:05:17,810
+對我來說  不會
+For me? Please.
+
+143
+00:05:18,950 --> 00:05:20,150
+對她來說會很奇怪嗎
+Will it be weird for her?
+
+144
+00:05:20,160 --> 00:05:23,240
+我是說  她是那種會被前任嚇跑的人嗎
+I mean is she-- is she the type to get freaked out by the ex?
+
+145
+00:05:23,580 --> 00:05:24,460
+該死
+Damn it.
+
+146
+00:05:25,540 --> 00:05:26,400
+梅
+Mer...
+
+147
+00:05:26,950 --> 00:05:27,880
+你在干什么
+What's going on?
+
+148
+00:05:29,390 --> 00:05:30,310
+沒什么  我在
+Oh, nothing. I'm--
+
+149
+00:05:30,310 --> 00:05:33,870
+我在決定選哪個研究項目
+I'm just, uh, trying to decide on a research project.
+
+150
+00:05:34,400 --> 00:05:35,860
+有什么可選的
+Decide between what?
+
+151
+00:05:36,060 --> 00:05:37,360
+沒什么  我能搞定
+Nothing. I got it.
+
+152
+00:05:40,800 --> 00:05:42,560
+疼痛感不會消失的
+This pain isn't going away.
+
+153
+00:05:43,940 --> 00:05:46,550
+我的左肩一直在疼
+It's a constant pain in my left shoulder.
+
+154
+00:05:47,440 --> 00:05:49,190
+您覺得是什么原因引起的呢
+And what do you think is causing that?
+
+155
+00:05:49,190 --> 00:05:50,900
+是不是摔著肩膀了
+Were you injured in a fall?
+
+156
+00:05:50,900 --> 00:05:53,290
+你告訴我啊  你是我醫生
+You tell me. You're my doctor.
+
+157
+00:05:53,290 --> 00:05:54,650
+對  抱歉
+Right. Sorry.
+
+158
+00:05:54,650 --> 00:05:57,050
+只是你也是我的老師
+It's just that you're also my teacher.
+
+159
+00:05:57,240 --> 00:05:59,040
+打擾一下  貝利醫生
+Excuse me, Dr. Bailey...
+
+160
+00:05:59,860 --> 00:06:01,740
+你記不記得在哪讀到過一個未完成的
+Do you remember reading somewhere
+
+161
+00:06:01,740 --> 00:06:05,170
+研究報告  是關于髂門靜脈移植的
+about unfinished research on iliac-portal vein grafts?
+
+162
+00:06:05,170 --> 00:06:06,590
+-怎么了  -今天是上交
+- Why? - Tonight is the deadline
+
+163
+00:06:06,590 --> 00:06:08,900
+國家衛生研究院研究基金申請的最后一天
+to submit for the N.I.H. research grant I want.
+
+164
+00:06:08,900 --> 00:06:10,350
+我現在不確定
+And I'm having trouble deciding
+
+165
+00:06:10,350 --> 00:06:11,900
+是選擇局部缺血...
+between ischemia--
+
+166
+00:06:11,900 --> 00:06:12,970
+你要做出一番事業啊
+Ah, you're peeing on a tree.
+
+167
+00:06:13,400 --> 00:06:16,260
+作為主治醫生的第一年都害怕搞砸
+Yeah, first year attending scared of screwing up.
+
+168
+00:06:16,260 --> 00:06:18,310
+所以她選了那些簡單的病例
+So, um, she takes the easy cases.
+
+169
+00:06:18,310 --> 00:06:20,070
+保持低調
+She keeps a low profile.
+
+170
+00:06:20,070 --> 00:06:22,170
+但主治醫生的第二年就得有突出表現
+But second year attending has got to step it up--
+
+171
+00:06:22,170 --> 00:06:25,140
+選一些典型病例  發表研究報告
+take the flashy cases, publish the research,
+
+172
+00:06:25,140 --> 00:06:27,550
+確定研究領域  干出一番事業
+mark her territory. Pee on some trees.
+
+173
+00:06:27,550 --> 00:06:29,420
+髂門靜脈  記不記得
+Portal veins... any bells?
+
+174
+00:06:29,420 --> 00:06:31,150
+那是你母親的研究
+It was your mother's.
+
+175
+00:06:32,510 --> 00:06:35,830
+"門靜脈插補術和髂靜脈移植"
+"Portal vein interposition with iliac vein graft."
+
+176
+00:06:36,170 --> 00:06:38,060
+愛麗絲生病時正在研究這個
+Ellis was working on it when she got sick.
+
+177
+00:06:38,060 --> 00:06:39,980
+在你給我的某本日記里有這個
+It's in one of the journals you gave me.
+
+178
+00:06:39,980 --> 00:06:40,890
+該死
+Oh, crap.
+
+179
+00:06:43,090 --> 00:06:44,520
+我有個同樣的杯子
+I have a mug like that.
+
+180
+00:06:44,970 --> 00:06:47,170
+如果對于我的肩部疼痛
+If you don't come back with a solid diagnosis
+
+181
+00:06:47,170 --> 00:06:48,080
+你無法給出明確的診斷
+for my shoulder pain,
+
+182
+00:06:48,080 --> 00:06:49,530
+我就得要求你離開了
+I'm gonna kick you off my case.
+
+183
+00:06:49,530 --> 00:06:51,990
+是作為老師還是病人
+As my teacher or my patient?
+
+184
+00:06:52,000 --> 00:06:52,930
+出去
+Get out.
+
+185
+00:06:57,330 --> 00:07:00,150
+我得給韋伯的肩部疼痛做出診斷
+I need a differential diagnosis for Webber's shoulder pain.
+
+186
+00:07:00,630 --> 00:07:02,070
+關節炎  黏液囊炎
+Arthritis, bursitis...
+
+187
+00:07:02,070 --> 00:07:03,830
+任何年齡大的人都有的"炎癥"
+Any of the old people "-itises."
+
+188
+00:07:03,880 --> 00:07:06,430
+還在等我那個踝骨骨折病人的胸部CT
+Still waiting on my broken ankle's chest scans.
+
+189
+00:07:06,610 --> 00:07:08,060
+你居然有咖啡
+You got coffee.
+
+190
+00:07:08,420 --> 00:07:10,580
+阿歷克斯不跟我說話
+So Alex isn't talking to me.
+
+191
+00:07:10,630 --> 00:07:11,670
+我猜是因為我逼著他
+I think it's 'cause I pushed him to
+
+192
+00:07:11,670 --> 00:07:12,950
+和他游手好閑的老爸說話
+talk to his deadbeat dad.
+
+193
+00:07:12,950 --> 00:07:14,580
+阿歷克斯有個老爸
+Alex has a dad?
+
+194
+00:07:14,810 --> 00:07:15,810
+你跟肖恩談過了沒
+Have you talked to Shane?
+
+195
+00:07:15,820 --> 00:07:16,820
+我還是希望這事能平息下去
+I'm still hoping it'll go away.
+
+196
+00:07:16,820 --> 00:07:18,010
+肖恩親了我  我又沒親他
+Shane kissed me. I didn't kiss him.
+
+197
+00:07:18,010 --> 00:07:19,360
+這是他的問題
+It's his problem.
+
+198
+00:07:24,360 --> 00:07:26,910
+他的心臟上有個巨大的腫瘤
+He has a huge tumor in his heart.
+
+199
+00:07:26,910 --> 00:07:27,850
+不
+No...
+
+200
+00:07:29,710 --> 00:07:31,610
+他只是踝骨骨折了啊
+He has a broken ankle.
+
+201
+00:07:44,850 --> 00:07:45,730
+好的  謝謝
+Okay, yeah. Thank you.
+
+202
+00:07:45,730 --> 00:07:48,090
+-你沒事吧  -對啊  怎么了
+- You okay? - Yeah, why?
+
+203
+00:07:48,090 --> 00:07:49,020
+我們今天早上測試了
+Yeah, we tested the new sensors
+
+204
+00:07:49,020 --> 00:07:50,460
+米基·溫思勒的新傳感器
+with Mickey Wenschler this morning.
+
+205
+00:07:50,460 --> 00:07:51,800
+結果非常成功
+And--and it was a huge success.
+
+206
+00:07:51,800 --> 00:07:53,560
+但是他一直在問為什么你沒在那
+But he kept asking why you weren't there.
+
+207
+00:07:54,060 --> 00:07:55,860
+你沒有...你沒有收到我的短信嗎
+Uh, well, didn't you-- didn't you get my text?
+
+208
+00:07:55,860 --> 00:07:57,600
+你短信說  "我不去了"
+Your text said, "Won't be there."
+
+209
+00:07:57,650 --> 00:08:00,280
+好吧  是這樣子的
+Okay, well, uh, here's the thing--
+
+210
+00:08:00,280 --> 00:08:01,820
+搬回我家讓我覺得
+Moving back into my place made me feel like
+
+211
+00:08:01,820 --> 00:08:04,450
+我真的需要搬回"我家"
+I really need to move back into "My place,"
+
+212
+00:08:04,450 --> 00:08:06,080
+集中精力在成就我本人的事情上
+You know, concentrate on what makes me, me.
+
+213
+00:08:06,080 --> 00:08:07,720
+我研究的是再生軟骨
+I do regenerative cartilage.
+
+214
+00:08:07,720 --> 00:08:08,430
+這也是我的TED演講的主題
+It's what my T.E.D. Talk was about--
+
+215
+00:08:08,430 --> 00:08:09,140
+你到底什么意思
+What are you saying?
+
+216
+00:08:09,140 --> 00:08:10,840
+我不打算繼續那個項目了
+I'm not going forward with the project.
+
+217
+00:08:10,940 --> 00:08:11,990
+而你應該繼續下去
+You should totally run with it, though.
+
+218
+00:08:11,990 --> 00:08:13,190
+不  這是你的項目
+No, this is your project.
+
+219
+00:08:13,190 --> 00:08:14,560
+米基是你的病人  我沒法做
+Mickey's your patient. I can't do this.
+
+220
+00:08:14,570 --> 00:08:16,100
+我沒有時間  梅瑞迪斯和我
+I don't have time. Meredith and I
+
+221
+00:08:16,100 --> 00:08:17,130
+得花大量時間照顧孩子們
+are in over our heads with kids,
+
+222
+00:08:17,140 --> 00:08:18,490
+而且她也需要時間
+and she needs time, too.
+
+223
+00:08:18,490 --> 00:08:19,850
+那我們放棄這個項目吧
+So maybe we just drop it.
+
+224
+00:08:19,850 --> 00:08:20,900
+也沒什么壞處  對嗎
+No harm done, right?
+
+225
+00:08:20,900 --> 00:08:21,950
+那你去跟米基·溫思勒說吧
+Oh, and tell that to Mickey Wenschler.
+
+226
+00:08:21,950 --> 00:08:23,220
+米基會沒事的
+Mickey will be all right.
+
+227
+00:08:23,220 --> 00:08:24,730
+愛德華茲  我剛才檢查了踝骨骨折
+Edwards, I just saw your broken ankle.
+
+228
+00:08:24,730 --> 00:08:26,290
+不用手術  夾板固定就行
+No surgery, just splint it.
+
+229
+00:08:26,290 --> 00:08:28,080
+他不會沒事的  那會殺了他的
+He won't be all right. It's gonna kill him.
+
+230
+00:08:28,080 --> 00:08:29,870
+我知道
+I know, right?
+
+231
+00:08:32,390 --> 00:08:33,130
+我做不到啊
+I can't do this.
+
+232
+00:08:33,130 --> 00:08:35,260
+-這是你干的嗎  -我...
+- Did you do this? - Uh, I...
+
+233
+00:08:35,260 --> 00:08:36,010
+我得去找凱普納  
+I need to find Kepner.
+
+234
+00:08:36,010 --> 00:08:36,840
+不行  這是誰打碎的
+No, who broke this?
+
+235
+00:08:36,840 --> 00:08:38,690
+是我  抱歉  是我摔碎了
+Yeah, sorry. I dropped it.
+
+236
+00:08:38,810 --> 00:08:41,320
+楊醫生  你能看一下這個嗎
+Dr. Yang, uh, would you look at this?
+
+237
+00:08:41,560 --> 00:08:43,380
+-天哪  -這很糟糕  對嗎
+- Holy--wow! - I mean, it's bad, right?
+
+238
+00:08:43,380 --> 00:08:45,100
+-你不能用這個的  -肖恩  等會說
+- Look, this wasn't yours to use-- - Shane, not now!
+
+239
+00:08:45,100 --> 00:08:47,380
+左心室有一大片的動靜脈畸形瘤
+This is a rat's nest of an A.V.M. in the left ventricle.
+
+240
+00:08:47,380 --> 00:08:49,110
+說不定已經擴展到心臟瓣膜了
+It's probably pushing in on the valve.
+
+241
+00:08:49,110 --> 00:08:50,890
+如果不治療  他只能活幾個月
+If it's not treated, he'll be dead in months.
+
+242
+00:08:51,700 --> 00:08:53,450
+他是因為踝骨骨折來的
+He came in for a broken ankle.
+
+243
+00:08:53,750 --> 00:08:55,680
+現在我得去告訴他  他要死了
+And now I have to tell them he's dying.
+
+244
+00:08:57,680 --> 00:08:59,520
+讓我看看血檢結果
+Okay, let me look at the blood work,
+
+245
+00:08:59,520 --> 00:09:00,970
+然后我們一起告訴他們
+and we'll tell them together.
+
+246
+00:09:01,760 --> 00:09:03,260
+天哪  太謝謝你了
+God, thank you so much.
+
+247
+00:09:03,790 --> 00:09:05,270
+這地方像個迷宮
+This place is a maze.
+
+248
+00:09:06,010 --> 00:09:07,980
+-那是羅賓斯醫生  -對
+- That's Dr. Robbins? - Yeah.
+
+249
+00:09:08,420 --> 00:09:09,510
+那你是
+And you are?
+
+250
+00:09:10,630 --> 00:09:12,610
+-羅賓斯醫生  我是艾瑪·瑪琳  -對
+- Dr. Robbins, Emma Marling. - Oh, right.
+
+251
+00:09:12,610 --> 00:09:14,780
+-對  你是來觀摩手術的  -我希望
+- Right, right, you're observing. - And I'm scrubbing in...
+
+252
+00:09:14,780 --> 00:09:16,470
+我能參加
+I hope.
+
+253
+00:09:16,470 --> 00:09:18,840
+墨菲  抱歉  加上瑪琳醫生
+Murphy, I'm sorry. With Dr. Marling,
+
+254
+00:09:18,840 --> 00:09:21,160
+我覺得手術臺都滿了  下次吧
+I think the table's full. Um, next time?
+
+255
+00:09:21,290 --> 00:09:23,690
+我們剛給小艾琳的父母講解了手術
+Okay, so we just gave little Erin's parents the pre-game,
+
+256
+00:09:23,690 --> 00:09:24,840
+然后我們就帶她去做手術
+and we're about to take her up.
+
+257
+00:09:24,840 --> 00:09:26,860
+墨菲  你能帶她去找手術服嗎
+Murphy, will you show her where to get some scrubs?
+
+258
+00:09:30,420 --> 00:09:31,620
+觀摩醫生
+Visiting surgeon?
+
+259
+00:09:31,860 --> 00:09:33,640
+對  她是婦科和兒科醫生  正在研究
+Yeah, maternal/fetal. She's researching
+
+260
+00:09:33,650 --> 00:09:35,860
+微創治療子宮畸胎瘤
+minimally invasive in-utero teratomas.
+
+261
+00:09:35,860 --> 00:09:38,130
+她很性感  我只是說
+And she's hot. I'm just saying
+
+262
+00:09:38,140 --> 00:09:39,940
+我會在一旁看著你的  以防你就范
+It's good that I'll be there to chaperone.
+
+263
+00:09:41,190 --> 00:09:43,170
+怎么  不能拿這個開玩笑嗎
+What, we're not joking about this yet?
+
+264
+00:09:44,920 --> 00:09:46,130
+手術室見了
+See you in there.
+
+265
+00:09:50,050 --> 00:09:50,800
+給你
+Here.
+
+266
+00:09:51,430 --> 00:09:52,920
+這是我母親的日記  你從哪找到的
+This is my mother's journal. Where did you get this?
+
+267
+00:09:52,920 --> 00:09:54,940
+韋伯...讓我去他家了
+Webber... made me go to his house.
+
+268
+00:09:54,950 --> 00:09:56,500
+我還要去搞清楚他的肩膀到底為什么疼
+And I need to figure out why his shoulder hurts.
+
+269
+00:09:56,500 --> 00:09:58,020
+-我可以走了嗎  -可以
+- Can I go? - Yeah.
+
+270
+00:09:59,540 --> 00:10:00,980
+-你們這是搞什么  -研究基金
+- What was that about? - Research funding.
+
+271
+00:10:00,980 --> 00:10:03,340
+我正在糾結到底是局部缺血
+I'm trying to decide between an ischemia study
+
+272
+00:10:03,520 --> 00:10:05,780
+還是我母親曾經做過的門靜脈研究
+and this portal vein thing that my mother was working on.
+
+273
+00:10:05,780 --> 00:10:07,710
+做那個
+Ooh! Do that.
+
+274
+00:10:07,710 --> 00:10:08,580
+可是這個都已經做好一半了
+It's half-baked.
+
+275
+00:10:08,580 --> 00:10:10,470
+再加上我不喜歡沾我媽的光
+A-and I don't like trading on my mother's name.
+
+276
+00:10:10,480 --> 00:10:12,220
+不  這完全是你的杰作
+No, it's your story.
+
+277
+00:10:12,220 --> 00:10:14,280
+杰出的年輕外科醫生完成了
+"Brilliant young surgeon finishes work
+
+278
+00:10:14,280 --> 00:10:15,570
+她去世母親未完成的工作
+of dead brilliant mother surgeon"--
+
+279
+00:10:15,570 --> 00:10:17,820
+這太順理成章了  你要打響自己的名號
+It writes itself. Invest in your brand.
+
+280
+00:10:17,820 --> 00:10:18,910
+你把我說的好像是個軟飲似的
+You make me sound like a soft drink.
+
+281
+00:10:18,910 --> 00:10:19,850
+我也正是這么做的呀
+That's what I'm doing.
+
+282
+00:10:19,850 --> 00:10:21,490
+重新對自己投資
+Yeah, I'm reinvesting in myself.
+
+283
+00:10:21,490 --> 00:10:22,970
+-就沖著這個  -一起努力吧
+- That's the perfect reason... - Right?
+
+284
+00:10:22,980 --> 00:10:23,970
+我也不干
+not to.
+
+285
+00:10:24,060 --> 00:10:26,780
+肖恩  給你  好東西
+Shane, here you go. Some good stuff in there.
+
+286
+00:10:26,860 --> 00:10:30,350
+-好好享受吧  -你不會明白的
+- Enjoy. - Ugh. You don't get it.
+
+287
+00:10:31,480 --> 00:10:32,950
+這是米基的核磁共振結果
+These are Mickey's M.R.I.s?
+
+288
+00:10:35,290 --> 00:10:37,670
+謝博德醫生  我想問您一下
+Dr. Shepherd...I wondered if you'd mind
+
+289
+00:10:37,670 --> 00:10:39,740
+今天結束后  我跟別的醫生可以嗎
+if I switch services after today.
+
+290
+00:10:40,410 --> 00:10:42,470
+-你是我點名要求的  -我知道
+- I asked for you specifically. - I know.
+
+291
+00:10:42,480 --> 00:10:44,590
+我知道去年發生在你和布魯克斯之間的事
+Look, what happened last year between you and Brooks,
+
+292
+00:10:44,610 --> 00:10:46,140
+也許是我當時有失公平
+I think I may have been unfair,
+
+293
+00:10:46,140 --> 00:10:48,330
+而我也一直希望找個機會彌補
+and I was hoping for a chance to make it right.
+
+294
+00:10:49,100 --> 00:10:51,350
+所以說  現在布魯克斯不在了
+So...now that Brooks is gone...
+
+295
+00:10:51,620 --> 00:10:53,480
+-就由我頂替她  -該死的
+- I get to take her place? - Oh, hell.
+
+296
+00:10:53,480 --> 00:10:55,340
+怪不得傳感器不發光呢
+Well, that's why the sensors weren't lighting.
+
+297
+00:10:56,660 --> 00:10:57,690
+他長了個神經膠質瘤
+He has a glioma.
+
+298
+00:10:58,710 --> 00:10:59,700
+你能治好他嗎
+Can you treat it?
+
+299
+00:10:59,730 --> 00:11:01,120
+我可以用膠試試
+I could try hitting it with some glue.
+
+300
+00:11:01,120 --> 00:11:04,020
+-膠  -栓塞膠  一般用在腦動靜脈畸形
+- Glue? - Embolization glue. We use it for A.V.M.s.
+
+301
+00:11:04,020 --> 00:11:05,580
+我們把超能膠注射到血管中
+We pump superglue into the vessels,
+
+302
+00:11:05,580 --> 00:11:08,070
+膠水凝固后便切斷了通往腫瘤的血液
+the glue hardens, cuts off blood to the tumor.
+
+303
+00:11:08,670 --> 00:11:10,000
+我可以試試看
+I could try it. Mm...
+
+304
+00:11:10,440 --> 00:11:12,450
+不行  血管直接連接到腦干
+No. It goes all the way to the brain stem.
+
+305
+00:11:12,450 --> 00:11:13,950
+-太危險了  -那動手術呢
+- It's too dangerous. - And going in surgically?
+
+306
+00:11:13,960 --> 00:11:14,760
+結果也是一樣
+It's the same thing.
+
+307
+00:11:14,760 --> 00:11:16,970
+恐怕也是弊大于利
+I'm afraid of doing more harm than good.
+
+308
+00:11:18,060 --> 00:11:20,190
+這是一個非常致命的腫塊
+It's a very deadly mass.
+
+309
+00:11:20,200 --> 00:11:23,210
+是個巨大的靜脈畸形
+It's a large veinous malformation...
+
+310
+00:11:23,610 --> 00:11:25,320
+如果不馬上加以治療
+and without intervention immediately,
+
+311
+00:11:25,320 --> 00:11:28,010
+恐怕結果不堪設想
+I'm afraid the prognosis is very bad.
+
+312
+00:11:29,100 --> 00:11:30,600
+沒錯  就是那個東西
+Yeah, that's the thing.
+
+313
+00:11:30,850 --> 00:11:33,420
+我這幾年一直帶著它活的
+Um, I have been dying of that for years.
+
+314
+00:11:35,560 --> 00:11:37,050
+你知道你心臟有腫瘤卻只字不提
+You knew about this and you didn't mention it?
+
+315
+00:11:37,050 --> 00:11:38,440
+-抱歉  -在你的醫療記錄上沒有
+- I'm sorry. - In your medical history, there's --
+
+316
+00:11:38,440 --> 00:11:40,620
+我滿腦子都是錯過航班的事
+I was so hung up on missing our plane --
+
+317
+00:11:40,770 --> 00:11:42,490
+這是個不能動手術的動靜脈畸形瘤
+It's an inoperable A.V.M.
+
+318
+00:11:42,490 --> 00:11:44,780
+他大概在一年
+He was diagnosed with it, what, a y --
+
+319
+00:11:44,780 --> 00:11:46,120
+-一年半  -沒錯  前年就確診了
+- Year and a half -- - Year before last, yeah.
+
+320
+00:11:46,120 --> 00:11:47,840
+-一月份  -而且是晚期
+- January. - And terminal.
+
+321
+00:11:47,840 --> 00:11:49,740
+那我們還能怎么辦
+So...what are you gonna do?
+
+322
+00:11:49,740 --> 00:11:52,510
+我們就辭了工作  把銀行里的錢都取了出來
+So we just quit our jobs, cashed out all our accounts,
+
+323
+00:11:52,510 --> 00:11:55,810
+-然后開始旅游  -沒錯  開始干各種事
+- and just started traveling. - Yeah, just doing stuff --
+
+324
+00:11:55,810 --> 00:11:58,590
+旅游  活動  基本上把剩余的一切時間
+trips, activities, basically cramming as much living
+
+325
+00:11:58,590 --> 00:12:00,820
+都盡可能地填滿
+as we could into the time we have left.
+
+326
+00:12:00,820 --> 00:12:02,730
+好吧  你的醫生  他  他
+Okay, did your doctor -- did he or -- or --
+
+327
+00:12:02,730 --> 00:12:05,110
+或是她有沒有試過給你用輻射治療
+or she, uh, try treating it with radiation?
+
+328
+00:12:05,120 --> 00:12:06,880
+-試過了  -靜脈卷呢
+- Yeah, tried that. - Intravenous coiling?
+
+329
+00:12:06,880 --> 00:12:08,890
+也試過了  沒用
+Mm-hmm. Yeah, no dice.
+
+330
+00:12:08,890 --> 00:12:10,320
+還有硬化劑
+And the sclerosing agents --
+
+331
+00:12:10,320 --> 00:12:12,780
+那移植呢  或是
+Uh, what about a transplant? Or what about...
+
+332
+00:12:13,120 --> 00:12:14,330
+還有很多
+There are a lot of --
+
+333
+00:12:14,330 --> 00:12:15,350
+親愛的
+Sweetie...
+
+334
+00:12:16,680 --> 00:12:17,850
+我知道這很難接受
+I know it's hard.
+
+335
+00:12:18,560 --> 00:12:20,030
+對我們來說也是一樣
+It was hard for us, too.
+
+336
+00:12:21,370 --> 00:12:22,740
+但是你必須學會放手
+But you have to let it go.
+
+337
+00:12:24,010 --> 00:12:25,770
+因為我對此無能為力
+Because there is nothing I can do about it.
+
+338
+00:12:25,770 --> 00:12:27,590
+很抱歉  最好的選擇就是
+I'm sorry. The best course
+
+339
+00:12:27,590 --> 00:12:30,970
+不去管它  然后期待最好的結果
+is to leave it alone and hope for the best.
+
+340
+00:12:30,970 --> 00:12:33,150
+但研究還是要繼續的  對吧
+We'll keep doing the study, right?
+
+341
+00:12:33,280 --> 00:12:35,670
+-拜托  為什么不行  -因為太危險了
+- Come on. Why? - Because it is too dangerous.
+
+342
+00:12:35,670 --> 00:12:38,060
+而且腫瘤可能會導致異常結果
+Also the tumor could give us abnormal results.
+
+343
+00:12:38,060 --> 00:12:39,710
+那你要把腫瘤取出來呢
+What if you take the tumor out?
+
+344
+00:12:40,130 --> 00:12:42,430
+-那我可以繼續做實驗了  -可以  但是
+- I could keep doing the testing. - You could, but --
+
+345
+00:12:42,430 --> 00:12:44,350
+那就把它取出來呀
+Then take it out, man!
+
+346
+00:12:44,490 --> 00:12:46,010
+我們離成功已經近在咫尺了
+We're so close, right?
+
+347
+00:12:46,010 --> 00:12:48,450
+今天早上的結果跟上一次的相比
+This morning, I was miles beyond anything
+
+348
+00:12:48,460 --> 00:12:49,710
+-簡直是天壤之別  -太危險了
+- what I did last time -- - It's too dangerous.
+
+349
+00:12:49,710 --> 00:12:51,970
+我們得把你送進手術室  取出你的傳感器
+We're gonna take you out there, remove your sensors,
+
+350
+00:12:51,970 --> 00:12:52,780
+然后還要縫合你的
+and then we're gonna close
+
+351
+00:12:52,780 --> 00:12:54,170
+-開顱術  -要是我不簽同意書呢
+- your craniotomy -- - What if I don't consent?
+
+352
+00:12:55,100 --> 00:12:55,640
+什么
+What?
+
+353
+00:12:55,640 --> 00:12:58,450
+要是我說  除非你把我的腫瘤也取出來
+What if I say you can't take your sensors back
+
+354
+00:12:58,450 --> 00:13:00,030
+不然就別想拿回你的傳感器呢
+unless you take my tumor, too?
+
+355
+00:13:00,030 --> 00:13:02,070
+米基  我必須把傳感器取出來
+Mickey, I need to take them out.
+
+356
+00:13:02,620 --> 00:13:03,940
+對不起  哥們
+Sorry, bud.
+
+357
+00:13:03,980 --> 00:13:05,560
+拒絕訪問
+Access denied.
+
+358
+00:13:05,710 --> 00:13:06,580
+除非把我的腫瘤摘除
+You're not going in my head
+
+359
+00:13:06,580 --> 00:13:08,400
+不然你就別想碰我的腦子
+unless you're leaving with that tumor.
+
+360
+00:13:13,370 --> 00:13:15,410
+能用上電熱封口器真是好呀
+Lucky you use electro-thermal sealers.
+
+361
+00:13:15,410 --> 00:13:17,800
+我們做子宮內部手術時就用不了  太大了
+They're too big to get in there when we do these in-utero.
+
+362
+00:13:17,810 --> 00:13:18,680
+忍耐我一下  艾瑪
+Bear with me, Emma.
+
+363
+00:13:18,680 --> 00:13:19,870
+阿歷克斯  我需要你的建議
+Alex, I need your advice.
+
+364
+00:13:19,870 --> 00:13:21,730
+如果你跟某人有了一夜情
+What's your strategy when you have a one-night-stand --
+
+365
+00:13:21,730 --> 00:13:24,450
+都算不上是一夜情  就只是親熱了一下
+not even -- you just make out with someone,
+
+366
+00:13:24,450 --> 00:13:26,260
+然后那個人就黏上來了  你怎么辦
+and then they get way too attached?
+
+367
+00:13:26,260 --> 00:13:27,490
+你知道誰是這樣的人嗎
+You know who's like that?
+
+368
+00:13:27,730 --> 00:13:28,950
+莉亞·墨菲
+Leah Murphy.
+
+369
+00:13:29,660 --> 00:13:30,300
+真的嗎
+Really?
+
+370
+00:13:30,300 --> 00:13:32,350
+是啊  我跟她也就上了一次要不就兩次床
+Yeah, I slept with her one, maybe two times.
+
+371
+00:13:32,350 --> 00:13:33,660
+然后她就跟超能膠一樣粘著我
+She stuck to me like glue.
+
+372
+00:13:33,660 --> 00:13:35,850
+那小妞從不認識你到跟你說"我愛你"
+That girl goes from zero to "I love you"
+
+373
+00:13:35,860 --> 00:13:37,190
+只需要七秒
+in seven seconds.
+
+374
+00:13:37,200 --> 00:13:39,210
+我從來從來都沒有過這種感覺
+I've never, ever felt this way.
+
+375
+00:13:39,280 --> 00:13:40,720
+如果我告訴你們這個人是誰的話
+And if I tell you guys who it is,
+
+376
+00:13:40,720 --> 00:13:42,450
+會給我  也會給這個人
+it would cause so many problems for me
+
+377
+00:13:42,450 --> 00:13:45,030
+帶來太多問題  而且
+and for this person, and...
+
+378
+00:13:45,230 --> 00:13:47,270
+說不準還會影響整間醫院
+god, for the hospital, probably.
+
+379
+00:13:47,350 --> 00:13:48,480
+所以拜托你們別問
+So please don't ask.
+
+380
+00:13:48,480 --> 00:13:49,780
+會不會是跟心臟相關呢
+Could it be heart-related?
+
+381
+00:13:49,790 --> 00:13:51,640
+-他有心室衰竭  -什么
+- He had ventricular failure. - What?
+
+382
+00:13:51,640 --> 00:13:52,990
+韋伯的肩膀疼
+Webber's shoulder hurts.
+
+383
+00:13:52,990 --> 00:13:54,480
+你跟阿歷克斯聊過嗎
+Hey, did you talk to Alex?
+
+384
+00:13:54,490 --> 00:13:56,570
+我試過  但是他只是不停地躲我
+Yeah, I tried. He just keeps running away.
+
+385
+00:13:56,570 --> 00:13:58,930
+他這是要甩了你  他當初對我就是這樣的
+He's dumping you. It's what he did with me.
+
+386
+00:13:58,930 --> 00:14:01,130
+他會假裝你不存在  直到你真的就不存在了
+He'll pretend you're not there until you're not there.
+
+387
+00:14:01,130 --> 00:14:02,030
+等你不在了
+And when you're not there,
+
+388
+00:14:02,040 --> 00:14:03,500
+他就會跟其他人上床
+he'll have sex with someone else.
+
+389
+00:14:03,500 --> 00:14:04,460
+你干嗎粘我的杯子
+Why are you gluing my mug?
+
+390
+00:14:04,460 --> 00:14:06,370
+這不是你的杯子  這是謝博德的
+It's not yours. It's Shepherd's.
+
+391
+00:14:06,380 --> 00:14:08,040
+這個馬克杯該我負責
+The mug was my responsibility.
+
+392
+00:14:08,040 --> 00:14:09,800
+-你怎么打破了  -她被一顆腫瘤嚇到
+- How'd you break it? - She got scared by a tumor.
+
+393
+00:14:09,800 --> 00:14:12,210
+是腦動靜脈畸形  而且是很可怕的一個
+It's an A.V.M., and it's a scary one.
+
+394
+00:14:12,770 --> 00:14:13,730
+完全無法手術
+Totally inoperable.
+
+395
+00:14:13,730 --> 00:14:15,230
+估計只能活幾個月了
+Guy probably has months to live,
+
+396
+00:14:15,230 --> 00:14:16,170
+他和他可憐的老婆
+and he and is his poor wife
+
+397
+00:14:16,170 --> 00:14:18,190
+想好好度過在一起剩下的時光
+are just trying to make the most of their time together.
+
+398
+00:14:27,640 --> 00:14:28,770
+膠水怎么樣
+What about glue?
+
+399
+00:14:29,670 --> 00:14:30,330
+什么膠水  
+What about glue?
+
+400
+00:14:30,330 --> 00:14:31,850
+不好意思  用在腦動靜脈畸形上
+I'm sorry. For your A.V.M.--
+
+401
+00:14:31,850 --> 00:14:33,160
+你的腦動靜脈畸形
+this A.V.M.
+
+402
+00:14:33,160 --> 00:14:35,310
+你看  謝博德醫生一直在說用在神經
+Look, Dr. Shepherd was talking about the embolization glue
+
+403
+00:14:35,310 --> 00:14:37,700
+腦動靜脈畸形上的栓塞膠  然后我就想
+they use in neuro A.V.M.s, and I wondered--
+
+404
+00:14:37,710 --> 00:14:39,540
+這種方法有沒有用在心臟上
+has this approach ever been used in the heart?
+
+405
+00:14:40,220 --> 00:14:42,950
+我沒聽說過  所以不行
+Not that I'm aware of. So... no.
+
+406
+00:14:44,430 --> 00:14:45,880
+在神經腦動靜脈畸形上用栓塞膠
+They glue neuro A.V.M.s
+
+407
+00:14:45,880 --> 00:14:46,950
+因為腦血管很細微
+because they’re microscopic.
+
+408
+00:14:46,950 --> 00:14:49,350
+這些血管太大了
+These vessels are huge.
+
+409
+00:14:49,690 --> 00:14:51,750
+-你是說膠沒用嗎  -我是說
+- You saying it won't work? - I'm saying...
+
+410
+00:14:52,660 --> 00:14:54,370
+我需要很多膠
+I'd need a crapload of glue.
+
+411
+00:14:54,370 --> 00:14:55,910
+膠不起作用
+I'm saying the glue won't work,
+
+412
+00:14:55,910 --> 00:14:57,480
+化療也不起作用
+the radiation won't work,
+
+413
+00:14:57,480 --> 00:14:58,850
+我不想進行手術
+and I don't want to go in surgically.
+
+414
+00:14:58,850 --> 00:14:59,810
+風險太大  會致命
+I risk killing him.
+
+415
+00:14:59,810 --> 00:15:02,330
+所以他用腦子里的傳感器來威脅你嗎
+So he's holding your sensors hostage in his skull?
+
+416
+00:15:02,330 --> 00:15:04,630
+這不好笑  凱麗  你得和他談談
+This is not funny, Callie. You have to talk to him.
+
+417
+00:15:04,630 --> 00:15:06,950
+他是米基  給他一點時間
+It's Mickey. Just give him a few hours.
+
+418
+00:15:06,950 --> 00:15:07,980
+他自己能想明白的
+He'll come around.
+
+419
+00:15:11,390 --> 00:15:12,110
+你不想和他談
+You don't want to talk to him
+
+420
+00:15:12,110 --> 00:15:13,560
+因為你不想看著他
+because you don't want to look him in the eye
+
+421
+00:15:13,560 --> 00:15:15,510
+然后告訴他  你放棄了
+and tell him you're bailing on this.
+
+422
+00:15:16,240 --> 00:15:17,630
+顯然你也不想告訴他
+And you certainly don't want to tell him
+
+423
+00:15:17,630 --> 00:15:19,400
+你為什么放棄
+why you're bailing.
+
+424
+00:15:23,920 --> 00:15:24,910
+為什么
+Why is that?
+
+425
+00:15:24,910 --> 00:15:27,450
+你為亞利桑那開啟這個項目
+You started this project for Arizona.
+
+426
+00:15:27,450 --> 00:15:31,230
+你對她沒有興趣后  對這個項目也沒興趣
+When you lost interest in her, you lost interest in this.
+
+427
+00:15:31,230 --> 00:15:32,670
+你讓你的私人問題
+You're letting your personal problems
+
+428
+00:15:32,670 --> 00:15:34,140
+阻礙了幾個月的研究
+get in the way of months of research.
+
+429
+00:15:34,140 --> 00:15:35,340
+你不是也在做一樣的事情嗎
+Well, you're doing the same thing.
+
+430
+00:15:35,690 --> 00:15:37,130
+你說過你要放棄這個研究
+You said you were done with the study
+
+431
+00:15:37,130 --> 00:15:38,300
+多花時間陪孩子
+to spend time with your kids.
+
+432
+00:15:38,300 --> 00:15:39,360
+這完全不同  
+That's completely different.
+
+433
+00:15:39,360 --> 00:15:40,960
+為什么不同呢  德里克
+Oh, why is it different, Derek?
+
+434
+00:15:40,960 --> 00:15:42,050
+因為你的家庭美滿  
+'Cause your family's perfect,
+
+435
+00:15:42,050 --> 00:15:43,030
+而我的卻支離破碎嗎
+and mine's a disaster?
+
+436
+00:15:43,030 --> 00:15:44,730
+因為你放棄這個項目去支持你老婆
+Because you're leaving the study to support your wife,
+
+437
+00:15:44,730 --> 00:15:45,970
+而我放棄是為了忘記我的老婆嗎
+and I'm doing it to forget mine?
+
+438
+00:15:45,970 --> 00:15:47,230
+我懂你經受了什么
+I know what you're going through.
+
+439
+00:15:47,230 --> 00:15:48,480
+你什么都不懂
+You don't know anything about it.
+
+440
+00:15:49,910 --> 00:15:53,620
+你們找到了解決的辦法
+You guys have figured it out how to make the pieces fit.
+
+441
+00:15:54,260 --> 00:15:56,000
+而我本以為我也做到了  但
+And I thought we did, too, but...
+
+442
+00:15:58,160 --> 00:16:00,860
+我只能靠自己撐過去  所以
+I'm figuring this out for myself now, so...
+
+443
+00:16:02,210 --> 00:16:03,690
+對我寬容點  好嗎
+Just bear with me, okay?
+
+444
+00:16:09,840 --> 00:16:11,820
+我會和米基談的
+I will talk to Mickey.
+
+445
+00:16:12,440 --> 00:16:15,090
+我將問你一系列的問題
+And I'm gonna ask you a series of questions.
+
+446
+00:16:15,710 --> 00:16:17,320
+你打網球嗎
+"Are you a tennis player?"
+
+447
+00:16:17,360 --> 00:16:18,720
+神啊
+Oh, good lord.
+
+448
+00:16:19,870 --> 00:16:21,940
+你經常用受傷的手臂
+"Do you frequently carry heavy loads,
+
+449
+00:16:21,940 --> 00:16:24,350
+搬重的物品嗎  比如日常用品
+groceries, etcetera, with your injured arm?"
+
+450
+00:16:24,350 --> 00:16:26,290
+我在這張床上躺了一個月了
+I've been in this bed a month.
+
+451
+00:16:26,370 --> 00:16:28,140
+我只是想詳盡一些
+I'm just trying to be thorough.
+
+452
+00:16:29,670 --> 00:16:32,720
+你最近進行了強烈的性交
+"Have you recently engaged in any strenuous sexual--"
+
+453
+00:16:32,720 --> 00:16:34,570
+這個我就跳過了
+I am skipping that one...
+
+454
+00:16:34,690 --> 00:16:36,400
+這個也跳過
+Uh, too, uh...
+
+455
+00:16:39,600 --> 00:16:43,370
+機器顯示的不是很正常
+Uh... I'm not getting a very good reading on,
+
+456
+00:16:43,370 --> 00:16:45,000
+先生  你
+Uh, sir, are you-- oh--oh...
+
+457
+00:16:45,540 --> 00:16:48,510
+不關網球的事  也不關我心臟的事
+It is not my tennis game, and it's not my heart.
+
+458
+00:16:48,590 --> 00:16:49,970
+看仔細點
+Look deeper.
+
+459
+00:16:49,970 --> 00:16:51,840
+滾出去  把那機器也帶走
+Now get out, and take that thing with you.
+
+460
+00:17:04,380 --> 00:17:06,790
+我擦  沒時間搞這個
+Oh, come on. I don't have time for this.
+
+461
+00:17:05,270 --> 00:17:06,400
+胸部創傷缺血再灌注損傷
+
+462
+00:17:07,890 --> 00:17:12,050
+胸部創傷缺血再灌注損傷
+"Ischemia reperfusion injury in thoracic trauma"?
+
+463
+00:17:12,210 --> 00:17:13,420
+門靜脈怎么了
+What happened to portal veins?
+
+464
+00:17:13,420 --> 00:17:15,240
+我知道局部缺血很無聊
+I know ischemia is boring,
+
+465
+00:17:15,240 --> 00:17:17,630
+但我媽的門靜脈研究過時了
+but my mother's portal vein research is outdated.
+
+466
+00:17:17,630 --> 00:17:19,540
+我們已經從干細胞里培植出來了
+I mean, we've already grafted them from stem cells.
+
+467
+00:17:19,540 --> 00:17:20,770
+而且我也不想一輩子
+And I don't want to spend my life
+
+468
+00:17:20,770 --> 00:17:22,450
+都拿來和我媽作比較
+being compared to my mother.
+
+469
+00:17:22,460 --> 00:17:24,020
+她是位聰明的女人
+She was a smart woman.
+
+470
+00:17:24,020 --> 00:17:26,180
+一輩子都沒拿來和她比可能更差
+It might be worse to never be compared to her.
+
+471
+00:17:26,210 --> 00:17:28,570
+我找不到進一步研究的方法了
+I can't find a way to take the research further.
+
+472
+00:17:28,570 --> 00:17:30,820
+這個文件也打不出來
+And I can't print this damn thing!
+
+473
+00:17:38,470 --> 00:17:39,660
+你還好嗎
+You all right?
+
+474
+00:17:41,160 --> 00:17:42,920
+我們用3D打印機
+We've bio-engineered blood vessels
+
+475
+00:17:42,920 --> 00:17:44,570
+做了血管
+from a 3-d printer.
+
+476
+00:17:45,310 --> 00:17:46,090
+對啊
+Yeah.
+
+477
+00:17:46,460 --> 00:17:50,990
+但我不認為有人做出過門靜脈
+But I don't think anyone has ever printed a portal vein.
+
+478
+00:17:51,070 --> 00:17:52,930
+從沒有人做過
+It's never been done before.
+
+479
+00:17:53,330 --> 00:17:55,630
+這個膠是為大腦設計的
+The glue is designed for use in your brain,
+
+480
+00:17:56,270 --> 00:17:58,930
+但我想在你的心臟上試一試
+but I would like to try it in your heart.
+
+481
+00:17:58,930 --> 00:18:00,270
+這是一個大膽的方法
+It--it's a bold approach.
+
+482
+00:18:00,270 --> 00:18:01,870
+等等  你是說
+Wai--are you-- are you saying that--
+
+483
+00:18:01,870 --> 00:18:04,520
+我有信心可以治好你
+I am optimistic that it could save your life.
+
+484
+00:18:06,280 --> 00:18:07,370
+完了
+That's awful.
+
+485
+00:18:08,590 --> 00:18:09,640
+什么
+I'm sorry?
+
+486
+00:18:12,010 --> 00:18:14,560
+在得知本的診斷結果后  你知道的
+After got Ben's diagnosis, well, I mean, you--you know,
+
+487
+00:18:14,560 --> 00:18:15,880
+我們賣了所有東西
+we--we--we sold everything.
+
+488
+00:18:15,880 --> 00:18:17,590
+花光了所有積蓄
+We--we cashed out all our accounts.
+
+489
+00:18:17,590 --> 00:18:20,610
+我們刷爆了一張又一張信用卡
+We maxed out our credit cards and more credit cards.
+
+490
+00:18:20,610 --> 00:18:21,960
+我們去了歐洲  去了印度
+We went to Europe. We went to India.
+
+491
+00:18:21,960 --> 00:18:24,170
+還去了摩洛哥
+We went to Morocco.
+
+492
+00:18:24,190 --> 00:18:25,450
+我們租了一整座島
+We rented a whole island.
+
+493
+00:18:25,450 --> 00:18:27,920
+我們坐飛機去體驗失重
+We--we went up in that plane where you get to be weightless.
+
+494
+00:18:27,920 --> 00:18:29,270
+一人五千美元
+That's 5 grand a pop.
+
+495
+00:18:29,270 --> 00:18:31,420
+我們去了十一次  然后買了一艘船
+We went up 11 times-- and then bought a boat.
+
+496
+00:18:31,430 --> 00:18:32,850
+再然后我們把它點了  
+And then we blew it up,
+
+497
+00:18:32,850 --> 00:18:34,270
+因為我們想看燒船的情景
+'cause we wanted to watch it burn.
+
+498
+00:18:34,270 --> 00:18:38,680
+我們欠了一屁股的債
+We owe creditors hundreds of thousands of dollars.
+
+499
+00:18:38,680 --> 00:18:41,250
+-你們打算怎么還這些錢  -人生保險
+- How were you planning to pay for-- - Life insurance.
+
+500
+00:18:41,250 --> 00:18:43,310
+-本計劃的天衣無縫  -我以為是的
+- Ben's a very good planner. - I thought I was.
+
+501
+00:18:43,310 --> 00:18:45,270
+但沒想到會活下去
+I didn't plan for surviving.
+
+502
+00:18:46,000 --> 00:18:48,190
+但不管怎樣  親愛的
+But still, hon...
+
+503
+00:18:48,850 --> 00:18:52,670
+我們還是得試一試  對嗎
+We... we gotta try it, right?
+
+504
+00:18:54,060 --> 00:18:54,820
+等等
+Wait.
+
+505
+00:18:56,380 --> 00:18:57,960
+風險有多大
+What are the risks?
+
+506
+00:18:59,370 --> 00:19:00,220
+如我所說
+Well, as I said,
+
+507
+00:19:00,220 --> 00:19:02,610
+從沒在心臟上做過這個手術
+this has never been done before on a beating heart.
+
+508
+00:19:02,610 --> 00:19:03,840
+我可能會死嗎
+Could I die?
+
+509
+00:19:05,600 --> 00:19:07,380
+我可能死在手術臺上嗎
+Could I die on the table?
+
+510
+00:19:10,230 --> 00:19:11,410
+有可能
+It's possible.
+
+511
+00:19:12,510 --> 00:19:13,710
+那還有希望
+Then there's hope.
+
+512
+00:19:22,140 --> 00:19:23,680
+在手術室給我準備一個C型臂
+I want a c-arm set up in the O.R.
+
+513
+00:19:23,680 --> 00:19:25,980
+-我可能會做胸骨切開術  -真的嗎
+- I may have to do a crash sternotomy. - Really?
+
+514
+00:19:26,300 --> 00:19:27,310
+但我不知道會發生什么
+Well, I don't know what's gonna happen.
+
+515
+00:19:27,310 --> 00:19:28,640
+以前又沒做過
+This has never been done before.
+
+516
+00:19:28,640 --> 00:19:30,120
+你覺得我們需要多少動靜脈畸形膠
+How much A.V.M. glue do you think we'll need?
+
+517
+00:19:30,120 --> 00:19:31,260
+剛說了  從沒做過這種
+Again, never been done before.
+
+518
+00:19:31,260 --> 00:19:32,590
+隨時都可能出問題
+Err's on the side of all of it.
+
+519
+00:19:32,960 --> 00:19:34,320
+-在哪  -什么東西在哪
+- Where is it? - Where is what?
+
+520
+00:19:34,320 --> 00:19:35,930
+-我媽的日記  -我怎么會知道
+- My mother's journal. - Why would I know?
+
+521
+00:19:35,930 --> 00:19:36,770
+那本黑色的書
+The black book--
+
+522
+00:19:36,770 --> 00:19:38,070
+我今天給你的那個黑色的小本
+The little black book I gave you today--
+
+523
+00:19:38,070 --> 00:19:39,010
+你得還給我  肖恩
+I need it back, Shane.
+
+524
+00:19:39,010 --> 00:19:39,950
+好像給愛德華茲了
+I think I left it with Edwards.
+
+525
+00:19:39,950 --> 00:19:41,180
+-愛德華茲  -干嗎
+- Edwards! - What?
+
+526
+00:19:41,380 --> 00:19:43,360
+急診需要這張床  能幫我推一下嗎
+E.R. needs this bed. Can you help me?
+
+527
+00:19:43,600 --> 00:19:45,800
+博斯克先生是怎么了
+Hey, and what is going on with Mr. Bosco?
+
+528
+00:19:45,870 --> 00:19:47,870
+腳扭了為什么要被挪去
+Why has a broken ankle been moved to pre-op
+
+529
+00:19:47,870 --> 00:19:49,870
+-做心臟手術的術前準備  -什么
+- for a cardiac procedure? - What?
+
+530
+00:19:49,950 --> 00:19:52,550
+你不能就這樣改變療程  還沒有
+You can't change the course of treatment like that without...
+
+531
+00:19:52,690 --> 00:19:54,650
+不是我  心臟科診治宣稱無法手術
+I didn't. The cardio consult declared it inoperable.
+
+532
+00:19:54,650 --> 00:19:56,920
+那他怎么還做術前準備  誰
+So then why is he in pre-op? Who--
+
+533
+00:19:56,920 --> 00:19:58,880
+-誰做的會診  -是楊醫生
+- Who did the consult? - Dr. Yang!
+
+534
+00:19:58,880 --> 00:20:00,590
+-怎么了  -抱歉  我們剛才在這里
+- What? - Sorry. We were in here before,
+
+535
+00:20:00,590 --> 00:20:03,000
+我好像把手機落在這了
+and I think I left my... phone.
+
+536
+00:20:03,900 --> 00:20:05,250
+這是準備做什么手術
+Well, what do we have here?
+
+537
+00:20:05,600 --> 00:20:06,960
+心室動靜脈畸形啊
+Oh, a ventricular A.V.M.
+
+538
+00:20:06,960 --> 00:20:09,700
+我要用膠做液體栓塞
+I'm doing liquid embolization with glue.
+
+539
+00:20:10,350 --> 00:20:12,430
+等等  是用來治腦動脈瘤的膠嗎
+Wait, glue for brain aneurysms?
+
+540
+00:20:12,670 --> 00:20:14,440
+這種手術有人做過么
+Has that been tried on a heart before?
+
+541
+00:20:15,460 --> 00:20:17,630
+謝謝  事實上
+Thank you. As a matter of fact,
+
+542
+00:20:17,630 --> 00:20:18,540
+還真沒有
+no.
+
+543
+00:20:19,260 --> 00:20:20,530
+確定能治好么
+Are you sure it'll work?
+
+544
+00:20:21,600 --> 00:20:22,860
+也不確定
+That is also a no.
+
+545
+00:20:23,840 --> 00:20:26,130
+你真是太勇氣可嘉了哦
+I-I am impressed with your enormous balls.
+
+546
+00:20:26,130 --> 00:20:28,350
+我還真想在這觀看
+I wish I could stick around and watch this.
+
+547
+00:20:29,650 --> 00:20:31,610
+我是克里斯蒂娜
+I'm Cristina... by the way.
+
+548
+00:20:32,480 --> 00:20:34,740
+克里斯蒂娜·楊  知道了吧
+Cristina Yang. Just so you know.
+
+549
+00:20:34,740 --> 00:20:37,930
+我知道  我們見過幾次面
+Yeah, I know. We've met a couple of times, actually.
+
+550
+00:20:37,930 --> 00:20:38,870
+我是艾瑪·瑪琳
+Emma Marling.
+
+551
+00:20:38,870 --> 00:20:41,970
+我知道  我意思是  我是歐文的
+I know. I'm--I'm saying I'm Owen's, um...
+
+552
+00:20:44,880 --> 00:20:46,520
+前妻
+Ex-wife.
+
+553
+00:20:48,250 --> 00:20:49,170
+對
+Yes.
+
+554
+00:20:50,050 --> 00:20:50,960
+沒錯
+Right.
+
+555
+00:20:52,590 --> 00:20:53,720
+這真是太棒了
+Well, this looks amazing.
+
+556
+00:20:53,720 --> 00:20:56,530
+我迫不及待想知道結果了
+And I can't wait to hear how it went.
+
+557
+00:20:58,440 --> 00:20:59,230
+晚安
+Good night.
+
+558
+00:21:00,510 --> 00:21:01,730
+你都不和我道別么
+You weren't gonna say good night?
+
+559
+00:21:01,740 --> 00:21:04,540
+這個啊  我下班了  一會兒見
+Oh, hey. I'm off. I'll-- I'll see you later.
+
+560
+00:21:04,540 --> 00:21:05,200
+會見嗎
+Will you?
+
+561
+00:21:07,590 --> 00:21:09,460
+可能不會  我大概會很晚回去
+Probably not. I'll probably be late.
+
+562
+00:21:09,460 --> 00:21:10,970
+你在跟別人約會嗎
+Are you seeing someone else?
+
+563
+00:21:11,250 --> 00:21:11,950
+是不是這樣
+Is that what's happening?
+
+564
+00:21:11,960 --> 00:21:13,090
+我就是想知道
+'Cause I just need to know.
+
+565
+00:21:13,090 --> 00:21:14,990
+-不是這樣  -那是怎么回事
+- Oh, it's not that. - Then what is it?
+
+566
+00:21:16,560 --> 00:21:17,750
+跟你沒關系
+It's none of your business.
+
+567
+00:21:18,660 --> 00:21:20,460
+這是我和謝博德之間的事
+It is between me and Shepherd,
+
+568
+00:21:20,460 --> 00:21:22,030
+他該知道的我都說了
+and I told him everything he needs to know.
+
+569
+00:21:22,040 --> 00:21:22,750
+米基
+Mickey...
+
+570
+00:21:23,610 --> 00:21:25,820
+米基  看著我
+Mickey, look at me.
+
+571
+00:21:26,380 --> 00:21:28,560
+如果我看你  外星人就會贏的
+If I do, the aliens will win.
+
+572
+00:21:34,190 --> 00:21:35,770
+這手術會讓你喪命
+This operation could kill you.
+
+573
+00:21:42,210 --> 00:21:44,640
+我沒跟你說過我是怎么變成廢物的吧
+I never told you how I became a quad, did I?
+
+574
+00:21:46,210 --> 00:21:47,950
+你發生了車禍
+You were in a car accident.
+
+575
+00:21:51,970 --> 00:21:54,300
+是我制造了一場車禍
+I caused a car accident...
+
+576
+00:21:56,100 --> 00:21:57,770
+因為我喝醉了  我喝多了
+Because I was drunk. I got drunk,
+
+577
+00:21:57,770 --> 00:21:59,850
+還開車  我撞上了另一輛車
+and I drove, and I hit another car,
+
+578
+00:22:01,060 --> 00:22:03,060
+撞死了兩個十幾歲的女孩
+and I killed two teenage girls--
+
+579
+00:22:04,060 --> 00:22:05,490
+琳賽和謝麗爾
+Lindsay and Cheryl.
+
+580
+00:22:08,350 --> 00:22:10,270
+我只能這么待著  廢物一個
+So there I am, a pile of garbage.
+
+581
+00:22:10,280 --> 00:22:12,220
+既不能動又不能離開  什么都干不了
+Can't move, can't walk, can't do anything
+
+582
+00:22:12,220 --> 00:22:14,550
+只能回想我對那些家庭
+except think about what I did...
+
+583
+00:22:15,630 --> 00:22:16,760
+犯的錯
+to those families.
+
+584
+00:22:20,220 --> 00:22:23,100
+而現在竟然還有人照顧我
+I've got people tending to me.
+
+585
+00:22:23,660 --> 00:22:25,230
+有人喂我吃飯
+People feed me,
+
+586
+00:22:25,610 --> 00:22:27,750
+給我刮胡須  給我洗澡
+and shave me and clean me,
+
+587
+00:22:28,100 --> 00:22:29,150
+我不值得他們為我花時間
+and I don't deserve their time.
+
+588
+00:22:29,150 --> 00:22:33,040
+我就該死在那輛車里
+I deserve... to have died in that car.
+
+589
+00:22:35,020 --> 00:22:36,480
+我每天都這么想
+And I wish I did every day...
+
+590
+00:22:37,110 --> 00:22:38,280
+已經九年了
+for nine years.
+
+591
+00:22:39,870 --> 00:22:41,460
+當你讓我
+And when you asked me...
+
+592
+00:22:42,250 --> 00:22:43,320
+加入這個項目時
+to do this...
+
+593
+00:22:46,520 --> 00:22:48,420
+當我有機會
+When I had a chance to do something
+
+594
+00:22:50,280 --> 00:22:52,460
+做些對別人有利的事情時
+affecting someone in a good way...
+
+595
+00:22:55,790 --> 00:22:57,020
+第一次
+For the first time,
+
+596
+00:22:57,710 --> 00:22:59,800
+我覺得自己有了價值
+I thought I was worth having around.
+
+597
+00:23:02,630 --> 00:23:03,820
+如果我死了
+If I die,
+
+598
+00:23:04,660 --> 00:23:07,950
+把我的大腦捐去研究  我還能有用
+give my brain to science, and I still help.
+
+599
+00:23:11,810 --> 00:23:12,920
+讓我幫助你們
+Let me help.
+
+600
+00:23:15,740 --> 00:23:16,650
+求你了
+Please.
+
+601
+00:23:18,870 --> 00:23:20,080
+需要什么嗎
+And how can I help you?
+
+602
+00:23:21,340 --> 00:23:23,020
+是你啊  和昨晚一樣的嗎
+Oh, hey. Same as last night?
+
+603
+00:23:23,020 --> 00:23:24,420
+是的  謝謝
+Yeah, thanks.
+
+604
+00:23:31,700 --> 00:23:33,510
+你是真的喜歡這些人吧
+You must really like these guys, huh?
+
+605
+00:23:53,110 --> 00:23:54,740
+我還是覺得這主意不咋地
+I still think it's a bad idea.
+
+606
+00:23:54,780 --> 00:23:56,660
+我知道  但這是對的
+I-I know, but it's the right idea.
+
+607
+00:23:56,670 --> 00:23:58,930
+米基沒什么損失  反而會有所獲
+Mickey has nothing to lose and a lot to gain.
+
+608
+00:24:01,790 --> 00:24:03,430
+好吧  把他排在明早
+Okay, I'll schedule him for tomorrow morning.
+
+609
+00:24:03,430 --> 00:24:05,340
+不  等等  我明早不能做
+Oh, no, wait. I can't do tomorrow morning.
+
+610
+00:24:06,180 --> 00:24:07,640
+貝利要做產后優生測試
+Bailey has a well-baby exam,
+
+611
+00:24:07,650 --> 00:24:09,860
+我要連做兩個脊椎間板脫位癥手術
+I've got back-to-back discotomies,
+
+612
+00:24:09,860 --> 00:24:12,130
+還有  我得帶佐拉去報舞蹈課
+and Zola and I were gonna check out a dance class.
+
+613
+00:24:12,130 --> 00:24:13,550
+只能今晚做了
+It's gonna have to be tonight.
+
+614
+00:24:13,940 --> 00:24:16,050
+佐拉  你和弟弟要回日托所
+Zola, you and your brother are gonna have to go back to day care
+
+615
+00:24:16,050 --> 00:24:17,100
+再待一會兒了  好嗎  親愛的
+for a little while longer, okay, sweetie?
+
+616
+00:24:17,100 --> 00:24:19,110
+不用你去了  我來送
+No, no, no. I'll take 'em back up. I got it.
+
+617
+00:24:19,310 --> 00:24:21,200
+這邊  來吧  寶貝
+Here. Come on. This way, babes.
+
+618
+00:24:21,570 --> 00:24:22,690
+呼羅斯醫生
+Page Dr. Ross.
+
+619
+00:24:23,240 --> 00:24:24,030
+好的
+Okay.
+
+620
+00:24:28,750 --> 00:24:29,630
+再加點膠
+More glue.
+
+621
+00:24:30,440 --> 00:24:31,910
+我們的膠快用完了
+We're getting to the end of our supply.
+
+622
+00:24:31,910 --> 00:24:32,910
+那就再去拿點
+Then go get more.
+
+623
+00:24:32,910 --> 00:24:34,730
+我需要補上這整塊
+I think I need to fill this whole thing.
+
+624
+00:24:36,640 --> 00:24:39,660
+導管卡在靜脈里了
+Okay... the catheter is stuck to the vein.
+
+625
+00:24:39,660 --> 00:24:41,230
+天吶  這玩意真緊
+God, this stuff is intense.
+
+626
+00:24:41,230 --> 00:24:42,680
+這么使勁拽好嗎
+Should you be tugging that hard?
+
+627
+00:24:43,570 --> 00:24:45,090
+你想讓我把它留在里面嗎
+Well, you want me to leave it in there?
+
+628
+00:24:47,450 --> 00:24:49,600
+好了  搞定了
+Okay. Okay, we're good.
+
+629
+00:24:50,280 --> 00:24:51,460
+你是怎么想到的
+How did you come up with this?
+
+630
+00:24:52,270 --> 00:24:54,420
+不知道  就是簡單的聯想
+I don't know. I just... connected the dots.
+
+631
+00:24:54,420 --> 00:24:56,730
+你真是驚奇無限啊  小鯊魚
+You are full of surprises, sharky.
+
+632
+00:24:57,410 --> 00:24:59,840
+奇思妙想  又斗勁十足
+Innovative instincts and killer instincts--
+
+633
+00:25:00,670 --> 00:25:02,540
+還有什么絕活
+What other secrets are hiding in there?
+
+634
+00:25:03,400 --> 00:25:04,750
+你覺得還有什么
+What do you think you'll find?
+
+635
+00:25:04,750 --> 00:25:07,970
+如果不是關節炎  滑囊炎或肌腱套炎
+Well, if it's not arthritis or bursitis or rotator cuff,
+
+636
+00:25:07,970 --> 00:25:09,610
+而且你心臟也沒事  那就不該痛
+and your heart's fine, then it can't hurt.
+
+637
+00:25:09,610 --> 00:25:11,820
+除非是牽涉痛導致的神經反跳
+Unless it's referred pain, which could be nerve impingement
+
+638
+00:25:11,830 --> 00:25:13,740
+或是橫隔膜受刺激  這樣的話
+or diaphragmatic irritation, so...
+
+639
+00:25:18,150 --> 00:25:19,340
+你根本就不用照X光
+You don't need an x-ray.
+
+640
+00:25:19,360 --> 00:25:20,170
+棒極了
+Bravo.
+
+641
+00:25:23,020 --> 00:25:24,210
+你需要做超聲檢查
+You need an ultrasound.
+
+642
+00:25:27,110 --> 00:25:28,900
+希望你不是認為我懷孕了
+Well, I hope you're not thinking I'm pregnant!
+
+643
+00:25:29,440 --> 00:25:31,390
+叫愛德華茲醫生到這  馬上
+Page Dr. Edwards here stat. Right away.
+
+644
+00:25:31,390 --> 00:25:32,590
+我需要做超聲檢查
+I need an ultrasound.
+
+645
+00:25:33,190 --> 00:25:34,510
+你懷孕了  阿歷克斯知道嗎
+Are you pregnant? Does Alex know?
+
+646
+00:25:34,510 --> 00:25:36,440
+不是  我只是需要一臺超聲儀
+No, I-I need an ultrasound machine.
+
+647
+00:25:36,440 --> 00:25:37,410
+你見到愛德華茲嗎
+Have you seen Edwards?
+
+648
+00:25:37,410 --> 00:25:38,870
+阿歷克斯以為我懷孕了么
+Does Alex think I'm pregnant?
+
+649
+00:25:41,720 --> 00:25:43,290
+我有個和這一樣的馬克杯
+I have a mug like that.
+
+650
+00:25:46,120 --> 00:25:47,410
+你去哪了
+Where the hell have you been?
+
+651
+00:25:48,850 --> 00:25:49,670
+我以為你走了
+Uh, I thought you were leaving,
+
+652
+00:25:49,670 --> 00:25:50,790
+而且我和楊醫生發現了一個
+and Dr. Yang and I found
+
+653
+00:25:50,790 --> 00:25:52,000
+左腦室動靜脈畸形的病人
+a left ventricle A.V.M.
+
+654
+00:25:52,000 --> 00:25:53,730
+那你現在在這了  進來手術吧
+Yeah, well, you're here now. Scrub in.
+
+655
+00:25:53,730 --> 00:25:54,780
+我拒絕
+I'd rather not.
+
+656
+00:25:56,450 --> 00:25:58,060
+肖恩  你得忘掉它
+Shane, you gotta get past this.
+
+657
+00:25:58,180 --> 00:25:59,650
+讓你參與手術可不是為了安慰你
+You're not a consolation prize.
+
+658
+00:25:59,650 --> 00:26:00,890
+而是你有真材實料
+You deserve to be here.
+
+659
+00:26:01,070 --> 00:26:03,890
+布魯克斯的天賦...
+Brooks had a gift that needed to be...
+
+660
+00:26:03,890 --> 00:26:05,550
+我不想和你共事
+I don't wanna work with you.
+
+661
+00:26:06,340 --> 00:26:07,580
+我對這科沒興趣
+I'm not interested.
+
+662
+00:26:08,020 --> 00:26:09,200
+我說得夠清楚了吧
+Can I be more clear?
+
+663
+00:26:10,820 --> 00:26:11,990
+挺清楚了
+I suppose not.
+
+664
+00:26:14,410 --> 00:26:15,180
+你走吧
+Go.
+
+665
+00:26:21,000 --> 00:26:22,780
+時間才能見證療效
+To a certain extent, time will tell.
+
+666
+00:26:22,780 --> 00:26:26,820
+現在我們確定的是你的心臟沒有受到損害
+What we know for sure is we've done no damage to your heart,
+
+667
+00:26:26,820 --> 00:26:28,510
+而且在這種初期階段
+and at this preliminary stage,
+
+668
+00:26:28,510 --> 00:26:32,390
+腦動靜脈畸形不會繼續發展
+it appears the A.V.M. won't continue to grow.
+
+669
+00:26:32,640 --> 00:26:34,830
+那就是說
+So you're saying...
+
+670
+00:26:36,100 --> 00:26:37,060
+我會活下去
+I'll live?
+
+671
+00:26:37,060 --> 00:26:38,180
+是的
+Yes.
+
+672
+00:26:38,750 --> 00:26:39,700
+我的天吶
+Dear god.
+
+673
+00:26:42,840 --> 00:26:44,760
+-本  親愛的  -我懂
+- Ben? Honey? - I know.
+
+674
+00:26:44,760 --> 00:26:45,810
+不會有事的
+We'll be all right.
+
+675
+00:26:45,810 --> 00:26:48,960
+我知道花了太多錢  這一年太瘋狂了
+I know it's a lot of money. It's been a crazy year,
+
+676
+00:26:48,960 --> 00:26:52,150
+但我的世界不能沒有你
+but the world is a lot more fun with you in it.
+
+677
+00:26:52,150 --> 00:26:55,410
+只要我們倆在一起  一切都會沒事的
+As long as we have each other, everything will be fine.
+
+678
+00:26:55,930 --> 00:26:57,490
+-喬伊斯  我們玩完了  -是的
+- Joyce, we're screwed. - I know.
+
+679
+00:26:57,490 --> 00:26:59,070
+我們不只是破產  我們還是罪犯
+We're not just bankrupt. We're criminals.
+
+680
+00:26:59,070 --> 00:27:00,770
+我們很可能會坐牢
+I think we might go to jail.
+
+681
+00:27:00,770 --> 00:27:02,220
+我們簡直親手埋葬了自己
+Oh, we're so incredibly screwed.
+
+682
+00:27:02,220 --> 00:27:04,290
+就像廉價妓女作踐自己一樣
+Like a $2 whore.
+
+683
+00:27:06,900 --> 00:27:08,920
+楊  那是我的踝關節骨折病人
+Yang, that's my broken ankle.
+
+684
+00:27:08,920 --> 00:27:09,660
+下次在偷我的病人之前
+How about a little heads-up
+
+685
+00:27:09,660 --> 00:27:11,560
+知會我一聲好么
+next time you wanna steal one of my patients?
+
+686
+00:27:14,930 --> 00:27:16,290
+他們怎么了
+What happened to them?
+
+687
+00:27:18,120 --> 00:27:19,470
+我救了他
+I saved his life.
+
+688
+00:27:23,050 --> 00:27:24,610
+我知道你救了他
+So I get that you saved him,
+
+689
+00:27:24,610 --> 00:27:27,490
+但他是我的病人  你得提前跟我說
+but he was my patient, and you should've told me before you...
+
+690
+00:27:27,490 --> 00:27:29,680
+我想出了治療方案  而你沒有  
+I came up with the fix. You didn't.
+
+691
+00:27:30,760 --> 00:27:32,930
+如果你還因那晚的事而生氣
+If you're still pissed about what happened the other night.
+
+692
+00:27:34,120 --> 00:27:35,310
+我   我在和杰克森交往
+I... I'm with Jackson.
+
+693
+00:27:35,310 --> 00:27:38,210
+上次那事的確不該發生  也不會有下次
+It was inappropriate, and it's not gonna happen again.
+
+694
+00:27:38,210 --> 00:27:39,160
+你在說什么
+What are you talking about?
+
+695
+00:27:39,160 --> 00:27:40,540
+你親了我  肖恩
+When you kissed me, Shane.
+
+696
+00:27:42,080 --> 00:27:42,860
+是那個啊
+Oh. That.
+
+697
+00:27:43,580 --> 00:27:46,110
+我們那時很激動  所以就發生了
+We were excited. It happened.
+
+698
+00:27:46,530 --> 00:27:48,020
+我很抱歉你想多了
+I'm sorry it meant more to you--
+
+699
+00:27:48,030 --> 00:27:50,810
+-沒想多  -那你還說
+- It didn't. - You're still talking about it.
+
+700
+00:27:52,330 --> 00:27:53,510
+你怎么回事啊
+What's happened to you?
+
+701
+00:27:54,270 --> 00:27:55,560
+你倆在嘀咕啥
+What are you guys whispering about?
+
+702
+00:27:56,010 --> 00:27:57,940
+-沒事  -天吶  你們  好吧
+- Nothing. - God, you guys, fine.
+
+703
+00:27:57,940 --> 00:27:59,380
+是亞利桑那·羅賓斯
+It's Arizona Robbins.
+
+704
+00:27:59,380 --> 00:28:00,520
+但別到處說好嗎
+But please don't say anything, okay?
+
+705
+00:28:00,520 --> 00:28:02,400
+-因為她不想  -羅賓斯
+- Because she really doesn't need...  - Robbins?
+
+706
+00:28:02,420 --> 00:28:03,990
+就是說  你現在是拉拉了
+So... you're gay now?
+
+707
+00:28:04,290 --> 00:28:06,430
+肖恩  成熟點  這東西沒定性的
+Shane, grow up. It's a sliding scale.
+
+708
+00:28:06,430 --> 00:28:07,540
+我只是對她有點好感而已
+I slide over her way.
+
+709
+00:28:07,540 --> 00:28:09,110
+如果你見人就貼標簽
+If you really have to label everything,
+
+710
+00:28:09,310 --> 00:28:10,170
+那就給我貼"熱戀中"
+then label me "in love."
+
+711
+00:28:10,170 --> 00:28:10,970
+墨菲
+Murphy!
+
+712
+00:28:16,840 --> 00:28:19,050
+很抱歉  他們猜得七七八八了
+I'm sorry. They pretty much figured it out.
+
+713
+00:28:19,050 --> 00:28:22,880
+不  我才要道歉  因為我得跟你說實話了
+No. I'm sorry, because I'm about to be very frank.
+
+714
+00:28:23,210 --> 00:28:24,700
+那晚我做了非常糟糕的決定
+The other night was a bad call on my part.
+
+715
+00:28:24,700 --> 00:28:27,180
+我那時很孤獨  而且當時很愉悅
+I was lonely, and it was... lovely.
+
+716
+00:28:27,180 --> 00:28:28,720
+但僅僅只是那一晚
+But it was-- it was one night,
+
+717
+00:28:28,720 --> 00:28:30,040
+不會再有下一次
+and that's all that it will ever be,
+
+718
+00:28:30,040 --> 00:28:31,300
+所以如果這和你預期不一樣
+so if you had different expectations,
+
+719
+00:28:31,300 --> 00:28:32,470
+那就慢慢適應
+please adjust them.
+
+720
+00:28:33,510 --> 00:28:34,340
+當然
+Of course.
+
+721
+00:28:35,020 --> 00:28:36,990
+你不需要道歉  這是我的錯
+There's no need to apologize. It's my fault.
+
+722
+00:28:38,970 --> 00:28:40,480
+我從不和別人深交
+I don't open up to people much,
+
+723
+00:28:40,850 --> 00:28:42,300
+而只要和別人交往深入點
+and when I try to open up a little bit,
+
+724
+00:28:42,300 --> 00:28:45,000
+我就會得意忘形  以前就有過
+I can get carried away. It's happened before.
+
+725
+00:28:46,550 --> 00:28:47,660
+而你
+And you...
+
+726
+00:28:48,450 --> 00:28:51,590
+我一直很欣賞作為外科醫生的你
+I've just always admired you as... a surgeon,
+
+727
+00:28:51,590 --> 00:28:53,050
+還有你這個人
+and--and a person,
+
+728
+00:28:53,650 --> 00:28:55,270
+所以我以為你有那個意思
+and the thought that you thought about me...
+
+729
+00:28:58,440 --> 00:28:59,560
+我卻誤解了
+I misunderstood.
+
+730
+00:29:00,180 --> 00:29:01,570
+我想過頭了  很抱歉
+Um, I went overboard, and I'm sorry.
+
+731
+00:29:01,590 --> 00:29:02,680
+不會有下次
+It won't happen again.
+
+732
+00:29:05,260 --> 00:29:05,860
+莉亞
+Leah...
+
+733
+00:29:05,860 --> 00:29:07,050
+謝謝你的理解
+Thank you for understanding.
+
+734
+00:29:16,290 --> 00:29:17,350
+杜松子酒  加冰
+Gin, rocks.
+
+735
+00:29:18,240 --> 00:29:19,400
+你不會要我買單吧
+You gonna charge me again?
+
+736
+00:29:19,630 --> 00:29:21,380
+別的酒吧對樂隊都免費啦
+Most places comp the bands, you know?
+
+737
+00:29:22,360 --> 00:29:23,320
+這杯我請
+I got this one.
+
+738
+00:29:24,570 --> 00:29:25,500
+謝謝
+Appreciate that.
+
+739
+00:29:26,380 --> 00:29:27,320
+吉米·埃文斯
+Jimmy Evans.
+
+740
+00:29:28,120 --> 00:29:28,880
+你好
+Hey.
+
+741
+00:29:31,520 --> 00:29:32,350
+我認識你
+I know you.
+
+742
+00:29:35,270 --> 00:29:37,520
+我這幾天一直有來
+I've, uh, been here the last couple of nights.
+
+743
+00:29:37,760 --> 00:29:39,880
+不  我不是說這個
+No. Something else.
+
+744
+00:29:45,400 --> 00:29:46,530
+天吶
+Oh, my god.
+
+745
+00:29:48,510 --> 00:29:49,550
+你是醫院里的
+You're a doctor...
+
+746
+00:29:50,020 --> 00:29:51,090
+醫生
+at the hospital.
+
+747
+00:29:51,670 --> 00:29:52,580
+被你發現了
+Guilty.
+
+748
+00:29:53,480 --> 00:29:55,110
+你每晚都來這干嘛
+What brings you back here every night?
+
+749
+00:29:55,610 --> 00:29:58,550
+聽你彈奏  我喜歡你的歌
+Oh, uh, you. I mean, I like your set.
+
+750
+00:29:59,130 --> 00:30:00,860
+其實我是喜歡艾伯特·柯林斯的歌
+Uh, I like the Albert Collins stuff.
+
+751
+00:29:59,130 --> 00:30:00,860
+美國布魯斯吉他大師
+
+752
+00:30:01,170 --> 00:30:02,970
+耳力不錯嘛  你會彈嗎
+Ah. You got a good ear, then. You play?
+
+753
+00:30:03,800 --> 00:30:05,870
+小時候我爸教過我一點
+My dad taught me a little when I was a kid,
+
+754
+00:30:05,870 --> 00:30:07,670
+但他后來沒繼續教我了
+but, uh, he didn't stick with it.
+
+755
+00:30:08,100 --> 00:30:09,260
+那你應該堅持去自學
+Aw, you should have stuck with it.
+
+756
+00:30:09,260 --> 00:30:10,770
+彈吉他能給你帶來很多東西
+Look where it could've taken you.
+
+757
+00:30:10,980 --> 00:30:12,270
+雖說不能當醫生救死扶傷
+I mean, instead of saving people's lives,
+
+758
+00:30:12,280 --> 00:30:14,140
+但你可以來這給四個聽眾
+you could be playing 70-year-old songs
+
+759
+00:30:14,140 --> 00:30:16,660
+演奏首懷舊老歌
+to four people in a giant ashtray.
+
+760
+00:30:22,920 --> 00:30:24,140
+你是哪方面的醫生
+What kind of doctor are you?
+
+761
+00:30:25,420 --> 00:30:27,000
+小兒科醫生
+Pediatric surgeon.
+
+762
+00:30:27,690 --> 00:30:29,160
+嬰兒  小孩
+Babies, kids.
+
+763
+00:30:29,530 --> 00:30:31,230
+我這輩子見過兒科醫生一次
+I met a pediatric surgeon once.
+
+764
+00:30:31,680 --> 00:30:32,990
+我人生中最恐怖的一晚
+Scariest night of my life.
+
+765
+00:30:34,710 --> 00:30:36,350
+我兒子兩歲都不到
+My son's not even 2 years old.
+
+766
+00:30:36,760 --> 00:30:39,340
+我給他吃草莓  他噎著了
+I'm feeding him strawberries, and he starts choking.
+
+767
+00:30:39,760 --> 00:30:40,660
+臉色發紫
+Turned blue.
+
+768
+00:30:42,040 --> 00:30:44,570
+趕緊送他去醫院  醫生把他救活了
+We take him in, they get him breathing again.
+
+769
+00:30:45,090 --> 00:30:47,820
+兒科醫生給他插管
+Pediatric surgeon runs the tube down his throat,
+
+770
+00:30:47,820 --> 00:30:49,070
+把噎著他的東西取出
+and got the thing out.
+
+771
+00:30:49,590 --> 00:30:52,940
+救了我兒子  也救了我
+Saved my boy's life. Saved my life, too.
+
+772
+00:30:53,740 --> 00:30:55,250
+如果那晚我兒子死了
+If I'd lost my little boy that night,
+
+773
+00:30:55,250 --> 00:30:58,430
+我估計也活不下去了
+I never would've made it. I never would've survived.
+
+774
+00:31:01,500 --> 00:31:02,580
+幸好沒事啊
+I'm glad it worked out for you.
+
+775
+00:31:02,580 --> 00:31:06,970
+是啊  真心得感謝你們兒科醫生啊
+Yeah. Thank god for you guys, man. Seriously.
+
+776
+00:31:08,830 --> 00:31:09,890
+你兒子在哪
+So where is he?
+
+777
+00:31:10,630 --> 00:31:12,420
+你家人呢
+Now, I mean. Where's your family?
+
+778
+00:31:13,030 --> 00:31:14,700
+這個問題很復雜
+That's a complicated answer.
+
+779
+00:31:18,290 --> 00:31:19,830
+這酒吧都沒什么人了
+This place has really cleared out.
+
+780
+00:31:20,740 --> 00:31:22,300
+看來我真有"魅力"啊
+I guess I was the big draw.
+
+781
+00:31:23,910 --> 00:31:24,900
+是的啊
+Yeah, well...
+
+782
+00:31:25,560 --> 00:31:27,900
+我也該走了
+I probably should head out myself.
+
+783
+00:31:27,900 --> 00:31:29,650
+你會彈吉他嗎
+I was gonna say, you play a little?
+
+784
+00:31:29,650 --> 00:31:30,630
+我多出一把吉他
+I got an extra guitar.
+
+785
+00:31:30,630 --> 00:31:32,000
+我們可以一起彈啊
+We can get up and make some noise.
+
+786
+00:31:32,000 --> 00:31:34,630
+不了  我就小時候彈過  之后就沒彈了
+No. No, I haven't played since I was a kid.
+
+787
+00:31:34,630 --> 00:31:36,480
+反正沒人聽  彈不好也沒關系
+Well, there's no one here to hear you suck.
+
+788
+00:31:36,980 --> 00:31:38,090
+一起啊  很好玩的
+Come on. It'll be fun.
+
+789
+00:31:39,190 --> 00:31:40,570
+我什么曲子都不懂
+I don't know any songs.
+
+790
+00:31:40,880 --> 00:31:42,660
+還記得你爸爸教你彈的曲子嗎
+What about the songs your daddy taught you?
+
+791
+00:31:44,130 --> 00:31:45,340
+我可能會彈
+I might know one of those.
+
+792
+00:31:49,030 --> 00:31:50,950
+是不是心律有變化
+Am I hearing changes in his rhythm?
+
+793
+00:31:51,920 --> 00:31:53,560
+請打開心臟檢測儀
+Turn up the heart monitor, please.
+
+794
+00:31:54,480 --> 00:31:55,380
+開了
+Done.
+
+795
+00:31:56,410 --> 00:31:57,420
+增加甘露醇劑量
+More mannitol.
+
+796
+00:31:58,080 --> 00:32:00,940
+心律混亂  血壓上升
+Rhythm's getting very erratic, and--and B.P.'s rising.
+
+797
+00:32:00,940 --> 00:32:02,720
+安靜
+Quiet. Quiet.
+
+798
+00:32:11,370 --> 00:32:12,890
+好  先停下手術
+All right. Reverse the paralytics.
+
+799
+00:32:13,710 --> 00:32:15,350
+檢查嘔吐反射
+All right, let me check his gag reflexes.
+
+800
+00:32:20,610 --> 00:32:22,660
+不要啊  米基  加把勁
+Oh, no, Mickey. Come on. No.
+
+801
+00:32:24,060 --> 00:32:26,610
+謝博德醫生  沒有任何腦活動
+Dr. Shepherd, there's no brain activity.
+
+802
+00:32:42,700 --> 00:32:44,560
+那是
+That is a...
+
+803
+00:32:45,150 --> 00:32:48,410
+胰腺假性囊腫  萬歲
+pancreatic pseudocyst! Bam!
+
+804
+00:32:50,030 --> 00:32:51,750
+你剛才高呼”萬歲”了
+Did you just say "bam"?
+
+805
+00:32:51,840 --> 00:32:53,800
+這是牽涉性疼痛吧
+It had to be referred pain, right?
+
+806
+00:32:53,810 --> 00:32:55,530
+但肩部牽涉性疼痛
+But referred pain to the shoulder
+
+807
+00:32:55,540 --> 00:32:56,970
+是隔膜刺激的癥狀
+means irritation of the diaphragm,
+
+808
+00:32:56,970 --> 00:32:59,570
+這看似不合理  但是
+which did not make sense, but...
+
+809
+00:32:59,810 --> 00:33:01,440
+你有胰液外漏
+you have pancreatic fluid leakage,
+
+810
+00:33:01,440 --> 00:33:03,950
+所以我在想  
+so I was thinking, well, maybe something
+
+811
+00:33:04,030 --> 00:33:05,340
+也許是有什么刺激到隔膜
+was aggravating the diaphragm,
+
+812
+00:33:05,340 --> 00:33:06,920
+導致肩部牽涉性疼痛
+which referred to the shoulder,
+
+813
+00:33:06,920 --> 00:33:08,380
+然后  萬歲
+And bam!
+
+814
+00:33:08,510 --> 00:33:10,880
+胰腺假性囊腫
+Pancreatic pseudocyst.
+
+815
+00:33:11,710 --> 00:33:13,320
+也許在告知病人的時候
+Maybe you should wipe that smile off your face
+
+816
+00:33:13,320 --> 00:33:14,900
+不要笑得這么開心
+before you tell the patient.
+
+817
+00:33:17,230 --> 00:33:18,610
+天啊  抱歉
+Oh, god. I am so sorry.
+
+818
+00:33:18,610 --> 00:33:20,970
+我忘記這不是個好消息
+I-I forgot that this is bad news.
+
+819
+00:33:21,980 --> 00:33:23,920
+那你為什么笑啊
+And... you're laughing.
+
+820
+00:33:23,920 --> 00:33:27,320
+這是我首次覺得  你讓我放心了
+For the first time today, I feel like I'm in good hands.
+
+821
+00:33:29,020 --> 00:33:30,150
+干得好  威爾遜
+Nice work, Wilson.
+
+822
+00:33:30,600 --> 00:33:32,250
+你找到病源了
+You traced it back to the source.
+
+823
+00:33:44,960 --> 00:33:46,860
+我準備接手我媽媽的研究
+Hey! I'm doing my mother's research,
+
+824
+00:33:46,860 --> 00:33:48,880
+但不是你說的那個原因哦
+but not for the reasons you said I should.
+
+825
+00:33:48,880 --> 00:33:51,150
+-別鬧  格蕾  -是因為她的想法很好
+- Not now, Grey. - She had a good idea!
+
+826
+00:33:51,150 --> 00:33:54,320
+我不是沾她的光  我是延續她的熱情
+I'm not riding her coattails. I am sharing her passion.
+
+827
+00:33:54,780 --> 00:33:56,560
+或許這就是我母親留給我的
+Maybe this is what my mother gave me.
+
+828
+00:33:57,180 --> 00:33:58,690
+你爸把你教的不錯啊
+Your daddy taught you pretty good.
+
+829
+00:34:01,280 --> 00:34:02,210
+向前走*
+*Go ahead
+
+830
+00:34:03,540 --> 00:34:05,290
+親愛的孩子*
+*Pretty baby
+
+831
+00:34:06,710 --> 00:34:09,430
+向前走  享受人生*
+*Go ahead, knock yourself out
+
+832
+00:34:11,360 --> 00:34:13,030
+我一直愛著你  寶貝*
+*I still love you, baby
+
+833
+00:34:13,350 --> 00:34:17,010
+你是如此純潔無暇*
+*'Cause you don't know what it's all about
+
+834
+00:34:21,530 --> 00:34:22,550
+明亮燈光*
+*Bright lights
+
+835
+00:34:23,940 --> 00:34:25,260
+大都市*
+*Big city
+
+836
+00:34:27,150 --> 00:34:30,510
+都讓孩子眼花繚亂*
+*Gone to my baby's head
+
+837
+00:34:31,620 --> 00:34:32,770
+明亮燈光*
+*Bright lights
+
+838
+00:34:34,000 --> 00:34:35,430
+大都市*
+*Big city
+
+839
+00:34:39,140 --> 00:34:39,920
+沒事吧
+You okay?
+
+840
+00:34:42,290 --> 00:34:45,100
+這首歌真不錯
+You know... that's a good tune.
+
+841
+00:34:45,110 --> 00:34:46,210
+讓我想起很多以前的事
+Brings back a lot.
+
+842
+00:34:48,370 --> 00:34:49,070
+如果你不提醒自己
+You know, if you're not careful,
+
+843
+00:34:49,070 --> 00:34:51,280
+以前犯下的錯誤就會很困擾你
+all your old mistakes can just roll up on you.
+
+844
+00:34:54,130 --> 00:34:55,900
+我也教我的孩子彈吉他
+I taught my kid to play guitar, too.
+
+845
+00:34:56,560 --> 00:34:57,700
+就像你說的
+It's like you said.
+
+846
+00:34:59,370 --> 00:35:00,870
+我多希望我當時堅持下去
+I wish I'd had stuck with it.
+
+847
+00:35:02,530 --> 00:35:04,390
+也許你孩子堅持彈吉他了
+Well, your kid probably does, too.
+
+848
+00:35:06,840 --> 00:35:08,550
+但時光無法倒流  是吧
+Yeah, but there's no going back, is there?
+
+849
+00:35:11,070 --> 00:35:12,410
+你想看看他的照片嗎
+Can I show you a picture of him?
+
+850
+00:35:13,600 --> 00:35:14,430
+我兒子
+My boy?
+
+851
+00:35:15,380 --> 00:35:16,460
+你有他的照片啊
+What, you have one?
+
+852
+00:35:27,820 --> 00:35:28,700
+這是尼基
+That's Nicky.
+
+853
+00:35:30,850 --> 00:35:32,990
+他那時五歲  現在差不多十二歲了
+He's 5 there. He'd be about 12 now.
+
+854
+00:35:33,720 --> 00:35:35,440
+旁邊那位是他媽媽娜奧米
+And, uh, that's his mom, Naomi.
+
+855
+00:35:35,980 --> 00:35:36,930
+她是日本人
+She's Japanese.
+
+856
+00:35:38,610 --> 00:35:39,400
+這是
+Who's...
+
+857
+00:35:40,800 --> 00:35:41,750
+他們現在在哪
+Where are they?
+
+858
+00:35:42,630 --> 00:35:43,700
+南佛羅里達州
+South Florida.
+
+859
+00:35:45,110 --> 00:35:46,660
+我很久沒有回去了
+I haven't been back there in years.
+
+860
+00:35:46,750 --> 00:35:48,810
+天啊  你真是死性不改啊
+God, you just keep doing this.
+
+861
+00:35:50,800 --> 00:35:51,460
+什么意思
+What do you mean?
+
+862
+00:35:51,460 --> 00:35:54,480
+放過這個孩子  永遠都別回去
+Do this kid a favor. Don't ever go back.
+
+863
+00:35:55,230 --> 00:35:55,760
+讓他好好長大
+Let him grow up
+
+864
+00:35:55,760 --> 00:35:57,990
+不要讓他知道你是個爛人
+without knowing you any more that he already has.
+
+865
+00:35:58,980 --> 00:36:00,080
+搞什么啊 
+What the hell, man?
+
+866
+00:36:00,090 --> 00:36:01,760
+這樣對他比較好  你知道的
+He's better off. You know that.
+
+867
+00:36:03,660 --> 00:36:05,010
+你怎么了啊
+What's your problem?
+
+868
+00:36:07,840 --> 00:36:08,820
+剛才還好好的
+We were having fun here.
+
+869
+00:36:08,820 --> 00:36:11,110
+我是在保護你兒子  你兒子沒你更好
+I'm trying to protect your kid. You're no good to him.
+
+870
+00:36:11,120 --> 00:36:14,500
+你不了解我  也輪不到你來說我兒子
+Hey, you don't know me, and you don't talk about my kid.
+
+871
+00:36:15,820 --> 00:36:17,080
+別動手
+Hey! no!
+
+872
+00:36:18,150 --> 00:36:18,830
+滾
+Out!
+
+873
+00:36:18,840 --> 00:36:20,200
+給我滾
+You, out, now!
+
+874
+00:36:30,270 --> 00:36:32,430
+這樣對大家再好不過了
+This way, you can do the most good for the most people.
+
+875
+00:36:32,440 --> 00:36:33,330
+你真這樣認為
+You think so?
+
+876
+00:36:34,670 --> 00:36:36,050
+他會很欣慰的
+He would be grateful.
+
+877
+00:36:36,590 --> 00:36:38,080
+你所做的正是他希望的
+You did exactly what he wanted.
+
+878
+00:36:41,850 --> 00:36:43,410
+我不會退出這個項目
+I'm not dropping the project.
+
+879
+00:36:43,880 --> 00:36:44,710
+你是對的
+You were right.
+
+880
+00:36:45,100 --> 00:36:46,230
+我開始是為了她
+I was doing it for her.
+
+881
+00:36:48,190 --> 00:36:50,080
+現在我要為造福他人完成它
+And now I will do it for a million people
+
+882
+00:36:50,080 --> 00:36:51,450
+即使我見不到他們
+I'll never even meet.
+
+883
+00:36:52,670 --> 00:36:53,620
+也是為了米基
+And for Mickey.
+
+884
+00:36:58,020 --> 00:36:59,250
+我非常需要你的幫助
+I could really use your help.
+
+885
+00:37:20,320 --> 00:37:21,960
+我們才剛剛有點了解
+We were just starting to learn
+
+886
+00:37:21,960 --> 00:37:24,230
+大腦神經連接之廣袤
+the extent of the brain's connections...
+
+887
+00:37:27,220 --> 00:37:29,930
+連接之遠  連接之深
+How far they reach, how deep they go.
+
+888
+00:37:30,920 --> 00:37:32,430
+我已經不知道該怎么說我自己了
+I think I've ceased to exist.
+
+889
+00:37:33,660 --> 00:37:35,940
+我今天創造了歷史  實話實說
+I made history today, literally.
+
+890
+00:37:36,740 --> 00:37:38,640
+給無法手術的病人手術  
+Operated on the inoperable,
+
+891
+00:37:38,640 --> 00:37:40,370
+把病人從死亡中拯救出來
+saved a man from certain death,
+
+892
+00:37:41,240 --> 00:37:42,620
+但卻毀了他的生活
+and then ruined his life.
+
+893
+00:37:43,990 --> 00:37:45,230
+還有  歐文
+Oh, also Owen
+
+894
+00:37:45,230 --> 00:37:49,610
+好像跟那個叫瑪琳的處得很好
+seems very happy with that Marling person
+
+895
+00:37:49,610 --> 00:37:52,490
+而他卻從沒跟她提起過我
+to whom he has never even mentioned me.
+
+896
+00:37:53,550 --> 00:37:56,950
+就好像過去幾年什么事都沒發生過一樣
+It's as if the last few years never happened.
+
+897
+00:37:59,440 --> 00:38:00,970
+還有  賣紙巾的自動售貨機
+Also, the automatic paper towel thingy
+
+898
+00:38:00,970 --> 00:38:02,660
+認不出我是個人類
+won't recognize me as human.
+
+899
+00:38:02,700 --> 00:38:05,320
+我就站在那  像個傻子一樣揮著手
+I'm just standing there, waving my hands like an idiot.
+
+900
+00:38:05,970 --> 00:38:07,110
+對不起  你說什么
+I'm sorry. What?
+
+901
+00:38:10,240 --> 00:38:11,170
+你在干什么
+What are you doing?
+
+902
+00:38:11,770 --> 00:38:13,500
+申請研究基金
+Application for research funding.
+
+903
+00:38:13,700 --> 00:38:14,980
+你選好項目了
+Oh, you picked your project.
+
+904
+00:38:15,820 --> 00:38:17,630
+我要做3D打印的門靜脈
+I'm gonna 3-D print portal veins.
+
+905
+00:38:19,100 --> 00:38:20,630
+這太棒了  梅
+That is amazing, Mer.
+
+906
+00:38:21,240 --> 00:38:22,820
+-你打算如何  -好了  別說了
+- How are you gonna do that-- - Okay, don't.
+
+907
+00:38:23,610 --> 00:38:24,860
+所以我才沒有告訴你
+It's why I didn't tell you.
+
+908
+00:38:25,250 --> 00:38:26,900
+我有一份事業和一個家庭  
+I have a career and a family,
+
+909
+00:38:26,900 --> 00:38:28,040
+我決定要同時照顧兩方面
+and I'm going to do both.
+
+910
+00:38:28,170 --> 00:38:30,640
+我沒有時間聽你說我做不來什么
+What I don't have time for is for you to tell me that I can't.
+
+911
+00:38:30,640 --> 00:38:31,590
+我從沒說過這種話
+I never said that.
+
+912
+00:38:31,590 --> 00:38:33,190
+你知道  我一直支持你
+You know, I was always there for you,
+
+913
+00:38:33,330 --> 00:38:34,800
+無論你想要什么
+for whatever you needed.
+
+914
+00:38:35,260 --> 00:38:37,940
+現在要你來支持我了
+And now this is when I need you,
+
+915
+00:38:38,440 --> 00:38:39,980
+你應該來幫我
+and you're supposed to help me.
+
+916
+00:38:40,170 --> 00:38:42,620
+然而相反地  上周你把我推到一邊
+And instead, last week you pushed me aside
+
+917
+00:38:42,930 --> 00:38:44,280
+就因為我有了孩子
+because I had a baby.
+
+918
+00:38:45,000 --> 00:38:46,560
+你是現在沒時間考慮我嗎
+You don't have time for me now?
+
+919
+00:38:46,840 --> 00:38:47,820
+是你從來就不想
+Because you don't have time
+
+920
+00:38:47,820 --> 00:38:50,940
+為了那些和你追求不一樣的人付出
+for people who want things that you don't want.
+
+921
+00:38:52,410 --> 00:38:55,790
+但我們知道所有的連接都很重要
+But we know that every connection matters.
+
+922
+00:38:56,800 --> 00:38:58,470
+每一個連接都很關鍵
+Every connection is crucial.
+
+923
+00:38:59,760 --> 00:39:01,740
+我  我還得把這做完
+I-I-I have to finish this.
+
+924
+00:39:05,080 --> 00:39:06,420
+如果有一個斷開了
+And when one is broken...
+
+925
+00:39:09,460 --> 00:39:11,800
+那通常說明某處已有損傷
+It usually means some damage has been done.
+
+926
+00:39:11,990 --> 00:39:14,980
+我不知道是你有了別人
+I can't figure it out if you're seeing someone else
+
+927
+00:39:14,980 --> 00:39:16,440
+還是你覺得我懷孕了
+or you think that you knocked me up,
+
+928
+00:39:16,440 --> 00:39:17,060
+所以  
+So...
+
+929
+00:39:18,290 --> 00:39:20,740
+我試著回想問題究竟出在哪
+I tried to trace it back to the root of the problem,
+
+930
+00:39:20,740 --> 00:39:21,900
+然后我認為是因為你爸爸
+and I think it's your dad.
+
+931
+00:39:21,900 --> 00:39:22,760
+聽著  我告訴過你
+Look, I told you--
+
+932
+00:39:22,770 --> 00:39:23,930
+別再提起這事  我知道
+Not to bring it up again, I know,
+
+933
+00:39:23,930 --> 00:39:26,270
+但這是最后一次  因為如果我搞錯了
+and this is the last time, because if I'm wrong--
+
+934
+00:39:26,270 --> 00:39:28,890
+你沒錯  你應該為自己感到驕傲
+You're not wrong. You should be proud of yourself.
+
+935
+00:39:28,890 --> 00:39:30,370
+我本該不去招惹他
+I could've let him just pass through,
+
+936
+00:39:30,370 --> 00:39:32,090
+但你卻總說什么"和他談談
+but you were all "talk to him,
+
+937
+00:39:32,090 --> 00:39:33,820
+不然你后半輩子肯定要后悔"
+you'll wonder for the rest of your life."
+
+938
+00:39:34,020 --> 00:39:34,800
+很好  謝謝  
+Well, thanks.
+
+939
+00:39:35,010 --> 00:39:36,440
+十八年前跟他鬧翻時  我以為
+I didn't know I could feel this crappy again
+
+940
+00:39:36,440 --> 00:39:38,330
+我再也不會那樣生氣了
+after 18 frickin' years!
+
+941
+00:39:43,770 --> 00:39:46,200
+這種連接的系統驅使我們行動
+This system of connections compels us to act
+
+942
+00:39:46,200 --> 00:39:47,820
+作出選擇以及如何表現
+and choose and behave...
+
+943
+00:39:53,850 --> 00:39:55,940
+有時似乎違背了我們的本意的
+Sometimes seemingly against our own will.
+
+944
+00:39:55,940 --> 00:39:58,970
+短信
+莉亞·墨菲
+
+945
+00:40:03,850 --> 00:40:07,400
+你在干什么呢
+
+946
+00:40:10,160 --> 00:40:14,230
+你在干什么呢
+發送
+
+947
+00:40:15,120 --> 00:40:17,040
+但并不是無章可循的
+But it is not random at all.
+
+948
+00:40:18,280 --> 00:40:20,320
+它是我們之所以成為我們的藍圖
+It is the map of who we are.
+
+949
+00:40:22,660 --> 00:40:24,020
+你收到我的短信了嗎
+Did you get my text?
+
+950
+00:40:25,410 --> 00:40:26,820
+對不起  我有事耽擱了
+Sorry. I was stuck there.
+
+951
+00:40:26,820 --> 00:40:28,440
+我必須今晚把那做好
+I had to get this thing out by tonight.
+
+952
+00:40:28,440 --> 00:40:29,480
+我也有點事情
+I got hung up, too.
+
+953
+00:40:29,480 --> 00:40:30,940
+我剛剛把他們哄睡著
+I just barely got them down.
+
+954
+00:40:30,940 --> 00:40:32,540
+-剛剛  -我知道
+- Just now? - I know.
+
+955
+00:40:32,540 --> 00:40:33,250
+這么晚
+It's so late.
+
+956
+00:40:33,260 --> 00:40:35,300
+我知道  我盡力了
+I know. I tried.
+
+957
+00:40:38,050 --> 00:40:38,910
+這樣下去不行
+It's not working.
+
+958
+00:40:38,920 --> 00:40:40,610
+對  不行
+No, it isn't.
+
+959
+00:40:43,010 --> 00:40:44,760
+我們沒法又忙工作又忙孩子
+We just can't seem to make the pieces fit.
+
+960
+00:40:44,760 --> 00:40:47,080
+我同意  但我不知道還能怎樣
+I agree, but I don't know how--
+
+961
+00:40:47,080 --> 00:40:48,050
+我有辦法
+I think I do.
+
+962
+00:40:49,500 --> 00:40:51,920
+我想多花點時間在BCI研究上
+I wanna spend more time on this B.C.I. research.
+
+963
+00:40:49,630 --> 00:40:52,720
+B.C.I.  基于運動想象的腦機接口
+
+964
+00:40:51,920 --> 00:40:55,330
+托瑞斯和我  今天開了個好頭
+Torres and I... blew it wide open today.
+
+965
+00:40:55,330 --> 00:40:57,490
+-所以你想花更多時間工作  -不
+- So you wanna take on more? - No.
+
+966
+00:40:58,220 --> 00:40:59,260
+其實是更少
+Less, actually.
+
+967
+00:41:00,740 --> 00:41:02,130
+今年對你來說很重要
+This is a big year for you,
+
+968
+00:41:02,130 --> 00:41:03,710
+你得花時間搞好自己的工作
+and you need time to make it work.
+
+969
+00:41:04,760 --> 00:41:07,060
+我已經經歷過了  我可以先退回來
+I had a big year. I can step back,
+
+970
+00:41:07,360 --> 00:41:09,260
+少做點手術  專心做科研
+scale down the surgery, focus on this research,
+
+971
+00:41:09,260 --> 00:41:10,640
+多花時間陪孩子
+spend time with the kids,
+
+972
+00:41:10,910 --> 00:41:13,610
+給你更多時間
+and give you the slack you need
+
+973
+00:41:13,610 --> 00:41:15,200
+把這一年過得充實
+to make this year count.
+
+974
+00:41:17,430 --> 00:41:18,420
+我不喜歡
+I don't like it.
+
+975
+00:41:18,430 --> 00:41:19,560
+-什  -你會恨我的
+- Wh-- - You'll resent me,
+
+976
+00:41:19,560 --> 00:41:20,610
+孩子們也會恨我的
+and so will the kids,
+
+977
+00:41:20,610 --> 00:41:23,160
+而且  我不想變成我母親那樣
+and... I don't wanna be my mother.
+
+978
+00:41:23,160 --> 00:41:26,810
+你不是你母親  你知道的
+You're not your mother. You know that.
+
+979
+00:41:27,160 --> 00:41:29,290
+我們會繼續努力試著理解我們自己
+We will work to understand ourselves...
+
+980
+00:41:31,420 --> 00:41:32,540
+解開這個謎團
+Solve the puzzle...
+
+981
+00:41:32,540 --> 00:41:33,670
+這不公平
+It feels unfair.
+
+982
+00:41:33,670 --> 00:41:36,200
+跟孩子們在一起又不是什么稱心的獎勵
+Spending time with the kids is not a consolation prize.
+
+983
+00:41:36,910 --> 00:41:37,850
+這就是獎勵
+It is the prize.
+
+984
+00:41:38,780 --> 00:41:40,020
+你要公平嗎  也許以后
+You want fair? Maybe down the road,
+
+985
+00:41:40,020 --> 00:41:41,630
+我會讓你跟他們在一起過一年
+I'll give you a year with them.
+
+986
+00:41:42,110 --> 00:41:43,460
+也許等佐拉開始出去約會的
+Maybe when Zola's dating,
+
+987
+00:41:43,460 --> 00:41:45,070
+因為我可不想那會兒成天在她身邊攪局
+'cause I don't wanna be around for that.
+
+988
+00:41:50,750 --> 00:41:51,360
+我愛你
+I love you.
+
+989
+00:41:51,360 --> 00:41:53,280
+你可是該愛我  我為你做了多大的犧牲啊
+Well, you should. What I'm doing is amazing for you.
+
+990
+00:41:59,730 --> 00:42:01,460
+你的日子會比我的更有趣
+You're gonna have more fun than me.
+
+991
+00:42:01,460 --> 00:42:04,200
+我知道  原來杯子在這
+I know. Oh, so that's where that went.
+
+992
+00:42:04,430 --> 00:42:05,810
+是啊  這是我們的嗎
+Yeah. Is that ours?
+
+993
+00:42:05,820 --> 00:42:06,530
+是的
+Yes.
+
+994
+00:42:06,930 --> 00:42:08,490
+這些連接是如何工作的
+how all the connections work
+
+995
+00:42:11,230 --> 00:42:12,570
+以及零碎的片段是如何
+and all the pieces...
+
+996
+00:42:14,120 --> 00:42:15,290
+完美結合的
+fit.
+

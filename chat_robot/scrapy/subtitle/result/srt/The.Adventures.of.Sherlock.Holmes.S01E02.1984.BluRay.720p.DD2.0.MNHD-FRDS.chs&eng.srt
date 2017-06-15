@@ -1,0 +1,3515 @@
+1
+00:00:20,909 --> 00:00:24,897
+<font color=#4096d1>-==www.RagBear.com==- 福尔摩斯探案集  第1季第2集</font>
+
+2
+00:00:30,566 --> 00:00:34,311
+<font color="#4096d1">本字幕仅供学习交流，严禁用于商业用途</font>
+
+3
+00:00:40,876 --> 00:00:44,414
+<font color="#4096d1">-=Keepfrds MNHD Team=- 校对: ptrpan</font>
+
+4
+00:01:14,768 --> 00:01:20,860
+跳舞小人案
+
+5
+00:01:40,289 --> 00:01:42,625
+艾尔西 出什么事了?
+Elsie, what's the matter?
+
+6
+00:01:42,708 --> 00:01:45,920
+艾尔西
+Elsie!
+
+7
+00:03:18,711 --> 00:03:24,008
+看来 华生
+So, Watson.
+
+8
+00:03:25,303 --> 00:03:32,354
+你不打算投资南非证券了?
+You do not propose to invest in South African securities?
+
+9
+00:03:32,479 --> 00:03:36,316
+你怎么什么都知道?
+How on earth do you know that?
+
+10
+00:03:37,194 --> 00:03:39,571
+好了 承认吧 你是大吃了一惊吧
+Now, confess, you are utterly taken aback.
+
+11
+00:03:39,655 --> 00:03:41,281
+当然
+I am!
+
+12
+00:03:41,406 --> 00:03:43,325
+我就该让你立字为据
+I should make you sign a paper to that effect.
+
+13
+00:03:43,410 --> 00:03:43,953
+为什么?
+Why?
+
+14
+00:03:44,036 --> 00:03:47,359
+因为要不了几分钟 你就会说 这也太简单了点
+In a few minutes you will say it is all so absurdly simple.
+
+15
+00:03:47,498 --> 00:03:49,416
+我可说不出这样的话来
+I should say nothing of the kind!
+
+16
+00:03:49,500 --> 00:03:51,961
+你要知道 我亲爱的华生 作出一连串的推理来
+You see, my dear Watson, it is not really difficult
+
+17
+00:03:52,046 --> 00:03:55,007
+其实算不上什么难题
+to construct a series of inferences,
+
+18
+00:03:55,132 --> 00:03:57,426
+这些推理环环相扣
+each dependent upon its predecessor
+
+19
+00:03:57,512 --> 00:03:59,347
+每一步又都清晰明了
+and each simple in itself.
+
+20
+00:03:59,472 --> 00:04:02,976
+然后 只要把中间的环节一笔抹去
+If after doing so one simply knocks out the central inferences
+
+21
+00:04:03,013 --> 00:04:04,062
+只交代给观众
+and presents one's audience
+
+22
+00:04:04,187 --> 00:04:07,774
+他的出发点和结论
+with the starting point and the conclusion,
+
+23
+00:04:07,857 --> 00:04:11,611
+就能看到别人瞠目结舌的样子了
+one may produce a startling,
+
+24
+00:04:11,697 --> 00:04:15,534
+不过 这也许不过是哗众取宠而已
+though possibly a meretricious, effect.
+
+25
+00:04:15,619 --> 00:04:19,039
+我是通过观察你
+I can tell by an inspection of the groove
+
+26
+00:04:19,123 --> 00:04:21,417
+左手虎口处
+between your left forefinger and thumb,
+
+27
+00:04:21,544 --> 00:04:23,671
+得知你不打算把你那一小笔资金
+that you have decided not to invest your small capital
+
+28
+00:04:23,796 --> 00:04:25,506
+投到金矿中去
+in the gold fields.
+
+29
+00:04:26,966 --> 00:04:28,884
+我可看不出这有什么关系
+I can see no connection.
+
+30
+00:04:29,012 --> 00:04:30,388
+貌似是没有
+Very likely not;
+
+31
+00:04:30,471 --> 00:04:32,432
+不过我这就给你看密切的联系
+but I can quickly give you a close connection.
+
+32
+00:04:32,557 --> 00:04:35,518
+简单的线索 串起缺失的环节
+Here are the missing links in the very simple chain:
+
+33
+00:04:35,604 --> 00:04:37,480
+你昨晚从俱乐部回来
+You had chalk between your forefinger and thumb
+
+34
+00:04:37,564 --> 00:04:39,316
+左手虎口处粘有白色粉末
+when you returned from the club last night.
+
+35
+00:04:39,399 --> 00:04:44,237
+你只有打台球时 为了减少球杆阻力 才会抹白粉
+You put chalk there when you play billiards, to ease the cue.
+
+36
+00:04:44,364 --> 00:04:46,867
+而没有瑟斯顿作伴 你不会打台球
+You never play billiards except with Thurston.
+
+37
+00:04:46,952 --> 00:04:49,705
+四周之前 你告诉过我 瑟斯顿
+Now, Thurston, you told me, four weeks ago,
+
+38
+00:04:49,830 --> 00:04:52,116
+有买卖某南非证券的特权
+had an option on some South African security 
+
+39
+00:04:52,116 --> 00:04:53,042
+下个月就作废
+which expired in a month,
+
+40
+00:04:53,210 --> 00:04:55,880
+而他很想和你一同经营
+and which he desired you to share with him.
+
+41
+00:04:56,005 --> 00:04:57,882
+你把支票簿锁在我抽屉里
+Your checkbook is locked in my drawer,
+
+42
+00:04:57,965 --> 00:04:59,175
+也没问我要钥匙
+and you have not asked for the key.
+
+43
+00:04:59,260 --> 00:05:02,680
+所以说 你不打算对此投资
+So, you do not propose to invest your money in that manner.
+
+44
+00:05:04,891 --> 00:05:08,603
+这也太简单了点
+How absurdly simple!
+
+45
+00:05:11,775 --> 00:05:13,944
+一点不假
+Quite so.
+
+46
+00:05:14,071 --> 00:05:17,699
+只要跟你解释过 什么问题都变简单了
+Every problem is absurdly simple when it is explained to you.
+
+47
+00:05:20,079 --> 00:05:22,706
+福尔摩斯 你干吗这么高兴?
+Holmes, why are you so cheerful?
+
+48
+00:05:22,790 --> 00:05:25,250
+你正在待业 没案子可破
+You're unemployed, you have no case to solve.
+
+49
+00:05:25,336 --> 00:05:29,256
+换在平时 你肯定心情低落
+Now, normally that produces black moods
+
+50
+00:05:29,340 --> 00:05:32,343
+凄凄惨惨 以可卡因消愁
+and the infernal lethargy of the cocaine bottle.
+
+51
+00:05:32,470 --> 00:05:34,931
+你就是不懂什么是逻辑思维
+You have not used the logical principles
+
+52
+00:05:35,056 --> 00:05:37,350
+亏我整天跟你耳提面命
+which I constantly expound.
+
+53
+00:05:39,271 --> 00:05:42,816
+福尔摩斯展目舒眉
+Sherlock Holmes is cheerful,
+
+54
+00:05:42,941 --> 00:05:46,820
+那就是说 夏洛克福尔摩斯大案在手
+so, Sherlock Holmes must have a case.
+
+55
+00:05:46,947 --> 00:05:49,574
+对了
+Pa!
+
+56
+00:05:49,658 --> 00:05:54,997
+看看你能看出什么门道来 华生老友
+See what you can make of that, friend Watson.
+
+57
+00:05:55,916 --> 00:05:57,668
+福尔摩斯 这不就是小孩的涂鸦吗?
+Why, Holmes, it's a child's drawing.
+
+58
+00:05:57,795 --> 00:05:59,005
+你就是这么想的?
+Ah, is that your idea?
+
+59
+00:05:59,130 --> 00:06:00,506
+那还能是什么?
+Well, what else should it be?
+
+60
+00:06:00,589 --> 00:06:02,508
+这位达比郡瑞都岭镇庄园的
+Well, that is what a Mr. Hilton Cubitt,
+
+61
+00:06:02,593 --> 00:06:06,055
+希尔顿丘比特先生也很想知道
+of Ridling Thorpe Manor, Darbyshire, is anxious to know.
+
+62
+00:06:06,180 --> 00:06:08,683
+这个谜是早班邮件送到的
+That conundrum came by the first post,
+
+63
+00:06:08,810 --> 00:06:12,355
+他本人坐随后的火车赶来
+and he is to follow by the next train.
+
+64
+00:06:29,629 --> 00:06:32,923
+希尔顿丘比特
+Hilton Cubitt.
+
+65
+00:06:33,049 --> 00:06:35,593
+别费事了 我都查过了 华生
+No, no, I have already looked him up, Watson.
+
+66
+00:06:35,720 --> 00:06:38,890
+他的家族在达比郡拥有领地已经有500年了
+His family has owned land in Darbyshire for over 500 years,
+
+67
+00:06:39,015 --> 00:06:44,395
+所以我想 丘比特先生一定有财有势
+so I presume that Mr. Cubitt is as respectable as he is worthy.
+
+68
+00:06:45,732 --> 00:06:49,152
+容光焕发 神朗气清
+With a fresh face, an open countenance,
+
+69
+00:06:49,237 --> 00:06:52,366
+还戴着棕色圆顶礼帽
+and wearing a brown bowler hat.
+
+70
+00:06:52,449 --> 00:06:54,701
+别开玩笑了 你怎么可能知道这么详细
+Oh, no, you cannot possibly know that.
+
+71
+00:06:54,787 --> 00:06:56,330
+不相信 福尔摩斯?
+Really, Holmes?
+
+72
+00:07:02,380 --> 00:07:05,341
+你会留在这儿记录案子吧?
+Uh, you will stay and keep a record of the case?
+
+73
+00:07:05,424 --> 00:07:08,719
+赴汤蹈火
+My dear fellow.
+
+74
+00:07:15,313 --> 00:07:16,356
+多谢 哈德逊太太
+Thank you, Mrs. Hudson.
+
+75
+00:07:16,439 --> 00:07:19,067
+这边请 丘比特先生
+This way, Mr. Cubitt.
+
+76
+00:07:21,738 --> 00:07:23,198
+我就是夏洛克福尔摩斯
+Mr. Sherlock Holmes.
+
+77
+00:07:23,281 --> 00:07:24,241
+希尔顿丘比特
+Hilton Cubitt.
+
+78
+00:07:24,324 --> 00:07:26,034
+这是我的好友兼同事华生大夫
+And this is my friend and colleague, Dr. Watson.
+
+79
+00:07:26,120 --> 00:07:27,037
+华生大夫 你好
+Dr. Watson, sir.
+
+80
+00:07:27,121 --> 00:07:29,657
+荣幸之至 请坐吧 丘比特先生
+How do you do? Do sit down, Mr. Cubitt.
+
+81
+00:07:29,657 --> 00:07:31,333
+谢谢
+Thank you.
+
+82
+00:07:33,629 --> 00:07:37,883
+什么结果 先生们 你们觉得这东西是什么?
+So, what do you make of it, gentlemen? This thing.
+
+83
+00:07:37,969 --> 00:07:40,471
+您研究过了吗?
+Have you had time to study it?
+
+84
+00:07:40,596 --> 00:07:42,348
+可笑的小人排着队跳舞
+Absurd little figures dancing in a line,
+
+85
+00:07:42,473 --> 00:07:44,809
+孩子信笔涂抹的结果
+it's a childish prank.
+
+86
+00:07:44,936 --> 00:07:47,230
+这点小事 你为什么觉得重要?
+Why do you attach importance to something so trivial?
+
+87
+00:07:47,314 --> 00:07:48,523
+不是我 福尔摩斯
+I don't, Mr. Holmes.
+
+88
+00:07:48,648 --> 00:07:50,483
+我肯定不会
+I-I never should.
+
+89
+00:07:50,569 --> 00:07:53,322
+其实...是我的妻子
+No, it's-it'sit's my wife, you see.
+
+90
+00:07:53,447 --> 00:07:54,823
+她...
+She-
+
+91
+00:07:54,948 --> 00:07:58,076
+尽管说 丘比特先生 都不是外人
+Go on, Mr. Cubitt, you're with friends.
+
+92
+00:07:58,162 --> 00:08:01,040
+这东西吓得她要命
+But it's-it's frightened her almost to death.
+
+93
+00:08:01,165 --> 00:08:03,292
+她什么都不说 装作若无其事
+She says nothing, tries to appear normal,
+
+94
+00:08:03,419 --> 00:08:09,927
+但我从没见过谁会这么慌张
+but I've never seen anyone so upset.
+
+95
+00:08:10,011 --> 00:08:12,805
+这和原先用白粉笔画在院子长椅上的一模一样?
+In white chalk on a garden seat, it is a precise copy?
+
+96
+00:08:12,930 --> 00:08:15,350
+我尽可能画得一模一样了
+Oh, it's as exact as I could make it.
+
+97
+00:08:15,435 --> 00:08:17,062
+我的确以为是马童画的
+I did think it might be the stable boy,
+
+98
+00:08:17,187 --> 00:08:19,606
+但那孩子说没画过
+but the lad denied it.
+
+99
+00:08:19,689 --> 00:08:21,941
+要是我妻子有危险 福尔摩斯先生
+If there's any danger threatening my wife, Mr. Holmes,
+
+100
+00:08:22,027 --> 00:08:25,864
+我倾家荡产也要保护她
+I'd spend my last penny to protect her.
+
+101
+00:08:25,989 --> 00:08:28,283
+丘比特先生 您请坐吧
+Do sit down, Mr. Cubitt.
+
+102
+00:08:30,371 --> 00:08:31,538
+抽烟吗 丘比特先生?
+Do you smoke, Mr. Cubitt?
+
+103
+00:08:31,664 --> 00:08:32,289
+好的
+Uh, yes.
+
+104
+00:08:32,373 --> 00:08:35,834
+哦 不 不 我不抽 谢谢
+Uh, no, no, no, I won't, thank you.
+
+105
+00:08:40,593 --> 00:08:47,352
+说说您夫人吧 丘比特先生
+Tell us about your wife, Mr. Cubitt.
+
+106
+00:08:47,435 --> 00:08:51,398
+好吧 我一直都住在达比郡
+Well, uh, I've always lived in Darbyshire,
+
+107
+00:08:51,523 --> 00:08:54,317
+靠近马特洛克的瑞都岭镇庄园里
+Ridling Thorpe Manor, near Matlock.
+
+108
+00:08:54,403 --> 00:08:56,655
+我一直是个单身汉 要不是三年前
+I was a bachelor and thought I'd remain one
+
+109
+00:08:56,738 --> 00:09:00,367
+去了趟伦敦 还以为会一辈子孤家寡人了
+until three years ago I came down to London on a visit.
+
+110
+00:09:00,452 --> 00:09:03,247
+真是做梦也没想到
+It's a rare thing for me, but-
+
+111
+00:09:03,372 --> 00:09:07,042
+我是打算去看看女王即位五十周年大典
+well, I had a mind to see the Queen's Golden Jubilee.
+
+112
+00:09:07,128 --> 00:09:09,505
+我在罗素广场有寄宿处
+I put up at a boardinghouse in Russell Square,
+
+113
+00:09:09,588 --> 00:09:12,591
+因为帕克 我们的教区牧师
+because Parker, he's the vicar of our parish,
+
+114
+00:09:12,677 --> 00:09:15,221
+他待在那儿
+he was staying there.
+
+115
+00:09:15,346 --> 00:09:19,225
+当时在那儿的还有一位年轻的美国姑娘
+There was also a young American lady staying there,
+
+116
+00:09:19,310 --> 00:09:22,647
+她姓帕特里克 艾尔西帕特里克
+Patrick was her name, Elsie Patrick.
+
+117
+00:09:22,772 --> 00:09:25,817
+我们都没个伴儿 就交上了朋友
+We were both alone, and we became friends,
+
+118
+00:09:25,944 --> 00:09:27,279
+一起结伴同游之类
+did the sites and that.
+
+119
+00:09:27,404 --> 00:09:29,239
+你出的钱?
+At your expense?
+
+120
+00:09:29,322 --> 00:09:30,615
+当然不是
+Certainly not.
+
+121
+00:09:30,741 --> 00:09:31,408
+你难不成以为...
+Are you suggesting-
+
+122
+00:09:31,535 --> 00:09:35,414
+没有 丘比特先生 绝无此意
+No, he's not, Mr. Cubitt, not at all.
+
+123
+00:09:35,497 --> 00:09:42,506
+这位帕特里克小姐来伦敦 就为看女王大典?
+Was this Miss Elsie Patrick in London merely for the Jubilee?
+
+124
+00:09:42,631 --> 00:09:45,426
+不 不 不是 她到伦敦有一阵子了
+No, no, no, she'd been here some time.
+
+125
+00:09:45,511 --> 00:09:47,680
+她厌倦了美国 四处游历
+She'd tired of America, traveled about,
+
+126
+00:09:47,805 --> 00:09:50,767
+最后在英国落了脚
+and finally settled in England.
+
+127
+00:09:50,894 --> 00:09:55,940
+不用多说了 等到假期结束
+Well, not to make a labor of it, before my holiday was over,
+
+128
+00:09:56,066 --> 00:10:00,195
+我就成了个恋爱中的男人
+I was as much in love as any man ever has been.
+
+129
+00:10:00,322 --> 00:10:02,657
+让我喜出望外的是 她...
+To my surprise and joy, she-
+
+130
+00:10:02,743 --> 00:10:06,955
+她和我两情相悦 我们就结了婚
+she reciprocated my feelings, and we were married.
+
+131
+00:10:07,081 --> 00:10:08,290
+善莫大焉
+Excellent.
+
+132
+00:10:08,374 --> 00:10:11,919
+没张扬 就去登了个记
+Quietly, in ain a Register Office.
+
+133
+00:10:12,004 --> 00:10:14,799
+你准是当我疯了 福尔摩斯先生 没认识两天
+You think I'm mad, Mr. Holmes, taking a wife in such a fashion,
+
+134
+00:10:14,924 --> 00:10:17,760
+心血来潮就把婚结了?
+knowing nothing about her?
+
+135
+00:10:17,845 --> 00:10:22,558
+解释吧 丘比特先生 说重点
+Explain, Mr. Cubitt, and come to the point!
+
+136
+00:10:22,686 --> 00:10:30,237
+哦 是的 其实 就在我们结婚那天
+Oh, uh, yes, in fact, it was on the very day of our marriage.
+
+137
+00:10:30,362 --> 00:10:35,951
+那时我觉得一切都好 没有一丝不快
+Nothing could have made me unhappy, nothing on that day.
+
+138
+00:10:36,036 --> 00:10:39,790
+但现在想想 还真有些奇怪
+But now I look back, it was odd.
+
+139
+00:10:41,210 --> 00:10:44,505
+艾尔西?
+Elsie?
+
+140
+00:10:44,588 --> 00:10:47,425
+有些话我得跟你说 希尔顿
+There is something I have to say to you, Hilton.
+
+141
+00:10:47,552 --> 00:10:49,679
+我们可别晚了 亲爱的
+We don't want to be late, my dear.
+
+142
+00:10:49,762 --> 00:10:51,973
+我一直拖到现在
+I've put it off till now.
+
+143
+00:10:52,056 --> 00:10:56,894
+但我还是要给你个重新考虑的机会
+But I must still give you the chance to change your mind.
+
+144
+00:10:57,021 --> 00:11:00,525
+艾尔西 有这么严重吗?
+Elsie, what in the world?
+
+145
+00:11:00,610 --> 00:11:02,863
+听我说完
+Let me finish!
+
+146
+00:11:02,946 --> 00:11:06,783
+我说的字字属实
+And what I say, I do mean.
+
+147
+00:11:06,910 --> 00:11:09,580
+我很爱你
+I love you dearly,
+
+148
+00:11:09,705 --> 00:11:13,584
+但你对我之前的经历一无所知
+but you know nothing of my life before we met.
+
+149
+00:11:13,669 --> 00:11:16,088
+我没有问啊
+I never asked.
+
+150
+00:11:16,213 --> 00:11:20,968
+这也是我这么爱你的原因之一
+One of the things which has made me so fond of you.
+
+151
+00:11:21,095 --> 00:11:24,724
+如果你娶了我 希尔顿 我保证 你娶的女人
+If you marry me, Hilton, I promise you marry a woman
+
+152
+00:11:24,849 --> 00:11:29,479
+从没有做过任何事会让你感到羞耻
+who has nothing personally to be ashamed of.
+
+153
+00:11:29,606 --> 00:11:32,233
+但你要按我说的做
+But you'll have to take my word for it,
+
+154
+00:11:32,360 --> 00:11:34,613
+永远不要过问
+and allow me to be silent forever
+
+155
+00:11:34,738 --> 00:11:38,867
+我们相遇前我的生活
+as to my life before we met.
+
+156
+00:11:38,952 --> 00:11:41,288
+要是你觉得这太过分
+If that's too much to ask,
+
+157
+00:11:41,413 --> 00:11:43,791
+那还是请您回达比郡
+then you must go back to your Darbyshire
+
+158
+00:11:43,918 --> 00:11:48,297
+留下我一个人 就当未曾遇见过您
+and leave me to the lonely life in which you found me.
+
+159
+00:11:48,422 --> 00:11:54,806
+一点不过分 我永远不会让你离开我
+It's little enough to ask, and I shall never let you go.
+
+160
+00:11:56,810 --> 00:12:01,606
+就这样 我度过了最幸福的三年
+These have been the happiest three years of my life.
+
+161
+00:12:02,315 --> 00:12:03,858
+那么 自何时起
+And when did the first cloud
+
+162
+00:12:03,985 --> 00:12:10,327
+开始有愁云蔽日呢?
+cover the sun of this great happiness?
+
+163
+00:12:10,411 --> 00:12:12,621
+您还真一针见血 福尔摩斯先生
+You have a way of putting things, Mr. Holmes.
+
+164
+00:12:12,746 --> 00:12:13,414
+您也很擅长
+And you have a way
+
+165
+00:12:13,497 --> 00:12:16,125
+顾左右而言他 丘比特先生
+of prevaricating with your answers, Mr. Cubitt.
+
+166
+00:12:18,546 --> 00:12:21,590
+好吧 是几个月前 确切的说是五月
+Well, it was, uh, some months ago, May in fact.
+
+167
+00:12:25,888 --> 00:12:27,348
+希尔顿?
+Hilton?!
+
+168
+00:12:27,432 --> 00:12:29,517
+来了
+Hello!
+
+169
+00:12:29,644 --> 00:12:32,897
+在这儿 客厅
+Here, in the drawing room!
+
+170
+00:12:36,194 --> 00:12:37,696
+看看 喜欢吗?
+Well, what do you think?
+
+171
+00:12:37,821 --> 00:12:41,324
+真不错 焕然一新了
+Yes, great improvement!
+
+172
+00:12:44,204 --> 00:12:46,415
+谢谢 桑德斯
+Thank you, Saunders.
+
+173
+00:12:47,960 --> 00:12:51,380
+我遇见了邮差 没让他再跑一趟
+I met the postman, saved him a journey.
+
+174
+00:12:53,007 --> 00:12:55,009
+有账单
+Here's a bill.
+
+175
+00:12:55,094 --> 00:12:59,682
+还有封你的信 美国邮戳 从芝加哥
+Here's one for you, an American stamp, Chicago.
+
+176
+00:13:03,062 --> 00:13:06,900
+希望午饭好了 我饿死了
+I hope lunch is ready, I'm ravenous.
+
+177
+00:13:31,935 --> 00:13:35,772
+她烧掉了信 拆都没拆?
+She burned the letter, unopened?
+
+178
+00:13:35,855 --> 00:13:39,400
+是啊 我不知道为什么
+Yes, I don't know why.
+
+179
+00:13:39,486 --> 00:13:41,613
+你当然不知道
+Of course you don't.
+
+180
+00:13:41,738 --> 00:13:45,367
+美国是她的过去 是你不容打破的誓言
+America is her past, and the subject of a solemn promise.
+
+181
+00:13:45,452 --> 00:13:49,289
+是啊 可从那以后 她就一直心神不定
+Yes, but she's not had an easy hour from that moment.
+
+182
+00:13:49,373 --> 00:13:52,626
+要是她信得过我
+If only she'd trust me.
+
+183
+00:13:52,753 --> 00:13:57,383
+我对她是一百个信任 这点你得相信我
+Now, I have every faith in her, you must believe that.
+
+184
+00:13:57,468 --> 00:14:01,722
+不管她的过去怎么样 我肯定那都不是她的错
+Whatever there was in her past, I'm sure it's no fault of hers.
+
+185
+00:14:01,806 --> 00:14:03,933
+说说跳舞的小人
+And the dancing men?
+
+186
+00:14:05,145 --> 00:14:06,980
+哦 好吧
+Oh, yes,
+
+187
+00:14:07,105 --> 00:14:09,607
+我以为她已经忘了那封信的事了
+well, I thought she was getting over the letter,
+
+188
+00:14:09,734 --> 00:14:11,945
+结果这些小人又跳出来了
+and then thesethese drawings appeared.
+
+189
+00:14:12,028 --> 00:14:14,114
+不过就是孩子随笔乱画
+It's just a childish scrawl,
+
+190
+00:14:14,197 --> 00:14:16,783
+可什么都每况愈下了
+but it made everything worse than before.
+
+191
+00:14:16,910 --> 00:14:19,621
+我可不能就这么看着
+Well, I couldn't just leave it.
+
+192
+00:14:19,705 --> 00:14:21,540
+这事还不能跟警察说
+And it wasn't the sort of thing I could take to the police
+
+193
+00:14:21,665 --> 00:14:25,252
+他们准会笑话我
+for they would have laughed at me,
+
+194
+00:14:25,337 --> 00:14:28,299
+所以我来找你了
+so I've come to you.
+
+195
+00:14:30,011 --> 00:14:33,222
+丘比特先生 您想过没有
+Don't you think, Mr. Cubitt,
+
+196
+00:14:33,347 --> 00:14:34,766
+最好的解决办法
+that your best plan would be
+
+197
+00:14:34,851 --> 00:14:36,728
+就是直接问您的夫人
+to make a direct appeal to your wife,
+
+198
+00:14:36,853 --> 00:14:39,814
+请她与您分担心中的秘密?
+and ask her to share her secret with you?
+
+199
+00:14:39,898 --> 00:14:43,109
+君子一言 驷马难追 福尔摩斯先生
+A promise is a promise, Mr. Holmes.
+
+200
+00:14:43,195 --> 00:14:46,031
+要是艾尔西打算告诉我 她会的
+If Elsie wishes to tell me, then she will.
+
+201
+00:14:46,114 --> 00:14:49,534
+我可没这个权利去打听隐私
+But I have no right to force a confidence.
+
+202
+00:14:49,620 --> 00:14:55,793
+不过 作为丈夫 我也会尽职尽责的 我会的
+However, I do feel entitled to take my own line, and I will.
+
+203
+00:15:06,810 --> 00:15:10,021
+那我也会全力以赴帮助您的
+Then I will help you with all my heart.
+
+204
+00:15:10,104 --> 00:15:12,982
+您有没有看到附近有什么陌生人出现过?
+Have you seen or heard of any strangers in the neighborhood?
+
+205
+00:15:13,068 --> 00:15:14,486
+没有 没见过
+No, no, I haven't.
+
+206
+00:15:14,569 --> 00:15:15,946
+有些农户会收些房客
+Some of the farmers take in lodgers,
+
+207
+00:15:16,071 --> 00:15:19,449
+不过最近倒是没怎么听说
+but I've not heard of any lately.
+
+208
+00:15:19,576 --> 00:15:23,413
+那我建议您先回达比郡吧 丘比特先生
+Then I suggest that you return to Darbyshire, Mr. Cubitt,
+
+209
+00:15:23,539 --> 00:15:25,082
+眼睛放亮些
+and keep a sharp lookout.
+
+210
+00:15:25,207 --> 00:15:26,333
+再有新的跳舞小人
+And make an exact copy
+
+211
+00:15:26,418 --> 00:15:28,879
+一定要准确无误地记下给我
+of any fresh dancing men that may appear.
+
+212
+00:15:28,963 --> 00:15:32,007
+谢谢 福尔摩斯先生 我会的
+Thank you, Mr. Holmes. I will.
+
+213
+00:15:32,093 --> 00:15:34,470
+对了 丘比特先生
+Oh, and Mr. Cubitt,
+
+214
+00:15:34,595 --> 00:15:37,849
+让您夫人辗转难侧的那第一封信
+this letter which started your wife's torment,
+
+215
+00:15:37,934 --> 00:15:40,979
+您确信是从美国寄来的?
+you are quite certain that it was from the United States?
+
+216
+00:15:41,104 --> 00:15:44,440
+没错 邮戳是芝加哥
+Yeah, the postmark was Chicago.
+
+217
+00:15:53,787 --> 00:16:00,171
+再会 不用担心
+Goodbye! And don't worry.
+
+218
+00:16:22,743 --> 00:16:23,535
+她从美国收到信件
+It's perfectly natural
+
+219
+00:16:23,660 --> 00:16:25,996
+也没什么不正常的
+she should receive a letter from America,
+
+220
+00:16:26,079 --> 00:16:27,206
+她不就是美国来的
+she's from America.
+
+221
+00:16:27,331 --> 00:16:30,667
+没错 但拆都没拆就烧掉就不正常了
+Yes, but it is not natural to throw it onto the fire unopened.
+
+222
+00:16:35,635 --> 00:16:38,137
+这么看上去还有点像旗语了
+It's beginning to look like semaphore.
+
+223
+00:16:38,221 --> 00:16:41,140
+你读了我写的密码专论了?
+You have read my monograph on secret ciphers?
+
+224
+00:16:41,226 --> 00:16:43,019
+翻了翻
+Some of it.
+
+225
+00:16:43,144 --> 00:16:45,522
+读起来太艰深了
+I found it rather heavy going.
+
+226
+00:16:45,647 --> 00:16:48,066
+不用问 这肯定代表着什么
+It evidently has a meaning.
+
+227
+00:16:48,193 --> 00:16:53,156
+这要真是信手画的 那可就是匪夷所思了
+If it is purely arbitrary, it may be impossible to solve.
+
+228
+00:16:53,281 --> 00:16:58,036
+不过 只要这有规可循
+However, if it is systematic,
+
+229
+00:16:58,163 --> 00:17:01,333
+我们就能拨开云雾见青天
+we should be able to get to the bottom of it.
+
+230
+00:17:01,460 --> 00:17:05,881
+但我们还需要更多的信息 越长越好
+But we need more messages, and preferably long ones.
+
+231
+00:17:05,965 --> 00:17:09,885
+我觉得希尔顿丘比特可不这么希望
+Well, I doubt if Hilton Cubitt would agree with that.
+
+232
+00:17:50,984 --> 00:17:53,278
+沃克
+Walker,
+
+233
+00:18:00,787 --> 00:18:02,581
+你见过这东西吗?
+do you know anything about this?
+
+234
+00:18:02,706 --> 00:18:03,624
+没有 先生
+No, sir.
+
+235
+00:18:03,751 --> 00:18:05,794
+我一整天没来前面了
+I've not been out in the front all day.
+
+236
+00:18:05,920 --> 00:18:07,588
+丘比特夫人来过这儿吗?
+Has Mrs. Cubitt been out here?
+
+237
+00:18:07,671 --> 00:18:12,384
+这我也不知道 是吧 先生?
+I've no way of knowing, have I, sir?
+
+238
+00:18:12,470 --> 00:18:14,639
+等我抄完 我希望你能把这儿擦干净
+When I've done this, I want you to wash it off,
+
+239
+00:18:14,764 --> 00:18:17,558
+别跟任何人说 直接来找我
+and tell no one about it, and then come to me.
+
+240
+00:18:17,644 --> 00:18:21,814
+我需要你帮我送封急信
+I shall have an urgent letter for you to post.
+
+241
+00:18:46,347 --> 00:18:48,724
+艾尔西?
+Elsie?
+
+242
+00:19:30,572 --> 00:19:34,534
+艾尔西
+Elsie,
+
+243
+00:19:34,661 --> 00:19:36,121
+你在干吗?
+what are you doing?
+
+244
+00:19:36,246 --> 00:19:38,123
+我正在找你
+I was looking for you.
+
+245
+00:19:40,127 --> 00:19:43,005
+我想刚才是开门的声音
+I thought I heard the door.
+
+246
+00:19:43,088 --> 00:19:48,427
+你今天出门了吗 出这房子了吗?
+Have you been out today, out of the house?
+
+247
+00:20:03,448 --> 00:20:06,993
+希尔顿 上床去吧
+Hilton, come to bed,
+
+248
+00:20:07,120 --> 00:20:10,290
+一觉睡醒什么都会好的
+everything will look better in the morning.
+
+249
+00:20:10,417 --> 00:20:13,587
+那些画也会好?
+Will the drawings look better?!
+
+250
+00:20:13,671 --> 00:20:16,131
+那些跳舞的小人也会好?
+Will the dancing men look better?!
+
+251
+00:20:16,217 --> 00:20:17,718
+你干吗为这些涂鸦大惊小怪?
+Why do they fuss you so?
+
+252
+00:20:17,802 --> 00:20:19,428
+我大惊小怪?
+Fuss me?!
+
+253
+00:20:19,512 --> 00:20:22,890
+不过是玩笑 孩子的恶作剧
+They're just a joke, a bit of mischief!
+
+254
+00:20:32,529 --> 00:20:35,490
+月正中天
+The moon's high.
+
+255
+00:20:37,494 --> 00:20:44,128
+在美国 人们说这样的月亮会让人发狂
+Where I come from, they say a moon like that drives you crazy.
+
+256
+00:20:58,438 --> 00:21:02,358
+去旅行好吗 希尔顿 离开这儿好吗?
+Why don't we travel, Hilton, why don't we go away?
+
+257
+00:21:16,045 --> 00:21:22,470
+我爱这儿 跟我爱你一样
+I love this place as much as I love you.
+
+258
+00:21:22,553 --> 00:21:26,182
+希尔顿...
+Hilton-
+
+259
+00:21:28,770 --> 00:21:29,687
+你看到什么了?
+What did you see?
+
+260
+00:21:29,771 --> 00:21:32,190
+没什么 什么都没有
+Nothing, nothing at all!
+
+261
+00:21:32,275 --> 00:21:34,319
+不要去 亲爱的
+Please, dearest.
+
+262
+00:21:36,154 --> 00:21:37,197
+希尔顿 求你了
+Hilton, I beg you!
+
+263
+00:21:37,322 --> 00:21:40,033
+外面有人
+There's somebody outside.
+
+264
+00:21:40,160 --> 00:21:42,037
+希尔顿
+Hilton!
+
+265
+00:21:42,120 --> 00:21:45,165
+希尔顿 等等
+Hilton, wait!
+
+266
+00:21:45,251 --> 00:21:47,211
+你会干出伤人的事的
+You'll come to harm!
+
+267
+00:21:47,294 --> 00:21:51,257
+你就不担心他会干出伤人的事?
+Or are you afraid he will come to harm?!
+
+268
+00:22:09,948 --> 00:22:12,075
+这两个一模一样
+These two are identical.
+
+269
+00:22:12,202 --> 00:22:13,579
+是啊
+Yes.
+
+270
+00:22:13,662 --> 00:22:15,289
+我把那个擦掉过
+Well, I had that one washed off,
+
+271
+00:22:15,414 --> 00:22:17,541
+这肯定是后来又画上去的
+then it must have reappeared.
+
+272
+00:22:17,626 --> 00:22:20,588
+要是你看清楚那家伙就好了
+You know, it's a pity you didn't get a closer look at this chap.
+
+273
+00:22:20,671 --> 00:22:22,840
+要是她没拦着我
+If only she hadn't tried to stop me.
+
+274
+00:22:22,967 --> 00:22:24,719
+我从来没冲她发过脾气
+I've never been angry with her before,
+
+275
+00:22:24,802 --> 00:22:27,471
+可她知道外头那人是谁 这我肯定
+but she knew who was out there, of that I'm sure.
+
+276
+00:22:27,597 --> 00:22:31,309
+她也知道这些小人是什么意思
+And she knows what these figures mean.
+
+277
+00:22:31,436 --> 00:22:33,980
+这些是不是只是后来加上去的内容
+Was this a mere addition to this,
+
+278
+00:22:34,105 --> 00:22:36,482
+还是说这两个是两条不同的信息?
+or did it appear to be entirely separate?
+
+279
+00:22:36,568 --> 00:22:39,738
+这个是画在另一块门板上的
+That was on a separate panel of the door.
+
+280
+00:22:48,000 --> 00:22:51,170
+好吧 我知道我该做什么了
+Well, I know what I'm going to do,
+
+281
+00:22:51,295 --> 00:22:53,213
+我该回家
+I shall go home,
+
+282
+00:22:53,339 --> 00:22:55,925
+跟我的人在树林里守株待兔
+sit with half a dozen of my lads in the shrubbery,
+
+283
+00:22:56,010 --> 00:22:56,719
+要是再看到这家伙露面
+and if this fellow calls again,
+
+284
+00:22:56,844 --> 00:22:59,472
+打他个屁滚尿流 以后再也别来烦我们
+give him such a thrashing he'll leave us alone in the future.
+
+285
+00:22:59,555 --> 00:23:01,098
+这倒也是个办法
+Well, that would be one way.
+
+286
+00:23:01,184 --> 00:23:08,860
+丘比特先生 这案子有隐情 绝不可草率
+Mr. Cubitt, this case is too deep for such a simple remedy.
+
+287
+00:23:08,985 --> 00:23:12,030
+我得走了 不然要错过火车了
+I must go now if I'm to catch my train.
+
+288
+00:23:12,155 --> 00:23:13,865
+我可不会让艾尔西一个人晚上待着
+I'd not leave Elsie alone at night.
+
+289
+00:23:13,992 --> 00:23:14,701
+艾尔西
+Elsie!
+
+290
+00:23:14,826 --> 00:23:16,078
+没错
+Quite right.
+
+291
+00:23:16,203 --> 00:23:18,622
+走好 丘比特先生
+Good day, Mr. Cubitt.
+
+292
+00:23:18,705 --> 00:23:22,209
+我们一两天就会去见你了 耐心点
+We will join you in a couple of days, and be patient!
+
+293
+00:23:22,336 --> 00:23:23,504
+再见 华生大夫
+Good bye, Dr. Watson.
+
+294
+00:23:23,629 --> 00:23:25,047
+不用你送我了
+I'll find my own way.
+
+295
+00:23:25,172 --> 00:23:27,007
+再见
+Bye.
+
+296
+00:23:29,887 --> 00:23:32,682
+我可看不出来你有同情心
+You weren't exactly sympathetic.
+
+297
+00:23:32,767 --> 00:23:36,020
+他不是要我同情他的
+He doesn't come to me for sympathy.
+
+298
+00:23:48,161 --> 00:23:51,415
+很有挑战性
+It is a considerable challenge.
+
+299
+00:23:51,542 --> 00:23:54,545
+安静才能让我更好的工作
+I shall work better for silence.
+
+300
+00:23:54,670 --> 00:23:56,213
+那好吧
+Oh, well,
+
+301
+00:23:56,297 --> 00:24:00,759
+我敢说我也能找到些安静的事去做
+I dare say I can find something quiet to do.
+
+302
+00:24:39,479 --> 00:24:43,441
+吁
+Whoa, sit.
+
+303
+00:24:43,568 --> 00:24:44,486
+你在哪儿找到的这个?
+Where did you find this?
+
+304
+00:24:44,611 --> 00:24:46,821
+就在院子里长椅边上
+Down by the garden bench.
+
+305
+00:24:46,946 --> 00:24:47,781
+那是不是说
+Will that, uh, mean
+
+306
+00:24:47,864 --> 00:24:52,786
+你要让我再送一封信去伦敦了 先生?
+you'll be wanting me to take another letter for London, sir?
+
+307
+00:24:52,871 --> 00:24:54,957
+是吗?
+Very well.
+
+308
+00:24:56,126 --> 00:24:58,253
+要赶最后一班车 我得马上动身
+I'll have to get a move on if I'm gonna catch the last post.
+
+309
+00:24:58,337 --> 00:25:02,508
+沃克 让你做什么你再做什么
+Walker, just do what you're told!
+
+310
+00:25:11,020 --> 00:25:12,146
+什么事 华生?
+Yes, Watson?
+
+311
+00:25:12,271 --> 00:25:16,484
+我想你可能会想看泰晤士报 福尔摩斯
+Uh, I thought you might like the Times, Holmes.
+
+312
+00:25:16,611 --> 00:25:20,281
+你认为我进展如何?
+What do you make of my progress?
+
+313
+00:25:20,367 --> 00:25:23,412
+也没弄出个所以然来 对吧?
+Well, it still doesn't mean very much, does it?
+
+314
+00:25:23,537 --> 00:25:28,000
+多的足够让我给美国发个电报了
+Quite enough for me to send a telegram to the United States.
+
+315
+00:25:28,085 --> 00:25:31,213
+"ABESLANE" 这是什么意思?
+What on earth does that mean, "ABESLANE"?
+
+316
+00:25:31,338 --> 00:25:36,176
+华生 想想 要是这是E
+Watson, if this is E,
+
+317
+00:25:36,262 --> 00:25:38,848
+手拿旗子表示单词结束
+flag denotes the end of words.
+
+318
+00:26:28,955 --> 00:26:35,422
+这松鸡太好吃了
+Mm, this grouse is superb.
+
+319
+00:26:35,506 --> 00:26:41,512
+哈德逊太太可是超常发挥了这回
+Mrs. Hudson has really surpassed herself this time.
+
+320
+00:26:41,639 --> 00:26:44,767
+最晚一班去马特洛克的火车是几点?
+What time is the last train to Matlock?
+
+321
+00:26:44,852 --> 00:26:46,688
+恐怕我们错过了
+I'm afraid we've missed it.
+
+322
+00:26:49,484 --> 00:26:55,115
+福尔摩斯 我真希望你能吃上一口
+Holmes, I do wish you would try and eat a bite.
+
+323
+00:26:55,242 --> 00:26:59,705
+我只需要美国方面给我个回信
+I just need an answer to my telegram from America,
+
+324
+00:26:59,830 --> 00:27:02,457
+来龙去脉就搞清楚了
+and the story is complete.
+
+325
+00:28:37,960 --> 00:28:41,463
+亚伯 我想留下 我要留下
+Abe, I wanna stay, and I'm going to stay.
+
+326
+00:28:41,588 --> 00:28:44,174
+那你在芝加哥的朋友怎么办?
+What about your friends in Chicago?
+
+327
+00:28:44,301 --> 00:28:46,137
+你的家人怎么办?
+What about your family?!
+
+328
+00:28:46,262 --> 00:28:47,847
+你管他们叫朋友?
+Friends do you call them;
+
+329
+00:28:47,972 --> 00:28:51,934
+一帮子凶手 劫匪 勒索犯 那算什么家?
+killers, robbers, extortionists, some family.
+
+330
+00:28:52,061 --> 00:28:54,188
+可咱们两个订婚了
+But you and I were engaged!
+
+331
+00:28:54,313 --> 00:28:57,900
+对不起 亚伯 那是父亲强迫我答应的
+I'm sorry, Abe, my father forced me into it.
+
+332
+00:28:57,986 --> 00:29:00,989
+跟你过那种生活 要我怎么能开心?
+How could I be happy with you in that life?!
+
+333
+00:29:03,744 --> 00:29:09,291
+请你离开吧 求你了 我求你了
+Please go away, please, I beg you.
+
+334
+00:29:09,376 --> 00:29:11,128
+你求我?
+You beg me?!
+
+335
+00:29:11,211 --> 00:29:13,005
+是
+Yes.
+
+336
+00:29:13,130 --> 00:29:14,173
+希尔顿这么好
+Hilton is such a good man.
+
+337
+00:29:14,300 --> 00:29:18,971
+要是让他卷入丑闻 我会心碎的
+It would break my heart if scandal ever touched him.
+
+338
+00:29:19,055 --> 00:29:21,974
+给你钱
+Here's money,
+
+339
+00:29:22,060 --> 00:29:23,895
+都在这儿了
+it's all that I have.
+
+340
+00:29:36,328 --> 00:29:37,120
+不
+No!
+
+341
+00:29:37,204 --> 00:29:37,788
+你要跟我回家
+You're coming home!
+
+342
+00:29:37,871 --> 00:29:38,371
+不
+No!
+
+343
+00:29:38,497 --> 00:29:38,955
+你得跟我回去
+You're coming home!
+
+344
+00:29:39,041 --> 00:29:39,833
+不
+No!
+
+345
+00:29:39,958 --> 00:29:42,252
+真他...
+What the-
+
+346
+00:29:42,378 --> 00:29:43,253
+不
+No!
+
+347
+00:29:49,303 --> 00:29:50,679
+华生?
+Watson?
+
+348
+00:29:53,101 --> 00:29:55,561
+该死的 出什么事了?
+What the devil is going on?
+
+349
+00:29:57,397 --> 00:29:58,648
+你的电报有回音了?
+An answer to your telegram?
+
+350
+00:29:58,733 --> 00:30:02,362
+不 是希尔顿丘比特的另一封信
+No, it's another letter from Hilton Cubitt.
+
+351
+00:30:09,788 --> 00:30:13,917
+"艾尔西
+"ELSIE
+
+352
+00:30:14,044 --> 00:30:16,922
+准...备"
+PRE-P ARE."
+
+353
+00:30:30,693 --> 00:30:37,569
+"艾尔西 准备 见上"
+ELSIE-RE-ARE-TO-MEET-THY-GO
+
+354
+00:30:37,993 --> 00:30:39,035
+福尔摩斯先生
+Mr. Holmes, sir.
+
+355
+00:30:39,119 --> 00:30:41,204
+多谢
+Thank you.
+
+356
+00:30:44,126 --> 00:30:47,671
+芝加哥警局的威尔逊哈格里夫
+It's from Wilson Hargreave, of the Chicago Police Bureau.
+
+357
+00:30:47,796 --> 00:30:48,756
+"如您所问"
+"In reply to your inquiry,
+
+358
+00:30:48,841 --> 00:30:51,510
+"亚伯斯拉内是芝加哥最险恶的人之一"
+Abe Slaney is one of the most dangerous men in Chicago. "
+
+359
+00:30:54,805 --> 00:30:56,932
+快走 快走
+Come along, come along.
+
+360
+00:31:01,649 --> 00:31:02,817
+有辆车
+There's a cab!
+
+361
+00:31:02,942 --> 00:31:04,319
+去瑞都岭镇庄园 上车吗?
+Ridling Thorpe Manor, gentlemen?
+
+362
+00:31:04,444 --> 00:31:06,321
+越快越好
+As fast as you can!
+
+363
+00:31:08,366 --> 00:31:09,743
+你怎么知道?
+How do you know?
+
+364
+00:31:09,826 --> 00:31:12,412
+我打赌你是伦敦来的法医 先生
+Bet you're the surgeon from London, sir.
+
+365
+00:31:12,496 --> 00:31:13,747
+对不起 你干吗...
+I beg your pardon, what makes you-
+
+366
+00:31:13,832 --> 00:31:15,209
+她还没死 先生
+She's not dead yet, sir.
+
+367
+00:31:15,334 --> 00:31:20,047
+你也许能救她 不过她还是要上绞架的
+You may be able to save her, but she's for the gallows.
+
+368
+00:31:20,174 --> 00:31:21,592
+绞架?
+The gallows?!
+
+369
+00:31:21,675 --> 00:31:25,054
+没错 先生 她杀了自己的丈夫
+Right, sir, she murdered her husband.
+
+370
+00:31:56,971 --> 00:32:00,808
+我想 来的是警长和医生吧
+Inspector of Police, and Doctor of Medicine, I perceive?
+
+371
+00:32:00,893 --> 00:32:04,522
+的确如此 我是达比郡警署的探长马丁
+Yes, indeed, Inspector Martin, Darbyshire Constabulary.
+
+372
+00:32:04,649 --> 00:32:07,402
+我是医生卡休
+And I am Dr. Carthew, the surgeon.
+
+373
+00:32:07,527 --> 00:32:08,486
+先生们 这边请
+This way, gentlemen.
+
+374
+00:32:08,570 --> 00:32:11,322
+这位是夏洛克福尔摩斯先生
+This is Mr. Sherlock Holmes,
+
+375
+00:32:11,408 --> 00:32:15,871
+我是他的朋友兼同事华生大夫
+and I am his friend and colleague, Dr. Watson.
+
+376
+00:32:17,791 --> 00:32:22,963
+福尔摩斯先生 这事你又知道些什么呢?
+Mr. Holmes, but what do you know of this business?!
+
+377
+00:32:23,088 --> 00:32:25,340
+不少
+A good deal.
+
+378
+00:32:25,426 --> 00:32:29,346
+希尔顿丘比特先生 曾是我的客户
+Mr. Hilton Cubitt was my client.
+
+379
+00:32:29,430 --> 00:32:32,558
+可这案子今天凌晨三点才发生的
+But the crime was only committed at 3:00 o'clock this morning.
+
+380
+00:32:32,685 --> 00:32:33,853
+你在伦敦是怎么听到风声的
+How could you hear of it in London
+
+381
+00:32:33,936 --> 00:32:35,396
+我前脚进 你后脚就到了?
+and get to the spot as soon as I?
+
+382
+00:32:35,480 --> 00:32:36,898
+我预料到了
+I anticipated it.
+
+383
+00:32:36,983 --> 00:32:41,696
+我们原打算来阻止这一切
+We came in hope of preventing it.
+
+384
+00:32:41,780 --> 00:32:42,906
+那你一定是拿到了
+Then you must have important evidence
+
+385
+00:32:43,033 --> 00:32:44,576
+我不知道的证据了
+of which I am ignorant.
+
+386
+00:32:44,659 --> 00:32:46,995
+只有跳舞的小人为证
+Only the evidence of the dancing men.
+
+387
+00:32:47,120 --> 00:32:47,704
+跳舞的小人?
+The dancing men?
+
+388
+00:32:47,788 --> 00:32:50,791
+我稍后会跟你解释
+I will explain all that to you later.
+
+389
+00:32:51,585 --> 00:32:55,756
+既然我们已经无法阻止悲剧
+Since we are too late to prevent this tragedy,
+
+390
+00:32:55,841 --> 00:32:59,053
+我一定要保证正义得到伸张
+I am anxious to insure that justice is done.
+
+391
+00:32:59,136 --> 00:33:01,055
+您愿意协助我调查
+Will you associate me in your investigation,
+
+392
+00:33:01,138 --> 00:33:03,599
+还是更乐意让我独自行动?
+or will you prefer that I should act independently?
+
+393
+00:33:04,644 --> 00:33:07,939
+我很荣幸能和您协同办案 福尔摩斯先生
+I should be proud for us to work together, Mr. Holmes.
+
+394
+00:33:08,066 --> 00:33:11,194
+但丑话说在前面 看起来没什么东西好调查的
+But I must warn you, there seems very little to investigate.
+
+395
+00:33:11,319 --> 00:33:15,657
+希尔顿丘比特先生心脏中弹 已经死亡
+Mr. Hilton Cubitt has been shot through the heart and he's dead.
+
+396
+00:33:17,285 --> 00:33:21,665
+那丘比特夫人呢?
+And Mrs. Cubitt?
+
+397
+00:33:21,750 --> 00:33:24,253
+重伤
+Seriously wounded.
+
+398
+00:33:24,336 --> 00:33:26,088
+子弹穿过头顶
+The bullet passed through the front of her brain,
+
+399
+00:33:26,171 --> 00:33:28,674
+至今昏迷不醒
+and she's still unconscious.
+
+400
+00:33:28,801 --> 00:33:31,011
+请 先生们
+Excuse me, gentlemen.
+
+401
+00:33:32,555 --> 00:33:36,600
+只发现了一把枪 就在两个人中间
+Only one gun has been found, lying on the floor between them.
+
+402
+00:33:36,686 --> 00:33:38,771
+共开了两枪
+Two bullets have been fired.
+
+403
+00:33:38,855 --> 00:33:39,897
+福尔摩斯先生 我冒昧地说句
+With respect, Mr. Holmes,
+
+404
+00:33:40,024 --> 00:33:42,735
+看上去一目了然 丘比特太太杀了她丈夫
+it seems quite clear that Mrs. Cubitt murdered her husband
+
+405
+00:33:42,861 --> 00:33:45,238
+然后又掉转了枪口
+and then turned the gun upon herself.
+
+406
+00:33:45,363 --> 00:33:48,741
+可他们是这么相亲相爱的一对
+But they were a most devoted couple!
+
+407
+00:33:48,869 --> 00:33:50,996
+谋杀现场在这边的屋子 福尔摩斯先生
+The murder room is through here, Mr. Holmes.
+
+408
+00:33:51,121 --> 00:33:56,042
+不用 我想先问问这里的佣人
+No, I would like to start by interviewing the servants.
+
+409
+00:33:56,128 --> 00:33:56,962
+我请您 不要
+And I beg you, nothing,
+
+410
+00:33:57,045 --> 00:34:00,424
+千万不要移动任何东西
+absolutely nothing is to be moved.
+
+411
+00:34:04,513 --> 00:34:07,183
+厨房是从这儿走吗?
+Is this the way to the kitchen?
+
+412
+00:34:12,192 --> 00:34:14,194
+我得说这案子肯定是
+I should think it must have happened about
+
+413
+00:34:14,277 --> 00:34:18,323
+早上三点发生的 先生
+3:00 o'clock in the morning, sir.
+
+414
+00:34:18,408 --> 00:34:19,951
+你们的房间在哪儿?
+Where are your rooms?
+
+415
+00:34:20,076 --> 00:34:20,744
+顶楼 先生
+On top, sir.
+
+416
+00:34:20,869 --> 00:34:21,995
+阁楼
+The attics!
+
+417
+00:34:22,078 --> 00:34:24,372
+我被那声可怕的"砰"惊醒了
+I was awoke by this terrible bang,
+
+418
+00:34:24,458 --> 00:34:27,377
+只能用爆炸来形容
+an explosion is the only word.
+
+419
+00:34:27,461 --> 00:34:28,629
+大约过了一分钟...
+And about a minute later-
+
+420
+00:34:28,754 --> 00:34:29,296
+还没到一分钟
+It was less than a minute.
+
+421
+00:34:29,421 --> 00:34:33,050
+...又传来"砰"的一声 不过没那么响
+-there was another bang, only not so loud.
+
+422
+00:34:33,135 --> 00:34:34,720
+你们做什么了?
+What did you do?
+
+423
+00:34:34,804 --> 00:34:36,430
+我们下楼了 先生
+We came downstairs, sir,
+
+424
+00:34:36,557 --> 00:34:38,559
+以为丘比特先生也会起身
+expecting to find Mr. Cubitt up and about,
+
+425
+00:34:38,643 --> 00:34:41,562
+追逐窃贼或是发现哪儿着了火
+chasing burglars or the house on fire, or-
+
+426
+00:34:41,646 --> 00:34:43,606
+但是卧室门开着
+And the bedroom door was open.
+
+427
+00:34:43,733 --> 00:34:47,237
+我们看看了 发现屋子空着 就下来了
+We looked in but the bed was empty so we came on down.
+
+428
+00:34:47,320 --> 00:34:48,071
+到处是烟
+There was smoke,
+
+429
+00:34:48,196 --> 00:34:49,989
+越往下气味越重
+and the smell was worse down here.
+
+430
+00:34:50,116 --> 00:34:52,244
+气味?
+Smell?
+
+431
+00:34:52,327 --> 00:34:54,162
+啊 你是说枪的硝烟味?
+Ah, you mean of the gunpowder?
+
+432
+00:34:54,287 --> 00:34:57,249
+我想就是 先生 是的
+I suppose it was, sir, yes.
+
+433
+00:34:57,376 --> 00:34:59,086
+刚才你说越往下气味越重
+Now, you say the smell was worse downstairs.
+
+434
+00:34:59,169 --> 00:35:01,338
+你在楼上也能闻到硝烟的味儿?
+Could you also smell gunpowder upstairs?
+
+435
+00:35:01,463 --> 00:35:03,257
+是的 先生
+Yes, sir.
+
+436
+00:35:03,342 --> 00:35:04,093
+我提醒您 探长
+I commend that fact
+
+437
+00:35:04,176 --> 00:35:06,929
+需要十分留意这一点
+very carefully to your attention, Inspector.
+
+438
+00:35:07,012 --> 00:35:09,098
+金太太
+Mrs. King,
+
+439
+00:35:13,187 --> 00:35:16,482
+您愿意坐下来谈吗 金太太?
+would you like to sit down, Mrs. King?
+
+440
+00:35:18,194 --> 00:35:23,741
+那么 您到书房的时候 书房的门是开着的吗?
+Now, was the library door open when you reached it?
+
+441
+00:35:23,827 --> 00:35:25,912
+开着的 先生
+Open, yes, sir.
+
+442
+00:35:25,996 --> 00:35:29,708
+我们能看到桌上还亮着蜡烛 就走进去了
+We could see the candle alight on the table and so we came in.
+
+443
+00:35:29,835 --> 00:35:33,714
+接着 哦 天啊
+Then, oh dear,
+
+444
+00:35:33,841 --> 00:35:38,137
+那是我见过最可怕 也最怕见到的一幕
+as terrible a thing as ever I saw or ever fear to see.
+
+445
+00:35:38,220 --> 00:35:40,890
+她受了重伤 先生
+She was terrible wounded, sir.
+
+446
+00:35:41,017 --> 00:35:43,060
+不停地呻吟
+She was moaning and groaning,
+
+447
+00:35:43,186 --> 00:35:44,937
+然后就瘫倒在地上
+then she sort of collapsed on the floor
+
+448
+00:35:45,021 --> 00:35:48,441
+之后就再也没能开口说话
+and she hasn't said anything since.
+
+449
+00:35:49,152 --> 00:35:51,487
+桑德斯?
+Saunders?
+
+450
+00:35:51,613 --> 00:35:53,531
+我们把她抬到了卧室 先生
+We moved her to her bedroom, sir,
+
+451
+00:35:53,617 --> 00:35:56,870
+然后让福瑞德沃克去叫了医生和警察
+and sent Fred Walker for the doctor and the police.
+
+452
+00:35:58,038 --> 00:36:03,502
+没有发现破门而入的痕迹 或是潜入的人?
+And there was no sign of a break-in, or of an intruder?
+
+453
+00:36:03,629 --> 00:36:04,671
+没有 先生
+No, sir.
+
+454
+00:36:04,757 --> 00:36:06,425
+所有的门和窗都是锁上的
+And all the doors and windows was locked,
+
+455
+00:36:06,550 --> 00:36:09,637
+就跟我们去就寝时一样
+as we had left them when we went to bed.
+
+456
+00:36:11,224 --> 00:36:13,559
+探长...
+Inspector...
+
+457
+00:36:13,684 --> 00:36:16,062
+哦 好的
+Oh, yes...
+
+458
+00:36:18,066 --> 00:36:20,985
+除了可怜的丘比特夫人
+Apart from poor Mrs. Cubitt,
+
+459
+00:36:21,069 --> 00:36:22,820
+你们没有动过其他东西?
+nothing else has been moved?
+
+460
+00:36:22,904 --> 00:36:23,696
+没有 先生
+No, sir.
+
+461
+00:36:23,823 --> 00:36:27,577
+没有 我们什么都没碰 福尔摩斯先生
+No, we've touched nothing, Mr. Holmes.
+
+462
+00:36:27,702 --> 00:36:30,705
+谢谢你们 那么我们继续吧
+Thank you. Then I think we can proceed.
+
+463
+00:36:37,216 --> 00:36:40,970
+几乎是顷刻毙命 可以这么假定
+Almost instantaneous death, presumably.
+
+464
+00:36:41,095 --> 00:36:44,557
+直穿心脏
+Mm, straight through the heart.
+
+465
+00:36:44,684 --> 00:36:48,980
+子弹还在里面
+The bullet's still there.
+
+466
+00:36:49,107 --> 00:36:52,402
+那颗伤了丘比特夫人的子弹呢?
+What about the bullet that wounded Mrs. Cubitt?
+
+467
+00:36:52,527 --> 00:36:54,696
+也还在她体内呢
+That's still in her, as well.
+
+468
+00:36:54,779 --> 00:36:58,783
+得找个比我灵活的人才能取出来
+It will take hands more nimble than mine to move it.
+
+469
+00:37:00,745 --> 00:37:03,123
+这是丘比特夫人的手提袋吗?
+Is this Mrs. Cubitt's handbag?
+
+470
+00:37:03,208 --> 00:37:05,961
+没错 福尔摩斯先生
+Yes, it is, Mr. Holmes.
+
+471
+00:37:06,086 --> 00:37:09,840
+至少有20张50磅的钞票
+At least twenty 50-pound notes,
+
+472
+00:37:09,967 --> 00:37:13,387
+用钱打发不走
+a bribe that failed.
+
+473
+00:37:15,725 --> 00:37:20,229
+看来 开了两枪
+So, two bullets fired,
+
+474
+00:37:20,313 --> 00:37:22,106
+一死一伤 您所言不虚
+two wounds inflicted, as you said.
+
+475
+00:37:22,233 --> 00:37:23,318
+是啊 大夫
+Yes, Doctor.
+
+476
+00:37:23,443 --> 00:37:24,652
+那么你打算如何解释
+Then how do you account for the bullet
+
+477
+00:37:24,777 --> 00:37:30,200
+这颗明显击中了窗框的子弹?
+that has so obviously struck the window frame?
+
+478
+00:37:31,661 --> 00:37:34,331
+真想不到 你是怎么看到的?
+By George, however did you see that?!
+
+479
+00:37:34,458 --> 00:37:38,086
+因为我来找了 卡休医生
+Because, Dr. Carthew, I looked for it.
+
+480
+00:37:38,170 --> 00:37:41,465
+太厉害了 那子弹 怎么会 还在里头
+Wonderful, why, the bullet's still there!
+
+481
+00:37:41,592 --> 00:37:44,470
+那么说一共是开了三枪了
+So a third shot must have been fired.
+
+482
+00:37:44,553 --> 00:37:47,681
+也就是说 当时还有第三个人在场了
+Which means that a third person must have been present.
+
+483
+00:37:47,808 --> 00:37:49,894
+一点不假
+Exactly!
+
+484
+00:37:50,019 --> 00:37:51,479
+你们昨晚进到这间屋子
+When you came into this room last night,
+
+485
+00:37:51,604 --> 00:37:55,775
+看到房门稍开 窗户也是开着的吗?
+you say that the door was ajar; was not that window also open?
+
+486
+00:37:55,860 --> 00:37:57,487
+我不知道 先生 我想
+I don't know, sir.
+
+487
+00:37:57,612 --> 00:37:58,655
+不是 先生
+No, sir.
+
+488
+00:37:58,740 --> 00:38:00,492
+是关着的
+It was shut.
+
+489
+00:38:00,575 --> 00:38:03,995
+桑德斯 你们跟厨师去书房等着好吗
+Saunders, will you and Cook wait in the library,
+
+490
+00:38:04,079 --> 00:38:06,790
+还有你 沃克
+and you, Walker.
+
+491
+00:38:07,417 --> 00:38:12,381
+卡休医生 你可以把尸体移走了
+Dr. Carthew, you may remove the body.
+
+492
+00:38:20,142 --> 00:38:24,188
+看来是丘比特夫人自己关的窗
+It was Mrs. Cubitt herself who shut that window.
+
+493
+00:38:24,274 --> 00:38:30,280
+要是桑德斯跟厨师在楼上就闻到了硝烟味
+If Saunders and the Cook smelled smoke and gunpowder upstairs,
+
+494
+00:38:30,407 --> 00:38:35,120
+那肯定这儿的风不小
+then there must have been a strong through draft.
+
+495
+00:38:35,245 --> 00:38:36,913
+不然的话 不会这么快
+Otherwise, it would not have spread so quickly
+
+496
+00:38:37,040 --> 00:38:38,208
+就传到楼上去了
+through the house.
+
+497
+00:38:38,292 --> 00:38:41,753
+我们知道那扇门是开着的
+We know that door was open,
+
+498
+00:38:41,879 --> 00:38:43,839
+那么那扇窗户 一定也是开着的
+that window, too, must also have been open,
+
+499
+00:38:43,924 --> 00:38:45,718
+不过只开了一会儿
+but only for a short time.
+
+500
+00:38:45,801 --> 00:38:48,846
+为什么说只开了一会儿?
+Why only for a short time?
+
+501
+00:38:48,929 --> 00:38:51,932
+因为烛火还没融化边缘
+Because the candles have not gutted.
+
+502
+00:38:52,018 --> 00:38:54,562
+不然会流下烛泪来的
+There is no trail of wax.
+
+503
+00:38:54,687 --> 00:38:57,982
+精彩 精彩
+Wonderful, wonderful!
+
+504
+00:39:01,487 --> 00:39:02,947
+要是丘比特先生生前
+If the late Mr. Hilton Cubitt
+
+505
+00:39:03,074 --> 00:39:07,871
+开的那枪 射中了窗框
+fired the bullet which pierced the window frame,
+
+506
+00:39:07,954 --> 00:39:09,748
+那他一定是冲着
+he must have been aiming at
+
+507
+00:39:09,875 --> 00:39:14,087
+要么站在屋内的人
+someone who was standing either inside
+
+508
+00:39:14,212 --> 00:39:15,923
+要么就是个在窗外的人
+or just outside the window.
+
+509
+00:39:16,050 --> 00:39:17,468
+谢谢 探长
+Oh, thank you, Inspector.
+
+510
+00:39:17,551 --> 00:39:19,762
+那就是说 让丘比特先生送命的那颗子弹
+Which means that the bullet which killed Mr. Cubitt
+
+511
+00:39:19,845 --> 00:39:20,971
+有可能是...
+could have been fired by-
+
+512
+00:39:21,098 --> 00:39:25,394
+探长 我们真是英雄所见略同啊
+Inspector, your thoughts and mine agree entirely.
+
+513
+00:39:47,508 --> 00:39:49,260
+这就是那颗
+This is the cartridge case
+
+514
+00:39:49,343 --> 00:39:55,057
+杀了希尔顿丘比特先生的子弹上的弹壳
+of the bullet which killed Mr. Hilton Cubitt.
+
+515
+00:40:03,528 --> 00:40:06,823
+福尔摩斯
+Holmes,
+
+516
+00:40:06,908 --> 00:40:08,368
+要是共开了三枪
+if three shots were fired,
+
+517
+00:40:08,493 --> 00:40:13,456
+为什么金太太跟桑德斯只听到了两声枪响?
+why did Mrs. King and Saunders only hear two shots?
+
+518
+00:40:13,584 --> 00:40:17,629
+她们说了实情 可惜没意识到这是谎话
+They were telling the truth, but lied without realizing it.
+
+519
+00:40:17,715 --> 00:40:20,718
+我可有点听不明白了
+I'm not sure that I follow you.
+
+520
+00:40:20,843 --> 00:40:24,513
+你还记得金太太说的
+You remember what Mrs. King said,
+
+521
+00:40:24,599 --> 00:40:30,354
+"我被一声巨响惊醒了 只能用"
+"I was awoken by this terrible bang, an explosion,
+
+522
+00:40:30,481 --> 00:40:31,190
+"爆炸来形容"
+it is the only word.
+
+523
+00:40:31,316 --> 00:40:32,233
+"过了一分钟"
+And then a minute later
+
+524
+00:40:32,358 --> 00:40:36,446
+"又听到了一次较低的声响"
+there was another bang but not so loud. "
+
+525
+00:40:36,571 --> 00:40:43,204
+第一次巨响其实是几乎同时射出的两枪
+The first bang was two shots, fired almost simultaneously;
+
+526
+00:40:43,332 --> 00:40:45,834
+一枪从窗外射进来 杀了希尔顿丘比特
+one from the window, which killed Hilton Cubitt,
+
+527
+00:40:45,918 --> 00:40:47,210
+另一枪是希尔顿丘比特打的
+and one from Hilton Cubitt,
+
+528
+00:40:47,336 --> 00:40:50,339
+射偏打中了窗框
+which missed and went into the window frame.
+
+529
+00:40:52,092 --> 00:40:55,930
+那第三枪?
+And the third shot?
+
+530
+00:40:56,057 --> 00:41:01,854
+哀莫过于此 丘比特夫人
+The saddest of all, Mrs. Cubitt,
+
+531
+00:41:01,938 --> 00:41:05,691
+绝望之下 欲饮弹自尽
+self-administered in her despair.
+
+532
+00:41:08,029 --> 00:41:14,496
+你们谁知道这附近有一家旅馆
+Now, do any of you know of an inn in the neighborhood
+
+533
+00:41:14,623 --> 00:41:18,752
+叫艾尔里奇?
+called Elrige's?
+
+534
+00:41:21,799 --> 00:41:25,594
+有个农场主姓这个姓 离这儿几英里远
+There's a farmer of that name, lives some miles off,
+
+535
+00:41:25,719 --> 00:41:28,847
+往...马尔布鲁克方向
+in the direction of, uh, Milbrook.
+
+536
+00:41:28,975 --> 00:41:30,601
+偏僻的农场?
+Is it a lonely farm?
+
+537
+00:41:30,685 --> 00:41:32,687
+非常偏 先生
+Very lonely, sir.
+
+538
+00:41:32,812 --> 00:41:34,021
+那会不会有可能
+Then it is just possible
+
+539
+00:41:34,148 --> 00:41:35,608
+昨晚这儿发生的一切
+that the news of what happened here last night
+
+540
+00:41:35,733 --> 00:41:37,277
+还没传到那儿去
+has not reached them.
+
+541
+00:41:37,402 --> 00:41:39,153
+说不定 先生
+Maybe not, sir.
+
+542
+00:41:39,279 --> 00:41:40,947
+太棒了
+Excellent!
+
+543
+00:41:41,032 --> 00:41:43,785
+沃克
+Walker,
+
+544
+00:41:43,868 --> 00:41:45,078
+我想让你把这个便条
+I want you to take this note
+
+545
+00:41:45,161 --> 00:41:49,040
+交给艾尔里奇农场的亚伯斯拉内
+to a Mr. Abe Slaney of Elrige's Farm.
+
+546
+00:41:49,167 --> 00:41:51,670
+别说是我写的便条
+Do not say that the note is from me,
+
+547
+00:41:51,795 --> 00:41:53,839
+也不要提到昨晚这儿发生的事
+and make no mention of what happened here last night.
+
+548
+00:41:53,966 --> 00:41:56,051
+明白了吗?
+Now, you understand?
+
+549
+00:41:56,176 --> 00:41:58,595
+是的 先生
+Yes, sir.
+
+550
+00:41:58,679 --> 00:42:01,724
+谢谢你 沃克
+Thank you, Walker.
+
+551
+00:42:02,685 --> 00:42:10,236
+我预料会有人被我的便条邀来的
+I am expecting a visitor in answer to my note.
+
+552
+00:42:10,987 --> 00:42:14,157
+桑德斯 他会来见丘比特夫人
+Now, Saunders, he will ask for Mrs. Cubitt.
+
+553
+00:42:14,242 --> 00:42:17,203
+我要你带他到这儿来
+I want you to show him into this room.
+
+554
+00:42:17,287 --> 00:42:19,873
+还要这房子看上去一切正常
+I want this house to look quite normal,
+
+555
+00:42:20,000 --> 00:42:24,379
+你对所发生之事务必只字不提
+and you must not give anything away of what has happened.
+
+556
+00:42:24,465 --> 00:42:26,634
+好的 先生
+Very good, sir.
+
+557
+00:42:26,717 --> 00:42:29,845
+好了 我建议你们还是各司其职去吧
+Now, I suggest you return to your duties.
+
+558
+00:42:29,928 --> 00:42:34,183
+而卡休医生 我建议您去照看您的病人
+And, Dr. Carthew, I suggest you return to your patient.
+
+559
+00:42:35,728 --> 00:42:38,856
+对了 金太太
+Oh, Mrs. King,
+
+560
+00:42:38,941 --> 00:42:43,071
+您的女主人是无辜的
+your mistress is quite innocent.
+
+561
+00:43:06,268 --> 00:43:08,771
+你是怎么解开密码的?
+But how did you break the code?
+
+562
+00:43:08,856 --> 00:43:10,984
+你看看
+Well, you see,
+
+563
+00:43:11,109 --> 00:43:15,613
+一切密文的破解之路
+the rules which guide us in deciphering all secret writing
+
+564
+00:43:15,740 --> 00:43:17,409
+都在于字母E
+depend on the fact that E,
+
+565
+00:43:17,492 --> 00:43:23,248
+E是英语中最常见的字母
+E is the most common letter in the English language.
+
+566
+00:43:23,375 --> 00:43:24,876
+所以 可想而知 我们真走运
+So, you see, we were very fortunate
+
+567
+00:43:24,960 --> 00:43:28,380
+因为丘比特夫人名叫艾尔西
+that Mrs. Cubitt's name was Elsie,
+
+568
+00:43:28,465 --> 00:43:30,050
+在第二张字条里颇为明显
+and that it featured in the second message,
+
+569
+00:43:30,134 --> 00:43:36,600
+这样不光破解了字母E 还破解了L S跟I
+which gave us not only the E, but the L, the S and the I.
+
+570
+00:43:36,726 --> 00:43:39,103
+而接下来的
+Now, next, it seemed likely to us
+
+571
+00:43:39,186 --> 00:43:42,440
+两张字条像是提到了
+that two of the messages were appeals of some sort
+
+572
+00:43:42,567 --> 00:43:44,986
+丘比特先生
+to Mrs. Cubitt...
+
+573
+00:43:59,506 --> 00:44:03,344
+...加上T和G 字条写的就是:
+...by adding the T and the G, the message reads:
+
+574
+00:44:03,469 --> 00:44:09,141
+"在艾尔里奇 过来 艾尔西"
+"AT ELRIGE'S, COME ELSIE."
+
+575
+00:44:10,686 --> 00:44:12,980
+要是这个亚伯斯拉内就是凶手
+Well, if this Abe Slaney is indeed the murderer,
+
+576
+00:44:13,066 --> 00:44:15,193
+我们得立即行动逮捕他
+we must make an immediate move to arrest him.
+
+577
+00:44:15,318 --> 00:44:16,361
+不用慌张 探长
+Calm yourself, Inspector.
+
+578
+00:44:16,486 --> 00:44:18,655
+我想他随时都会来
+I expect him here at any moment.
+
+579
+00:44:18,782 --> 00:44:20,325
+可斯拉内怎么会来这儿?
+But why should Slaney come here?
+
+580
+00:44:20,408 --> 00:44:22,452
+因为我写信要他来
+Because I have written and asked him.
+
+581
+00:44:22,535 --> 00:44:24,704
+可他不会起疑心吗?
+But won't his suspicions be roused?
+
+582
+00:44:24,831 --> 00:44:26,124
+难道他不想逃跑吗?
+Will he not try to escape?
+
+583
+00:44:26,208 --> 00:44:27,209
+桑德斯?
+Saunders?
+
+584
+00:44:27,292 --> 00:44:31,046
+打扰了 先生 有位先生往这边来了
+Excuse me, sir, there's a gentleman approaching the house.
+
+585
+00:44:33,175 --> 00:44:35,260
+你觉得他带枪了吗?
+Do you think he'd be armed?
+
+586
+00:44:35,386 --> 00:44:38,013
+傻子才不带
+He's a fool if he's not.
+
+587
+00:44:52,367 --> 00:44:53,702
+您好 先生
+Good day, sir.
+
+588
+00:44:53,785 --> 00:44:55,328
+丘比特夫人在吗?
+Is Mrs. Cubitt at home?
+
+589
+00:44:55,412 --> 00:44:59,124
+我会为您通报 先生 请您进来
+I'll inquire, sir, if you'll step inside.
+
+590
+00:45:07,219 --> 00:45:09,221
+请问您尊姓大名?
+What name shall I say?
+
+591
+00:45:09,348 --> 00:45:11,976
+就说是个老朋友  她在等我
+Tell her it's an old friend. She's expecting me.
+
+592
+00:45:12,101 --> 00:45:14,854
+请您在书房稍等片刻
+If you'll wait in the library a moment.
+
+593
+00:45:31,168 --> 00:45:34,463
+好吧 先生们 看来你们是占到上风了
+Well, gentlemen, it looks like you've got the drop on me,
+
+594
+00:45:34,590 --> 00:45:36,885
+不过谁能告诉这是怎么回事?
+but what the hell is going on?
+
+595
+00:45:36,967 --> 00:45:39,094
+我想你就是亚伯斯拉内
+Abe Slaney, I believe.
+
+596
+00:45:39,178 --> 00:45:40,721
+是有怎么样 你又是哪根葱?
+What if I am, and who are you, anyway?
+
+597
+00:45:40,806 --> 00:45:42,058
+我的名字并不重要
+My name would mean nothing to you,
+
+598
+00:45:42,141 --> 00:45:44,060
+不过我想芝加哥警局的威尔逊哈格里夫
+though I suspect that of Wilson Hargreave
+
+599
+00:45:44,143 --> 00:45:47,021
+这个名字你该知道吧
+of the Chicago Police Department, will.
+
+600
+00:45:48,024 --> 00:45:51,444
+啊 看来的确知道
+Ah, I see that it does.
+
+601
+00:45:54,282 --> 00:45:57,827
+斯拉内先生 你该知道
+Mr. Slaney, you should know
+
+602
+00:45:57,952 --> 00:46:03,333
+艾尔西丘比特伤势正重
+that Mrs. Elsie Cubitt is very seriously ill.
+
+603
+00:46:03,460 --> 00:46:05,462
+鬼才信你
+I don't believe you.
+
+604
+00:46:05,589 --> 00:46:08,092
+这话骗小孩差不多
+This is some cheap trick.
+
+605
+00:46:08,217 --> 00:46:11,678
+艾尔西丘比特夫人一小时前刚给我写了张字条
+Mrs. Elsie Cubitt wrote me a note just an hour ago,
+
+606
+00:46:11,762 --> 00:46:13,806
+只有我才看得懂的字条
+a note that only I can understand.
+
+607
+00:46:13,891 --> 00:46:18,270
+若想人不懂 除非己莫写
+What one man can invent, another can discover:
+
+608
+00:46:19,023 --> 00:46:25,824
+"我来了 亚伯斯拉内 在艾尔里奇 来吧艾尔西"
+"I'M HERE, ABE SLANEY. AT ELRIGE'S, COME ELSIE."
+
+609
+00:46:25,949 --> 00:46:27,367
+你最后一张字条是
+And your last note to her:
+
+610
+00:46:27,492 --> 00:46:31,621
+"艾尔西 准备见上帝吧"
+"ELSIE PREPARE TO MEET THY GOD."
+
+611
+00:46:32,791 --> 00:46:35,293
+而这张
+And this.
+
+612
+00:46:35,419 --> 00:46:38,380
+是你写的?
+You wrote that note?
+
+613
+00:46:38,507 --> 00:46:39,717
+你说艾尔西受伤是骗我的
+But you were lying about Elsie.
+
+614
+00:46:39,842 --> 00:46:42,970
+斯拉内 你开枪打死希尔顿丘比特之后
+Slaney, when you shot and killed Hilton Cubitt,
+
+615
+00:46:43,053 --> 00:46:47,182
+艾尔西丘比特 伤心欲绝 想一死了之
+Elsie Cubitt, in her despair, attempted to kill herself,
+
+616
+00:46:47,268 --> 00:46:48,436
+现在还很危险
+and is now at death's door.
+
+617
+00:46:48,561 --> 00:46:49,729
+不
+No.
+
+618
+00:46:49,856 --> 00:46:51,691
+不 我要见她
+No, I gotta see her!
+
+619
+00:46:51,774 --> 00:46:54,360
+我得见她 我爱她 天地良心 艾尔西
+I gotta see her, I love her, for God's sake, Elsie!
+
+620
+00:46:54,444 --> 00:46:56,362
+我爱你 艾尔西
+I love you, Elsie!
+
+621
+00:46:56,448 --> 00:46:58,700
+艾尔西 艾尔西
+Elsie, Elsie!
+
+622
+00:46:58,825 --> 00:47:02,245
+我相信她从美国远走高飞就是为了躲开你
+I believe that she fled from America to avoid you.
+
+623
+00:47:02,370 --> 00:47:04,789
+而你尾随而来 让她经历了丧夫之痛
+Because you followed her and made her life a misery,
+
+624
+00:47:04,916 --> 00:47:06,460
+她还不得不面对
+she now lies under grave suspicion
+
+625
+00:47:06,585 --> 00:47:08,920
+谋杀亲夫的严重嫌疑
+of murdering the husband she loved.
+
+626
+00:47:09,048 --> 00:47:13,635
+至少你可以为她洗清罪名
+The least you can do is to clear her of that.
+
+627
+00:47:16,265 --> 00:47:19,310
+我想我目前能做到的就是
+I guess the very best case I can make for myself now
+
+628
+00:47:19,435 --> 00:47:22,730
+把赤裸裸的真相 告诉你们
+is to tell you the absolute, naked truth.
+
+629
+00:47:22,857 --> 00:47:24,025
+我有责任警告你
+It is my duty to warn you
+
+630
+00:47:24,108 --> 00:47:28,488
+这会作为对你不利的证据
+that it will be used against you.
+
+631
+00:47:28,615 --> 00:47:29,574
+我想你也许知道
+I guess you probably know
+
+632
+00:47:29,699 --> 00:47:33,036
+艾尔西的父亲是芝加哥最有势力的人
+that Elsie's father's the most powerful man in Chicago.
+
+633
+00:47:33,119 --> 00:47:37,749
+是芝加哥最有势力的犯罪分子之一
+One of the most powerful criminal men in Chicago.
+
+634
+00:47:37,876 --> 00:47:41,004
+就是他发明的跳舞小人
+It was he who invented the dancing men.
+
+635
+00:47:41,131 --> 00:47:43,384
+以前我们用来做暗号
+We used it as a code in the old days.
+
+636
+00:47:43,467 --> 00:47:45,302
+艾尔西还是个孩子时 我就认识她
+I've known Elsie since she was a child.
+
+637
+00:47:45,427 --> 00:47:47,179
+我和她订了婚
+She was promised to me.
+
+638
+00:47:47,306 --> 00:47:48,349
+我可能是威胁了她
+I may have threatened her,
+
+639
+00:47:48,474 --> 00:47:52,895
+可我绝不会碰她一根头发的
+but I wouldn't have touched a hair on her pretty head.
+
+640
+00:47:52,978 --> 00:47:57,608
+不过你说的对 她痛恨芝加哥的一切
+But you're right, she hated the whole Chicago business.
+
+641
+00:47:57,735 --> 00:48:00,780
+所以她就跑到欧洲去了
+That's why she ran away to Europe.
+
+642
+00:48:00,907 --> 00:48:03,827
+直到她嫁给了这个英国佬
+It was only after her marriage to this Englishman
+
+643
+00:48:03,910 --> 00:48:06,121
+我才发现了她的行踪
+that I was able to find out where she was.
+
+644
+00:48:06,248 --> 00:48:10,293
+我写信给她 可没收到回信
+I wrote to her, but I got no answer.
+
+645
+00:48:10,377 --> 00:48:12,712
+她把信烧了
+She burned your letter.
+
+646
+00:48:12,840 --> 00:48:17,761
+她在达比郡这儿过得很开心
+She was happy in her new life in Darbyshire.
+
+647
+00:48:17,845 --> 00:48:22,141
+我来英国是为了带她回家的
+I came here to England to take her home!
+
+648
+00:48:22,226 --> 00:48:23,978
+我给她留了言
+I sent her notes.
+
+649
+00:48:24,103 --> 00:48:26,522
+为了哄艾尔西回家 我想尽办法
+I did everything I could to coax Elsie away,
+
+650
+00:48:26,649 --> 00:48:31,195
+结果丧失了理智 我开始威胁她
+then my temper got the better of me and I began to threaten her.
+
+651
+00:48:31,322 --> 00:48:35,034
+不过昨天她给我写了回信
+But yesterday she sent me a letter!
+
+652
+00:48:35,160 --> 00:48:37,829
+她说等到他丈夫睡去之后 会下楼来
+She said she would come down when her husband was asleep
+
+653
+00:48:37,914 --> 00:48:41,293
+在书房尽头的窗户跟我谈谈
+and speak to me through the end window
+
+654
+00:48:41,376 --> 00:48:46,882
+要是我就这么离开 让她静静地生活就好了
+if I would go away afterwards and leave her in peace.
+
+655
+00:48:47,009 --> 00:48:53,642
+难道你还不明白吗?
+Can I make you see?
+
+656
+00:48:53,726 --> 00:48:57,229
+我从没像跟他在一起这样快乐过
+I've never been so happy as I've been here with him.
+
+657
+00:48:57,356 --> 00:48:59,442
+我爱他
+I love him.
+
+658
+00:49:01,861 --> 00:49:05,740
+亚伯 我想留下 我要留下
+Abe, I wanna stay, and I'm going to stay.
+
+659
+00:49:05,867 --> 00:49:08,161
+那你芝加哥的朋友怎么办?
+What about your friends in Chicago?
+
+660
+00:49:08,244 --> 00:49:10,121
+你的家人怎么办?
+What about your family?!
+
+661
+00:49:10,248 --> 00:49:11,750
+你管他们叫朋友?
+Friends do you call them;
+
+662
+00:49:11,875 --> 00:49:15,879
+一帮子凶手 劫匪 勒索犯 那算什么家?
+killers, robbers, extortionists, some family.
+
+663
+00:49:16,006 --> 00:49:18,217
+可咱们两个订婚了
+But you and I were engaged!
+
+664
+00:49:18,300 --> 00:49:21,011
+对不起 亚伯 那是父亲强迫我答应的
+I'm sorry, Abe, my father forced me into it.
+
+665
+00:49:21,095 --> 00:49:27,392
+跟你过那种生活 要我怎么能开心?
+How could I be happy with you in that life?!
+
+666
+00:49:27,478 --> 00:49:33,109
+请你离开吧 求你了 我求你了
+Please go away, please, I beg you.
+
+667
+00:49:33,236 --> 00:49:34,904
+你求我?
+You beg me?!
+
+668
+00:49:35,031 --> 00:49:36,950
+是
+Yes.
+
+669
+00:49:37,075 --> 00:49:38,076
+希尔顿这么好
+Hilton is such a good man.
+
+670
+00:49:38,201 --> 00:49:41,496
+要是让他卷入丑闻 我会心碎的
+It would break my heart if scandal ever touched him.
+
+671
+00:49:43,125 --> 00:49:46,461
+给你钱
+Here's money,
+
+672
+00:49:46,586 --> 00:49:48,755
+都在这儿了
+it's all that I have.
+
+673
+00:49:48,882 --> 00:49:53,429
+请你走吧
+Now, please go away.
+
+674
+00:49:55,474 --> 00:49:56,100
+不
+No!
+
+675
+00:49:56,225 --> 00:49:56,809
+你要跟我回家
+You're coming home!
+
+676
+00:49:56,934 --> 00:49:57,435
+不
+No!
+
+677
+00:49:57,560 --> 00:49:58,102
+你得跟我回去
+You're coming home!
+
+678
+00:49:58,227 --> 00:49:58,853
+不
+No!
+
+679
+00:49:58,978 --> 00:50:00,938
+真他...
+What the-
+
+680
+00:50:07,031 --> 00:50:08,616
+不
+No!
+
+681
+00:51:24,133 --> 00:51:28,470
+我想我们听得够多了 走吧
+I think we've heard enough for the moment, come along.
+
+682
+00:51:28,597 --> 00:51:30,558
+走之前能让我看看她吗?
+Can't I see her before I go?
+
+683
+00:51:30,683 --> 00:51:33,102
+谁也不能去看她
+Nobody can see her,
+
+684
+00:51:33,227 --> 00:51:37,606
+连我们都没这权利
+even we have not been given that privilege.
+
+685
+00:51:43,700 --> 00:51:46,619
+福尔摩斯先生
+Mr. Holmes,
+
+686
+00:51:46,703 --> 00:51:49,664
+我希望要是我再碰上什么大案
+I hope that if ever again I have an important case,
+
+687
+00:51:49,791 --> 00:51:53,587
+还能交好运 有你帮助
+I shall have the good fortune to have you by my side.
+
+688
+00:51:53,714 --> 00:51:57,259
+再会了 十分感谢
+Good afternoon, and thank you.
+
+689
+00:52:01,056 --> 00:52:02,141
+福尔摩斯?
+Holmes?
+
+690
+00:52:03,517 --> 00:52:06,562
+你那字条写的是什么?
+What did you write in that note?
+
+691
+00:52:07,982 --> 00:52:09,942
+看看你懂吗?
+See if you could read it.
+
+692
+00:52:13,364 --> 00:52:24,127
+"立-刻-赶-来"
+"COME-HERE-AT-ONCE,"
+
+693
+00:52:24,211 --> 00:52:27,297
+"立刻赶来"
+"COME HERE AT ONCE."
+
+694
+00:52:27,382 --> 00:52:31,428
+这也太简单了点
+How absurdly simple.
+
+695
+00:52:32,181 --> 00:52:33,933
+就这样 跳舞的小人们
+And so the dancing men,
+
+696
+00:52:34,016 --> 00:52:36,143
+在为恶多年后
+which had so often been the agents of evil,
+
+697
+00:52:36,268 --> 00:52:39,230
+终于站到了正义的一边
+were finally used on the side of justice.
+
+698
+00:52:39,357 --> 00:52:42,360
+亚伯斯拉内在达比法庭被判死刑
+Abe Slaney was condemned to death at the Darby assizes,
+
+699
+00:52:42,485 --> 00:52:44,654
+但他被改判为终身监禁
+but his sentence was changed to penal servitude
+
+700
+00:52:44,781 --> 00:52:47,826
+因为有特殊情形
+in consideration of mitigating circumstances
+
+701
+00:52:47,951 --> 00:52:53,373
+是希尔顿丘比特先生先开的枪
+in the certainty that Hilton Cubitt had fired the first shot.
+
+702
+00:52:53,458 --> 00:52:55,961
+丘比特夫人彻底恢复了健康
+Mrs. Cubitt made a complete recovery,
+
+703
+00:52:56,044 --> 00:53:00,966
+一直住在瑞都岭镇庄园
+and lives still at Ridling Thorpe Manor.
+
+704
+00:53:02,893 --> 00:53:11,448
+<font color="#4096d1">破烂熊字幕组 -==www.RagBear.com==- 欢迎加入</font>
+

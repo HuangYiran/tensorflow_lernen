@@ -1,0 +1,3495 @@
+1
+00:00:04,753 --> 00:00:06,422
+Sheppard呼叫Atlantis
+Atlantis,this is sheppard.
+
+2
+00:00:06,422 --> 00:00:07,881
+我正在接近星门
+I'm on approach to the gate.
+
+3
+00:00:07,881 --> 00:00:09,758
+收到
+Acknowledged.
+
+4
+00:00:09,758 --> 00:00:12,469
+自从我到飞马系以来 我在 嗯...
+Since I've been in pegasus,I have set up,like,what,
+
+5
+00:00:12,469 --> 00:00:14,847
+好几个星球上建立了研究站
+half a dozen research stations on various planets?
+
+6
+00:00:14,847 --> 00:00:20,310
+可我从没有见过你主动要去补给的
+And I don't remember you ever volunteering to run a resupply mission to any of them.
+
+7
+00:00:20,310 --> 00:00:21,854
+我可是个大忙人 Rodney
+I'm a busy man, Rodney.
+
+8
+00:00:21,854 --> 00:00:23,605
+我只是刚好有点时间
+I just happen to have a little free time.
+
+9
+00:00:23,605 --> 00:00:28,610
+而Mackenzie博士碰巧又在研究
+一个住在热带天堂里的原始部落
+And Dr.Mackenzie just happens to be studying a primitive tribe that lives in a tropical paradise,
+
+10
+00:00:28,610 --> 00:00:29,778
+他怎么说的来着?
+and has-- how did he put it?
+
+11
+00:00:29,778 --> 00:00:32,239
+未谙羞耻为何物?
+Little or no social inhibitions?
+
+12
+00:00:32,239 --> 00:00:34,825
+他们很友好
+Well,they were very friendly.
+
+13
+00:00:36,702 --> 00:00:38,370
+怎么搞的?
+What the hell?
+
+14
+00:00:38,370 --> 00:00:40,372
+怎么了?
+What is it?
+
+15
+00:00:42,791 --> 00:00:45,127
+我想刚刚有人打了我一枪
+I think somebody just took a shot at me.
+
+16
+00:00:45,127 --> 00:00:47,045
+有敌情 他们正在快速接近
+I've got contact.They're closing fast.
+
+17
+00:00:47,045 --> 00:00:48,589
+是Wraith吗?
+Was it wraith?
+
+18
+00:00:48,589 --> 00:00:51,341
+应该不是 但...
+I don't think so,but--
+
+19
+00:00:52,509 --> 00:00:54,928
+不管他们拿什么打我的
+那东西把我的系统短路了
+Whatever they're shooting me with just shorted my systems.
+
+20
+00:00:54,928 --> 00:00:58,056
+我没法启动武器
+I can't get weapons online.
+
+21
+00:01:03,479 --> 00:01:05,355
+你能回到星门吗?
+Can you make it back to the gate?
+
+22
+00:01:05,355 --> 00:01:06,732
+Sheppard!
+Sheppard!
+
+23
+00:01:06,732 --> 00:01:09,026
+Sheppard!
+Sheppard!
+
+24
+00:01:09,610 --> 00:01:11,028
+Rodney?
+Rodney?
+
+25
+00:01:11,028 --> 00:01:13,864
+Mckay?
+Mckay?
+
+26
+00:01:49,650 --> 00:01:57,282
+<font color=#38B0DE>Stargate Atlantis
+第4季 第5集</font>
+<font color=#38B0DE>Stargate Atlantis
+Season 4 Episode 05</font>
+
+27
+00:02:31,650 --> 00:02:35,821
+<font color="#ffff00">旅行者</font>
+<font color="#ffff00">Travelers</font>
+
+28
+00:02:36,864 --> 00:02:38,615
+船很不错
+Nice ship.
+
+29
+00:02:38,615 --> 00:02:40,367
+就是有点...
+A little bit of a...
+
+30
+00:02:40,367 --> 00:02:44,830
+有点需要修修了 但是很有潜质
+(fixer-upper只翻修以后还有价值的房子)
+Little bit of a fixer-upper,but I can see the potential.
+
+31
+00:02:50,836 --> 00:02:53,297
+我不是说大规模的
+I'm not talking about anything drastic,you know.
+
+32
+00:02:53,297 --> 00:02:57,301
+也许只要刷刷漆
+放两个抱枕作装饰
+Maybe just a paint job,some throw pillows.
+
+33
+00:03:02,180 --> 00:03:06,560
+我想你们不打算告诉我
+这是怎么回事吧?
+Look,I don't suppose you want to tell me what's going on here?
+
+34
+00:03:06,560 --> 00:03:08,478
+下面是这样的
+Here's how we're going to do this.
+
+35
+00:03:08,478 --> 00:03:10,647
+我问 你答
+I'm going to ask you questions,and you're going to give me answers.
+
+36
+00:03:10,647 --> 00:03:12,149
+够简单了吧?
+Is that simple enough for you?
+
+37
+00:03:12,149 --> 00:03:13,650
+嗯
+Sure.
+
+38
+00:03:13,650 --> 00:03:17,446
+你是谁? 你从哪来?
+你如何得到你的飞船的?
+Who are you,where are you from,and where did you get your ship?
+
+39
+00:03:17,446 --> 00:03:23,035
+真是巧 我也要问一样的问题
+See,that's a funny coincidence,because I was going to ask you the same exact questions.
+
+40
+00:03:27,039 --> 00:03:31,209
+关键是我的手没有被绑在后面
+[Punch] The difference is I'm not the one whose hands are tied behind his back.
+
+41
+00:03:31,209 --> 00:03:37,299
+那么 我再问一遍 你是谁?
+你从哪来?你如何得到你的飞船的?
+So,again,who are you,where are you from,and where did you get your ship?
+
+42
+00:03:41,011 --> 00:03:41,887
+出什么事了?
+What happened?
+
+43
+00:03:41,887 --> 00:03:42,971
+我不太确定
+I'm not entirely sure.
+
+44
+00:03:42,971 --> 00:03:45,307
+看上去 Sheppard的Jumper
+在到达星门之前被攻击了
+Looks like Sheppard's jumper was attacked before he reaches the space gate.
+
+45
+00:03:45,307 --> 00:03:46,141
+谁攻击的?
+By who?
+
+46
+00:03:46,141 --> 00:03:48,393
+那个星球上的人
+还在刀耕火种的时代
+Well,the people on the planet aren't much past mud huts and blow darts,
+
+47
+00:03:48,393 --> 00:03:50,270
+所以我们可以假定不是他们
+so we can assume they had nothing to do with it.
+
+48
+00:03:50,270 --> 00:03:55,484
+就在我们失去联系以后
+星门附近有一个和打开超空间窗口
+Just after we lost contact,there was a short burst of radiation in the vicinity of the gate,
+
+49
+00:03:55,484 --> 00:03:57,945
+很一致的短暂辐射爆发
+consistent with the opening of a hyperspace window.
+
+50
+00:03:57,945 --> 00:03:58,654
+是Wraith吗?
+Wraith?
+
+51
+00:03:58,654 --> 00:03:59,613
+Sheppard说不是
+Sheppard didn't seem to think so,
+
+52
+00:03:59,613 --> 00:04:03,158
+从Jumper上接收的一点
+传感器数据可以证实这一点
+and what little sensor data we've been able to pick up from the jumper seems to confirm it.
+
+53
+00:04:03,158 --> 00:04:04,701
+能量特征完全不同
+The energy signature's all wrong.
+
+54
+00:04:04,701 --> 00:04:07,955
+而且也和古人的不一样
+也就是排除了复制者
+It's inconsistent with ancient technology as well,which pretty much rules out the replicators.
+
+55
+00:04:07,955 --> 00:04:11,083
+我们知道的本星系的其他种族
+都没有超空间技术
+We know of no other peoples in this galaxy that possess hyperspace technology.
+
+56
+00:04:11,083 --> 00:04:14,211
+当然 没有人能在被洗劫的时候
+达到那么高级的水平
+Of course not.No one reaches anywhere near that level of advancement without being culled.
+
+57
+00:04:14,211 --> 00:04:16,588
+那么是谁呢?
+So then who was it?
+
+58
+00:04:19,132 --> 00:04:21,760
+我可以一整天都干这个
+I could do this all day.
+
+59
+00:04:22,678 --> 00:04:26,056
+你的关节最后会酸的
+Oh,your knuckles'll get sore eventually.
+
+60
+00:04:31,937 --> 00:04:33,355
+他有说什么吗?
+Has he said anything?
+
+61
+00:04:33,355 --> 00:04:34,815
+只有他的名字
+Only his name.
+
+62
+00:04:34,815 --> 00:04:37,359
+Reed Richards
+(神奇四侠主角之一)
+Reed richards.
+
+63
+00:04:37,359 --> 00:04:39,069
+他叫Sheppard
+His name is sheppard.
+
+64
+00:04:39,069 --> 00:04:42,698
+我们截获了他最后的无线电通讯
+We intercepted part of his last radio transmission.
+
+65
+00:04:42,698 --> 00:04:45,826
+我还不知道你的名字呢
+I didn't catch your name.
+
+66
+00:04:46,368 --> 00:04:49,538
+你可以叫我Larrin
+You can call me larrin.
+
+67
+00:04:49,538 --> 00:04:51,707
+你真的应该合作
+You really should cooperate.
+
+68
+00:04:51,707 --> 00:04:54,960
+如果伤害太大就可惜了
+It would be a shame to have to do too much damage.
+
+69
+00:04:54,960 --> 00:04:57,379
+我同意
+I agree.
+
+70
+00:04:57,754 --> 00:05:02,509
+如果你们告诉我你们是谁
+和你们的意图
+Maybe if you guys tell me who you are and what you want,
+
+71
+00:05:02,509 --> 00:05:04,052
+我们可以达成协议
+we could work out some kind of a deal.
+
+72
+00:05:04,052 --> 00:05:07,264
+那就不要吊起我的胃口
+然后扫我的兴
+Well,don't get my hopes up and then disappoint me.
+
+73
+00:05:07,264 --> 00:05:09,474
+和他说说上一个让我失望的人
+后来怎么了
+Tell him what happened to the last man that disappointed me.
+
+74
+00:05:09,474 --> 00:05:10,642
+我们不知道
+We don't know.
+
+75
+00:05:10,642 --> 00:05:12,644
+从没找到他的尸体
+We never found his body.
+
+76
+00:05:12,644 --> 00:05:16,148
+我猜你(Larrin)把他抛到了宇宙里
+We assumed you blew him out into space.
+
+77
+00:05:16,648 --> 00:05:18,608
+我懂了
+I get it.
+
+78
+00:05:18,608 --> 00:05:20,736
+好的
+Good.
+
+79
+00:05:20,736 --> 00:05:22,696
+带上他
+Bring him.
+
+80
+00:05:24,322 --> 00:05:26,450
+起来
+Get up.
+
+81
+00:05:36,918 --> 00:05:38,587
+另一种折磨方式?
+Another form of torture?
+
+82
+00:05:38,587 --> 00:05:40,589
+当你像我们一样长时间呆在宇宙里
+When you spend as much time in space as we do,
+
+83
+00:05:40,589 --> 00:05:43,759
+你就很难吃到新鲜食物
+you don't get a lot of fresh food.
+
+84
+00:05:43,759 --> 00:05:48,805
+多长时间?
+How much time are we talking about?
+
+85
+00:05:51,349 --> 00:05:53,810
+这应该是一个对话 是吧?
+This is a conversation,right?
+
+86
+00:05:53,810 --> 00:05:55,937
+双向的
+A two-way street?
+
+87
+00:05:55,937 --> 00:05:58,982
+这就是我们的家
+This is our home.
+
+88
+00:05:59,858 --> 00:06:00,734
+这艘飞船?
+This ship?
+
+89
+00:06:00,734 --> 00:06:02,486
+还有其他类似的飞船
+And others like it.
+
+90
+00:06:02,486 --> 00:06:05,405
+我们是旅行者
+We're travelers.
+
+91
+00:06:05,405 --> 00:06:07,741
+你们一直住在宇宙空间
+You live in space all the time.
+
+92
+00:06:07,741 --> 00:06:11,578
+在需要时我们才降落
+比如 补给和交易时
+We land on planets when we need to,for supplies,trade.
+
+93
+00:06:11,578 --> 00:06:13,538
+其他时候 我们保持移动
+The rest of the time,we keep moving.
+
+94
+00:06:13,538 --> 00:06:15,499
+躲避Wraith吗?
+From the wraith?
+
+95
+00:06:15,499 --> 00:06:18,043
+也许开始时是的
+That may have been how it started,
+
+96
+00:06:18,043 --> 00:06:21,046
+但现在这就是我们的生活
+but now it's just who we are.
+
+97
+00:06:21,046 --> 00:06:23,590
+没有别的意思 Larrin
+Well,no offense,larrin.
+
+98
+00:06:23,590 --> 00:06:25,801
+但这听上去一点都不像生活
+It doesn't sound like much of a life.
+
+99
+00:06:25,801 --> 00:06:29,137
+做群居动物也不是生活
+Being a herd animal isn't much of a life.
+
+100
+00:06:29,137 --> 00:06:34,601
+而且 这些食物包含了必须的营养
+Besides,the food has all the nutrients required.
+
+101
+00:06:34,601 --> 00:06:40,690
+听上去有点唐突
+但是这东西味道不太好
+Well,as tempting as that sounds,my jaw's a little sore right now.
+
+102
+00:06:40,690 --> 00:06:43,360
+事情并不总是这样
+Things like that are necessary from time to time.
+
+103
+00:06:43,360 --> 00:06:45,570
+虽然这不是获取信息
+最有效的方式
+Although it's not the most efficient way of getting information,
+
+104
+00:06:45,570 --> 00:06:48,907
+但这有助于人理解...
+it does help people to understand...
+
+105
+00:06:49,533 --> 00:06:51,284
+他们的处境
+their situation.
+
+106
+00:06:51,284 --> 00:06:54,955
+我的处境取决于你的仁慈
+My situation being completely at your mercy.
+
+107
+00:06:54,955 --> 00:06:56,665
+没错
+Exactly.
+
+108
+00:06:56,665 --> 00:06:59,584
+不管怎样 我了解你超过你的想象
+Anyway,I know more about you than you think.
+
+109
+00:06:59,584 --> 00:07:01,670
+真的?
+Really?
+
+110
+00:07:01,670 --> 00:07:06,591
+比如说 我知道你带有
+可以操作Lantian科技的基因
+For instance,I know that you carry the gene required to operate lantian technology.
+
+111
+00:07:06,591 --> 00:07:09,010
+我有什么?
+I've got the what?
+
+112
+00:07:09,427 --> 00:07:11,680
+Sheppard 我知道你有你的秘密
+Look,sheppard,I know you have your secrets,
+
+113
+00:07:11,680 --> 00:07:14,850
+如果你好好表现
+我能让你保留一些
+and if you stay on my good side,I may even let you keep a few of them.
+
+114
+00:07:14,850 --> 00:07:18,270
+但是如果你继续装蒜
+However,if you continue to play ignorant with me,
+
+115
+00:07:18,270 --> 00:07:21,940
+我真的会把你抛到太空中去
+I really will jettison you out into space.
+
+116
+00:07:21,940 --> 00:07:25,694
+一段时间以来我们听到传言说
+一群新的人类到达了这个星系
+For some time now,we've been hearing rumors about a new group of humans in the galaxy
+
+117
+00:07:25,694 --> 00:07:29,114
+他们用古人的技术和Wraith开战
+using the technology of the ancestors to do battle with the wraith.
+
+118
+00:07:29,114 --> 00:07:34,035
+所以我们在一些空间星门附近
+设置了间谍卫星网络
+So we set up a network of spy satellites around dozens of worlds with space gates,
+
+119
+00:07:34,035 --> 00:07:36,830
+希望能有收获
+hoping for an encounter.
+
+120
+00:07:36,830 --> 00:07:38,248
+终于我们成功了
+Eventually we got lucky.
+
+121
+00:07:38,248 --> 00:07:41,710
+然后在我们第一次见面的时候
+你攻击了我并解除了我船上的武器
+And in the first meeting between our people,you attack me and disarm my ship.
+
+122
+00:07:41,710 --> 00:07:44,963
+你要使用星门
+我不能允许
+You were going through the gate,and I couldn't let that happen.
+
+123
+00:07:44,963 --> 00:07:50,886
+我们对任何能操作Lantian技术
+的人都有特别的兴趣
+You see,anyone capable of operating lantian technology is of particular interest to us.
+
+124
+00:07:50,886 --> 00:07:52,929
+所以你们取了我的血样
+That's why you took a sample of my blood.
+
+125
+00:07:52,929 --> 00:07:59,269
+我们正在做一个控制界面适配器
+它需要小量的遗传物质来工作
+We're working on a control interface adapter that requires a small amount of necessary genetic material.
+
+126
+00:07:59,269 --> 00:08:01,980
+我么需要用你的血液做测试
+We needed your blood to test it.
+
+127
+00:08:01,980 --> 00:08:04,524
+我猜你们进行的不是很顺利
+I'm going to guess it didn't go so well.
+
+128
+00:08:04,524 --> 00:08:05,734
+为什么这么说?
+Why would you say that?
+
+129
+00:08:05,734 --> 00:08:07,360
+如果不是的话
+你们就不需要我了
+Then you wouldn't have any use for me anymore.
+
+130
+00:08:07,360 --> 00:08:09,404
+不要低估你自己
+Don't underestimate yourself.
+
+131
+00:08:09,404 --> 00:08:13,366
+你的用处可大着呢
+There's all kinds of useful things you could do for me.
+
+132
+00:08:13,366 --> 00:08:16,411
+指挥官 我们快要到达坐标
+Commander,we're approaching the coordinates.
+
+133
+00:08:16,411 --> 00:08:17,245
+明白
+Understood.
+
+134
+00:08:17,245 --> 00:08:19,456
+跳出超空间
+Take us out of hyperspace.
+
+135
+00:08:19,456 --> 00:08:20,749
+你是对的
+Of course you're right.
+
+136
+00:08:20,749 --> 00:08:23,418
+控制界面还没有完成
+The interface isn't fully operational yet.
+
+137
+00:08:23,418 --> 00:08:26,171
+跟我来
+Come with me.
+
+138
+00:08:28,673 --> 00:08:30,634
+这是Nevik 我的首席科学官
+Nevik,my chief science officer,
+
+139
+00:08:30,634 --> 00:08:33,929
+他坚持我们能更好的完善这个界面
+insists that we have a much better chance of perfecting the interface
+
+140
+00:08:33,929 --> 00:08:37,307
+如果我们能对已经启动的
+if we reverse-engineer it using lantian technology
+
+141
+00:08:37,307 --> 00:08:38,850
+Lantian科技进行反向工程
+that's already been initialized.
+
+142
+00:08:38,850 --> 00:08:42,604
+我连反向工程是什么都不知道
+I don't even know what reverse engineering is.
+
+143
+00:08:42,604 --> 00:08:45,148
+哦 你们想用我的飞船
+Oh,you want to use my ship.
+
+144
+00:08:45,148 --> 00:08:47,567
+不是
+Not exactly.
+
+145
+00:08:49,653 --> 00:08:51,446
+嘿
+Hey!
+
+146
+00:08:56,076 --> 00:08:58,578
+启动护盾
+Activate the force shield.
+
+147
+00:09:01,623 --> 00:09:04,834
+Sheppard 你能听见吗?
+Sheppard,can you hear me?
+
+148
+00:09:04,834 --> 00:09:06,920
+你想告诉我你在做什么吗?
+You mind telling me what you're doing?
+
+149
+00:09:06,920 --> 00:09:09,256
+和你做笔交易
+Offering you a deal.
+
+150
+00:09:09,256 --> 00:09:12,300
+打开机舱[??BSG里怎么翻的??]门
+Open the hanger bay doors.
+
+151
+00:09:19,766 --> 00:09:23,103
+这可不对
+This is just not right.
+
+152
+00:09:23,103 --> 00:09:24,020
+别担心
+Don't worry.
+
+153
+00:09:24,020 --> 00:09:28,400
+只要护盾不出故障你就没有危险
+You're safe as long as the force shield doesn't malfunction,and that almost never happens.
+
+154
+00:09:28,400 --> 00:09:30,819
+你为什么要这样做?
+Why are you doing this?
+
+155
+00:09:30,819 --> 00:09:32,487
+你想知道为什么?
+You wanted to know what this is all about.
+
+156
+00:09:32,487 --> 00:09:35,198
+向下看看
+Look beneath you.
+
+157
+00:09:37,951 --> 00:09:40,495
+我猜你认得这个技术
+I'm assuming you recognize the technology.
+
+158
+00:09:40,495 --> 00:09:42,247
+那是一个Latian战舰
+It's a lantian battleship.
+
+159
+00:09:42,247 --> 00:09:43,873
+它已经休眠了几千年了
+It's been dormant for thousands of years,
+
+160
+00:09:43,873 --> 00:09:47,752
+而你要帮我让它工作起来
+and you're going to help me get it operational again.
+
+161
+00:09:59,973 --> 00:10:03,935
+你们没有想过他们弃船
+肯定是有充分理由的?
+Has it occurred to you people they might have abandoned the ship for a good reason in the first place?
+
+162
+00:10:03,935 --> 00:10:05,145
+我们知道原因
+We know the reason.
+
+163
+00:10:05,145 --> 00:10:06,980
+我们访问了日志
+We were able to access the ship's logs.
+
+164
+00:10:06,980 --> 00:10:08,398
+他们被Wraith攻击了
+They were attacked by the wraith.
+
+165
+00:10:08,398 --> 00:10:10,984
+他们失去了通讯系统
+并且护盾正在减弱
+They lost communication,and the shields were failing.
+
+166
+00:10:10,984 --> 00:10:14,779
+引擎也受到损伤
+但是他们逃入了超空间
+The engines were damaged as well,but they managed to escape into hyperspace.
+
+167
+00:10:14,779 --> 00:10:18,158
+然后他们发现他们的主推进器
+在发出致命的辐射
+Then they realized that their main drive was giving off deadly radiation.
+
+168
+00:10:18,158 --> 00:10:19,826
+他们被迫弃船
+They were forced to abandon ship.
+
+169
+00:10:19,826 --> 00:10:23,246
+他们想回来修复
+但是从来没有机会
+They intended to return and effect repairs,but never got the chance.
+
+170
+00:10:23,246 --> 00:10:29,044
+从那以后这艘船就以一个200年的
+椭圆轨道围绕附近的一个矮星旋转
+The ship's been drifting in a 200-year elliptical orbit around a nearby dwarf star ever since.
+
+171
+00:10:29,044 --> 00:10:31,296
+那么 它从没被修复
+So it's never been fixed.
+
+172
+00:10:31,296 --> 00:10:32,339
+不是
+No.
+
+173
+00:10:32,339 --> 00:10:34,049
+我不想明说...
+I hate to point out the obvious,
+
+174
+00:10:34,049 --> 00:10:37,552
+但是我帮你的一个条件是
+你不杀我
+but one of the reasons I agreed to help you was so that you wouldn't kill me.
+
+175
+00:10:37,552 --> 00:10:39,054
+如果我要死在辐射中...
+If I'm going to die of radiation anyway--
+
+176
+00:10:39,054 --> 00:10:40,096
+别担心
+Don't worry.
+
+177
+00:10:40,096 --> 00:10:42,766
+我们设立了护盾发生器
+以保护关键的区域
+We've set up shield emitters to protect key areas of the ship,
+
+178
+00:10:42,766 --> 00:10:46,311
+而且我们有辐射探测器
+and we've all got radiation detectors.
+
+179
+00:10:48,021 --> 00:10:48,938
+带他到舰桥
+Take him to the bridge.
+
+180
+00:10:48,938 --> 00:10:50,648
+从次光速推进器开始
+Start with sub-light propulsion.
+
+181
+00:10:50,648 --> 00:10:52,484
+我去检查发生器
+I'll go check the emitters.
+
+182
+00:10:52,484 --> 00:10:55,362
+我可以弄一个吗?
+Don't think I could get one of those,too,do you?
+
+183
+00:10:59,532 --> 00:11:01,326
+这里
+Here.
+
+184
+00:11:03,912 --> 00:11:08,166
+这艘船可有一万年历史了
+You know,this ship is 10,000 years old.
+
+185
+00:11:08,166 --> 00:11:11,378
+我只是说如果它不工作
+不是我的错
+I'm just saying,for the record,if it doesn't work,it's not my fault.
+
+186
+00:11:11,378 --> 00:11:14,464
+你做就好了
+Just get on with it.
+
+187
+00:11:20,595 --> 00:11:21,596
+太神奇了
+Amazing.
+
+188
+00:11:21,596 --> 00:11:24,599
+我试验了两个月
+都没能启动这些系统
+I've been trying for two months to activate these systems.
+
+189
+00:11:24,599 --> 00:11:27,102
+我要调整界面适应神经输入
+I need to calibrate the interface for neural input.
+
+190
+00:11:27,102 --> 00:11:29,604
+你可以从前进开始
+Why don't you start by moving the ship forward?
+
+191
+00:11:29,604 --> 00:11:30,980
+你确定?
+You sure about that?
+
+192
+00:11:30,980 --> 00:11:32,565
+我们就是为这个来的
+That's why we're here.
+
+193
+00:11:32,565 --> 00:11:36,111
+你开飞船 我记录输入
+然后复制它们
+You fly the ship,and I record the inputs so I can replicate them.
+
+194
+00:11:36,111 --> 00:11:38,696
+- 好的 但是...
+- 够了
+-Okay,but--
+-enough.
+
+195
+00:11:38,696 --> 00:11:41,241
+该死的 快开
+Fly the damn ship.
+
+196
+00:11:41,825 --> 00:11:43,660
+好的
+Right.
+
+197
+00:11:44,369 --> 00:11:48,957
+我刚才想说 你说"从前进开始"
+I was just going to say,you said "start by moving the ship forward,
+
+198
+00:11:48,957 --> 00:11:52,585
+但你应该说 "先启动惯性消除"
+" when you should have said,"start by initializing the inertial dampeners.
+
+199
+00:11:52,585 --> 00:11:54,921
+等一下!
+" Wait!
+
+200
+00:12:05,765 --> 00:12:08,059
+我朋友有一把一模一样的枪
+I have a friend who's got a gun just like this.
+
+201
+00:12:08,059 --> 00:12:09,644
+我终于知道他从哪弄来的了
+I always wondered where he got it.
+
+202
+00:12:09,644 --> 00:12:11,813
+我会杀了你的
+I'm going to kill you.
+
+203
+00:12:16,568 --> 00:12:18,903
+Silas 发生了什么?
+Silas,what happened?
+
+204
+00:12:20,738 --> 00:12:22,490
+Nevik上面怎么了?
+[Groans] Nevik,what's going on up there?
+
+205
+00:12:22,490 --> 00:12:25,952
+对不起 你的人现在没法说话
+Sorry,your people aren't available right now.
+
+206
+00:12:25,952 --> 00:12:27,745
+Sheppard 你在做什么?
+Sheppard,what are you doing?
+
+207
+00:12:27,745 --> 00:12:31,666
+你叫我开飞船 我正在开飞船
+You said fly the ship,and I'm flying the ship.
+
+208
+00:12:40,592 --> 00:12:41,926
+我们说好了的
+We had a deal.
+
+209
+00:12:41,926 --> 00:12:44,888
+我准备让你走以换取你的帮助
+I was prepared to let you go in exchange for your help.
+
+210
+00:12:44,888 --> 00:12:47,390
+抱歉 我还没相信过绑架并折磨我
+I'm sorry,I've never been able to trust anyone who kidnaps me
+
+211
+00:12:47,390 --> 00:12:51,144
+还威胁要把扔到宇宙中的人
+and tortures me and threatens to blow me into space.
+
+212
+00:12:58,067 --> 00:12:59,277
+我们一无所获
+We've got nothing.
+
+213
+00:12:59,277 --> 00:13:01,196
+下面没有残骸 也没有发射器信号
+There's no wreckage,no transponder signal.
+
+214
+00:13:01,196 --> 00:13:03,031
+如果他在下面
+我们现在就该找到他了
+If he was down there,we would have found him by now.
+
+215
+00:13:03,031 --> 00:13:03,990
+那么他在哪?
+Then where is he?
+
+216
+00:13:03,990 --> 00:13:05,658
+他不在轨道上 也不在星球上
+He's not in orbit,and he's not on the planet,
+
+217
+00:13:05,658 --> 00:13:09,996
+那么唯一逻辑的假设是
+攻击他的人在跳跃前把他带上了船
+so the only logical assumption is that whoever attacked him must have brought him onboard before they jumped into hyperspace.
+
+218
+00:13:09,996 --> 00:13:11,164
+那么下一步怎么办?
+So,what's the next step?
+
+219
+00:13:11,164 --> 00:13:13,249
+没有下一步
+There is no next step.
+
+220
+00:13:13,249 --> 00:13:14,709
+我们没有办法追踪他
+Look,we have no way of tracing him.
+
+221
+00:13:14,709 --> 00:13:16,544
+他现在可能在任何地方
+He could be anywhere in the galaxy by now.
+
+222
+00:13:16,544 --> 00:13:20,215
+很抱歉但是有时候我们无能为力
+I'm sorry,but sometimes there is just nothing we can do.
+
+223
+00:13:20,673 --> 00:13:24,052
+Sheppard 我要你让飞船跳出超空间
+Sheppard,I want you to drop this ship out of hyperspace.
+
+224
+00:13:24,052 --> 00:13:25,803
+我不会的
+I don't think so.
+
+225
+00:13:25,803 --> 00:13:27,138
+听我说
+Listen to me.
+
+226
+00:13:27,138 --> 00:13:29,766
+我关闭了保护你所在区域
+的护盾发生器
+I've shut off the shield emitters protecting your areas of the ship.
+
+227
+00:13:29,766 --> 00:13:34,020
+现在舰桥充满了辐射
+Right now,the bridge is being flooded with radiation.
+
+228
+00:13:36,189 --> 00:13:38,066
+你在虚张声势
+You're bluffing.
+
+229
+00:13:38,066 --> 00:13:41,653
+你不会牺牲你自己的人
+You'd never sacrifice your own people.
+
+230
+00:13:47,742 --> 00:13:48,993
+听着 我不想杀你
+Look,I don't want to kill you,
+
+231
+00:13:48,993 --> 00:13:53,748
+但是如果你不交出飞船的控制权
+我别无选择
+but if you don't turn over the controls of this ship,I'll have no choice.
+
+232
+00:14:06,719 --> 00:14:08,763
+你很令我惊讶 Sheppard
+You surprise me,sheppard.
+
+233
+00:14:08,763 --> 00:14:11,349
+只要我没有让你失望
+Well,as long as I didn't disappoint you.
+
+234
+00:14:11,349 --> 00:14:14,227
+没有 我知道你会反抗
+Oh,no,I knew you'd make some sort of a move.
+
+235
+00:14:14,227 --> 00:14:18,231
+只是我没想到会是这么..
+I just wasn't expecting anything quite so...
+
+236
+00:14:18,231 --> 00:14:20,066
+聪明? 创新?
+Clever? Creative?
+
+237
+00:14:20,066 --> 00:14:21,401
+鲁莽
+Reckless.
+
+238
+00:14:21,401 --> 00:14:24,404
+你有可能把我们都害死
+包括你自己
+You could have killed all of us,including yourself.
+
+239
+00:14:24,404 --> 00:14:27,699
+我有一次把F16加速到16g
+而没有昏过去
+I once pulled 11 gs in an f-16 without passing out.
+
+240
+00:14:27,699 --> 00:14:28,992
+我知道我有把握
+I figured I had a shot.
+
+241
+00:14:28,992 --> 00:14:30,493
+看来 我低估了你
+Well,I underestimated you.
+
+242
+00:14:30,493 --> 00:14:31,869
+我也这么觉得
+I feel the same way.
+
+243
+00:14:31,869 --> 00:14:34,914
+[???]
+I mean,you've got the whole tough-as-nails routine down pat,
+
+244
+00:14:34,914 --> 00:14:38,418
+但是把自己的人
+暴露在致命的辐射中...
+but exposing your own people to killer radiation...
+
+245
+00:14:38,418 --> 00:14:42,422
+只有很特别的女人才会 不是吗?
+it takes a special kind of lady to do that,doesn't it?
+
+246
+00:14:42,422 --> 00:14:44,424
+Larrin
+Larrin...
+
+247
+00:14:47,677 --> 00:14:48,678
+事情不太好
+it's not good.
+
+248
+00:14:48,678 --> 00:14:52,640
+他关闭了推进和导航系统
+He shut down the propulsion and navigation system before he turned over the bridge.
+
+249
+00:14:52,640 --> 00:14:54,851
+当然了
+Of course he did.
+
+250
+00:14:54,851 --> 00:14:57,312
+你有收集到足够的数据
+来完成控制界面吗?
+Did you collect enough data to finish the control interface?
+
+251
+00:14:57,312 --> 00:14:58,563
+我不知道 也许吧
+I don't know.Maybe.
+
+252
+00:14:58,563 --> 00:15:02,108
+Nevik 如果你做不成
+我们就被困在这了
+Nevik,if you can't do this,we're stranded.
+
+253
+00:15:03,318 --> 00:15:04,444
+他怎么办?
+What about him?
+
+254
+00:15:04,444 --> 00:15:06,195
+他不能再接近舰桥
+He's not going anywhere near that bridge again.
+
+255
+00:15:06,195 --> 00:15:07,280
+不能信任他
+He can't be trusted.
+
+256
+00:15:07,280 --> 00:15:10,366
+不过我们不能启动系统
+他会和我们一起死在这
+If we can't bring the system back online,he'll die out here like the rest of us.
+
+257
+00:15:10,366 --> 00:15:11,451
+问题是
+That's the problem.
+
+258
+00:15:11,451 --> 00:15:15,079
+他看上去像是准备死的人吗?
+Does he look like a man who thinks he's going to die?
+
+259
+00:15:16,789 --> 00:15:19,042
+检查次空间通讯阵列
+Check the subspace communications array.
+
+260
+00:15:19,042 --> 00:15:21,753
+古人在战争中失去了通讯系统
+The ancients lost the communications in the battle with the wraith.
+
+261
+00:15:21,753 --> 00:15:23,963
+它从没被修复
+The system was never repaired.
+
+262
+00:15:23,963 --> 00:15:26,591
+检查一下
+Check it.
+
+263
+00:15:41,939 --> 00:15:43,399
+怎么了?
+What have you got?
+
+264
+00:15:43,399 --> 00:15:45,526
+记得我说过我们无能为力吗?
+Ah,remember how I said sometimes there's nothing we can do?
+
+265
+00:15:45,526 --> 00:15:50,031
+我是对的 只是这次不适用
+I was right about that,only it turns out this is not one of those times.
+
+266
+00:15:50,031 --> 00:15:50,990
+你找到他了?
+You found him?
+
+267
+00:15:50,990 --> 00:15:53,951
+实际上是他找到我们了 听
+Hmm,more like he found us.Listen to this.
+
+268
+00:15:55,161 --> 00:15:57,372
+这是次空间的声音
+That is the sound of subspace.
+
+269
+00:15:57,372 --> 00:16:00,458
+它大部分是由多种辐射
+造成的随机噪声
+Now,it's mostly just random noise generated by various forms of radiation,
+
+270
+00:16:00,458 --> 00:16:02,460
+但是万能的古人
+but the ancients,in their infinite wisdom,
+
+271
+00:16:02,460 --> 00:16:05,755
+编写了一个程序来检测人造样式
+created a program that could sniff out artificial patterns.
+
+272
+00:16:05,755 --> 00:16:08,925
+这无疑是它们远距探测
+高级生命形态的方式
+It's no doubt a long-range means of detecting advanced life-forms,
+
+273
+00:16:08,925 --> 00:16:10,301
+有点像我们的SETI程序
+(通过分布式计算寻找外星通讯)
+kind of like our seti program,
+
+274
+00:16:10,301 --> 00:16:12,845
+只是古人的更强大
+因为他们使用次空间
+only much more powerful because it operates through subspace.
+
+275
+00:16:12,845 --> 00:16:15,473
+不管怎样 程序检测到了这个
+Anyway,it picked up this.
+
+276
+00:16:18,643 --> 00:16:19,519
+这是什么?
+What is it?
+
+277
+00:16:19,519 --> 00:16:20,478
+是Sheppard
+That's sheppard.
+
+278
+00:16:20,478 --> 00:16:22,188
+我不知道为什么
+他没发送一个普通消息
+I do not know why he didn't just send a regular message.
+
+279
+00:16:22,188 --> 00:16:24,065
+也许他用的是一个坏的发送机
+Maybe he was dealing with a damaged transmitter,
+
+280
+00:16:24,065 --> 00:16:27,318
+或者他想在不被发现的情况下
+发出信息 但这肯定是他
+or maybe he was trying to communicate without being detected,but it's definitely him.
+
+281
+00:16:27,318 --> 00:16:29,070
+你怎么知道?
+How do you know it's him?
+
+282
+00:16:29,070 --> 00:16:30,363
+这是摩尔电码
+It's morse code.
+
+283
+00:16:30,363 --> 00:16:32,657
+SOS
+S.O.S.
+
+284
+00:16:38,371 --> 00:16:40,039
+怎么了?
+What's happening?
+
+285
+00:16:42,583 --> 00:16:43,835
+这又是为了什么?
+What was that for?
+
+286
+00:16:43,835 --> 00:16:46,129
+你知道你干了什么吗?
+You realize what you've done?
+
+287
+00:16:46,129 --> 00:16:48,339
+我什么都没做
+I didn't do anything.
+
+288
+00:16:51,175 --> 00:16:52,677
+不要再打了!
+Stop that!
+
+289
+00:16:52,677 --> 00:16:54,846
+你停止说谎 我就停
+I'll stop when you stop lying.
+
+290
+00:16:54,846 --> 00:16:59,642
+你修改了坏的通讯阵列
+来发送信息 是不是?
+You adapted the damaged communications array to send out a signal,didn't you?
+
+291
+00:17:01,227 --> 00:17:03,187
+是的
+Yes.
+
+292
+00:17:05,773 --> 00:17:06,983
+你说过...
+You said...
+
+293
+00:17:06,983 --> 00:17:08,609
+你会停止打我的!
+you'd stop that!
+
+294
+00:17:08,609 --> 00:17:09,736
+没错
+You're right.
+
+295
+00:17:09,736 --> 00:17:12,488
+也许该用枪打你
+Maybe I'll just shoot you.
+
+296
+00:17:12,488 --> 00:17:13,906
+好吧
+All right.
+
+297
+00:17:13,906 --> 00:17:15,950
+你没有觉得你反映过度了吗?
+Don't you think you're overreacting a little?
+
+298
+00:17:15,950 --> 00:17:18,035
+你尝试着广播我们的位置是吗?
+You were trying to broadcast our location?
+
+299
+00:17:18,035 --> 00:17:19,245
+知道怎么样了吗? 你成功了
+Guess what?It worked.
+
+300
+00:17:19,245 --> 00:17:23,583
+有一艘船正在靠近
+只是不是你想要的那一艘
+There's a ship approaching,only I don't think it's the one you were hoping for.
+
+301
+00:17:23,583 --> 00:17:24,625
+你什么意思?
+What do you mean?
+
+302
+00:17:24,625 --> 00:17:27,086
+来的是Wraith!
+It's the wraith!
+
+303
+00:17:41,768 --> 00:17:43,561
+Wraith的飞船在找我们
+The wraith ship is firing on us.
+
+304
+00:17:43,561 --> 00:17:45,104
+护盾在工作吗?
+Do we have shields?
+
+305
+00:17:45,104 --> 00:17:46,898
+是的 但是只有20%
+Affirmative,but they're only at 20%.
+
+306
+00:17:46,898 --> 00:17:49,525
+我们撑不了多久
+We can't take this for very long.
+
+307
+00:17:54,614 --> 00:17:57,909
+如果你们要度过这个难关
+你们需要我的帮助
+If you want to get out of this alive,you're going to need my help.
+
+308
+00:17:57,909 --> 00:18:05,625
+我知道我们不信任对方 但是...
+Now,I realize that you and I don't exactly trust each other,but...
+
+309
+00:18:05,917 --> 00:18:11,380
+但是如果Wraith要炸掉这艘船
+那也没什么关系了 不是吗?
+that's not going to make much difference if the wraith blow the ship up,is it?
+
+310
+00:18:12,799 --> 00:18:14,133
+你有什么想法?
+What do you got in mind?
+
+311
+00:18:14,133 --> 00:18:17,678
+你可以先还击
+Well,you can start by shooting back.
+
+312
+00:18:19,138 --> 00:18:20,681
+对
+Right.
+
+313
+00:18:24,268 --> 00:18:26,437
+武器控制平台在走廊尽头
+The weapons control platform is down that corridor.
+
+314
+00:18:26,437 --> 00:18:27,647
+我要回到舰桥去
+I'm heading back to the bridge.
+
+315
+00:18:27,647 --> 00:18:29,982
+让护盾支撑的越久越好
+Keep the shields up as long as you can.
+
+316
+00:18:43,287 --> 00:18:45,957
+太好了
+Great.
+
+317
+00:18:50,461 --> 00:18:52,338
+小意思
+Piece of cake.
+
+318
+00:18:54,131 --> 00:18:55,675
+护盾失效了
+Shields are down.
+
+319
+00:18:55,675 --> 00:18:58,761
+你能多分配一点能源吗?
+Can't you reroute any more power?
+
+320
+00:18:59,720 --> 00:19:02,306
+我无能为力
+There's nothing I can do.
+
+321
+00:19:23,828 --> 00:19:27,206
+Silas Nevik 怎么回事?
+Silas,nevik,what happened?
+
+322
+00:19:27,707 --> 00:19:30,543
+你们听见吗?
+Do you read me?
+
+323
+00:19:54,817 --> 00:19:55,985
+Larrin
+Larrin...
+
+324
+00:19:55,985 --> 00:19:57,361
+我是Sheppard
+it's sheppard.
+
+325
+00:19:57,361 --> 00:19:59,030
+我没有给你通讯器
+I didn't give you a communicator.
+
+326
+00:19:59,030 --> 00:20:01,157
+我启动了飞船的内部对讲系统
+发生了什么事?
+I activated the ship's intercom.What happened?
+
+327
+00:20:01,157 --> 00:20:03,910
+我不知道 飞船前部被封锁了
+I don't know.The forward section's been sealed off.
+
+328
+00:20:03,910 --> 00:20:06,162
+你的人怎么样?
+What about your people?
+
+329
+00:20:06,162 --> 00:20:08,205
+他们没有回应
+They're not responding.
+
+330
+00:20:08,205 --> 00:20:12,168
+好消息是 Wraith的飞船被摧毁了
+Good news is,the wraith ship's been destroyed.
+
+331
+00:20:12,168 --> 00:20:14,795
+你呆在那 我来找你
+Stay where you are.I'm coming to you.
+
+332
+00:20:30,603 --> 00:20:32,188
+Sheppard 你在哪?
+Sheppard,where are you?
+
+333
+00:20:32,188 --> 00:20:35,149
+辅助控制室
+Auxiliary control room.
+
+334
+00:20:40,655 --> 00:20:42,114
+Sheppard?
+Sheppard...
+
+335
+00:20:42,114 --> 00:20:44,241
+很抱歉
+sorry about this.
+
+336
+00:20:44,241 --> 00:20:45,993
+你在做什么?
+What are you doing?
+
+337
+00:20:45,993 --> 00:20:48,537
+目前为止 能做的不多
+For the moment,not much.
+
+338
+00:20:48,537 --> 00:20:50,748
+超空间引擎离线了
+Hyperdrive seems to be offline.
+
+339
+00:20:50,748 --> 00:20:52,500
+什么?
+What?
+
+340
+00:20:52,500 --> 00:20:53,918
+有多严重?
+How bad is it?
+
+341
+00:20:53,918 --> 00:20:57,713
+我不是这方面的专家
+Well,it's not exactly my area of expertise,
+
+342
+00:20:57,713 --> 00:21:00,424
+但是如果我看得没错
+but if I'm reading this thing right,
+
+343
+00:21:00,424 --> 00:21:01,592
+引擎本身没有受损
+the drive itself is undamaged.
+
+344
+00:21:01,592 --> 00:21:03,678
+也许只是控制系统短路了
+Probably just a short in the control system.
+
+345
+00:21:03,678 --> 00:21:05,846
+我们可以简单地用旁路来解决
+Then we can take care of it through a simple bypass.
+
+346
+00:21:05,846 --> 00:21:08,057
+放我出去 我应该可以修好它
+Just let me out,and I should be able to fix it.
+
+347
+00:21:08,432 --> 00:21:09,684
+我可不会
+I don't think so.
+
+348
+00:21:09,684 --> 00:21:12,103
+我们现在是活靶子 Sheppard!
+We're a floating target out here,sheppard!
+
+349
+00:21:12,103 --> 00:21:14,397
+没事 放心
+All right,take it easy.
+
+350
+00:21:14,397 --> 00:21:15,731
+我已经把发信器关掉了
+I shut the transmitter off.
+
+351
+00:21:15,731 --> 00:21:17,483
+我的人应该已经收到信息了
+My people should've got the message by now.
+
+352
+00:21:17,483 --> 00:21:21,278
+你没有理由假定Wraith飞船
+没有广播我们的位置
+There is no reason to assume that wraith ship didn't broadcast our position.
+
+353
+00:21:21,278 --> 00:21:23,489
+也没有理由假定它们这么做了
+Well,there's no reason to assume they did.
+
+354
+00:21:23,489 --> 00:21:24,699
+听我说 Sheppard
+Listen to me,sheppard.
+
+355
+00:21:24,699 --> 00:21:27,201
+我的一生都花在超空间引擎上
+I've spent my entire life around hyperdrive systems.
+
+356
+00:21:27,201 --> 00:21:28,452
+我知道该怎么修
+I know what I'm doing.
+
+357
+00:21:28,452 --> 00:21:30,871
+我从没说过我不相信你
+I never said I didn't believe you.
+
+358
+00:21:30,871 --> 00:21:32,957
+别担心
+Don't worry.
+
+359
+00:21:32,957 --> 00:21:35,918
+我的人会来的
+My people will be here.
+
+360
+00:21:49,598 --> 00:21:53,269
+Sheppard的广播是从
+这个星系附近来的
+Sheppard was broadcasting from somewhere in the vicinity of this system.
+
+361
+00:21:54,478 --> 00:21:56,522
+传感器没有收到任何东西
+Well,sensors aren't picking up anything.
+
+362
+00:21:56,522 --> 00:21:59,650
+让我看看能不能把范围扩大一点
+Let me see if I can expand the range a little.
+
+363
+00:22:01,694 --> 00:22:03,112
+那里
+There.
+
+364
+00:22:03,112 --> 00:22:04,572
+那是什么?
+What is it?
+
+365
+00:22:04,572 --> 00:22:06,615
+也许是一艘船
+Could be a ship.
+
+366
+00:22:06,615 --> 00:22:09,118
+他们太远了 没法获取准确的读数
+但是那肯定使他们
+They're still too far out to get any detailed readings,but that's got to be them.
+
+367
+00:22:09,118 --> 00:22:10,995
+以最大亚光速多久能到那?
+How long to get there at maximum sublight?
+
+368
+00:22:10,995 --> 00:22:13,414
+5小时
+It's five hours.
+
+369
+00:22:13,414 --> 00:22:14,999
+Lorne呼叫所有Jumper
+This is Lorne to all jumpers.
+
+370
+00:22:14,999 --> 00:22:16,125
+我正在把发送坐标给你们
+I'm sending you some coordinates.
+
+371
+00:22:16,125 --> 00:22:19,378
+以最大亚光速前往目标
+Proceed to target at maximum sublight.
+
+372
+00:22:32,099 --> 00:22:35,394
+Larrin你在做什么?
+Larrin,what are you doing?
+
+373
+00:22:35,394 --> 00:22:39,732
+听着 我的人来了以后
+他们会修好超空间引擎
+Look,once my people get here and get the hyperdrive back online,
+
+374
+00:22:39,732 --> 00:22:41,525
+然后我们会把你送到最近的星门
+we'll drop you off at the nearest gate.
+
+375
+00:22:41,525 --> 00:22:42,985
+我保证
+You have my word.
+
+376
+00:22:42,985 --> 00:22:44,570
+还不够好
+Not good enough.
+
+377
+00:22:44,570 --> 00:22:46,822
+什么? 我的保证还是我的条件?
+What,my word or my deal?
+
+378
+00:22:46,822 --> 00:22:49,033
+两个都不好
+How about both?
+
+379
+00:22:49,033 --> 00:22:51,368
+你是绑架我的人 记得吗?
+You're the one who kidnapped me,remember?
+
+380
+00:22:51,368 --> 00:22:53,496
+但是我需要这艘船
+Because I need this ship.
+
+381
+00:22:57,166 --> 00:22:58,334
+嗯
+there.
+
+382
+00:22:58,334 --> 00:23:01,253
+我已经在帮你了
+I did you a favor.
+
+383
+00:23:02,588 --> 00:23:05,049
+Sheppard...
+Sheppard...
+
+384
+00:23:05,049 --> 00:23:06,675
+听我说
+listen to me.
+
+385
+00:23:06,675 --> 00:23:08,928
+我们的舰队很老了
+Our fleet is old.
+
+386
+00:23:08,928 --> 00:23:12,598
+我们本有资源建造新船
+但是现在没有了
+There was a time when we had the resources to build new ships,but now we don'T.
+
+387
+00:23:12,598 --> 00:23:16,310
+如果我们损失了一艘 就是一艘
+When we lose one,it's gone for good,
+
+388
+00:23:16,310 --> 00:23:18,395
+尽管人口控制已经很严格了
+and despite strict population controls,
+
+389
+00:23:18,395 --> 00:23:23,234
+我们还是没有足够的地方
+there just isn't enough room for all of us anymore.
+
+390
+00:23:23,943 --> 00:23:27,822
+我们已经被迫
+将一些人遗弃在地面上
+We've been forced to abandon some of our own people on the ground.
+
+391
+00:23:27,822 --> 00:23:32,076
+(地面上的人)他们不比
+这个星系里的其他人活的差
+Well,they're no worse off than the rest of the people in this galaxy.
+
+392
+00:23:32,284 --> 00:23:34,620
+那好
+Fine.
+
+393
+00:23:36,247 --> 00:23:38,916
+我们还是用硬方法解决吧
+We'll do this the hard way.
+
+394
+00:23:42,962 --> 00:23:46,048
+Larrin 你在做什么?
+Larrin,what are you doing?
+
+395
+00:23:58,769 --> 00:24:01,856
+Sheppard 你真把我给惹毛了
+Sheppard,you are really starting to annoy me!
+
+396
+00:24:01,856 --> 00:24:05,442
+好好坐着就好 很快就会结束的
+Just sit tight.It'll be over soon enough.
+
+397
+00:24:06,026 --> 00:24:08,445
+Silas Nevil 回答
+Silas,nevik,come in.
+
+398
+00:24:08,445 --> 00:24:10,447
+Silas 收到吗?
+Silas,do you read me?
+
+399
+00:24:10,447 --> 00:24:11,574
+放弃吧 他们已经死了
+Give it up.They're gone.
+
+400
+00:24:11,574 --> 00:24:12,992
+你不能确定
+You don't know that.
+
+401
+00:24:12,992 --> 00:24:15,828
+我不能 但是我可以查出来
+No,but I can find out.
+
+402
+00:24:26,463 --> 00:24:30,092
+看上去飞船前部没人生还
+Looks like there's no one alive in the forward section.
+
+403
+00:24:30,092 --> 00:24:33,053
+我很抱歉
+I'm sorry.
+
+404
+00:24:35,890 --> 00:24:39,518
+Larrin 你到哪去?
+Larrin,where are you going?
+
+405
+00:24:40,769 --> 00:24:42,229
+在这艘船上你到哪 我都能跟踪你
+I can track you anywhere on this ship.
+
+406
+00:24:42,229 --> 00:24:44,732
+你躲不过我的
+You can't hide from me.
+
+407
+00:24:49,820 --> 00:24:52,323
+Larrin 停下
+Larrin,stop.
+
+408
+00:24:53,073 --> 00:24:55,951
+我在你正前方收到了生命信号
+I'm picking up another life-sign directly in front of you.
+
+409
+00:24:55,951 --> 00:24:57,912
+Silas
+Silas...
+
+410
+00:24:57,912 --> 00:24:58,746
+不可能的
+it's impossible.
+
+411
+00:24:58,746 --> 00:25:01,999
+他不可能活着离开那个区域
+There's no way he got out of that section alive.
+
+412
+00:25:38,577 --> 00:25:40,120
+你没事吧?
+You all right?
+
+413
+00:25:40,120 --> 00:25:41,538
+我没事
+I'm fine.
+
+414
+00:25:41,538 --> 00:25:43,290
+它袭击了我
+He just caught me off guard.
+
+415
+00:25:43,290 --> 00:25:47,044
+它们肯定是用Darts
+从他们的飞船上逃出来的
+They must've escaped in the darts before their ship was destroyed.
+
+416
+00:25:47,044 --> 00:25:49,046
+我们的机舱有加压
+We left the hangar bay pressurized.
+
+417
+00:25:49,046 --> 00:25:50,339
+它们径直飞进来了
+They flew right in.
+
+418
+00:25:50,339 --> 00:25:51,173
+它们?
+They?
+
+419
+00:25:51,173 --> 00:25:52,758
+没错 还有3个
+Yeah,there's three more.
+
+420
+00:25:52,758 --> 00:25:54,301
+我们可以用这个跟踪它们
+We can track them with this.
+
+421
+00:25:54,301 --> 00:25:55,678
+你是从哪找到的?
+Where did you get that?
+
+422
+00:25:55,678 --> 00:25:57,346
+辅助控制室
+Auxiliary control room.
+
+423
+00:25:57,346 --> 00:25:59,515
+你得知道到什么地方找 快来
+You got to know where to look.Come on.
+
+424
+00:26:00,933 --> 00:26:03,310
+我来拿他的枪
+I'll get his weapon.
+
+425
+00:26:08,232 --> 00:26:11,986
+很顽强的小混蛋 不是吗?
+Tenacious little bastards,aren't they?
+
+426
+00:26:12,444 --> 00:26:14,697
+我猜这个你没有多余的了
+I don't suppose you have any more of these.
+
+427
+00:26:14,697 --> 00:26:19,576
+恐怕没有了
+我想这个也不会有什么用
+I'm afraid not,and I don't think this is going to be much good either.
+
+428
+00:26:28,669 --> 00:26:30,379
+停
+Hold up.
+
+429
+00:26:30,379 --> 00:26:33,090
+这边来了一个
+We got one coming this way.
+
+430
+00:26:39,305 --> 00:26:41,390
+现在怎么办?
+What now?
+
+431
+00:26:54,111 --> 00:26:58,032
+等一下 Sheppard 你在干什么?
+Wait,no,sheppard-- what are you doing?
+
+432
+00:26:58,032 --> 00:26:59,908
+哦 真是好点子
+What-- oh,brilliant plan.
+
+433
+00:26:59,908 --> 00:27:01,660
+让我们... 啊
+Get us-- ow!
+
+434
+00:27:29,063 --> 00:27:31,398
+另外两个也来了
+There's the other two.
+
+435
+00:27:31,398 --> 00:27:34,318
+什么 它们在开会吗?
+What,are they having a board meeting?
+
+436
+00:27:41,742 --> 00:27:44,161
+没用的 我已经尽全力
+加强传感器了
+It's no use.I've done all I can to boost the sensors.
+
+437
+00:27:44,161 --> 00:27:45,371
+他们还是太远了
+They're still too far out.
+
+438
+00:27:45,371 --> 00:27:47,039
+那么我们不知道
+我们要对付的是什么
+So we have no idea what we're dealing with.
+
+439
+00:27:47,039 --> 00:27:49,291
+他们为什么在太阳系边缘
+那么远的地方?
+Why would they be so far out on the edge of the solar system?
+
+440
+00:27:49,291 --> 00:27:51,502
+我觉得这个星系不会
+正巧有一个星门
+I don't think it's a coincidence that this system has a space gate.
+
+441
+00:27:51,502 --> 00:27:54,338
+他们可能是在前往星门时
+跳出超空间太早了
+They were probably headed for it when they dropped out of hyperspace too early.
+
+442
+00:27:54,338 --> 00:27:55,130
+为什么呢?
+Well,why would they do that?
+
+443
+00:27:55,130 --> 00:27:56,090
+我怎么知道?
+how should I know?
+
+444
+00:27:56,090 --> 00:27:57,508
+我们连他们是谁都不知道
+We don't even know who they are,remember?
+
+445
+00:27:57,508 --> 00:28:00,052
+有什么区别呢?
+Does it make a difference?
+
+446
+00:28:00,427 --> 00:28:05,474
+即使那是一个母舰舰队
+我们也会尝试把他救出来
+Even if it was a fleet of hive ships,would it stop us from trying to get him back?
+
+447
+00:28:08,185 --> 00:28:10,270
+不会
+No.
+
+448
+00:28:10,270 --> 00:28:13,273
+如果你合作的 这一切都不会发生
+You know,none of this would have ever happened if you would have just cooperated.
+
+449
+00:28:13,273 --> 00:28:14,441
+你现在就应该到家了
+You'd be home by now,
+
+450
+00:28:14,441 --> 00:28:16,360
+而我会给我的人民带回一艘飞船
+and I'd be headed back to my people with a ship
+
+451
+00:28:16,360 --> 00:28:18,529
+一艘能容纳上千男女老少的飞船
+that could house a thousand men,women,and children.
+
+452
+00:28:18,529 --> 00:28:21,949
+如果首先像我求助
+而不是攻击我的话...
+Well,if you had asked for my help in the first place instead of attacking me--
+
+453
+00:28:21,949 --> 00:28:23,117
+我们不能冒这个险
+we couldn't risk it.
+
+454
+00:28:23,117 --> 00:28:25,619
+什么险?
+Risk what?
+
+455
+00:28:25,828 --> 00:28:28,497
+你可能会说不
+You might have said no.
+
+456
+00:28:33,877 --> 00:28:37,214
+他们走了
+They're leaving.
+
+457
+00:28:46,807 --> 00:28:48,809
+等一下
+Hold up.
+
+458
+00:28:48,809 --> 00:28:51,395
+我们有麻烦了
+We got a problem.
+
+459
+00:28:51,854 --> 00:28:53,814
+他们在我们和控制室之间
+They're between us and the control room.
+
+460
+00:28:53,814 --> 00:28:55,274
+我们应该可以找条路绕过去
+We should be able to find a way around.
+
+461
+00:28:55,274 --> 00:28:57,776
+时间不够了
+我们不能让它们先到
+There isn't enough time.We can't risk them finding it first.
+
+462
+00:28:57,776 --> 00:29:01,321
+有什么关系呢? 他们又不能开船
+What does it matter?It's not like they can fly the ship.
+
+463
+00:29:01,738 --> 00:29:03,657
+Sheppard...
+Sheppard...
+
+464
+00:29:03,657 --> 00:29:07,035
+你有把控制器关掉 是吧?
+you did shut down the controls,right?
+
+465
+00:29:07,035 --> 00:29:08,829
+- Sheppard...
+- 我没有时间...
+-Sheppard--
+-there wasn't enough time.
+
+466
+00:29:08,829 --> 00:29:11,206
+如果他们在我们之前到达控制室
+If they find that control room before we do,
+
+467
+00:29:11,206 --> 00:29:13,292
+他们不仅能开这艘船
+they'll not only be able to fly the ship,
+
+468
+00:29:13,292 --> 00:29:15,669
+而且还可以
+用内部传感器追踪我们
+but they're going to be able to track us using the internal sensors.
+
+469
+00:29:15,669 --> 00:29:18,714
+相信我 我知道 还有
+Believe me,I know,and by the way,
+
+470
+00:29:18,714 --> 00:29:21,216
+我是要去救你的命
+I was busy saving your life at the time.
+
+471
+00:29:21,216 --> 00:29:24,720
+我的生命会有危险
+The only reason my life was in danger in the first place is
+
+472
+00:29:24,720 --> 00:29:29,475
+是因为你把我们的位置
+广播到了半个星系
+because you decided to broadcast our position to half the galaxy.
+
+473
+00:29:30,642 --> 00:29:33,645
+你是想吵这个
+还是想做一些实际行动?
+Do you want to argue about this,or do you want to do something about it?
+
+474
+00:29:33,645 --> 00:29:34,980
+好吧
+Fine.
+
+475
+00:29:34,980 --> 00:29:37,316
+有什么选择?
+What are the options?
+
+476
+00:29:37,316 --> 00:29:41,612
+我们没法去控制室 也没有武器
+Well,we're cut off from the control room,and we have no weapons.
+
+477
+00:29:41,612 --> 00:29:43,780
+不尽然 我们可以用那把椅子
+That's not true.We have the chair.
+
+478
+00:29:43,780 --> 00:29:48,827
+我觉得Drone对
+船中的Wraith不会有什么用
+I don't think drones are going to do any good with a bunch of wraith in the middle of the ship.
+
+479
+00:29:48,827 --> 00:29:51,705
+如果他们不在船中间呢?
+What if they weren't in the middle?
+
+480
+00:29:52,080 --> 00:29:53,665
+正经一点
+Get serious.
+
+481
+00:29:53,665 --> 00:29:56,835
+你有更好的办法吗?
+You got a better idea?
+
+482
+00:30:02,674 --> 00:30:04,551
+好吧
+All right.
+
+483
+00:30:04,551 --> 00:30:06,803
+我就位了
+I'm in position.
+
+484
+00:30:07,304 --> 00:30:08,764
+等待我的信号
+Wait for my signal.
+
+485
+00:30:08,764 --> 00:30:10,807
+你确定你要这么做?
+You sure you want to go through with this?
+
+486
+00:30:10,807 --> 00:30:15,229
+如果你没有成功
+我会有负罪感的
+I mean,if you don't make it,I'm going to feel responsible,
+
+487
+00:30:15,229 --> 00:30:17,147
+我真的不需要这个负罪感
+and,well,I really don't need the guilt.
+
+488
+00:30:17,147 --> 00:30:19,900
+只要你不放得太早
+我就不会有事
+I'll be fine as long as you don't shoot too early.
+
+489
+00:30:19,900 --> 00:30:22,569
+我肯定你不是第一次
+听一个女人说这个话
+I'm sure it's not the first time you've heard that from a woman.
+
+490
+00:30:22,569 --> 00:30:25,572
+正好相反 我可以忍耐
+On the other hand,I might be able to live with it.
+
+491
+00:30:29,910 --> 00:30:32,371
+我看到它们了
+I got 'em.
+
+492
+00:30:32,371 --> 00:30:34,289
+来了
+Here we go.
+
+493
+00:31:01,608 --> 00:31:03,694
+Sheppard 现在发射
+Sheppard,now!
+
+494
+00:31:37,894 --> 00:31:40,564
+Larrin 回话
+Larrin,come in.
+
+495
+00:31:43,358 --> 00:31:46,069
+Larrin?
+Larrin?
+
+496
+00:31:55,162 --> 00:31:59,166
+在我吸光你的生命之前
+and now,before I take the rest of your life,
+
+497
+00:31:59,166 --> 00:32:01,877
+你要回答我一个问题
+you will answer my questions.
+
+498
+00:32:01,877 --> 00:32:05,839
+你们还有几个人在船上?
+How many more of your people are on this ship?
+
+499
+00:32:05,839 --> 00:32:09,801
+我可以不杀你
+也可以让你痛快的死去
+I do not have to kill you,nor do I have to leave you like this.
+
+500
+00:32:09,801 --> 00:32:12,512
+所以你最好合作
+It would be better if you cooperated.
+
+501
+00:32:12,512 --> 00:32:15,307
+这是你最后的机会
+This is your last chance.
+
+502
+00:32:15,307 --> 00:32:22,064
+告诉我你们还有
+多少人在船上?
+Tell me,how many more of you are onboard?
+
+503
+00:32:25,817 --> 00:32:29,112
+只要我打一枪...
+It only takes one.
+
+504
+00:32:30,155 --> 00:32:36,161
+我看出来你已经进食过了
+你的再生能力现在是最高的
+I see that you've just fed,which means that your regeneration powers are at their highest,
+
+505
+00:32:36,161 --> 00:32:41,667
+但是我不相信
+你能长出新的头来
+but I seriously doubt you can grow a new head.
+
+506
+00:32:41,667 --> 00:32:43,085
+你要怎么样?
+What do you want?
+
+507
+00:32:43,085 --> 00:32:46,296
+首先 你得把击昏枪给我
+First,you're going to hand me the stunner.
+
+508
+00:32:46,296 --> 00:32:49,007
+慢慢地
+Slowly.
+
+509
+00:32:55,013 --> 00:32:59,059
+然后 你得把你拿走的东西还给她
+Next,you're going to give back what you took.
+
+510
+00:32:59,059 --> 00:33:01,478
+然后 你可以离开
+Then,you're going to leave.
+
+511
+00:33:01,478 --> 00:33:03,689
+- 离开?
+- 你们是坐Dart来的 对吗?
+-Leave?
+-You came in a dart,right?
+
+512
+00:33:03,689 --> 00:33:05,273
+(我们来的时候)机舱没有人看守
+The bay was unguarded.
+
+513
+00:33:05,273 --> 00:33:08,151
+我们降落然后上了飞船
+就像进入无人之境
+We landed our darts and entered unchallenged.
+
+514
+00:33:08,151 --> 00:33:10,529
+那么 你怎么来的就怎么回去
+Well,then,you're going to leave the same way you came.
+
+515
+00:33:10,529 --> 00:33:13,031
+这个恒星系的第二个行星
+有一个轨道星门
+There's a space gate orbiting the second planet in this system.
+
+516
+00:33:13,031 --> 00:33:16,785
+你可能要花一点时间
+但是你肯定能到达
+It may take you a while,but you'll get there.
+
+517
+00:33:16,785 --> 00:33:23,583
+如果我让她复原 就没有东西
+可以阻止你食言或者杀我
+If I restore her,there's nothing to stop you from going back on your word and killing me anyway.
+
+518
+00:33:23,583 --> 00:33:25,127
+没错
+That's true.
+
+519
+00:33:25,127 --> 00:33:28,213
+我说有一半的机会
+我会因为纯粹的仇恨而杀了你
+I'd say there's a 50-50 chance I'll do it out of pure spite,
+
+520
+00:33:28,213 --> 00:33:34,136
+但是如果你不照做
+我肯定会杀了你
+but if you don't,I will kill you.
+
+521
+00:34:04,624 --> 00:34:08,295
+起来
+Get up.
+
+522
+00:34:09,087 --> 00:34:12,132
+转个身
+Turn around.
+
+523
+00:34:23,810 --> 00:34:25,020
+你没事吧?
+You all right?
+
+524
+00:34:25,020 --> 00:34:26,813
+我不知道
+I don't know.
+
+525
+00:34:26,813 --> 00:34:29,858
+那太奇怪了
+That was so strange.
+
+526
+00:34:29,858 --> 00:34:32,110
+你的整个...
+To have your...
+
+527
+00:34:32,110 --> 00:34:37,199
+生命危在旦夕
+然后突然转圜了
+whole life fading away,and then to suddenly have it back again.
+
+528
+00:34:38,408 --> 00:34:40,952
+事实上 这感觉很好
+It actually felt kind of good.
+
+529
+00:34:40,952 --> 00:34:42,078
+我知道
+I know.
+
+530
+00:34:42,078 --> 00:34:43,955
+在我身上发生过一次
+Happened to me once,too.
+
+531
+00:34:43,955 --> 00:34:45,582
+说起来很复杂
+Long story.
+
+532
+00:34:45,582 --> 00:34:47,292
+你起得来吗?
+Think you can get up?
+
+533
+00:34:47,292 --> 00:34:49,294
+可以
+Yeah.
+
+534
+00:34:54,007 --> 00:34:55,675
+放松...
+easy...
+
+535
+00:34:55,675 --> 00:34:58,345
+我没事 没事
+I'm okay.I'm all right.
+
+536
+00:34:59,095 --> 00:35:01,807
+你救了我的命
+You saved my life.
+
+537
+00:35:01,807 --> 00:35:04,226
+第二次
+Again.
+
+538
+00:35:05,101 --> 00:35:08,063
+如果不是你想出这个计划
+我们就已经死了
+If you hadn't come up with the plan,we'd both be dead.
+
+539
+00:35:08,063 --> 00:35:10,649
+那么你是说我们会是很好的搭档?
+So are you saying we make a good team?
+
+540
+00:35:10,649 --> 00:35:13,151
+别发神经了
+Well,don't go crazy.
+
+541
+00:35:13,151 --> 00:35:18,990
+好的 但是为了...
+Right,but in the interest of...
+
+542
+00:35:18,990 --> 00:35:24,538
+星际间的关系考虑
+我想我们至少...
+interstellar relations,I think we should at least just...
+
+543
+00:35:24,538 --> 00:35:29,334
+应该试着和平共处 对吗?
+try to get along,right?
+
+544
+00:35:39,135 --> 00:35:41,638
+你一定是在看完笑吧
+You've got to be kidding me.
+
+545
+00:35:41,638 --> 00:35:43,849
+对不起
+Sorry.
+
+546
+00:36:17,674 --> 00:36:19,217
+Larrin
+Larrin...
+
+547
+00:36:19,217 --> 00:36:21,428
+对不起 Sheppard
+sorry about this,sheppard,
+
+548
+00:36:21,428 --> 00:36:24,347
+你救了我的命 我真的很感激
+and I really am grateful that you saved my life.
+
+549
+00:36:24,347 --> 00:36:26,683
+但是你用了一种
+很奇怪的方法来表示
+Well,you've got a funny way of showing it.
+
+550
+00:36:26,683 --> 00:36:28,518
+不要和我玩这个
+Don't play hurt with me.
+
+551
+00:36:28,518 --> 00:36:31,271
+当你觉得你占上风的时候
+你很容易变得很慷慨
+It's easy to be generous when you think you have the upper hand.
+
+552
+00:36:31,271 --> 00:36:32,731
+你在说什么?
+What are you talking about?
+
+553
+00:36:32,731 --> 00:36:36,651
+你我都知道你没有在第一时间
+就把我击昏然后关起来
+We both know the only reason you didn't stun me and lock me up the first opportunity you got was
+
+554
+00:36:36,651 --> 00:36:40,655
+是因为你以为你的船会先到达
+because you thought your ships were going to get here first.
+
+555
+00:36:41,239 --> 00:36:44,284
+但是你错了
+You were wrong about that,by the way.
+
+556
+00:36:55,962 --> 00:36:58,298
+Larrin 见到你真是太高兴了
+Larrin,it's good to see you again.
+
+557
+00:36:58,298 --> 00:37:00,675
+相信我 我也是这么觉得
+Believe me,I feel the same way.
+
+558
+00:37:00,675 --> 00:37:02,552
+你怎么找到我们的?
+How did you find us?
+
+559
+00:37:02,552 --> 00:37:06,848
+在你们进入超空间之前
+我们都在监控通讯
+Well,we were monitoring communications before you jumped into hyperspace.
+
+560
+00:37:06,848 --> 00:37:08,808
+你知道他截走了飞船?
+You knew he took the ship?
+
+561
+00:37:08,808 --> 00:37:11,061
+这个很明显
+It seemed fairly obvious.
+
+562
+00:37:11,061 --> 00:37:13,563
+我们猜他的首要目标
+是联系他的人
+We guessed his priority would be to contact his people,
+
+563
+00:37:13,563 --> 00:37:18,068
+所以我们向我们原先位置附近
+所有的星门发送了探测器
+so we sent probes to all the space gates in the vicinity of our previous position.
+
+564
+00:37:18,068 --> 00:37:21,404
+终于 我们检测到了你的能量标记
+Eventually,we detected your energy signature.
+
+565
+00:37:21,404 --> 00:37:22,822
+干得好
+Well done.
+
+566
+00:37:22,822 --> 00:37:27,744
+现在 我要你派一些技术人员
+来帮助我重启超空间引擎
+Now,I want you to send over a couple of technicians to help me get the hyperdrive back online.
+
+567
+00:37:28,119 --> 00:37:31,790
+哦 还要一个保安队
+Oh,and a security team as well.
+
+568
+00:37:31,790 --> 00:37:34,292
+马上就好
+Right away.
+
+569
+00:37:44,177 --> 00:37:46,388
+哦 求你
+Oh,come on.
+
+570
+00:37:53,687 --> 00:37:57,065
+好了 足够进行完全传感器扫描了
+All right,close enough to do a full sensor sweep.
+
+571
+00:37:58,400 --> 00:38:00,652
+看上去有四艘船
+Looks like we got four ships,
+
+572
+00:38:00,652 --> 00:38:03,154
+一艘是Lantian设计 Aurora级的
+one of them lantian design.Aurora class.
+
+573
+00:38:03,154 --> 00:38:04,322
+另外三艘呢?
+What about the other three?
+
+574
+00:38:04,322 --> 00:38:05,740
+我认不出这配置
+I don't recognize the configurations.
+
+575
+00:38:05,740 --> 00:38:06,866
+Sheppard 在哪?
+What about sheppard?
+
+576
+00:38:06,866 --> 00:38:10,328
+符合逻辑的假设是
+他在发射信号的船上
+Well,the logical assumption is that he's onboard the ship that transmitted the signal.
+
+577
+00:38:10,328 --> 00:38:12,122
+那是哪一艘呢?
+And which one is that?
+
+578
+00:38:12,122 --> 00:38:13,081
+我不知道
+Well,I have no idea.
+
+579
+00:38:13,081 --> 00:38:14,833
+我们就要进入火力范围了 博士
+We're about to enter weapons range,doc.
+
+580
+00:38:14,833 --> 00:38:16,209
+我们瞄准哪一艘船?
+Which ships do I target?
+
+581
+00:38:16,209 --> 00:38:19,004
+也许在攻击之前
+我们应该试试通讯
+Perhaps we should attempt to communicate before we attack.
+
+582
+00:38:19,004 --> 00:38:20,714
+我们对这些人一无所知
+We know nothing about these people.
+
+583
+00:38:20,714 --> 00:38:22,465
+没事 但是现在
+That's true,but right now,
+
+584
+00:38:22,465 --> 00:38:25,093
+我们唯一有的优势是
+我们是隐形的
+about the only thing we got working for us is the fact that we're cloaked.
+
+585
+00:38:25,093 --> 00:38:26,928
+如果发射信号 我们就会暴露位置
+We send a signal,we give up our position.
+
+586
+00:38:26,928 --> 00:38:27,804
+他说的没错
+He's right.
+
+587
+00:38:27,804 --> 00:38:30,181
+他们可能攻击我们
+或者跳回超空间
+They could target us,or for that matter,they could just jump back into hyperspace.
+
+588
+00:38:30,181 --> 00:38:31,891
+我们就前功尽弃了
+We'd be right back at square one.
+
+589
+00:38:31,891 --> 00:38:34,894
+我们不能走了这么远却一无所获
+We didn't come all this way for nothing,right?
+
+590
+00:38:36,646 --> 00:38:40,608
+好吧 我来看看我能不能
+找到方法阻止他们离开
+All right,well,I'll see if I can figure out a way to disable them.
+
+591
+00:38:46,656 --> 00:38:49,868
+你肯定很乐意知道
+超空间引擎已经修复了
+I thought you'd be glad to know the hyperdrive repairs are almost complete.
+
+592
+00:38:49,868 --> 00:38:51,911
+那么 祝贺你们
+Well,congratulations.
+
+593
+00:38:51,911 --> 00:38:54,247
+你们得到了你们要得东西
+You got what you want.
+
+594
+00:38:54,247 --> 00:38:56,750
+是的 我们可以飞行和导航
+Yes,it's true I can fly the ship and navigate,
+
+595
+00:38:56,750 --> 00:39:00,045
+但是还有不少系统我不能访问
+but there are still dozens of systems I don't have access to,
+
+596
+00:39:00,045 --> 00:39:03,256
+还有 如果任何一个控制器关闭了
+就会有点麻烦
+and if any of the controls went down,it would be a problem.
+
+597
+00:39:03,256 --> 00:39:05,091
+那么 完善那个适配器吧
+So finish the adapter.
+
+598
+00:39:05,091 --> 00:39:08,553
+你说过你可以对已经初始化的
+系统进行反向工程
+You've said you can reverse-engineer the systems that were already initialized.
+
+599
+00:39:08,553 --> 00:39:10,805
+是的 我们最终会的
+Well,yes,we can,eventually,
+
+600
+00:39:10,805 --> 00:39:13,767
+但是如果我把你留在船上
+事情会快很多
+but it would go a lot faster if I keep you onboard.
+
+601
+00:39:13,767 --> 00:39:15,894
+你是一个xx 你知道吗?
+You are a piece of work,you know that?
+
+602
+00:39:15,894 --> 00:39:17,729
+我知道你不同意我的策略
+Look,I know you don't agree with my tactics,
+
+603
+00:39:17,729 --> 00:39:20,732
+但是对于船的用途我说得是实话
+but I wasn't lying about why I need this ship.
+
+604
+00:39:20,732 --> 00:39:23,568
+我是为我的人民而这么做的
+I'm doing this for my people.
+
+605
+00:39:25,278 --> 00:39:26,488
+听着
+Look...
+
+606
+00:39:26,488 --> 00:39:30,408
+我知道你觉得你在帮助你的人民
+但是你错了
+I know you think you're helping your people,but you're wrong.
+
+607
+00:39:31,367 --> 00:39:32,660
+什么?
+Excuse me?
+
+608
+00:39:32,660 --> 00:39:34,829
+你们已经躲躲藏藏好几千年了
+You've been running and hiding for thousands of years.
+
+609
+00:39:34,829 --> 00:39:36,915
+你们能活下来很好
+You've survived,good for you,
+
+610
+00:39:36,915 --> 00:39:40,668
+但是现在你们的收益开始减小了
+(Sheppard经济学的真好 还知道diminishing returns)
+but now you're starting to see diminishing returns.
+
+611
+00:39:40,668 --> 00:39:43,379
+一艘船 能给你们多一点时间
+One more ship,that buys you a little more time,but ultimately,
+
+612
+00:39:43,379 --> 00:39:45,298
+但是它最终不能改变什么
+it's not going to change anything.
+
+613
+00:39:45,298 --> 00:39:49,886
+你的人民正在走向死亡
+Your people are headed for a slow death.
+
+614
+00:39:50,804 --> 00:39:52,597
+我们还有什么选择呢?
+What other choice do we have?
+
+615
+00:39:52,597 --> 00:39:55,475
+如果你还没听说
+那你很快就会知道
+In case you haven't heard,you will soon enough
+
+616
+00:39:55,475 --> 00:39:57,018
+Wraith正在受到攻击
+,but the wraith are under attack.
+
+617
+00:39:57,018 --> 00:39:58,269
+被谁?
+From who?
+
+618
+00:39:58,269 --> 00:40:01,272
+说来话长 但是他们损失惨重
+It's a long story,but the point is,they're taking heavy damage,
+
+619
+00:40:01,272 --> 00:40:04,025
+即使他们没有被铲除
+他们也会变得禁不起一击
+and if they don't get wiped out,they're going to be vulnerable.
+
+620
+00:40:04,025 --> 00:40:08,863
+你们的人现在有超空间引擎
+先进的武器 还有鬼知道什么东西
+Now,you people have hyperdrives and advanced weapons,and god knows what else.
+
+621
+00:40:08,863 --> 00:40:13,701
+时间适当的时候
+你们需要一种技术来达到平衡
+When the time is right, a kind of technology to take the blance.
+
+622
+00:40:16,371 --> 00:40:18,331
+你是建议我们结盟吗?
+Are you suggesting an alliance?
+
+623
+00:40:18,331 --> 00:40:22,752
+我没有邀请你吃晚餐 但是类似的
+Well,I'm not asking you to dinner,but yeah,something like that.
+
+624
+00:40:22,752 --> 00:40:24,587
+在我让你承受了这么多以后?
+After all I put you through?
+
+625
+00:40:24,587 --> 00:40:28,424
+就像你说的 你是为了你的人民
+Well,like you said,you did it for your people.
+
+626
+00:40:28,716 --> 00:40:32,679
+我终究是理解错了你
+I may have misjudged you after all.
+
+627
+00:40:34,514 --> 00:40:36,015
+好吧 博士 我们在火力范围内了
+All right,doc,we're in weapons range.
+
+628
+00:40:36,015 --> 00:40:37,016
+我们有什么方案?
+What do you got for me?
+
+629
+00:40:37,016 --> 00:40:39,269
+我们可以瞄准Lantian飞船的引擎
+We can target the lantian ship's engines.
+
+630
+00:40:39,269 --> 00:40:40,478
+其他几艘怎么办?
+What about the others?
+
+631
+00:40:40,478 --> 00:40:43,064
+我已经检查过传感器数据
+但是其中的未知处太多了
+I've been going over the sensor data,but there's still too many unknowns.
+
+632
+00:40:43,064 --> 00:40:44,023
+如果我们打错了地方
+I mean,if we hit them in the wrong spot,
+
+633
+00:40:44,023 --> 00:40:47,819
+我们可能把他们给炸飞
+也有可能Drone只能从护盾上弹过
+we could blow them out of the sky,or the drones could just bounce harmlessly off the shields.
+
+634
+00:40:47,819 --> 00:40:49,112
+我们没有办法知道
+there is no way to know
+
+635
+00:40:49,112 --> 00:40:50,488
+好吧 我们还有最好的选择
+All right,well,it's still our best option.
+
+636
+00:40:50,488 --> 00:40:52,907
+我们不能让他们跑走
+We can't risk them getting away.
+
+637
+00:41:04,586 --> 00:41:07,172
+他们走了
+They're gone.
+
+638
+00:41:16,347 --> 00:41:18,850
+我检测到了东西
+I'm getting a contact.
+
+639
+00:41:19,434 --> 00:41:20,685
+是一艘Jumper
+It's a jumper.
+
+640
+00:41:20,685 --> 00:41:22,270
+一个生命信号
+One life sign.
+
+641
+00:41:22,270 --> 00:41:23,855
+Sheppard中校 我是Loren少校
+Colonel sheppard,this is major lorne.
+
+642
+00:41:23,855 --> 00:41:25,023
+是你吗?
+Is that you?
+
+643
+00:41:25,023 --> 00:41:27,817
+是的 少校
+That's affirmative,major.
+
+644
+00:41:27,817 --> 00:41:29,652
+很高兴听见你的声音
+It's good to hear from you.
+
+645
+00:41:29,652 --> 00:41:31,154
+我也是 长官
+Likewise,sir.
+
+646
+00:41:31,154 --> 00:41:34,782
+看起来我们差点失去你
+Seemed like we came pretty close to losing you there.
+
+647
+00:41:35,992 --> 00:41:39,037
+你不会知道是怎么回事的
+You don't know the half of it.
+
+648
+00:41:49,547 --> 00:41:50,590
+太好吃了
+that's good.
+
+649
+00:41:50,590 --> 00:41:52,342
+真的?
+Really?
+
+650
+00:41:52,342 --> 00:41:54,344
+当你跟一群宇宙流浪者呆久了
+You spend enough time with a bunch of space nomads,
+
+651
+00:41:54,344 --> 00:41:56,804
+你就会开始珍惜你有的东西
+you really begin to appreciate what you have.
+
+652
+00:41:56,804 --> 00:42:00,725
+很难想象把一生
+都花在船上是什么感觉
+It's difficult to imagine spending one's entire life onboard a ship.
+
+653
+00:42:00,725 --> 00:42:02,227
+如果是我的话 我会疯的
+If it was me,I'd go crazy.
+
+654
+00:42:02,227 --> 00:42:03,978
+那么我们就是最正常的人
+They weren't exactly the most even-keeled people.
+
+655
+00:42:03,978 --> 00:42:06,064
+我仍然不太确定
+他们为什么让我走
+I'm still not exactly sure why they let me go.
+
+656
+00:42:06,064 --> 00:42:07,649
+你向他们提出结盟
+Well,you did offer them an alliance.
+
+657
+00:42:07,649 --> 00:42:08,983
+那肯定值点什么
+That has to be worth something.
+
+658
+00:42:08,983 --> 00:42:11,986
+或者他们发现
+你带来的麻烦比你的价值还多
+Or they figured out you'd be more trouble than you're worth.
+
+659
+00:42:12,528 --> 00:42:14,572
+这是一个可能
+That is a possibility.
+
+660
+00:42:14,572 --> 00:42:17,700
+不 你肯定还有什么没告诉我们
+No,there's something you're not telling us.
+
+661
+00:42:17,700 --> 00:42:19,577
+她很性感 是不是?
+She was hot,wasn't she?
+
+662
+00:42:19,577 --> 00:42:21,037
+我不知道你在讲什么
+I don't know what you're talking about.
+
+663
+00:42:21,037 --> 00:42:23,373
+哦 我知道了 这太典型了
+Oh,I knew it.That is so typical.
+
+664
+00:42:23,373 --> 00:42:25,708
+她打了我 Rodney
+She had me beat,rodney.
+
+665
+00:42:25,708 --> 00:42:27,835
+她几次威胁要杀了我
+She threatened to kill me several times.
+
+666
+00:42:27,835 --> 00:42:30,004
+这不是我们一起消遣去SPA那种
+It wasn't like we were hanging out in the spa together.
+
+667
+00:42:30,004 --> 00:42:32,423
+不管怎样 我知道的是我每次被抓
+Whatever.All I know is that every time I get taken captive,
+
+668
+00:42:32,423 --> 00:42:33,424
+都是Wraith干的
+it's the wraith.
+
+669
+00:42:33,424 --> 00:42:37,679
+我就想被一个
+性感的外星人抓住一次
+Just once I would like to be taken prisoner by the sexy alien.
+
+670
+00:42:37,679 --> 00:42:39,222
+你可能还有机会
+Well,you may still get a chance.
+
+671
+00:42:39,222 --> 00:42:40,682
+你什么意思?
+What do you mean?
+
+672
+00:42:40,682 --> 00:42:42,767
+她还在宇宙之中呢
+She's still out there.
+

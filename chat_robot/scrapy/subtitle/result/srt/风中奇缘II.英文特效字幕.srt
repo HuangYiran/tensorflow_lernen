@@ -1,0 +1,2747 @@
+1
+00:00:01,590 --> 00:00:20,590
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}更多佳片尽在 shop.paipai.com/1610169789
+
+2
+00:00:50,590 --> 00:00:52,420
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}He's inside.
+
+3
+00:00:53,380 --> 00:00:54,550
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Get him!
+
+4
+00:00:54,720 --> 00:00:57,300
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}He's gone! Search the room.
+
+5
+00:00:57,470 --> 00:00:58,720
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Hey, a party. Am I invited?
+
+6
+00:00:58,890 --> 00:01:01,560
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}John Smith, in the name of the king,
+
+7
+00:01:01,720 --> 00:01:03,970
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}you are under arrest for treason in Jamestown.
+
+8
+00:01:04,140 --> 00:01:06,270
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Treason? You must be looking for Ratcliffe.
+
+9
+00:01:08,350 --> 00:01:09,610
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}He went through the window!
+
+10
+00:01:11,980 --> 00:01:13,980
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Don't let him get away!
+
+11
+00:01:16,570 --> 00:01:17,860
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}After him!
+
+12
+00:01:25,580 --> 00:01:27,080
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Thanks for dropping in.
+
+13
+00:01:27,250 --> 00:01:28,920
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Anyone else care to join him?
+
+14
+00:01:33,840 --> 00:01:35,260
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Cut him off!
+
+15
+00:01:39,260 --> 00:01:40,680
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I've got him now!
+
+16
+00:01:42,760 --> 00:01:44,390
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}He's jumped!
+
+17
+00:01:48,390 --> 00:01:51,770
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}The king believed my story.
+
+18
+00:01:52,270 --> 00:01:53,400
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Pity.
+
+19
+00:01:53,570 --> 00:01:57,650
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I so would have preferred to see you hanged.
+
+20
+00:02:18,010 --> 00:02:22,010
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I did everything I could to save him.
+
+21
+00:02:22,890 --> 00:02:26,350
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}And that is the death of John Smith.
+
+22
+00:02:26,520 --> 00:02:29,310
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I wanted him alive!
+
+23
+00:02:29,850 --> 00:02:31,060
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}As did I.
+
+24
+00:02:31,230 --> 00:02:35,320
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}But, Your Majesty, you don't need him to confirm what I've already told you.
+
+25
+00:02:35,480 --> 00:02:39,530
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}We must wait until John Rolfe returns with the chief of these Indians.
+
+26
+00:02:39,700 --> 00:02:44,530
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}The chiefwill only tell you more heathen lies. War is the only way.
+
+27
+00:02:45,910 --> 00:02:48,790
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Very well, Ratcliffe. Prepare your armada, then.
+
+28
+00:02:48,960 --> 00:02:53,080
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}But we will await the return of John Rolfe and the Indian chief.
+
+29
+00:04:50,160 --> 00:04:54,620
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, much time has passed since the news of John Smith's death.
+
+30
+00:04:54,790 --> 00:04:57,370
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Perhaps it's time to put this behind you.
+
+31
+00:04:57,540 --> 00:05:01,960
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I know you are right. It's just hard to say goodbye.
+
+32
+00:06:18,540 --> 00:06:20,750
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# The earth is cold #
+
+33
+00:06:20,920 --> 00:06:23,000
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# The fields are bare #
+
+34
+00:06:23,170 --> 00:06:29,220
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# The branches fold against the wind that's everywhere #
+
+35
+00:06:30,760 --> 00:06:34,680
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# The birds move on so they survive #
+
+36
+00:06:34,850 --> 00:06:38,520
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# When snow's so deep the bears all sleep #
+
+37
+00:06:38,680 --> 00:06:42,770
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# To keep themselves alive #
+
+38
+00:06:42,940 --> 00:06:45,860
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# They do what they must for now #
+
+39
+00:06:46,030 --> 00:06:49,320
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# And trust in their plan #
+
+40
+00:06:49,490 --> 00:06:51,320
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# If I trust in mine #
+
+41
+00:06:51,490 --> 00:06:54,700
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Somehow I might find #
+
+42
+00:06:54,870 --> 00:06:58,330
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Who I am #
+
+43
+00:06:58,500 --> 00:07:03,420
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# But where do I go from here? #
+
+44
+00:07:03,580 --> 00:07:06,550
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# So many voices #
+
+45
+00:07:06,710 --> 00:07:10,170
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Ringing in my ear #
+
+46
+00:07:10,340 --> 00:07:12,800
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Which is the voice #
+
+47
+00:07:12,970 --> 00:07:16,720
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# That I was meant to hear? #
+
+48
+00:07:16,890 --> 00:07:19,850
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# How will I know? #
+
+49
+00:07:20,020 --> 00:07:23,060
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Where do I go #
+
+50
+00:07:23,650 --> 00:07:26,730
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# From here? #
+
+51
+00:07:30,610 --> 00:07:33,950
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# My world has changed and so have I #
+
+52
+00:07:34,120 --> 00:07:39,660
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# I've learned to choose and even learned to say goodbye #
+
+53
+00:07:39,830 --> 00:07:43,120
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# The path ahead So hard to see #
+
+54
+00:07:43,290 --> 00:07:46,500
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# It winds and bends but where it ends #
+
+55
+00:07:46,670 --> 00:07:49,630
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Depends on only me #
+
+56
+00:07:50,420 --> 00:07:53,220
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# In my heart I don't feel part #
+
+57
+00:07:53,380 --> 00:07:56,640
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Of so much I've known #
+
+58
+00:07:56,800 --> 00:07:59,760
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Now it seems it's time to start #
+
+59
+00:07:59,930 --> 00:08:01,980
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# A new life #
+
+60
+00:08:02,140 --> 00:08:05,480
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# On my own #
+
+61
+00:08:05,650 --> 00:08:11,490
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# But where do I go from here? #
+
+62
+00:08:11,650 --> 00:08:17,320
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# So many voices ringing in my ear #
+
+63
+00:08:17,490 --> 00:08:20,160
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Which is the voice #
+
+64
+00:08:20,330 --> 00:08:24,120
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# That I was meant to hear? #
+
+65
+00:08:24,290 --> 00:08:26,920
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# How will I know? #
+
+66
+00:08:27,080 --> 00:08:31,460
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Where do I go #
+
+67
+00:08:32,220 --> 00:08:34,760
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# From #
+
+68
+00:08:34,930 --> 00:08:40,640
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Here? #
+
+69
+00:08:56,610 --> 00:08:59,700
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Ship ahoy!  - Ship's coming!
+
+70
+00:08:59,870 --> 00:09:01,660
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Ship's coming!
+
+71
+00:09:03,040 --> 00:09:05,620
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, they're here! Hurry!
+
+72
+00:09:05,790 --> 00:09:08,420
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Wait for me!
+
+73
+00:09:08,580 --> 00:09:10,590
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Open the gate!
+
+74
+00:09:11,170 --> 00:09:12,800
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Push!
+
+75
+00:09:17,300 --> 00:09:20,930
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}All hands, lay forward! Cast a line!
+
+76
+00:09:22,720 --> 00:09:24,600
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Put your backs into it!  - Together, men!
+
+77
+00:09:56,550 --> 00:09:58,340
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Stations!
+
+78
+00:10:00,850 --> 00:10:02,390
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Attention!
+
+79
+00:10:20,160 --> 00:10:22,200
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Filthy barbarian.
+
+80
+00:10:44,930 --> 00:10:48,390
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Whoa, boy! Steady! Whoa!
+
+81
+00:10:50,230 --> 00:10:51,390
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Whoa, boy!
+
+82
+00:11:04,200 --> 00:11:05,740
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Bloody savage.
+
+83
+00:11:18,800 --> 00:11:20,170
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}No, wait!
+
+84
+00:11:22,390 --> 00:11:24,970
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Wait!  - Stand down!
+
+85
+00:11:30,060 --> 00:11:32,730
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}It's all right now. I've taken care of it.
+
+86
+00:11:34,310 --> 00:11:37,480
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}The settlers need to know they can trust us to do the right thing.
+
+87
+00:11:37,650 --> 00:11:39,150
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You should not have interfered.
+
+88
+00:11:40,240 --> 00:11:41,610
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I beg your pardon?
+
+89
+00:11:42,820 --> 00:11:45,950
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- All right. You have it.  - I was trying to help.
+
+90
+00:11:46,120 --> 00:11:48,080
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I did not ask for your help.
+
+91
+00:11:48,240 --> 00:11:50,040
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Well, you didn't say thank you, either.
+
+92
+00:11:50,200 --> 00:11:52,330
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}What ever happened to manners and etiquette?
+
+93
+00:11:52,500 --> 00:11:56,460
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Well, since you are new here, I don't expect you to have them yet.
+
+94
+00:12:01,920 --> 00:12:02,970
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Women.
+
+95
+00:12:11,270 --> 00:12:13,640
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I fear the Indians may wage war.
+
+96
+00:12:13,810 --> 00:12:17,480
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, my dear, Pocahontas would never allow that.
+
+97
+00:12:17,650 --> 00:12:18,980
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas?
+
+98
+00:12:21,150 --> 00:12:23,280
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}John Rolfe, your horse, sir.
+
+99
+00:12:23,450 --> 00:12:25,070
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, there you are. Thank you.
+
+100
+00:12:26,240 --> 00:12:28,870
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}It's time I met this Chief Pocahontas.
+
+101
+00:13:15,790 --> 00:13:17,290
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Great Chief...
+
+102
+00:13:18,830 --> 00:13:20,080
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}...I am John Rolfe.
+
+103
+00:13:21,090 --> 00:13:22,710
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}According to the customs...
+
+104
+00:13:26,430 --> 00:13:28,680
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- How do you do?  - Let him pass.
+
+105
+00:13:30,550 --> 00:13:32,310
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}According to the customs of Greater Britain,
+
+106
+00:13:32,470 --> 00:13:33,890
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I would like to present this horse
+
+107
+00:13:34,060 --> 00:13:36,890
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}as a gift of peace to the mighty Pocahontas.
+
+108
+00:13:37,060 --> 00:13:38,650
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Daughter...
+
+109
+00:13:39,400 --> 00:13:43,110
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- You?  - ...this beast is for you.
+
+110
+00:13:44,400 --> 00:13:47,110
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}No, I'm sorry. It's my fault.
+
+111
+00:13:47,280 --> 00:13:51,030
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- This horse, it's meant for...  - Pocahontas, your king said.
+
+112
+00:13:51,200 --> 00:13:55,500
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Or did he speak falsely?  - No! Never.
+
+113
+00:13:55,660 --> 00:13:57,500
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}It's just that... This is...
+
+114
+00:13:58,790 --> 00:14:01,170
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}No, this is... This is perfectly fine.
+
+115
+00:14:04,000 --> 00:14:05,550
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Good job, Rolfe.
+
+116
+00:14:09,220 --> 00:14:11,550
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I believe we can prosper together in this great land
+
+117
+00:14:11,720 --> 00:14:13,510
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}under King James' gracious rule.
+
+118
+00:14:13,680 --> 00:14:17,770
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}To build trust, I would like you to sail back with me...
+
+119
+00:14:18,480 --> 00:14:22,560
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- ...to meet my king.  - I do not want the pale chief's land.
+
+120
+00:14:22,730 --> 00:14:24,360
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}He wants mine.
+
+121
+00:14:24,530 --> 00:14:27,400
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Why doesn't he cross the salt water to see me?
+
+122
+00:14:27,570 --> 00:14:32,160
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I'm afraid that simply isn't done, Your Grand "Chiefliness."
+
+123
+00:14:32,320 --> 00:14:35,790
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Your kind are barbarians. They only want our land!
+
+124
+00:14:35,950 --> 00:14:39,080
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- They mean to destroy our sacred...  - Is that what they want?
+
+125
+00:14:41,000 --> 00:14:42,580
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You don't know.
+
+126
+00:14:42,750 --> 00:14:46,250
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Father, someone must go.
+
+127
+00:14:46,420 --> 00:14:48,800
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You speak with the tongue of a pale one.
+
+128
+00:14:48,970 --> 00:14:52,010
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You belong with them. Perhaps you should go.
+
+129
+00:14:52,180 --> 00:14:55,560
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}No! This is a matter of diplomacy.
+
+130
+00:14:55,720 --> 00:14:57,430
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You can't handle a job like this.
+
+131
+00:15:01,190 --> 00:15:03,150
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- I will go.  - Daughter...
+
+132
+00:15:03,310 --> 00:15:06,610
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Father, please. I can do this.
+
+133
+00:15:09,650 --> 00:15:12,530
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You have your mother's spirit.
+
+134
+00:15:12,990 --> 00:15:16,080
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Very well. It is decided.  - But...
+
+135
+00:15:19,620 --> 00:15:20,870
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Grand.
+
+136
+00:15:46,400 --> 00:15:49,730
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Grandmother Willow, I need to speak with you.
+
+137
+00:15:53,740 --> 00:15:56,530
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Is that my Pocahontas?
+
+138
+00:15:59,830 --> 00:16:02,290
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}My, what is it, child?
+
+139
+00:16:03,250 --> 00:16:06,830
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You are concerned about crossing the salt water.
+
+140
+00:16:07,000 --> 00:16:08,840
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}What if I can't bring peace?
+
+141
+00:16:09,000 --> 00:16:11,510
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}What if I'm destined to fail? What if I make things worse?
+
+142
+00:16:11,670 --> 00:16:13,680
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- What if?  - What if I can't make them listen?
+
+143
+00:16:13,840 --> 00:16:18,010
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}What if the sky turns to fire and your nose falls off?
+
+144
+00:16:18,600 --> 00:16:23,600
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Long ago, I told you to listen with your heart.
+
+145
+00:16:23,770 --> 00:16:27,400
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}It is time to listen to your heart.
+
+146
+00:16:27,560 --> 00:16:29,440
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}But the spirits around me...
+
+147
+00:16:29,610 --> 00:16:35,030
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Can help, but only the spirit within can guide you.
+
+148
+00:16:37,620 --> 00:16:46,420
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Listen to the spirit within.
+
+149
+00:17:19,200 --> 00:17:21,240
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Grandmother Willow, it doesn't work.
+
+150
+00:17:21,540 --> 00:17:22,580
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Grandmother Willow?
+
+151
+00:17:39,340 --> 00:17:40,340
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Easy up, men!
+
+152
+00:17:40,680 --> 00:17:42,850
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Here we go. Right-o. Over here.
+
+153
+00:17:43,020 --> 00:17:44,850
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Easy.  - To the starboard.
+
+154
+00:17:45,020 --> 00:17:45,850
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Hoist away!
+
+155
+00:17:46,020 --> 00:17:50,190
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I will honour my vow not to break the peace with the pale ones,
+
+156
+00:17:50,360 --> 00:17:52,730
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}but we must know their strength.
+
+157
+00:17:52,900 --> 00:17:57,490
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Cut a notch in this staff for every pale face you see.
+
+158
+00:18:02,280 --> 00:18:04,240
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Watch over my daughter.
+
+159
+00:18:33,230 --> 00:18:35,360
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I can't take you this time.
+
+160
+00:18:39,110 --> 00:18:42,240
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Stay out of mischief and look after one another.
+
+161
+00:19:15,190 --> 00:19:18,820
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Do not forget this land.
+
+162
+00:19:18,990 --> 00:19:21,030
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You will always be with me.
+
+163
+00:19:59,650 --> 00:20:01,150
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Wait. What's this?
+
+164
+00:20:01,320 --> 00:20:03,320
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}This is Uttamatomakkin.
+
+165
+00:20:04,990 --> 00:20:08,530
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Well, is Utta... Is he coming with us? Are you coming with us?
+
+166
+00:20:08,700 --> 00:20:11,660
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I say, are you...? Hello? Can you hear me?
+
+167
+00:20:11,830 --> 00:20:13,370
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Can he, can he hear me?
+
+168
+00:20:22,340 --> 00:20:24,430
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Yes, of course. This was a good idea, wasn't it?
+
+169
+00:20:24,590 --> 00:20:27,050
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}This will be fine. Fantastic.
+
+170
+00:20:27,220 --> 00:20:29,310
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}All hands, up anchor!
+
+171
+00:20:29,470 --> 00:20:31,390
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Anchor ahoy!
+
+172
+00:20:33,480 --> 00:20:36,190
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Undo the sails!  - Aye, sir!
+
+173
+00:20:44,150 --> 00:20:45,950
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Anah, Father.
+
+174
+00:21:56,310 --> 00:22:01,060
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}All right, of course, yes. Swab the deck. Swab the deck.
+
+175
+00:22:01,230 --> 00:22:04,940
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I mean, that's all we do around here, is swab the bloody deck.
+
+176
+00:22:05,900 --> 00:22:07,900
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I mean, it is always clean anyway.
+
+177
+00:22:08,070 --> 00:22:10,700
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I mean, what are we swabbing the deck for?
+
+178
+00:22:10,870 --> 00:22:14,790
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}It looks clean to me down here. I don't see any dirt.
+
+179
+00:22:17,160 --> 00:22:20,500
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}...swabbing the deck. I'm swabbing!
+
+180
+00:22:20,670 --> 00:22:24,130
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Did anybody notice I'm swabbing?
+
+181
+00:22:30,680 --> 00:22:32,550
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Hey! What is that? What's going...?
+
+182
+00:22:33,680 --> 00:22:35,770
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Get him! That's it!
+
+183
+00:22:48,780 --> 00:22:52,280
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Meeko, what are you doing here?
+
+184
+00:23:06,920 --> 00:23:09,260
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}What's all this then?
+
+185
+00:23:09,420 --> 00:23:12,930
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Look, missy, I don't cotton to stowaways,
+
+186
+00:23:13,100 --> 00:23:15,640
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}and I'll not have you disrupting my crew.
+
+187
+00:23:15,810 --> 00:23:17,930
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You can take this voyage below...
+
+188
+00:23:19,770 --> 00:23:22,440
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}...or in the brig.
+
+189
+00:23:22,600 --> 00:23:24,730
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- You're...  - A guest of the king,
+
+190
+00:23:24,900 --> 00:23:27,820
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}and is to be treated as such. Am I clear, Captain?
+
+191
+00:23:31,110 --> 00:23:32,910
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Why would you do that?
+
+192
+00:23:34,240 --> 00:23:36,700
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Because, like it or not, you are the envoy
+
+193
+00:23:36,870 --> 00:23:38,490
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}and I am honour-bound to protect you.
+
+194
+00:23:38,660 --> 00:23:43,210
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}And honour, Pocahontas, is the backbone of our civilisation.
+
+195
+00:23:44,580 --> 00:23:45,920
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Thank you.
+
+196
+00:24:24,000 --> 00:24:27,380
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Land ho!
+
+197
+00:24:33,470 --> 00:24:35,630
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Pull the sails!
+
+198
+00:25:05,670 --> 00:25:08,420
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Heave ho! Keep 'em taut.
+
+199
+00:25:08,590 --> 00:25:09,630
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Here we go.
+
+200
+00:25:15,680 --> 00:25:17,220
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Welcome to London.
+
+201
+00:25:33,900 --> 00:25:35,280
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Shall we?
+
+202
+00:25:36,030 --> 00:25:37,910
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Suit yourself.
+
+203
+00:25:51,630 --> 00:25:54,710
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# The sun comes up The lamps go down #
+
+204
+00:25:54,880 --> 00:25:57,930
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# The day begins in London town #
+
+205
+00:25:58,090 --> 00:26:01,010
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# - There's tea to brew  - And buns to bake #
+
+206
+00:26:01,180 --> 00:26:04,060
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# And some who just refuse to wake #
+
+207
+00:26:04,220 --> 00:26:07,020
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# While shops are stocked and flocks are fed #
+
+208
+00:26:07,190 --> 00:26:09,140
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# The midnight men drift home to bed #
+
+209
+00:26:09,310 --> 00:26:11,610
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# School bells chime and church bells ring #
+
+210
+00:26:11,770 --> 00:26:13,980
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Children whine #
+
+211
+00:26:14,150 --> 00:26:16,070
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Peddlers sing #
+
+212
+00:26:16,240 --> 00:26:19,910
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# What a day in London Come and see who's here #
+
+213
+00:26:20,660 --> 00:26:24,330
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Everyone knows someone They come from far and near #
+
+214
+00:26:24,490 --> 00:26:26,500
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# They bring their geese, their finest fleece #
+
+215
+00:26:26,660 --> 00:26:28,540
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# To please the keenest eye #
+
+216
+00:26:28,710 --> 00:26:33,340
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# And hope and pray someone will say There's something they might buy #
+
+217
+00:26:33,500 --> 00:26:36,880
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# - Bread! Fresh here! #  - Pocahontas, wait!
+
+218
+00:26:37,050 --> 00:26:39,220
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# With pigs to slop and fish to gut #
+
+219
+00:26:39,380 --> 00:26:41,260
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# It ain't exactly heaven but #
+
+220
+00:26:41,430 --> 00:26:43,640
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# We thank the Lord and kiss the ground #
+
+221
+00:26:43,810 --> 00:26:45,760
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# For bed and board in London town #
+
+222
+00:26:45,930 --> 00:26:48,140
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# The upper crust lie fast asleep #
+
+223
+00:26:48,310 --> 00:26:50,100
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# But some of us got floors to sweep #
+
+224
+00:26:50,270 --> 00:26:52,270
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# One day's like the day before #
+
+225
+00:26:52,440 --> 00:26:56,280
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# - Can't complain  - If there's no war #
+
+226
+00:26:56,440 --> 00:27:00,200
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# What a day in London Everything's for sale #
+
+227
+00:27:00,360 --> 00:27:02,360
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Cabbages and onions #
+
+228
+00:27:03,200 --> 00:27:05,030
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Look up!  - Who's that?
+
+229
+00:27:05,200 --> 00:27:06,790
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# That girl up in the tree #
+
+230
+00:27:06,950 --> 00:27:08,910
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# It's not a tree It's moving, see? #
+
+231
+00:27:09,080 --> 00:27:12,710
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# - Good grief, what can it be?  - Look there, I swear #
+
+232
+00:27:12,880 --> 00:27:14,540
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# She's flying through the air #
+
+233
+00:27:14,710 --> 00:27:18,260
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# - She must be wild  - She's just a child #
+
+234
+00:27:18,420 --> 00:27:21,550
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Pocahontas...  # - I wish I had her hair #
+
+235
+00:27:21,720 --> 00:27:24,890
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Wouldn't you care to join me here, on the ground? This instant? #
+
+236
+00:27:25,060 --> 00:27:28,390
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# My heart is pounding like a drum I can't believe my eyes #
+
+237
+00:27:28,560 --> 00:27:32,230
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# In London people seem to come in every shape and size #
+
+238
+00:27:32,400 --> 00:27:36,230
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# So many paths I wonder how they find their way #
+
+239
+00:27:36,400 --> 00:27:42,280
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# So many signs I wonder what they really say #
+
+240
+00:27:43,570 --> 00:27:47,030
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# London is everything I've heard and more #
+
+241
+00:27:47,200 --> 00:27:50,910
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# London is nothing like I've seen before #
+
+242
+00:27:51,080 --> 00:27:54,420
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Music and feathered hats and roofs that shine #
+
+243
+00:27:54,580 --> 00:27:58,090
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# With flags flying higher than a pine #
+
+244
+00:27:58,250 --> 00:28:00,260
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# She seems so sweet She means us well #
+
+245
+00:28:00,420 --> 00:28:02,340
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# - Size 20 feet  - How can you tell? #
+
+246
+00:28:02,510 --> 00:28:07,140
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# - We'll rue this day, you wait and see  - What is to be or not to be #
+
+247
+00:28:09,020 --> 00:28:12,690
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# How do they build their huts so tall? Can this be all one tribe? #
+
+248
+00:28:12,850 --> 00:28:16,650
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# The things they sell, the things I smell I never could describe #
+
+249
+00:28:16,820 --> 00:28:20,110
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# These cakes taste just like berries picked this very day #
+
+250
+00:28:20,280 --> 00:28:25,990
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# The sound a river makes still takes my breath away #
+
+251
+00:28:28,080 --> 00:28:31,700
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# London's as busy as a hive of bees #
+
+252
+00:28:31,870 --> 00:28:35,290
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Grandmother Willow would just love these trees #
+
+253
+00:28:35,460 --> 00:28:38,960
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Crowded and loud but so exciting too #
+
+254
+00:28:39,130 --> 00:28:42,380
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# With colours I never even knew #
+
+255
+00:28:42,550 --> 00:28:46,140
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# What a day in London Nothing strange at all #
+
+256
+00:28:46,300 --> 00:28:50,310
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Except a girl with someone who may be ten feet tall #
+
+257
+00:28:50,470 --> 00:28:53,810
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# This day's become a day no one is likely to forget #
+
+258
+00:28:53,980 --> 00:28:57,480
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# A day we'll all remember as the day two worlds have met #
+
+259
+00:28:57,650 --> 00:28:59,270
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Such beauty's rare I'm quite impressed #
+
+260
+00:28:59,440 --> 00:29:01,320
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# One mustn't stare She's barely dressed #
+
+261
+00:29:01,480 --> 00:29:03,240
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# The strength of ten That's what I've heard #
+
+262
+00:29:03,400 --> 00:29:05,150
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# She's won the men Just take my word #
+
+263
+00:29:05,320 --> 00:29:06,910
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# A brave young thing to venture here #
+
+264
+00:29:07,070 --> 00:29:08,820
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}It will be an adventure, dear
+
+265
+00:29:08,990 --> 00:29:10,910
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Perhaps some brew to quench your thirst?
+
+266
+00:29:11,080 --> 00:29:12,660
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}But not with you I saw her first
+
+267
+00:29:12,830 --> 00:29:16,330
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# What a day in London History was made #
+
+268
+00:29:16,500 --> 00:29:20,090
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Take away the mystery Then you're not afraid #
+
+269
+00:29:20,250 --> 00:29:21,670
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# We've seen a girl #
+
+270
+00:29:21,840 --> 00:29:23,760
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# I've seen a world #
+
+271
+00:29:23,920 --> 00:29:27,430
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# - I never dreamed I'd see  - We never dreamed we'd see #
+
+272
+00:29:27,590 --> 00:29:31,140
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# And what an extra special day Unique in truly every way #
+
+273
+00:29:31,310 --> 00:29:33,520
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# How wonderful this London day #
+
+274
+00:29:33,680 --> 00:29:38,560
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Turned out to be #
+
+275
+00:29:42,230 --> 00:29:45,400
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Get out of the way!
+
+276
+00:29:58,960 --> 00:30:00,330
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You!
+
+277
+00:30:04,010 --> 00:30:07,260
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Well done, Rolfe, bringing back a heathen as an example.
+
+278
+00:30:07,430 --> 00:30:10,640
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Look at her. She sticks out like a sore thumb.
+
+279
+00:30:10,800 --> 00:30:13,390
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas is here as an emissary of her people.
+
+280
+00:30:13,560 --> 00:30:14,930
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}A personal guest of the king.
+
+281
+00:30:15,100 --> 00:30:17,890
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}The king has appointed me to lead an armada against the savages.
+
+282
+00:30:18,060 --> 00:30:22,310
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Don't tell me you didn't know? The king wants his gold.
+
+283
+00:30:22,980 --> 00:30:26,440
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- There is no gold.  - Another barbarian lie.
+
+284
+00:30:26,610 --> 00:30:30,410
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}As soon as the ships are armed, I set sail to destroy the heathens
+
+285
+00:30:30,570 --> 00:30:33,410
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}and reclaim Jamestown for James.
+
+286
+00:30:38,080 --> 00:30:41,500
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}We must stop him! Warn your king of his lies!
+
+287
+00:30:41,670 --> 00:30:45,670
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}But he wasn't lying. The parchment bore the king's seal.
+
+288
+00:30:45,840 --> 00:30:50,260
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}What? Then your king's promise to meet me was the lie.
+
+289
+00:30:50,430 --> 00:30:54,100
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- The king doesn't lie!  - They cannot both be true.
+
+290
+00:30:54,260 --> 00:30:58,100
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}No. It's just a misunderstanding. It has to be.
+
+291
+00:30:59,640 --> 00:31:02,520
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I can straighten this out. Come on.
+
+292
+00:31:11,110 --> 00:31:13,070
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Are you riding or running?
+
+293
+00:31:33,550 --> 00:31:34,800
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Mrs.Jenkins!
+
+294
+00:31:38,730 --> 00:31:41,810
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Gods be gracious, is that my Johnny?
+
+295
+00:31:50,740 --> 00:31:53,280
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Johnny, you need a bath.
+
+296
+00:31:54,870 --> 00:31:56,530
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Johnny!  - Look at you.
+
+297
+00:31:59,410 --> 00:32:01,410
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, you.
+
+298
+00:32:02,290 --> 00:32:05,420
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Mrs.Jenkins, I would like to introduce Pocahontas.
+
+299
+00:32:05,590 --> 00:32:07,290
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas, Mrs.Jenkins.
+
+300
+00:32:07,460 --> 00:32:09,760
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}The Jenkins have been with the Rolfes for generations.
+
+301
+00:32:09,920 --> 00:32:13,680
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Careful. She's about to put on tea.  - I'll put on some tea.
+
+302
+00:32:17,640 --> 00:32:19,680
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, and Uttamatomakkin.
+
+303
+00:32:21,600 --> 00:32:24,600
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I'll put on lots and lots of tea.
+
+304
+00:32:25,360 --> 00:32:28,860
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- I'm off to see the king.  - I want to go with you.
+
+305
+00:32:29,030 --> 00:32:33,360
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas, the conventions in England are very complex.
+
+306
+00:32:33,530 --> 00:32:36,620
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- I must go alone.  - But...
+
+307
+00:32:36,780 --> 00:32:38,870
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I promise, I will arrange for you to see the king.
+
+308
+00:32:39,040 --> 00:32:41,700
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}My word as a gentleman. Trust me.
+
+309
+00:33:15,610 --> 00:33:19,320
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I must find a way to warn my people, to stop this.
+
+310
+00:33:19,490 --> 00:33:21,660
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Leave it to Johnny.
+
+311
+00:33:21,830 --> 00:33:25,540
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}He gave you his word as a gentleman, my dear.
+
+312
+00:33:25,710 --> 00:33:28,000
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You can stake your life on that.
+
+313
+00:33:28,330 --> 00:33:31,460
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I didn't exactly bring the Indian chief.
+
+314
+00:33:32,340 --> 00:33:36,510
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}No, no, no, no. I told you I would meet with the chief and no one less.
+
+315
+00:33:36,680 --> 00:33:39,260
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Knight to bishop three.
+
+316
+00:33:40,220 --> 00:33:43,430
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Sire, I gave these people your word you would meet.
+
+317
+00:33:44,270 --> 00:33:47,100
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Are we not honour-bound...  - The king is bound to nothing,
+
+318
+00:33:47,270 --> 00:33:49,060
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}when you can not fulfil your mission.
+
+319
+00:33:49,230 --> 00:33:53,030
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You were sent for the savage leader, and yet you bring back a woman.
+
+320
+00:33:53,190 --> 00:33:54,230
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}A woman!
+
+321
+00:33:55,280 --> 00:33:57,650
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Your Highness, she is royalty, a princess.
+
+322
+00:33:57,820 --> 00:34:00,030
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}She is the daughter of a great chief
+
+323
+00:34:00,200 --> 00:34:03,540
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}who has travelled far from her homeland in the interests of peace.
+
+324
+00:34:03,700 --> 00:34:05,750
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Meet with her, Your Majesty.
+
+325
+00:34:06,370 --> 00:34:08,670
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}May I suggest she attend the Hunt Ball?
+
+326
+00:34:08,830 --> 00:34:12,000
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Let her go back to Virginia having witnessed the royal might
+
+327
+00:34:12,170 --> 00:34:15,300
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}and majesty of English society.
+
+328
+00:34:15,470 --> 00:34:18,050
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Sire, she doesn't know our customs.
+
+329
+00:34:18,220 --> 00:34:20,180
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}To subject her to this kind of scrutiny would be...
+
+330
+00:34:20,340 --> 00:34:22,430
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Well, I don't understand, Rolfe.
+
+331
+00:34:22,600 --> 00:34:25,970
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}If she's not a savage, then why shouldn't she fit in?
+
+332
+00:34:26,140 --> 00:34:28,310
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Excellent idea, Ratcliffe.
+
+333
+00:34:28,480 --> 00:34:31,650
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Rolfe, you will bring her to the Hunt Ball.
+
+334
+00:34:31,810 --> 00:34:34,780
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Prove to me she is as civilised as you claim,
+
+335
+00:34:34,940 --> 00:34:37,570
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}and I will stop my armada.
+
+336
+00:34:37,740 --> 00:34:40,360
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- If not, the armada sails.  - But, sire...
+
+337
+00:34:40,530 --> 00:34:43,990
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- It is decided!  - Pawn to king!
+
+338
+00:34:46,160 --> 00:34:47,290
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Check.
+
+339
+00:34:51,330 --> 00:34:53,880
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- How did it go?  - A disaster.
+
+340
+00:34:54,050 --> 00:34:56,550
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}She's invited to the Hunt Ball!
+
+341
+00:34:56,710 --> 00:34:59,260
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Flabberdy-jacks.
+
+342
+00:35:08,180 --> 00:35:10,980
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You were successful? When do I see the king?
+
+343
+00:35:11,150 --> 00:35:13,650
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Our meeting with the king has been corrupted.
+
+344
+00:35:13,820 --> 00:35:16,900
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- You're now invited to the Hunt Ball.  - I don't understand.
+
+345
+00:35:17,070 --> 00:35:20,900
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, it's a trap! Ratcliffe manipulated the king!
+
+346
+00:35:21,070 --> 00:35:23,990
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}He's saying that if you're civilised you can fit right in.
+
+347
+00:35:24,160 --> 00:35:27,990
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}But it's the elite of British society, etiquette and manners.
+
+348
+00:35:28,160 --> 00:35:31,410
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}There's a million ways you can insult someone. Believe me, I know.
+
+349
+00:35:31,580 --> 00:35:33,130
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}And if you slip up just once,
+
+350
+00:35:33,290 --> 00:35:37,000
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Ratcliffe can convince the king...  - Then I must not slip up.
+
+351
+00:35:37,590 --> 00:35:39,800
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I can't learn your ways alone,
+
+352
+00:35:39,970 --> 00:35:42,340
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}but you can help me.
+
+353
+00:35:42,510 --> 00:35:44,010
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}What must I do?
+
+354
+00:36:03,820 --> 00:36:05,530
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}John Rolfe!
+
+355
+00:36:08,160 --> 00:36:09,200
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}How do I look?
+
+356
+00:36:10,960 --> 00:36:13,540
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Lovely, in your... underwear.
+
+357
+00:36:13,710 --> 00:36:17,540
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Didn't Mrs.Jenkins...? Mrs.Jenkins!
+
+358
+00:36:20,050 --> 00:36:22,970
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, my dear! Oh, come along, now.
+
+359
+00:36:23,130 --> 00:36:25,300
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Let's go finish your dressing.
+
+360
+00:36:40,230 --> 00:36:43,650
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Have no fear We're all right #
+
+361
+00:36:43,820 --> 00:36:47,450
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# You've got me, dear to see you're a lady tonight #
+
+362
+00:36:47,620 --> 00:36:50,700
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# What seems strange is just new #
+
+363
+00:36:50,870 --> 00:36:54,920
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# People change every day till they find their own way #
+
+364
+00:36:55,080 --> 00:36:57,750
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# So can you #
+
+365
+00:36:57,920 --> 00:37:02,050
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# And wait till he sees you after you're dressed #
+
+366
+00:37:02,220 --> 00:37:05,720
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# I think the king will be very impressed #
+
+367
+00:37:05,890 --> 00:37:09,390
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Wait till he sees you walking with ease #
+
+368
+00:37:09,560 --> 00:37:12,970
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# He'll be so pleased you came down from the trees #
+
+369
+00:37:13,140 --> 00:37:16,100
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# You'll be fine I can tell #
+
+370
+00:37:16,270 --> 00:37:19,980
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# It's a very good sign that you're doing so well #
+
+371
+00:37:20,150 --> 00:37:22,980
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# One more tuck One more bow #
+
+372
+00:37:23,150 --> 00:37:25,650
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Don't get stuck on that clasp #
+
+373
+00:37:25,820 --> 00:37:29,570
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Johnny's lucky they asked you to go #
+
+374
+00:37:30,450 --> 00:37:34,660
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# 'Cause wait till he sees you He'll be so proud #
+
+375
+00:37:34,830 --> 00:37:38,330
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Maybe he'll smile if he thinks he's allowed #
+
+376
+00:37:38,500 --> 00:37:42,250
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Wait till he sees you there in your curls #
+
+377
+00:37:42,420 --> 00:37:46,380
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# John's always had such a fondness for girls #
+
+378
+00:37:46,550 --> 00:37:47,930
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# With curls #
+
+379
+00:37:48,090 --> 00:37:50,140
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# And wait #
+
+380
+00:37:50,300 --> 00:37:53,100
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Wait till you're out on the floor #
+
+381
+00:37:53,810 --> 00:37:57,390
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Show them what dancing is for #
+
+382
+00:37:57,560 --> 00:38:01,150
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Music is all you need See where a dance can lead #
+
+383
+00:38:01,320 --> 00:38:03,280
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# You two might come to see #
+
+384
+00:38:03,440 --> 00:38:08,200
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# You were meant to be so much more #
+
+385
+00:38:08,360 --> 00:38:11,830
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Wait till he sees you Wait till tonight #
+
+386
+00:38:11,990 --> 00:38:15,410
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Fate has a way of arranging what's right #
+
+387
+00:38:15,580 --> 00:38:18,920
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# After he sees you in your new clothes #
+
+388
+00:38:19,080 --> 00:38:22,750
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# A lady of grace from your head to your toes #
+
+389
+00:38:22,920 --> 00:38:26,170
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Pretty and pink as the roses he grows #
+
+390
+00:38:26,340 --> 00:38:29,220
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Who knows Who knows #
+
+391
+00:38:29,390 --> 00:38:31,180
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# I can't wait! #
+
+392
+00:38:33,890 --> 00:38:36,390
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, I've got something for you.
+
+393
+00:38:46,610 --> 00:38:48,030
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Flit, stop it!
+
+394
+00:38:49,410 --> 00:38:51,700
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}It doesn't belong here any more.
+
+395
+00:39:01,250 --> 00:39:03,210
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}It's beautiful!
+
+396
+00:39:35,410 --> 00:39:39,500
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I have personally taken charge of the entertainment for the Hunt Ball.
+
+397
+00:39:39,660 --> 00:39:44,750
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I want to make sure nothing goes... right.
+
+398
+00:39:47,710 --> 00:39:50,090
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Well, how do I look? Pretty good?
+
+399
+00:39:51,260 --> 00:39:53,470
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Say, I thought you were getting dressed.
+
+400
+00:39:56,010 --> 00:39:57,720
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You're right. You look great.
+
+401
+00:39:57,890 --> 00:40:00,480
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Just don't talk so much tonight and we'll be fine.
+
+402
+00:40:22,920 --> 00:40:24,830
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}It's called powder.
+
+403
+00:40:27,090 --> 00:40:29,380
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You look beautiful.
+
+404
+00:40:45,650 --> 00:40:47,230
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I'll put on some tea.
+
+405
+00:41:03,580 --> 00:41:06,080
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}The Duke of Edinburgh.
+
+406
+00:41:06,500 --> 00:41:08,210
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Lady Gray.
+
+407
+00:41:08,380 --> 00:41:10,920
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Sir Thomas Ellory.
+
+408
+00:41:12,920 --> 00:41:16,720
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Lord Raymond and Lady Theresa.
+
+409
+00:41:17,890 --> 00:41:20,640
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}The Earl of Essex.
+
+410
+00:41:22,220 --> 00:41:26,810
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}The Duke of Buckingham and Lady Buckingham.
+
+411
+00:41:29,940 --> 00:41:34,070
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}John Rolfe and Princess Pocahontas.
+
+412
+00:41:34,240 --> 00:41:35,650
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, my!
+
+413
+00:41:35,820 --> 00:41:37,990
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}And Utam...
+
+414
+00:41:38,160 --> 00:41:42,120
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Uttata... Ultimatum... Old tomato...
+
+415
+00:41:42,290 --> 00:41:45,710
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Try "Uti."  - Oh, thank you, sir.
+
+416
+00:41:45,870 --> 00:41:48,290
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}And Uti.
+
+417
+00:41:48,750 --> 00:41:51,040
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Jacket required, sir.
+
+418
+00:41:52,590 --> 00:41:53,670
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, dear.
+
+419
+00:42:03,850 --> 00:42:06,850
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Oh, goodness.  - Oh, my.
+
+420
+00:42:07,480 --> 00:42:09,480
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Hello, Your Excellent-ness.
+
+421
+00:42:09,650 --> 00:42:12,150
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Your Great, Good... Good Highness.
+
+422
+00:42:12,320 --> 00:42:14,940
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Greetings, Your Magnificence-cy.
+
+423
+00:42:31,210 --> 00:42:33,420
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Welcome to England, Pocahontas.
+
+424
+00:42:35,800 --> 00:42:37,470
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Thank you, Your Grace.
+
+425
+00:42:38,470 --> 00:42:41,840
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}What do you think of my kingdom?
+
+426
+00:42:42,010 --> 00:42:46,060
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I think you must be a great king to have so many subjects, Your Majesty,
+
+427
+00:42:46,230 --> 00:42:48,480
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}and the loyalty of so many good men.
+
+428
+00:42:48,640 --> 00:42:51,810
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Did you hear that? She thinks I am a great king!
+
+429
+00:42:51,980 --> 00:42:54,570
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, what a delightful child!
+
+430
+00:42:54,730 --> 00:42:57,030
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Charming! Absolutely charming!
+
+431
+00:42:57,190 --> 00:42:59,450
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Your Excellency, please stop this armada.
+
+432
+00:42:59,610 --> 00:43:00,990
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, yes, yes.
+
+433
+00:43:01,160 --> 00:43:04,870
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}But right now I can't be rude and ignore my guests, can I?
+
+434
+00:43:05,040 --> 00:43:07,540
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}No! So we shall discuss it later.
+
+435
+00:43:07,710 --> 00:43:11,370
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}For now, my dear, enjoy the ball.
+
+436
+00:43:12,290 --> 00:43:14,210
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Go on! Enjoy!
+
+437
+00:43:20,340 --> 00:43:23,220
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Thank goodness.  - Rolfie! Rolfie, old boy!
+
+438
+00:43:23,390 --> 00:43:27,140
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Listen, we're having some friends out to the estate. Do come.
+
+439
+00:43:27,310 --> 00:43:29,480
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, yes, bring your delightful...
+
+440
+00:43:31,310 --> 00:43:32,520
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}...guest.
+
+441
+00:43:32,690 --> 00:43:35,480
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, Miss... Hontas.
+
+442
+00:43:35,650 --> 00:43:37,940
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}How drippingly marvellous to see you!
+
+443
+00:43:38,110 --> 00:43:41,450
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Oh, my!  - Enchanting.
+
+444
+00:43:43,740 --> 00:43:45,580
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Fabulous jewellery.
+
+445
+00:43:45,910 --> 00:43:47,120
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Hello!
+
+446
+00:43:50,250 --> 00:43:52,420
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}May the dance begin!
+
+447
+00:43:54,080 --> 00:43:55,170
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}May I?
+
+448
+00:44:39,960 --> 00:44:41,460
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}In one night you will have done more
+
+449
+00:44:41,630 --> 00:44:44,130
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}for the cause of peace than 100 diplomats.
+
+450
+00:44:51,680 --> 00:44:53,980
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}My, you look lovely.
+
+451
+00:44:54,140 --> 00:44:56,940
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I can't even see the real you under there.
+
+452
+00:44:57,110 --> 00:44:59,360
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I do hope no one else does.
+
+453
+00:44:59,530 --> 00:45:01,730
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I was going to say the same about you.
+
+454
+00:45:01,900 --> 00:45:04,110
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}It's a very good thing Smith is dead.
+
+455
+00:45:04,280 --> 00:45:08,120
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Seeing how disloyal your heart is would certainly kill him.
+
+456
+00:45:15,420 --> 00:45:17,710
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Dinner is served!
+
+457
+00:45:23,970 --> 00:45:25,470
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, no, madam.
+
+458
+00:45:25,630 --> 00:45:30,100
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}The guest of honour is always on the king's right hand.
+
+459
+00:45:36,230 --> 00:45:39,020
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Your Grace, perhaps now we might discuss...
+
+460
+00:45:39,820 --> 00:45:43,650
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Your Royal Highnesses, Lords and Ladies of the Court,
+
+461
+00:45:43,820 --> 00:45:48,530
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}and our distinguished guest from the forests of the New World.
+
+462
+00:45:49,620 --> 00:45:52,080
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Things are not what they appear #
+
+463
+00:45:53,080 --> 00:45:56,040
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# As tonight will make quite clear #
+
+464
+00:45:56,210 --> 00:46:00,750
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# But what is real will be revealed I can feel the moment's near #
+
+465
+00:46:03,050 --> 00:46:06,050
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Things are never what they seem #
+
+466
+00:46:06,220 --> 00:46:09,340
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# That will be this evening's theme #
+
+467
+00:46:09,510 --> 00:46:13,680
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Amusing sights for your delight Perhaps a few to make you scream #
+
+468
+00:46:14,850 --> 00:46:17,270
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# You'll be surprised to see whose disguise #
+
+469
+00:46:17,440 --> 00:46:19,980
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Is the cleverest one of the lot #
+
+470
+00:46:21,110 --> 00:46:24,070
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# After our show the whole world will know #
+
+471
+00:46:24,230 --> 00:46:26,780
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Who's pretending to be what they're not #
+
+472
+00:46:27,200 --> 00:46:31,700
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# If a jester's grin or a dancer's spin should be pleasing #
+
+473
+00:46:31,870 --> 00:46:33,870
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# - Please say "yea"  - Yea! #
+
+474
+00:46:34,040 --> 00:46:37,210
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# If a juggler's feat should be incomplete #
+
+475
+00:46:37,370 --> 00:46:40,540
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# - He's the one to greet with "nay"  - Nay! #
+
+476
+00:46:40,710 --> 00:46:43,880
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# If the fools we see look like you and me #
+
+477
+00:46:44,050 --> 00:46:47,130
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Then before the night goes by #
+
+478
+00:46:47,300 --> 00:46:50,970
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Ask why, why, why, why #
+
+479
+00:46:51,140 --> 00:46:52,640
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Why #
+
+480
+00:46:52,810 --> 00:46:54,390
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Why? #
+
+481
+00:46:54,560 --> 00:46:57,100
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Things are not what they appear #
+
+482
+00:46:58,230 --> 00:47:00,730
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# And the finest proof's right here #
+
+483
+00:47:01,440 --> 00:47:05,900
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# How I regret when first we met I believed my own worst fear #
+
+484
+00:47:06,070 --> 00:47:08,740
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Things are never what they seem #
+
+485
+00:47:09,700 --> 00:47:12,370
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# So in keeping with our theme #
+
+486
+00:47:13,080 --> 00:47:14,830
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# A change of hair A dress to wear #
+
+487
+00:47:14,990 --> 00:47:17,580
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# And our nightmare's now a dream #
+
+488
+00:47:17,750 --> 00:47:20,830
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Shoeless and wild I saw this sweet child #
+
+489
+00:47:21,000 --> 00:47:24,000
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# As a danger to one and to all #
+
+490
+00:47:24,170 --> 00:47:27,420
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# "Savage," I thought "What could Rolfe have brought?" #
+
+491
+00:47:27,590 --> 00:47:31,090
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Now I see she's the belle of the ball #
+
+492
+00:47:31,800 --> 00:47:33,260
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Things are never what they seem #
+
+493
+00:47:33,430 --> 00:47:36,430
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# - He's right! He's right!  - Many don't say what they mean #
+
+494
+00:47:36,600 --> 00:47:39,890
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# - He's right! He's right!  - A powdered face is just the place #
+
+495
+00:47:40,060 --> 00:47:42,940
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# To conceal an ugly scheme #
+
+496
+00:47:45,070 --> 00:47:47,020
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Only one thing's really clear #
+
+497
+00:47:48,360 --> 00:47:52,200
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Things are not what they appear #
+
+498
+00:48:03,880 --> 00:48:07,130
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Sire, please stop this! She doesn't understand!
+
+499
+00:48:07,300 --> 00:48:10,550
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, nonsense! Everybody loves a good bear-baiting.
+
+500
+00:48:24,060 --> 00:48:25,190
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}No!
+
+501
+00:48:26,900 --> 00:48:28,070
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Stop this!
+
+502
+00:48:30,280 --> 00:48:31,400
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}This is torture!
+
+503
+00:48:32,360 --> 00:48:34,280
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}This is an animal, nothing more.
+
+504
+00:48:34,450 --> 00:48:36,280
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}A helpless animal.
+
+505
+00:48:36,450 --> 00:48:40,750
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Sit down at once, and we will overlook this savage behaviour.
+
+506
+00:48:40,910 --> 00:48:43,000
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Your behaviour is savage.
+
+507
+00:48:43,170 --> 00:48:45,500
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You and your people are the barbarians!
+
+508
+00:48:45,670 --> 00:48:47,210
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- What?  - Sire.
+
+509
+00:48:47,380 --> 00:48:49,880
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Don't let the savage get away with this.
+
+510
+00:48:50,050 --> 00:48:51,510
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Seize her!
+
+511
+00:48:56,890 --> 00:48:58,850
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Savages!
+
+512
+00:49:00,600 --> 00:49:01,890
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Keep her away!
+
+513
+00:49:02,060 --> 00:49:03,100
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Get her!
+
+514
+00:49:08,070 --> 00:49:10,570
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Take them to the tower!
+
+515
+00:49:10,730 --> 00:49:14,780
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}No! Your Majesty, please! It was a misunderstanding!
+
+516
+00:49:14,950 --> 00:49:19,120
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Push me no farther or face treason.
+
+517
+00:49:20,160 --> 00:49:23,000
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Where exactly do your loyalties lie?
+
+518
+00:49:24,370 --> 00:49:26,750
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Let go! Let go of me!
+
+519
+00:49:26,920 --> 00:49:29,670
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}John Rolfe! John Rolfe!
+
+520
+00:49:42,430 --> 00:49:44,560
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- You're cheating!  - No, I'm not.
+
+521
+00:49:44,730 --> 00:49:46,520
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I'll play that card there.
+
+522
+00:49:49,310 --> 00:49:51,690
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}The least you could do is put a head on it.
+
+523
+00:49:51,860 --> 00:49:53,650
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}How much do I have to pay to get...?
+
+524
+00:49:53,820 --> 00:49:55,820
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You say it's not true?
+
+525
+00:49:55,990 --> 00:50:00,620
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}But I just heard meself from a guard what was there.
+
+526
+00:50:00,780 --> 00:50:04,120
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}The king's gonna have her head.
+
+527
+00:50:04,290 --> 00:50:06,210
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Bloody savage.
+
+528
+00:50:07,540 --> 00:50:10,210
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I bet you old John Rolfe wishes
+
+529
+00:50:10,380 --> 00:50:14,710
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}he never laid eyes on the likes of Pocahontas.
+
+530
+00:50:21,220 --> 00:50:22,350
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}What's got into him?
+
+531
+00:50:39,320 --> 00:50:41,530
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I think I'll put on some tea.
+
+532
+00:50:56,380 --> 00:50:58,260
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}What am I to do?
+
+533
+00:51:04,010 --> 00:51:05,350
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Who are you?
+
+534
+00:51:06,180 --> 00:51:07,480
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}What do you want?
+
+535
+00:51:27,370 --> 00:51:29,540
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Halt! Who goes there?
+
+536
+00:51:30,670 --> 00:51:32,330
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}John Rolfe. I have a prisoner.
+
+537
+00:51:36,170 --> 00:51:39,720
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Open the gate.
+
+538
+00:51:54,020 --> 00:51:55,770
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}He's escaping! Catch him!
+
+539
+00:51:58,440 --> 00:51:59,990
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Now find her, Flit.
+
+540
+00:52:40,780 --> 00:52:41,610
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Flit!
+
+541
+00:52:43,030 --> 00:52:46,160
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}John! I knew you'd come!
+
+542
+00:52:50,330 --> 00:52:52,250
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}There's no time. We must go.
+
+543
+00:52:59,550 --> 00:53:00,920
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}John Smith?
+
+544
+00:53:04,680 --> 00:53:06,300
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I thought you were dead.
+
+545
+00:53:06,470 --> 00:53:09,430
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Greatly exaggerated.  - I'll look this way!
+
+546
+00:53:09,600 --> 00:53:10,760
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Let's go!
+
+547
+00:53:11,980 --> 00:53:13,140
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}There!
+
+548
+00:53:23,990 --> 00:53:25,780
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Enjoy the accommodations.
+
+549
+00:53:28,160 --> 00:53:29,780
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I'll take care of it.
+
+550
+00:53:39,130 --> 00:53:40,500
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Pardon me.
+
+551
+00:53:46,090 --> 00:53:47,680
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, very stylish.
+
+552
+00:54:00,400 --> 00:54:02,940
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Riding or running?  - After them. They're getting away!
+
+553
+00:54:03,110 --> 00:54:04,490
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Close the gate!
+
+554
+00:54:21,000 --> 00:54:22,960
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Blast it! They got away!
+
+555
+00:54:33,810 --> 00:54:35,390
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}What happened to you?
+
+556
+00:54:35,560 --> 00:54:37,810
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Ratcliffe convinced the king I was the traitor.
+
+557
+00:54:37,980 --> 00:54:41,150
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I had to stay hidden, let them continue to believe that I was dead.
+
+558
+00:54:41,310 --> 00:54:43,820
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I missed you so much.
+
+559
+00:54:43,980 --> 00:54:45,690
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I've thought of you every day.
+
+560
+00:54:45,860 --> 00:54:49,700
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}All this time. Why didn't you ever write to me?
+
+561
+00:54:49,860 --> 00:54:53,410
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I wanted to. I must have started a thousand letters.
+
+562
+00:54:53,580 --> 00:54:57,370
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas, all that matters is that we're together again.
+
+563
+00:55:00,130 --> 00:55:01,580
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}What about my people?
+
+564
+00:55:01,750 --> 00:55:03,960
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Once the armada sails, they won't stand a chance.
+
+565
+00:55:04,130 --> 00:55:05,920
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}How will her getting killed save them?
+
+566
+00:55:06,090 --> 00:55:08,010
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Well, are you suggesting she turn her back on them?
+
+567
+00:55:08,170 --> 00:55:11,720
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Are you suggesting she die for them?  - She can't just sit back and watch.
+
+568
+00:55:11,890 --> 00:55:15,010
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- She has no choice!  - Of course she has a choice!
+
+569
+00:55:16,430 --> 00:55:17,770
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas!
+
+570
+00:55:35,990 --> 00:55:38,330
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Let her go.  - You may not care about her safety...
+
+571
+00:55:38,500 --> 00:55:41,290
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Don't you dare tell me I don't care about her!
+
+572
+00:55:45,000 --> 00:55:46,050
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You love her.
+
+573
+00:56:02,940 --> 00:56:06,690
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Do not forget this land.
+
+574
+00:56:19,080 --> 00:56:25,040
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# In some new place on some new face I've never seen #
+
+575
+00:56:25,210 --> 00:56:30,630
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# I might find where I belong someday #
+
+576
+00:56:30,800 --> 00:56:36,760
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# And there may even be another dream for me #
+
+577
+00:56:36,930 --> 00:56:42,230
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Waiting there somewhere along the way #
+
+578
+00:56:42,390 --> 00:56:44,940
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Listen to the spirit within.
+
+579
+00:56:45,810 --> 00:56:50,530
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Who knows where I go from here? #
+
+580
+00:56:50,690 --> 00:56:55,780
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# So many voices Only one thing's clear #
+
+581
+00:56:55,950 --> 00:56:58,990
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# There's nothing to lose #
+
+582
+00:56:59,160 --> 00:57:01,910
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# Nothing to fear #
+
+583
+00:57:02,080 --> 00:57:05,210
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# The past is gone #
+
+584
+00:57:05,380 --> 00:57:08,540
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# I must move on #
+
+585
+00:57:08,710 --> 00:57:14,970
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}# From here #
+
+586
+00:57:31,940 --> 00:57:35,110
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- I'm going back.  - They'll hang you.
+
+587
+00:57:35,280 --> 00:57:37,950
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Then I will be but the first to fall.
+
+588
+00:57:38,120 --> 00:57:41,290
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}They're not going to listen to you. Look at you.
+
+589
+00:57:41,450 --> 00:57:44,750
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}How can they respect my culture if they haven't seen it?
+
+590
+00:57:44,910 --> 00:57:47,210
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}This is insane! Nuts!
+
+591
+00:57:47,380 --> 00:57:49,420
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Tell her she's crazy.
+
+592
+00:57:52,460 --> 00:57:53,510
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You're crazy.
+
+593
+00:57:57,340 --> 00:58:00,720
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I thought you may need whatever power this holds for you.
+
+594
+00:58:02,180 --> 00:58:04,890
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I think it's time you taught society a lesson.
+
+595
+00:58:05,060 --> 00:58:06,980
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I have decided.
+
+596
+00:58:17,280 --> 00:58:19,820
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Hear ye! Hear ye!
+
+597
+00:58:19,990 --> 00:58:24,500
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}The High Court of King James will herewith commence.
+
+598
+00:58:24,660 --> 00:58:27,750
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Presenting the first order of business...
+
+599
+00:58:32,800 --> 00:58:36,130
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas! Guards! Guards!
+
+600
+00:58:39,720 --> 00:58:43,180
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Surely His Majesty would not refuse an audience
+
+601
+00:58:43,350 --> 00:58:45,060
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}with a visiting princess.
+
+602
+00:58:45,230 --> 00:58:46,810
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}James.
+
+603
+00:58:53,230 --> 00:58:56,110
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Your Grace, if you insist on war,
+
+604
+00:58:56,280 --> 00:58:59,360
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}my people will fight to the last warrior.
+
+605
+00:58:59,530 --> 00:59:01,870
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}There is nothing to be gained,
+
+606
+00:59:02,030 --> 00:59:04,990
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}but much to be lost, for all of us.
+
+607
+00:59:05,160 --> 00:59:07,910
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}There is no gold, is there?
+
+608
+00:59:08,080 --> 00:59:10,920
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- No. Ratcliffe assured me...  - That I was dead?
+
+609
+00:59:12,040 --> 00:59:13,130
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Was it true?
+
+610
+00:59:15,510 --> 00:59:18,380
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Ratcliffe has lied to you about everything.
+
+611
+00:59:23,510 --> 00:59:28,270
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}There are many voices around you, but you must listen to your own voice.
+
+612
+00:59:28,430 --> 00:59:31,140
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Why do you speak out when so many doubt you,
+
+613
+00:59:31,310 --> 00:59:34,110
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}even when it could mean your life?
+
+614
+00:59:34,270 --> 00:59:36,820
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Because I speak the truth.
+
+615
+00:59:40,070 --> 00:59:41,910
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Silence!
+
+616
+00:59:42,070 --> 00:59:44,950
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Ratcliffe has left. We must stop him!
+
+617
+00:59:45,120 --> 00:59:48,580
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- But it's too late.  - We must try.
+
+618
+00:59:52,080 --> 00:59:57,050
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}You are the best soldiers in the civilised world.
+
+619
+00:59:57,210 --> 01:00:01,550
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}We sail to scour the world of the savage vermin.
+
+620
+01:00:01,720 --> 01:00:03,010
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Are you with me?
+
+621
+01:00:05,430 --> 01:00:06,510
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Riders approaching!
+
+622
+01:00:09,560 --> 01:00:10,600
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Smith!
+
+623
+01:00:12,270 --> 01:00:13,650
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Raise anchor! Cast off!
+
+624
+01:00:13,810 --> 01:00:16,190
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Lift anchor!  - Drop the main sail!
+
+625
+01:00:21,650 --> 01:00:23,660
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- It's John Smith!  - I thought he was dead!
+
+626
+01:00:23,820 --> 01:00:28,490
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I'm the ghost of John Smith. Run for your lives!
+
+627
+01:01:01,940 --> 01:01:03,820
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Who started the party without me?
+
+628
+01:01:08,530 --> 01:01:11,370
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- You call this a party?  - You're not having any fun?
+
+629
+01:01:42,190 --> 01:01:43,820
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Drop the anchor!
+
+630
+01:01:48,280 --> 01:01:50,910
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Hard to port!  - Bring her about! Bring her about!
+
+631
+01:01:52,660 --> 01:01:53,870
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Prepare to crash!
+
+632
+01:02:07,430 --> 01:02:10,220
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Now I can finally get rid of you, you savage!
+
+633
+01:02:12,270 --> 01:02:13,560
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Mind if I cut in?
+
+634
+01:02:23,190 --> 01:02:24,650
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Trying to make a point?
+
+635
+01:02:39,790 --> 01:02:43,300
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Please, don't hurt me, Smith. I was just doing my duty.
+
+636
+01:02:43,460 --> 01:02:44,500
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Sheath your sword.
+
+637
+01:02:44,670 --> 01:02:47,880
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Surely you know that a good soldier always follows orders.
+
+638
+01:02:48,050 --> 01:02:52,260
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}If it were I, I would have killed you years ago.
+
+639
+01:02:53,220 --> 01:02:56,640
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}As I was saying, I never liked you, Smith.
+
+640
+01:02:56,810 --> 01:02:59,980
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I hereby sentence you to death.
+
+641
+01:03:00,150 --> 01:03:01,980
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Goodbye, Smith.
+
+642
+01:03:08,070 --> 01:03:10,450
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Very stylish.  - I learned it from the best.
+
+643
+01:03:11,490 --> 01:03:15,040
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Pity. I so would have preferred to see you hang.
+
+644
+01:03:40,770 --> 01:03:43,060
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Your Majesty, the fugitives are getting away!
+
+645
+01:03:43,230 --> 01:03:45,940
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}They've sabotaged the armada. Stop them!
+
+646
+01:03:46,780 --> 01:03:49,440
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}No more lies.
+
+647
+01:03:50,450 --> 01:03:52,240
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Arrest him.
+
+648
+01:04:01,540 --> 01:04:04,630
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- John Smith, what a heroic return.  - Why, thank you, my lady.
+
+649
+01:04:04,790 --> 01:04:07,380
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- How did you escape?  - We thought you were dead.
+
+650
+01:04:07,550 --> 01:04:08,960
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Bravo, John!
+
+651
+01:04:21,480 --> 01:04:23,940
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Lord Advisor to the Royal Court.
+
+652
+01:04:24,110 --> 01:04:25,770
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}What a wonderful honour.
+
+653
+01:04:28,690 --> 01:04:30,860
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}It's what you've always wanted.
+
+654
+01:04:32,740 --> 01:04:36,160
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}And you, you've done everything you've set out to do...
+
+655
+01:04:36,330 --> 01:04:37,950
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}and more.
+
+656
+01:04:40,790 --> 01:04:42,580
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Your people will be very proud.
+
+657
+01:04:45,290 --> 01:04:48,840
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Yes. It will be good to see them again.
+
+658
+01:04:49,010 --> 01:04:51,460
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Well, perhaps one day you'll return to London.
+
+659
+01:04:52,510 --> 01:04:53,590
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Pocahontas...  - John...
+
+660
+01:04:53,760 --> 01:04:56,180
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}The king has given me a ship! This is my dream!
+
+661
+01:04:57,180 --> 01:05:01,390
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Ours. Every day a new adventure. New lands to discover.
+
+662
+01:05:01,560 --> 01:05:05,690
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I'll chart a new course. And you'll be at my side, naturally.
+
+663
+01:05:05,860 --> 01:05:07,810
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}A ship of our own!
+
+664
+01:05:07,980 --> 01:05:11,940
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I'll put a crew together immediately! We'll set sail right away!
+
+665
+01:05:13,240 --> 01:05:14,280
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}What?
+
+666
+01:05:16,490 --> 01:05:18,830
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}That's not what you want, is it?
+
+667
+01:05:19,910 --> 01:05:22,620
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}We walked the same path once.
+
+668
+01:05:22,790 --> 01:05:25,330
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I have found where I belong.
+
+669
+01:05:27,130 --> 01:05:30,210
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I hope you will also find happiness.
+
+670
+01:05:30,380 --> 01:05:33,800
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}May the Great Spirit always be with you.
+
+671
+01:06:08,130 --> 01:06:10,500
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas? Pocahontas!
+
+672
+01:06:13,170 --> 01:06:15,510
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Look smart, men!  - I don't see anything.
+
+673
+01:06:18,890 --> 01:06:23,010
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Mrs.Jenkins!  - Oh, there you are, dear.
+
+674
+01:06:23,180 --> 01:06:24,430
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Over here.
+
+675
+01:06:27,400 --> 01:06:31,770
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Mrs.Jenkins, thank you so much for everything.
+
+676
+01:06:31,940 --> 01:06:35,030
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}- Is John Rolfe here?  - I haven't seen him, dear.
+
+677
+01:06:35,190 --> 01:06:40,030
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I thought he was with you. Maybe he hates goodbyes as much as I do.
+
+678
+01:06:40,200 --> 01:06:42,030
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Goodbye, dear.
+
+679
+01:07:04,720 --> 01:07:07,350
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Well, perhaps one day we'll return to London.
+
+680
+01:07:09,020 --> 01:07:10,400
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}John!
+
+681
+01:07:13,110 --> 01:07:15,110
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}What about your duty to the king?
+
+682
+01:07:15,280 --> 01:07:18,650
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}I have a duty to honour what is in my heart, Pocahontas.
+
+683
+01:07:25,080 --> 01:07:28,370
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Come on, Uti. Let's put on some tea.
+
+684
+01:07:28,540 --> 01:07:30,920
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}And you, mind your manners.
+
+685
+01:07:35,300 --> 01:07:36,840
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}Let's go home.
+
+686
+01:07:40,840 --> 01:07:56,840
+{\fnCambria\bord1\shad1\1c&H45DFEC&\b0\i1}亲，有空的时候可以来交流电影哦 加我QQ：1610169789
+
+687
+01:07:56,840 --> 01:07:56,840
+

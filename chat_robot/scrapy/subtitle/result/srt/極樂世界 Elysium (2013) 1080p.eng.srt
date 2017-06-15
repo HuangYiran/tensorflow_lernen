@@ -1,0 +1,4348 @@
+﻿1
+00:02:18,310 --> 00:02:19,740
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max!
+
+2
+00:02:24,760 --> 00:02:26,440
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Come here.
+
+3
+00:02:26,510 --> 00:02:29,450
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let's not make the sisters wait.
+
+4
+00:02:33,630 --> 00:02:36,730
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Her name is Frey.
+
+5
+00:02:37,180 --> 00:02:40,820
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}She's new here too.
+
+6
+00:02:45,500 --> 00:02:47,520
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Can you read?
+
+7
+00:02:52,640 --> 00:02:55,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}This is a giraffe. They lived in Africa.
+
+8
+00:02:55,980 --> 00:02:57,410
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You can read?
+
+9
+00:02:57,430 --> 00:02:58,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yes.
+
+10
+00:03:05,180 --> 00:03:09,450
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}There are many robot servers, and they serve you all day.
+
+11
+00:03:09,500 --> 00:03:13,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}If you live there, you'll never get sick, or old.
+
+12
+00:03:13,580 --> 00:03:15,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'll take us there, one day.
+
+13
+00:03:15,580 --> 00:03:18,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Really?     -Yes, I promise.
+
+14
+00:03:18,680 --> 00:03:23,510
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Frey and Max.
+
+15
+00:03:24,680 --> 00:03:26,860
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Forever.
+
+16
+00:03:27,980 --> 00:03:32,000
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max, are you stealing again?
+
+17
+00:03:33,240 --> 00:03:38,140
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It breaks my heart. Why do you do it?
+
+18
+00:03:38,380 --> 00:03:39,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}To save up ?
+
+19
+00:03:39,980 --> 00:03:44,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You want to buy a ticket to go up there?
+
+20
+00:03:55,280 --> 00:03:59,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}That place is not for you, or me.
+
+21
+00:03:59,980 --> 00:04:02,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It's not fair, sister.
+
+22
+00:04:02,680 --> 00:04:04,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Why can't I go?
+
+23
+00:04:04,380 --> 00:04:06,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}There are things in life that can't be explained.
+
+24
+00:04:06,980 --> 00:04:09,860
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We just have to accept them.
+
+25
+00:04:09,880 --> 00:04:12,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}But one thing I know for sure.
+
+26
+00:04:12,980 --> 00:04:16,160
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You're a very special person.
+
+27
+00:04:16,230 --> 00:04:19,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}One day you'll do something marvellous.
+
+28
+00:04:19,780 --> 00:04:22,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You were born for it.
+
+29
+00:04:23,780 --> 00:04:26,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}My little Max.
+
+30
+00:05:07,880 --> 00:05:09,480
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max, muy bueno!
+
+31
+00:05:09,530 --> 00:05:13,300
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Off to work, huh? Gotta get up early, to work that line.
+
+32
+00:05:13,950 --> 00:05:15,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Wanna make the world a better place?
+
+33
+00:05:16,020 --> 00:05:20,350
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}That's real funny, I have a job. Chistoso.
+
+34
+00:05:21,920 --> 00:05:24,640
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Por favor ninos! You think I got money?
+
+35
+00:05:24,740 --> 00:05:27,790
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Do I look like I have money?
+
+36
+00:05:28,980 --> 00:05:30,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}How about you, you got a little money?
+
+37
+00:05:30,790 --> 00:05:33,200
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Come on, whatta you got in there?
+
+38
+00:05:33,840 --> 00:05:35,250
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Wait a minute.
+
+39
+00:05:35,900 --> 00:05:36,990
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Wait a minute.
+
+40
+00:05:37,170 --> 00:05:41,990
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Oh, it's 5 bucks. Hey, wait a minute. I got 5 bucks, I'm rich.
+
+41
+00:05:42,070 --> 00:05:45,990
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I can buy my ticket to Elysium, huh?
+
+42
+00:05:46,420 --> 00:05:48,390
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Alright.
+
+43
+00:05:56,590 --> 00:06:02,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Please form an orderly queue. Your bus has arrived.
+
+44
+00:06:08,070 --> 00:06:09,320
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I don't have anything.
+
+45
+00:06:10,650 --> 00:06:12,800
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Checked. Move on.
+
+46
+00:06:21,230 --> 00:06:22,510
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Morning, Officer.
+
+47
+00:06:22,530 --> 00:06:28,750
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Extensive criminal history. Multiple felonies. What's in the bag?
+
+48
+00:06:28,880 --> 00:06:31,320
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hair products, mostly.
+
+49
+00:06:31,630 --> 00:06:32,700
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm just fucking with...
+
+50
+00:06:32,930 --> 00:06:36,340
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hey... I'm just going to work, man. There's nothing in the fucking bag.
+
+51
+00:06:36,390 --> 00:06:37,720
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Come on, I...
+
+52
+00:06:37,730 --> 00:06:40,000
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Misdemeanor: citizen disobedience.
+
+53
+00:06:40,030 --> 00:06:41,740
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Just going to work, man. Come on.
+
+54
+00:06:48,340 --> 00:06:50,400
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Checked.     -Nothing in there, is it?
+
+55
+00:06:50,420 --> 00:06:53,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Zero-tolerance policy applies to all citizens.
+
+56
+00:06:53,280 --> 00:06:54,390
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No shit?
+
+57
+00:06:54,480 --> 00:06:57,330
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You must report immediately to your parole officer.
+
+58
+00:06:57,980 --> 00:06:59,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Thank you, Citizen.
+
+59
+00:06:59,980 --> 00:07:01,980
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No, thank you.
+
+60
+00:07:12,250 --> 00:07:14,840
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Frey, fracture in bed 2.
+
+61
+00:07:21,580 --> 00:07:22,750
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max?
+
+62
+00:07:24,040 --> 00:07:25,290
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Frey...
+
+63
+00:07:25,310 --> 00:07:27,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I thought you were...
+
+64
+00:07:27,780 --> 00:07:30,300
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-When did you get back?     -Been back for a while.
+
+65
+00:07:30,550 --> 00:07:34,180
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-I see things haven't changed.     -No, this wasn't even my fault.
+
+66
+00:07:34,400 --> 00:07:35,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Of course not.
+
+67
+00:07:35,480 --> 00:07:37,350
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Let me have a look.     -How is it?
+
+68
+00:07:37,380 --> 00:07:39,080
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Pretty bad break.
+
+69
+00:07:39,980 --> 00:07:42,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}So you're a nurse, huh? You did it!
+
+70
+00:07:43,030 --> 00:07:44,210
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yeah.
+
+71
+00:07:45,070 --> 00:07:46,540
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}That's great.
+
+72
+00:07:46,790 --> 00:07:49,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You still stealing cars?
+
+73
+00:07:49,580 --> 00:07:52,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No, God, I don't do any of that stupid shit anymore.
+
+74
+00:07:52,980 --> 00:07:56,250
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I work at Armadyne. On the line, you know? Working...
+
+75
+00:07:56,380 --> 00:07:59,400
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Frey, they need you up on the 3rd floor.     -Be right there.
+
+76
+00:07:59,520 --> 00:08:02,670
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-So, you know, now that you're back...     -Just a second.
+
+77
+00:08:02,820 --> 00:08:04,480
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Just a second.
+
+78
+00:08:05,050 --> 00:08:07,370
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Dominica, can you take over here?
+
+79
+00:08:07,390 --> 00:08:11,190
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hey, listen. Now, you know, 'cause you're back and everything.
+
+80
+00:08:11,210 --> 00:08:12,620
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max, I'm so sorry I have to go.
+
+81
+00:08:12,640 --> 00:08:15,290
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It's good to see you. Stay out of trouble.
+
+82
+00:08:17,230 --> 00:08:18,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I do.
+
+83
+00:08:28,100 --> 00:08:29,770
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Look...
+
+84
+00:08:29,790 --> 00:08:33,290
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I know why you left the neighborhood, I understand.
+
+85
+00:08:33,310 --> 00:08:36,160
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}If I was as smart as you I would have left too.
+
+86
+00:08:36,180 --> 00:08:38,510
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Have dinner with me. Just...
+
+87
+00:08:39,020 --> 00:08:41,330
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'll settle for a coffee.
+
+88
+00:08:42,120 --> 00:08:44,050
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-No.     -Aww.
+
+89
+00:08:44,480 --> 00:08:47,160
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Have I gotta break my other arm to get attention?
+
+90
+00:08:47,180 --> 00:08:49,050
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Stop.     -...'cause I will do that.
+
+91
+00:08:49,910 --> 00:08:52,440
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}My life is complicated, Max.
+
+92
+00:08:53,510 --> 00:08:56,640
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I just, I... I miss you.
+
+93
+00:08:57,980 --> 00:09:01,860
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-My shift ends at 8 on Wednesday, OK?     -Yeah, all right.
+
+94
+00:09:01,880 --> 00:09:03,640
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Coffee.     -Yeah, coffee. Right.
+
+95
+00:09:03,730 --> 00:09:04,870
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Get out of here.
+
+96
+00:09:06,980 --> 00:09:10,480
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}All parolees must have weapons inspection
+
+97
+00:09:16,550 --> 00:09:18,180
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hello.
+
+98
+00:09:19,220 --> 00:09:21,060
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Before we start, I'd just like to explain...
+
+99
+00:09:21,080 --> 00:09:25,720
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max da Costa, violation of Penal Code 2219. Today at bus stop 34-B.
+
+100
+00:09:25,740 --> 00:09:27,810
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yes, that's exactly what I wanted to talk to you about.
+
+101
+00:09:27,830 --> 00:09:29,620
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}See I believe there's been a misunderstanding.
+
+102
+00:09:29,640 --> 00:09:31,890
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Immediate extension of parole by a further 8 months.
+
+103
+00:09:31,910 --> 00:09:34,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Wait, What? No, no, I can explain what happened.
+
+104
+00:09:34,980 --> 00:09:37,100
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I just made a joke. And, you know...
+
+105
+00:09:37,120 --> 00:09:38,430
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Stop talking.
+
+106
+00:09:38,490 --> 00:09:41,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Police officers noted violent and antisocial behavior.
+
+107
+00:09:41,480 --> 00:09:44,820
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We regrettably must extend parole.
+
+108
+00:09:45,220 --> 00:09:47,300
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Elevation in heart rate detected.
+
+109
+00:09:47,320 --> 00:09:49,650
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Would you like a pill?     -No!
+
+110
+00:09:50,410 --> 00:09:53,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Thank you, what I'd like to do is expl...
+
+111
+00:09:53,980 --> 00:09:54,720
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Stop talking.
+
+112
+00:09:54,740 --> 00:09:59,390
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Personality matrix suggests a 78.3% chance of regression to old behavior patterns.
+
+113
+00:09:59,270 --> 00:10:01,820
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Grand theft auto, assault with a deadly weapon,
+
+114
+00:10:01,840 --> 00:10:02,930
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}resisting arrest.
+
+115
+00:10:03,310 --> 00:10:07,230
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Would you like to talk to a human?     -No, I am OK. Thank you.
+
+116
+00:10:07,440 --> 00:10:10,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Are you being sarcastic and/or abusive?     -Negative.
+
+117
+00:10:11,230 --> 00:10:13,830
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It is a federal offense to abuse a Parole Officer.
+
+118
+00:10:13,870 --> 00:10:15,130
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Understood.
+
+119
+00:10:20,680 --> 00:10:22,830
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hey, da Costa!
+
+120
+00:10:22,850 --> 00:10:25,920
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-You're late for your shift.     -Yeah man, I had a little thing...
+
+121
+00:10:25,940 --> 00:10:27,490
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No, no. You can't work with that. You're out.
+
+122
+00:10:27,540 --> 00:10:29,590
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No, no, I'm good, man. I can work.
+
+123
+00:10:29,610 --> 00:10:31,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It's coming off later today. I'm fine.
+
+124
+00:10:31,780 --> 00:10:32,870
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-You're good?     -I'm good!
+
+125
+00:10:33,270 --> 00:10:35,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}OK, I'm docking you half a day.
+
+126
+00:10:35,380 --> 00:10:37,800
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Yeah, alright.     -You're lucky to have this job.
+
+127
+00:10:37,820 --> 00:10:41,210
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No weapons detected. You are clear for entry.
+
+128
+00:10:43,980 --> 00:10:46,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Please keep your workstation tidy.
+
+129
+00:10:46,680 --> 00:10:49,810
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}A tidy workstation is an efficient workstation.
+
+130
+00:11:01,980 --> 00:11:05,100
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hey check it out, man. I think he likes you.
+
+131
+00:11:05,120 --> 00:11:07,410
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Think he got his face peeled today? He looks good.
+
+132
+00:11:07,430 --> 00:11:09,610
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Attention: all workers must reach weekly quotas.
+
+133
+00:11:09,630 --> 00:11:13,230
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Please report any unsafe activity to your supervisor.
+
+134
+00:11:13,640 --> 00:11:15,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}If we don't have a clear path to up-side,
+
+135
+00:11:15,780 --> 00:11:19,310
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}our investors are going to start losing a lot of confidence.
+
+136
+00:11:19,390 --> 00:11:21,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What do you think I've been doing here, on Earth?
+
+137
+00:11:21,380 --> 00:11:23,850
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}D'you think I enjoy breathing this air?
+
+138
+00:11:23,870 --> 00:11:26,570
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-No, of course, but...     -I'm doing everything possible...
+
+139
+00:11:26,610 --> 00:11:29,010
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}to restore profitability to this company.
+
+140
+00:11:29,080 --> 00:11:30,920
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}The company that I built.
+
+141
+00:11:30,980 --> 00:11:32,440
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Now, if you will excuse me,
+
+142
+00:11:32,460 --> 00:11:35,060
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I have to not speak to you people any longer. Thank you.
+
+143
+00:11:46,590 --> 00:11:48,720
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Closing 34!
+
+144
+00:11:52,400 --> 00:11:54,800
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Firing 34.
+
+145
+00:12:15,270 --> 00:12:18,020
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Tag her, quick!
+
+146
+00:12:31,480 --> 00:12:33,540
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let's go, we don't have much time.
+
+147
+00:12:33,670 --> 00:12:35,610
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We have 3 transporter codes, Spider.
+
+148
+00:12:35,730 --> 00:12:37,340
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}OK, pull'em up on screen.
+
+149
+00:12:37,470 --> 00:12:40,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Codes have been accepted.
+
+150
+00:12:40,740 --> 00:12:42,870
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Fire up the shuttles!
+
+151
+00:12:43,390 --> 00:12:44,840
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We're going up!
+
+152
+00:13:17,680 --> 00:13:19,750
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Welcome.     -Hello, ma'am.
+
+153
+00:13:20,380 --> 00:13:23,050
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Take a look at the garden.     -We will, thank you.
+
+154
+00:13:24,680 --> 00:13:27,050
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Hello, Madame Delacourt.     -Hello.
+
+155
+00:13:27,070 --> 00:13:28,850
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hi, Ivan, how you've grown.
+
+156
+00:13:28,860 --> 00:13:30,060
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hi. You alright?
+
+157
+00:13:30,130 --> 00:13:33,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Fine. Are the kids here?     -Yes, with Dominica.
+
+158
+00:13:33,380 --> 00:13:36,410
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I have a present for you. Wanna see? It's in the salon.
+
+159
+00:13:36,430 --> 00:13:39,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Go get it with your mother.
+
+160
+00:13:39,280 --> 00:13:40,850
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-It's, by the canape.     -OK
+
+161
+00:13:40,870 --> 00:13:41,620
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Bye.
+
+162
+00:13:41,640 --> 00:13:44,130
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Ma'am, would you care for a refreshment?
+
+163
+00:13:44,370 --> 00:13:45,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Demand's cancelled.
+
+164
+00:14:05,080 --> 00:14:09,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Sorry for disturbing you, ma'am. We have a number of undocumented ships inbound.
+
+165
+00:14:13,380 --> 00:14:16,240
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Good afternoon, Defense Secretary Delacourt.
+
+166
+00:14:16,360 --> 00:14:19,910
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}3 undocumented ships are approaching Elysium airspace.
+
+167
+00:14:19,960 --> 00:14:23,910
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Emergency orders 6 and 7 are now in effect.
+
+168
+00:14:26,580 --> 00:14:29,910
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Protocol 22/B39...
+
+169
+00:14:35,330 --> 00:14:37,530
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Attention, incoming vessels.
+
+170
+00:14:37,760 --> 00:14:40,870
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You have made unauthorized entry into Elysium airspace.
+
+171
+00:14:40,980 --> 00:14:43,140
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Dad!     -It's OK!
+
+172
+00:14:43,180 --> 00:14:45,920
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We will be forced to take immediate action.
+
+173
+00:14:45,940 --> 00:14:48,940
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You are in violation of Elysium airspace.
+
+174
+00:14:49,300 --> 00:14:51,810
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Standard warning didn't work.
+
+175
+00:14:52,570 --> 00:14:55,370
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}15,000 kilometers and closing...
+
+176
+00:14:55,600 --> 00:14:58,630
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-What do you want us to do, ma'am?     -Activate Kruger.
+
+177
+00:15:00,060 --> 00:15:04,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Ma'am, according to Executive Order 355 we are unauthorized to use our assets on earth
+
+178
+00:15:05,090 --> 00:15:07,230
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I am authorizing you.
+
+179
+00:15:08,170 --> 00:15:09,990
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yes, ma'am.
+
+180
+00:15:25,610 --> 00:15:29,180
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Agent 32--over. We are sending the packet--over.
+
+181
+00:15:39,980 --> 00:15:42,690
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Welcome, Agent Kruger!
+
+182
+00:15:45,230 --> 00:15:47,390
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}10,000 kilometers and closing.
+
+183
+00:15:47,510 --> 00:15:49,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Sending coordinates to asset.
+
+184
+00:15:49,380 --> 00:15:52,100
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Three target data.
+
+185
+00:15:52,980 --> 00:15:54,970
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Shoot them down!
+
+186
+00:15:54,990 --> 00:15:57,630
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Green light, 21-B. Green light.
+
+187
+00:16:03,080 --> 00:16:04,750
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Missiles away!
+
+188
+00:16:04,980 --> 00:16:06,900
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Shit.
+
+189
+00:16:21,660 --> 00:16:23,730
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Impacto inminente. 10...
+
+190
+00:16:26,060 --> 00:16:28,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}8... 7... 6...
+
+191
+00:16:29,100 --> 00:16:31,880
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}5... 4... 3...
+
+192
+00:16:32,130 --> 00:16:34,130
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}2... 1...
+
+193
+00:16:46,660 --> 00:16:50,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Two ships destroyed. 46 total casualties.
+
+194
+00:16:50,680 --> 00:16:53,050
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Impact in 5...
+
+195
+00:16:59,270 --> 00:17:01,950
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Last missile was a miss.     -Ridiculous!
+
+196
+00:17:02,490 --> 00:17:04,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Only one made it.
+
+197
+00:17:07,780 --> 00:17:10,080
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Ma'am, the ship has breached our atmosphere.
+
+198
+00:17:23,980 --> 00:17:26,450
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}First undocumented ship just touched down.
+
+199
+00:17:26,470 --> 00:17:29,980
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I want everyone coming out of that vehicle apprehendeded.
+
+200
+00:17:59,210 --> 00:18:02,040
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Identification confirmed.
+
+201
+00:18:02,090 --> 00:18:03,610
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Scanning.
+
+202
+00:18:05,100 --> 00:18:07,720
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Reconstruction process initiating.
+
+203
+00:18:12,570 --> 00:18:14,140
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No!
+
+204
+00:18:14,950 --> 00:18:19,220
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We have 32 arrests, 13 casualties, and 2 illegals at large, Ma'am.
+
+205
+00:18:19,850 --> 00:18:22,490
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Reconstruction complete.
+
+206
+00:18:34,580 --> 00:18:39,070
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You are under arrest, under the 68-C Immigration Act.
+
+207
+00:18:40,980 --> 00:18:43,510
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-All illegals are now in custody, ma'am.     -Yes.
+
+208
+00:18:43,580 --> 00:18:46,830
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Send them to deportation, Get them off this habitat.
+
+209
+00:18:58,680 --> 00:19:02,880
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Secretary Delacourt, please report to President Patel immediately.
+
+210
+00:19:02,980 --> 00:19:06,500
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Secretary Delacourt, report to President Patel.
+
+211
+00:19:32,080 --> 00:19:34,630
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What up, man? ?que te paso?
+
+212
+00:19:35,000 --> 00:19:37,630
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Lo es siempre, the police, man.
+
+213
+00:19:36,980 --> 00:19:38,850
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Are you OK?     -Yeah, don't worry about it.
+
+214
+00:19:38,950 --> 00:19:41,840
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max, I gotta talk to you. You know...
+
+215
+00:19:41,960 --> 00:19:43,540
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-No!     -What do you mean no?
+
+216
+00:19:43,810 --> 00:19:45,420
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You didn't even hear what I was gonna say.
+
+217
+00:19:45,520 --> 00:19:47,620
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Alright, go ahead.     -OK.
+
+218
+00:19:47,980 --> 00:19:50,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You know the house of Doseta's up on the hill?
+
+219
+00:19:50,780 --> 00:19:51,720
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yeah, the one with all the guns.
+
+220
+00:19:51,740 --> 00:19:53,680
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yeah, they have five cars. New ones.
+
+221
+00:19:54,070 --> 00:19:57,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It's gonna be three of us. Tomorrow, at lunch.
+
+222
+00:19:57,520 --> 00:19:59,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Lunch time?     -That's the plan?
+
+223
+00:19:59,980 --> 00:20:00,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Jesus Christ.
+
+224
+00:20:00,980 --> 00:20:04,330
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-You have a better plan?     -Yeah, just take one guy.
+
+225
+00:20:04,350 --> 00:20:07,880
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Go before the sun comes up. You take the two fastest cars.
+
+226
+00:20:07,900 --> 00:20:09,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Torch the batteries on the other ones.
+
+227
+00:20:09,980 --> 00:20:11,060
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Fuck you. Fuck you!
+
+228
+00:20:11,080 --> 00:20:12,920
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I got you, cojone!
+
+229
+00:20:12,940 --> 00:20:16,020
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Oh please. You're the best. Give me one year.
+
+230
+00:20:16,040 --> 00:20:18,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-I'm not going back to prison.     -One year, please!
+
+231
+00:20:19,180 --> 00:20:22,670
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Look at you! You used to be a legend, and now what?
+
+232
+00:20:33,620 --> 00:20:36,790
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}The time is 5:50 am.
+
+233
+00:20:47,030 --> 00:20:50,200
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No weapons detected. You are clear for entry.
+
+234
+00:20:55,720 --> 00:20:57,690
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Closing 34!
+
+235
+00:21:07,240 --> 00:21:10,540
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Attention, doors are not aligned. Worker attend.
+
+236
+00:21:16,140 --> 00:21:19,350
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hey, you're holding up the line.
+
+237
+00:21:19,800 --> 00:21:22,070
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No, no, I got a jam!
+
+238
+00:21:22,110 --> 00:21:25,060
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Attention: workers may not use the restroom more than once per sh...
+
+239
+00:21:25,480 --> 00:21:28,920
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-What've you done, da Costa?     -No, I'm just trying to reset.
+
+240
+00:21:28,940 --> 00:21:30,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let me look.
+
+241
+00:21:31,880 --> 00:21:33,900
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-The pallet's pinched.     -Yeah, It didn't move.
+
+242
+00:21:33,920 --> 00:21:36,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Just go in there.     -No, I mean...
+
+243
+00:21:36,300 --> 00:21:38,580
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Look, you go in there right now...
+
+244
+00:21:38,600 --> 00:21:41,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}or we'll find someone who will, and you can go clean out your locker.
+
+245
+00:21:41,400 --> 00:21:44,010
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Come on, man.     -No, no. That's the deal, OK?
+
+246
+00:21:44,030 --> 00:21:45,290
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}In you go!
+
+247
+00:21:49,690 --> 00:21:51,900
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let's go, people, back to work!
+
+248
+00:21:54,050 --> 00:21:55,720
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Fuck.
+
+249
+00:22:19,220 --> 00:22:23,210
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No, no, no, stop!
+
+250
+00:22:23,420 --> 00:22:24,330
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hey!
+
+251
+00:22:43,160 --> 00:22:45,160
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hey, come on, vamos!
+
+252
+00:22:46,880 --> 00:22:48,250
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Too late!
+
+253
+00:22:51,280 --> 00:22:53,530
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Extraction!
+
+254
+00:23:21,890 --> 00:23:25,000
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Sister, they beat me up.
+
+255
+00:23:25,980 --> 00:23:28,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I only want to live there.
+
+256
+00:23:30,380 --> 00:23:33,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}See how beautiful it looks to us down here?
+
+257
+00:23:34,290 --> 00:23:35,830
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yes.
+
+258
+00:23:37,980 --> 00:23:39,290
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Well, now...
+
+259
+00:23:39,310 --> 00:23:42,890
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}See how beautiful we look to them up there.
+
+260
+00:23:45,190 --> 00:23:46,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Keep this.
+
+261
+00:23:46,480 --> 00:23:49,120
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Now it belongs to you.
+
+262
+00:23:49,480 --> 00:23:53,390
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}So you never forget where you come from.
+
+263
+00:24:10,850 --> 00:24:12,340
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What happened?
+
+264
+00:24:12,360 --> 00:24:16,160
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You have been exposed to a lethal dose of radiation.
+
+265
+00:24:16,390 --> 00:24:19,470
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You will experience catastrophic organ failure.
+
+266
+00:24:19,720 --> 00:24:22,520
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}In five days time, you will die.
+
+267
+00:24:32,390 --> 00:24:35,330
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What is going on? Why has production stopped?
+
+268
+00:24:36,010 --> 00:24:38,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-He's been exposed ...     -Don't breathe on me.
+
+269
+00:24:38,340 --> 00:24:40,450
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Cover your mouth.     -I'm sorry, sir.
+
+270
+00:24:49,280 --> 00:24:52,710
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Does his skin fall off, or something?
+
+271
+00:24:52,730 --> 00:24:55,470
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I don't want to replace the bedding in there. Just get him out.
+
+272
+00:24:55,680 --> 00:24:57,820
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Yes, sir.     -Right, thank you.
+
+273
+00:24:57,950 --> 00:25:01,180
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Mr. Carlyle, your shuttle is ready for departure.
+
+274
+00:25:06,880 --> 00:25:10,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Please sign this to receive medication.
+
+275
+00:25:18,230 --> 00:25:20,770
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Miporol--extremely potent.
+
+276
+00:25:20,790 --> 00:25:23,790
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Will keep you functioning normally until your death.
+
+277
+00:25:24,140 --> 00:25:26,730
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Please take one pill with each meal.
+
+278
+00:25:26,950 --> 00:25:28,920
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Thank you for your service.
+
+279
+00:25:40,080 --> 00:25:45,810
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}At 15:00 hours yesterday you shot down two shuttles, killing 46 civilians.
+
+280
+00:25:45,980 --> 00:25:48,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Your mandate is to deal with illegals 'quietly'.
+
+281
+00:25:48,780 --> 00:25:50,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I am aware of that.
+
+282
+00:25:50,580 --> 00:25:53,610
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}And then there's the use of this... agent.
+
+283
+00:25:54,070 --> 00:25:56,070
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}A Mr. M. Kruger.
+
+284
+00:25:56,350 --> 00:25:58,890
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}15 human rights violations...
+
+285
+00:25:58,980 --> 00:26:01,160
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Rapes, kidnappings, torture.
+
+286
+00:26:01,180 --> 00:26:04,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}The man's been diagnosed with serious psychological issues.
+
+287
+00:26:04,680 --> 00:26:09,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We made it explicitly clear to you that we're no longer using sleeper agents.
+
+288
+00:26:09,580 --> 00:26:12,910
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Tell me something, President Patel.
+
+289
+00:26:13,370 --> 00:26:15,470
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Do you have children?
+
+290
+00:26:16,480 --> 00:26:19,110
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm not the one being reviewed here.
+
+291
+00:26:19,760 --> 00:26:21,950
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Then I will assume you do not.
+
+292
+00:26:22,380 --> 00:26:25,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Perhaps, if you did have children,
+
+293
+00:26:25,380 --> 00:26:27,160
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}then you would behave in a manner
+
+294
+00:26:27,180 --> 00:26:31,160
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}that is more conducive to the longevity of this habitat.
+
+295
+00:26:31,180 --> 00:26:36,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I understand, it is not the fashion to think and to act as I do.
+
+296
+00:26:36,380 --> 00:26:38,340
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I understand that perfectly.
+
+297
+00:26:38,820 --> 00:26:41,490
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}But when they come for your house...
+
+298
+00:26:41,510 --> 00:26:43,840
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}or the house you built for your children,..
+
+299
+00:26:43,880 --> 00:26:45,880
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}and your children's children...
+
+300
+00:26:45,980 --> 00:26:50,060
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It won't be PR and campaign promises that keep them out.
+
+301
+00:26:50,080 --> 00:26:51,710
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It will be me!
+
+302
+00:26:51,730 --> 00:26:54,780
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I've heard enough! This is your final warning.
+
+303
+00:26:54,800 --> 00:26:58,570
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Any further unauthorized actions, and you will be removed from office.
+
+304
+00:26:58,590 --> 00:27:02,700
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}And let's discharge this agent Kruger permanently.
+
+305
+00:27:02,810 --> 00:27:04,860
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}All in favour?
+
+306
+00:27:05,980 --> 00:27:09,060
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Good. Effective immediately.
+
+307
+00:27:28,000 --> 00:27:29,600
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You want some beer?
+
+308
+00:27:38,760 --> 00:27:41,880
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You have been discharged from CCB.
+
+309
+00:27:41,890 --> 00:27:45,270
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Please return all weapons to local embassy.
+
+310
+00:27:46,180 --> 00:27:49,020
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Fuck your 'Politikster'! Fuck you!
+
+311
+00:28:01,840 --> 00:28:03,060
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Look...
+
+312
+00:28:04,650 --> 00:28:05,610
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max...
+
+313
+00:28:09,970 --> 00:28:10,970
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max!
+
+314
+00:28:12,700 --> 00:28:14,370
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What's wrong? What happened?
+
+315
+00:28:14,500 --> 00:28:17,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Jesus, let me help you. Let's go.
+
+316
+00:28:20,160 --> 00:28:22,000
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max, what happened?
+
+317
+00:28:22,480 --> 00:28:26,110
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Max, what happened?     -I shouldn't have gone in, man.
+
+318
+00:28:26,150 --> 00:28:27,190
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Gone in where?
+
+319
+00:28:32,710 --> 00:28:36,580
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I took a full dose, man.
+
+320
+00:28:36,610 --> 00:28:37,800
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}A full dose.
+
+321
+00:28:39,680 --> 00:28:42,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You're gonna be OK. Let me help.
+
+322
+00:28:43,720 --> 00:28:48,690
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-You're gonna be OK, Max.     -They gave me Miporol, man.
+
+323
+00:28:49,550 --> 00:28:54,470
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}They gave me... Miporol.
+
+324
+00:28:55,920 --> 00:29:00,490
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I got five fucking days! I only got five days!
+
+325
+00:29:00,530 --> 00:29:02,450
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You have to take this.
+
+326
+00:29:03,380 --> 00:29:07,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-They can fix this shit on Elysium, man.     -I know.
+
+327
+00:29:07,680 --> 00:29:11,100
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-I'm gonna go see Spider.     -Max, Max!
+
+328
+00:29:11,230 --> 00:29:13,330
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Take the pill!
+
+329
+00:29:16,980 --> 00:29:18,700
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}There you go!
+
+330
+00:29:19,480 --> 00:29:22,170
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}To see Spider, you need money.
+
+331
+00:29:22,380 --> 00:29:26,520
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'll give you everything I have, but it's not enough for a ticket.
+
+332
+00:29:26,980 --> 00:29:29,540
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}He's going to give me a ticket.
+
+333
+00:29:30,980 --> 00:29:33,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}He's gonna give me a fucking ticket.
+
+334
+00:29:35,690 --> 00:29:39,080
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Frey, you know we've done everything we could to help your daughter.
+
+335
+00:29:39,210 --> 00:29:40,820
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}But I had a meeting today with the board,
+
+336
+00:29:40,840 --> 00:29:43,150
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}and they're recommending that we send her home with you.
+
+337
+00:29:43,200 --> 00:29:45,140
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}How can I work here and leave her at home?
+
+338
+00:29:45,160 --> 00:29:46,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You know it can happen any minute, Dr. Faizel.
+
+339
+00:29:47,080 --> 00:29:50,900
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I know, if she has another seizure, of course bring her back here.
+
+340
+00:29:52,710 --> 00:29:54,720
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}But until then she's discharged.
+
+341
+00:29:54,790 --> 00:29:58,370
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}This isn't Elysium. We can't just heal her.
+
+342
+00:30:41,110 --> 00:30:42,530
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max!
+
+343
+00:30:42,960 --> 00:30:44,880
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It's been a while, my brother!
+
+344
+00:30:45,510 --> 00:30:47,980
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}How's life at the factory?
+
+345
+00:30:48,480 --> 00:30:52,170
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-I need to ask you a favour.     -What? I can't hear you. What?
+
+346
+00:30:53,030 --> 00:30:57,310
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I need a ticket. Up there. And an ID.
+
+347
+00:30:59,980 --> 00:31:01,900
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yeah, sure sure.
+
+348
+00:31:03,370 --> 00:31:06,540
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Absolutely. You prefer aisle or window?
+
+349
+00:31:06,580 --> 00:31:09,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm being fucking serious, man.
+
+350
+00:31:09,980 --> 00:31:13,580
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Listen, I'm gonna come back and work for you.
+
+351
+00:31:15,500 --> 00:31:18,770
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Anything you need. I'll fucking pay it back.
+
+352
+00:31:18,890 --> 00:31:20,610
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You know what?
+
+353
+00:31:21,880 --> 00:31:24,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}This... is...
+
+354
+00:31:24,380 --> 00:31:26,320
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}priceless.
+
+355
+00:31:27,580 --> 00:31:31,440
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}This is priceless.
+
+356
+00:31:31,460 --> 00:31:33,040
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yeah, let me ask you a question.
+
+357
+00:31:33,480 --> 00:31:36,820
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Do you have any idea how many idiots
+
+358
+00:31:36,840 --> 00:31:40,290
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}come in here saying the same kinda bullshit?
+
+359
+00:31:40,520 --> 00:31:44,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I got little kids coming here every day.
+
+360
+00:31:44,780 --> 00:31:50,550
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max, if I were you, I'd get the fuck out of here, right now
+
+361
+00:31:50,660 --> 00:31:51,530
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max, No...
+
+362
+00:31:51,700 --> 00:31:53,120
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max, No...
+
+363
+00:31:53,380 --> 00:31:55,060
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I did 3 years for you.
+
+364
+00:31:55,080 --> 00:31:57,350
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Everything I did for you, you're gonna get me up there.
+
+365
+00:31:57,370 --> 00:31:59,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Can you feel this?     -Go ahead and shoot.
+
+366
+00:31:59,400 --> 00:32:01,330
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I got so much radiation in my body right now,
+
+367
+00:32:01,350 --> 00:32:03,030
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}you're probably getting a little sick yourself.
+
+368
+00:32:03,330 --> 00:32:06,410
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-You really dying?     -I'm fucking dying, motherfucker.
+
+369
+00:32:06,880 --> 00:32:09,490
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}See this? It's over. I put the gun down.
+
+370
+00:32:09,510 --> 00:32:12,950
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Put the gun down! Put the gun down! Get out of here!
+
+371
+00:32:14,080 --> 00:32:15,420
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}OK!
+
+372
+00:32:16,120 --> 00:32:20,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Listen, I've been looking for someone to take a job for me.
+
+373
+00:32:20,680 --> 00:32:23,910
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}But no one here had the balls.
+
+374
+00:32:24,680 --> 00:32:27,980
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You said you'd do anything, right?
+
+375
+00:32:28,030 --> 00:32:30,110
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max...
+
+376
+00:32:38,860 --> 00:32:40,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-OK.     -I'm OK.
+
+377
+00:32:54,530 --> 00:32:55,650
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}This...
+
+378
+00:32:57,240 --> 00:32:58,730
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}my friend,
+
+379
+00:32:59,620 --> 00:33:02,940
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}this can be your ticket up there.
+
+380
+00:33:05,480 --> 00:33:09,050
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}One last job for me, you earn your way up.
+
+381
+00:33:09,400 --> 00:33:10,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What is it?
+
+382
+00:33:11,040 --> 00:33:14,600
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Take an Elysian asshole, right?
+
+383
+00:33:14,770 --> 00:33:20,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}A billionaire who's down on Earth for some business...
+
+384
+00:33:20,390 --> 00:33:22,940
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}He's, he's here for, whatever. We hijack him.
+
+385
+00:33:23,050 --> 00:33:25,050
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Fuck that!     -Relax.
+
+386
+00:33:25,500 --> 00:33:28,070
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}The guy's like much worse.
+
+387
+00:33:28,200 --> 00:33:31,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Forget his watch, forget his ride, forget all that shit.
+
+388
+00:33:31,860 --> 00:33:35,020
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}This, is what you take.
+
+389
+00:33:37,380 --> 00:33:41,390
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Organic Information, right out of his head.
+
+390
+00:33:41,520 --> 00:33:45,870
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm talking about bank codes, passwords, login data...
+
+391
+00:33:45,980 --> 00:33:48,820
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Access to billions.
+
+392
+00:33:49,380 --> 00:33:55,100
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}All you have to do is plug into his brain, download the data to yours with this baby,
+
+393
+00:33:55,380 --> 00:33:57,210
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}and bring it to me.
+
+394
+00:33:57,530 --> 00:33:58,940
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}This is crazy, Max.
+
+395
+00:33:58,950 --> 00:34:04,320
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Once we verify the data, I'll give you a one way ride, all expenses paid.
+
+396
+00:34:04,480 --> 00:34:07,330
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Even throw in some snacks and a drink.
+
+397
+00:34:07,640 --> 00:34:13,150
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}All you have to do is walk into a house and use the med-bay, and you're cured.
+
+398
+00:34:14,320 --> 00:34:16,870
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Sandro will do the surgery. You know him?
+
+399
+00:34:16,900 --> 00:34:19,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Fuck...     -Christ!
+
+400
+00:34:19,480 --> 00:34:20,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm good.
+
+401
+00:34:20,480 --> 00:34:24,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Actually, you seem all weak.
+
+402
+00:34:24,690 --> 00:34:26,290
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}And fucked up, so...
+
+403
+00:34:26,310 --> 00:34:29,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You know what? I have...
+
+404
+00:34:29,680 --> 00:34:33,480
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}This is crazy, let's get out of here, Please, listen to me.
+
+405
+00:34:33,620 --> 00:34:35,030
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What the fuck am I gonna do?
+
+406
+00:34:35,270 --> 00:34:37,250
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'll have them install...
+
+407
+00:34:37,710 --> 00:34:38,910
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}...this!
+
+408
+00:34:39,050 --> 00:34:41,090
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}A third generation Axo-suit.
+
+409
+00:34:41,190 --> 00:34:45,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We hook this into your nerval system, and it'll make you as strong as a droid.
+
+410
+00:34:45,280 --> 00:34:47,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You're already under the knife, right?
+
+411
+00:34:47,480 --> 00:34:49,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let's get out of here, please.
+
+412
+00:34:49,480 --> 00:34:52,190
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I want a 4 man team. But I pick them.
+
+413
+00:34:52,260 --> 00:34:54,740
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm sending my own data wrangler.
+
+414
+00:34:54,780 --> 00:34:57,990
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Brain to brain, that is real tough.
+
+415
+00:34:58,000 --> 00:35:02,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}OK, but I'm taking Julio. He gets a ticket up there, same as me.
+
+416
+00:35:02,780 --> 00:35:04,210
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yeah, sure.
+
+417
+00:35:04,230 --> 00:35:06,730
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}OK, I'll go get the boys ready.
+
+418
+00:35:06,750 --> 00:35:07,940
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Wait!
+
+419
+00:35:09,460 --> 00:35:12,330
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It's gotta be John Carlyle.
+
+420
+00:35:13,080 --> 00:35:16,530
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}The CEO of Armadyne, Carlyle?
+
+421
+00:35:17,180 --> 00:35:19,230
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}That's the mark.
+
+422
+00:35:24,670 --> 00:35:27,590
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Secretary Delacourt, Mr. Carlyle has arrived.
+
+423
+00:35:28,430 --> 00:35:33,550
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You are here to persuade me to renew our Armadyne contracts, yes?
+
+424
+00:35:33,850 --> 00:35:35,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Astute as always.
+
+425
+00:35:36,550 --> 00:35:38,230
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Come with me.
+
+426
+00:35:45,540 --> 00:35:49,190
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm not interested in your little ideas.
+
+427
+00:35:49,270 --> 00:35:51,780
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I am interested in something much larger.
+
+428
+00:35:51,800 --> 00:35:54,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}This habitat is dying.
+
+429
+00:35:54,480 --> 00:36:00,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}There is a political sickness inside of it. A tumor that needs to be removed.
+
+430
+00:36:00,300 --> 00:36:05,350
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You and your company are in need of revenue that is drying up.
+
+431
+00:36:05,520 --> 00:36:06,770
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}So...
+
+432
+00:36:07,480 --> 00:36:09,500
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You built the Torus.
+
+433
+00:36:09,590 --> 00:36:14,840
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Can you override the servers and place a new president in power?
+
+434
+00:36:17,790 --> 00:36:19,480
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}A coup?
+
+435
+00:36:20,680 --> 00:36:22,880
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Are you suggesting a coup?
+
+436
+00:36:22,910 --> 00:36:24,680
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Is it possible?
+
+437
+00:36:25,980 --> 00:36:28,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I could write a reboot sequence.
+
+438
+00:36:28,780 --> 00:36:33,060
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It'd shut down the entire system, and at that point...
+
+439
+00:36:33,770 --> 00:36:36,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}you can encode a new President, yes.
+
+440
+00:36:36,530 --> 00:36:38,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Then that is what you will do.
+
+441
+00:36:38,480 --> 00:36:43,060
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}And you will have your contract secured for the next 200 years.
+
+442
+00:36:43,080 --> 00:36:48,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Missile Defense Batteries, Droids, everything we need, to protect our liberty.
+
+443
+00:36:48,280 --> 00:36:53,140
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}all guaranteed, of course, by your new President.
+
+444
+00:36:59,780 --> 00:37:03,220
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Go! Get to work, Mr. Carlyle.
+
+445
+00:37:06,740 --> 00:37:08,350
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}This is the guy.
+
+446
+00:37:09,770 --> 00:37:12,270
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-He's the guy?     -This is him.
+
+447
+00:37:12,870 --> 00:37:14,630
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Sit down.
+
+448
+00:37:16,530 --> 00:37:18,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We're gonna cut you up good, homie.
+
+449
+00:37:18,570 --> 00:37:22,180
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Play nice, amigo. Play nice.
+
+450
+00:37:22,210 --> 00:37:24,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let's get him an ID first.
+
+451
+00:37:24,460 --> 00:37:26,290
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Give the chief one of my identification codes.
+
+452
+00:37:26,460 --> 00:37:28,290
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Get that ready.
+
+453
+00:37:28,460 --> 00:37:30,290
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Arm up.
+
+454
+00:37:29,580 --> 00:37:30,750
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Weonly have
+
+455
+00:37:32,580 --> 00:37:33,670
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What did you find?
+
+456
+00:37:35,890 --> 00:37:38,640
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}And we'll merge it with the DNA. Now you fit in.
+
+457
+00:37:38,660 --> 00:37:40,350
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Like you were born there.
+
+458
+00:37:42,780 --> 00:37:45,080
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Now it's time for the real fun.
+
+459
+00:38:04,720 --> 00:38:06,090
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hey, man.
+
+460
+00:38:06,550 --> 00:38:07,730
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yo.
+
+461
+00:38:08,820 --> 00:38:10,370
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}This gonna hurt?
+
+462
+00:38:12,380 --> 00:38:14,270
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yeah bitch, it's gonna hurt.
+
+463
+00:38:14,340 --> 00:38:15,820
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It's gonna hurt good.
+
+464
+00:38:15,930 --> 00:38:18,990
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}When we're done with you, you're gonna be a  ninja.
+
+465
+00:38:19,380 --> 00:38:20,490
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Mariana!...
+
+466
+00:38:20,560 --> 00:38:26,430
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Bring down the bone saw!
+
+467
+00:38:27,080 --> 00:38:28,900
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}This ain't gonna kill me.
+
+468
+00:38:30,380 --> 00:38:32,820
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You'll be airight. Not bad.
+
+469
+00:38:34,100 --> 00:38:35,250
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max.
+
+470
+00:38:36,600 --> 00:38:38,230
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm here.
+
+471
+00:38:39,910 --> 00:38:41,490
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We got this, man.
+
+472
+00:38:41,720 --> 00:38:43,590
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We got this?
+
+473
+00:38:45,390 --> 00:38:46,580
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yeah!
+
+474
+00:39:40,700 --> 00:39:41,830
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hey!
+
+475
+00:39:42,060 --> 00:39:43,970
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}He's awake!
+
+476
+00:39:45,660 --> 00:39:46,970
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Made it, huh?
+
+477
+00:39:47,400 --> 00:39:49,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Surprise!
+
+478
+00:39:53,820 --> 00:39:56,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You can still jack off, alright?
+
+479
+00:39:56,380 --> 00:39:58,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}How's everything going?
+
+480
+00:39:58,270 --> 00:39:59,270
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Ready to kick ass?
+
+481
+00:40:04,530 --> 00:40:06,860
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What the fuck did you do to me?
+
+482
+00:40:08,590 --> 00:40:10,580
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Gave you a way out.
+
+483
+00:41:01,040 --> 00:41:02,040
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Shit.
+
+484
+00:41:06,110 --> 00:41:07,670
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What's up, partner?
+
+485
+00:41:08,180 --> 00:41:10,450
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}How's that suit working out for you?
+
+486
+00:41:11,820 --> 00:41:13,870
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}That shit is tight!
+
+487
+00:41:14,000 --> 00:41:15,520
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Show me.
+
+488
+00:41:20,610 --> 00:41:21,900
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hold this.
+
+489
+00:41:23,880 --> 00:41:26,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Is it a family heirloom?
+
+490
+00:41:26,280 --> 00:41:27,400
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Wait for it.
+
+491
+00:41:30,080 --> 00:41:31,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Air-bursting ammunition.
+
+492
+00:41:31,780 --> 00:41:33,520
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Designate your enemy...
+
+493
+00:41:33,700 --> 00:41:37,600
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}and any round you fire will explode around a 5 meter kill radius.
+
+494
+00:41:38,080 --> 00:41:39,480
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}And...
+
+495
+00:41:40,080 --> 00:41:43,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}safe detonation rounds for this bad boy.
+
+496
+00:41:43,810 --> 00:41:45,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}That'll work.
+
+497
+00:41:45,380 --> 00:41:46,470
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Move out!
+
+498
+00:41:57,360 --> 00:41:58,630
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Sir...
+
+499
+00:41:58,830 --> 00:42:00,420
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Your shuttle is ready.
+
+500
+00:42:20,120 --> 00:42:21,910
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Do you read me?
+
+501
+00:42:21,950 --> 00:42:23,200
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yes.
+
+502
+00:42:26,280 --> 00:42:27,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Alright, here's the deal.
+
+503
+00:42:27,680 --> 00:42:30,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We'll wait outside the factory until we see the shuttle leave.
+
+504
+00:42:30,310 --> 00:42:32,130
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}One of you opens an explosive round in it,
+
+505
+00:42:32,150 --> 00:42:34,150
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}goes to the crash site and gets the data.
+
+506
+00:42:34,780 --> 00:42:36,390
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}OK, copy that.
+
+507
+00:42:44,220 --> 00:42:46,940
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Alright now, let's go! Let's play ball!
+
+508
+00:42:56,080 --> 00:42:57,730
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You nervous?
+
+509
+00:42:57,900 --> 00:42:59,680
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-No.     -No?
+
+510
+00:43:01,840 --> 00:43:04,330
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm shitting myself with fear.
+
+511
+00:43:09,180 --> 00:43:11,870
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-I'm not gonna fucking die.     -No.
+
+512
+00:43:34,130 --> 00:43:35,700
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Go, go, go!
+
+513
+00:43:50,500 --> 00:43:54,750
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Acceleration to supersonic speed in 15 seconds.
+
+514
+00:44:05,280 --> 00:44:07,180
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Come on, come on, come on!
+
+515
+00:44:15,720 --> 00:44:18,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Critical engine failure.
+
+516
+00:44:19,930 --> 00:44:23,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Ma'am, we have an Elysium citizen on Earth in danger.
+
+517
+00:44:23,300 --> 00:44:24,580
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Data coming up now...
+
+518
+00:44:24,680 --> 00:44:29,190
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Citizen identified. John Carlyle. N8321...
+
+519
+00:44:31,020 --> 00:44:33,090
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I see you, motherfucker!
+
+520
+00:44:37,190 --> 00:44:39,180
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I have a situation here.
+
+521
+00:44:39,240 --> 00:44:40,690
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Kruger, do you read me?
+
+522
+00:44:40,820 --> 00:44:44,550
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Ah, Ms Delacourt. How lovely to hear your voice.
+
+523
+00:44:44,640 --> 00:44:47,990
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}There's a citizen carrying sensitive brain data out of the city right now.
+
+524
+00:44:48,100 --> 00:44:50,180
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Some thieves are trying to hijack it.
+
+525
+00:44:50,250 --> 00:44:51,300
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What's in it?
+
+526
+00:44:51,390 --> 00:44:52,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}That's classified.
+
+527
+00:44:52,680 --> 00:44:58,780
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You don't call a recently deactivated agent to retreive classified fucking information!
+
+528
+00:44:58,800 --> 00:45:01,060
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}The government doesn't know about this, do they?
+
+529
+00:45:01,080 --> 00:45:03,550
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I can ask for whatever I want, can't I?
+
+530
+00:45:08,310 --> 00:45:10,070
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Please brace for impact
+
+531
+00:45:17,250 --> 00:45:20,080
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Please remain calm. You have sustained zero injuries.
+
+532
+00:45:20,220 --> 00:45:22,130
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Oh, that's a real comfort.
+
+533
+00:45:27,020 --> 00:45:30,710
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I've got one condition. I do this, I get re-instated.
+
+534
+00:45:30,790 --> 00:45:31,970
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Fine.
+
+535
+00:45:32,580 --> 00:45:35,130
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I've recommissioned 2 of your preferred agents.
+
+536
+00:45:35,140 --> 00:45:39,810
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Completely confidentially, of course. They should be at your position any second.
+
+537
+00:45:39,830 --> 00:45:42,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Send me the mission data.
+
+538
+00:45:59,810 --> 00:46:02,030
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let's go, guys. Out of the cars!
+
+539
+00:46:07,080 --> 00:46:13,030
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Droids, there appears to be some type of wheeled vehicle, with one
+
+540
+00:46:14,690 --> 00:46:16,640
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Two occupants.
+
+541
+00:46:16,710 --> 00:46:19,540
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}They are armed and I'd like them dead.
+
+542
+00:46:22,050 --> 00:46:23,170
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Droid!
+
+543
+00:46:30,010 --> 00:46:31,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It's jammed!
+
+544
+00:46:37,000 --> 00:46:44,840
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Identified, Max da Costa. Federal Parole number 61492-8-557.
+
+545
+00:46:54,280 --> 00:46:55,830
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It's jammed, man!
+
+546
+00:46:56,580 --> 00:46:57,930
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Got it!
+
+547
+00:47:00,980 --> 00:47:02,780
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}He's reloading!
+
+548
+00:47:21,850 --> 00:47:25,810
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Guys! We got the bastard!     -Go! I got you covered!
+
+549
+00:47:27,290 --> 00:47:28,540
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Go, go, go!
+
+550
+00:47:39,670 --> 00:47:41,630
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Don't fucking move.
+
+551
+00:47:46,780 --> 00:47:47,840
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Bring it!
+
+552
+00:47:47,990 --> 00:47:49,210
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}There's another one!
+
+553
+00:47:50,950 --> 00:47:52,620
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Die, motherfucker!
+
+554
+00:47:56,590 --> 00:47:58,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Don't hit the mark!
+
+555
+00:48:51,550 --> 00:48:53,870
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No, no! He got hit!
+
+556
+00:48:53,940 --> 00:48:57,610
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Citizen has sustained a cardio-thoracic trauma.
+
+557
+00:48:57,630 --> 00:48:58,910
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Blood pressure is dropping.
+
+558
+00:48:58,930 --> 00:49:00,070
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-It's not in the head!     -Is he breathing?
+
+559
+00:49:00,210 --> 00:49:02,430
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-No, it's in the chest!     -Well, fucking good, man.
+
+560
+00:49:02,460 --> 00:49:04,390
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hold his head, hold his head.
+
+561
+00:49:04,910 --> 00:49:07,090
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let me see your brain.
+
+562
+00:49:09,000 --> 00:49:10,470
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Come on, Come on!
+
+563
+00:49:10,860 --> 00:49:12,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Yes.     -Is it working?
+
+564
+00:49:12,760 --> 00:49:14,140
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yeah, we're syncing.
+
+565
+00:49:14,160 --> 00:49:18,430
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You have no idea what you're doing.
+
+566
+00:49:21,640 --> 00:49:24,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}One minute to target, sir.
+
+567
+00:49:26,190 --> 00:49:29,300
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We're syncing. Come on, baby, here we go.
+
+568
+00:49:31,370 --> 00:49:34,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It's gonna work. We got it.
+
+569
+00:49:34,420 --> 00:49:37,470
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It's a data heist, ma'am. They're downloading now.
+
+570
+00:49:42,490 --> 00:49:44,790
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Guys, we've got incoming.
+
+571
+00:49:45,050 --> 00:49:46,450
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Fuck me!
+
+572
+00:49:47,930 --> 00:49:49,690
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Come on, guys, hurry up.
+
+573
+00:49:50,050 --> 00:49:52,160
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}That's a Raven. That's Military.
+
+574
+00:49:52,210 --> 00:49:55,690
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Alright we got this, 97...98!     -Hurry up, they're coming.
+
+575
+00:49:55,780 --> 00:49:57,630
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Almost there!     -99!
+
+576
+00:49:58,040 --> 00:49:59,540
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}In! Here we go!
+
+577
+00:50:02,150 --> 00:50:05,230
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Shit! Data must be corrupted!
+
+578
+00:50:07,280 --> 00:50:07,950
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Wait. Hold on.
+
+579
+00:50:07,970 --> 00:50:11,480
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I can't read the data. It's scrambled! I can't read the data.
+
+580
+00:50:11,500 --> 00:50:12,830
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What?
+
+581
+00:50:14,330 --> 00:50:17,610
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Come on, guys! We gotta move!     -What the fuck does 'scrambled' mean?
+
+582
+00:50:17,630 --> 00:50:18,740
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Fuck this!
+
+583
+00:50:18,760 --> 00:50:21,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No, No! Run it again! Run it another time!
+
+584
+00:50:21,680 --> 00:50:26,410
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Get off me, man! I'm bailing!     -Please. Run it again.
+
+585
+00:50:26,430 --> 00:50:29,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Fuck you! Let's get out of here.
+
+586
+00:50:29,380 --> 00:50:31,860
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Where the fuck are you going, Sandro?
+
+587
+00:50:34,620 --> 00:50:37,820
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let's get outta here! Goddamit!
+
+588
+00:50:45,620 --> 00:50:46,820
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}C'mon man.
+
+589
+00:50:47,180 --> 00:50:49,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Get out of there! Let's go!
+
+590
+00:50:49,580 --> 00:50:52,530
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We gotta go! Come on! Come on!
+
+591
+00:50:54,970 --> 00:50:57,530
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hey, boss, we got a runner.
+
+592
+00:50:58,970 --> 00:50:59,530
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Fire!
+
+593
+00:51:22,680 --> 00:51:24,270
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}That's what I'm talking about!
+
+594
+00:51:24,280 --> 00:51:25,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Fuck, man!
+
+595
+00:51:25,980 --> 00:51:28,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Target moving south-southwest.
+
+596
+00:51:28,780 --> 00:51:30,180
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Move back! It's coming!
+
+597
+00:51:34,360 --> 00:51:36,320
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We got another one.
+
+598
+00:51:37,530 --> 00:51:39,190
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Again!
+
+599
+00:51:39,880 --> 00:51:42,170
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}This is wrong! This is all wrong, man!
+
+600
+00:52:32,830 --> 00:52:34,970
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Going into holding pattern, sir!
+
+601
+00:52:34,990 --> 00:52:37,030
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Where do you think you're going?
+
+602
+00:52:38,620 --> 00:52:39,780
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Come on!
+
+603
+00:53:08,720 --> 00:53:10,790
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Fuck!
+
+604
+00:53:10,920 --> 00:53:13,650
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Motherfucker!
+
+605
+00:53:16,380 --> 00:53:17,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Come on!
+
+606
+00:53:18,170 --> 00:53:19,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No!
+
+607
+00:53:58,690 --> 00:54:01,120
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No, no!
+
+608
+00:54:01,750 --> 00:54:04,340
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No! Get up!
+
+609
+00:54:11,800 --> 00:54:14,270
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Get up!
+
+610
+00:54:22,380 --> 00:54:23,740
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No!
+
+611
+00:54:42,430 --> 00:54:45,470
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We've got one assailant leaving on foot, ma'am.
+
+612
+00:54:45,680 --> 00:54:48,200
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}They have the data. Repeat:
+
+613
+00:54:48,220 --> 00:54:49,820
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}The thieves have the data.
+
+614
+00:54:49,840 --> 00:54:54,110
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Apprehend the target at all costs. Do not damage his brain.
+
+615
+00:54:54,130 --> 00:54:56,620
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let's go! We got a runner, boys!
+
+616
+00:55:02,380 --> 00:55:06,650
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}The citizen has suffered catastrophic blood loss leading to cardiac arrest.
+
+617
+00:55:06,680 --> 00:55:09,880
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Time of death, 17:45.
+
+618
+00:55:53,870 --> 00:55:55,940
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Come on, where are you hiding?
+
+619
+00:55:56,480 --> 00:55:58,330
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What's that?
+
+620
+00:56:07,930 --> 00:56:10,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Looks like a herd of pigs, boss.
+
+621
+00:56:10,870 --> 00:56:12,910
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Fuck you, man! Find him!
+
+622
+00:56:12,940 --> 00:56:15,680
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Take us back to the crash site, to see what they left behind.
+
+623
+00:56:15,690 --> 00:56:16,900
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Roger, that.
+
+624
+00:56:30,720 --> 00:56:31,810
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Thanks.
+
+625
+00:56:54,020 --> 00:56:57,900
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hey boss, I think you better come look at this.
+
+626
+00:56:59,680 --> 00:57:01,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}This is a record of what we picked up
+
+627
+00:57:01,380 --> 00:57:04,340
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}being transferred between Carlyle and the criminals.
+
+628
+00:57:04,840 --> 00:57:07,220
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}That's why she wants it so badly.
+
+629
+00:57:07,570 --> 00:57:10,680
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}He's got the keys to the kingdom in his fucking head!
+
+630
+00:57:11,680 --> 00:57:13,620
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Now we just need to find him.
+
+631
+00:57:15,790 --> 00:57:17,680
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Gonna let the girls out.
+
+632
+00:57:27,280 --> 00:57:29,790
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Searching grids 3 through 11.
+
+633
+00:57:30,680 --> 00:57:33,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm authorising a Full Containment Order.
+
+634
+00:57:33,580 --> 00:57:36,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Issue a No Fly Zone for Los Angeles.
+
+635
+00:57:36,480 --> 00:57:39,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-All of Los Angeles?     -The murderer's still out there.
+
+636
+00:57:39,680 --> 00:57:43,590
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Until we apprehend him, no one leaves the surface of that city.
+
+637
+00:57:51,490 --> 00:57:52,590
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What the f...?
+
+638
+00:57:57,320 --> 00:57:58,800
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max.
+
+639
+00:58:41,240 --> 00:58:43,990
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Hey, sweety!     -Hey.
+
+640
+00:58:44,010 --> 00:58:45,600
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We can go home.
+
+641
+00:58:46,380 --> 00:58:48,910
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Am I better?
+
+642
+00:58:50,430 --> 00:58:53,350
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm gonna get the car, OK?
+
+643
+00:58:56,260 --> 00:58:57,860
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Be right back.
+
+644
+00:59:03,100 --> 00:59:05,250
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Frey...
+
+645
+00:59:06,740 --> 00:59:08,980
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max!
+
+646
+00:59:10,980 --> 00:59:13,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}My God, what happened to you?
+
+647
+00:59:15,780 --> 00:59:19,340
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Shit, I'm gonna get the medics.     -No, no!
+
+648
+00:59:19,380 --> 00:59:21,620
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-I can't go in there.     -Max!
+
+649
+00:59:21,630 --> 00:59:23,800
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-I can't go in...     -Max, listen, you need a doctor, OK?
+
+650
+00:59:23,820 --> 00:59:26,390
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}People are looking for me. They're gonna kill me.
+
+651
+00:59:26,510 --> 00:59:28,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-I came here for you. I need your help.     -Max!
+
+652
+00:59:28,380 --> 00:59:31,100
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You've got to go through the system to get treatment.
+
+653
+00:59:31,240 --> 00:59:34,910
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Please help me. I don't wanna die.
+
+654
+00:59:37,380 --> 00:59:38,390
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max!
+
+655
+00:59:38,980 --> 00:59:39,990
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max!
+
+656
+00:59:42,180 --> 00:59:43,870
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Stay awake!
+
+657
+00:59:53,280 --> 00:59:57,480
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-I wanna see the man.     -Mama's gonna help him, OK?
+
+658
+00:59:57,550 --> 00:59:58,900
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Try and sleep.
+
+659
+01:00:03,190 --> 01:00:05,230
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Don't sleep!
+
+660
+01:00:05,280 --> 01:00:08,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You're too heavy for me. Max, help me!
+
+661
+01:00:09,280 --> 01:00:10,720
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Come on!
+
+662
+01:00:10,740 --> 01:00:13,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max, you can do it, come on!
+
+663
+01:00:15,790 --> 01:00:18,680
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No, wait. Let's turn you over!
+
+664
+01:01:04,960 --> 01:01:07,990
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max, Max, wait.
+
+665
+01:01:11,570 --> 01:01:14,390
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Thank you.     -Who did this to you?
+
+666
+01:01:14,410 --> 01:01:16,950
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I don't know. I got-I got hurt at at work.
+
+667
+01:01:16,970 --> 01:01:22,600
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I had to take a job from Spider to try to get up there and get healed.
+
+668
+01:01:23,020 --> 01:01:26,090
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It went bad, now I'm in trouble.
+
+669
+01:01:26,110 --> 01:01:27,700
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Mommy?
+
+670
+01:01:29,870 --> 01:01:32,970
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hey, sweety, come here!
+
+671
+01:01:36,580 --> 01:01:38,490
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Who is that man?
+
+672
+01:01:39,780 --> 01:01:43,870
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}His name is Max. Mommy knew him when he was your age.
+
+673
+01:01:44,880 --> 01:01:47,980
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-It's Matilda.     -Hi!
+
+674
+01:01:48,480 --> 01:01:50,580
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You can go watch cartoons, OK?
+
+675
+01:01:51,280 --> 01:01:52,880
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'll be right there.
+
+676
+01:01:55,030 --> 01:01:59,640
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I didn't know you had... I'm so sorry, I need to go.
+
+677
+01:01:59,770 --> 01:02:03,210
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Wait, Max, you can not leave.     -I shouldn't have come here. I have to leave!
+
+678
+01:02:03,280 --> 01:02:07,570
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max! She's dying. She's in the final stages of leukemia.
+
+679
+01:02:08,520 --> 01:02:12,390
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I told you my life complicated. I need you to help me.
+
+680
+01:02:12,580 --> 01:02:15,860
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-I've no idea how to do this.     -How to do what?
+
+681
+01:02:15,880 --> 01:02:19,180
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Get her to Elysium.     -I can't help her. I...
+
+682
+01:02:20,180 --> 01:02:21,800
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I would if I could.
+
+683
+01:02:22,220 --> 01:02:25,680
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}How about this? Fake citizenship. If you took her there,
+
+684
+01:02:25,840 --> 01:02:28,910
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-could you heal her with this?     -It doesn't work that way.
+
+685
+01:02:29,040 --> 01:02:32,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}This is coded to me, it's locked to my DNA.
+
+686
+01:02:32,380 --> 01:02:36,430
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}The people looking for me. They... You don't understand who these people are.
+
+687
+01:02:36,780 --> 01:02:39,390
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}If they find me here, they will kill all of us.
+
+688
+01:02:39,410 --> 01:02:42,750
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}The only thing I can do to help you is leave. I promise you.
+
+689
+01:02:43,180 --> 01:02:46,080
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-She's all I have.     -I'm sorry.
+
+690
+01:02:52,010 --> 01:02:54,550
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You have bandages.
+
+691
+01:02:56,380 --> 01:02:58,290
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yeah. I got bandages.
+
+692
+01:03:01,880 --> 01:03:03,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What are you doing?
+
+693
+01:03:03,780 --> 01:03:08,020
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I don't want you to be sick. You wanna hear a story?
+
+694
+01:03:08,080 --> 01:03:10,190
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}N.., ah...
+
+695
+01:03:10,280 --> 01:03:13,840
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}There once was a meerkat who lived in the jungle.
+
+696
+01:03:14,080 --> 01:03:16,830
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}He was hungry and he was small.
+
+697
+01:03:17,080 --> 01:03:18,710
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}So small.
+
+698
+01:03:18,780 --> 01:03:24,770
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}And the other big animals had all the food, 'cause they could reach the fruits.
+
+699
+01:03:24,790 --> 01:03:28,060
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}So he made friends with a hippopotamus
+
+700
+01:03:28,080 --> 01:03:29,860
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}OK, stop!
+
+701
+01:03:31,380 --> 01:03:33,650
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It doesn't end well for the meerkat.
+
+702
+01:03:34,380 --> 01:03:39,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yes, it does 'cause he can stand on the hippopotamus' back
+
+703
+01:03:39,780 --> 01:03:43,080
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}to get all the fruits that he wants.
+
+704
+01:03:43,180 --> 01:03:48,000
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-What's in it for the hippo?     -The hippo wants a friend.
+
+705
+01:04:04,160 --> 01:04:06,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm sorry.
+
+706
+01:04:44,370 --> 01:04:45,680
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hey, boss.
+
+707
+01:04:48,220 --> 01:04:50,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I think we got him.
+
+708
+01:04:55,780 --> 01:04:57,390
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yank this fucking cunt!
+
+709
+01:05:22,280 --> 01:05:25,680
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Mommy, is everything OK?     -It's OK, sweety.
+
+710
+01:05:35,380 --> 01:05:37,180
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Clear!
+
+711
+01:05:39,580 --> 01:05:41,480
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What is this?
+
+712
+01:05:41,680 --> 01:05:43,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Good afternoon.
+
+713
+01:05:43,880 --> 01:05:47,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Sorry to come bursting into your home. Didn't mean to...
+
+714
+01:05:47,580 --> 01:05:49,780
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}traumatize your young daughter.
+
+715
+01:05:51,000 --> 01:05:54,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Me and the boys here are looking for a young gentleman...
+
+716
+01:05:54,680 --> 01:05:57,500
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}who was in this very house a moment ago.
+
+717
+01:05:57,580 --> 01:06:00,480
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We're hoping you can tell us where he went.
+
+718
+01:06:00,540 --> 01:06:02,270
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No.
+
+719
+01:06:02,880 --> 01:06:04,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I...
+
+720
+01:06:06,380 --> 01:06:10,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-I don't know where he is.     -I don't believe in ...
+
+721
+01:06:10,580 --> 01:06:13,370
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}...committing violent acts in front of the kids.
+
+722
+01:06:13,680 --> 01:06:16,040
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}So I just need you to close your eyes, sweetheart.
+
+723
+01:06:16,060 --> 01:06:21,180
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-It's OK.     -I really need you to tell me.
+
+724
+01:06:21,380 --> 01:06:22,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hey?
+
+725
+01:06:22,680 --> 01:06:24,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-You remember now?     -Mommy!
+
+726
+01:06:24,980 --> 01:06:27,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Close your eyes, keep your fucking eyes closed.
+
+727
+01:06:27,400 --> 01:06:28,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Keep her eyes closed.
+
+728
+01:06:28,380 --> 01:06:30,070
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Please, I don't know where he is.
+
+729
+01:06:30,090 --> 01:06:33,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}He was wounded, I helped him and he left.
+
+730
+01:06:34,180 --> 01:06:35,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Please!
+
+731
+01:06:35,280 --> 01:06:38,720
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}D'you fucking hear that? No loyalty nowadays, hey?
+
+732
+01:06:42,830 --> 01:06:45,080
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What's this here?
+
+733
+01:06:45,180 --> 01:06:48,910
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-This a hospital you're running here?     -She's sick.
+
+734
+01:06:48,930 --> 01:06:53,040
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}She's sick? Let me have a look at her... Alright!
+
+735
+01:06:53,080 --> 01:06:57,170
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Don't touch her.     -See that? Protective instinct, here!
+
+736
+01:06:57,200 --> 01:06:58,240
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I said don't touch her!
+
+737
+01:06:58,260 --> 01:07:00,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm just trying to get a word with your child.
+
+738
+01:07:00,340 --> 01:07:01,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Don't touch her!
+
+739
+01:07:01,400 --> 01:07:03,550
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Bring her. Come!     -Where are you taking her?
+
+740
+01:07:03,570 --> 01:07:05,830
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Now I've got something you want.     -Sweety, it's OK.
+
+741
+01:07:06,160 --> 01:07:08,340
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It's OK, darling. It's OK.
+
+742
+01:07:08,350 --> 01:07:10,340
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Sit down! Shut up!
+
+743
+01:07:24,990 --> 01:07:25,780
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Stop!
+
+744
+01:07:29,150 --> 01:07:33,840
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No, no, don't shoot him! Put the gun down! Let him come!
+
+745
+01:07:34,590 --> 01:07:37,610
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-You got something, didn't you?     -What?
+
+746
+01:07:37,740 --> 01:07:40,820
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}That's why they shut down the sky... what is it?
+
+747
+01:07:40,840 --> 01:07:43,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Wire transfers? Corporate intel? You gotta have something big in there!
+
+748
+01:07:43,520 --> 01:07:45,490
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No. I fucking got nothing, man!
+
+749
+01:07:45,540 --> 01:07:50,010
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It all got scrambled. Julio is dead. You owe me. Let's go fucking now!
+
+750
+01:07:50,100 --> 01:07:53,600
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We can't! The flight system is jammed!
+
+751
+01:07:53,680 --> 01:07:55,840
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Nobody is going up there.
+
+752
+01:07:58,880 --> 01:08:01,030
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Until when?     -Till I don't fucking know.
+
+753
+01:08:01,870 --> 01:08:05,470
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-I gotta fucking get up there!     -Everyone needs to get up there.
+
+754
+01:08:05,600 --> 01:08:06,580
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}My guys are working on it.
+
+755
+01:08:06,620 --> 01:08:11,130
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}See if they have a hope in hell of ever getting back online.
+
+756
+01:08:11,330 --> 01:08:13,680
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}But, for now...
+
+757
+01:08:14,160 --> 01:08:17,400
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let's just take a look at that head of yours.
+
+758
+01:08:17,420 --> 01:08:18,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Get away from me, man!
+
+759
+01:08:18,380 --> 01:08:23,300
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Look at me, if they shut down the whole fucking sky,
+
+760
+01:08:23,380 --> 01:08:26,300
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}for what's in your head...
+
+761
+01:08:26,420 --> 01:08:31,210
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Maybe the key to opening it could be in there too, right?
+
+762
+01:08:33,000 --> 01:08:34,140
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Come on.
+
+763
+01:08:38,620 --> 01:08:39,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Alright.
+
+764
+01:08:49,080 --> 01:08:53,520
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}They will hunt you to the edge of the world for this.
+
+765
+01:08:53,540 --> 01:08:54,790
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What is it?
+
+766
+01:08:55,210 --> 01:08:57,750
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It's a reboot program for Elysium.
+
+767
+01:08:57,850 --> 01:09:02,430
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Whoever has this, has the power to override their whole system.
+
+768
+01:09:03,430 --> 01:09:05,430
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Open the borders...
+
+769
+01:09:05,520 --> 01:09:10,580
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Make everyone a citizen of Elysium.
+
+770
+01:09:11,410 --> 01:09:15,980
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}This can save your life.
+
+771
+01:09:17,080 --> 01:09:21,160
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-We can save everyone.     -When can I go?
+
+772
+01:09:21,180 --> 01:09:23,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}They're trying to hack through the signal jam, but soon...
+
+773
+01:09:23,980 --> 01:09:27,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Don't bullshit me, when can we go?     -I dunno.
+
+774
+01:09:27,300 --> 01:09:28,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Five days... a week?
+
+775
+01:09:28,380 --> 01:09:31,650
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Fuck you, I don't have 5 days! I got hours.
+
+776
+01:09:31,660 --> 01:09:33,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}My guys are working on it.
+
+777
+01:09:33,300 --> 01:09:36,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You're always working on it, You can't get me up there.
+
+778
+01:09:36,280 --> 01:09:38,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I don't know why you try sending people up there,
+
+779
+01:09:38,480 --> 01:09:40,060
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}they just get fucking shot down.
+
+780
+01:09:40,080 --> 01:09:42,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Not with what's in your head! That's what I'm talking about!
+
+781
+01:09:42,770 --> 01:09:46,060
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We would control the system. We would be in charge!
+
+782
+01:09:46,080 --> 01:09:48,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We can change the course of fucking history!
+
+783
+01:09:48,980 --> 01:09:49,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Back up then.
+
+784
+01:09:49,980 --> 01:09:54,010
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What I have in my head, is worth a lot to them, right?
+
+785
+01:09:55,920 --> 01:09:57,310
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Don't do this.
+
+786
+01:09:57,330 --> 01:10:01,500
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}If that falls into the wrong hands, they could shut us out for good.
+
+787
+01:10:01,520 --> 01:10:04,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Listen, man, I'm going up there right now.
+
+788
+01:10:04,580 --> 01:10:08,900
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}If you can find me, and I'm healed, you can have all of this.
+
+789
+01:10:09,010 --> 01:10:12,740
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-But I'm not fucking dying.     -This is wrong, Max, don't do this.
+
+790
+01:10:23,490 --> 01:10:25,980
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Don't shoot him! Don't shoot him!
+
+791
+01:10:33,380 --> 01:10:36,300
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It's OK. It's OK.
+
+792
+01:10:39,230 --> 01:10:41,500
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I always wanted a wife.
+
+793
+01:10:45,380 --> 01:10:50,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Just couldn't quite settle down, you know? Too much temptation.
+
+794
+01:10:53,780 --> 01:10:55,950
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}But you...
+
+795
+01:11:00,780 --> 01:11:02,780
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You make me ready to settle down.
+
+796
+01:11:02,790 --> 01:11:06,090
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You really make me want to settle down, baby.
+
+797
+01:11:18,200 --> 01:11:20,250
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Holy shit, sir.     -Eh?
+
+798
+01:11:20,320 --> 01:11:21,620
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You better come take a look at this.
+
+799
+01:11:21,680 --> 01:11:24,720
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-What is it?     -Check this fucking oak.
+
+800
+01:11:28,290 --> 01:11:29,890
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Turn us around.
+
+801
+01:11:54,880 --> 01:11:56,080
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Take it.     -Right, sir.
+
+802
+01:11:56,380 --> 01:11:58,010
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Open the door.
+
+803
+01:12:10,380 --> 01:12:13,930
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Stop right there, and you're gonna do exactly what I say.
+
+804
+01:12:14,180 --> 01:12:17,700
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Or I'm gonna blow my fucking head off, you understand?
+
+805
+01:12:18,180 --> 01:12:19,300
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yeah!
+
+806
+01:12:20,080 --> 01:12:22,550
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You can have everything in my head!
+
+807
+01:12:22,580 --> 01:12:25,930
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Just take me up there, and get me in a med-bay.
+
+808
+01:12:25,950 --> 01:12:30,230
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-What I have is very valuable.     -We can fix you up.
+
+809
+01:12:30,780 --> 01:12:34,240
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Put you in a med-bay, Sort all this cock-up.
+
+810
+01:12:34,380 --> 01:12:37,780
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let's go! We'll take you up there.
+
+811
+01:12:38,050 --> 01:12:43,180
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Weather's nice, air's nice and clean. Likely you'll dig it.
+
+812
+01:12:44,610 --> 01:12:47,580
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Don't you fucking try anything!     -Step aboard!
+
+813
+01:12:47,960 --> 01:12:50,800
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Come meet the boys, come on!
+
+814
+01:12:51,560 --> 01:12:53,160
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Don't be shy, they won't bite.
+
+815
+01:12:53,410 --> 01:12:56,920
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let me introduce you. This is Drakie. This is Max.
+
+816
+01:12:57,070 --> 01:12:58,220
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What is news?
+
+817
+01:13:09,780 --> 01:13:11,080
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let's fly!
+
+818
+01:13:13,080 --> 01:13:16,900
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yes, ma'am, we apprehended the subject.
+
+819
+01:13:17,720 --> 01:13:22,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Open the skies, we're coming up.     -I'll expect you in 19 minutes.
+
+820
+01:13:35,770 --> 01:13:39,040
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Cancel the No Fly Zone.     -Yes, ma'am.
+
+821
+01:13:41,770 --> 01:13:43,040
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hold it...
+
+822
+01:13:43,570 --> 01:13:44,650
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hold it. What is that? ...
+
+823
+01:13:45,110 --> 01:13:48,740
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Are we back? Marcelo! What the fuck is that? Are we back?
+
+824
+01:13:48,870 --> 01:13:50,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We're back online, Spider.
+
+825
+01:14:02,250 --> 01:14:03,510
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Frey...
+
+826
+01:14:04,680 --> 01:14:07,610
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm sorry. I'm gonna make this right.
+
+827
+01:14:19,520 --> 01:14:22,250
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-We've got him.     -Alright. Where is he?
+
+828
+01:14:22,440 --> 01:14:26,030
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}He's leaving Earth... Heading to Elysium.
+
+829
+01:14:31,710 --> 01:14:36,170
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Manuel! Rico! Get weapons! Let's get up there.
+
+830
+01:14:42,470 --> 01:14:46,230
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Echo leader 234, requesting landing in sector 22.
+
+831
+01:14:46,270 --> 01:14:49,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Roger that Echo leader 234. You are clear for entry...
+
+832
+01:15:46,420 --> 01:15:50,230
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-I see you got the G-1 there.     -Hey, back the fuck up!
+
+833
+01:15:50,450 --> 01:15:52,030
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Or what?     -I'll let it go.
+
+834
+01:15:52,090 --> 01:15:53,400
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What you gonna do? Huh?
+
+835
+01:15:53,490 --> 01:15:55,410
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I want what's in your head, boy. Kill him!
+
+836
+01:15:59,550 --> 01:16:00,940
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Grab him, Deck!
+
+837
+01:16:59,630 --> 01:17:00,920
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What do you want us to do, ma'am?
+
+838
+01:17:01,010 --> 01:17:05,180
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I want everyone coming out of that vehicle apprehended by Homeland Security.
+
+839
+01:17:05,390 --> 01:17:09,050
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Evacuate everyone on the level five clearence out of the building, now.
+
+840
+01:17:17,700 --> 01:17:19,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I warned you of this.
+
+841
+01:17:19,380 --> 01:17:23,150
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}An unlicenced vehicle just crashed potentially threatening the Torus.
+
+842
+01:17:23,200 --> 01:17:27,240
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}All because of your inability to act. Evacuate him.
+
+843
+01:17:27,880 --> 01:17:31,350
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Get your hands off me.     -This is an act of war.
+
+844
+01:17:31,470 --> 01:17:34,670
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}That puts the CCB under my control.
+
+845
+01:17:35,000 --> 01:17:37,180
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Now, if you'll let me do my job.
+
+846
+01:17:37,320 --> 01:17:40,850
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm sure you have a fund raiser to attend.
+
+847
+01:17:40,900 --> 01:17:42,090
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let's go, sir.
+
+848
+01:17:55,190 --> 01:17:56,310
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max!
+
+849
+01:17:56,390 --> 01:17:58,430
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Take me out of here, Max!
+
+850
+01:17:59,530 --> 01:18:00,950
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm trying!
+
+851
+01:18:01,530 --> 01:18:03,950
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Air quality reaching toxic levels.
+
+852
+01:18:10,680 --> 01:18:12,070
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Get me out of here!
+
+853
+01:18:12,680 --> 01:18:16,070
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It is recommended you exit the craft immediately.
+
+854
+01:18:27,480 --> 01:18:28,290
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Run!
+
+855
+01:18:28,310 --> 01:18:29,590
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Fuck!
+
+856
+01:18:45,080 --> 01:18:47,290
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}2 Illegals heading northeast in zone 3
+
+857
+01:18:55,880 --> 01:18:59,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You deal with those two. I'll handle this pussy.
+
+858
+01:18:59,580 --> 01:19:03,290
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Welcome to the spectacular properties from your...
+
+859
+01:19:16,220 --> 01:19:16,900
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Error
+
+860
+01:19:18,320 --> 01:19:19,050
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No!
+
+861
+01:19:19,080 --> 01:19:20,850
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No citizen detected.
+
+862
+01:19:23,180 --> 01:19:26,410
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Please she's sick, help us. She's gone into a coma.
+
+863
+01:19:26,460 --> 01:19:27,790
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Please!
+
+864
+01:19:53,480 --> 01:19:56,530
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Shouldn't we remove this thing?
+
+865
+01:19:56,700 --> 01:19:59,210
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Can't, till we get all the data.
+
+866
+01:19:59,330 --> 01:20:01,210
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It's wired into him neurologically.
+
+867
+01:20:01,330 --> 01:20:03,180
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}The data is intact, yes?
+
+868
+01:20:04,190 --> 01:20:05,880
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Data looks intact.
+
+869
+01:20:05,990 --> 01:20:06,780
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Warning
+
+870
+01:20:07,070 --> 01:20:09,890
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We can still pull this data out of him, which will kill him.
+
+871
+01:20:09,900 --> 01:20:11,190
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Oh, it's fine.
+
+872
+01:20:11,210 --> 01:20:14,520
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}How long before you can download and turn the system online?
+
+873
+01:20:14,580 --> 01:20:15,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Not long, Ma'am.
+
+874
+01:20:15,980 --> 01:20:19,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Keep everything in a restricted cloud. Lock down all access.
+
+875
+01:20:19,540 --> 01:20:21,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Starting prep right now.
+
+876
+01:20:23,380 --> 01:20:26,600
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}And get these two out of here.
+
+877
+01:20:26,950 --> 01:20:27,900
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Roger that.
+
+878
+01:20:28,310 --> 01:20:31,020
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Kurt, you wanna go get the boss' chicks?
+
+879
+01:20:31,310 --> 01:20:33,020
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yeah, good.
+
+880
+01:20:58,240 --> 01:21:00,320
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Give them the runaround.
+
+881
+01:21:00,740 --> 01:21:02,300
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Keep them busy.
+
+882
+01:21:05,450 --> 01:21:06,970
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Got him!
+
+883
+01:21:07,350 --> 01:21:08,520
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let's go!
+
+884
+01:21:08,580 --> 01:21:11,850
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Alright. 50 exabytes, buddy. Are you ready?
+
+885
+01:21:12,780 --> 01:21:14,970
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What are you taking out of him?
+
+886
+01:21:15,100 --> 01:21:18,040
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hey! What're you doing to him?
+
+887
+01:21:18,180 --> 01:21:20,200
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What's gonna happen to him? Hey!
+
+888
+01:21:22,380 --> 01:21:24,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Rise and shine.
+
+889
+01:21:24,680 --> 01:21:26,140
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Get up!     -Max.
+
+890
+01:21:26,380 --> 01:21:29,530
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max. Max. Max!
+
+891
+01:21:43,980 --> 01:21:44,880
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Get in there!
+
+892
+01:21:55,080 --> 01:21:57,160
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yes. Boss got fucked up, eh?
+
+893
+01:21:57,180 --> 01:21:59,900
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Ate that fucking grenade, eh!
+
+894
+01:22:02,800 --> 01:22:06,870
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}His brain is fine. But he's gonna be pissed when he wakes up.
+
+895
+01:22:06,890 --> 01:22:10,580
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Remember what cock-up happened in India when he lost his hat?
+
+896
+01:22:33,970 --> 01:22:34,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Kruger.
+
+897
+01:22:38,070 --> 01:22:39,190
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Boss?
+
+898
+01:22:41,160 --> 01:22:42,450
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It's Crowe.
+
+899
+01:22:45,540 --> 01:22:47,900
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Where is he?
+
+900
+01:22:49,590 --> 01:22:52,980
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}All right, all set. Let's reach the data.
+
+901
+01:22:53,590 --> 01:22:57,070
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I got the needle prepped. You wanna grab this?
+
+902
+01:22:57,090 --> 01:22:58,680
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Grab the needle! Grab the needle! Grab the...
+
+903
+01:23:20,050 --> 01:23:22,710
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Where did they take the girls?     -The Armory.
+
+904
+01:23:22,730 --> 01:23:24,060
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Where the fuck is that?
+
+905
+01:23:24,080 --> 01:23:26,180
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Level three.
+
+906
+01:23:33,860 --> 01:23:39,270
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Lethal radiation poisoning detected. You require urgent medical attention.
+
+907
+01:23:47,100 --> 01:23:50,190
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You idiot! Do you realize what you've done?
+
+908
+01:23:50,670 --> 01:23:55,350
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You crashed an unlicensed vehicle into a suburban area.
+
+909
+01:23:57,000 --> 01:24:00,430
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Your orders were to keep this covert.
+
+910
+01:24:00,450 --> 01:24:03,680
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Do you even remember what that means?
+
+911
+01:24:06,290 --> 01:24:10,600
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Have you completely lost your mind? You're useless to me.
+
+912
+01:24:10,680 --> 01:24:13,730
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}If the administration realized what we're doing,
+
+913
+01:24:13,750 --> 01:24:16,070
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}they'd hang us both for treason.
+
+914
+01:24:18,450 --> 01:24:21,490
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}For God's sake, Kruger! Are you listening to me?
+
+915
+01:24:22,690 --> 01:24:24,520
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yes.
+
+916
+01:24:25,980 --> 01:24:27,910
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yes, ma'am.
+
+917
+01:24:28,550 --> 01:24:30,200
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm listening.
+
+918
+01:24:31,680 --> 01:24:37,040
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm sorry that we crashed the vehicle and ruined someone's lawn.
+
+919
+01:24:37,060 --> 01:24:40,040
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}But nobody is gonna hang us for treason.
+
+920
+01:24:40,720 --> 01:24:42,600
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We do the hanging!
+
+921
+01:24:44,580 --> 01:24:47,070
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Put your hand on it, keep pressure on it.
+
+922
+01:24:48,280 --> 01:24:50,680
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}How tough you be now, eh?
+
+923
+01:24:50,780 --> 01:24:55,220
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Right boys, Elysium is about to get its first proper president.
+
+924
+01:24:59,680 --> 01:25:01,970
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}She needs some medical attention.
+
+925
+01:25:07,880 --> 01:25:10,150
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I was gonna heal your daughter.
+
+926
+01:25:10,280 --> 01:25:13,780
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}But now, I'll make sure she's never healed.
+
+927
+01:25:14,480 --> 01:25:17,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Drakie, don't trust any of those politicians!
+
+928
+01:25:17,780 --> 01:25:19,460
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Clear out this whole building!
+
+929
+01:25:19,480 --> 01:25:21,230
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Thank you, boss.
+
+930
+01:25:21,380 --> 01:25:23,770
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm gonna find that little gangster.
+
+931
+01:25:23,790 --> 01:25:27,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm gonna take what's in his head. This place is mine now.
+
+932
+01:25:27,380 --> 01:25:30,020
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You want to come to my fucking house and play?
+
+933
+01:25:30,040 --> 01:25:31,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let's play!
+
+934
+01:25:31,280 --> 01:25:34,540
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm going to annihilate that little motherfucker.
+
+935
+01:25:41,760 --> 01:25:43,490
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hey!
+
+936
+01:25:51,450 --> 01:25:52,810
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What the hell was that?
+
+937
+01:25:54,580 --> 01:26:01,630
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}All members of CCB please go to the nearest exit and proceed calmly to...
+
+938
+01:26:07,380 --> 01:26:09,030
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Go, go, go!
+
+939
+01:26:11,140 --> 01:26:12,860
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No.
+
+940
+01:26:13,300 --> 01:26:15,580
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No.
+
+941
+01:26:21,200 --> 01:26:22,580
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Citizen deceased
+
+942
+01:26:38,880 --> 01:26:42,080
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Emergency systems are now online
+
+943
+01:26:42,100 --> 01:26:44,480
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Please follow indicated procedures
+
+944
+01:26:45,600 --> 01:26:46,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Spider!
+
+945
+01:26:46,980 --> 01:26:49,130
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Do you read me, Spider?
+
+946
+01:26:49,230 --> 01:26:50,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max, where are you.
+
+947
+01:26:50,580 --> 01:26:54,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}The thing in my head, it can make everyone a citizen here, right?
+
+948
+01:26:55,140 --> 01:26:56,140
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yeah.
+
+949
+01:26:56,150 --> 01:26:58,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You know how to get it out, right?
+
+950
+01:26:58,280 --> 01:26:58,980
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yes.
+
+951
+01:26:59,000 --> 01:27:00,480
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You're sure?
+
+952
+01:27:00,500 --> 01:27:01,840
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yeah, I'm sure.
+
+953
+01:27:01,930 --> 01:27:04,200
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}OK, listen to me carefully.
+
+954
+01:27:11,080 --> 01:27:12,650
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Armory selected.
+
+955
+01:27:26,980 --> 01:27:28,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Set.
+
+956
+01:27:32,180 --> 01:27:33,920
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Turn me on.
+
+957
+01:27:39,280 --> 01:27:40,980
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}OK.
+
+958
+01:27:41,460 --> 01:27:43,840
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Crowe, get rid of those two.
+
+959
+01:27:44,280 --> 01:27:46,890
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}My pleasure, boss. My pleasure.
+
+960
+01:27:47,280 --> 01:27:49,340
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Where are you, Pikey? Where are you?
+
+961
+01:28:07,320 --> 01:28:09,340
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}How is it, girl?
+
+962
+01:28:10,690 --> 01:28:12,110
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let's play.
+
+963
+01:28:12,320 --> 01:28:15,890
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Come on, I'll be nice. Gentle, I promise.     -No. Please.
+
+964
+01:28:15,930 --> 01:28:17,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Come on.     -Get off me!
+
+965
+01:28:17,280 --> 01:28:19,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Want me to hurt the girl?     -No.
+
+966
+01:28:19,580 --> 01:28:21,150
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Then come here.
+
+967
+01:28:51,570 --> 01:28:52,510
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Fuck!
+
+968
+01:29:31,080 --> 01:29:32,530
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}She alive?
+
+969
+01:29:32,550 --> 01:29:33,730
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}For now.
+
+970
+01:29:33,770 --> 01:29:35,490
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Stay behind me.
+
+971
+01:29:37,060 --> 01:29:39,170
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm gonna get you out of here.
+
+972
+01:29:39,280 --> 01:29:40,970
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I have a plan.
+
+973
+01:29:46,080 --> 01:29:47,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}D'you hear that sound?
+
+974
+01:29:47,780 --> 01:29:50,670
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}That's the sound of me coming for you.
+
+975
+01:29:51,310 --> 01:29:54,590
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'll find you! I'll hunt you down!
+
+976
+01:29:56,000 --> 01:29:57,980
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Frey, we have to split up.
+
+977
+01:29:57,990 --> 01:29:59,140
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-What?     -Listen.
+
+978
+01:29:59,160 --> 01:30:02,040
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You're gonna go to the surface, OK? Take this.
+
+979
+01:30:02,060 --> 01:30:04,060
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Find a house, get her to a med-bay.
+
+980
+01:30:04,080 --> 01:30:05,550
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Max, it won't work.     -Don't stop. Don't stop...
+
+981
+01:30:05,570 --> 01:30:08,160
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}She doesn't have an ID. It doesn't work.
+
+982
+01:30:08,180 --> 01:30:11,080
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It will this time. I know how to fix it.
+
+983
+01:30:11,380 --> 01:30:12,680
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Surface selected     -Go.
+
+984
+01:30:12,820 --> 01:30:13,700
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Come with me.
+
+985
+01:30:13,720 --> 01:30:15,790
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-I'm right behind you.     -No.
+
+986
+01:30:16,280 --> 01:30:18,020
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I promise.
+
+987
+01:30:36,290 --> 01:30:40,820
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}OK, a mother and her daughter just went up in that elevator.
+
+988
+01:30:40,880 --> 01:30:43,210
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}They're going to the surface headed for a med-bay.
+
+989
+01:30:43,230 --> 01:30:45,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Send one of your guys make sure they get there.
+
+990
+01:30:45,680 --> 01:30:47,060
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}And we have our deal.
+
+991
+01:30:49,770 --> 01:30:51,700
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Right to a med-bay, man.
+
+992
+01:30:52,280 --> 01:30:53,730
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Let's go.     -Let's go.
+
+993
+01:30:59,280 --> 01:31:00,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Go, go, go!     -This way!
+
+994
+01:31:03,760 --> 01:31:05,510
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hurry up, man.
+
+995
+01:31:05,760 --> 01:31:07,510
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}...emergency lock down...
+
+996
+01:31:09,800 --> 01:31:11,720
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Almost there. Almost there.
+
+997
+01:31:18,800 --> 01:31:19,720
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What's that?
+
+998
+01:31:20,100 --> 01:31:21,720
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It's just a ... bitch!
+
+999
+01:31:30,460 --> 01:31:33,150
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}That's what I'm talking about.
+
+1000
+01:31:38,280 --> 01:31:39,630
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Fire has been detected...
+
+1001
+01:31:39,680 --> 01:31:41,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hold the door! Hold the door!
+
+1002
+01:31:41,780 --> 01:31:43,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}...have been shut down.
+
+1003
+01:31:45,280 --> 01:31:47,410
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Come on! Come on!     -Go, go, go
+
+1004
+01:31:50,280 --> 01:31:51,410
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let's go!
+
+1005
+01:31:54,280 --> 01:31:55,410
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Fuck. C'mon!
+
+1006
+01:31:55,680 --> 01:31:57,410
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Go! You first. C'mon!
+
+1007
+01:32:11,090 --> 01:32:12,830
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Come on! Stand up!
+
+1008
+01:32:12,850 --> 01:32:14,780
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Stand! Stand up! Come on!
+
+1009
+01:32:18,550 --> 01:32:19,780
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Stand up!
+
+1010
+01:32:29,180 --> 01:32:31,220
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You little fucker.
+
+1011
+01:32:31,270 --> 01:32:34,160
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm gonna take your fucking head off!
+
+1012
+01:32:34,180 --> 01:32:36,880
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Dude, you should definitely stand up now!
+
+1013
+01:32:49,880 --> 01:32:51,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No!
+
+1014
+01:32:59,910 --> 01:33:01,580
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Stay there.
+
+1015
+01:33:07,330 --> 01:33:08,760
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Fuck!
+
+1016
+01:33:34,890 --> 01:33:38,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-You think you could get through me?     -Come on, Max! Come on!
+
+1017
+01:33:38,430 --> 01:33:41,070
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm just getting started.
+
+1018
+01:34:09,150 --> 01:34:10,520
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Come on.
+
+1019
+01:34:11,540 --> 01:34:14,110
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Don't give up now. Get up, come! Come on!
+
+1020
+01:34:14,130 --> 01:34:16,480
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You want more than this? I know you.
+
+1021
+01:34:17,140 --> 01:34:19,480
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You look a little bit dizzy, eh?
+
+1022
+01:34:21,800 --> 01:34:23,330
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Did I get you?
+
+1023
+01:34:23,440 --> 01:34:25,810
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Are you bleeding? You must get that looked at.
+
+1024
+01:34:25,960 --> 01:34:27,270
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hey, boy?
+
+1025
+01:34:40,180 --> 01:34:42,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You wanna heal that little girl?
+
+1026
+01:34:42,380 --> 01:34:44,940
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You just need to come through me.
+
+1027
+01:34:58,410 --> 01:35:01,840
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You got some fire in you, boy.
+
+1028
+01:35:19,970 --> 01:35:21,450
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You almost had me.
+
+1029
+01:35:21,750 --> 01:35:23,660
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We die together, boy.
+
+1030
+01:35:38,380 --> 01:35:40,000
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Come on, man, let's go.
+
+1031
+01:35:47,950 --> 01:35:50,400
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let's go, man, let's do it. Come on!
+
+1032
+01:35:58,950 --> 01:36:01,100
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Ready? Let's go.
+
+1033
+01:36:04,980 --> 01:36:06,900
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Get the guards, now!
+
+1034
+01:36:14,580 --> 01:36:15,980
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Alright.
+
+1035
+01:36:16,600 --> 01:36:17,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}This'll do it.
+
+1036
+01:36:36,970 --> 01:36:38,000
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Hurry.
+
+1037
+01:36:43,040 --> 01:36:45,000
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}OK, we're good, we're good.
+
+1038
+01:36:45,150 --> 01:36:46,190
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We're good.
+
+1039
+01:36:47,010 --> 01:36:47,840
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What?
+
+1040
+01:36:51,800 --> 01:36:52,870
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max.
+
+1041
+01:36:53,180 --> 01:36:55,280
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}It's OK. I know.
+
+1042
+01:36:56,430 --> 01:36:58,880
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}There's no coming back from this.
+
+1043
+01:36:59,340 --> 01:37:01,550
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}No med-bay can heal you.
+
+1044
+01:37:15,370 --> 01:37:17,230
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Alright, give it to me.
+
+1045
+01:37:19,890 --> 01:37:21,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Take it.
+
+1046
+01:37:23,040 --> 01:37:24,080
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}OK.
+
+1047
+01:37:24,140 --> 01:37:27,160
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You just have to press that button.
+
+1048
+01:37:30,780 --> 01:37:32,350
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Frey?
+
+1049
+01:37:33,890 --> 01:37:35,940
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Max? Max where are you?
+
+1050
+01:37:35,960 --> 01:37:38,230
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'm gonna have to break my promise.
+
+1051
+01:37:38,980 --> 01:37:41,260
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I can't make it back up there.
+
+1052
+01:37:43,060 --> 01:37:45,300
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You remember what I said when we were kids?
+
+1053
+01:37:45,360 --> 01:37:46,520
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Yes.
+
+1054
+01:37:47,260 --> 01:37:48,960
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I'll take us there one day.
+
+1055
+01:37:48,980 --> 01:37:51,830
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}-Really?     -Yeah, I promise.
+
+1056
+01:38:01,730 --> 01:38:04,560
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You wouldn't believe what I'm looking at right now.
+
+1057
+01:38:11,680 --> 01:38:14,810
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Tell Matilda I really liked her story.
+
+1058
+01:38:19,070 --> 01:38:21,730
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I figured out why the Hippo did it.
+
+1059
+01:38:48,380 --> 01:38:49,150
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Come on!
+
+1060
+01:38:50,650 --> 01:38:52,740
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}You go first. Come on!
+
+1061
+01:38:52,920 --> 01:38:56,070
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}We all have something special, Max.
+
+1062
+01:38:56,640 --> 01:38:59,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Something we're destined to do.
+
+1063
+01:38:59,680 --> 01:39:02,210
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Something for which we were born.
+
+1064
+01:39:08,760 --> 01:39:10,310
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Fuck you!
+
+1065
+01:39:18,040 --> 01:39:19,800
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Let go of me!
+
+1066
+01:39:33,650 --> 01:39:35,580
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Come on, please.
+
+1067
+01:39:36,290 --> 01:39:38,010
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}My baby. My dear.
+
+1068
+01:40:11,900 --> 01:40:13,850
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Stand down, Officers.
+
+1069
+01:40:20,280 --> 01:40:21,860
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Arrest him.
+
+1070
+01:40:21,880 --> 01:40:25,150
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}I can not arrest a citizen of Elysium.
+
+1071
+01:40:25,940 --> 01:40:27,470
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}What?
+
+1072
+01:40:27,850 --> 01:40:29,600
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Doing a great job.
+
+1073
+01:40:30,380 --> 01:40:33,230
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Guess who Elysium belongs to now?
+
+1074
+01:41:28,380 --> 01:41:31,360
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}See how beautiful it looks to us down here?
+
+1075
+01:41:31,730 --> 01:41:35,110
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Now look how beautiful we look from up there.
+
+1076
+01:41:35,280 --> 01:41:37,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}Now it belongs to you.
+
+1077
+01:41:37,730 --> 01:41:41,380
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}So you'll never forget where you come from.
+
+1078
+01:41:53,880 --> 01:41:56,120
+{\bord1\shad2\1c&HFFFF80&\3c&HAA5500&\4c&HFF9F40&\blur3}My little Max.
+
+1079
+00:00:03,300 --> 00:00:03,600
+{\an8\1c&HFFFF00&\blur3}字
+
+1080
+00:00:03,600 --> 00:00:03,900
+{\an8\1c&HFFFF00&\blur3}字{\an8\1c&H99FF00&\blur3}幕
+
+1081
+00:00:03,900 --> 00:00:04,200
+{\an8\1c&HFFFF00&\blur3}字{\an8\1c&H99FF00&\blur3}幕{\an8\1c&H00FF00&\blur3}製
+
+1082
+00:00:04,200 --> 00:00:04,500
+{\an8\1c&HFFFF00&\blur3}字{\an8\1c&H99FF00&\blur3}幕{\an8\1c&H00FF00&\blur3}製{\an8\1c&H00FFBF&\blur3}作
+
+1083
+00:00:04,500 --> 00:00:04,800
+{\an8\1c&HFFFF00&\blur3}字{\an8\1c&H99FF00&\blur3}幕{\an8\1c&H00FF00&\blur3}製{\an8\1c&H00FFBF&\blur3}作 {\an8\1c&H00FFFF&\blur3}★
+
+1084
+00:00:04,800 --> 00:00:05,100
+{\an8\1c&HFFFF00&\blur3}字{\an8\1c&H99FF00&\blur3}幕{\an8\1c&H00FF00&\blur3}製{\an8\1c&H00FFBF&\blur3}作 {\an8\1c&H00FFFF&\blur3}★{\an8\1c&H00BFFF&\blur3} 至
+
+1085
+00:00:05,100 --> 00:00:05,400
+{\an8\1c&HFFFF00&\blur3}字{\an8\1c&H99FF00&\blur3}幕{\an8\1c&H00FF00&\blur3}製{\an8\1c&H00FFBF&\blur3}作 {\an8\1c&H00FFFF&\blur3}★{\an8\1c&H00BFFF&\blur3} 至{\an8\1c&H009FFF&\blur3}宏
+
+1086
+00:00:05,400 --> 00:00:05,700
+{\an8\1c&HFFFF00&\blur3}字{\an8\1c&H99FF00&\blur3}幕{\an8\1c&H00FF00&\blur3}製{\an8\1c&H00FFBF&\blur3}作 {\an8\1c&H00FFFF&\blur3}★{\an8\1c&H00BFFF&\blur3} 至{\an8\1c&H009FFF&\blur3}宏{\an8\1c&H0060FF&\blur3}上
+
+1087
+00:00:05,700 --> 00:00:15,000
+{\an8\1c&HFFFF00&\blur3}字{\an8\1c&H99FF00&\blur3}幕{\an8\1c&H00FF00&\blur3}製{\an8\1c&H00FFBF&\blur3}作 {\an8\1c&H00FFFF&\blur3}★{\an8\1c&H00BFFF&\blur3} 至{\an8\1c&H009FFF&\blur3}宏{\an8\1c&H0060FF&\blur3}上{\an8\1c&H0000FF&\blur3}人
+

@@ -1,0 +1,5992 @@
+1
+00:00:00,934 --> 00:00:03,702
+<i>NOVA</I>系列节目由以下单位提供:
+<i>NOVA</i> is provided by the following...
+
+2
+00:00:10,744 --> 00:00:12,344
+和...
+And...
+
+3
+00:00:22,689 --> 00:00:26,859
+公共广播公司
+And by the Corporation for Public Broadcasting
+
+4
+00:00:26,926 --> 00:00:30,229
+and by contributions to your PBS station from:
+
+5
+00:00:36,936 --> 00:00:40,005
+离第2卷磁带还剩10秒钟
+MAN:<i>We're ten seconds away</i>
+<i>on tape two.</i>
+
+6
+00:00:40,073 --> 00:00:42,841
+戴夫・费鲁奇像个紧张的家长
+NARRATOR:Dave Ferrucci
+is a nervous parent.
+
+7
+00:00:42,909 --> 00:00:45,778
+他用了最近4年制造了一台
+He's spent the last four years building
+
+8
+00:00:45,845 --> 00:00:47,679
+革命性的新电脑
+a revolutionary new computer,
+
+9
+00:00:47,747 --> 00:00:49,915
+它即将面临一个最大考验
+and it's about to face its biggest test
+
+10
+00:00:49,983 --> 00:00:52,684
+在数以百万计的观众面前
+in front of an audience of millions.
+
+11
+00:00:52,752 --> 00:00:54,620
+沃森：你好，我的名字是沃森
+WATSON:Hello, my name is Watson.
+
+12
+00:00:54,759 --> 00:00:56,464
+==========================
+世上最智能的机器
+纪录片之家论坛出品
+http://www.jlpzj.net/
+翻译：df 校对：火焙鱼
+==========================
+
+13
+00:00:57,891 --> 00:00:59,892
+我希望我们今天能做好比赛
+I hope we will have a good game today,
+
+14
+00:00:59,959 --> 00:01:01,827
+但首先我要测试我的声音
+but first I have to test my voice.
+
+15
+00:01:01,895 --> 00:01:03,328
+当摄像机开动起来的时候
+NARRATOR:When the cameras roll,
+
+16
+00:01:03,396 --> 00:01:06,331
+这台名叫“沃森”的计算机将创造历史
+the computer,called Watson,will make history
+
+17
+00:01:06,399 --> 00:01:08,967
+因为它要在流行的电视竞猜节目“Jeopardy！”上参赛
+as it competes on the popular quiz show <i>Jeopardy!</i>
+
+18
+00:01:09,035 --> 00:01:10,035
+播音员：这是Jeopardy!大赛！
+ANNOUNCER:<i>This is</i> Jeopardy!
+
+19
+00:01:10,103 --> 00:01:11,103
+有点怕怕，对不？
+It's frightening, right?
+
+20
+00:01:11,171 --> 00:01:12,237
+这是一个不同的体验
+It's a different experience.
+
+21
+00:01:12,305 --> 00:01:13,572
+这对科学家们是一个非同寻常的经历
+It's a very different experience for a scientist
+
+22
+00:01:13,640 --> 00:01:16,175
+坐在这里，看它实实在在地进行
+to sit here and have this happen live.
+
+23
+00:01:16,242 --> 00:01:17,910
+六，五，四...
+MAN:Six, five, four...
+
+24
+00:01:20,447 --> 00:01:23,582
+费鲁奇的担心是合理的
+NARRATOR:Ferrucci has reason to fear.
+
+25
+00:01:23,650 --> 00:01:26,051
+沃森正在参与这场100万美元奖金的比赛
+Watson is playing for a million-dollar jackpot
+
+26
+00:01:26,119 --> 00:01:28,487
+对抗本场比赛最强劲的对手：
+against the game's toughest competitors:
+
+27
+00:01:28,555 --> 00:01:31,723
+布拉德・鲁特，<i>Jeopardy!</ i>竞猜节目赢钱最多的人
+Brad Rutter, <i>Jeopardy!'s</i> biggest money winner,
+
+28
+00:01:31,791 --> 00:01:36,662
+肯・詹宁斯，因连赢74场比赛而闻名
+and Ken Jennings, famous for winning 74 consecutive games.
+
+29
+00:01:36,729 --> 00:01:39,998
+肯・詹宁斯：有些选手很骄傲
+KEN JENNINGS:There's some contestant's pride.
+
+30
+00:01:40,066 --> 00:01:41,533
+我想击败人类对手，但是，你知道
+I want to beat my human competition but, you know,
+
+31
+00:01:41,601 --> 00:01:44,336
+我更想代表人类，战胜那个...
+as a species I would like mankind to beat
+
+32
+00:01:44,404 --> 00:01:45,904
+“大坏坏”电脑
+the big, bad computer.
+
+33
+00:01:45,972 --> 00:01:48,907
+沃森：我选“二战领导人”
+WATSON:Let's finish "Leaders of World War II."
+
+34
+00:01:48,975 --> 00:01:51,677
+这个“大坏坏”电脑
+NARRATOR:This big, bad computer is the culmination
+
+35
+00:01:51,744 --> 00:01:54,046
+是四年深入细致工作的心血结晶
+of four years' intensive work.
+
+36
+00:01:54,114 --> 00:01:58,517
+IBM已经使沃森通过了数百次比赛练习
+IBM has put Watson through hundreds of practice games,
+
+37
+00:01:58,585 --> 00:02:01,120
+与替身主持人和真正的参赛者一起
+with a stand-in host and real contestants.
+
+38
+00:02:01,187 --> 00:02:03,188
+CRAIN(克雷恩)：德国入侵荷兰的时候
+CRAIN: After Germany invaded the Netherlands,
+
+39
+00:02:03,256 --> 00:02:04,823
+有个女王和她的家人以及内阁逃到了伦敦
+this queen, her family, and cabinet fled to London.
+
+40
+00:02:04,891 --> 00:02:06,425
+玛丽亚？
+Maria?
+
+41
+00:02:06,493 --> 00:02:08,193
+贝娅特丽克丝是谁？
+Who is Beatrix?
+
+42
+00:02:08,261 --> 00:02:10,162
+错。沃森？
+CRAIN: No. Watson?
+
+43
+00:02:10,230 --> 00:02:12,865
+沃森：谁是威廉敏娜？
+WATSON: Who is Wilhelmina?
+
+44
+00:02:12,932 --> 00:02:15,234
+克雷恩：正确
+CRAIN: That is correct.
+
+45
+00:02:15,301 --> 00:02:17,469
+埃里克・布朗（IBM研究人员）：一个人站在那里，是一坨碳原子和水分子
+ERIC BROWN:It's a human standing there with their carbon and water,
+
+46
+00:02:17,537 --> 00:02:19,771
+而电脑是硅
+versus the computer with all of its silicon,
+
+47
+00:02:19,839 --> 00:02:22,608
+是一堆内存和磁盘
+and its main memory and its disc.
+
+48
+00:02:22,675 --> 00:02:25,444
+看起来似乎计算机应该很容易赢
+NARRATOR:It seems like it should be easy for the computer to win,
+
+49
+00:02:25,512 --> 00:02:28,714
+凭借其巨大的内存和处理能力
+with its enormous memory and processing power.
+
+50
+00:02:28,781 --> 00:02:31,984
+但是人类的大脑，是一个令人生畏的对手
+But the human brain makes an intimidating opponent,
+
+51
+00:02:32,051 --> 00:02:33,886
+特别是在<i>Jeopardy!</i>比赛中
+especially on <i>Jeopardy!</i>
+
+52
+00:02:33,953 --> 00:02:35,154
+DAVID GONDEK(IBM研究人员)<i>Jeopardy！</i>的问题是棘手的
+<i>Jeopardy!</i> questions are tricky.
+
+53
+00:02:35,221 --> 00:02:37,856
+他们里面有双关语，有小笑话
+They have puns in them, they have little jokes in them.
+
+54
+00:02:37,924 --> 00:02:41,593
+仅是明白问题本身，已经是一个相当大的挑战了
+Just understanding the question is a pretty big deal.
+
+55
+00:02:42,929 --> 00:02:44,263
+克雷恩:它是值得信赖的朋友
+CRAIN: This trusted friend
+
+56
+00:02:44,330 --> 00:02:46,698
+是第一个非乳制品粉状奶精
+was the first nondairy powdered creamer.
+
+57
+00:02:46,766 --> 00:02:47,866
+沃森？
+Watson?
+
+58
+00:02:47,934 --> 00:02:49,168
+沃森：是牛奶吗？
+WATSON: What is milk?
+
+59
+00:02:49,235 --> 00:02:50,302
+（笑）
+(laughter)
+
+60
+00:02:50,370 --> 00:02:51,803
+克雷恩:错！玛丽亚？
+CRAIN: No! Maria?
+
+61
+00:02:51,871 --> 00:02:53,238
+咖啡伴侣是什么？
+What is Coffee-mate?
+
+62
+00:02:53,306 --> 00:02:54,339
+克雷恩：谢谢你
+CRAIN: Thank you.
+
+63
+00:02:54,407 --> 00:02:56,141
+费鲁奇：人类能很顺畅地沟通
+FERRUCCI:Humans communicate very fluently
+
+64
+00:02:56,209 --> 00:02:57,943
+你晓得，自然语言
+in, you know, natural language,
+
+65
+00:02:58,011 --> 00:03:00,913
+是电脑很不擅长的领域
+and that's where computers struggle dramatically.
+
+66
+00:03:00,980 --> 00:03:04,650
+现在，沃森站到了战胜这一挑战的前沿
+NARRATOR:Now, Watson is on the verge of conquering that challenge.
+
+67
+00:03:04,717 --> 00:03:06,018
+克雷恩:走起～
+CRAIN:Here we go.
+
+68
+00:03:06,085 --> 00:03:09,688
+某种孩子穿的衣服，曾出现在某歌剧中的船上(指音乐剧H.M.S. Pinafore《皮纳福号军舰》)
+A garment worn by a child,perhaps aboard an operatic ship.
+
+69
+00:03:09,756 --> 00:03:11,089
+沃森？
+Watson?
+
+70
+00:03:11,157 --> 00:03:12,391
+沃森：那是围裙？
+WATSON:What is pinafore?
+
+71
+00:03:12,458 --> 00:03:14,927
+克雷恩：是的。你咋知道的呢？
+CRAIN:Yes. How did you get that?
+
+72
+00:03:14,994 --> 00:03:19,198
+如果沃森赢得<i>Jeopardy!，</i>这将是一个重大突破
+NARRATOR:If Watson wins on <i>Jeopardy!,</i>
+it will be a major breakthrough
+
+73
+00:03:19,265 --> 00:03:22,067
+这个追求已经进行了几十年：
+in a quest that's gone on for decades:
+
+74
+00:03:22,135 --> 00:03:26,805
+这是个大胆的梦想，制造出象人一样聪明的机器
+the audacious dream to build a machine as smart as a person;
+
+75
+00:03:26,873 --> 00:03:30,509
+这就是人工智能（AI）
+the quest for artificial intelligence-- AI.
+
+76
+00:03:30,577 --> 00:03:34,846
+我叫ELEKTRO
+I am Elektro.
+
+77
+00:03:34,914 --> 00:03:39,284
+我的头脑比你大
+My brain is bigger than yours.
+
+78
+00:03:39,352 --> 00:03:41,186
+当我们开始研究AI
+When we started doing AI,
+
+79
+00:03:41,254 --> 00:03:43,355
+目标是，为什么我们不制造一个人呢？
+the goal was, why can't we build a person?
+
+80
+00:03:43,423 --> 00:03:45,224
+我们都知道人是怎么来的，很容易
+We all know how to make people, that's easy.
+
+81
+00:03:45,291 --> 00:03:48,560
+用硅制造一个人怎么样?
+What if we could build one out of silicon?
+
+82
+00:03:48,628 --> 00:03:50,562
+先驱们从科幻世界中
+NARRATOR:Pioneers drew their inspiration
+
+83
+00:03:50,630 --> 00:03:53,365
+获取了灵感
+from the world of science fiction.
+
+84
+00:03:53,433 --> 00:03:56,235
+我还是孩子的时候,艾萨克・阿西莫（当代美国著名小说家）正风行
+As a child, Isaac Asimov turns up.
+
+85
+00:03:56,302 --> 00:04:00,639
+所以，在我的青少年时期，机器人、
+So here I'm an adolescent and the robots,
+
+86
+00:04:00,707 --> 00:04:03,709
+智能机器是我生命中的一部分
+intelligent machines, are a part of my life.
+
+87
+00:04:03,776 --> 00:04:05,143
+为您效劳～
+At your service.
+
+88
+00:04:05,211 --> 00:04:09,781
+让我们来看看它们是怎么制造出来的
+Let's see about getting them built.
+
+89
+00:04:09,849 --> 00:04:13,819
+在早期的日子里，计算机进步的很快
+NARRATOR:In the early days, computers grew rapidly more powerful,
+
+90
+00:04:13,886 --> 00:04:17,222
+能快速掌握复杂的方程式
+quickly mastering complex equations.
+
+91
+00:04:17,290 --> 00:04:20,158
+我们在麻省理工学院写的第一个程序
+The first programs we wrote at M.I.T.
+
+92
+00:04:20,226 --> 00:04:23,795
+解决的问题只有受过特定教育的人才能解决
+solved problems that only very educated people could solve,
+
+93
+00:04:23,863 --> 00:04:28,233
+比如微积分和代数问题
+like problems in calculus and then algebra.
+
+94
+00:04:28,301 --> 00:04:32,537
+计算机先驱认为他们会顺利地实现
+NARRATOR:The computer pioneers thought they were on a fast track
+
+95
+00:04:32,605 --> 00:04:33,905
+人工智能
+to building humanlike intelligence.
+
+96
+00:04:33,973 --> 00:04:37,175
+我信心满满地期待，在10到15年之内
+I confidently expect that within 10 or 15 years,
+
+97
+00:04:37,243 --> 00:04:39,411
+我们会看到科幻中的机器人
+we will find emerging from the laboratories
+
+98
+00:04:39,479 --> 00:04:43,315
+不久就会变成现实
+something not too far from the robot of science fiction fame.
+
+99
+00:04:43,383 --> 00:04:45,017
+PATRICK WINSTON：一开始，我们认为
+PATRICK WINSTON:In the beginning we thought,
+
+100
+00:04:45,084 --> 00:04:47,085
+“嗯，也许10年或15年，我们将有一些
+"Well, maybe ten or 15 years and we'll have something
+
+101
+00:04:47,153 --> 00:04:50,155
+很智能的东西
+that's really smart."
+
+102
+00:04:50,223 --> 00:04:52,224
+维诺格拉特：在开始的时候，人们真的都惊奇
+WINOGRAD:In the beginning,people really were amazed
+
+103
+00:04:52,292 --> 00:04:54,026
+电脑到底有多大能耐
+at how much computers could do.
+
+104
+00:04:54,093 --> 00:04:57,029
+当你看到一个东西，不断改善的速度非常快
+When you see something that's improving very fast,
+
+105
+00:04:57,096 --> 00:04:58,730
+你会简单地认为它会继续高速进步
+you simply assume it will continue improving that fast
+
+106
+00:04:58,798 --> 00:05:00,299
+无限发展下去
+indefinitely.
+
+107
+00:05:00,366 --> 00:05:03,635
+在20世纪60年代，信心是如此之高
+NARRATOR:In the '60s, confidence was so high
+
+108
+00:05:03,703 --> 00:05:06,405
+受它启发,产生了史上最具代表性的
+it inspired one of the most iconic film characters
+
+109
+00:05:06,472 --> 00:05:07,906
+电影人物之一
+of all time.
+
+110
+00:05:07,974 --> 00:05:09,441
+你好，HAL，你能听到我吗？
+MAN:Hello, HAL, do you read me?
+
+111
+00:05:09,509 --> 00:05:10,809
+你能听清我吗?
+Do you read me, HAL?
+
+112
+00:05:10,877 --> 00:05:13,378
+HAL：肯定的，戴夫。我能听清你
+HAL:Affirmative, Dave.I read you.
+
+113
+00:05:13,446 --> 00:05:17,949
+当我还是个孩子的时候，我看《2001年：太空旅行》
+When I was a kid, I saw <i>2001: A Space Odyssey</i>
+
+114
+00:05:18,017 --> 00:05:19,951
+HAL是有史以来最酷的东西
+and HAL was just the best thing ever.
+
+115
+00:05:20,019 --> 00:05:21,953
+DAVE：打开分隔舱舱门，HAL
+DAVE:Open the pod bay doors,please, HAL.
+
+116
+00:05:22,021 --> 00:05:27,292
+HAL：对不起，戴夫，恐怕我不能那样做
+HAL:I'm sorry, Dave,I'm afraid I can't do that.
+
+117
+00:05:27,343 --> 00:05:29,261
+你知道，它是个杀人的精神病
+You know, it was a murdering psychopath.
+
+118
+00:05:29,329 --> 00:05:31,396
+HAL？
+HAL?
+
+119
+00:05:31,464 --> 00:05:33,749
+HAL？
+HAL?
+
+120
+00:05:33,833 --> 00:05:36,268
+但是，它很聪明，能跟人说话
+But, it was intelligent,could talk to people,
+
+121
+00:05:36,336 --> 00:05:37,769
+能看到人，会唇读
+could see people,could lip read,
+
+122
+00:05:37,837 --> 00:05:40,138
+能做到这一切事情
+could do all this stuff.
+
+123
+00:05:40,206 --> 00:05:41,957
+一台机器，能做到这一点 - 
+A machine that could do that--
+
+124
+00:05:42,041 --> 00:05:43,842
+我那时还从未见过一台真正的电脑
+and I'd never even seen a real computer at that time.
+
+125
+00:05:43,910 --> 00:05:45,410
+我被迷住了
+I was mesmerized.
+
+126
+00:05:45,478 --> 00:05:49,815
+我立即就被HAL这个角色迷住了
+I was instantly mesmerized by the character HAL.
+
+127
+00:05:49,882 --> 00:05:52,884
+电影中有这样一个场景
+There's this one part in the movie
+
+128
+00:05:52,952 --> 00:05:55,821
+角色之一在静静地勾画
+where one of the actors in the movie is sketching quietly,
+
+129
+00:05:55,888 --> 00:05:57,289
+HAL问他...
+and HAL asks him...
+
+130
+00:05:57,357 --> 00:05:59,024
+HAL：你还做过些别的么？
+HAL:Have you been doing some more work?
+
+131
+00:05:59,092 --> 00:06:00,158
+DAVE：一些草图
+DAVE:A few sketches.
+
+132
+00:06:00,226 --> 00:06:01,393
+HAL：我能看看么？
+HAL:May I see them?
+
+133
+00:06:01,461 --> 00:06:02,594
+他说：“哦，我还在画呢”
+He says,"Oh, I'm sketching."
+
+134
+00:06:02,662 --> 00:06:03,562
+他说，“能给我看一下你的草图吗？”
+And he says,"Can you show me the sketch?"
+
+135
+00:06:03,629 --> 00:06:06,231
+他举起了它
+And he holds it up.
+
+136
+00:06:06,299 --> 00:06:08,066
+HAL：你可以把它拿近一点吗？
+HAL:Can you hold it a bit closer?
+
+137
+00:06:08,134 --> 00:06:09,468
+这时候，我心潮起伏
+RAO:That's when I got goosebumps,
+
+138
+00:06:09,535 --> 00:06:11,470
+因为这是一个人类才会说的事
+because that's such a human thing to say.
+
+139
+00:06:11,537 --> 00:06:13,405
+HAL：我觉得你进步很大
+HAL:I think you've improved a great deal.
+
+140
+00:06:13,473 --> 00:06:15,340
+我说：“这太赞了
+And I said, "This is wonderful.
+
+141
+00:06:15,408 --> 00:06:16,842
+要怎么样才能
+"What does it take?
+
+142
+00:06:16,909 --> 00:06:18,076
+要怎么样才能做出这样的东西?
+What does it take to build something like this?"
+
+143
+00:06:18,144 --> 00:06:20,779
+HAL：象吃马旁边的卒
+HAL:Bishop takes knight's pawn.
+
+144
+00:06:20,847 --> 00:06:23,682
+HAL出现40多年后
+NARRATOR:More than 40 years after the creation of HAL,
+
+145
+00:06:23,750 --> 00:06:25,550
+没有人回答这个问题
+no one has answered that question.
+
+146
+00:06:25,618 --> 00:06:29,521
+没有真实的计算机或机器人能象好莱坞虚构的那样
+No real computer or robot has been able to interact
+
+147
+00:06:29,589 --> 00:06:32,157
+与人类进行无障碍的交流
+with humans as seamlessly as Hollywood imagines.
+
+148
+00:06:32,225 --> 00:06:35,327
+请告诉我，什么是爱？
+Tell me, what is love?
+
+149
+00:06:35,395 --> 00:06:41,099
+问题是我们人类自己的“电脑”――大脑
+NARRATOR:The problem is our own human computer, the brain,
+
+150
+00:06:41,167 --> 00:06:45,237
+是一个极难复制的复杂实体
+a complex entity that's defied any attempts at replication.
+
+151
+00:06:45,304 --> 00:06:47,572
+我们简直不知道大脑复杂到何种程度
+We just had no idea how sophisticated the brain was.
+
+152
+00:06:47,640 --> 00:06:49,975
+电脑一直长于应付
+NARRATOR:The computer has always been king
+
+153
+00:06:50,042 --> 00:06:51,510
+计算
+when it comes to calculation
+
+154
+00:06:51,577 --> 00:06:53,645
+和处理大量的数据这类工作
+and processing huge amounts of data.
+
+155
+00:06:53,713 --> 00:06:55,714
+“笔”(pen)中间的字母是什么？
+Pen, as in "the pen" what's the middle letter?
+
+156
+00:06:55,782 --> 00:06:57,616
+孩子：“E”！
+KIDS:"E"!
+
+157
+00:06:57,683 --> 00:07:00,786
+但是，人在婴幼儿时期是如何掌握简单技能
+NARRATOR:But simple skills that humans master early in life,
+
+158
+00:07:00,853 --> 00:07:04,689
+如理解语言或识别物体
+like understanding language or recognizing objects,
+
+159
+00:07:04,757 --> 00:07:07,159
+继续困扰着研究者
+continue to baffle researchers.
+
+160
+00:07:07,226 --> 00:07:11,229
+人们在有关我们有多么精妙的智能方面
+You know, people vastly misjudged
+
+161
+00:07:11,297 --> 00:07:13,598
+有极大地误区
+how subtle we are when we're intelligent.
+
+162
+00:07:13,666 --> 00:07:16,501
+存在着严重的低估
+People just hugely underestimated that.
+
+163
+00:07:18,771 --> 00:07:21,873
+但是制造一台会说话的计算机
+NARRATOR:But the dream of building a computer that could talk
+
+164
+00:07:21,941 --> 00:07:25,110
+与人斗智斗勇的梦想，从未真的死心
+and match wits with humans never really died,
+
+165
+00:07:25,178 --> 00:07:27,479
+几年前，一个新的计划孵化了
+and a few years ago a new plan was hatched,
+
+166
+00:07:27,547 --> 00:07:29,981
+这是由一个貌似不太可能的事件引发的
+sparked by an unlikely event.
+
+167
+00:07:30,049 --> 00:07:32,884
+播音员：这里是<i>Jeopardy!</i>大赛!
+ANNOUNCER:This is <i>Jeopardy!</i>
+
+168
+00:07:32,952 --> 00:07:34,619
+亚历克斯：在瓦格纳的歌剧中
+ALEX TREBEK:In Wagner's operas,
+
+169
+00:07:34,687 --> 00:07:37,489
+这个最年长的瓦尔基里(北欧神话中奥丁神的女仆之一)
+this eldest Valkyrie is stereotypically dressed
+
+170
+00:07:37,557 --> 00:07:39,357
+带着有角的头盔、穿着硬邦邦的胸甲
+in a horned helmet and breastplate.
+
+171
+00:07:39,425 --> 00:07:40,892
+肯？
+Ken?
+
+172
+00:07:40,960 --> 00:07:42,394
+布隆希尔达(Brunhilde)是谁？
+Who is Brunhilde?
+
+173
+00:07:42,462 --> 00:07:46,331
+2004年，肯・詹宁斯连胜74场比赛
+NARRATOR:In 2004, Ken Jennings' 74 game-winning streak
+
+174
+00:07:46,399 --> 00:07:49,334
+令<i>Jeopardy!</i>节目举国关注
+on <i>Jeopardy!</i> set the country abuzz
+
+175
+00:07:49,402 --> 00:07:52,471
+引起了IBM一位决策者的注意，当时他在外面吃饭
+and caught the eye of an IBM executive while out to dinner.
+
+176
+00:07:52,538 --> 00:07:55,006
+突然整个餐厅的人都跑空了
+All of a sudden the entire restaurant cleared out
+
+177
+00:07:55,074 --> 00:07:57,676
+都去了我所在的酒吧看肯・詹宁斯
+to the bar that I'm sitting at to go see Ken Jennings.
+
+178
+00:07:57,743 --> 00:08:01,713
+这位Grand Ole Opry(剧院)的喜剧明星曾戴着一顶草帽
+TREBEK:This "Grand Ole Opry" comedy star used to wear a straw hat
+
+179
+00:08:01,781 --> 00:08:04,716
+上面还挂着$1.98的价格标签
+with the $1.98 price tag still attached.
+
+180
+00:08:04,784 --> 00:08:06,017
+肯？
+Ken?
+
+181
+00:08:06,085 --> 00:08:07,252
+米妮珍珠是谁？
+Who is Minnie Pearl?
+
+182
+00:08:07,320 --> 00:08:08,954
+米妮珍珠,你好！
+Minnie Pearl,howdy!
+
+183
+00:08:09,021 --> 00:08:11,723
+查尔斯想知道，一台计算机能不能象
+NARRATOR:Charles Lickel wondered if a computer could ever play
+
+184
+00:08:11,791 --> 00:08:13,525
+肯・詹宁斯做的那样好
+as well as Ken Jennings.
+
+185
+00:08:13,593 --> 00:08:17,128
+于是，他把自己的想法告知了一些IBM的顶尖科学家
+So he pitched the idea to some of IBM's top scientists.
+
+186
+00:08:17,196 --> 00:08:18,497
+对于那些了解<i>Jeopardy!</i>节目的人
+For the ones that knew <i>Jeopardy!,</i>
+
+187
+00:08:18,564 --> 00:08:19,898
+他们说：“查尔斯，那简直太难了。”
+they said,"Charles, that's just too hard."
+
+188
+00:08:19,966 --> 00:08:22,601
+我认为，普遍的看法是:
+I think the prevailing view was
+
+189
+00:08:22,668 --> 00:08:25,403
+这些问题是难以理解的
+these questions were difficult to understand,
+
+190
+00:08:25,471 --> 00:08:27,372
+甚至很难弄明白在问的是什么
+difficult to even comprehend what was being asked.
+
+191
+00:08:27,440 --> 00:08:29,741
+是的，我当时想(?)，“没门！”我当时想，“绝对没门！”
+Yeah, I was like(?), "No way!" I was like, "No way!"
+
+192
+00:08:29,809 --> 00:08:35,514
+但是一位名叫戴维费鲁奇的研究人员产生了兴趣
+NARRATOR:But one researcher,Dave Ferrucci, was intrigued.
+
+193
+00:08:35,581 --> 00:08:37,549
+我的看法是，也许这不是完全不可能的
+My view was maybe this isn't as completely impossible
+
+194
+00:08:37,617 --> 00:08:39,184
+象我们以为的那样
+as we think it is.
+
+195
+00:08:39,252 --> 00:08:41,853
+在过去的40年中
+NARRATOR:For over 40 years,
+
+196
+00:08:41,921 --> 00:08:44,356
+<i>Jeopardy!</i>已成为流行的智商测试项目
+<i>Jeopardy!</i> has been pop culture's IQ test.
+
+197
+00:08:44,423 --> 00:08:47,025
+线索以答案的方式给出
+Clues are given as answers.
+
+198
+00:08:47,093 --> 00:08:49,327
+参赛者必须以提问的方式响应
+And contestants have to respond in the form of a question.
+
+199
+00:08:49,395 --> 00:08:50,595
+“母亲”相关问题，1600美元
+"Mothers," $1,600.
+
+200
+00:08:50,663 --> 00:08:52,597
+Trebek：它是一艘较大的船
+TREBEK:It's a larger vessel
+
+201
+00:08:52,665 --> 00:08:54,833
+为较小的船提供护卫和补给
+that guards and supplies smaller ones.
+
+202
+00:08:54,901 --> 00:08:56,368
+克里斯蒂娜
+Christina.
+
+203
+00:08:56,435 --> 00:08:58,470
+母舰是什么？母舰，是的
+What is the mothership?Mothership, yes.
+
+204
+00:08:58,538 --> 00:08:59,604
+詹宁斯：该节目的核心特色
+JENNINGS:The show's central conceit
+
+205
+00:08:59,672 --> 00:09:01,540
+是一点“语法倒桩”
+is a little syntactic reversal,
+
+206
+00:09:01,607 --> 00:09:03,675
+根据他们给你的答案，你来构造一个问句
+whereby they give you an answer and you supply a question.
+
+207
+00:09:03,743 --> 00:09:04,943
+你不能说，“乔治・华盛顿”
+You don't say "George Washington";
+
+208
+00:09:05,011 --> 00:09:06,811
+你要说，“乔治・华盛顿是谁？”
+you say,"Who is George Washington?"
+
+209
+00:09:06,879 --> 00:09:11,249
+为了获得成功，参赛者需要是人类的百科全书
+NARRATOR:To win, contestants need to be human encyclopedias.
+
+210
+00:09:11,317 --> 00:09:12,784
+它本质上是包罗万象的
+It's essentially everything under the sun.
+
+211
+00:09:12,852 --> 00:09:15,554
+大家同时知道分类
+You know the categories at the same second
+
+212
+00:09:15,621 --> 00:09:17,556
+亚历克斯会预先告诉大家分类
+Alex tells the folks at home the category.
+
+213
+00:09:17,623 --> 00:09:20,859
+一，你必须有广博的知识
+One, you have to have a broad knowledge,
+
+214
+00:09:20,927 --> 00:09:24,129
+因为我们每个节目有13个类别
+because we have 13 categories on each show.
+
+215
+00:09:24,196 --> 00:09:25,096
+凯特,开始
+Kate, start.
+
+216
+00:09:25,164 --> 00:09:26,531
+“Ph”类，400美元级的
+"Ph" for $400.
+
+217
+00:09:26,599 --> 00:09:29,267
+Trebek：为了记录某种东西，托马斯・爱迪生于1877年发明了
+TREBEK:For the record,Thomas Edison invented
+
+218
+00:09:29,335 --> 00:09:32,037
+第一个可实用的装置
+the first practical one of these in 1877.
+
+219
+00:09:32,104 --> 00:09:33,638
+参赛者也必须要快
+NARRATOR:Contestants also have to be fast.
+
+220
+00:09:33,706 --> 00:09:34,639
+留声机是什么？
+What is the phonograph?
+
+221
+00:09:34,707 --> 00:09:36,241
+好！
+Good!
+
+222
+00:09:36,309 --> 00:09:37,409
+他们通常只有3秒或更少时间
+NARRATOR:They typically have three seconds or less
+
+223
+00:09:37,476 --> 00:09:38,543
+用于想出一个答案
+to come up with an answer.
+
+224
+00:09:38,611 --> 00:09:40,345
+Trebek：研钵和杵
+TREBEK: The mortar and pestle
+
+225
+00:09:40,413 --> 00:09:42,147
+是这个行业的标志性符号
+is a symbol of this profession.
+
+226
+00:09:42,214 --> 00:09:43,715
+阿里尔
+Ariel.
+
+227
+00:09:43,783 --> 00:09:45,383
+药剂师是什么？药剂师是对的
+What is a pharmacist? Pharmacist is right.
+
+228
+00:09:45,451 --> 00:09:47,252
+为了参加Jeopardy！
+NARRATOR:To compete on <i>Jeopardy!,</i>
+
+229
+00:09:47,320 --> 00:09:50,255
+IBM的计算机必须有一个庞大的知识基础
+IBM's computer must have an enormous knowledge base
+
+230
+00:09:50,323 --> 00:09:52,657
+因为它不会被连接到Internet
+because it will not be connected to the Internet.
+
+231
+00:09:52,725 --> 00:09:55,760
+但机器面临的更大挑战
+But the far bigger challenge for the machine
+
+232
+00:09:55,828 --> 00:09:57,529
+将是理解线索
+will be understanding clues,
+
+233
+00:09:57,597 --> 00:10:00,231
+它可以是非常令人费解的或含糊不清的
+which can be extremely convoluted or obscure.
+
+234
+00:10:00,299 --> 00:10:03,301
+话说有种花，可见于“泡菜底”牌儿的手包
+TREBEK:You'll find this flower before "Pickle Bottom"
+
+235
+00:10:03,369 --> 00:10:04,769
+以及床上用品上
+in a line of handbags and bedding.
+
+236
+00:10:08,608 --> 00:10:09,808
+这是喇叭花(牵牛花)咯～
+And that would be petunia.
+
+237
+00:10:09,875 --> 00:10:10,909
+回到你这，阿里尔
+Back to you, Ariel.
+
+238
+00:10:10,977 --> 00:10:12,677
+詹宁斯：这里会有大量的双关语
+JENNINGS: There'll be a lot of puns.
+
+239
+00:10:12,745 --> 00:10:14,546
+有双重含义
+There'll be double meanings.
+
+240
+00:10:14,614 --> 00:10:16,414
+历史地看，这些对电脑
+And these are things that computers, historically,
+
+241
+00:10:16,482 --> 00:10:18,216
+是可怕的
+are terrible at.
+
+242
+00:10:18,284 --> 00:10:21,219
+人类自然语言处理是计算机的一个雷区
+NARRATOR:Human language is a minefield for computers.
+
+243
+00:10:21,287 --> 00:10:23,521
+考虑一下这句话...
+Consider this sentence...
+
+244
+00:10:23,589 --> 00:10:25,657
+看看会怎样？
+How's it go?
+
+245
+00:10:25,725 --> 00:10:28,226
+我穿着睡衣拍大象
+I shot an elephant wearing my pajamas.
+
+246
+00:10:28,294 --> 00:10:29,728
+是我穿睡衣呢？
+Was I wearing the pajamas?
+
+247
+00:10:29,795 --> 00:10:31,196
+还是大象穿睡衣呢？
+Was the elephant wearing the pajamas?
+
+248
+00:10:31,263 --> 00:10:32,497
+因此，有不同的解释
+So there are different interpretations,
+
+249
+00:10:32,565 --> 00:10:34,699
+不同的方法来分析句子
+different ways to parse the sentence.
+
+250
+00:10:34,767 --> 00:10:37,535
+“shot”这个单词 - 在这里到底啥意思呢？
+The word "shot"-- what's really going on there?
+
+251
+00:10:37,603 --> 00:10:39,237
+已经有歧义了
+There's already ambiguity in there.
+
+252
+00:10:39,305 --> 00:10:44,342
+实际上可能是“拍摄”，或“狩猎射击”
+Could actually be shooting, sort of a hunting shooting.
+
+253
+00:10:44,410 --> 00:10:47,846
+如果我是一个摄影师，处在这种上下文语境呢？
+If I'm a photographer and I'm immersed in that context?
+
+254
+00:10:47,913 --> 00:10:50,315
+我可以理解为拍摄
+I may interpret that as shooting with a camera.
+
+255
+00:10:52,752 --> 00:10:53,685
+我的意思是哪一个？
+Which one did I mean?
+
+256
+00:10:53,753 --> 00:10:54,919
+你必须看上下文
+You have to look at the context.
+
+257
+00:10:54,987 --> 00:10:57,956
+但是计算机没有上下文
+NARRATOR:But a computer has no context.
+
+258
+00:10:58,024 --> 00:11:01,626
+它只是装着电子大脑的一个盒子
+It's just an electronic brain in a box.
+
+259
+00:11:01,694 --> 00:11:05,563
+2006年，费鲁奇解决了这一难题
+In 2006, Ferrucci tackles this challenge,
+
+260
+00:11:05,631 --> 00:11:08,667
+与IBM最好最聪明的程序员一起
+along with the best and brightest programmers from IBM
+
+261
+00:11:08,734 --> 00:11:11,302
+那里有国内顶尖的人工智能实验室
+and the country's top AI labs.
+
+262
+00:11:11,370 --> 00:11:14,439
+他们运行了一个测试作为开始
+To start,they run a test.
+
+263
+00:11:14,507 --> 00:11:16,041
+我们当时已有个
+GONDEK:We had an existing
+
+264
+00:11:16,108 --> 00:11:17,909
+国内最先进的系统，人们已经在其上
+state-of-the-art system that people had worked on
+
+265
+00:11:17,977 --> 00:11:19,511
+投入了数年工作
+for a number of years,
+
+266
+00:11:19,578 --> 00:11:21,212
+我们试图将其用于<i>Jeopardy!</i>节目的挑战中
+and we tried applying that to the <i>Jeopardy!</i> challenge.
+
+267
+00:11:21,280 --> 00:11:25,250
+他们给它装入了IBM最先进的计算机程序
+NARRATOR:They feed one of IBM's most sophisticated computer programs
+
+268
+00:11:25,317 --> 00:11:28,520
+数百个<I>Jeopardy!</i>问题,像这样的：
+hundreds of <i>Jeopardy!</i> questions like this one:
+
+269
+00:11:35,761 --> 00:11:38,463
+正确的答案是“埃德蒙・哈雷是谁？”
+The correct answer is "Who is Edmund Halley?"
+
+270
+00:11:38,531 --> 00:11:41,266
+电脑说，“彼得・塞勒斯是谁？”
+The computer says, "Who is Peter Sellers?"
+
+271
+00:11:41,333 --> 00:11:44,269
+电脑搜索过上百万份文档
+The computer ran a search through a million documents,
+
+272
+00:11:44,336 --> 00:11:46,971
+寻找问题中的关键词
+looking for key words from the clue.
+
+273
+00:11:47,039 --> 00:11:50,075
+它定位在一部名为《粉红豹》的电影介绍前
+It homed in on a description of one of the <i>Pink Panther</i> films,
+
+274
+00:11:50,142 --> 00:11:53,678
+其中一个人物是一个“情妇”，或情人
+in which one character was a "paramour" or mistress.
+
+275
+00:11:53,746 --> 00:11:55,413
+此片的主演是
+The star of the movie?
+
+276
+00:11:55,481 --> 00:11:56,881
+彼得・塞勒斯
+Peter Sellers.
+
+277
+00:12:01,887 --> 00:12:05,090
+这也可能是一个人类选手会采用的最终答案
+It's probably the last answer a human would come up with.
+
+278
+00:12:05,157 --> 00:12:08,593
+但是，这是典型的计算机
+But it's typical for computers.
+
+279
+00:12:08,661 --> 00:12:11,730
+团队有很长的路要走
+The team has a long way to go.
+
+280
+00:12:11,797 --> 00:12:14,733
+当他们拿电脑跟最好的人类选手一比
+Just how far becomes clear when they compare the computer
+
+281
+00:12:14,800 --> 00:12:17,268
+就清楚还要走多远了
+to the best human players.
+
+282
+00:12:17,336 --> 00:12:19,370
+他们创建了一个称为“云”的图形
+They create a graph called "the cloud."
+
+283
+00:12:19,438 --> 00:12:23,174
+每个点代表一个<i>Jeopardy!</i>比赛冠军的表现
+Each dot represents a <i>Jeopardy!</i> champion's performance.
+
+284
+00:12:23,242 --> 00:12:26,344
+詹宁斯在顶部
+Jennings is at the top.
+
+285
+00:12:26,412 --> 00:12:28,012
+你看到的是一片云和它的周围...
+What you see is a cloud and it's around...
+
+286
+00:12:28,080 --> 00:12:30,048
+他们大概能答对50％
+they answer around 50%, the winners do,
+
+287
+00:12:30,116 --> 00:12:31,783
+胜出者的正确率大概是90％
+and they get around 90% correct.
+
+288
+00:12:31,851 --> 00:12:35,019
+在这个云图里，计算机处在什么水平?
+NARRATOR:And where is the computer in this cloud?
+
+289
+00:12:35,087 --> 00:12:36,888
+GONDEK：如果你让它回答所有的问题
+GONDEK: If you ask it to answer all the questions,
+
+290
+00:12:36,956 --> 00:12:39,090
+它能答对10％
+it would be giving you 10% of the questions right.
+
+291
+00:12:39,158 --> 00:12:40,358
+这样是进不了<i>Jeopardy!</i>比赛的
+You can't go on <i>Jeopardy!</i> like that.
+
+292
+00:12:40,426 --> 00:12:42,327
+我的意思是，人类最好的成绩是90％、92％
+I mean, the best humans are 90%, 92%.
+
+293
+00:12:42,394 --> 00:12:44,262
+我们还差的远
+We weren't even close.
+
+294
+00:12:46,499 --> 00:12:49,100
+为了赢得<i>Jeopardy!</i>比赛,团队将需要一种全新的方式
+NARRATOR:To win at <i>Jeopardy!,</i> the team will need a whole new way
+
+295
+00:12:49,168 --> 00:12:50,702
+来处理人类语言
+to tackle human language,
+
+296
+00:12:50,770 --> 00:12:54,005
+充分利用计算机的基本优势
+one that takes advantage of the computer's basic strengths.
+
+297
+00:12:56,575 --> 00:12:58,209
+在它的电子核心
+At its electronic core,
+
+298
+00:12:58,277 --> 00:13:00,612
+电脑使用的是一种非常简单的语言：
+a computer speaks a very simple language:
+
+299
+00:13:00,679 --> 00:13:04,749
+二进制代码――开与关
+binary code, on or off.
+
+300
+00:13:04,817 --> 00:13:07,585
+但运用简单的代码，它可以执行指令
+But with that simple code it can follow instructions
+
+301
+00:13:07,653 --> 00:13:09,788
+解决复杂问题
+and solve complex problems
+
+302
+00:13:09,855 --> 00:13:11,556
+解决一些需要高智商的问题
+once reserved for intellectual giants.
+
+303
+00:13:14,460 --> 00:13:17,328
+体现这种智能的一个例子是国际象棋，对吧
+It used to be the case that intelligence was chess, right?
+
+304
+00:13:17,396 --> 00:13:19,063
+如果你能下棋，这就是智能
+If you can play chess, that's intelligence.
+
+305
+00:13:19,131 --> 00:13:22,500
+计算机赢了比赛
+NARRATOR:Computers have mastered the game.
+
+306
+00:13:22,568 --> 00:13:24,068
+下棋对计算机很容易
+Chess is easy for computers
+
+307
+00:13:24,136 --> 00:13:27,839
+因为这些规则是非常明确的，非常清晰
+because the rules are very well defined and very clear.
+
+308
+00:13:27,907 --> 00:13:30,508
+国际象棋的规则相对简单
+NARRATOR:The rules of chess are relatively simple.
+
+309
+00:13:30,576 --> 00:13:32,811
+一块64个方格的棋盘
+A board of 64 squares.
+
+310
+00:13:32,878 --> 00:13:38,116
+每个棋子――卒、马、王后，按不同的规则移动
+Each piece-- pawn, knight, queen-- can move a certain way,
+
+311
+00:13:38,184 --> 00:13:41,853
+目标只有一个：吃掉对方的王
+and there's a single goal: take out your opponent's king.
+
+312
+00:13:43,722 --> 00:13:45,890
+对于人类来说，这是一种终极战略游戏
+For humans, it is the ultimate game of strategy.
+
+313
+00:13:49,361 --> 00:13:51,196
+计算机下棋的方式
+The way computers play chess
+
+314
+00:13:51,263 --> 00:13:53,498
+与人大不相同
+is not at all the way people play chess.
+
+315
+00:13:53,566 --> 00:13:59,604
+我们人是盯着棋板直接琢磨走法，如：
+We humans look at the board and have conceptual ideas like
+
+316
+00:13:59,672 --> 00:14:02,507
+控制住中心，从右攻击等等
+control the center,attack on the right.
+
+317
+00:14:02,575 --> 00:14:06,678
+和电脑的下法非常不一样
+Very different from the way computers play chess.
+
+318
+00:14:06,745 --> 00:14:10,248
+下棋的电脑
+NARRATOR:A chess-playing computer looks at
+
+319
+00:14:10,316 --> 00:14:14,052
+会尝试几乎每一个可能的走法和应对
+virtually every possible move it could make and every response,
+
+320
+00:14:14,119 --> 00:14:16,120
+可能走出的每种结果
+every way the game could play out.
+
+321
+00:14:16,188 --> 00:14:19,257
+电脑通过搜索一颗由各走法构成的算法树来下棋
+Computers play chess through searching a tree of moves
+
+322
+00:14:19,325 --> 00:14:21,392
+它可以下降到很深的程度
+down to a very deep level,
+
+323
+00:14:21,460 --> 00:14:23,561
+预测每条可行的路径
+looking ahead on every possible path.
+
+324
+00:14:23,629 --> 00:14:25,196
+不过，这其实是一种“暴力”算法――
+But they do it by brute force--
+
+325
+00:14:25,264 --> 00:14:27,799
+通过提前预测出后面可能的20步、30步、40步棋
+by going 20, 30, 40 moves ahead
+
+326
+00:14:27,867 --> 00:14:30,869
+看到所有可能出现的败局
+and seeing all the bad things that can happen.
+
+327
+00:14:30,936 --> 00:14:34,405
+而大体来说，人则不可能提前预测那么多步棋
+A person can't look that many moves ahead, broadly.
+
+328
+00:14:34,473 --> 00:14:37,375
+这是AI历史上那场最有名的棋局
+NARRATOR:This is the power behind the most famous chess game
+
+329
+00:14:37,443 --> 00:14:39,477
+背后的力量
+in the history of AI,
+
+330
+00:14:39,545 --> 00:14:43,448
+1997年，另一台IBM电脑名为“深蓝”
+when in 1997, another IBM computer named Deep Blue
+
+331
+00:14:43,515 --> 00:14:47,151
+击败了卫冕的世界冠军加里・卡斯帕罗夫
+beat the reigning world champion, Gary Kasparov.
+
+332
+00:14:47,219 --> 00:14:49,587
+记者（档案）：国际象棋世界冠军头也不回地离开比赛
+REPORTER (archival):The chess world champion walked away from the match,
+
+333
+00:14:49,655 --> 00:14:52,857
+看都不看一眼刚刚击败他的电脑
+never looking back at the computer that just beat him.
+
+334
+00:14:52,925 --> 00:14:58,463
+这场胜利使深蓝显得似乎很聪明
+NARRATOR:The victory makes Deep Blue look pretty smart.
+
+335
+00:14:58,530 --> 00:15:00,198
+但果真如此吗？
+But is it?
+
+336
+00:15:00,266 --> 00:15:01,866
+温斯顿：深蓝...
+WINSTON:Deep Blue...
+
+337
+00:15:01,934 --> 00:15:04,269
+只是貌似很有智能的样子
+it's only acting as if it's intelligent.
+
+338
+00:15:04,336 --> 00:15:07,939
+但它并非真的象我们人类那样聪明
+It's not really intelligent in the way that we humans are.
+
+339
+00:15:08,007 --> 00:15:09,908
+布鲁克斯：它只擅长一件事，那就是下棋
+BROOKS:It's good at one thing--it's playing chess.
+
+340
+00:15:09,975 --> 00:15:11,542
+它不能做任何别的事
+It can't do anything else;
+
+341
+00:15:11,610 --> 00:15:13,011
+它对世界上的其它一无所知
+it has no other understanding of the world.
+
+342
+00:15:13,078 --> 00:15:14,178
+只跟下棋有关
+It's just about chess moves.
+
+343
+00:15:14,246 --> 00:15:16,814
+这种理解力的缺乏
+NARRATOR:This lack of understanding
+
+344
+00:15:16,882 --> 00:15:18,516
+阻碍了每个处理人类语言的
+has hampered every computer program
+
+345
+00:15:18,584 --> 00:15:20,985
+计算机程序
+that's tackled human language.
+
+346
+00:15:21,053 --> 00:15:26,457
+一个很好的例子是20世纪60年代的一个程序，叫ELIZA(伊莉莎)
+A perfect example is a program from the 1960s called ELIZA.
+
+347
+00:15:26,525 --> 00:15:28,660
+伊莉莎是第一个那类程序
+ELIZA was one of the first programs
+
+348
+00:15:28,727 --> 00:15:30,995
+有某种与人交谈功能
+that had anything resembling human conversation.
+
+349
+00:15:33,365 --> 00:15:34,832
+它是个对话 - 
+It was a dialogue--
+
+350
+00:15:34,900 --> 00:15:36,334
+你输入些什么，它输出些响应
+you typed things in,it typed things back.
+
+351
+00:15:38,637 --> 00:15:40,071
+女声：你好
+FEMALE VOICE:How do you do?
+
+352
+00:15:40,139 --> 00:15:42,907
+请告诉我你的问题
+Please tell me your problem.
+
+353
+00:15:42,975 --> 00:15:45,944
+我感到伤心
+I'm feeling sad.
+
+354
+00:15:48,113 --> 00:15:49,747
+然后，它输出道：
+Then it types back,
+
+355
+00:15:49,815 --> 00:15:53,484
+“你找我是因为你感觉伤心？”
+"Did you come to me because you're feeling sad?"
+
+356
+00:15:53,552 --> 00:15:58,890
+ELIZA被设计为像个心理医生类似的响应
+NARRATOR:ELIZA was programmed to respond like a psychiatrist.
+
+357
+00:15:58,958 --> 00:16:00,825
+但是，它并没有真正的洞察力
+But it had no real insight.
+
+358
+00:16:00,893 --> 00:16:02,593
+相反，它只是遵循简单的规则
+Instead, it followed simple rules
+
+359
+00:16:02,661 --> 00:16:04,729
+并重新排列关键短语
+and rearranged key phrases.
+
+360
+00:16:04,797 --> 00:16:09,600
+所以，如果我说“我死了。”
+So if I say "I'm dead,"
+
+361
+00:16:09,668 --> 00:16:13,771
+它回答说：“你喜欢死么？”
+it responds,"Do you enjoy being dead?"
+
+362
+00:16:13,839 --> 00:16:15,673
+它不具有任何理解能力
+It doesn't have any understanding
+
+363
+00:16:15,741 --> 00:16:17,408
+死是一种特别的状态
+that dead is a different kind of condition.
+
+364
+00:16:17,476 --> 00:16:20,011
+它只是在做某种类似填空的
+It really is just doing this sort of fill-in-the-blanks
+
+365
+00:16:20,079 --> 00:16:21,679
+模式匹配
+kind of pattern matching.
+
+366
+00:16:21,747 --> 00:16:23,681
+任何人试图解决语言问题
+NARRATOR:Anyone who tried to solve the language problem
+
+367
+00:16:23,749 --> 00:16:25,249
+都会碰到同一堵高墙――
+hit the same brick wall--
+
+368
+00:16:25,317 --> 00:16:27,785
+电脑对我们习以为常的东西
+the computer's profound ignorance
+
+369
+00:16:27,853 --> 00:16:30,989
+是如此的无知
+of what we take for granted every day.
+
+370
+00:16:31,056 --> 00:16:32,256
+我们竟知道这么多
+There is just so much more that we know
+
+371
+00:16:32,324 --> 00:16:33,791
+我们不知道我们知道
+that we don't know we know.
+
+372
+00:16:33,859 --> 00:16:35,360
+我的意思是，我们只是本能地就自然知道这类事情
+I mean, just we know all kinds of stuff,
+
+373
+00:16:35,427 --> 00:16:37,829
+就好比按电梯的向上按钮
+like you press the up button in the elevator,
+
+374
+00:16:37,896 --> 00:16:39,297
+它就会上升一样
+that means it's going to go up.
+
+375
+00:16:39,365 --> 00:16:42,633
+或者，牛奶是白的，或者水是湿的
+Or, milk is white,or water is wet.
+
+376
+00:16:42,701 --> 00:16:44,068
+我的意思是，有些事我们就是知道
+I mean, there's just stuff that we know
+
+377
+00:16:44,136 --> 00:16:46,270
+我们甚至不知道我们知道
+that we don't even realize we know.
+
+378
+00:16:46,338 --> 00:16:48,139
+这是电脑很难实现的
+That's one of the things that makes it hard.
+
+379
+00:16:48,207 --> 00:16:52,910
+人类大脑会自然地收集很多常识
+NARRATOR:All the commonsense knowledge a human brain collects naturally
+
+380
+00:16:52,978 --> 00:16:56,914
+这对电脑程序来说就似乎太复杂了
+seems much too complex to program into a computer.
+
+381
+00:16:56,982 --> 00:17:01,686
+但是，这一直没有阻止过科学家不断尝试
+But that hasn't stopped one scientist from trying.
+
+382
+00:17:01,754 --> 00:17:05,323
+我们实际上已经手动输入了约600万条规则
+DOUG LENAT:So we have actually manually entered about six million rules.
+
+383
+00:17:05,391 --> 00:17:09,460
+这些相当于它需要知道的总量的3％左右
+That's about 3% of what it's going to need to know
+
+384
+00:17:09,528 --> 00:17:12,196
+那个总量大体上就是我们通常称之为
+in terms of actually spanning what you and I would call
+
+385
+00:17:12,264 --> 00:17:13,965
+“人类的共同意识”的数量
+"human common sense."
+
+386
+00:17:15,601 --> 00:17:17,135
+在过去的25年里
+NARRATOR:For the last 25 years,
+
+387
+00:17:17,202 --> 00:17:18,903
+道格・棱纳德领导着一个团队
+Doug Lenat has been leading a team
+
+388
+00:17:18,971 --> 00:17:21,339
+试图创造类似人类的智能
+trying to create humanlike intelligence
+
+389
+00:17:21,407 --> 00:17:25,743
+通过向计算机逐条教授规则的方式，来教电脑常识
+by teaching a computer common sense, rule by rule.
+
+390
+00:17:25,811 --> 00:17:29,280
+该计划被称为CYC，其总部的墙壁上
+The program is called CYC, and at headquarters
+
+391
+00:17:29,348 --> 00:17:32,116
+挂满逻辑图
+the walls are covered with logic diagrams.
+
+392
+00:17:32,184 --> 00:17:36,320
+在某种程度上，这神奇的力量
+In a way, the magic of this, the power of this,
+
+393
+00:17:36,388 --> 00:17:40,691
+逐条告诉它一些规则
+is if you just tell it each rule one by one by one
+
+394
+00:17:40,759 --> 00:17:43,694
+就可以使它拥有一般的逻辑推理能力
+and you give it general logical reasoning capabilities,
+
+395
+00:17:43,762 --> 00:17:45,897
+这就是所有要做的
+that's all you need to do.
+
+396
+00:17:45,964 --> 00:17:48,666
+到目前为止，CYC有6百万条规则
+NARRATOR:So far, CYC has six million rules
+
+397
+00:17:48,734 --> 00:17:51,869
+能回答很多常识性的问题
+and can answer a lot of commonsense questions.
+
+398
+00:17:51,937 --> 00:17:53,037
+像这样的：
+Like this one:
+
+399
+00:17:53,105 --> 00:17:54,806
+LENAT：罐头能跳康康舞吗？
+LENAT:Can a can cancan?
+
+400
+00:17:54,873 --> 00:17:57,341
+（康康舞音乐播放）
+(cancan music playing)
+
+401
+00:18:02,281 --> 00:18:05,817
+CYC说“不”,并解释了为什么
+NARRATOR:CYC says no and it explains why.
+
+402
+00:18:05,884 --> 00:18:08,553
+下面是它说的本质原因:
+Here it's essentially saying the reason
+
+403
+00:18:08,620 --> 00:18:13,324
+罐头不能跳康康舞是因为罐头是无生命的物体
+why cans can't cancan is that cans are inanimate objects,
+
+404
+00:18:13,392 --> 00:18:15,960
+它知道跳康康舞
+and it knows that cancan dancing requires
+
+405
+00:18:16,028 --> 00:18:18,896
+至少要有大脑可用
+at least partially having a brain and using it.
+
+406
+00:18:18,964 --> 00:18:20,264
+（康康舞音乐继续）
+(cancan music continues)
+
+407
+00:18:20,332 --> 00:18:23,034
+这类问题,CYC只需通过简明的因果关系
+It's just enough for CYC to get the right answer
+
+408
+00:18:23,102 --> 00:18:24,135
+就足够判断了
+for the right reason.
+
+409
+00:18:24,203 --> 00:18:26,170
+（音乐结束，掌声响起）
+(music ends, applause)
+
+410
+00:18:26,238 --> 00:18:27,839
+25年前
+NARRATOR:25 years ago,
+
+411
+00:18:27,906 --> 00:18:30,408
+许多专家认为规则和逻辑最有希望
+many experts considered rules and logic the best hope
+
+412
+00:18:30,476 --> 00:18:33,344
+创造人工智能
+for building artificial intelligence.
+
+413
+00:18:33,412 --> 00:18:36,380
+但很清楚，只有这些是不够的
+But it's become clear these alone are not enough.
+
+414
+00:18:36,448 --> 00:18:40,084
+这不只是灌注越来越多东西的问题
+It's not just a matter of piling in more and more stuff.
+
+415
+00:18:40,152 --> 00:18:42,353
+有一些我们所不明白的基本原则
+There are basic principles that we didn't understand;
+
+416
+00:18:42,421 --> 00:18:43,654
+灌输越来越多的材料
+putting in more and more stuff
+
+417
+00:18:43,722 --> 00:18:46,257
+并不能得到那些基本原则
+doesn't get you basic principles.
+
+418
+00:18:46,325 --> 00:18:50,094
+在IBM，当戴夫・费鲁奇和他的团队在解决这个
+NARRATOR:At IBM, as Dave Ferrucci and his team tackle
+
+419
+00:18:50,162 --> 00:18:51,529
+<i>Jeopardy!</i>竞猜节目的挑战时
+the <i>Jeopardy!</i> challenge,
+
+420
+00:18:51,597 --> 00:18:55,032
+他们知道，事实和规则仅仅是个开始
+they know that facts and rules are just the beginning.
+
+421
+00:18:55,100 --> 00:18:56,868
+我们不能为
+We couldn't write rules
+
+422
+00:18:56,935 --> 00:18:59,337
+每一个单词、词组和上下文都写出规则
+for every combination of word and phrases and context.
+
+423
+00:18:59,404 --> 00:19:03,241
+他们需要一个新的系统，更流畅，更灵活
+NARRATOR:They need a new system, more fluid and flexible,
+
+424
+00:19:03,308 --> 00:19:05,276
+来应付<i>Jeopardy!</i>节目中那五花八门、
+to navigate the twists and turns
+
+425
+00:19:05,344 --> 00:19:07,778
+纠缠拧巴和颠三倒四的问题
+of many different kinds of <i>Jeopardy!</i> questions.
+
+426
+00:19:07,846 --> 00:19:14,352
+他们用IBM创始人托马斯・沃森（Thomas Watson）来命名这台电脑
+They name their system Watson after IBM founder Thomas Watson.
+
+427
+00:19:14,419 --> 00:19:18,623
+电子版的“沃森”包含2800颗处理器
+The electronic Watson consists of 2,800 processors.
+
+428
+00:19:18,690 --> 00:19:22,126
+相当于6000台顶级家用电脑
+That's like 6,000 high-end home computers.
+
+429
+00:19:22,194 --> 00:19:25,730
+它的总大小类似10台冰箱
+All together, it's the size of 10 refrigerators.
+
+430
+00:19:25,797 --> 00:19:27,398
+团队开始填充它的记忆库
+The team starts filling his memory banks
+
+431
+00:19:27,466 --> 00:19:29,800
+约1千万份文档
+with about 10 million documents,
+
+432
+00:19:29,868 --> 00:19:32,303
+大部分是从互联网上下载的
+most downloaded from the Internet.
+
+433
+00:19:32,371 --> 00:19:33,938
+因为当沃森参加<i>Jeopardy!</i>时
+Because when Watson plays <i>Jeopardy!,</i>
+
+434
+00:19:34,006 --> 00:19:37,775
+他必须独立运行，就像它的人肉对手
+he must stand alone, just like his human competitors.
+
+435
+00:19:37,843 --> 00:19:39,977
+费鲁奇：所有类型的内容――
+FERRUCCI: All kinds of content, okay--
+
+436
+00:19:40,045 --> 00:19:42,747
+百科全书，词典，词库，书籍，戏剧
+encyclopedias, dictionaries, thesauri, books, plays,
+
+437
+00:19:42,814 --> 00:19:44,482
+你叫的出名的
+you name it.
+
+438
+00:19:44,550 --> 00:19:47,451
+《世界图书大全》，维基百科
+NARRATOR:The entire World Book Encyclopedia, Wikipedia,
+
+439
+00:19:47,519 --> 00:19:49,220
+互联网电影数据库
+the Internet Movie Database,
+
+440
+00:19:49,288 --> 00:19:52,390
+<i>纽约时报</i>存档的大部分和“圣经”
+much of the <i>New York Times</i> archive and the Bible
+
+441
+00:19:52,457 --> 00:19:54,992
+这些只是沃森资源的一部分
+are just some of Watson's resources.
+
+442
+00:19:55,060 --> 00:20:00,097
+为了构建沃森的基础数据和规则
+And to build on Watson's foundation of data and rules,
+
+443
+00:20:00,165 --> 00:20:04,969
+团队引入了一个计算世界的强大工具
+the team turns to a powerful tool in the computing world.
+
+444
+00:20:05,037 --> 00:20:06,804
+这就是叫做“机器学习”的技术
+It's called "machine learning."
+
+445
+00:20:09,541 --> 00:20:12,710
+机器学习就像人类通过实例学习的过程
+Machine learning is just like human learning from examples.
+
+446
+00:20:12,778 --> 00:20:17,448
+VON AHN：以前人们只编写规则，手工编写规则
+VON AHN:Before people would just write rules, write rules by hand.
+
+447
+00:20:17,516 --> 00:20:20,818
+如今，这些全都基于实例
+Nowadays, it's all based on examples.
+
+448
+00:20:20,886 --> 00:20:24,555
+为了了解机器学习是如何运作的
+NARRATOR:To understand how machine learning works,
+
+449
+00:20:24,623 --> 00:20:27,592
+考虑一下字母“A”
+consider for a moment the letter "A".
+
+450
+00:20:27,659 --> 00:20:30,428
+你觉得可以怎么样向电脑来描述它？
+What if you had to describe it to a computer?
+
+451
+00:20:30,495 --> 00:20:33,397
+这是美国邮政服务公司所面临的一个真实的问题
+It's a real problem faced by the U.S. Postal Service,
+
+452
+00:20:33,465 --> 00:20:36,267
+计算机必须识别各种地址
+whose computers must decipher all kinds of addresses,
+
+453
+00:20:36,335 --> 00:20:38,302
+打印和手写的
+printed and handwritten.
+
+454
+00:20:38,370 --> 00:20:39,370
+VON AHN：我们都知道“A”看起来的样子
+VON AHN: We all know what an "A" looks like.
+
+455
+00:20:39,438 --> 00:20:40,805
+当我看到它就会认识
+I know when I see it,
+
+456
+00:20:40,872 --> 00:20:43,674
+但是有太多不同类型的“A”
+but there's just way too many different types of "A"s.
+
+457
+00:20:43,742 --> 00:20:48,613
+有些字体里的A只是一个三角形戳在那儿
+There are fonts where the "A" is just a triangle pointing up,
+
+458
+00:20:48,680 --> 00:20:51,315
+这是一个“A”
+that's an "A".
+
+459
+00:20:51,383 --> 00:20:53,251
+很快，你会发现，没有简单的规则集
+Pretty quickly, you realize, there is no simple set of rules
+
+460
+00:20:53,318 --> 00:20:56,387
+可以让你写一个统一的程序
+that you can write down currently
+
+461
+00:20:56,455 --> 00:20:57,688
+来识别一个字母
+for a program to determine
+
+462
+00:20:57,756 --> 00:20:59,457
+是不是A
+whether a letter is an "A" or not.
+
+463
+00:20:59,524 --> 00:21:02,560
+人类可能无法作出规则
+NARRATOR:Humans might not be able to come up with the rules
+
+464
+00:21:02,628 --> 00:21:05,329
+来可靠地识别各种“A”
+that reliably identify all kinds of "A"s,
+
+465
+00:21:05,397 --> 00:21:08,633
+但实践显示，计算机自己可以做到这一点
+but it turns out a computer can do it for itself
+
+466
+00:21:08,700 --> 00:21:10,768
+如果你给它足够的实例
+if you give it enough examples.
+
+467
+00:21:10,836 --> 00:21:14,071
+要这样，你只需要得到一个“A”
+The way you do it is you just get an "A",
+
+468
+00:21:14,139 --> 00:21:16,874
+把它发送给程序，并说这是一个“A”
+send it to the program and say that's an "A".
+
+469
+00:21:16,942 --> 00:21:19,176
+这里是另一个“A”，不同一个，这也是一个“A”
+Here is another "A", different one, that's an "A".
+
+470
+00:21:19,244 --> 00:21:21,145
+下面是另一个“A”，它是另一个不同的，也是一个“A”
+Here's another "A", it's a different one, that's an "A".
+
+471
+00:21:21,213 --> 00:21:22,413
+然后，你会给它另一个样本
+Then you would give it another example
+
+472
+00:21:22,481 --> 00:21:23,948
+又一个
+and you would give it another example
+
+473
+00:21:24,016 --> 00:21:25,783
+这样做上百万次
+and you would do that a million times.
+
+474
+00:21:25,851 --> 00:21:29,387
+电脑在所有这些例子中寻找模式
+NARRATOR:The computer hunts for patterns among all those examples
+
+475
+00:21:29,454 --> 00:21:31,555
+直到找到它们
+and it finds them.
+
+476
+00:21:31,623 --> 00:21:33,457
+所以，下一次它遇到了一个字母“A” - 
+So the next time it meets a letter "A"--
+
+477
+00:21:33,525 --> 00:21:37,828
+即使是没有见过的 - 它也可以识别它
+even one it hasn't seen before-- it will recognize it.
+
+478
+00:21:37,896 --> 00:21:40,531
+这就是机器学习
+This is machine learning,
+
+479
+00:21:40,599 --> 00:21:43,567
+在沃森的编程里，这是一个至关重要的元素
+and it's a crucial element of Watson's programming.
+
+480
+00:21:43,635 --> 00:21:47,071
+但该团队在这里训练沃森的，不是字母
+The team trains Watson,but here, instead of letters,
+
+481
+00:21:47,139 --> 00:21:49,140
+而是数万
+the examples are tens of thousands
+
+482
+00:21:49,207 --> 00:21:50,608
+以往Jeopardy!节目的例题
+of old <i>Jeopardy!</i> questions
+
+483
+00:21:50,676 --> 00:21:54,578
+类似写着正确答案的小纸条
+along with a cheat sheet of all the correct answers.
+
+484
+00:21:54,646 --> 00:21:57,815
+使用机器学习，沃森将在
+Using machine learning,Watson will hunt for patterns
+
+485
+00:21:57,883 --> 00:22:01,619
+问题类型，正确答案和支持答案的
+between the type of question, the correct answer
+
+486
+00:22:01,687 --> 00:22:04,789
+各种证据之间寻找模式
+and the kinds of evidence that support that answer.
+
+487
+00:22:04,856 --> 00:22:06,590
+现在我们做了成千上万个这样的问题
+Now we do this over thousands of questions,
+
+488
+00:22:06,658 --> 00:22:08,893
+于是，我们找出了一些权衡这些证据的方法
+so we come up with some way to weigh the evidence on average,
+
+489
+00:22:08,960 --> 00:22:10,628
+最终得出正确的答案
+so that we come up with the right answer.
+
+490
+00:22:10,696 --> 00:22:14,265
+现在，当它面对一个全新的问题时
+NARRATOR:Now, when he's faced with a brand new question,
+
+491
+00:22:14,333 --> 00:22:16,600
+沃森使用了它从这些模式中学到的东西
+Watson uses what he learned from these patterns,
+
+492
+00:22:16,668 --> 00:22:19,704
+并得到每种可能答案的把握度
+and declares his confidence in each possible answer.
+
+493
+00:22:19,771 --> 00:22:21,572
+费鲁奇：最终，我们会得到一个列表，上面写着：
+FERRUCCI:In the end we get a list that says,
+
+494
+00:22:21,640 --> 00:22:24,108
+“这是最有可能的回答，我们有75％的把握它是正确的。”
+"Here's the top answer,and we're 75% sure it's right."
+
+495
+00:22:24,176 --> 00:22:28,546
+沃森现在已成为一个复杂的体系结构
+NARRATOR:Watson has now become a complex architecture
+
+496
+00:22:28,613 --> 00:22:31,482
+包含规则、原始数据和机器学习机制
+of rules, raw data and machine learning
+
+497
+00:22:31,550 --> 00:22:33,451
+可以让它通过统计方法
+that enables him to use statistics
+
+498
+00:22:33,518 --> 00:22:35,786
+选择正确的答案
+to choose the right answer.
+
+499
+00:22:35,854 --> 00:22:37,388
+为了测试这个系统
+To test out this system,
+
+500
+00:22:37,456 --> 00:22:40,524
+研究团队收拾好大厅
+the team scours the halls for IBM employees
+
+501
+00:22:40,592 --> 00:22:44,128
+请了些IBM公司内部的员工先来玩一把<i>Jeopardy!</i>
+who can play <i>Jeopardy!</i>
+
+502
+00:22:44,196 --> 00:22:47,365
+大家挤在一间会议室里
+and everyone squeezes into a conference room.
+
+503
+00:22:47,432 --> 00:22:51,635
+主持人：1978年，《新泽西月刊》记者史蒂芬・列维
+HOST:In 1978,New Jersey Monthly reporter Steven Levy
+
+504
+00:22:51,703 --> 00:22:54,271
+因找到此人的大脑而出名
+famously found this man's brain.
+
+505
+00:22:54,339 --> 00:22:55,373
+沃森？
+Watson?
+
+506
+00:22:55,440 --> 00:22:56,674
+沃森：爱因斯坦吧？
+WATSON:What is Einstein's?
+
+507
+00:22:56,742 --> 00:22:57,775
+主持人：阿尔伯特・爱因斯坦，是的
+HOST:Albert Einstein's, yes.
+
+508
+00:22:57,843 --> 00:22:59,777
+（笑）
+(laughter)
+
+509
+00:22:59,845 --> 00:23:01,779
+主持人：第五修正案说
+HOST:"The Fifth Amendment says
+
+510
+00:23:01,847 --> 00:23:06,350
+“没有它
+"that private property shall not be taken for public use
+
+511
+00:23:06,418 --> 00:23:07,752
+私有财产不得拿来公用”
+without this."
+
+512
+00:23:07,819 --> 00:23:09,086
+沃森？
+Watson?
+
+513
+00:23:09,154 --> 00:23:10,855
+沃森：那是“公正补偿”？
+WATSON:What is "just compensation"?
+
+514
+00:23:10,922 --> 00:23:12,556
+主持人：是的
+HOST:Yes.
+
+515
+00:23:12,624 --> 00:23:16,460
+有了这个新系统，沃森激增到胜利者的云层
+NARRATOR:With this new system, Watson surges into the winners' cloud.
+
+516
+00:23:16,528 --> 00:23:18,362
+我们通过机器学习取得了巨大的飞跃
+We took a huge jump with machine learning.
+
+517
+00:23:18,430 --> 00:23:22,600
+主持人：沃森具有领先优势――24863美元
+HOST:Watson with a commanding lead, $24,863.
+
+518
+00:23:22,667 --> 00:23:23,768
+在性能上，我们看到了一个巨大的飞跃
+We saw a huge jump in performance.
+
+519
+00:23:23,835 --> 00:23:24,769
+我们那什么，“哇！”
+We were, like, "Whoo!"
+
+520
+00:23:24,836 --> 00:23:26,804
+到现在为止
+NARRATOR:Up to now,
+
+521
+00:23:26,872 --> 00:23:29,640
+上电视节目还只是个梦
+appearing on the TV show has only been a dream.
+
+522
+00:23:29,708 --> 00:23:32,843
+但是，沃森表现的如此之好，戴夫・费鲁奇决定
+But Watson is performing so well, Dave Ferrucci decides
+
+523
+00:23:32,911 --> 00:23:34,512
+是时候电话联系<i>Jeopardy!</i>节目组了
+it's time to call <i>Jeopardy!</i>
+
+524
+00:23:40,886 --> 00:23:44,755
+2009年12月，Jeopardy!节目的制作人来到IBM
+In December 2009, <i>Jeopardy!</i> producers arrive at IBM
+
+525
+00:23:44,823 --> 00:23:48,592
+来评估戴夫・费鲁奇的新创造
+to size up Dave Ferrucci's new creation.
+
+526
+00:23:48,660 --> 00:23:51,695
+与任何人肉选手一样，沃森必须先在节目中
+Like any human contestant,Watson must audition
+
+527
+00:23:51,763 --> 00:23:53,664
+赢得资格
+to earn a spot on the show.
+
+528
+00:23:53,732 --> 00:23:56,400
+费鲁奇：我们花了这么长的时间开发这个系统
+FERRUCCI:We spent all this time,you know, developing this system
+
+529
+00:23:56,468 --> 00:23:57,802
+并推动和改进它
+and pushing its capabilities,
+
+530
+00:23:57,869 --> 00:24:00,337
+然后坐在这里，决策者们也在这...
+then here you are sitting here, all the executives are there...
+
+531
+00:24:00,405 --> 00:24:02,540
+（笑）
+(laughter)
+
+532
+00:24:04,576 --> 00:24:06,410
+哈利・弗里德曼：听到“电脑”，你就会想了:
+HARRY FRIEDMAN:You hear "computer," you think,
+
+533
+00:24:06,478 --> 00:24:08,879
+呃～电脑当然啥都知道啦
+well, of course a computer should have all the answers.
+
+534
+00:24:08,947 --> 00:24:11,148
+你一定听说过“问与答”技术
+You hear about Q&A technology.
+
+535
+00:24:11,216 --> 00:24:13,451
+那么，它不就是一个大搜索引擎吗？
+Well, isn't this just a big search engine?
+
+536
+00:24:13,518 --> 00:24:15,786
+费鲁奇：他们在等着看看
+FERRUCCI:And they're waiting to see,
+
+537
+00:24:15,854 --> 00:24:17,421
+将要发生什么事
+you know, what really is going to happen.
+
+538
+00:24:17,489 --> 00:24:20,858
+谁也不知道，不知道
+And you just don't know,you don't know.
+
+539
+00:24:20,926 --> 00:24:24,995
+为了使决策者印象深刻，IBM搭建了个临时工作室
+NARRATOR:To impress the executives,IBM builds a makeshift studio,
+
+540
+00:24:25,063 --> 00:24:28,766
+聘请喜剧演员托德・克雷恩担任节目主持人
+hires comedian Todd Crain to act as game show host,
+
+541
+00:24:28,834 --> 00:24:31,669
+并找来了往届的节目参赛者
+and brings in former TV contestants.
+
+542
+00:24:31,736 --> 00:24:34,238
+GONDEK：这是我曾经经历过的最紧张的日子之一
+GONDEK:That was one of the tensest days I've ever had.
+
+543
+00:24:34,306 --> 00:24:37,741
+因为我们从来没有见过它对战真正的<i>Jeopardy!</i>选手
+Because we had never seen it play against <i>Jeopardy!</i> players.
+
+544
+00:24:37,809 --> 00:24:39,376
+克雷恩：再选择一次，大卫
+CRAIN: Select again, David.
+
+545
+00:24:39,444 --> 00:24:42,112
+GONDEK：我记得，前一天，我们调整好了一切
+GONDEK: And I remember, like, the day before, we're tuning everything.
+
+546
+00:24:42,180 --> 00:24:44,181
+给它设置了最好的策略
+I was putting in the best strategy that we had.
+
+547
+00:24:44,249 --> 00:24:46,150
+我把我们最好的东西都放进去了，我想
+I was putting the best stuff that we had and I thought,
+
+548
+00:24:46,218 --> 00:24:47,251
+“嗯，你会整死他们的！”
+"Well, this is just gonna kill 'em!"
+
+549
+00:24:47,319 --> 00:24:48,252
+克雷恩:米兰达？
+CRAIN: Miranda?
+
+550
+00:24:48,320 --> 00:24:50,154
+什么是“猫的摇篮”？
+What is "The Cat's in the Cradle"?
+
+551
+00:24:50,222 --> 00:24:50,921
+正确
+That is correct.
+
+552
+00:24:50,989 --> 00:24:51,722
+什么是“我是海象”？
+What is "I am the Walrus"?
+
+553
+00:24:51,790 --> 00:24:52,690
+是的！
+Yes!
+
+554
+00:24:52,757 --> 00:24:54,225
+米兰达：“鳄鱼摇滚”是什么？(Elton John演唱)
+MIRANDA:What is "Crocodile Rock"?
+
+555
+00:24:54,292 --> 00:24:56,126
+是
+Yes.
+
+556
+00:24:56,194 --> 00:24:58,662
+GONDEK：他们像极了专业运动员
+GONDEK:They were just like professional athletes.
+
+557
+00:24:58,730 --> 00:25:00,331
+对我们来说，这是一个非常艰难的比赛
+It was a really tough few games for us.
+
+558
+00:25:00,398 --> 00:25:03,167
+在第一轮比赛中，沃森似乎不是在比赛节目中试镜
+NARRATOR:In the first round, it seems that Watson is auditioning
+
+559
+00:25:03,235 --> 00:25:05,936
+而是个情景喜剧
+not for a game show,but a sit-com.
+
+560
+00:25:06,004 --> 00:25:07,471
+我们接下来做什么？
+Where do we go next?
+
+561
+00:25:07,539 --> 00:25:10,374
+沃森：L，下划线，下划线，下划线，下划线，O
+WATSON:L, underscore, underscore,underscore, underscore, O
+
+562
+00:25:10,442 --> 00:25:12,176
+哇...1,000元
+Whoa...for 1,000.
+
+563
+00:25:12,244 --> 00:25:15,646
+有突然意外的错误，需要修复
+NARRATOR:There are suddenly unexpected bugs that need fixing.
+
+564
+00:25:15,714 --> 00:25:17,481
+我们没太处理好罗马数字
+We weren't dealing with Roman numerals well.
+
+565
+00:25:17,549 --> 00:25:21,585
+因此，它会说类似“亨利第五”,而我们会说:“亨利V”
+So it'll say like "Henry the 5th," we would say, "Henry Vee."
+
+566
+00:25:21,653 --> 00:25:23,821
+克雷恩(读）：
+CRAIN (reading):
+
+567
+00:25:23,889 --> 00:25:27,124
+...随着他缺乏主见的、同父异母弟弟，伊万五世”
+...along with his weak-minded half-brother, Ivan the Fifth."
+
+568
+00:25:27,192 --> 00:25:29,627
+克雷恩:沃森？
+CRAIN:Watson?
+
+569
+00:25:29,694 --> 00:25:30,828
+沃森：“彼得”是什么？
+WATSON:What is "Peter"?
+
+570
+00:25:30,896 --> 00:25:32,897
+克雷恩:能具体点吗？
+CRAIN:More specific?
+
+571
+00:25:32,964 --> 00:25:34,331
+沃森：“彼得的眼睛”是什么？
+WATSON:What is "Peter 'Eye'"?
+
+572
+00:25:34,399 --> 00:25:36,500
+（笑）
+(laughter)
+
+573
+00:25:36,568 --> 00:25:37,768
+错
+No.
+
+574
+00:25:37,836 --> 00:25:39,537
+嘉莉或大卫？
+Carrie or David?
+
+575
+00:25:39,604 --> 00:25:41,305
+嘉莉？谁是彼得大帝？
+Carrie?Who is Peter the Great?
+
+576
+00:25:41,373 --> 00:25:42,973
+正确
+That is correct.
+
+577
+00:25:43,041 --> 00:25:45,142
+在节目的决赛中，参赛者必须赌一把(?)
+NARRATOR:In Final Jeopardy!, where contestants must place bets
+
+578
+00:25:45,210 --> 00:25:49,313
+并写下答案，事情只会变得更糟
+and write down the answer,things only get worse.
+
+579
+00:25:49,381 --> 00:25:51,015
+“标志”类别下的线索是...
+Under the category "Flags," the clue is...
+
+580
+00:25:51,082 --> 00:25:53,617
+旁白（读）：
+NARRATOR (reading):
+
+581
+00:26:00,759 --> 00:26:03,060
+（决赛节目的主题音乐响起）
+(Final Jeopardy theme music playing)
+
+582
+00:26:03,128 --> 00:26:04,328
+你要知道
+You need to know
+
+583
+00:26:04,396 --> 00:26:06,063
+有关18世纪标志的一些事情
+a little bit something about 18th-century flags.
+
+584
+00:26:06,131 --> 00:26:08,566
+大卫，让我们来看看你答对没有
+David, let's see if you did.
+
+585
+00:26:08,633 --> 00:26:10,801
+我们要找的这个4个单词的座右铭是什么?大卫？
+What is the four-word motto we're looking for, David?
+
+586
+00:26:10,869 --> 00:26:12,369
+什么是“不要踩我”？
+What is, "Don't tread on me"?
+
+587
+00:26:12,437 --> 00:26:13,470
+正确！
+That is correct!
+
+588
+00:26:13,538 --> 00:26:14,505
+让我们来看看，沃森是否答对了
+Let's see if Watson got it right.
+
+589
+00:26:14,573 --> 00:26:18,742
+（笑）
+(laughter)
+
+590
+00:26:18,810 --> 00:26:20,210
+沃森不识别
+NARRATOR:Watson didn't recognize
+
+591
+00:26:20,278 --> 00:26:21,745
+“座右铭”这个词
+the word "motto,"
+
+592
+00:26:21,813 --> 00:26:23,914
+扫描过数百万文档后
+and after scanning through millions of documents,
+
+593
+00:26:23,982 --> 00:26:27,585
+他发现了与“9月11日”关联的“恐怖主义”一词
+he found the word "terrorism" associated with "September 11"
+
+594
+00:26:27,652 --> 00:26:30,387
+如此频繁，这似乎是最好的答案
+so frequently, that seemed like the best answer.
+
+595
+00:26:30,455 --> 00:26:33,557
+到他们停下来吃午饭的时候
+By the time they break for lunch,
+
+596
+00:26:33,625 --> 00:26:36,460
+人类:2;沃森:0
+it's humans, two;Watson, zero.
+
+597
+00:26:36,528 --> 00:26:38,862
+目前尚不清楚
+And it's not clear if Watson will ever be ready
+
+598
+00:26:38,930 --> 00:26:40,431
+沃森是否进入最佳状态了
+for primetime.
+
+599
+00:26:40,498 --> 00:26:41,832
+这对我是个冒险
+This was taking a risk for me
+
+600
+00:26:41,900 --> 00:26:44,401
+在这个意义上，你坐在这里，说，“你知道吗
+in the sense that you're sitting here and saying, "You know what,
+
+601
+00:26:44,469 --> 00:26:47,004
+我看行～”,但实际结果却让他颜面扫地
+I think this is possible," and then you fall flat on your face
+
+602
+00:26:47,072 --> 00:26:48,272
+于是人们说：
+and people say,
+
+603
+00:26:48,340 --> 00:26:49,807
+“好了，我们永远也不会再相信费鲁奇了”
+"Well, we're never going to believe Ferrucci again."
+
+604
+00:26:49,874 --> 00:26:51,041
+我会被解雇吗？
+Did I expect to get fired?
+
+605
+00:26:51,109 --> 00:26:52,042
+不会吧，但也许会
+No, but maybe.
+
+606
+00:26:52,110 --> 00:26:53,444
+（笑）
+(chuckles)
+
+607
+00:26:53,511 --> 00:26:57,181
+但是午饭后，制片方见识了
+NARRATOR:But after lunch,the producers are treated
+
+608
+00:26:57,248 --> 00:26:58,983
+沃森不同的另一面
+to a different side of Watson.
+
+609
+00:26:59,050 --> 00:27:02,419
+我们回来后，第三场比赛有点不分上下
+We came back, and the third game was neck and neck,
+
+610
+00:27:02,487 --> 00:27:04,722
+竞争令人难以置信地激烈
+incredibly competitive.
+
+611
+00:27:04,789 --> 00:27:07,691
+“在1846年的一部威尔第歌剧的第三幕...
+"In Act Three of an 1846 Verdi opera...
+
+612
+00:27:07,759 --> 00:27:12,296
+（继续读）：
+(continues reading):
+
+613
+00:27:12,364 --> 00:27:13,797
+沃森？
+Watson?
+
+614
+00:27:13,865 --> 00:27:15,099
+沃森：Attila(匈奴王)是什么？
+WATSON:What is Attila?
+
+615
+00:27:15,166 --> 00:27:16,634
+能更具体么？
+Be more specific?
+
+616
+00:27:16,701 --> 00:27:18,769
+沃森：什么是匈奴王阿提拉？
+WATSON:What is Attila the Hun?
+
+617
+00:27:18,837 --> 00:27:19,870
+非常感谢
+Thank you very much.
+
+618
+00:27:19,938 --> 00:27:21,839
+匈奴王阿提拉 - 我接受它了
+Attila the Hun--I'll take that.
+
+619
+00:27:21,906 --> 00:27:23,607
+这天下午，沃森又攀回了比赛中
+NARRATOR:That afternoon, Watson climbs back in the game.
+
+620
+00:27:23,675 --> 00:27:26,777
+“华兹华斯说，他们一飞冲天，但从不漫游”
+"Wordsworth said they soar, but never roam."
+
+621
+00:27:26,845 --> 00:27:28,912
+沃森？
+Watson?
+
+622
+00:27:28,980 --> 00:27:30,047
+沃森：那是云雀吗？
+WATSON: What is skylark?
+
+623
+00:27:30,115 --> 00:27:31,348
+克雷恩：正确
+CRAIN: That is correct.
+
+624
+00:27:31,416 --> 00:27:33,651
+它是一个器具，用来夹住停车欠费的
+It's a device clamped to the wheel of a parked car
+
+625
+00:27:33,718 --> 00:27:35,619
+汽车的车轮
+with overdue tickets.
+
+626
+00:27:35,687 --> 00:27:37,688
+沃森？
+Watson?
+
+627
+00:27:37,756 --> 00:27:39,189
+沃森：什么是靴？
+WATSON: What is boot?
+
+628
+00:27:39,257 --> 00:27:40,524
+克雷恩：能更具体些吗？
+CRAIN: Be more specific?
+
+629
+00:27:40,592 --> 00:27:41,792
+沃森：丹佛靴？
+WATSON: What is Denver boot?
+
+630
+00:27:41,860 --> 00:27:43,427
+克雷恩：正确
+CRAIN: That is correct.
+
+631
+00:27:43,495 --> 00:27:45,596
+这是非洲裔美国人(指美国黑人)传说中的劳动者：
+This African-American folklore laborer:
+
+632
+00:27:45,664 --> 00:27:47,031
+（继续读）：
+(continues reading):
+
+633
+00:27:49,968 --> 00:27:51,502
+沃森？
+Watson?
+
+634
+00:27:51,569 --> 00:27:53,270
+沃森：是约翰・亨利？
+WATSON: What is John Henry?
+
+635
+00:27:53,338 --> 00:27:55,139
+正确。再选择一个，沃森
+That is correct. Select again, Watson.
+
+636
+00:27:55,206 --> 00:27:59,009
+沃森似乎又得救了
+NARRATOR:It may appear that Watson has redeemed himself,
+
+637
+00:27:59,077 --> 00:28:02,179
+但制片方担心他的不稳定表现
+but the producers are troubled by his erratic performance.
+
+638
+00:28:02,247 --> 00:28:04,915
+他们的结论是：沃森还没强到足以能参加<i>Jeopardy!</i>
+Their verdict: Watson isn't strong enough for <i>Jeopardy!</i>
+
+639
+00:28:04,983 --> 00:28:07,117
+至少目前还不够
+At least not yet.
+
+640
+00:28:07,185 --> 00:28:09,420
+（蜂鸣声）
+(beeping)
+
+641
+00:28:09,487 --> 00:28:12,423
+为什么沃森这么不稳定？
+Why is Watson so erratic?
+
+642
+00:28:12,490 --> 00:28:14,525
+要了解他的弱点
+To understand his weaknesses,
+
+643
+00:28:14,592 --> 00:28:17,928
+你要理解任务的复杂性
+you have to appreciate the complexity of the task.
+
+644
+00:28:20,498 --> 00:28:21,832
+考虑这条线索...
+Consider this clue...
+
+645
+00:28:31,342 --> 00:28:34,945
+正确的响应是：什么是《黑客帝国》？
+The correct response is "What is <i>The Matrix?"</i>
+
+646
+00:28:35,013 --> 00:28:36,480
+但是沃森是如何找出答案的呢？
+But how can Watson figure that out?
+
+647
+00:28:36,548 --> 00:28:40,851
+首先，他掰扯开语法部分的线索
+First, he breaks down the clue into grammatical parts,
+
+648
+00:28:40,919 --> 00:28:43,620
+确定关键的单词和短语
+identifying key words and phrases.
+
+649
+00:28:43,688 --> 00:28:46,256
+然后，沃森强大的搜索引擎翻查
+Then, Watson's powerful search engines churn
+
+650
+00:28:46,324 --> 00:28:48,258
+数百万个文档
+through millions of documents,
+
+651
+00:28:48,326 --> 00:28:50,861
+包括互联网上的电影数据库
+including the Internet Movie Database.
+
+652
+00:28:50,929 --> 00:28:53,030
+我们下一步要做的是，我们把这些文件
+What we do next is we take these documents
+
+653
+00:28:53,098 --> 00:28:55,065
+我们挑出候选答案
+and we pull out candidate answers.
+
+654
+00:28:55,133 --> 00:28:56,800
+我们会选出――基努・里维斯
+And we'll pull out, okay, Keanu Reeves.
+
+655
+00:28:56,868 --> 00:28:58,335
+这可能是一个候选
+That could be a candidate.
+
+656
+00:28:58,403 --> 00:29:00,771
+我们会选出诺基亚，我们将选出<i>“黑客帝国”。</i>
+We'll pull out Nokia, we'll pull out <i>The Matrix.</i>
+
+657
+00:29:00,839 --> 00:29:02,873
+其他基努・里维斯主演的电影
+NARRATOR:Other movies starring Keanu Reeves
+
+658
+00:29:02,941 --> 00:29:05,175
+也可能成为答案
+also become possible answers.
+
+659
+00:29:05,243 --> 00:29:07,544
+我们会选出<i>黑客帝国2 </i>，我们会选出<i>生死时速</i>
+GONDEK: We'll pull out <i>The Matrix 2,</i> we'll pull out <i>Speed,</i>
+
+660
+00:29:07,612 --> 00:29:09,012
+<i>比尔和泰德历险记</i>等这些东西
+<i>Bill and Ted's Excellent Adventure,</i> all this stuff.
+
+661
+00:29:09,080 --> 00:29:11,181
+哇！
+Whoa!
+
+662
+00:29:11,249 --> 00:29:14,218
+沃森选出其它著名科幻电影
+NARRATOR:And Watson pulls out other famous sci-fi flicks,
+
+663
+00:29:14,285 --> 00:29:16,120
+像<I>银翼杀手。</i>
+like <i>Blade Runner.</i>
+
+664
+00:29:16,187 --> 00:29:17,387
+它会产生数百个可能的答案
+It generates hundreds of possible answers.
+
+665
+00:29:17,455 --> 00:29:19,890
+数以百计的选择
+NARRATOR:With hundreds of choices,
+
+666
+00:29:19,958 --> 00:29:23,127
+沃森是如何选出正确答案的呢？
+how can Watson pick the one answer that's correct?
+
+667
+00:29:23,194 --> 00:29:24,995
+费鲁奇：沃森接下来要做的
+FERRUCCI:Next thing that Watson is going to do,
+
+668
+00:29:25,063 --> 00:29:26,964
+是要把这些答案取出来，并说
+it's going to take those answers and say,
+
+669
+00:29:27,031 --> 00:29:29,133
+“好吧，让我们假设所有这些都可能是正确的。”
+"Well, let's assume all of them might be right."
+
+670
+00:29:29,200 --> 00:29:31,902
+因此，这些都是有竞争力的假设
+So these are its competing hypotheses.
+
+671
+00:29:31,970 --> 00:29:33,670
+沃森开始考虑证据
+NARRATOR:Watson starts considering evidence
+
+672
+00:29:33,738 --> 00:29:36,106
+各候选答案的支持度和反对度
+for and against each candidate,
+
+673
+00:29:36,174 --> 00:29:40,110
+使用规则，如“电影有时也被称为flick”
+using rules like "a movie is sometimes called a flick."
+
+674
+00:29:40,178 --> 00:29:41,879
+GONDEK：我们要找的东西大概是
+GONDEK: And we'll look at things like,
+
+675
+00:29:41,946 --> 00:29:43,614
+好吧，要找的是个电影
+well, it's looking for a flick.
+
+676
+00:29:43,681 --> 00:29:45,582
+这个候选答案是个电影么？
+Is this candidate answer a flick?
+
+677
+00:29:45,650 --> 00:29:46,683
+<i>黑客帝国</i>是电影么？
+Is <i>The Matrix</i> a flick?
+
+678
+00:29:46,751 --> 00:29:47,851
+是
+Yes.
+
+679
+00:29:47,919 --> 00:29:48,952
+<i>生死时速</i>是电影么？
+Is <i>Speed</i> a flick?
+
+680
+00:29:49,020 --> 00:29:50,287
+是
+Yes.
+
+681
+00:29:50,355 --> 00:29:51,688
+基努・里维斯是电影么？
+Is Keanu Reeves a flick?
+
+682
+00:29:51,756 --> 00:29:53,724
+不 - 于是，我们开始看出端倪了
+No-- so we're starting to learn something.
+
+683
+00:29:53,792 --> 00:29:55,959
+在几毫秒时间内
+NARRATOR:Within a matter of milliseconds,
+
+684
+00:29:56,027 --> 00:29:58,228
+沃森分析每一个可能的答案
+Watson analyzes every possible answer
+
+685
+00:29:58,296 --> 00:30:00,497
+以数百种不同的方式
+in hundreds of different ways
+
+686
+00:30:00,565 --> 00:30:02,199
+评估列表中每个答案
+and scores each piece of evidence
+
+687
+00:30:02,267 --> 00:30:05,035
+背后的每个证据
+behind every answer in the list.
+
+688
+00:30:05,103 --> 00:30:07,204
+会有很多评估的可能性
+That's a lot of scores.
+
+689
+00:30:07,272 --> 00:30:09,439
+GONDEK：问题是，所有这些不同的可能性
+GONDEK:The problem is, you have all these different scorers
+
+690
+00:30:09,507 --> 00:30:10,541
+它们是彼此不统一的
+and they don't agree.
+
+691
+00:30:10,608 --> 00:30:11,742
+一些评估会说：
+Some of the scorers are going to say
+
+692
+00:30:11,810 --> 00:30:12,743
+<i>“黑客帝国”</i>是正确的答案
+<i>"The Matrix"</i> is the right answer.
+
+693
+00:30:12,811 --> 00:30:14,044
+一些评估会说：
+Some of the scorers are going to say
+
+694
+00:30:14,112 --> 00:30:15,445
+“基努・里维斯”是正确的答案
+"Keanu Reeves" is the right answer.
+
+695
+00:30:15,513 --> 00:30:17,147
+有些会认为<i>黑客帝国2 </i>是正确答案
+Some are going to think <i>Matrix 2</i> is the right answer.
+
+696
+00:30:17,215 --> 00:30:18,649
+还有很多评估会觉得
+NARRATOR:And a lot of scorers think
+
+697
+00:30:18,716 --> 00:30:20,050
+<i>“银翼杀手”</i>是正确的答案
+<i>"Blade Runner"</i> is the right answer,
+
+698
+00:30:20,118 --> 00:30:23,487
+因为作为科幻电影它更有名
+because it shows up so often as a sci-fi flick.
+
+699
+00:30:23,555 --> 00:30:24,755
+所以，需要某种办法
+So you need someone at the end
+
+700
+00:30:24,823 --> 00:30:26,156
+在最后综合所有这些不同的选择
+to listen to all these different votes
+
+701
+00:30:26,224 --> 00:30:28,125
+并决定哪个是最好的答案
+and decide what's going to be the best answer.
+
+702
+00:30:28,193 --> 00:30:32,729
+这就是沃森的机器学习功能要完成的
+NARRATOR:This is where Watson's machine learning kicks in.
+
+703
+00:30:32,797 --> 00:30:35,065
+在研究了成千上万的其他<i>Jeopardy!</i>问题
+Having studied thousands of other <i>Jeopardy!</i> questions
+
+704
+00:30:35,133 --> 00:30:37,901
+和它们的正确答案后，沃森了解到
+and their correct answers,Watson has learned
+
+705
+00:30:37,969 --> 00:30:41,538
+哪些证据是重要的，哪些不是
+what evidence is important and what's not.
+
+706
+00:30:41,606 --> 00:30:43,440
+机器学习，开始做的是学习
+What machine learning will start to do is learn
+
+707
+00:30:43,508 --> 00:30:44,808
+如何权衡不同和表达
+how to weigh them differently and say,
+
+708
+00:30:44,876 --> 00:30:46,276
+权衡这样的问题
+weighing questions like this,
+
+709
+00:30:46,344 --> 00:30:48,879
+在打电话、不在打电话 - 不是那么重要
+calling on a phone, not calling on a phone-- not so important.
+
+710
+00:30:48,947 --> 00:30:51,481
+还有个问题...它是一部科幻电影吗？
+This other stuff... Do I have a sci-fi movie?
+
+711
+00:30:51,549 --> 00:30:53,984
+提到的人是那部电影中的一个角色名吗？
+Is the person named a character in that movie?
+
+712
+00:30:54,052 --> 00:30:55,586
+类似这样非常、非常重要的问题
+Very, very important for questions like this.
+
+713
+00:30:55,653 --> 00:30:58,889
+在这种情况下，他成功地权衡了证据
+NARRATOR:In this case, he successfully weighs the evidence
+
+714
+00:30:58,957 --> 00:31:01,692
+并确定了是1999年的科幻电影
+and identifies sci-fi flicks from 1999,
+
+715
+00:31:01,759 --> 00:31:03,660
+基努・里维斯主演
+starring Keanu Reeves.
+
+716
+00:31:03,728 --> 00:31:06,964
+于是，他选中一个答案匹配所有这些要素--
+So he picks the one answer matching all those elements--
+
+717
+00:31:07,031 --> 00:31:08,098
+<i>“黑客帝国”</i>
+<i>"The Matrix."</i>
+
+718
+00:31:15,907 --> 00:31:18,976
+沃森的复杂系统并不总是有效
+Watson's elaborate system doesn't always work,
+
+719
+00:31:19,043 --> 00:31:23,213
+但没有机器学习，他不会有机会
+but without machine learning,he wouldn't stand a chance.
+
+720
+00:31:23,281 --> 00:31:26,717
+机器学习不仅对沃森重要
+Machine learning isn't just important for Watson.
+
+721
+00:31:26,784 --> 00:31:29,753
+它还推动着计算技术的一场革命
+It's driving a revolution in computing.
+
+722
+00:31:29,821 --> 00:31:31,355
+它在天气预测的计算模型中
+It plays a major role
+
+723
+00:31:31,422 --> 00:31:35,292
+扮演着主要角色
+in computer models that predict the weather days in advance.
+
+724
+00:31:35,360 --> 00:31:39,363
+以及亚马逊或Netflix给出的所有建议
+And all those recommendations you get from Amazon or Netflix?
+
+725
+00:31:39,430 --> 00:31:43,300
+没有人将你的好恶写成规则
+No human is writing up rules about your likes and dislikes.
+
+726
+00:31:43,368 --> 00:31:46,470
+相反，电脑会将你的喜好
+Instead, computers are comparing your preferences
+
+727
+00:31:46,537 --> 00:31:49,706
+与数百万其他客户的比较然后寻找模式
+to millions of other customers' and finding patterns
+
+728
+00:31:49,774 --> 00:31:52,609
+并了解你
+and learning about you.
+
+729
+00:31:52,677 --> 00:31:56,513
+今天，机器学习征服了很多
+Today machine learning is conquering many problems
+
+730
+00:31:56,581 --> 00:31:59,249
+曾经被认为对计算机而言太过复杂的问题
+once thought too complex for computers,
+
+731
+00:31:59,317 --> 00:32:01,318
+比如语音识别
+like speech recognition.
+
+732
+00:32:01,386 --> 00:32:02,619
+汤姆.米切尔：在早期的日子里
+TOM MITCHELL:In the earlier days,
+
+733
+00:32:02,687 --> 00:32:06,390
+人们决定，他们将尝试通过计算机编程
+people decided that they would try to program computers
+
+734
+00:32:06,457 --> 00:32:09,626
+实现语音识别 - “我现在说的是哪个词？”
+to recognize speech--"Which word am I saying now?"
+
+735
+00:32:09,694 --> 00:32:11,295
+拿起右边的
+Pick up the big block
+
+736
+00:32:11,362 --> 00:32:13,096
+大块
+at the right side.
+
+737
+00:32:13,164 --> 00:32:16,166
+在60年代，这类声控取块领域
+NARRATOR:In the '60s, this voice-directed block world
+
+738
+00:32:16,234 --> 00:32:18,568
+是很尖端的技术(?)
+was the height of technology.
+
+739
+00:32:18,636 --> 00:32:21,805
+计算机可以编程来识别音频信号
+Computers could be programmed to recognize the audio signals
+
+740
+00:32:21,873 --> 00:32:23,373
+具体的单词和短语
+of specific words and phrases.
+
+741
+00:32:23,441 --> 00:32:26,143
+拿起每个小块
+Pick up every small block.
+
+742
+00:32:26,210 --> 00:32:29,780
+但是他们不得不为每个新说话者重新编程
+NARRATOR:But they had to be reprogrammed for every new speaker
+
+743
+00:32:29,847 --> 00:32:32,683
+因为每个人讲话，是多少会有所不同的
+because everyone's speech is slightly different.
+
+744
+00:32:32,750 --> 00:32:34,885
+即使它很容易让你和我识别出来
+Even though it's very easy for you and I to recognize
+
+745
+00:32:34,953 --> 00:32:36,019
+单词“冰块”...
+the word "ice cube"...
+
+746
+00:32:36,087 --> 00:32:37,354
+冰块
+Ice cube.
+
+747
+00:32:37,422 --> 00:32:39,923
+我们很难写出
+It's very difficult for us to write down the rules
+
+748
+00:32:39,991 --> 00:32:42,926
+可以让计算机通过观测麦克风的信号
+that would allow a computer to look at the microphone signal
+
+749
+00:32:42,994 --> 00:32:44,294
+来看出这说的是“冰块”
+and see that it's "ice cube."
+
+750
+00:32:44,362 --> 00:32:46,430
+但是现在
+NARRATOR:But now, computers are trained
+
+751
+00:32:46,497 --> 00:32:49,733
+电脑使用数百万个人类讲话的样本来进行训练
+with millions of examples of human speech.
+
+752
+00:32:49,801 --> 00:32:53,036
+米切尔：这是麦克风的信号，是“冰块”这个单词的
+MITCHELL: Here's the microphone signal and this is the word "ice cube."
+
+753
+00:32:53,104 --> 00:32:54,104
+冰块
+Ice cube.
+
+754
+00:32:54,172 --> 00:32:54,972
+米切尔：这是另一个...
+MITCHELL:Here's another one...
+
+755
+00:32:55,039 --> 00:32:55,973
+冰块
+Ice cube.
+
+756
+00:32:56,040 --> 00:32:57,341
+结果就获得了
+You end up
+
+757
+00:32:57,408 --> 00:32:59,443
+更成功的语音识别系统
+with much more successful speech recognition systems.
+
+758
+00:32:59,510 --> 00:33:03,413
+今天，语音识别软件虽然不完美
+NARRATOR:Today, speech recognition software, though not perfect,
+
+759
+00:33:03,481 --> 00:33:09,486
+但已是非常准确并还在一直进步
+is remarkably accurate and getting better all the time.
+
+760
+00:33:09,554 --> 00:33:12,255
+我们今天所有的这些都是基于机器学习的
+All the ones we have today are based on machine learning,
+
+761
+00:33:12,323 --> 00:33:13,957
+只因为这样工作的最好
+simply because that works the best.
+
+762
+00:33:14,025 --> 00:33:16,994
+还有一些程序正在向前迈进
+NARRATOR:And some programs are taking it a step further.
+
+763
+00:33:17,061 --> 00:33:18,595
+你来自哪里？
+Where do you come from?
+
+764
+00:33:18,663 --> 00:33:20,764
+不只是转录你的话...
+NARRATOR:Not only transcribing your speech...
+
+765
+00:33:20,832 --> 00:33:22,432
+（中文）
+(speaking Chinese)
+
+766
+00:33:22,500 --> 00:33:24,001
+...而且也能翻译成外国语言
+NARRATOR:...but translating it into a foreign language as well.
+
+767
+00:33:24,068 --> 00:33:25,168
+电脑：上海
+COMPUTER:Shanghai.
+
+768
+00:33:25,236 --> 00:33:27,004
+很高兴见到你
+It's very nice to meet you.
+
+769
+00:33:27,071 --> 00:33:30,040
+（电脑翻译成中文）
+(computer translating into Chinese)
+
+770
+00:33:30,108 --> 00:33:32,509
+每一种语言都有很多歧义--
+NARRATOR:Every language has so much ambiguity--
+
+771
+00:33:32,577 --> 00:33:34,711
+双重含义和隐喻
+double meanings and metaphors.
+
+772
+00:33:34,779 --> 00:33:36,446
+你们今天有什么特色菜吗？
+What are your specials today?
+
+773
+00:33:36,514 --> 00:33:39,282
+使用老式的、基于规则的方法
+NARRATOR:Accurate computer translation seemed impossible
+
+774
+00:33:39,350 --> 00:33:41,018
+要实现精确的机器翻译几乎是不可能的
+with the old rules-based approach.
+
+775
+00:33:41,085 --> 00:33:44,421
+（中文）
+(speaking Chinese)
+
+776
+00:33:44,489 --> 00:33:48,392
+电脑：今天的特色菜是烤牛肉炒饭
+COMPUTER:Today's special is roast beef fried rice.
+
+777
+00:33:48,459 --> 00:33:50,761
+所有这些交互是如此复杂
+All of these interactions are so complex
+
+778
+00:33:50,828 --> 00:33:53,864
+你一辈子也不可能把这些规则写完
+that you couldn't in your lifetime write all these rules.
+
+779
+00:33:53,931 --> 00:33:56,633
+这是个非常庞大的、令人生畏的努力
+It's just too enormous,too daunting an effort.
+
+780
+00:33:56,701 --> 00:33:59,903
+我的妻子让我买些饼干
+My wife asked me to buy some crackers.
+
+781
+00:33:59,971 --> 00:34:03,006
+（日语）
+(speaking Japanese)
+
+782
+00:34:03,074 --> 00:34:06,309
+电脑：什么样的饼干？
+COMPUTER:What kind of crackers?
+
+783
+00:34:06,377 --> 00:34:08,211
+大米饼干
+Rice crackers.
+
+784
+00:34:08,279 --> 00:34:11,415
+亚历克斯给电脑输入了数百万的
+NARRATOR:Alex Waibel fed a computer millions of examples
+
+785
+00:34:11,482 --> 00:34:15,285
+英文文本实例
+of English text, together with their translations,
+
+786
+00:34:15,353 --> 00:34:18,255
+及其对应的十几种外语的译文
+into about a dozen different languages.
+
+787
+00:34:18,322 --> 00:34:21,892
+现在，他有个程序，可以运行在手机或iPad上
+Now he's got a program that can run on your phone or iPad.
+
+788
+00:34:21,959 --> 00:34:24,294
+你经常在这里购物吗？
+Do you often go shopping here?
+
+789
+00:34:24,362 --> 00:34:26,063
+提供实时翻译
+NARRATOR:And translates on the go.
+
+790
+00:34:26,130 --> 00:34:28,065
+（电脑翻译成日语的声音）
+(computer voicing translation in Japanese)
+
+791
+00:34:28,132 --> 00:34:29,900
+（日语）
+(speaking Japanese)
+
+792
+00:34:29,967 --> 00:34:32,969
+机器学习是如此的成功
+NARRATOR:Machine learning has been so successful,
+
+793
+00:34:33,037 --> 00:34:35,872
+越来越多原来只有人才能做好的工作都可以搞定了
+mastering more and more tasks once only done well by humans...
+
+794
+00:34:35,940 --> 00:34:40,310
+计算机程序能进行语言翻译
+The computer program translates between languages.
+
+795
+00:34:40,378 --> 00:34:43,847
+一些研究人员认为它可能是创建真正的人工智能的一个关键的构建块
+NARRATOR:Some researchers believe it may be a crucial building block
+
+796
+00:34:43,915 --> 00:34:46,450
+真正的人工智能
+for making real artificial intelligence.
+
+797
+00:34:46,517 --> 00:34:48,118
+（电脑译成日语的声音）
+(computer voicing translation in Japanese)
+
+798
+00:34:48,186 --> 00:34:50,120
+创造智能化有两种方法
+There are two ways of building intelligence.
+
+799
+00:34:50,188 --> 00:34:53,356
+要么知道如何写出方程式
+You either know how to write down the recipe
+
+800
+00:34:53,424 --> 00:34:57,527
+或者让它自学习、成长
+or you let it grow itself.
+
+801
+00:34:57,595 --> 00:34:59,196
+很清楚我们不知道
+And it's pretty clear that we don't know
+
+802
+00:34:59,263 --> 00:35:00,497
+如何写出方程式
+how to write down the recipe.
+
+803
+00:35:00,565 --> 00:35:04,201
+机器学习就是给它
+Machine learning is all about giving it the capability
+
+804
+00:35:04,268 --> 00:35:06,436
+自行增强的能力
+to grow itself.
+
+805
+00:35:06,504 --> 00:35:08,271
+有些人觉得,让机器学习的
+NARRATOR:Some people find the idea
+
+806
+00:35:08,339 --> 00:35:11,074
+想法很危险
+of a machine that can learn threatening.
+
+807
+00:35:11,142 --> 00:35:13,944
+但是，当沃森表现糟糕的时候
+But when Watson's having a bad day,
+
+808
+00:35:14,011 --> 00:35:15,679
+很难想象他能威胁到任何人
+it's hard to imagine him threatening anyone.
+
+809
+00:35:19,884 --> 00:35:21,151
+你看到Daily Double(一日双误)了么？
+Did you see the Daily Double?
+
+810
+00:35:21,219 --> 00:35:23,553
+没，所以我们前进的道路，我们基本上被拒之门外了
+No.So we were way ahead,we were almost locking out.
+
+811
+00:35:23,621 --> 00:35:25,589
+克雷恩:又一个Daily Double(一日双误)！
+CRAIN:The other Daily Double!
+
+812
+00:35:25,656 --> 00:35:28,058
+我们得了个Daily Double(一日双误)，貌似剩下二、三个题目了
+We get the Daily Double, there's like two or three clues left.
+
+813
+00:35:28,126 --> 00:35:29,159
+那么，我们要怎么办？
+So what do we do?
+
+814
+00:35:29,227 --> 00:35:30,894
+我们赌大一点，这样我们或许可以胜出
+We bet big so we can lock 'em out.
+
+815
+00:35:30,962 --> 00:35:33,497
+沃森：我赌$5200
+WATSON:I'll wager $5,200.
+
+816
+00:35:33,564 --> 00:35:35,198
+（笑着）：呃......！
+(chuckling):Well...!
+
+817
+00:35:35,266 --> 00:35:37,167
+团队很紧张
+NARRATOR:The team is nervous.
+
+818
+00:35:37,235 --> 00:35:39,436
+他们知道沃森将永远不会达到Jeopardy!节目的标准
+They know Watson will never make the cut on Jeopardy!
+
+819
+00:35:39,504 --> 00:35:41,505
+除非他能停止愚蠢的错误
+unless he can stop making dumb mistakes.
+
+820
+00:35:41,572 --> 00:35:43,006
+听好题:
+Here's your clue.
+
+821
+00:35:43,074 --> 00:35:44,374
+它是有关信件的
+It was about letters
+
+822
+00:35:44,442 --> 00:35:47,944
+它是“一个女人写给这位40年代的艺术家的”
+and it was, "a woman wrote to this '40s artist."
+
+823
+00:35:48,012 --> 00:35:50,447
+克雷恩(读）：
+CRAIN (reading):
+
+824
+00:35:55,453 --> 00:35:57,120
+我们的回答是“伦勃朗”
+We answered with "Rembrandt."
+
+825
+00:35:57,188 --> 00:35:59,222
+谁是伦勃朗？
+WATSON:Who is Rembrandt?
+
+826
+00:35:59,290 --> 00:36:01,391
+确定吗？
+Really?
+
+827
+00:36:01,459 --> 00:36:03,360
+虽然沃森能识别大多数日期
+NARRATOR:Although Watson recognizes most dates,
+
+828
+00:36:03,427 --> 00:36:07,764
+但他不知道，40年代指的是1940年代
+he doesn't know that the '40s refer to the 1940s.
+
+829
+00:36:07,832 --> 00:36:09,933
+这是一个40年代的艺术家，我们回答的是伦勃朗
+It's a '40s artist, we answered with Rembrandt.
+
+830
+00:36:10,001 --> 00:36:12,235
+有一个时间...时间问题
+There's a time... a time problem.
+
+831
+00:36:12,303 --> 00:36:14,304
+我们都知道，应该是杰克逊・波洛克
+We all know that it was Jackson Pollock.
+
+832
+00:36:14,372 --> 00:36:16,840
+沃森输掉了那场比赛
+NARRATOR:Watson loses that game.
+
+833
+00:36:16,908 --> 00:36:19,776
+我们得了“一日双误”，但勉强混进了Jeopardy!的决赛
+We got the Daily Double wrong <i>and</i> Final Jeopardy!
+
+834
+00:36:19,844 --> 00:36:21,912
+他的对手对他毫不手软
+NARRATOR:And his opponents show him no mercy.
+
+835
+00:36:21,979 --> 00:36:22,946
+我们都打败了它！
+We both beat him!
+
+836
+00:36:23,014 --> 00:36:24,781
+好样的！
+Good for you!
+
+837
+00:36:24,849 --> 00:36:26,249
+人类万岁！哇！
+Humans! Whoo!
+
+838
+00:36:26,317 --> 00:36:28,685
+有时候，答案所以正确的原因
+Sometimes the reason something is the right answer
+
+839
+00:36:28,753 --> 00:36:30,820
+对于人是显而易见的
+is very obvious to a human,
+
+840
+00:36:30,888 --> 00:36:34,090
+例如，有时候要求区分“她”或“他”
+like, for example, it may be asking for a "she" or a "he."
+
+841
+00:36:34,158 --> 00:36:35,592
+克雷恩(读）：
+CRAIN (reading):
+
+842
+00:36:38,796 --> 00:36:41,331
+沃森？
+Watson?
+
+843
+00:36:41,399 --> 00:36:43,433
+理查德・尼克松是谁？
+WATSON:Who is Richard Nixon?
+
+844
+00:36:43,501 --> 00:36:44,568
+（笑）
+(laughter)
+
+845
+00:36:44,635 --> 00:36:46,570
+哦，你就这样了是吧？
+Oh, here you go. Right?
+
+846
+00:36:46,637 --> 00:36:47,571
+帕特丽莎？
+CRAIN:Patricia?
+
+847
+00:36:47,638 --> 00:36:48,638
+谁是帕特・尼克松(即尼克松总统夫人)？
+Who is Pat Nixon?
+
+848
+00:36:48,706 --> 00:36:50,607
+正确
+CRAIN: That's correct.
+
+849
+00:36:50,675 --> 00:36:52,609
+理查德・尼克松从来没做过第一夫人(他就是尼克松总统)
+Richard Nixon was never a first lady.
+
+850
+00:36:52,677 --> 00:36:55,679
+我想弄明白我们在那里又出什么状况了
+I want to understand what went on there.
+
+851
+00:36:55,746 --> 00:36:57,914
+我们新的性别信息处理功能还没加入到系统中
+Our new gender stuff is not in the system.
+
+852
+00:36:57,982 --> 00:36:59,516
+这部分还不在系统中
+It's not in the system.
+
+853
+00:36:59,584 --> 00:37:03,019
+人们对被搞错性别会感到恼火
+CHRIS WELTY:People take offense at being called the wrong gender.
+
+854
+00:37:03,087 --> 00:37:05,155
+沃森不关心这类东西
+Watson doesn't care about stuff like that.
+
+855
+00:37:05,223 --> 00:37:07,457
+它只是根据我们给它输入的问题与答案
+It's making statistical judgments
+
+856
+00:37:07,525 --> 00:37:10,660
+进行归纳综合后
+based on how different pieces of evidence have gone together
+
+857
+00:37:10,728 --> 00:37:13,230
+作出统计学的判断
+in questions and answers that we've given it.
+
+858
+00:37:13,297 --> 00:37:15,865
+克雷恩(读）：
+CRAIN (reading):
+
+859
+00:37:19,770 --> 00:37:21,771
+什么是吉米・德兰泰？
+WATSON:What is Jimmy Dur-an-tay?
+
+860
+00:37:21,839 --> 00:37:24,241
+能更具体点么？
+More specific?
+
+861
+00:37:24,308 --> 00:37:29,879
+对不起，我所知道的是，“什么是吉米・德-兰-泰?”
+WATSON:Sorry, all I know is,"What is Jimmy Dur-an-tay?"
+
+862
+00:37:29,947 --> 00:37:32,716
+慢慢说也变不成对的
+Saying it slower doesn't make it right.
+
+863
+00:37:32,783 --> 00:37:35,185
+现在，你听到托德・克雷恩如何跟计算机开玩笑了吧?
+FERRUCCI: Now you hear how Todd Crain makes fun of the computer?
+
+864
+00:37:35,253 --> 00:37:37,587
+晓得吧，我的孩子们...
+You know, I had my kids...
+
+865
+00:37:37,655 --> 00:37:39,623
+――我已让他们签署保密协议――
+I had them sign the confidentiality agreement
+
+866
+00:37:39,690 --> 00:37:41,658
+来看了两次这个节目
+and come in and see a couple of these games
+
+867
+00:37:41,726 --> 00:37:43,526
+他们的意见是
+and their comment was,
+
+868
+00:37:43,594 --> 00:37:47,197
+“主持人为什么取笑沃森，爸爸？”
+"Why does the host make fun of Watson, Daddy?"
+
+869
+00:37:47,265 --> 00:37:50,400
+它是个“你在做什么？”的网站,它的名字还指
+This "What are you doing?" website's name also refers
+
+870
+00:37:50,468 --> 00:37:51,768
+某类不安的笑
+to a type of nervous laugh.
+
+871
+00:37:51,836 --> 00:37:53,703
+克雷恩:沃森？
+CRAIN: Watson?
+
+872
+00:37:53,771 --> 00:37:54,704
+那是邪恶的笑吗？
+WATSON: What is evil laugh?
+
+873
+00:37:54,772 --> 00:37:58,275
+哦，不！
+Oh, no!
+
+874
+00:37:58,342 --> 00:37:59,609
+如果演二人喜剧
+In terms of comedy duos,
+
+875
+00:37:59,677 --> 00:38:02,312
+他会是个极好的配角
+he is the best straight man in the business.
+
+876
+00:38:02,380 --> 00:38:04,147
+你会后悔的... 推特
+You're gonna kick yourself...Twitter.
+
+877
+00:38:04,215 --> 00:38:05,782
+克雷恩:因为他没有...他没有成功
+CRAIN:Because he doesn't...he doesn't get it.
+
+878
+00:38:05,850 --> 00:38:09,452
+他不明白为什么他那不适当的答案很搞笑
+He doesn't get why his inappropriate answer is funny,
+
+879
+00:38:09,520 --> 00:38:13,290
+你不能奢望比那写的更好
+and you can't ask for better writing than that.
+
+880
+00:38:13,357 --> 00:38:15,592
+我们偶尔都会开开玩笑，没问题
+Once in a while, okay,we can all take a joke,
+
+881
+00:38:15,660 --> 00:38:19,529
+但每次沃森都不会还嘴，是吧？
+but over and over again, and Watson's defenseless, right?
+
+882
+00:38:19,597 --> 00:38:22,198
+于是，他对一台没有反击能力的
+So he's making fun of and criticizing
+
+883
+00:38:22,266 --> 00:38:23,667
+电脑的取笑和批评
+a defenseless computer
+
+884
+00:38:23,734 --> 00:38:26,503
+代表了与跟人一样的真实感受，象真实的家庭一样
+that represents people with real feelings, real families.
+
+885
+00:38:26,570 --> 00:38:28,438
+好吧，也许我没什么感觉
+All right, maybe if I don't have any feelings,
+
+886
+00:38:28,506 --> 00:38:29,739
+我的孩子是有感觉的
+my kids have feelings.
+
+887
+00:38:29,807 --> 00:38:32,042
+还有一种正在加剧的感觉,基于一个事实,那就是:
+NARRATOR:And feelings are intensified by the fact
+
+888
+00:38:32,109 --> 00:38:33,610
+在Jeopardy!节目制片人返回来做出决定前
+there's just one more month
+
+889
+00:38:33,678 --> 00:38:37,180
+只有一个多月时间了
+before the <i>Jeopardy!</i> producers will return to make a decision.
+
+890
+00:38:37,248 --> 00:38:38,882
+沃森，你拥有控制权
+Watson, you have control.
+
+891
+00:38:38,949 --> 00:38:42,285
+压力集中在增强沃森的优势
+NARRATOR:The pressure is on to boost Watson's strengths
+
+892
+00:38:42,353 --> 00:38:44,354
+并消除他的弱点
+and eliminate his weaknesses.
+
+893
+00:38:44,422 --> 00:38:45,755
+他的优点是显而易见的
+His strengths are obvious.
+
+894
+00:38:45,823 --> 00:38:49,159
+涉及纯粹的事实问题时它有压倒性优势
+He dominates when it comes to purely factual questions.
+
+895
+00:38:49,226 --> 00:38:52,729
+沃森通常对事实问题做得非常好
+BROWN:Watson usually does very well at these factoid questions,
+
+896
+00:38:52,797 --> 00:38:57,567
+搜索事实 - 历史，地理，娱乐
+looking up facts-- history,geography, entertainment.
+
+897
+00:38:57,635 --> 00:38:59,135
+克雷恩(读）：
+CRAIN (reading):
+
+898
+00:39:02,206 --> 00:39:03,173
+克雷恩:沃森？
+CRAIN:Watson?
+
+899
+00:39:03,240 --> 00:39:04,507
+维克多弗莱明是谁？
+WATSON:Who is Victor Flemming?
+
+900
+00:39:04,575 --> 00:39:05,475
+正确
+CRAIN:That is correct.
+
+901
+00:39:05,543 --> 00:39:06,976
+沃森,你再选择
+Watson. You choose again.
+
+902
+00:39:07,044 --> 00:39:09,045
+$1600美元
+WATSON: For 1600, please.
+
+903
+00:39:09,113 --> 00:39:10,280
+克雷恩(读）：
+CRAIN (reading):
+
+904
+00:39:12,883 --> 00:39:14,017
+沃森？
+Watson?
+
+905
+00:39:14,085 --> 00:39:15,051
+约翰・福特是谁？
+WATSON:Who is John Ford?
+
+906
+00:39:15,119 --> 00:39:16,286
+1600美元得手
+Good for 1600.
+
+907
+00:39:16,354 --> 00:39:17,987
+谁是迈克・尼科尔斯？
+WATSON:Who is Mike Nichols?
+
+908
+00:39:18,055 --> 00:39:19,122
+克雷恩:12得手
+CRAIN:Good for 12.
+
+909
+00:39:19,190 --> 00:39:22,025
+题板上最后一题为800美元，听好了哈
+Last clue on the board for $800.Here it is.
+
+910
+00:39:22,093 --> 00:39:23,727
+（读）
+(reading):
+
+911
+00:39:28,733 --> 00:39:30,133
+沃森？
+Watson?
+
+912
+00:39:30,201 --> 00:39:31,401
+那是<i>粉红豹？</i>
+WATSON:What is <i>The Pink Panther?</i>
+
+913
+00:39:31,469 --> 00:39:32,702
+我只是想检查--你的蜂鸣器工作吗？
+I just want to check--your buzzers are working?
+
+914
+00:39:32,770 --> 00:39:33,970
+（参赛者笑）
+(contestants laugh)
+
+915
+00:39:34,038 --> 00:39:36,873
+只是想检查下，并把你从小睡中叫醒
+Just wanted to check in and wake you from your nap.
+
+916
+00:39:36,941 --> 00:39:38,842
+沃森已经上升到云层
+NARRATOR:Watson has made it into the cloud,
+
+917
+00:39:38,909 --> 00:39:41,711
+但还不及冠军级别
+but nowhere near championship level.
+
+918
+00:39:41,779 --> 00:39:43,780
+费鲁奇必须想出一个方案
+Ferrucci must come up with a plan
+
+919
+00:39:43,848 --> 00:39:45,949
+以某种方式提高它的表现
+to somehow step up his performance
+
+920
+00:39:46,016 --> 00:39:49,152
+在<i>Jeopardy!</i>制片方回来之前
+before the <i>Jeopardy!</i> producers return.
+
+921
+00:39:51,188 --> 00:39:53,623
+该团队已经花了近四年
+The team has spent almost four years,
+
+922
+00:39:53,691 --> 00:39:56,092
+巨大的智力和热情的投入
+enormous intellectual and emotional energy,
+
+923
+00:39:56,160 --> 00:39:59,362
+以及数千万美元来开发沃森
+and tens of millions of dollars on developing Watson.
+
+924
+00:39:59,430 --> 00:40:02,265
+但是，这一切努力不只是为一台
+But all this effort isn't just for a machine
+
+925
+00:40:02,333 --> 00:40:04,067
+能玩<i>Jeopardy!</i>的机器
+that can play <i>Jeopardy!</i>
+
+926
+00:40:04,135 --> 00:40:07,237
+IBM有更大的目标
+IBM has much bigger goals.
+
+927
+00:40:07,304 --> 00:40:09,539
+我已经在期待赢得<i>Jeopardy!</i>了
+FERRUCCI: I'm already looking sort of beyond <i>Jeopardy!</i>
+
+928
+00:40:09,607 --> 00:40:12,275
+我在想，我们可以从这里往哪走？
+I'm thinking, where can we go from here?
+
+929
+00:40:12,343 --> 00:40:15,378
+费鲁奇想象有一天，沃森可能做的象
+NARRATOR:Ferrucci imagines a day when Watson might perform
+
+930
+00:40:15,446 --> 00:40:17,046
+<i>《星际迷航》</i>的电脑一样好
+much like the computer in <i>Star Trek.</i>
+
+931
+00:40:17,114 --> 00:40:18,882
+队长只需要直接对电脑说话就行
+The captain just starts talking to the computer,
+
+932
+00:40:18,949 --> 00:40:20,316
+他们说，“电脑”
+and they say, "Computer."
+
+933
+00:40:20,384 --> 00:40:21,317
+柯克船长：电脑
+CAPTAIN KIRK: Computer.
+
+934
+00:40:21,385 --> 00:40:22,986
+电脑：收到
+COMPUTER:Ready.
+
+935
+00:40:23,053 --> 00:40:26,189
+这么大的风暴会导致
+Could a storm of such magnitude cause a power surge
+
+936
+00:40:26,257 --> 00:40:27,557
+运输装置电路中出现电涌么...
+in the transporter circuits...
+
+937
+00:40:27,625 --> 00:40:30,026
+费鲁奇：这是一个信息寻找工具
+FERRUCCI:It's an information seeking tool
+
+938
+00:40:30,094 --> 00:40:31,561
+它能理解你的问题
+that's capable of understanding your question.
+
+939
+00:40:31,629 --> 00:40:35,131
+KIRK：...与平行宇宙
+KIRK:...creating a momentary interdimensional contact
+
+940
+00:40:35,199 --> 00:40:36,833
+建立一个短暂的维际接触?
+with a parallel universe?
+
+941
+00:40:36,901 --> 00:40:39,702
+费鲁奇：与你对话，确保你得到想要的结果
+FERRUCCI:And dialoguing with you to make sure that you get what you want.
+
+942
+00:40:39,770 --> 00:40:40,670
+电脑：肯定的
+COMPUTER:Affirmative.
+
+943
+00:40:40,738 --> 00:40:43,873
+你有那样的电脑么？
+Do you have one of those?
+
+944
+00:40:43,941 --> 00:40:46,109
+我...我没有那样的，是吧？
+I... I don't have one of those, right?
+
+945
+00:40:47,344 --> 00:40:48,645
+你不必是个
+NARRATOR:You don't need to be
+
+946
+00:40:48,712 --> 00:40:51,381
+星舰指挥官也可以发现这有用
+a starship commander to find this helpful.
+
+947
+00:40:51,449 --> 00:40:54,083
+在一个充斥数据的世界上
+In a world overflowing with data,
+
+948
+00:40:54,151 --> 00:40:57,987
+能回答关键问题的智能专家系统
+intelligent expert systems that can answer vital questions
+
+949
+00:40:58,055 --> 00:40:59,756
+简直就是无上的圣杯
+have been the Holy Grail.
+
+950
+00:40:59,824 --> 00:41:02,725
+现在，我们就快要有类似医务版的Watson了
+Now, we could be close to a Watson, MD.
+
+951
+00:41:02,793 --> 00:41:03,993
+这样设想一下：
+Think of it this way.
+
+952
+00:41:04,061 --> 00:41:05,361
+有一大堆信息--
+There's a bunch of information--
+
+953
+00:41:05,429 --> 00:41:08,665
+新的诊断、新的治疗方案，新的发现
+new diagnosis, new treatment options, new discoveries.
+
+954
+00:41:08,732 --> 00:41:11,901
+有谁能一次记住所有这些么？
+Can anybody keep that all in their head all at once?
+
+955
+00:41:11,969 --> 00:41:14,671
+一台机器可以访问和组织所有这些信息
+NARRATOR:A machine that could access and organize all that information
+
+956
+00:41:14,738 --> 00:41:17,207
+可以帮助医生分析症状
+could help doctors analyze symptoms
+
+957
+00:41:17,274 --> 00:41:20,343
+并涉猎成堆的医学期刊
+and wade through piles of medical journals.
+
+958
+00:41:20,411 --> 00:41:23,046
+费鲁奇：它改变了我们使用电脑工作的方式
+FERRUCCI:It changes the paradigm in which we work with computers.
+
+959
+00:41:23,113 --> 00:41:24,881
+这就是前景
+That's the vision.
+
+960
+00:41:26,217 --> 00:41:27,834
+沃森：我的表现如何？
+WATSON: How am I doing?
+
+961
+00:41:27,918 --> 00:41:29,919
+我希望今天比赛顺利
+I hope we will have a good game today,
+
+962
+00:41:29,987 --> 00:41:32,222
+在此前景实现前
+Before that vision can be fulfilled,
+
+963
+00:41:32,289 --> 00:41:33,790
+但首先我要测试我的声音...
+NARRATOR:Before that vision can be fulfilled,
+
+964
+00:41:33,858 --> 00:41:36,893
+甚至在沃森能竞争Jeopardy！之前
+before Watson can even compete on <i>Jeopardy!,</i>
+
+965
+00:41:36,961 --> 00:41:39,896
+团队还需要排除更多的错误
+the team needs to get more bugs out of his system.
+
+966
+00:41:39,964 --> 00:41:42,732
+沃森最尴尬的弱点之一
+One of Watson's most embarrassing weaknesses
+
+967
+00:41:42,800 --> 00:41:44,501
+是它无法听到
+is he cannot hear.
+
+968
+00:41:44,568 --> 00:41:47,270
+相反，沃森是以电子文本信息方式
+Instead, Watson receives each <i>Jeopardy!</i> clue
+
+969
+00:41:47,338 --> 00:41:49,205
+接收<i>Jeopardy!</i>的线索
+as an electronic text message
+
+970
+00:41:49,273 --> 00:41:52,609
+而它的竞争对手是在黑板上看到的
+at the same moment his competitors see it on the board.
+
+971
+00:41:52,676 --> 00:41:56,246
+因此，它不知道其他选手的答案
+As a result, he doesn't know the other contestants' answers.
+
+972
+00:41:56,313 --> 00:41:57,981
+克雷恩(读）：
+CRAIN (reading):
+
+973
+00:42:04,622 --> 00:42:05,188
+比尔？
+Bill?
+
+974
+00:42:05,256 --> 00:42:06,289
+什么是蚊子？
+What's a mosquito?
+
+975
+00:42:06,357 --> 00:42:06,890
+克雷恩:不是
+CRAIN: No.
+
+976
+00:42:06,957 --> 00:42:08,858
+沃森？
+Watson?
+
+977
+00:42:08,926 --> 00:42:10,493
+沃森：蚊子是什么？
+WATSON: What is mosquito?
+
+978
+00:42:10,561 --> 00:42:11,427
+克雷恩（笑）：错～
+CRAIN (laughing): No.
+
+979
+00:42:11,495 --> 00:42:12,428
+哈维？
+Harvey?
+
+980
+00:42:12,496 --> 00:42:13,863
+什么是马蝇？
+What's a horsefly?
+
+981
+00:42:13,931 --> 00:42:15,665
+克雷恩:对啦～谢谢你没再说蚊子哈
+CRAIN: Yes-- thank you for not saying mosquito.
+
+982
+00:42:15,733 --> 00:42:17,500
+做的好，2,000美元到手，哈维
+Good job, good for $2,000, Harvey.
+
+983
+00:42:17,568 --> 00:42:21,404
+费鲁奇和团队一直在拼命工作
+NARRATOR:Ferrucci and the team have been working furiously
+
+984
+00:42:21,472 --> 00:42:23,473
+以提高沃森的表现
+to boost Watson's performance.
+
+985
+00:42:23,541 --> 00:42:26,543
+作为计划的一部分成果，现在，沃森将在正确答案出现后
+As part of their plan, Watson will now receive correct answers
+
+986
+00:42:26,610 --> 00:42:28,511
+以电子的方式收到
+electronically after they're revealed.
+
+987
+00:42:28,579 --> 00:42:32,615
+如果修改有效，它将会瞬间收到
+If the fix works,it will be in the nick of time.
+
+988
+00:42:32,683 --> 00:42:36,185
+<i>Jeopardy!</i>的制片人回来了
+The <i>Jeopardy!</i> producers are back,
+
+989
+00:42:36,253 --> 00:42:38,755
+他们即将决定沃森的命运
+and they're about to determine Watson's fate.
+
+990
+00:42:38,822 --> 00:42:41,891
+这是对我们进步的一个衡量，我们希望听到说：
+This was a measure of our progress, and we wanted to hear,
+
+991
+00:42:41,959 --> 00:42:43,726
+“不错，你们做到了”
+"Yeah, you're there, you've made it."
+
+992
+00:42:43,794 --> 00:42:47,430
+新改进的沃森遇到了它的第一大考验
+NARRATOR:The new and improved Watson gets his first big test
+
+993
+00:42:47,498 --> 00:42:52,201
+一个称为“庆祝月”的分类
+with a category called "Celebrations of the Month."
+
+994
+00:42:52,269 --> 00:42:54,470
+克雷恩（读）：
+CRAIN (reading):
+
+995
+00:42:54,538 --> 00:42:56,072
+沃森？
+Watson?
+
+996
+00:42:56,140 --> 00:42:57,140
+沃森：那是假期么？
+WATSON: What is holiday?
+
+997
+00:42:57,207 --> 00:42:59,342
+错，这不大靠谱,真的
+No. That's not even close, really.
+
+998
+00:42:59,410 --> 00:43:01,477
+沃森失败了
+NARRATOR:Watson fails, because he doesn't get
+
+999
+00:43:01,545 --> 00:43:03,046
+因为它在这一类别中没得手
+that in this category,
+
+1000
+00:43:03,113 --> 00:43:05,014
+答案必须是某个月的名称--
+the answer must be the name of a month--
+
+1001
+00:43:05,082 --> 00:43:07,383
+它的人类对手很快就意识到了
+something his human competition quickly figures out.
+
+1002
+00:43:07,451 --> 00:43:08,151
+克雷恩:阿瑟？
+CRAIN: Arthur?
+
+1003
+00:43:08,218 --> 00:43:09,018
+ARTHUR：什么是四月？
+ARTHUR: What is April?
+
+1004
+00:43:09,086 --> 00:43:10,286
+克雷恩:什么是四月？
+CRAIN: What is April?
+
+1005
+00:43:10,354 --> 00:43:12,589
+4月18日...
+April 18th is...
+
+1006
+00:43:12,656 --> 00:43:14,857
+我们不了解这个问题
+We don't understand the question.
+
+1007
+00:43:14,925 --> 00:43:16,359
+我们基本上不了解这个类别
+We don't understand the category, basically.
+
+1008
+00:43:16,427 --> 00:43:17,493
+克雷恩（读）：
+CRAIN (reading):
+
+1009
+00:43:19,563 --> 00:43:21,531
+但是现在它以电子方式接收
+NARRATOR:But now he electronically receives
+
+1010
+00:43:21,599 --> 00:43:22,799
+这些正确的响应
+these correct responses.
+
+1011
+00:43:22,866 --> 00:43:23,967
+克雷恩:阿瑟？什么是六月？
+CRAIN: Arthur? What is June?
+
+1012
+00:43:24,034 --> 00:43:25,868
+200美元到手!
+Good for 200.
+
+1013
+00:43:25,936 --> 00:43:27,270
+它能从答案中学习么?
+NARRATOR:Can he learn from the answers?
+
+1014
+00:43:27,338 --> 00:43:28,705
+GONDEK：沃森在这里所做的是
+GONDEK:What Watson does here is,
+
+1015
+00:43:28,772 --> 00:43:31,207
+它看出了这个线索的所有回答
+it sees that all the answers I've seen have been the month
+
+1016
+00:43:31,275 --> 00:43:32,875
+都是一个月份
+in which this thing in the clue occurs.
+
+1017
+00:43:32,943 --> 00:43:34,344
+克雷恩:马特
+CRAIN:Matt.
+
+1018
+00:43:34,411 --> 00:43:35,445
+什么是11月？
+What is November?
+
+1019
+00:43:35,512 --> 00:43:36,746
+你赢了4！
+Good for four!
+
+1020
+00:43:36,814 --> 00:43:40,583
+于是它知道了接下来的问题里要找的是什么了
+So then it knows in the next clue to look for, um,
+
+1021
+00:43:40,651 --> 00:43:42,552
+也就是：那些事发生在哪个月？
+what month does this thing occur in?
+
+1022
+00:43:42,620 --> 00:43:45,021
+马特:6月庆祝会
+MATT:Celebrations for six.
+
+1023
+00:43:45,089 --> 00:43:46,689
+克雷恩：6月庆祝会
+CRAIN:Celebrations for six.
+
+1024
+00:43:46,757 --> 00:43:48,024
+（读）：
+(reading):
+
+1025
+00:43:48,692 --> 00:43:50,627
+沃森？
+Watson?
+
+1026
+00:43:50,694 --> 00:43:51,594
+沃森：那是五月？
+WATSON:What is May?
+
+1027
+00:43:51,662 --> 00:43:53,062
+GONDEK：是的！它答对了！
+GONDEK:Yes! He got it!
+
+1028
+00:43:53,130 --> 00:43:54,230
+克雷恩：做的很好，沃森
+CRAIN:Very nicely done, Watson.
+
+1029
+00:43:54,298 --> 00:43:55,398
+它成功了
+He figured it out.
+
+1030
+00:43:55,466 --> 00:43:57,133
+它为我们赢了4
+It took us four.
+
+1031
+00:43:57,201 --> 00:44:00,470
+是啊，是啊
+Yeah, yeah.
+
+1032
+00:44:00,537 --> 00:44:02,171
+得益于团队的努力
+NARRATOR:Thanks to the team's efforts,
+
+1033
+00:44:02,239 --> 00:44:04,674
+沃森在云图上越来越高
+Watson is soaring higher in the cloud
+
+1034
+00:44:04,742 --> 00:44:08,211
+正在接近肯・詹宁斯这样的冠军水平
+and now approaching the level of champions like Ken Jennings.
+
+1035
+00:44:08,278 --> 00:44:10,213
+沃森顺风顺水了
+Watson is on a roll.
+
+1036
+00:44:10,280 --> 00:44:11,547
+再选
+Choose again.
+
+1037
+00:44:11,615 --> 00:44:13,549
+沃森：“你被绊倒”类，$1600美元
+WATSON: "You're Tripping," for 1600.
+
+1038
+00:44:13,617 --> 00:44:15,018
+克雷恩(读）：
+CRAIN (reading):
+
+1039
+00:44:18,656 --> 00:44:20,189
+沃森？
+Watson?
+
+1040
+00:44:20,257 --> 00:44:21,391
+沃森：什么是蒙特利尔？
+WATSON: What is Montreal?
+
+1041
+00:44:21,458 --> 00:44:22,492
+是
+Yes.
+
+1042
+00:44:22,559 --> 00:44:23,826
+沃森：谁是泽布伦派克？
+WATSON: Who is Zebulon Pike?
+
+1043
+00:44:23,894 --> 00:44:24,794
+克雷恩:好
+CRAIN: Good.
+
+1044
+00:44:24,862 --> 00:44:26,095
+沃森：什么是普罗维登斯...
+WATSON: What is Providence...
+
+1045
+00:44:26,163 --> 00:44:27,764
+水瓶座...得克萨斯州...花花公子布鲁梅尔(Beau Brummell)？
+Aquarius... Texas... Beau Brummell?
+
+1046
+00:44:27,831 --> 00:44:28,998
+克雷恩:沃森？
+CRAIN: Watson?
+
+1047
+00:44:29,066 --> 00:44:30,099
+沃森：那是“再见”？(意大利语)
+WATSON: What is "Ciao"?
+
+1048
+00:44:30,167 --> 00:44:33,736
+正确，而且也很可爱～
+That was right and cute all at the same time.
+
+1049
+00:44:33,804 --> 00:44:36,172
+<i>Jeopardy!</i>的决策者们已经看的足够了
+NARRATOR:The <i>Jeopardy!</i> executives have seen enough.
+
+1050
+00:44:36,240 --> 00:44:38,207
+哈利・弗里德曼：我认为我们应该走了
+HARRY FRIEDMAN: I think we've gone
+
+1051
+00:44:38,275 --> 00:44:40,743
+带着深刻印象和交口称赞
+from impressed to blown away.
+
+1052
+00:44:40,811 --> 00:44:42,745
+做得非常漂亮，沃森
+Very nicely done, Watson.
+
+1053
+00:44:42,813 --> 00:44:44,881
+终于，沃森获得了参加<i>Jeopardy!</i>的机会
+NARRATOR:Finally, Watson will get his chance on <i>Jeopardy!</i>
+
+1054
+00:44:46,316 --> 00:44:49,252
+一台电脑对抗人类冠军
+A computer playing against human champions.
+
+1055
+00:44:49,319 --> 00:44:52,789
+他们说它可以思考
+ALEX TREBEK: They say it can think.
+
+1056
+00:44:52,856 --> 00:44:55,525
+在游戏中，这是一个非常智能的象征
+NARRATOR:In a game that is a very symbol of intelligence.
+
+1057
+00:44:55,592 --> 00:44:58,428
+但是，它能像一个<i>Jeopardy!</i>冠军那样思考么？
+But can it think like a <i>Jeopardy!</i> champion?
+
+1058
+00:44:58,495 --> 00:45:00,630
+这将是一个史无前例的比赛
+NARRATOR:It will be a contest the world has never seen.
+
+1059
+00:45:00,698 --> 00:45:02,065
+祝你好运，沃森
+Good luck, Watson.
+
+1060
+00:45:02,132 --> 00:45:03,466
+但是，这是否意味着
+NARRATOR:But does this mean
+
+1061
+00:45:03,534 --> 00:45:06,302
+人工智能的梦想就要实现了呢？
+that the dream of artificial intelligence is coming true?
+
+1062
+00:45:06,370 --> 00:45:07,770
+布鲁克斯：因此，对我来说,人工智能
+BROOKS:So artificial intelligence,
+
+1063
+00:45:07,838 --> 00:45:11,441
+是试图让电脑做人所做的事情
+to me, is trying to get computers to do stuff
+
+1064
+00:45:11,508 --> 00:45:13,576
+如果人们那样做
+that if people did them,
+
+1065
+00:45:13,644 --> 00:45:17,847
+你会说，“哦，他们正在展示他们的人性
+you'd say, "Oh, they're demonstrating their peopleness.
+
+1066
+00:45:17,915 --> 00:45:21,951
+做那些才使他们所以为人
+That's what makes humans humans, that stuff they're doing."
+
+1067
+00:45:22,019 --> 00:45:23,653
+但是，没有经验或情感
+NARRATOR:But without experience or emotion,
+
+1068
+00:45:23,721 --> 00:45:27,190
+象沃森一样的电脑可以象我们人类童年那样
+can a computer like Watson ever learn and understand the world
+
+1069
+00:45:27,257 --> 00:45:30,660
+学习和了解世界么？
+the way we humans do from early childhood on?
+
+1070
+00:45:30,728 --> 00:45:33,563
+现在，没有任何机器能够理解
+Right now, no machine can understand
+
+1071
+00:45:33,630 --> 00:45:35,598
+一出戏的意义
+the meaning of a play,
+
+1072
+00:45:35,666 --> 00:45:40,803
+“李尔王”“麦克白”和“哈姆雷特”是什么意思?
+what it means to be King Lear or Macbeth or Hamlet.
+
+1073
+00:45:40,871 --> 00:45:45,274
+劳伦斯・奥利弗：生存还是死去
+LAURENCE OLIVIER:To be... or not to be.
+
+1074
+00:45:47,077 --> 00:45:50,446
+这是个问题
+That is the question.
+
+1075
+00:45:50,514 --> 00:45:52,281
+没有机器可以理解
+No machine can understand
+
+1076
+00:45:52,349 --> 00:45:55,351
+犹太-基督教《圣经》里的比喻
+the parables of the Judeo-Christian Bible.
+
+1077
+00:45:55,419 --> 00:45:57,320
+它们能做的是毫无知觉地通读数据
+All they can do is grovel through data
+
+1078
+00:45:57,387 --> 00:45:59,889
+并找出规律性的东西
+and find regularities.
+
+1079
+00:45:59,957 --> 00:46:01,624
+但是对戴夫・费鲁奇来说
+NARRATOR:But for Dave Ferrucci,
+
+1080
+00:46:01,692 --> 00:46:04,060
+这样的理解永远不是目标
+that kind of understanding was never the goal.
+
+1081
+00:46:04,128 --> 00:46:06,896
+这不是人类的方式
+It's not going to emerge as a human,
+
+1082
+00:46:06,964 --> 00:46:09,132
+因为它不与人的经验信息连接
+because it doesn't connect the information to human experience,
+
+1083
+00:46:09,199 --> 00:46:11,033
+以及人类的认知
+to human cognition.
+
+1084
+00:46:11,101 --> 00:46:13,002
+当你想到一部伟大的交响乐
+When you think about a great symphony,
+
+1085
+00:46:13,070 --> 00:46:15,304
+当一个人坐下来聆听它
+and when a human sits down with that,
+
+1086
+00:46:15,372 --> 00:46:17,974
+音乐会在情感层面影响人类
+that music is affecting that human at an emotional level.
+
+1087
+00:46:21,779 --> 00:46:23,279
+电脑没有人类的经验
+The computer doesn't have that human experience,
+
+1088
+00:46:23,347 --> 00:46:24,680
+没有人类的情感
+doesn't have that human emotion.
+
+1089
+00:46:24,748 --> 00:46:26,382
+它不是人，它是一台电脑
+It's not human, it's a computer.
+
+1090
+00:46:29,753 --> 00:46:34,457
+沃森可能永远不会体验到我们的处世方式
+NARRATOR:Watson may never experience the world the way we do,
+
+1091
+00:46:34,525 --> 00:46:35,792
+但借助它巨大的知识基础
+but with his enormous knowledge base,
+
+1092
+00:46:35,859 --> 00:46:38,027
+它的语言翻译技能
+his skill at interpreting language
+
+1093
+00:46:38,095 --> 00:46:39,695
+以及它的学习能力...
+and his ability to learn...
+
+1094
+00:46:39,763 --> 00:46:40,997
+是的，他知道了！
+Yes, he got it!
+
+1095
+00:46:41,064 --> 00:46:42,331
+沃森：那是五月？
+WATSON:What is May?
+
+1096
+00:46:42,399 --> 00:46:43,900
+他答对了
+He figured it out.
+
+1097
+00:46:43,967 --> 00:46:47,703
+他可以被认为是“智能”么？
+NARRATOR:Could he actually be considered "intelligent"?
+
+1098
+00:46:47,771 --> 00:46:49,605
+哦，我的上帝
+Oh my God.
+
+1099
+00:46:49,673 --> 00:46:51,974
+这比中等的<i>Jeopardy!</i>选手
+It is more intelligent than the average <i>Jeopardy!</i> player
+
+1100
+00:46:52,042 --> 00:46:54,143
+在答题时还要聪明些
+in answering <i>Jeopardy!</i> questions.
+
+1101
+00:46:54,211 --> 00:46:57,246
+这是...令人印象深刻的智能
+That's... impressively intelligent.
+
+1102
+00:46:59,850 --> 00:47:02,885
+是沃森上场的时间了
+NARRATOR:The time has come for Watson to take the stage,
+
+1103
+00:47:02,953 --> 00:47:05,688
+他的智能将获得终极测试
+where his intelligence will be put to the ultimate test
+
+1104
+00:47:05,756 --> 00:47:07,690
+当着数百万Jeopardy!节目观众的面
+in front of millions of <i>Jeopardy!</i> viewers.
+
+1105
+00:47:07,758 --> 00:47:09,392
+我玩的开心吗？
+Am I having fun?
+
+1106
+00:47:10,093 --> 00:47:12,628
+这是伤脑筋的
+It's nerve-wracking.
+
+1107
+00:47:12,696 --> 00:47:14,864
+为了这个大赛,沃森现在有了一个
+NARRATOR:For the big match, Watson now has
+
+1108
+00:47:14,932 --> 00:47:17,466
+实际的存在，一个化身
+a physical presence, an avatar.
+
+1109
+00:47:17,534 --> 00:47:18,734
+沃森：我的名字是沃森
+WATSON:My name is Watson.
+
+1110
+00:47:18,802 --> 00:47:21,871
+接下来呢?
+How now brown cow?
+
+1111
+00:47:21,939 --> 00:47:24,340
+该小组一直工作到最后
+NARRATOR:The team has been working right up till the end.
+
+1112
+00:47:24,408 --> 00:47:25,875
+我觉得我现在做梦都在想<i>Jeopardy!</i>的问题
+I think I dream about <i>Jeopardy!</i> questions now,
+
+1113
+00:47:25,943 --> 00:47:27,043
+我会做有关Jeopardy!问题的恶梦
+I have nightmares about <i>Jeopardy!</i> questions.
+
+1114
+00:47:27,110 --> 00:47:28,411
+我跟人说话会不自觉地使用Jeopardy!问题的格式
+I talk to people in the form of a question.
+
+1115
+00:47:28,478 --> 00:47:31,147
+他们做的足够了吗？
+NARRATOR:Have they done enough?
+
+1116
+00:47:31,215 --> 00:47:32,949
+他们就快看出来了
+They're about to find out,
+
+1117
+00:47:33,016 --> 00:47:35,885
+因为沃森要对付的是世界上最强的两个Jeopardy!选手：
+as Watson meets the world's two best Jeopardy! players:
+
+1118
+00:47:35,953 --> 00:47:39,188
+布拉德・拉特和肯・詹宁斯
+Brad Rutter and Ken Jennings.
+
+1119
+00:47:39,256 --> 00:47:40,389
+GONDEK：我们从来没有面对过
+GONDEK: We've never had
+
+1120
+00:47:40,457 --> 00:47:41,624
+这种水平的对手
+this caliber of player.
+
+1121
+00:47:41,692 --> 00:47:44,126
+肯能赢得74连胜，肯定是有原因的
+And there's a reason why Ken won 74 games in a row.
+
+1122
+00:47:44,194 --> 00:47:46,028
+布拉德从来没有被人打败过...
+There's a reason why Brad has never been beat...
+
+1123
+00:47:46,096 --> 00:47:48,664
+也是有原因的
+by a human.
+
+1124
+00:47:48,732 --> 00:47:51,934
+整个团队为了这一刻等了四年
+NARRATOR:The whole team has been waiting four years for this moment.
+
+1125
+00:47:52,002 --> 00:47:53,936
+费鲁奇：我知道这会发生
+FERRUCCI:I knew this was going to happen,
+
+1126
+00:47:54,004 --> 00:47:56,339
+但从没想过是这样的
+but I never imagined quite like this.
+
+1127
+00:47:56,406 --> 00:47:58,241
+我们来玩<i>Jeopardy!</i>怎么样？
+What do you say we play <i>Jeopardy!?</i>
+
+1128
+00:47:58,308 --> 00:48:01,277
+终于，沃森、另一位主持人以及比赛对手聚在一起了
+NARRATOR:With another stand-in host,Watson meets his opponents
+
+1129
+00:48:01,345 --> 00:48:02,411
+他们环立在赛场上
+for an exhibition round.
+
+1130
+00:48:02,479 --> 00:48:03,646
+主持人（读）：
+HOST (reading):
+
+1131
+00:48:09,553 --> 00:48:11,020
+主持人：沃森？
+HOST: Watson?
+
+1132
+00:48:11,088 --> 00:48:12,421
+沃森：那是耶利哥？
+WATSON: What is Jericho?
+
+1133
+00:48:12,489 --> 00:48:14,190
+主持人：正确
+HOST: Correct.
+
+1134
+00:48:14,258 --> 00:48:16,459
+沃森：400美元。同一类别
+WATSON:400. Same category.
+
+1135
+00:48:16,526 --> 00:48:18,494
+主持人：“这个神秘的作者和她的考古学家丈夫沉溺于
+HOST:"This mystery author and her archaeologist hubby dug
+
+1136
+00:48:18,562 --> 00:48:23,032
+寻找失落的叙利亚城市――乌尔克什的希望中
+in hopes of finding the lost Syrian city of Urkesh."
+
+1137
+00:48:23,100 --> 00:48:24,200
+主持人：沃森？
+HOST:Watson?
+
+1138
+00:48:24,268 --> 00:48:26,002
+沃森：谁是阿加莎・克里斯蒂？
+WATSON:Who is Agatha Christie?
+
+1139
+00:48:26,069 --> 00:48:26,969
+主持人：正确
+HOST:Correct.
+
+1140
+00:48:27,037 --> 00:48:28,704
+在一侧观看的
+NARRATOR:Watching from the wings
+
+1141
+00:48:28,772 --> 00:48:31,207
+是Jeopardy!的主持人，亚历克斯
+is <i>Jeopardy!'s</i> host,Alex Trebek.
+
+1142
+00:48:31,275 --> 00:48:33,809
+他并没有全答对，但他错的不太多
+He doesn't get everything right,but he doesn't miss very much.
+
+1143
+00:48:33,877 --> 00:48:35,311
+主持人：沃森？
+HOST:Watson?
+
+1144
+00:48:35,379 --> 00:48:37,413
+沃森：让我们完成“小鸡挖苦我。”
+WATSON:Let's finish "Chicks Dig Me."
+
+1145
+00:48:37,481 --> 00:48:40,716
+（观众笑）
+(audience laughing)
+
+1146
+00:48:40,784 --> 00:48:42,218
+主持人（读）：
+HOST (reading):
+
+1147
+00:48:48,125 --> 00:48:49,392
+主持人：肯？
+HOST: Ken?
+
+1148
+00:48:49,459 --> 00:48:50,359
+尼安德特人是什么？
+What is Neanderthal?
+
+1149
+00:48:50,427 --> 00:48:51,727
+主持人：你说的没错
+HOST: You're right.
+
+1150
+00:48:51,795 --> 00:48:53,362
+10分钟的比赛结束后
+NARRATOR:By the end of this ten-minute game,
+
+1151
+00:48:53,430 --> 00:48:55,197
+人与机器旗鼓相当
+man and machine are neck and neck.
+
+1152
+00:48:55,265 --> 00:48:57,099
+没有人敢预测将会发生什么
+And no one dares predict what will happen
+
+1153
+00:48:57,167 --> 00:49:00,569
+当他们面对即将到来的对决时
+when they face off in the looming showdown.
+
+1154
+00:49:00,637 --> 00:49:01,971
+费鲁奇：这将是令人坐立不安的
+FERRUCCI:It's going to be edge-of-your-seat.
+
+1155
+00:49:02,039 --> 00:49:04,640
+这将是伤脑筋的
+It's going to be nerve-wracking.
+
+1156
+00:49:04,708 --> 00:49:06,175
+到底会发生什么事情？
+What really is going to happen?
+
+1157
+00:49:06,243 --> 00:49:08,444
+你一无所知，你不知道
+And you just don't know,you don't know.
+
+1158
+00:49:08,512 --> 00:49:12,815
+我认为这只是个起点
+TREBEK:I suspect that this will just be the jumping-off point.
+
+1159
+00:49:12,883 --> 00:49:15,484
+他们的下一个项目将是...
+Their next project will be...
+
+1160
+00:49:15,552 --> 00:49:18,354
+我们并不满足于
+We don't want to create an avatar that will play
+
+1161
+00:49:18,422 --> 00:49:20,323
+只制造一个Jeopardy!参赛选手的化身
+as a contestant on <i>Jeopardy!</i>
+
+1162
+00:49:20,390 --> 00:49:24,226
+我们要制造一个<i>Jeopardy!</i>节目的主持人
+We want to create the host of <i>Jeopardy!</i>
+
+1163
+00:49:24,294 --> 00:49:26,028
+他们能做到这一点
+And they can do it.
+
+1164
+00:49:26,096 --> 00:49:27,930
+沃森：下午好，Trebek先生
+WATSON:Good afternoon, Mr. Trebek.
+
+1165
+00:49:27,998 --> 00:49:29,598
+我一直在等待这一刻
+I've been waiting for this moment
+
+1166
+00:49:29,666 --> 00:49:31,934
+等了很长、很长、很长时间了
+for a very, very,very long time.
+
+1167
+00:49:45,749 --> 00:49:48,751
+更多内容请移步NOVA节目的网站
+<i>The exploration continues</i>
+<i>on</i> NOVA's <i>website,</i>
+
+1168
+00:49:48,819 --> 00:49:50,286
+在那会有一个沃森研究团队领导――戴夫・费鲁奇主持的“问与答”汇编
+<i>where you can find a Q&A</i>
+
+1169
+00:49:50,354 --> 00:49:52,788
+<i>with Watson team leader</i>
+<i>David Ferrucci,</i>
+
+1170
+00:49:52,856 --> 00:49:55,992
+还能看到改变我们世界的其它智能机器
+<i>see other smart machines</i>
+<i>transforming our world,</i>
+
+1171
+00:49:56,059 --> 00:49:58,394
+并能听到顶级计算机专家
+<i>and hear what top computer</i>
+<i>scientists have to say</i>
+
+1172
+00:49:58,462 --> 00:50:01,530
+对人工智能未来的说法
+<i>about the future</i>
+<i>of artificial intelligence.</i>
+
+1173
+00:50:01,598 --> 00:50:04,567
+通过专业的采访、互动与教学资源
+<i>Dig deeper</i>
+<i>into technology and engineering</i>
+
+1174
+00:50:04,634 --> 00:50:07,536
+对相关工程技术做进一步的深入挖掘
+<i>with expert interviews,</i>
+<i>interactives, teacher resources</i>
+
+1175
+00:50:07,604 --> 00:50:09,038
+<i>and more.</i>
+
+1176
+00:50:09,106 --> 00:50:10,773
+欢迎在Facebook和推特上粉我们NOVA
+<i>Follow</i> NOVA
+<i>on Facebook and Twitter</i>
+
+1177
+00:50:10,841 --> 00:50:13,642
+您可以在pbs.org网站上找到我们
+<i>and find us online at pbs.org.</i>
+
+1178
+00:50:15,245 --> 00:50:17,079
+NOVA下次节目内容将是...
+<i>Next time on</i> NOVA...
+
+1179
+00:50:17,147 --> 00:50:21,384
+在离陆地300英里的风暴天空
+<i>In stormy skies, more than 300</i>
+<i>miles from land...</i>
+
+1180
+00:50:21,451 --> 00:50:23,219
+(警铃响)
+(alarm bell ringing)
+
+1181
+00:50:23,286 --> 00:50:26,122
+447号航班垂直落入大海
+<i>Flight 447 plummets</i>
+<i>into the sea.</i>
+
+1182
+00:50:26,189 --> 00:50:28,357
+几乎前所未闻的一系列故障
+MAN:Almost unheard-of series of failures,
+
+1183
+00:50:28,425 --> 00:50:29,925
+一个接一个
+one right behind the other.
+
+1184
+00:50:29,993 --> 00:50:32,294
+NOVA节目和一个独立调查者团队
+NOVA <i>and a team of independent</i>
+<i>investigators</i>
+
+1185
+00:50:32,362 --> 00:50:35,664
+解开出错的神秘背后
+<i>unravel the mystery</i>
+<i>of what went wrong.</i>
+
+1186
+00:50:35,732 --> 00:50:36,766
+我们要弄明白
+MAN:We need to understand what happened
+
+1187
+00:50:36,833 --> 00:50:38,167
+那晚大西洋上空发生了什么
+that night out over the Atlantic.
+
+1188
+00:50:38,235 --> 00:50:42,038
+NOVA下期节目――《447航班的坠毁》
+<i>"The Crash of Flight 447,"</i>
+<i>next time on</i> NOVA.
+
+1189
+00:50:46,443 --> 00:50:49,078
+NOVA的主要资金来源由:
+Major funding for <i>NOVA</i> is provided by:
+
+1190
+00:50:50,914 --> 00:50:52,581
+以及
+And...
+
+1191
+00:51:02,626 --> 00:51:06,996
+并由公共广播公司
+And by the Corporation for Public Broadcasting
+
+1192
+00:51:07,064 --> 00:51:10,232
+
+and by contributions to your PBS station from:
+
+1193
+00:51:15,839 --> 00:51:18,140
+Captioned by Media Access Group at WGa AcH
+access.wgbh.org
+
+1194
+00:51:33,323 --> 00:51:38,260
+NOVA节目的DVD版本可在shopPBS.org买到
+<i>This</i> NOVA <i>program is available</i>
+<i>on DVD at shopPBS.org.</i>
+
+1195
+00:51:38,328 --> 00:51:40,863
+或致电1-800-PLAY-PBS
+<i>Or call 1-800-play-pbs.</i>

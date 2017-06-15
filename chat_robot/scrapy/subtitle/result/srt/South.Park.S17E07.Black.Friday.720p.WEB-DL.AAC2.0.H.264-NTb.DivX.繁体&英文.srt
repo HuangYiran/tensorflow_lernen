@@ -1,0 +1,2487 @@
+1
+00:00:11,110 --> 00:00:14,420
+m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0
+
+2
+00:00:11,110 --> 00:00:14,420
+m 115 64 l 115 35 l 171 0 l 177 0 l 133 46 l 143 52 l 179 0 l 184 0 l 159 63 l 229 107 l 229 182 l 145 96 l 135 122 l 207 227 l 137 227 l 115 172 l 115 93 l 126 76 l 115 64 l 104 76 l 115 93 l 115 172 l 93 227 l 23 227 l 95 122 l 84 96 l 0 182 l 0 107 l 70 63 l 45 0 l 50 0 l 87 52 l 97 46 l 52 0 l 59 0 l 115 35
+
+3
+00:00:11,110 --> 00:00:14,420
+m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60
+
+4
+00:00:11,110 --> 00:00:14,420
+m 325 0 l 355 0 l 332 47 l 354 47 l 399 136 l 369 136 l 328 53 l 288 136 l 257 136 l 325 0 m 467 0 l 497 0 l 474 47 l 496 47 l 541 136 l 511 136 l 470 53 l 430 136 l 399 136 l 467 0 m 545 1 l 583 1 l 583 14 l 568 14 l 568 19 l 583 19 l 583 30 l 568 30 l 568 34 l 599 34 l 599 30 l 583 30 l 583 19 l 599 19 l 599 14 l 583 14 l 583 1 l 611 1 b 616 1 622 6 622 10 l 622 36 l 652 0 l 678 0 l 644 41 l 622 41 l 622 47 l 596 47 l 597 54 l 625 54 l 625 68 l 541 68 l 541 54 l 572 54 l 571 47 l 545 47 l 545 1 m 583 72 l 583 85 l 569 85 l 569 90 l 598 90 l 598 85 l 583 85 l 583 72 l 611 72 b 615 72 621 78 621 82 l 653 44 l 678 44 l 644 86 l 621 86 l 621 103 l 597 103 l 597 136 l 570 136 l 564 126 l 562 136 l 542 136 l 548 107 l 568 107 l 565 121 l 571 121 l 571 103 l 547 103 l 547 72 l 583 72 m 600 107 l 620 107 l 624 124 l 653 89 l 679 89 l 642 136 l 615 136 l 618 132 l 606 132 l 600 107 m 689 0 l 716 0 l 721 15 l 732 15 l 732 30 l 718 56 l 731 56 l 735 100 l 721 100 l 717 59 l 714 64 l 714 136 l 693 136 l 693 79 l 676 79 l 707 30 l 679 30 l 679 15 l 694 15 l 689 0 m 738 0 l 804 0 b 807 0 813 6 813 9 l 813 87 l 794 87 l 794 14 l 756 14 l 756 87 l 763 77 l 763 21 l 787 21 l 787 91 l 798 91 l 798 120 l 820 120 l 812 136 l 778 136 l 778 90 l 748 136 l 723 136 l 756 87 l 738 87 l 738 0 m 257 151 l 275 151 l 297 182 l 319 151 l 337 151 l 304 197 l 304 227 l 290 227 l 290 197 l 257 151 m 337 151 l 355 151 l 377 182 l 399 151 l 417 151 l 384 197 l 384 227 l 370 227 l 370 197 l 337 151 m 425 192 l 447 192 b 445 181 427 181 425 192 l 410 192 b 414 162 458 162 462 192 l 462 206 l 425 206 b 425 210 429 212 433 213 l 462 213 l 462 227 l 433 227 b 412 227 408 203 410 192 m 462 151 l 532 151 l 532 165 l 504 165 l 504 227 l 489 227 l 489 165 l 462 165 l 462 151 m 580 172 l 580 186 l 549 186 b 543 186 543 192 549 192 l 565 192 b 589 192 589 227 565 227 l 532 227 l 532 213 l 565 213 b 570 213 570 206 565 206 l 549 206 b 524 206 524 172 549 172 l 580 172 m 592 213 l 606 213 l 606 227 l 592 227 l 592 213 m 639 172 l 665 172 l 665 186 l 639 186 b 623 186 623 213 639 213 l 665 213 l 665 227 l 639 227 b 603 227 603 172 639 172 m 700 184 b 722 184 722 215 700 215 l 700 229 b 740 229 740 170 700 170 b 660 170 660 229 700 229 l 700 215 b 680 215 680 184 700 184 m 737 172 l 782 172 b 803 172 813 177 813 198 l 813 228 l 799 228 l 799 198 b 799 186 793 187 782 187 l 782 228 l 768 228 l 768 187 l 752 187 l 752 228 l 737 228 l 737 172
+
+5
+00:00:11,110 --> 00:00:14,420
+人人影視
+YYeTs.com
+
+6
+00:00:11,110 --> 00:00:14,420
+原創翻譯  雙語字幕
+
+7
+00:00:11,110 --> 00:00:14,420
+■
+
+8
+00:00:11,110 --> 00:00:14,420
+僅供學習 禁止用于任何商業盈利行為
+更多影視更新
+請登陸www.YYeTs.com
+
+9
+00:00:14,710 --> 00:00:19,710
+翻譯：Bazinga   胡好時   foxer   魚骨頭
+
+10
+00:00:19,710 --> 00:00:24,710
+校對：原子蛋    總監   原子蛋
+
+11
+00:00:24,710 --> 00:00:29,710
+后期：加森     時間軸：sagelibra  今
+
+12
+00:00:36,080 --> 00:00:38,560
+南方公園  第十七季第七集
+黑色星期五
+
+13
+00:00:14,590 --> 00:00:17,950
+I'm going down to south park
+ gonna have myself a time
+
+14
+00:00:18,060 --> 00:00:21,240
+Friendly faces everywhere
+ humble folks without temptation
+
+15
+00:00:21,340 --> 00:00:24,170
+Going down to south park
+ gonna leave my woes behind
+
+16
+00:00:24,730 --> 00:00:27,940
+Ample parking day or night
+ people shouting howdy neighbor
+
+17
+00:00:27,970 --> 00:00:30,680
+Heading on out to south park
+ gonna see if I can't unwind
+
+18
+00:00:31,550 --> 00:00:34,550
+I like girls with big vaginas
+ I like girls with big fat titties
+
+19
+00:00:34,620 --> 00:00:37,800
+Come on down to south park 
+and meet some friends of mine.
+
+20
+00:00:39,860 --> 00:00:44,260
+黑色星期五
+11月29日
+南方公園商場
+
+21
+00:00:44,260 --> 00:00:59,590
+黑色星期五促銷
+凜冬將至
+
+22
+00:00:44,620 --> 00:00:47,180
+到了節日季
+The holiday season is here.
+
+23
+00:00:47,310 --> 00:00:50,370
+黑色星期五也不遠了
+And Black Friday is upon us.
+
+24
+00:00:51,070 --> 00:00:53,950
+要知道  黑色星期五那天
+As you know, Black Friday is the day
+
+25
+00:00:53,960 --> 00:00:56,870
+顧客會因假日促銷暴走
+shoppers go berserk for holiday deals.
+
+26
+00:00:57,210 --> 00:00:59,550
+去年26人遇難
+Last year 26 people died
+
+27
+00:01:00,010 --> 00:01:03,230
+461人受重傷
+and 461 were seriously injured.
+
+28
+00:01:04,480 --> 00:01:08,370
+今年冬天  商場向前20位來店顧客
+This winter, the mall is offering 80% off
+
+29
+00:01:08,370 --> 00:01:10,570
+給出2折優惠
+to the first 20 people in the store.
+
+30
+00:01:12,350 --> 00:01:15,100
+你們這些新來的應聘這份工作
+For you new recruits perhaps you took this job
+
+31
+00:01:15,100 --> 00:01:17,590
+或許只想見見世面
+to see just what the balance was like
+
+32
+00:01:17,650 --> 00:01:18,950
+或許你覺得
+or perhaps you thought
+
+33
+00:01:18,950 --> 00:01:21,580
+黑色星期五上班沒啥大不了的
+working Black Friday wouldn't be a big deal.
+
+34
+00:01:23,370 --> 00:01:25,820
+我不過是想節假日賺點外快
+I'm just trying to earn extra holiday cash.
+
+35
+00:01:25,960 --> 00:01:27,780
+或許你太蠢了
+Or maybe you're too stupid to
+
+36
+00:01:27,780 --> 00:01:30,090
+都沒意識到自己跳進了火坑
+realize what you've gotten yourself into.
+
+37
+00:01:30,090 --> 00:01:31,130
+夠了
+That's enough.
+
+38
+00:01:32,160 --> 00:01:34,790
+我們今年只有齊心協力才能
+Our only chance to survive in this year's sale
+
+39
+00:01:34,800 --> 00:01:36,340
+在這場促銷浩劫中存活下來
+is by sticking together.
+
+40
+00:01:36,400 --> 00:01:41,040
+你們應征入伍值得表揚  不過我警告你們
+Those of you who signed up are to be commended but I warn you,
+
+41
+00:01:41,770 --> 00:01:44,400
+千萬不要低估門外
+do not underestimate the battle that's
+
+42
+00:01:44,400 --> 00:01:47,280
+即將到來的惡戰
+about to take place outside those doors.
+
+43
+00:01:51,100 --> 00:01:52,650
+凜冬將至
+Winter is coming.
+
+44
+00:02:07,810 --> 00:02:08,960
+晚上好  先生
+Good evening, sir.
+
+45
+00:02:09,030 --> 00:02:11,420
+我在召集所有的戰士
+I'm calling together all the fighters of Zaron.
+
+46
+00:02:11,420 --> 00:02:13,660
+我有事要和麥考米克夫人談
+I need to speak with Lady McCormick.
+
+47
+00:02:13,660 --> 00:02:15,680
+她現在不在
+She's not here right now.
+
+48
+00:02:16,080 --> 00:02:18,310
+請轉告她來參加大禮堂的會議
+Please tell her there's to be a meeting in the great hall.
+
+49
+00:02:18,580 --> 00:02:20,860
+我已經想到搶XBOX的方法了
+I have found a way to get Xbox ones
+
+50
+00:02:20,860 --> 00:02:23,500
+尊敬的麥考米克夫人應該會感興趣的
+and the Fair Lady McCormick will want to hear about it.
+
+51
+00:02:29,390 --> 00:02:30,750
+感謝各位的到來
+Thank you all for coming.
+
+52
+00:02:30,950 --> 00:02:31,910
+托肯王子
+Prince Token,
+
+53
+00:02:32,130 --> 00:02:33,710
+黑湖的蒂米爵士
+Sir Timmy of Blacklake,
+
+54
+00:02:34,410 --> 00:02:35,630
+麥考米克夫人
+Lady McCormick.
+
+55
+00:02:38,170 --> 00:02:40,960
+勇士們  我們曾無數次并肩作戰
+Warriors, we have fought many great battles together
+
+56
+00:02:41,050 --> 00:02:43,720
+在克萊德家  在斯考特·梅爾·金森家
+at Clyde's house, and Scott Mel Kinson's House.
+
+57
+00:02:43,720 --> 00:02:45,260
+不過我們馬上就要展開
+But soon we'll be fighting
+
+58
+00:02:45,260 --> 00:02:47,120
+一場有生以來最慘烈的戰斗
+the greatest battle of our young hard lives.
+
+59
+00:02:47,500 --> 00:02:48,810
+凜冬將至
+Winter is coming.
+
+60
+00:02:49,160 --> 00:02:51,720
+新一代游戲設備又將紛紛上架
+And the next gen gaming devices are hitting the shelves.
+
+61
+00:02:51,760 --> 00:02:53,210
+可沒人買得起
+Which nobody can afford.
+
+62
+00:02:53,210 --> 00:02:55,740
+要是我跟你們說  如果我們齊心合力
+What if I would tell you that we all work together
+
+63
+00:02:55,890 --> 00:02:58,290
+就有辦法搞到新一代的游戲機
+there's a way we can get the new gaming system?
+
+64
+00:02:58,980 --> 00:03:01,170
+巫師  如果你有辦法就說出來
+If you know of a way, Wizard, then speak.
+
+65
+00:03:01,200 --> 00:03:03,470
+我在工作中學會了一種黑魔法
+I've learned of a dark magic at work.
+
+66
+00:03:03,740 --> 00:03:05,240
+感恩節過后的第一天
+The day after Thanksgiving,
+
+67
+00:03:05,240 --> 00:03:08,490
+前30位進商場的將獲得全場2折優惠
+the first 30 people inside the mall get 80% off whatever they want.
+
+68
+00:03:08,750 --> 00:03:11,700
+他們稱之為黑色星期五
+They're calling it Black Friday.
+
+69
+00:03:14,350 --> 00:03:15,950
+好怕怕
+Woo, Spooky.
+
+70
+00:03:16,250 --> 00:03:17,560
+黑色星期五
+Black Friday?
+
+71
+00:03:17,740 --> 00:03:19,320
+拜托  沒那回事兒
+Come on, that can't be real.
+
+72
+00:03:19,580 --> 00:03:20,550
+真有  克雷格  
+It is real, Craig,
+
+73
+00:03:20,550 --> 00:03:21,850
+我在新聞上看到的  混蛋
+I saw it on the news, butthole.
+
+74
+00:03:21,850 --> 00:03:22,790
+真有其事
+It is real.
+
+75
+00:03:22,790 --> 00:03:24,060
+每年都有
+They do it every year,
+
+76
+00:03:24,070 --> 00:03:25,960
+可全城上下都想在黑色星期五
+but Everyone in town tries to be
+
+77
+00:03:25,960 --> 00:03:26,980
+第一個擠進商場
+the first inside the mall on Black Friday.
+
+78
+00:03:26,980 --> 00:03:28,070
+我們勝算有多大
+What chance do we have?
+
+79
+00:03:28,070 --> 00:03:29,450
+純靠我們自己  沒可能
+On our own, none.
+
+80
+00:03:29,450 --> 00:03:32,280
+但只要計劃周密  深謀遠慮  合力奮戰
+But if we plan, strategize and fight together,
+
+81
+00:03:32,510 --> 00:03:34,830
+我們就能成為黑色星期五第一批進去的人
+we could be the first people inside on Black Friday.
+
+82
+00:03:34,980 --> 00:03:37,140
+然后憑著2折優惠得到我們用來救命的
+And use the 80% to get the gaming system we need
+
+83
+00:03:37,140 --> 00:03:38,370
+游戲機
+to survive.
+
+84
+00:03:39,470 --> 00:03:42,590
+感恩節快到了  我們都知道這意味著什么
+Well, it's almost Thanksgiving and we all know what that means.
+
+85
+00:03:42,590 --> 00:03:45,330
+沒錯  黑色星期五即將到來
+That's right, Black Friday is just around the corner.
+
+86
+00:03:45,330 --> 00:03:45,950
+艾瑪
+Ouch.
+
+87
+00:03:45,960 --> 00:03:48,080
+大家都摩拳擦掌  躍躍欲試
+And people are already gearing up.
+
+88
+00:03:48,190 --> 00:03:51,500
+我們通常凌晨3點就來排隊了
+We usually start lining up around 3 a.m..
+
+89
+00:03:51,530 --> 00:03:54,160
+我們把自己渾身浸滿豬血
+We douse ourselves in pig blood
+
+90
+00:03:54,160 --> 00:03:57,620
+因為這樣能在開門的時候助我們滑過人群
+because it does help us slip threw the crowd when the doors open.
+
+91
+00:03:57,800 --> 00:04:00,340
+我們每年都來  算是家庭傳統了
+We do it every year, part of the family tradition.
+
+92
+00:04:00,340 --> 00:04:02,340
+去年我們不幸失去了最小的女兒
+Last year we lost our youngest daughter.
+
+93
+00:04:02,350 --> 00:04:03,760
+她的腦袋被踩了個稀巴爛
+Her head was stepped on and crushed.
+
+94
+00:04:03,760 --> 00:04:05,980
+不過為了紀念她  我們今年打算找個
+But in her memory we're going to find a young girl
+
+95
+00:04:05,980 --> 00:04:07,790
+小女孩  踩她的頭
+and step on her head this year.
+
+96
+00:04:08,090 --> 00:04:12,200
+要是有人以為 他們能在商場里打敗我
+If anyone thinks they're gonna beat me inside that mall
+
+97
+00:04:12,200 --> 00:04:15,940
+妨礙我給孩子們買圣誕禮物
+and keep me from getting my kids' christmas presents,
+
+98
+00:04:15,940 --> 00:04:18,320
+你丫想都別想
+they can kiss my fat vagina,
+
+99
+00:04:18,320 --> 00:04:21,150
+因為我會讓他們生不如死
+coz I'm bringing the motherfucking pain.
+
+100
+00:04:21,370 --> 00:04:22,760
+南方公園商場的湯姆說
+Tom, the south park mall says,
+
+101
+00:04:22,760 --> 00:04:24,110
+他們已經加強保安戒備
+they've beefed up security
+
+102
+00:04:24,110 --> 00:04:27,330
+力求減少今年死亡人數
+in an effort to reduce the number of fatalities this year
+
+103
+00:04:27,330 --> 00:04:32,000
+可以肯定的是人們十分重視黑色星期五
+One thing's for sure, people take Black Friday very seriously.
+
+104
+00:04:43,090 --> 00:04:45,240
+對  對  非常好  很好
+Yes, yes. Very nice. Good.
+
+105
+00:04:45,720 --> 00:04:48,820
+卡特曼巫師  網上有消息  大人
+Wizard Cartman, I have news from the internet, my lord.
+
+106
+00:04:48,820 --> 00:04:50,980
+《權力的游戲》里面的人不興敬禮  巴特斯
+They don't salute in Game of Thrones, Butters.
+
+107
+00:04:50,980 --> 00:04:52,410
+抱歉  我還沒看過
+Sorry, I haven't watched it yet.
+
+108
+00:04:52,410 --> 00:04:55,810
+這樣啊  那你要趕緊看了  哎呀太好了
+OK. You need to start immediately please. Ah, very good!
+
+109
+00:04:55,840 --> 00:04:58,280
+灰鷹家族同意加入我們的戰斗了
+The House of Grayhawk has agreed to join our fight.
+
+110
+00:04:58,590 --> 00:04:59,620
+灰鷹家族
+The House of Grayhawk?
+
+111
+00:04:59,620 --> 00:05:01,020
+瑪麗安·布萊茨多斯基
+Marian Bryostowski.
+
+112
+00:05:01,020 --> 00:05:02,850
+可是我的朋友 我們還得繼續尋找其他
+But my friends, we must still find others
+
+113
+00:05:02,850 --> 00:05:04,040
+愿意同我們并肩戰斗的人
+who will fight by our side.
+
+114
+00:05:04,040 --> 00:05:06,130
+還有沒有別的沒分派的人  能來幫幫我們
+Are there no other factions we can call to our aid?
+
+115
+00:05:06,170 --> 00:05:06,910
+我知道
+I know,
+
+116
+00:05:06,910 --> 00:05:09,430
+要不我們問問那些玩星際迷航的孩子吧
+how about we ask those kids who play Star Trek?
+
+117
+00:05:10,130 --> 00:05:11,740
+才不要  去他媽的
+No, screw those guys.
+
+118
+00:05:11,740 --> 00:05:13,700
+全是呆子  我才不要跟他們玩
+They're dorks and I'm not playing with them.
+
+119
+00:05:16,370 --> 00:05:18,420
+我正想來點呢
+Hey, that's what I'm talking about.
+
+120
+00:05:18,520 --> 00:05:19,950
+還有嗎
+You got any extra of that?
+
+121
+00:05:20,950 --> 00:05:22,100
+謝謝
+Oh, thanks.
+
+122
+00:05:22,640 --> 00:05:24,640
+這里有點無聊了
+Gets a little boring around here, you know.
+
+123
+00:05:25,490 --> 00:05:27,500
+趁現在好好享受無聊吧
+Enjoy the boredom while you can.
+
+124
+00:05:28,270 --> 00:05:30,000
+你去年冬天也在這工作嗎
+So you worked here last winter?
+
+125
+00:05:30,000 --> 00:05:31,460
+黑色星期五也值班的嗎
+You worked on Black Friday.
+
+126
+00:05:32,430 --> 00:05:33,500
+是啊
+I did.
+
+127
+00:05:33,880 --> 00:05:35,740
+有他們描述的那么糟糕嗎
+Is it really as bad as they say it is?
+
+128
+00:05:38,930 --> 00:05:41,630
+那些顧客
+The shoppers
+
+129
+00:05:41,990 --> 00:05:44,340
+周四晚上便陸陸續續出現了
+started showing up at midnight on Thursday.
+
+130
+00:05:45,740 --> 00:05:47,670
+他們沒有排隊
+They didn't line up,
+
+131
+00:05:47,670 --> 00:05:50,030
+而是逐漸涌向正門
+they just crammed themselves near the main entrance.
+
+132
+00:05:50,680 --> 00:05:52,640
+我能看見他們的臉貼在玻璃門上
+I can see their faces smushed up against the glass
+
+133
+00:05:52,640 --> 00:05:55,010
+舔著舌頭  等著進來
+licking their lips waiting to get in.
+
+134
+00:05:55,660 --> 00:05:57,550
+天哪  他們發出的那些聲音
+God, the sounds they made.
+
+135
+00:05:58,640 --> 00:06:00,810
+5點商場門開了
+It was 5 a.m. when they opened the doors.
+
+136
+00:06:01,420 --> 00:06:03,780
+到處都是尖叫聲  到處都是血
+There was screaming, blood,
+
+137
+00:06:04,800 --> 00:06:07,900
+人們互相撕扯著對方的臉
+people tearing each other's faces off
+
+138
+00:06:07,900 --> 00:06:10,070
+節日的背景音樂放得正酣
+while holiday music played in the background
+
+139
+00:06:11,230 --> 00:06:14,170
+我看見一個女人抓起她女兒的腳踝
+I saw a woman pick up her daughter by the ankle
+
+140
+00:06:14,170 --> 00:06:16,300
+就往一老頭頭上甩
+and swing her into some old guy's head.
+
+141
+00:06:17,110 --> 00:06:18,870
+我還沒來得及反應  便被他們包圍了
+Before I knew it they were all around me,
+
+142
+00:06:19,010 --> 00:06:20,390
+人們爭吵著  搶奪著
+fighting, clawing.
+
+143
+00:06:20,790 --> 00:06:22,930
+后來一只手伸進來  把我一把揪了出來
+Then a hand reached in and pulled me out.
+
+144
+00:06:23,410 --> 00:06:26,320
+頭兒那天救了我們所有人
+Old cap. He saved us all that day.
+
+145
+00:06:28,090 --> 00:06:29,380
+那天打烊后
+When it was over,
+
+146
+00:06:29,380 --> 00:06:32,230
+商場前已經血流成河
+in front of the mall was covered in red,
+
+147
+00:06:32,640 --> 00:06:35,220
+到處都是尸體  還有購物袋
+bodies, shopping bags.
+
+148
+00:06:34,740 --> 00:06:37,380
+黑色星期五
+前30名顧客的所有商品2折
+
+149
+00:06:36,920 --> 00:06:38,810
+現在  冬天又要來了
+And now winter comes again.
+
+150
+00:06:42,190 --> 00:06:45,070
+卡特曼巫師  我開始看《權力的游戲》了
+Wizard Cartman, I've started watching Game of Thrones.
+
+151
+00:06:45,070 --> 00:06:47,050
+很好  巴特斯圣騎士  你覺得好看嗎
+Ah, yes Paladin Butters, are you enjoying it?
+
+152
+00:06:47,050 --> 00:06:48,660
+我覺得挺不錯的
+Well, it's pretty good I guess.
+
+153
+00:06:48,660 --> 00:06:49,200
+但你有沒注意到
+But have you ever notice
+
+154
+00:06:49,200 --> 00:06:51,010
+每次里面露出某人的雞雞
+that almost every time they show a guy's wiener,
+
+155
+00:06:51,010 --> 00:06:52,850
+那個角色就會搞基
+that guy's character's a Gay.
+
+156
+00:06:53,040 --> 00:06:53,870
+你想要說什么
+What do you mean?
+
+157
+00:06:53,870 --> 00:06:56,940
+里面出現有很多爆乳娘  寶器妹什么的
+Just they have a lot of girls' boobs and vagina and stuff
+
+158
+00:06:56,940 --> 00:06:58,520
+但男人露雞雞的時候
+but most times they show a man's wiener
+
+159
+00:06:58,520 --> 00:07:00,960
+大部分情況下都是在另一個男人演激情戲
+is because that guy is in love scene with another guy.
+
+160
+00:07:01,030 --> 00:07:01,700
+你覺得這是因為
+You think it's because
+
+161
+00:07:01,700 --> 00:07:03,930
+同性戀的雞雞對女性觀眾威脅比較小嗎
+gay wienner is less threatening to women viewers?
+
+162
+00:07:03,930 --> 00:07:05,050
+我覺得你根本沒看到
+I believe you might be missing
+
+163
+00:07:05,050 --> 00:07:06,800
+這部劇的重點  巴特斯圣騎士
+the greater point of the show, Paladin Butters.
+
+164
+00:07:06,800 --> 00:07:08,260
+我知道的  凜冬將至啊
+Yeah, I know. Winter's coming,
+
+165
+00:07:08,270 --> 00:07:10,150
+龍和喪尸們都跑出來了
+and there're dragons and zombies on the way.
+
+166
+00:07:10,150 --> 00:07:11,590
+對此我倒是挺興奮的
+I'm pretty excited for that,
+
+167
+00:07:11,600 --> 00:07:13,760
+這樣總算能少看點搞基的雞雞了
+just can do with a little less gay wieners though.
+
+168
+00:07:17,770 --> 00:07:19,510
+幼兒園的那幫人給我們消息了
+We have word from the kindergartners.
+
+169
+00:07:19,580 --> 00:07:20,280
+他們同意加入我們了
+They've agreed to join us.
+
+170
+00:07:22,020 --> 00:07:24,300
+那些Xbox One是我們的了
+Those Xbox Ones are as good as ours.
+
+171
+00:07:24,950 --> 00:07:28,170
+等等  Xbox One是什么意思
+Wait, what are you talking about Xbox Ones?
+
+172
+00:07:29,070 --> 00:07:30,300
+這就是咱們的目標啊  克雷格
+That's what this is all about, Craig.
+
+173
+00:07:30,300 --> 00:07:30,840
+咱們不就在努力爭取
+We're all trying to
+
+174
+00:07:30,840 --> 00:07:32,570
+黑色星期五那天買Xbox One嘛
+get Xbox Ones on Black Friday.
+
+175
+00:07:32,570 --> 00:07:34,890
+我以為我們要買的是PS4
+I thought we were getting Playstation 4s.
+
+176
+00:07:34,930 --> 00:07:35,880
+什么
+What?
+
+177
+00:07:36,350 --> 00:07:37,580
+我也這么以為的
+Me too.
+
+178
+00:07:38,150 --> 00:07:39,010
+不對  哥們兒
+No, guys.
+
+179
+00:07:39,010 --> 00:07:41,260
+當我說我們要去弄下一代的游戲系統
+When I said we are gonna get the next gen gaming systems
+
+180
+00:07:41,260 --> 00:07:42,980
+我顯然說的是Xbox
+I was obviously talking about Xboxes.
+
+181
+00:07:43,510 --> 00:07:45,440
+我想要PS4  而不是什么垃圾Xbox
+I want a ps4, not a crappy Xbox.
+
+182
+00:07:45,440 --> 00:07:48,350
+聽著伙計們  我們必須得達成共識
+Look guys, we all have to agree on one system.
+
+183
+00:07:48,350 --> 00:07:49,020
+是這樣的
+That's right.
+
+184
+00:07:49,020 --> 00:07:50,510
+要是我們有人玩PS4
+If some of us are on PS4s,
+
+185
+00:07:50,510 --> 00:07:52,000
+其他的玩Xbox
+but rest of us on Xboxes,
+
+186
+00:07:52,000 --> 00:07:53,970
+那我們就沒法一起聯機了  明白嗎
+then we all can't play together online. See?
+
+187
+00:07:54,160 --> 00:07:56,640
+所以必須要用一種機器
+This is all about commiting to one machine.
+
+188
+00:07:56,750 --> 00:07:58,480
+好吧  那就都買PS4
+Right, let's all get PS4s.
+
+189
+00:07:59,220 --> 00:08:00,630
+不  Xbox更棒
+No, the Xboxes are gonna be better.
+
+190
+00:08:00,630 --> 00:08:02,370
+它們才沒有更好  它們只是更貴罷了
+They're not better. They're just more expensive.
+
+191
+00:08:02,370 --> 00:08:04,850
+我們要買Xbox One
+We're getting Xbox Ones, guys.
+
+192
+00:08:04,850 --> 00:08:06,050
+而且這是最終決定
+And that is final.
+
+193
+00:08:06,060 --> 00:08:07,620
+Xbox玩家就是這樣的
+That's exectly how Xbox people are.
+
+194
+00:08:08,760 --> 00:08:09,490
+好吧
+Fine.
+
+195
+00:08:09,500 --> 00:08:10,690
+要是你們不愿意黑色星期五
+If you guys don't want to join us
+
+196
+00:08:10,700 --> 00:08:11,790
+跟我們一起去弄Xbox
+on Black Friday to get Xboxes,
+
+197
+00:08:11,800 --> 00:08:12,850
+那就算了
+then that's fine.
+
+198
+00:08:12,860 --> 00:08:14,270
+我們黑色星期五還是會去
+We're still gonna fight on Black Friday
+
+199
+00:08:14,270 --> 00:08:15,590
+只不過不是和你們
+just not with you.
+
+200
+00:08:18,180 --> 00:08:19,910
+看來非得如此了是吧
+Oh, it's going to be like that is it?
+
+201
+00:08:19,910 --> 00:08:22,380
+想要PS4的人  加入我們這邊
+Everyone who wants to get PS4s, join with us.
+
+202
+00:08:23,320 --> 00:08:25,220
+我們不能就這樣分裂
+No, we can't divide like this.
+
+203
+00:08:31,320 --> 00:08:34,040
+斯坦  你是我們這邊的  對嗎
+Stan, you're on our side, right?
+
+204
+00:08:35,590 --> 00:08:37,640
+我更喜歡PS4的手柄
+I like the PS4's controller better.
+
+205
+00:08:39,630 --> 00:08:42,160
+斯坦  PS4不能和Xbox One一樣
+Stan, the PS4 doesn't have the seamless transition
+
+206
+00:08:42,160 --> 00:08:44,370
+在游戲動畫和電視節目間無縫切換
+between games' movies and TV offered by Xbox One.
+
+207
+00:08:45,330 --> 00:08:47,970
+但PS4的手柄上有觸摸板啊
+The PS4 controller has a touchpad interface.
+
+208
+00:08:48,750 --> 00:08:49,860
+你從來都聽不進去
+You never listened.
+
+209
+00:08:50,120 --> 00:08:51,640
+我說過我覺得PS4更好
+I told you I thought the PS4 was better
+
+210
+00:08:51,640 --> 00:08:53,530
+但你從來不愿意聽我的  凱爾
+but you never wanted to listen to me, Kyle.
+
+211
+00:08:54,150 --> 00:08:56,100
+你太過想當然了
+You just had your head so set because...
+
+212
+00:08:57,620 --> 00:08:59,950
+因為Xbox玩家就是這樣的
+because that's how Xbox people are.
+
+213
+00:09:02,240 --> 00:09:04,130
+那我們只有在黑色星期五見了
+Then I guess I'll see you on Black Friday.
+
+214
+00:09:05,570 --> 00:09:07,260
+要是我在商場看到你了  凱爾
+If I see you at the mall,Kyle,
+
+215
+00:09:07,260 --> 00:09:09,410
+我到時候不會手下留情的
+I will have to try to beat you inside.
+
+216
+00:09:09,990 --> 00:09:10,780
+我知道
+I know.
+
+217
+00:09:11,990 --> 00:09:12,990
+走吧  凱爾
+Come on, kyle.
+
+218
+00:09:13,360 --> 00:09:14,180
+讓這些索尼玩家
+Let these sony fuckers
+
+219
+00:09:14,180 --> 00:09:16,150
+沉迷于語音控制都很次的游戲機里吧
+wallow in their limit voice control functionality.
+
+220
+00:09:25,440 --> 00:09:26,770
+圣誕節要來啦
+Christmas is coming.
+
+221
+00:09:26,780 --> 00:09:28,510
+鵝都變肥啦
+Goose is getting fat.
+
+222
+00:09:32,500 --> 00:09:33,910
+你在做什么
+What the hell are you doing?
+
+223
+00:09:33,910 --> 00:09:36,000
+莎朗  你起來了
+Hey, Sharon, you're up, huh?
+
+224
+00:09:36,070 --> 00:09:38,630
+我  好吧  聽著
+I -- uh, all right, look.
+
+225
+00:09:38,780 --> 00:09:40,590
+我在商場找了份兼職
+I took a temp job at the mall.
+
+226
+00:09:40,740 --> 00:09:42,940
+我只是想在節假日賺點外快
+I just wanted to make extra holiday cash.
+
+227
+00:09:43,050 --> 00:09:44,050
+扯淡
+Bubullshit.
+
+228
+00:09:44,960 --> 00:09:47,970
+莎朗  真的  我看到他們在招保安
+I did, Sharon. I saw they were hiring extra security.
+
+229
+00:09:47,970 --> 00:09:49,620
+我就想這是個賺外快的好方法了
+I thought it would be a good way to make money.
+
+230
+00:09:49,620 --> 00:09:51,440
+你這么做是為了在黑色星期五
+You're doing this to try in getting in front of the line
+
+231
+00:09:51,440 --> 00:09:53,140
+能夠排在前面  是吧
+on Black Friday, aren't you?
+
+232
+00:09:55,390 --> 00:09:57,400
+別人可沒這么認為  莎朗
+Nobody else has thought of it, Sharon.
+
+233
+00:09:57,400 --> 00:09:58,780
+當大門打開時
+I won't even be on the crowd,
+
+234
+00:09:58,780 --> 00:10:01,020
+我不會在人群中  我會在里面
+I'll be on the inside when the doors open.
+
+235
+00:10:01,140 --> 00:10:03,260
+當大家把翔都快擠出來的時候
+While everyone is trying to run over each other,
+
+236
+00:10:03,260 --> 00:10:05,620
+我會轉頭沖進商店里去
+I'll turn around and run right into the stores.
+
+237
+00:10:05,620 --> 00:10:08,010
+我會是第一個進去買東西的人
+I'll be the first to get whatever I want.
+
+238
+00:10:08,050 --> 00:10:08,870
+黑色星期五
+Isn't Black Friday
+
+239
+00:10:08,870 --> 00:10:11,510
+不是意味著為別人買東西的嗎
+supposed to be about buying things for other people?
+
+240
+00:10:11,940 --> 00:10:13,760
+凜冬將至  莎朗
+Winter's coming, Sharon.
+
+241
+00:10:13,790 --> 00:10:15,970
+而我是一只卑鄙的小蜜蜂
+And I'm a sneaky little bee.
+
+242
+00:10:22,260 --> 00:10:24,270
+艦長  推力是20%
+The thrust are at 20%, Captain.
+
+243
+00:10:24,270 --> 00:10:26,340
+接近  發射戰爭一號
+Engage and send War Factor One.
+
+244
+00:10:26,340 --> 00:10:29,400
+艦長  埃里克·卡特曼發來通訊請求
+Captain, we have an incoming facetime request by Eric Cartman.
+
+245
+00:10:29,400 --> 00:10:30,630
+切換到大屏幕上
+On screen.
+
+246
+00:10:30,830 --> 00:10:32,030
+伙計們  忙啥呢
+Hey guys, what's up?
+
+247
+00:10:32,030 --> 00:10:34,730
+沒什么  我們正要檢查一顆M級行星
+Nothing mate, we're just about to check out a class M planet
+
+248
+00:10:34,730 --> 00:10:36,610
+看看上面有沒有三鋰化物資源
+that might have new source of trilithium.
+
+249
+00:10:36,610 --> 00:10:38,210
+天吶  這些家伙太呆了
+God, these guys are such dorks.
+
+250
+00:10:38,210 --> 00:10:40,060
+問他們站在哪一邊
+Find out who they're loyal to.
+
+251
+00:10:40,070 --> 00:10:41,690
+生生不息  繁榮昌盛
+Yeah, live long and prosper.
+
+252
+00:10:41,690 --> 00:10:44,250
+伙計們  你們是Xbox玩家吧
+Listen, guys, you're Xbox people, right?
+
+253
+00:10:44,820 --> 00:10:46,590
+盡管Xbox的幀率弱爆了
+Even the Xbox sucks in framerate,
+
+254
+00:10:46,590 --> 00:10:47,760
+但我們還是只能說
+we have no choice but to declare
+
+255
+00:10:47,760 --> 00:10:50,040
+它們從技術上講最適合我們的星際艦隊
+they're most technologically fit for Star fleet.
+
+256
+00:10:50,040 --> 00:10:51,850
+天吶  他們太基佬了
+Oh my god. They're so gay.
+
+257
+00:10:51,850 --> 00:10:54,170
+太棒了  那我告訴你們
+Oh cool. What if I would tell you that
+
+258
+00:10:54,170 --> 00:10:55,710
+只要你們加入我們
+we have a way for you to join us
+
+259
+00:10:55,710 --> 00:10:58,050
+就可以超低價買到Xbox One
+and getting Xbox Ones super cheap?
+
+260
+00:10:58,050 --> 00:10:59,160
+便宜的Xbox One
+Cheap Xbox Ones?
+
+261
+00:10:59,160 --> 00:11:00,440
+真的嗎
+For real?
+
+262
+00:11:01,770 --> 00:11:03,800
+聯邦已經同意和我們并肩作戰
+The Federation has agreed to fight with us.
+
+263
+00:11:03,800 --> 00:11:04,930
+有了他們和幼兒園的那幫人
+With them and the kindergartners
+
+264
+00:11:04,930 --> 00:11:07,200
+我們的隊伍就有之前兩倍大了
+our army has just doubled in size.
+
+265
+00:11:08,930 --> 00:11:11,350
+你還是覺得你可以說服斯坦加入我們
+You still think you can convince Stan to come back to our side,
+
+266
+00:11:11,350 --> 00:11:12,700
+是嗎  凱爾爵士
+don't you, Sir Kyle?
+
+267
+00:11:13,360 --> 00:11:14,630
+我不知道
+I don't know.
+
+268
+00:11:15,230 --> 00:11:17,240
+你改變不了他的想法的  凱爾爵士
+You can't change his mind, Sir Kyle.
+
+269
+00:11:17,240 --> 00:11:19,200
+索尼玩家是沒有理性的
+Sony people don't think with logic.
+
+270
+00:11:19,200 --> 00:11:20,450
+他背叛了我們
+He betrayed us,
+
+271
+00:11:20,640 --> 00:11:22,020
+而現在我們必須通過建立強大的聯盟
+and now we must out Game of Thrones
+
+272
+00:11:22,020 --> 00:11:23,840
+來獲取這場權力的游戲的勝利
+by making powerful alliances.
+
+273
+00:11:23,840 --> 00:11:25,280
+別逼我開口
+Don't get me started.
+
+274
+00:11:25,280 --> 00:11:27,220
+我一直在追劇
+I keep watching that show, and I'm still waiting
+
+275
+00:11:27,220 --> 00:11:30,090
+一直在等那些龍出來發威
+for the damn dragons to show up and kick everyone's butt,
+
+276
+00:11:30,090 --> 00:11:32,280
+但我只等到了各種小雞雞
+but all I get is wiener, wiener, wiener.
+
+277
+00:11:32,280 --> 00:11:33,510
+也不全是基友的小雞雞
+It's not all gay wiener,
+
+278
+00:11:33,510 --> 00:11:35,180
+但只要出現了直男的小雞雞
+but when they do show a straight guy's wiener,
+
+279
+00:11:35,180 --> 00:11:36,440
+就全是又軟又小的
+it's all soft and floppy,
+
+280
+00:11:36,440 --> 00:11:38,540
+即使他媽的有個美女在面前
+even when we just god damn have a pretty girl.
+
+281
+00:11:38,540 --> 00:11:39,540
+到底為啥
+Why is that?
+
+282
+00:11:39,540 --> 00:11:41,520
+因為軟雞雞沒攻擊力啊
+Because the soft weiner isn't threatening.
+
+283
+00:11:41,520 --> 00:11:43,490
+就跟基友的雞雞一樣
+Just like a gay weiner.
+
+284
+00:11:46,380 --> 00:11:48,690
+巴特斯  你好像對雞雞有點癡狂
+Butters, you seem to be somewhat obsessed with wieners?
+
+285
+00:11:48,690 --> 00:11:50,070
+我對雞雞癡狂嘛
+I'm obsessed with weiners?
+
+286
+00:11:50,070 --> 00:11:51,530
+那對Xbox算啥
+What about Xbo?
+
+287
+00:11:51,530 --> 00:11:53,270
+別搗亂  巴特斯
+This isn't helping us, Butters.
+
+288
+00:11:53,270 --> 00:11:55,230
+索尼粉也許不是主要矛盾了
+The Sony people might not be our biggest problem.
+
+289
+00:11:55,230 --> 00:11:56,100
+為啥
+Why is that?
+
+290
+00:11:56,100 --> 00:11:59,210
+推特說圣誕將推出新的艾蒙玩偶
+Twitter says they are introducing a new Elmo doll this Christmas.
+
+291
+00:11:59,210 --> 00:12:00,810
+什么新的艾蒙玩偶
+What new Elmo doll?
+
+292
+00:12:00,890 --> 00:12:02,640
+節日里孩子們最想要什么禮物
+
+293
+00:12:03,080 --> 00:12:06,600
+佳節好禮品  隆重介紹別碰我艾蒙
+Just in time for the holidays, it's "Stop touching me Elmo"
+
+294
+00:12:06,780 --> 00:12:09,350
+當你按壓他的背部
+When you press his back,
+
+295
+00:12:09,350 --> 00:12:10,580
+艾蒙會把手放在你的膝蓋上說有趣的話
+Elmo puts his hand on your knee, says fun things.
+
+296
+00:12:10,580 --> 00:12:13,360
+你大腿內側被撓過癢癢嘛
+Have you ever been tickled on the inside?
+
+297
+00:12:13,820 --> 00:12:16,340
+寶貝  寶貝  你寂寞么
+Honey, honey, are you lonely?
+
+298
+00:12:16,690 --> 00:12:18,820
+我能看你尿尿嘛
+Can I watch you go potty?
+
+299
+00:12:19,280 --> 00:12:22,170
+你想親親給艾蒙配音的人嘛
+Do you want to kiss the guy who does Elmo's voice?
+
+300
+00:12:22,670 --> 00:12:24,180
+別碰我  艾蒙
+Stop touching me, Elmo.
+
+301
+00:12:24,180 --> 00:12:28,050
+艾蒙還能用牙膏擠擠樂陪孩子們刷牙
+Elmo also helps kids brush their teeth with his toothpaste dispenser.
+
+302
+00:12:30,200 --> 00:12:32,830
+千萬別錯過這個節日最熱禮品哦
+Don't miss out on this holiday season's biggest gift.
+
+303
+00:12:32,830 --> 00:12:34,270
+別碰我  艾蒙
+Stop touching me, Elmo.
+
+304
+00:12:34,270 --> 00:12:37,220
+黑色星期五在南方公園商場首發
+Available on Southpark mall starting Black Friday.
+
+305
+00:12:37,970 --> 00:12:38,850
+早啊  喬
+Morning, Joe.
+
+306
+00:12:38,850 --> 00:12:39,700
+早  馬庫斯  
+Marcus.
+
+307
+00:12:39,700 --> 00:12:40,620
+早安  蘭迪
+Morning, Randy.
+
+308
+00:12:40,620 --> 00:12:42,970
+這是什么鬼玩意
+What madness is this?
+
+309
+00:12:44,400 --> 00:12:45,780
+怎么了
+What is it, sir?
+
+310
+00:12:46,090 --> 00:12:47,910
+新品艾蒙玩偶
+A new Elmo doll.
+
+311
+00:12:47,950 --> 00:12:51,910
+他們在黑色星期五發行新的艾蒙玩偶
+They're releasing a new Elmo doll just in time for Black Friday.
+
+312
+00:12:51,910 --> 00:12:53,480
+天啊  不
+Oh, Christ, no.
+
+313
+00:12:53,770 --> 00:12:57,300
+這是謀殺啊  冷血禽獸
+You've murdered us, you soulless monsters.
+
+314
+00:12:57,300 --> 00:12:59,070
+簡直喪盡天良啊
+You've killed us all.
+
+315
+00:13:02,700 --> 00:13:05,500
+上帝啊  他們已經開始排隊了
+Oh, god, they're already lining up.
+
+316
+00:13:06,430 --> 00:13:09,350
+艾蒙
+Elmo.
+
+317
+00:13:09,350 --> 00:13:11,000
+不是吧  這么早就開始排隊
+No, they can't line up this soon.
+
+318
+00:13:11,000 --> 00:13:11,990
+簡直瘋了
+This is crazy.
+
+319
+00:13:11,990 --> 00:13:14,470
+我來對付這幫禽獸
+I'll deal with these demons.
+
+320
+00:13:16,360 --> 00:13:17,970
+如果你們是為黑色星期五折扣來的
+If you're here for Black Friday,
+
+321
+00:13:17,970 --> 00:13:20,620
+隊伍在繩子那邊
+the line starts on that side of the rope.
+
+322
+00:13:20,970 --> 00:13:22,110
+這根繩子嘛
+This rope right here?
+
+323
+00:13:22,110 --> 00:13:23,590
+這是黑色星期五的專用隊伍
+That's the line for Black Friday,
+
+324
+00:13:23,590 --> 00:13:26,090
+這樣其他人今天就能照常購物了
+so that other people can do normal shopping today.
+
+325
+00:13:26,100 --> 00:13:28,540
+黑色星期五隊伍
+
+326
+00:13:26,130 --> 00:13:27,450
+好的  謝了
+Okay, thanks.
+
+327
+00:13:29,540 --> 00:13:31,220
+艾蒙
+Elmo.
+
+328
+00:13:31,220 --> 00:13:33,520
+給我艾蒙
+Give me Elmo.
+
+329
+00:13:33,710 --> 00:13:35,630
+我們來尋求你們的幫助
+We come seeking your help.
+
+330
+00:13:35,660 --> 00:13:37,960
+你跟Xbox粉是一國的
+Do you side with those wanting Xboxes
+
+331
+00:13:37,960 --> 00:13:41,370
+還是想加入我們為PS4而戰
+or will you join us on Black Friday and fight for PS4s?
+
+332
+00:13:43,220 --> 00:13:44,560
+你是認真的嗎
+Are you for real?
+
+333
+00:13:44,560 --> 00:13:46,280
+你們心知肚明PS4是更好的選擇
+You know that ther PS4s are the better choice.
+
+334
+00:13:46,280 --> 00:13:47,310
+這不明擺著嘛
+I mean, come on.
+
+335
+00:13:47,310 --> 00:13:49,170
+我們當然選擇PS4
+Of course we're going with the PS4.
+
+336
+00:13:49,170 --> 00:13:50,260
+他們更黑一點
+They're blacker.
+
+337
+00:13:50,260 --> 00:13:51,380
+那就加入我們
+Then join us.
+
+338
+00:13:51,380 --> 00:13:54,440
+我們需要人手幫我們在前20名內沖進商場
+We need people to help us be the first 20 inside the mall.
+
+339
+00:13:54,550 --> 00:13:57,800
+我們要等PS4更便宜更多貨的時候
+We are just gonna wait until the PS4s to be more cheaper and more available.
+
+340
+00:13:57,800 --> 00:13:58,900
+不  你們不能那樣
+No. You can't do that.
+
+341
+00:13:58,900 --> 00:14:00,180
+你們不  不  不能那樣
+You ca--ca--can't do that.
+
+342
+00:14:00,180 --> 00:14:02,670
+你們不明白這不僅關乎黑色星期五嗎
+Don't you see that this is more than Black Friday?
+
+343
+00:14:02,670 --> 00:14:04,300
+戰線已被部署
+Battle lines are being drawn.
+
+344
+00:14:04,300 --> 00:14:08,000
+等到最后別人都選擇了Xbox
+If you wait it out but everyone else has already decided to go with Xbox, then
+
+345
+00:14:08,000 --> 00:14:09,660
+它就成了標準
+that will become the standard.
+
+346
+00:14:09,660 --> 00:14:12,700
+那PS4就跟Betamax敗給VHS一樣輸了
+The PS4 will be like Betamax was to VHS.
+
+347
+00:14:13,380 --> 00:14:14,610
+什么是Betamax
+What's Betamax?
+
+348
+00:14:14,610 --> 00:14:15,890
+就像這樣
+Exactly.
+
+349
+00:14:15,890 --> 00:14:17,440
+什么是VHS
+What's VHS?
+
+350
+00:14:18,850 --> 00:14:20,620
+聽著  我們只是想讓玩PS4的人
+Look, we are just asking people who want to play on
+
+351
+00:14:20,620 --> 00:14:23,840
+為他們的信仰而戰
+PS4s to fight for what they believe in.
+
+352
+00:14:24,480 --> 00:14:26,970
+抱歉  我們就是漠不關心
+Sorry, I guess we just don't care enough.
+
+353
+00:14:27,450 --> 00:14:28,500
+走吧  斯坦大人
+Come on, Sir Stan.
+
+354
+00:14:28,500 --> 00:14:30,610
+一定有其他孩子會加入我們的
+There must be kids somewhere who will join us.
+
+355
+00:14:36,430 --> 00:14:39,440
+麥考密克夫人  我想和你談談凱爾
+Lady McKormick I was hoping I can talk to you about Kyle.
+
+356
+00:14:39,680 --> 00:14:40,890
+怎么了  公爵大人
+Yeah. What is it, my Lord?
+
+357
+00:14:41,180 --> 00:14:43,420
+我不確定他心所向
+I'm not sure if his heart is in the right place.
+
+358
+00:14:43,420 --> 00:14:46,980
+如果他叛變的話
+If he were to ever switch sides,
+
+359
+00:14:47,020 --> 00:14:49,290
+斯坦軍就對我們造成了威脅
+it could make Stan's army problematic for us.
+
+360
+00:14:49,290 --> 00:14:50,930
+但凱爾只是無名小卒
+But Kyle isn't anything.
+
+361
+00:14:50,930 --> 00:14:52,420
+沒錯  但我們不能讓凱爾
+True, but we can't let Kyle come
+
+362
+00:14:52,420 --> 00:14:54,260
+阻擋我們的正義之路
+in the way of what's the right for the ours.
+
+363
+00:14:54,560 --> 00:14:56,170
+面對現實吧  麥考密克夫人
+Let's face it, Lady McKormick.
+
+364
+00:14:56,170 --> 00:14:58,750
+這其實就只關于你和我得到Xbox One
+This is really about you and me getting Xbox Ones.
+
+365
+00:14:58,750 --> 00:15:00,000
+其他人的存在只是為了
+The others are simply there to
+
+366
+00:15:00,000 --> 00:15:01,990
+幫我們進入那幾扇門罷了
+help us get inside those doors.
+
+367
+00:15:03,410 --> 00:15:04,640
+的確
+Yeah. That's right.
+
+368
+00:15:05,120 --> 00:15:06,270
+你對其他男人
+You have a strong influence over
+
+369
+00:15:06,270 --> 00:15:08,030
+影響甚大  麥考密克夫人
+the rest of the men, Lady McKormick.
+
+370
+00:15:08,860 --> 00:15:10,580
+當時機成熟
+All I'm saying is when the time comes,
+
+371
+00:15:10,580 --> 00:15:13,010
+我也許需要借用你的影響力
+I might need you to use that influence
+
+372
+00:15:13,010 --> 00:15:15,280
+來搞定凱爾
+to have Kyle taken care of.
+
+373
+00:15:16,160 --> 00:15:17,750
+我們達成共識了嗎
+Do we understand each other?
+
+374
+00:15:18,280 --> 00:15:19,460
+很好  我想是的
+Perfect. I think we do.
+
+375
+00:15:19,460 --> 00:15:23,270
+小屁孩  滾出我家后院
+Hey, you damn kids, get the hell out of my yard.
+
+376
+00:15:23,290 --> 00:15:25,120
+草泥馬  這是安得拉特斯的花園
+Fuck you, dude. This is the garden of Andrax.
+
+377
+00:15:25,120 --> 00:15:26,830
+這他媽是我家花園
+No, it's my damn garden.
+
+378
+00:15:26,830 --> 00:15:28,280
+我受夠了你們這幫小屁孩在這
+I'm sick of you kids dressing up and
+
+379
+00:15:28,280 --> 00:15:30,350
+過家家還探討背叛
+having talks of betrayal in it.
+
+380
+00:15:30,640 --> 00:15:33,360
+嗡嗡  嗡嗡  嗡嗡
+Buzz, buzz, buzz.
+
+381
+00:15:34,810 --> 00:15:36,240
+70英寸的電視
+70-inch television.
+
+382
+00:15:36,240 --> 00:15:40,080
+真不錯  但是兩折的電腦
+That would be good but 80% off a computer.
+
+383
+00:15:40,080 --> 00:15:41,580
+也許兩個都能到手
+Maybe I will be able to snack both.
+
+384
+00:15:41,580 --> 00:15:43,000
+你還好嗎
+Doing alright there?
+
+385
+00:15:43,070 --> 00:15:43,760
+很好  長官
+Yes, sir.
+
+386
+00:15:43,760 --> 00:15:44,910
+抱歉  我沒想嚇你
+Sorry. I didn't mean to scare you.
+
+387
+00:15:44,910 --> 00:15:46,340
+沒有  我只是在看這些
+No, I was just looking at
+
+388
+00:15:46,340 --> 00:15:48,460
+我買不起的東西
+all These great things I can't afford.
+
+389
+00:15:49,350 --> 00:15:53,650
+我知道你為什么找這個兼職
+Listen, I know why you took this part-time job.
+
+390
+00:15:54,130 --> 00:15:55,660
+是  是嗎
+You--You do?
+
+391
+00:15:55,850 --> 00:15:57,380
+我能從你身上看到
+I see it in you.
+
+392
+00:15:57,650 --> 00:15:59,310
+你關心他人
+You care about people.
+
+393
+00:15:59,650 --> 00:16:01,870
+我也是  所以我每年都在這
+Same reason I do it every year.
+
+394
+00:16:02,450 --> 00:16:04,170
+你讓我想起我兒子
+You remind me of my son.
+
+395
+00:16:04,840 --> 00:16:07,380
+他死于89年的黑色星期五
+He died on black Friday in '89.
+
+396
+00:16:07,490 --> 00:16:09,610
+大概我現在還想要救他
+Guess I'm still trying to save him.
+
+397
+00:16:10,480 --> 00:16:12,330
+我只是想說  我...
+Look, I just want to say I--
+
+398
+00:16:12,430 --> 00:16:14,360
+你這么做我非常感激
+I really appreciate what you're doing.
+
+399
+00:16:14,880 --> 00:16:15,990
+我答應我老婆  
+I promised my wife
+
+400
+00:16:15,990 --> 00:16:18,650
+這會是我最后一次在黑色星期五工作
+this would be the last black Friday I worked.
+
+401
+00:16:19,030 --> 00:16:20,990
+當我看到你這樣的人
+When I see folks like you,
+
+402
+00:16:21,270 --> 00:16:23,940
+讓我對人類的未來充滿希望
+it makes me hopeful that people will still be okay.
+
+403
+00:16:24,660 --> 00:16:26,860
+是  很好
+Yeah, awesome.
+
+404
+00:16:27,070 --> 00:16:29,810
+媽的  不準在天鵝絨繩后面排隊
+Aw, damn it, no lining up behind the velvet rope.
+
+405
+00:16:29,810 --> 00:16:31,700
+他們就是不聽
+They just don't listen.
+
+406
+00:16:42,900 --> 00:16:45,070
+卡特曼的軍隊日漸強大
+Cartman's army is getting bigger every day.
+
+407
+00:16:45,070 --> 00:16:47,220
+除了同盟孩子和幼兒園孩子
+In addition to the federation and the kindergartners,
+
+408
+00:16:47,220 --> 00:16:49,900
+Xbox軍隊現在還擁有玩哈利·波特的孩子
+the Xbox army now also has the kids who play Harry Potter,
+
+409
+00:16:49,900 --> 00:16:52,740
+運動員  游泳隊以及合唱團
+the jocks, the swim team, and the glee club.
+
+410
+00:16:52,860 --> 00:16:55,420
+有消息稱六年級學生也都喜歡Xbox
+Word is that the sixth graders all prefer Xbox too,
+
+411
+00:16:55,420 --> 00:16:57,120
+他們也會跟卡特曼組隊
+and will team up with Cartman as well.
+
+412
+00:16:57,120 --> 00:16:58,760
+那我們這邊都有誰
+And who do we have on our side?
+
+413
+00:16:58,910 --> 00:17:01,560
+除了我們  還有讀書會和賈妮思·平克頓
+Besides us, it's the book club and Janice Pinkerton.
+
+414
+00:17:02,230 --> 00:17:03,530
+你有問過吸血鬼小子們嗎
+Did you ask the vamp kids?
+
+415
+00:17:03,530 --> 00:17:05,270
+他們一直沒定
+They're still undecided.
+
+416
+00:17:06,240 --> 00:17:09,060
+一定有辦法讓中立的人加入我們這邊
+There has to be a way to get people on the fence to join our side.
+
+417
+00:17:09,710 --> 00:17:11,150
+PS
+Playstation.
+
+418
+00:17:11,850 --> 00:17:14,850
+斯坦大人  或許該放棄了
+Look, Sir Stan, it's probably time to give this up.
+
+419
+00:17:14,850 --> 00:17:16,690
+我們是將要滅亡的一代  斯坦
+We're just a dying breed, Stan.
+
+420
+00:17:16,690 --> 00:17:18,900
+Xbox將會全盤通吃
+Xbox is going to win this whole thing.
+
+421
+00:17:18,900 --> 00:17:20,020
+那我們就放任其他孩子決定
+So we're just going to let other kids decide
+
+422
+00:17:20,020 --> 00:17:22,140
+我們用什么系統玩游戲嗎
+which game system we all play on?
+
+423
+00:17:23,550 --> 00:17:25,590
+《權力的游戲》中會怎么做
+What would they do on Game of Thrones?
+
+424
+00:17:26,150 --> 00:17:28,670
+事情到了最黑暗的境地  他們會怎么做
+What would they do when things look their darkest?
+
+425
+00:17:42,090 --> 00:17:43,590
+[日語]
+
+426
+00:17:43,840 --> 00:17:45,260
+很抱歉打擾您  先生
+Sorry, to disturb you, sir,
+
+427
+00:17:45,260 --> 00:17:47,690
+但我們覺得你該看看這個
+but we thought you should see this.
+
+428
+00:17:54,360 --> 00:17:56,920
+"凜冬將至"
+"Winter is coming.
+
+429
+00:17:57,300 --> 00:17:59,880
+"選好隊伍"
+Choose side."
+
+430
+00:17:59,910 --> 00:18:01,000
+神馬玩意
+
+431
+00:18:01,000 --> 00:18:03,150
+只是美國中部的一個小鎮
+Just a small town in middle America,
+
+432
+00:18:03,150 --> 00:18:05,940
+但很明顯一場戰爭在不斷升級
+but apparently a war's escalating.
+
+433
+00:18:05,940 --> 00:18:07,900
+先生  如果這成為了新聞報道
+Sir, if this were to become a news story,
+
+434
+00:18:07,900 --> 00:18:12,060
+而第一批進入商場的人都拿了Xbox
+and if the first people inside that mall all got Xboxes,
+
+435
+00:18:12,330 --> 00:18:14,700
+會有損我們的企業形象
+It clearly looks bad for our image.
+
+436
+00:18:16,300 --> 00:18:19,220
+這樣哦
+
+437
+00:18:20,570 --> 00:18:22,230
+這個黑色星期五
+What's going to be the big item
+
+438
+00:18:22,230 --> 00:18:24,280
+人人勢在必得的大商品是什么
+every one goes for this black Friday?
+
+439
+00:18:24,280 --> 00:18:27,310
+很可能是PS4
+It just might be the Playstation 4.
+
+440
+00:18:27,310 --> 00:18:29,110
+索尼剛剛宣稱他們將提供
+Sony has just announced they're offering
+
+441
+00:18:29,110 --> 00:18:31,380
+一個黑色星期五特別禮包
+a special black Friday bundle
+
+442
+00:18:31,380 --> 00:18:34,020
+叫做"黑澀星期五俚包"
+called the "brack Friday bunduru",
+
+443
+00:18:34,020 --> 00:18:36,120
+其中將包括四個控制柄
+which will include four controllers,
+
+444
+00:18:36,120 --> 00:18:38,430
+一幅日本地圖  100美元回扣
+a map of Japan, $100 rebate,
+
+445
+00:18:38,430 --> 00:18:43,320
+并且允許你自動提前預定《合金裝備5》
+and allow you to automatically preorder for Metal Gear Solid V.
+
+446
+00:18:43,320 --> 00:18:46,800
+毫無疑問索尼已經提高了籌碼
+No doubt Sony has just raised the stakes.
+
+447
+00:18:48,000 --> 00:18:49,480
+對  很好  同盟的孩子們
+Yes. Good, federation kids.
+
+448
+00:18:49,480 --> 00:18:50,890
+你們在學習赤手搏斗
+You're learning to fight with your hands.
+
+449
+00:18:50,890 --> 00:18:52,680
+繼續努力  幼兒園孩子們
+Keep pushing, kindergartners.
+
+450
+00:18:54,840 --> 00:18:56,080
+凱爾爵士  
+Sir Kyle,
+
+451
+00:18:56,080 --> 00:18:59,170
+我知道索尼提供了黑色星期五俚包
+I know that Sony's offering a special black Friday bunduru.
+
+452
+00:18:59,170 --> 00:19:01,670
+你清楚Xbox依然更好  對吧
+You know the Xbox is still better, right?
+
+453
+00:19:01,670 --> 00:19:03,070
+對  但是Xbox為什么
+Yeah, but why can't Xbox
+
+454
+00:19:03,070 --> 00:19:05,830
+不能讓你自動提前預定《合金裝備5》
+automatically let you preorder Metal Gear Solid V?
+
+455
+00:19:05,830 --> 00:19:08,800
+凱爾爵士  提前預定毛都不能代表  好嗎
+Sir kyle, preorder doesn't mean shit, okay?
+
+456
+00:19:08,920 --> 00:19:10,080
+你提前預定一個游戲
+When you preorder a game,
+
+457
+00:19:10,080 --> 00:19:11,580
+就等于你提前付錢給
+you're just committing to paying for something
+
+458
+00:19:11,580 --> 00:19:12,860
+那些加州的混蛋們
+that some assholes in California
+
+459
+00:19:12,860 --> 00:19:14,520
+還沒有完工的項目
+haven't even finished working on yet.
+
+460
+00:19:14,730 --> 00:19:16,220
+知道提前預定游戲得到的是什么嗎
+You know what you get for preordering a game?
+
+461
+00:19:16,220 --> 00:19:17,710
+往嘴里塞個大雞巴
+A big dick in your mouth.
+
+462
+00:19:17,910 --> 00:19:19,330
+黑色星期五  11月29日  南方公園商場
+
+463
+00:19:22,100 --> 00:19:23,600
+好了  聽著
+All right, listen up.
+
+464
+00:19:23,710 --> 00:19:25,560
+商場不再允許人們
+The mall's no longer allowing people
+
+465
+00:19:25,560 --> 00:19:29,170
+在感恩節之前為黑色星期五排隊
+to line up for black Friday until Thanksgiving night.
+
+466
+00:19:30,780 --> 00:19:32,060
+沒有關系
+It's okay.
+
+467
+00:19:32,260 --> 00:19:35,720
+為保持先后次序  我們會發放手環
+To hold places in line, we're handing out wristbands.
+
+468
+00:19:36,380 --> 00:19:38,570
+天哪  天哪
+Ahh! Oh, god! Oh, my god!
+
+469
+00:19:38,570 --> 00:19:41,000
+搶手環
+Wristbands!
+
+470
+00:19:41,000 --> 00:19:43,070
+閃開  全都閃開
+Back! Back all of you!
+
+471
+00:19:43,980 --> 00:19:46,500
+如果你們這幅德行  手環也不要發了
+If that's how you are, there'll be no wristbands.
+
+472
+00:19:46,500 --> 00:19:47,730
+都走吧
+Now go!
+
+473
+00:19:47,730 --> 00:19:49,100
+閃開
+Back away.
+
+474
+00:19:50,180 --> 00:19:52,890
+我要給我兒子搶個埃爾莫娃娃  你這混蛋
+I'm getting my son that Elmo doll, you fuck!
+
+475
+00:19:54,880 --> 00:19:56,140
+不
+No.
+
+476
+00:19:59,080 --> 00:20:00,490
+你做的很好
+You did good.
+
+477
+00:20:01,350 --> 00:20:03,330
+重任就交給你了
+The watch is yours now.
+
+478
+00:20:03,720 --> 00:20:06,240
+不  你不能死
+No. You can't die.
+
+479
+00:20:06,520 --> 00:20:08,490
+所有人都很喜歡你
+Everybody really likes you.
+
+480
+00:20:08,710 --> 00:20:11,170
+這是我們的使命
+This is what we signed up for.
+
+481
+00:20:11,510 --> 00:20:13,090
+是吧  我的朋友
+Right, my friend?
+
+482
+00:20:13,550 --> 00:20:15,430
+不  我騙了你
+No, I was lying to you.
+
+483
+00:20:15,560 --> 00:20:19,970
+我做這份工作是為了在黑色星期五搶占前排
+I took this job to be at the front of the line on black Friday.
+
+484
+00:20:21,550 --> 00:20:24,240
+現在你知道事情的嚴重性了
+Now you know how serious this is.
+
+485
+00:20:25,330 --> 00:20:28,800
+不管你最初的意圖是什么  保護這個小鎮
+Whatever your intentions before, protect this town.
+
+486
+00:20:29,190 --> 00:20:31,820
+現在你是頭
+You are in charge now.
+
+487
+00:20:32,160 --> 00:20:33,500
+拿著這個
+Take this.
+
+488
+00:20:35,610 --> 00:20:40,480
+別讓黑色星期五成為末日
+Don't let black Friday be the end.
+
+489
+00:20:57,990 --> 00:21:01,630
+都進去  我們有工作要做
+Get back inside. We have work to do.
+
+490
+00:21:08,400 --> 00:21:10,410
+我們發起這場戰爭
+When we started this fight,
+
+491
+00:21:10,510 --> 00:21:11,800
+是因為而我們受夠了
+it was because we were tired of
+
+492
+00:21:11,800 --> 00:21:14,560
+玩Xbox的人跟我們說PS遜斃了
+Xbox people telling us playstation sucked.
+
+493
+00:21:15,270 --> 00:21:18,150
+現在我們為自己戰斗
+Now we're an army of our own.
+
+494
+00:21:22,460 --> 00:21:24,680
+我無法保證你們能活著回來
+I can't guarantee you will live,
+
+495
+00:21:24,830 --> 00:21:27,190
+但我可以保證在一切結束之前
+but I can guarantee that before this is over,
+
+496
+00:21:27,470 --> 00:21:30,680
+游戲機之戰的勝者將會見分曉
+the winner of the console wars will be decided.
+
+497
+00:21:33,030 --> 00:21:34,860
+我們新任的領導者加入我們
+Our new leader has joined us
+
+498
+00:21:34,860 --> 00:21:38,030
+以確保那個贏家是PS4
+to help make sure that system is the PS4.
+
+499
+00:21:39,110 --> 00:21:41,510
+參見公主殿下
+All hail the princess!
+
+500
+00:21:45,170 --> 00:21:48,850
+公主殿下
+The princess.
+

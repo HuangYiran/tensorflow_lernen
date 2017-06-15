@@ -1,0 +1,684 @@
+﻿[Script Info]
+;本字幕文件用 SrtEdit MPC播放版 Version 5.2 编辑制作
+;Unicode SrtEdit Copyright(C) 2005-2009 袁卫国
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 0
+PlayResY: 0
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,heiTi,18,&H00FF8000,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,5,5,5,134
+Style: asEng,Times New Roman,13,&H003CF1F3,&H0000FFFF,&H00000000,&H80000000,0,0,0,0,100,100,0,0,1,2,3,2,20,20,1,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:17.49,0:00:26.92,Default,,0000,0000,0000,,公元870年,英格兰\N维京之王巴塞格带领他日渐衰落的军队 对抗日益强大的撒克逊抵抗军
+Dialogue: 0,0:00:29.03,0:00:37.00,Default,,0000,0000,0000,,各个独立的维京部队与撒克逊人之间的暴力冲突\N使得英格兰中部地区变成极为危险的地带
+Dialogue: 0,0:00:38.87,0:00:51.57,Default,,0000,0000,0000,,在维京人对英国的控制开始动摇之际 巴塞格国王从海外召来援军\N在这支援军当中最先抵达的 是他最年轻的儿子—斯坦纳王子
+Dialogue: 0,0:00:56.61,0:01:02.04,Default,,0000,0000,0000,,公元871年
+Dialogue: 0,0:03:37.00,0:03:41.10,Default,,0000,0000,0000,,“格里姆”\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Yeah!
+Dialogue: 0,0:03:49.30,0:03:52.77,Default,,0000,0000,0000,,“贾库尔”
+Dialogue: 0,0:04:11.27,0:04:14.27,Default,,0000,0000,0000,,“海根”
+Dialogue: 0,0:04:34.27,0:04:36.27,Default,,0000,0000,0000,,“斯坦纳”
+Dialogue: 0,0:04:46.12,0:04:48.16,Default,,0000,0000,0000,,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Steinar...
+Dialogue: 0,0:04:48.16,0:04:50.32,Default,,0000,0000,0000,,你说的没错\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You were right.
+Dialogue: 0,0:04:52.03,0:04:53.96,Default,,0000,0000,0000,,他们确实有脑子哩\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Some of them do have brains.
+Dialogue: 0,0:04:53.96,0:04:56.50,Default,,0000,0000,0000,,比你更有脑子,你这操蛋的禽兽\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}More than can be said for you, you fucking animal.
+Dialogue: 0,0:05:01.37,0:05:03.57,Default,,0000,0000,0000,,这么快就能血刃敌人,真是太好了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Good that we wet our blades so quickly.
+Dialogue: 0,0:05:03.57,0:05:05.57,Default,,0000,0000,0000,,他们只是几个农民而已\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}They were just farmers.
+Dialogue: 0,0:05:07.88,0:05:09.88,Default,,0000,0000,0000,,那就让他们下地狱去耕田吧\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Well,now they're farming in Hell.
+Dialogue: 0,0:05:12.48,0:05:15.25,Default,,0000,0000,0000,,入夜之后,我们其他的船就能上岸了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}The rest of our boats will be in by nightfall.
+Dialogue: 0,0:05:16.58,0:05:18.59,Default,,0000,0000,0000,,把马匹带上来\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Bring up the horses.
+Dialogue: 0,0:05:18.59,0:05:20.59,Default,,0000,0000,0000,,哈夫丹他们上岸后,就可以跟过来了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Halfdan can follow once they've landed.
+Dialogue: 0,0:05:22.99,0:05:25.06,Default,,0000,0000,0000,,父王可没多少耐心\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}My father's not a patient man.
+Dialogue: 0,0:05:28.10,0:05:30.40,Default,,0000,0000,0000,,格里姆、贾库尔\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Grim,Jokul.
+Dialogue: 0,0:06:01.03,0:06:03.36,Default,,0000,0000,0000,,如果他是个撒克逊人,肯定会被吓一大跳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}If he's a Saxon,he's gonna have a fuck of a surprise
+Dialogue: 0,0:06:03.37,0:06:05.47,Default,,0000,0000,0000,,那不是撒克逊人\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- when he rides into us. - That's no Saxon.
+Dialogue: 0,0:06:11.64,0:06:13.87,Default,,0000,0000,0000,,居然只派一个人来迎接我们\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}So this is our welcome.
+Dialogue: 0,0:06:17.55,0:06:20.45,Default,,0000,0000,0000,,瓦里,出什么事了？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Vali,what's happened？
+Dialogue: 0,0:06:22.12,0:06:24.52,Default,,0000,0000,0000,,天兆说,如果我们早点发起进攻,就能获得胜利\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}The omens promised victory if we attacked early.
+Dialogue: 0,0:06:24.52,0:06:26.59,Default,,0000,0000,0000,,但是诸神没让我们如愿以偿\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}The Gods were against us.
+Dialogue: 0,0:06:26.59,0:06:28.62,Default,,0000,0000,0000,,你父王伤得很重,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Your father's badly wounded,Steinar.
+Dialogue: 0,0:06:33.93,0:06:35.53,Default,,0000,0000,0000,,带我去见他\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Take me to him.
+Dialogue: 0,0:07:49.07,0:07:50.47,Default,,0000,0000,0000,,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Steinar.
+Dialogue: 0,0:07:52.41,0:07:54.64,Default,,0000,0000,0000,,迟到总比不到的好\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Better late than never.
+Dialogue: 0,0:07:54.64,0:07:56.68,Default,,0000,0000,0000,,我说话从来都是算数的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I came when I said I would.
+Dialogue: 0,0:07:58.11,0:08:00.01,Default,,0000,0000,0000,,这就是你带来的军队？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}And this is the army you brought with you？
+Dialogue: 0,0:08:03.65,0:08:06.29,Default,,0000,0000,0000,,天一亮,我们就喂他喝点稀粥\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He was fed Gruel at first light.
+Dialogue: 0,0:08:06.29,0:08:09.29,Default,,0000,0000,0000,,现在都可以闻到从他胃里飘出来的洋葱味了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}The onions can already be smelled through his stomach.
+Dialogue: 0,0:08:09.29,0:08:12.16,Default,,0000,0000,0000,,如果他的内脏被刺穿,我们也就无能为力了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}If his guts are pierced, there's nothing more we can do.
+Dialogue: 0,0:08:12.16,0:08:13.69,Default,,0000,0000,0000,,他还能活多久？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}How long？
+Dialogue: 0,0:08:13.70,0:08:16.46,Default,,0000,0000,0000,,最多一周\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}A week,maybe less.
+Dialogue: 0,0:08:18.07,0:08:20.57,Default,,0000,0000,0000,,听着,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Listen,Steinar,
+Dialogue: 0,0:08:20.57,0:08:23.77,Default,,0000,0000,0000,,我知道我们一直看对方不顺眼\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I know we haven't always seen eye to eye,
+Dialogue: 0,0:08:23.77,0:08:25.77,Default,,0000,0000,0000,,不过我们毕竟是手足兄弟\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}but we're still brothers after all
+Dialogue: 0,0:08:25.77,0:08:27.77,Default,,0000,0000,0000,,如果我当上国王\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}and I want you to know that when I'm King
+Dialogue: 0,0:08:27.78,0:08:30.64,Default,,0000,0000,0000,,我一定会照顾好你的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I'll make sure you're taken care of.
+Dialogue: 0,0:08:58.21,0:09:02.04,Default,,0000,0000,0000,,天兆…欺骗了我们,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}The omens deceived us,Steinar.
+Dialogue: 0,0:09:03.81,0:09:06.75,Default,,0000,0000,0000,,过多几个小时,一支500人的军队就要到了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}An army of 500 are only hours behind me.
+Dialogue: 0,0:09:07.75,0:09:10.52,Default,,0000,0000,0000,,我们打仗的这一切理由……\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}All this talk of reason...
+Dialogue: 0,0:09:12.35,0:09:14.79,Default,,0000,0000,0000,,听起来就像在掩饰自己的软弱\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}sounds like a cover-up for weakness.
+Dialogue: 0,0:09:14.79,0:09:17.82,Default,,0000,0000,0000,,我们来到这里,因为我们别无选择\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We lie here because we have no choice.
+Dialogue: 0,0:09:17.83,0:09:19.83,Default,,0000,0000,0000,,我们需要土地！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We need land!
+Dialogue: 0,0:09:19.83,0:09:21.80,Default,,0000,0000,0000,,要么占领土地\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We either take it
+Dialogue: 0,0:09:21.80,0:09:23.73,Default,,0000,0000,0000,,要么面临灭亡\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}or our people perish.
+Dialogue: 0,0:09:23.73,0:09:25.63,Default,,0000,0000,0000,,父王,这场仗我们虽然输了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We may have lost the battle,father,
+Dialogue: 0,0:09:25.63,0:09:27.27,Default,,0000,0000,0000,,但我们仍然可以赢得这场战争\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}but we can still win the war.
+Dialogue: 0,0:09:27.27,0:09:30.27,Default,,0000,0000,0000,,谁来领军打仗呢？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}And who'll lead them？
+Dialogue: 0,0:09:30.27,0:09:32.67,Default,,0000,0000,0000,,你？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You？
+Dialogue: 0,0:09:32.67,0:09:36.84,Default,,0000,0000,0000,,看你这身纨绔子弟的打扮,行吗？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}In all your fucking finery？
+Dialogue: 0,0:09:42.82,0:09:46.32,Default,,0000,0000,0000,,我来领军,父王\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I will lead our army,father.
+Dialogue: 0,0:09:46.32,0:09:48.66,Default,,0000,0000,0000,,你比他更合适\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You're no more fit than he is.
+Dialogue: 0,0:09:48.66,0:09:53.16,Default,,0000,0000,0000,,也许以前合适\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Once,maybe.
+Dialogue: 0,0:09:53.16,0:09:55.73,Default,,0000,0000,0000,,但在你母亲去世之后……\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}But after your mother left...
+Dialogue: 0,0:09:57.80,0:09:59.83,Default,,0000,0000,0000,,你变了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}you changed,
+Dialogue: 0,0:09:59.84,0:10:02.24,Default,,0000,0000,0000,,违背了众神\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}turned your back on the Gods.
+Dialogue: 0,0:10:02.24,0:10:04.44,Default,,0000,0000,0000,,你以为了解自己的能力？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Thought you knew better,huh？
+Dialogue: 0,0:10:04.44,0:10:06.71,Default,,0000,0000,0000,,我的能力足于胜任一国之君了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I am strong enough to be King.
+Dialogue: 0,0:10:13.65,0:10:15.88,Default,,0000,0000,0000,,那就用行动来证明一下\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Then prove it.
+Dialogue: 0,0:10:15.88,0:10:17.72,Default,,0000,0000,0000,,你那同父异母的弟弟\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Your half brother--
+Dialogue: 0,0:10:17.72,0:10:20.69,Default,,0000,0000,0000,,我的私生子\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}my bastard son--
+Dialogue: 0,0:10:20.69,0:10:23.52,Default,,0000,0000,0000,,拒绝上战场\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}refused to enter the field of battle.
+Dialogue: 0,0:10:23.53,0:10:26.69,Default,,0000,0000,0000,,这是因为我要他发誓,等我回来再上战场的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I made him swear an oath to wait till I returned.
+Dialogue: 0,0:10:26.70,0:10:30.16,Default,,0000,0000,0000,,你也清楚那些不愿意打仗的人,会遭受什么样的惩罚\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You know the punishment for those that turn their back in combat.
+Dialogue: 0,0:10:30.17,0:10:31.70,Default,,0000,0000,0000,,你来动手吧\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}See it's done.
+Dialogue: 0,0:10:54.76,0:10:56.56,Default,,0000,0000,0000,,我来下手,父王\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I will do it,father.
+Dialogue: 0,0:10:56.56,0:10:59.56,Default,,0000,0000,0000,,别碰他,哈拉德 别碰他！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Leave him,Harald. Leave him!
+Dialogue: 0,0:10:59.56,0:11:02.63,Default,,0000,0000,0000,,给我出去！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Get out,now!
+Dialogue: 0,0:11:12.64,0:11:14.84,Default,,0000,0000,0000,,你留下,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Not you,Steinar.
+Dialogue: 0,0:11:21.65,0:11:25.65,Default,,0000,0000,0000,,有一个人配得上这个王位\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}There's a man worthy of this crown,
+Dialogue: 0,0:11:25.65,0:11:28.52,Default,,0000,0000,0000,,一个心中燃烧着烈火的人\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}a man with fire in his heart,
+Dialogue: 0,0:11:28.52,0:11:32.66,Default,,0000,0000,0000,,勇于挥舞诸神之锤的人\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}brave enough to wield the Hammer of the Gods--
+Dialogue: 0,0:11:35.73,0:11:38.57,Default,,0000,0000,0000,,我的大儿子\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}my firstborn.
+Dialogue: 0,0:11:38.57,0:11:41.20,Default,,0000,0000,0000,,你以前说过,谁敢提起他的名字就杀了谁\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You said you'd kill anyone who mentioned his name.
+Dialogue: 0,0:11:42.70,0:11:44.47,Default,,0000,0000,0000,,时代变了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}The time has passed.
+Dialogue: 0,0:11:46.27,0:11:47.87,Default,,0000,0000,0000,,谁也不知道他身在何处\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Nobody knows where he is.
+Dialogue: 0,0:11:47.88,0:11:49.71,Default,,0000,0000,0000,,他失踪了好几年\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He hasn't been seen for years.
+Dialogue: 0,0:11:51.38,0:11:53.28,Default,,0000,0000,0000,,去找到你哥哥\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Find your brother.
+Dialogue: 0,0:11:53.28,0:11:55.58,Default,,0000,0000,0000,,找到哈坎\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Find Hakan.
+Dialogue: 0,0:11:55.58,0:11:58.99,Default,,0000,0000,0000,,让他回来当国王,带领我们取得胜利\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Return with a King who will lead us to victory.
+Dialogue: 0,0:11:58.99,0:12:00.49,Default,,0000,0000,0000,,这里需要我的指挥\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I am needed here.
+Dialogue: 0,0:12:00.49,0:12:02.66,Default,,0000,0000,0000,,我可能一只脚踏进了鬼门关\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I may be dying,
+Dialogue: 0,0:12:02.66,0:12:04.36,Default,,0000,0000,0000,,但我还是你的父王\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}but I'm still your King.
+Dialogue: 0,0:12:04.36,0:12:06.36,Default,,0000,0000,0000,,再顶嘴一句\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Defy me again,
+Dialogue: 0,0:12:06.36,0:12:09.93,Default,,0000,0000,0000,,我就亲手把你的心挖出来\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}and I will cut your heart out myself.
+Dialogue: 0,0:12:09.93,0:12:12.73,Default,,0000,0000,0000,,现在发誓\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Now swear
+Dialogue: 0,0:12:12.73,0:12:16.34,Default,,0000,0000,0000,,以你母亲的记忆起誓\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}on the memory of your mother.
+Dialogue: 0,0:12:22.44,0:12:24.44,Default,,0000,0000,0000,,我发誓\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I swear.
+Dialogue: 0,0:12:29.68,0:12:31.95,Default,,0000,0000,0000,,你他妈是疯了吗\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You're out of your fucking mind.
+Dialogue: 0,0:12:31.95,0:12:34.82,Default,,0000,0000,0000,,- 我发过誓了 - 誓言什么的都是狗屁,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- I swore an oath. - Oaths are horseshit,Steinar.
+Dialogue: 0,0:12:34.82,0:12:37.82,Default,,0000,0000,0000,,我必须遵守对他的承诺\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I gave him my word. I will not break it.
+Dialogue: 0,0:12:37.83,0:12:40.66,Default,,0000,0000,0000,,哈坎现在肯定死了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Hakan is almost certain to be dead by now.
+Dialogue: 0,0:12:40.66,0:12:43.40,Default,,0000,0000,0000,,就算他没死,在他被驱逐之前,就是一个神经病了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}And if he's not,he was fucking insane before he was banished;
+Dialogue: 0,0:12:43.40,0:12:45.27,Default,,0000,0000,0000,,现在肯定更加无可救药了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}he'll only be more so now.
+Dialogue: 0,0:12:46.70,0:12:49.67,Default,,0000,0000,0000,,反正谁也不知道这鸟人在哪里\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Anyway,who knows where the fuck he is？
+Dialogue: 0,0:12:52.81,0:12:54.77,Default,,0000,0000,0000,,- 你知道 - 这太危险了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- You do. - It's too dangerous.
+Dialogue: 0,0:12:54.78,0:12:57.44,Default,,0000,0000,0000,,危险？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Dangerous,is it？
+Dialogue: 0,0:12:57.45,0:13:00.35,Default,,0000,0000,0000,,那你肯定知道他在哪里\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Then you must know where he is.
+Dialogue: 0,0:13:02.52,0:13:05.65,Default,,0000,0000,0000,,听着,假设我知道\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Listen, say I do know--
+Dialogue: 0,0:13:05.65,0:13:08.05,Default,,0000,0000,0000,,其实我并不知道,但我假设我知道\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}which I don't, but say I did--
+Dialogue: 0,0:13:08.06,0:13:10.56,Default,,0000,0000,0000,,你肯打保票他肯回来？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}what makes you think he'd come back？
+Dialogue: 0,0:13:10.56,0:13:12.63,Default,,0000,0000,0000,,那是父王的遗终愿望\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}It's the King's wish.
+Dialogue: 0,0:13:12.63,0:13:15.63,Default,,0000,0000,0000,,不出一个星期国王就死翘翘了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}The King will be dead in a week.
+Dialogue: 0,0:13:18.30,0:13:22.00,Default,,0000,0000,0000,,你慢慢等着就是了,在他死的时候别走太远\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Bide your time. Be close at hand when he dies.
+Dialogue: 0,0:13:22.00,0:13:24.57,Default,,0000,0000,0000,,等时机一到,就自立为王\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}And when the moment's right, you take the crown for yourself.
+Dialogue: 0,0:13:26.61,0:13:28.31,Default,,0000,0000,0000,,我们都支持你对付哈拉德\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We'd all back you against Harald.
+Dialogue: 0,0:13:35.62,0:13:37.32,Default,,0000,0000,0000,,好好权衡一下吧\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Think about it.
+Dialogue: 0,0:14:15.52,0:14:18.59,Default,,0000,0000,0000,,我之前说不知道哈坎在哪里,这是实话\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}When I said I didn't know where Hakan was, I spoke the truth.
+Dialogue: 0,0:14:21.03,0:14:24.46,Default,,0000,0000,0000,,但我知道最近一个见过他的人在哪里\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}But I do know how to find the last man who saw him.
+Dialogue: 0,0:14:24.47,0:14:27.53,Default,,0000,0000,0000,,不过他肯不肯告诉我们就不知道了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Whether he's capable of helping us remains to be seen.
+Dialogue: 0,0:14:55.56,0:14:58.03,Default,,0000,0000,0000,,- 要出门？ - 不关你的事,格里姆\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- Going somewhere？ - It doesn't concern you,grim.
+Dialogue: 0,0:14:58.03,0:15:00.10,Default,,0000,0000,0000,,让我们过去\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Let us pass.
+Dialogue: 0,0:15:00.10,0:15:02.57,Default,,0000,0000,0000,,- 休想 - 如果你知道我们要去哪的话…\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- Like fuck. - You'd think differently
+Dialogue: 0,0:15:02.57,0:15:04.47,Default,,0000,0000,0000,,肯定会改变主意的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}if you knew where we were going.
+Dialogue: 0,0:15:04.47,0:15:06.47,Default,,0000,0000,0000,,我们要去黑山\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We're heading for the black mountains
+Dialogue: 0,0:15:06.47,0:15:08.41,Default,,0000,0000,0000,,寻找“无骨者”艾瓦尔 （注：艾瓦尔是一位维京领袖,“无骨者”是他的外号）\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}in search of Ivar the boneless.
+Dialogue: 0,0:15:08.41,0:15:10.84,Default,,0000,0000,0000,,那只老肥猪？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}That fat fuck？
+Dialogue: 0,0:15:10.85,0:15:13.45,Default,,0000,0000,0000,,昨晚我听说他把自己的头砍了下来\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Last night I heard he chopped his own head off.
+Dialogue: 0,0:15:13.45,0:15:15.92,Default,,0000,0000,0000,,我还听说他把自己变成一头熊了呢\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Well,I heard he transformed himself into a bear.
+Dialogue: 0,0:15:18.59,0:15:21.85,Default,,0000,0000,0000,,你们去找那个舔鸡鸡的疯子干什么？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}What do you want with that cocksucking maniac anyway？
+Dialogue: 0,0:15:21.86,0:15:24.66,Default,,0000,0000,0000,,只有他才能帮助我们找到哈坎\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He's the only one who can lead us to Hakan.
+Dialogue: 0,0:15:26.99,0:15:29.70,Default,,0000,0000,0000,,路上有2天时间要穿越撒克逊领地\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}It's a two-day ride through saxon country,
+Dialogue: 0,0:15:29.70,0:15:31.20,Default,,0000,0000,0000,,再之后的情况也很难预料\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}and who knows after that？
+Dialogue: 0,0:15:33.20,0:15:36.54,Default,,0000,0000,0000,,我以为我们是胆小鬼吗？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You think we're cowards,is that it？
+Dialogue: 0,0:15:36.54,0:15:38.60,Default,,0000,0000,0000,,我听他的意思确实是这样的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}It sounds like it to me.
+Dialogue: 0,0:15:38.61,0:15:41.94,Default,,0000,0000,0000,,真要是这个意思的话,就让你尝尝我操蛋斧头的滋味\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}'Cause if it is,you can kiss my fucking axe.
+Dialogue: 0,0:15:41.94,0:15:43.88,Default,,0000,0000,0000,,我已经听到过上天的旨意了,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I looked at the bones, Steinar.
+Dialogue: 0,0:15:43.88,0:15:46.48,Default,,0000,0000,0000,,天意已决,我们要结伴而行\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}It's already been decided-- we'll travel together.
+Dialogue: 0,0:15:46.48,0:15:48.65,Default,,0000,0000,0000,,- 天意这么说？ - 没错\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- The bones said that？ - Aye.
+Dialogue: 0,0:15:48.65,0:15:51.15,Default,,0000,0000,0000,,你们两个人能走多远？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}How far do you think you'll get？
+Dialogue: 0,0:15:51.15,0:15:55.12,Default,,0000,0000,0000,,带上我们,成功的机会要大一些\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Take us with you-- you double your odds.
+Dialogue: 0,0:16:00.53,0:16:02.23,Default,,0000,0000,0000,,瓦里,你不能跟来\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Not you,vali.
+Dialogue: 0,0:16:03.66,0:16:05.50,Default,,0000,0000,0000,,为何不行？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Well,why not？
+Dialogue: 0,0:16:05.50,0:16:07.67,Default,,0000,0000,0000,,因为你的剑就跟你的老二一样软,小子\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}'Cause your sword's as limp as your cock,boy.
+Dialogue: 0,0:16:13.24,0:16:16.64,Default,,0000,0000,0000,,斯坦纳,带我一起去\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Steinar,take me with you.
+Dialogue: 0,0:16:16.64,0:16:19.15,Default,,0000,0000,0000,,你盯紧哈拉德,知道不？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Watch Harald,hmm？
+Dialogue: 0,0:16:19.15,0:16:21.15,Default,,0000,0000,0000,,等我回来时把他做过什么告诉我\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Report to me when I get back.
+Dialogue: 0,0:16:56.65,0:16:58.65,Default,,0000,0000,0000,,太阳快落山了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}The sun is sinking.
+Dialogue: 0,0:17:00.12,0:17:02.12,Default,,0000,0000,0000,,先找个地方过夜\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Let's find a place to rest.
+Dialogue: 0,0:17:02.12,0:17:04.12,Default,,0000,0000,0000,,好\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Yeah.
+Dialogue: 0,0:17:20.11,0:17:22.71,Default,,0000,0000,0000,,曾经有一段时间\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}There was a time when they did everything together--
+Dialogue: 0,0:17:22.71,0:17:25.14,Default,,0000,0000,0000,,哈坎和艾瓦尔形影不离\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Hakan and Ivar.
+Dialogue: 0,0:17:25.15,0:17:27.28,Default,,0000,0000,0000,,我父亲也曾跟他们两个一同袭击过敌人\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}My father went raiding with them--
+Dialogue: 0,0:17:27.28,0:17:29.32,Default,,0000,0000,0000,,把敌人虐得那叫一个惨\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}fucking carnage.
+Dialogue: 0,0:17:29.32,0:17:31.98,Default,,0000,0000,0000,,在哈坎被驱逐之后\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}After Hakan was banished,
+Dialogue: 0,0:17:31.99,0:17:35.09,Default,,0000,0000,0000,,大家越来越不愿意容忍艾瓦尔的所作所为了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}people were less willing to tolerate Ivar's behavior.
+Dialogue: 0,0:17:36.86,0:17:38.56,Default,,0000,0000,0000,,他知道哈坎去了何处\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He knew where Hakan had gone,
+Dialogue: 0,0:17:38.56,0:17:40.86,Default,,0000,0000,0000,,于是就动身去找哈坎\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}so he set off after him.
+Dialogue: 0,0:17:40.86,0:17:42.86,Default,,0000,0000,0000,,为什么他外号叫“无骨者”\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Why do they call him boneless？
+Dialogue: 0,0:17:42.86,0:17:46.07,Default,,0000,0000,0000,,因为谁也看不到他的老二\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Because you could never see his cock,
+Dialogue: 0,0:17:46.07,0:17:48.60,Default,,0000,0000,0000,,因为他的老二总是插在\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}'cause it was always rammed to the hilt
+Dialogue: 0,0:17:48.60,0:17:50.07,Default,,0000,0000,0000,,某个小男孩的菊花里\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}up some young boy's asshole.
+Dialogue: 0,0:17:51.61,0:17:54.11,Default,,0000,0000,0000,,有人说他不会感觉到痛楚\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}They say he felt no pain.
+Dialogue: 0,0:17:54.11,0:17:56.94,Default,,0000,0000,0000,,这样的话小男孩的菊花也不会有痛楚\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Which is more than can be said for the young boy's asshole.
+Dialogue: 0,0:17:59.01,0:18:01.35,Default,,0000,0000,0000,,我曾有几次与他并肩打仗的经历\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I fought beside him a couple of times.
+Dialogue: 0,0:18:03.88,0:18:06.75,Default,,0000,0000,0000,,不管现在大家对他有什么样的看法\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Whatever people think of Ivar now,
+Dialogue: 0,0:18:06.75,0:18:09.09,Default,,0000,0000,0000,,在打仗的时候都不能低估他\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}he was something to behold in battle.
+Dialogue: 0,0:18:10.59,0:18:12.29,Default,,0000,0000,0000,,他和哈坎都不能低估\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}They both were.
+Dialogue: 0,0:18:12.29,0:18:14.86,Default,,0000,0000,0000,,我父王为何驱逐哈坎？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Why did my father banish Hakan？
+Dialogue: 0,0:18:14.86,0:18:17.76,Default,,0000,0000,0000,,他受了诅咒\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He was cursed.
+Dialogue: 0,0:18:17.77,0:18:19.67,Default,,0000,0000,0000,,你父王有他的理由\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Your father had his reasons.
+Dialogue: 0,0:18:21.13,0:18:23.00,Default,,0000,0000,0000,,也许他做过什么都没关系了吧\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Maybe it doesn't matter what he did.
+Dialogue: 0,0:18:23.00,0:18:25.07,Default,,0000,0000,0000,,要是让他当国王就有关系\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}It does if he's gonna be King.
+Dialogue: 0,0:19:19.13,0:19:21.13,Default,,0000,0000,0000,,斯坦纳,是我！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Steinar,it's me!
+Dialogue: 0,0:19:21.13,0:19:24.26,Default,,0000,0000,0000,,Argh!
+Dialogue: 0,0:19:24.27,0:19:27.03,Default,,0000,0000,0000,,你这样会害死你自己的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You'll get yourself killed.
+Dialogue: 0,0:19:27.04,0:19:29.84,Default,,0000,0000,0000,,我照你说的去做了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I did as you said.
+Dialogue: 0,0:19:29.84,0:19:31.84,Default,,0000,0000,0000,,我跟踪了哈拉德\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I followed Harald.
+Dialogue: 0,0:19:31.84,0:19:34.04,Default,,0000,0000,0000,,你刚走不久,他也骑马外出\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He rode out almost the minute you left.
+Dialogue: 0,0:19:34.04,0:19:37.01,Default,,0000,0000,0000,,他越过了撒克逊防线,去见了他们的国王\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He crossed the saxon lines and spoke to their King.
+Dialogue: 0,0:19:37.01,0:19:38.44,Default,,0000,0000,0000,,他妈的贱货！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Fucking snake!
+Dialogue: 0,0:19:38.45,0:19:40.95,Default,,0000,0000,0000,,我不知道该怎么办\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I didn't know what to do.
+Dialogue: 0,0:19:42.98,0:19:45.08,Default,,0000,0000,0000,,你做得对,瓦里\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You did the right thing,vali.
+Dialogue: 0,0:19:45.09,0:19:47.15,Default,,0000,0000,0000,,现在趁他们没发觉你的行踪,快回去吧\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You should head back now, before they notice you're gone.
+Dialogue: 0,0:19:47.16,0:19:49.16,Default,,0000,0000,0000,,不,这太危险了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}No,it's too dangerous.
+Dialogue: 0,0:19:50.99,0:19:52.99,Default,,0000,0000,0000,,瓦里跟我们一起走\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Vali can ride with us.
+Dialogue: 0,0:19:52.99,0:19:54.79,Default,,0000,0000,0000,,格里姆,给他一些食物\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Grim,get him some food.
+Dialogue: 0,0:19:54.80,0:19:56.86,Default,,0000,0000,0000,,才不给呢 我们往回走\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He can get his own food. We turn back,
+Dialogue: 0,0:19:56.86,0:19:59.30,Default,,0000,0000,0000,,把哈拉德的老二给砍了,然后给他来个透心凉\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}cut Harald's balls off and rip out his spine.
+Dialogue: 0,0:19:59.30,0:20:01.77,Default,,0000,0000,0000,,不,我们继续往北走\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}No. We continue our ride north.
+Dialogue: 0,0:20:01.77,0:20:05.91,Default,,0000,0000,0000,,斯坦纳,哈拉德已经跟撒克逊人串通在一起了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Steinar,Harald's cut a deal with the Saxons.
+Dialogue: 0,0:20:05.91,0:20:08.04,Default,,0000,0000,0000,,我们的同胞决不会支持哈拉德的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Our men would never back Harald.
+Dialogue: 0,0:20:08.04,0:20:10.88,Default,,0000,0000,0000,,想要当国王是一回事,怎么当国王又是另一回事\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}It's one thing to want the crown,another to take it.
+Dialogue: 0,0:20:10.88,0:20:13.71,Default,,0000,0000,0000,,在你那操蛋的兄弟\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You'd rather we have us climbing mountains
+Dialogue: 0,0:20:13.72,0:20:16.78,Default,,0000,0000,0000,,把我们的女同胞出卖给一群农民的时候\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}on some fucking bear hunt while your cunt fuck of a brother
+Dialogue: 0,0:20:16.78,0:20:18.48,Default,,0000,0000,0000,,你还叫我们去翻山越岭？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}sells our women to a bunch of farmers!
+Dialogue: 0,0:20:18.49,0:20:21.75,Default,,0000,0000,0000,,我们的女同胞比哈拉德强多了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Our women are more than a match for Harald.
+Dialogue: 0,0:20:21.76,0:20:24.49,Default,,0000,0000,0000,,格里姆\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Grim,
+Dialogue: 0,0:20:24.49,0:20:27.49,Default,,0000,0000,0000,,没人强迫你来\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}nobody forced you to come.
+Dialogue: 0,0:20:27.50,0:20:30.20,Default,,0000,0000,0000,,也没人强迫你留下\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Nobody's forcing you to stay.
+Dialogue: 0,0:21:01.53,0:21:04.43,Default,,0000,0000,0000,,我知道你在为自己的信仰而战\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Oh,I know you struggle with your beliefs,
+Dialogue: 0,0:21:04.43,0:21:07.40,Default,,0000,0000,0000,,无视了众神的旨意……\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}that you deny the Gods and the significance of signs...
+Dialogue: 0,0:21:09.14,0:21:11.30,Default,,0000,0000,0000,,不过瓦里一个人星夜兼程来到这里\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}But a lone rider arriving under a full Moon？
+Dialogue: 0,0:21:13.14,0:21:16.14,Default,,0000,0000,0000,,对于我们所有人来说,恐怕都是一个凶兆吧？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Even you can't deny what a bad omen that is for all of us.
+Dialogue: 0,0:21:16.14,0:21:18.28,Default,,0000,0000,0000,,他虽然年轻,但天性善良\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He's young. He's got good instincts.
+Dialogue: 0,0:21:18.28,0:21:20.28,Default,,0000,0000,0000,,他会为我们带来生命危险的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He brings death with him.
+Dialogue: 0,0:21:23.32,0:21:25.42,Default,,0000,0000,0000,,我不会为了你的迷信\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I'm not about to turn against him
+Dialogue: 0,0:21:25.42,0:21:27.89,Default,,0000,0000,0000,,抛弃他的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}for the sake of your superstitions.
+Dialogue: 0,0:21:27.89,0:21:30.39,Default,,0000,0000,0000,,如果一个人不相信天兆\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}If a man doesn't believe in omens,
+Dialogue: 0,0:21:30.39,0:21:33.19,Default,,0000,0000,0000,,那他怎么知道自己该相信什么？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}then how can he know what he believes in？
+Dialogue: 0,0:21:37.16,0:21:39.80,Default,,0000,0000,0000,,他可以相信自己\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He can believe in himself.
+Dialogue: 0,0:22:11.43,0:22:14.30,Default,,0000,0000,0000,,不要扔了！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}No!
+Dialogue: 0,0:22:21.31,0:22:22.84,Default,,0000,0000,0000,,我们应该继续赶路\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We should ride on.
+Dialogue: 0,0:22:24.38,0:22:26.85,Default,,0000,0000,0000,,贱货！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You bitch!
+Dialogue: 0,0:22:30.45,0:22:32.55,Default,,0000,0000,0000,,说的对\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You're right.
+Dialogue: 0,0:22:38.53,0:22:40.46,Default,,0000,0000,0000,,住手！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Stop!
+Dialogue: 0,0:22:59.61,0:23:00.95,Default,,0000,0000,0000,,住手\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Stop.
+Dialogue: 0,0:23:12.66,0:23:14.63,Default,,0000,0000,0000,,- 放了她 - 去你的,异教徒\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- Let her go. - Fuck you,heathen.
+Dialogue: 0,0:23:18.16,0:23:19.43,Default,,0000,0000,0000,,Argh!
+Dialogue: 0,0:24:11.69,0:24:14.19,Default,,0000,0000,0000,,- 你没事吧？ - 他妈的疯婆娘\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- You all right？ - Crazy fucking bitch.
+Dialogue: 0,0:24:19.03,0:24:20.23,Default,,0000,0000,0000,,走吧\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Let's go.
+Dialogue: 0,0:24:43.52,0:24:45.52,Default,,0000,0000,0000,,马儿走不动了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}The horses won't make it much further.
+Dialogue: 0,0:24:47.22,0:24:48.59,Default,,0000,0000,0000,,我们步行吧\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Then we continue on foot.
+Dialogue: 0,0:24:54.33,0:24:57.20,Default,,0000,0000,0000,,瓦里,你在这里守着马匹,等我们回来\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Vali,you wait with the horses till we return.
+Dialogue: 0,0:24:57.20,0:24:59.26,Default,,0000,0000,0000,,不要生火\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Don't light a fire.
+Dialogue: 0,0:24:59.27,0:25:01.33,Default,,0000,0000,0000,,火会引来食人魔\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Fires attract cave trolls.
+Dialogue: 0,0:25:01.34,0:25:03.47,Default,,0000,0000,0000,,别担心\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Don't worry.
+Dialogue: 0,0:25:03.47,0:25:06.24,Default,,0000,0000,0000,,它们只吃处女\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}They only eat virgins.
+Dialogue: 0,0:25:06.24,0:25:09.04,Default,,0000,0000,0000,,只要是饿了它们什么都会吃\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}They'll eat anything if they're hungry enough.
+Dialogue: 0,0:25:10.44,0:25:13.78,Default,,0000,0000,0000,,提到“食人魔”,你老妹怎么样了呢？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Speaking of cave trolls,how is your sister？
+Dialogue: 0,0:25:13.78,0:25:15.65,Default,,0000,0000,0000,,去你丫的,格里姆\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Fuck you,grim.
+Dialogue: 0,0:25:15.65,0:25:18.08,Default,,0000,0000,0000,,她确实饿了什么都会吃\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}She certainly did.
+Dialogue: 0,0:25:18.09,0:25:19.72,Default,,0000,0000,0000,,我老二每次拉尿都会隐隐作痛\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Still hurts when I piss.
+Dialogue: 0,0:25:22.79,0:25:24.72,Default,,0000,0000,0000,,明天一早我们就会回来\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We'll be back by first light.
+Dialogue: 0,0:25:24.73,0:25:26.19,Default,,0000,0000,0000,,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Steinar.
+Dialogue: 0,0:25:29.23,0:25:30.40,Default,,0000,0000,0000,,谢谢\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Thanks.
+Dialogue: 0,0:25:30.40,0:25:32.06,Default,,0000,0000,0000,,我们是兄弟,客气什么\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We're brothers.
+Dialogue: 0,0:26:00.29,0:26:02.46,Default,,0000,0000,0000,,什么来的？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}What was that？
+Dialogue: 0,0:26:18.51,0:26:20.55,Default,,0000,0000,0000,,也许我们该等到天黑再行动\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Perhaps we should wait till nightfall.
+Dialogue: 0,0:26:22.72,0:26:24.72,Default,,0000,0000,0000,,一些动物害怕月光\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Some creatures fear the Moon.
+Dialogue: 0,0:26:24.72,0:26:27.09,Default,,0000,0000,0000,,晚上会安全一点\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}It would be safer.
+Dialogue: 0,0:27:20.57,0:27:23.54,Default,,0000,0000,0000,,艾瓦尔,是我--海根·格雷提森\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Ivar,it's me-- hagen grettison.
+Dialogue: 0,0:27:23.54,0:27:26.61,Default,,0000,0000,0000,,我是巴塞格的儿子斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}My name is Steinar,son of bagsecg.
+Dialogue: 0,0:27:26.61,0:27:27.51,Default,,0000,0000,0000,,你他妈来这干什么呢,王子殿下？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}What the fuck are you doing here,prince？
+Dialogue: 0,0:27:32.49,0:27:34.92,Default,,0000,0000,0000,,你想跟我过两招？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You wanna fuck with me？
+Dialogue: 0,0:27:34.92,0:27:37.49,Default,,0000,0000,0000,,尽管挣扎啊 尽管挣扎啊\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I'll bet you do. I'll bet you do.
+Dialogue: 0,0:27:37.49,0:27:39.76,Default,,0000,0000,0000,,艾瓦尔,国王快死了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Ivar,the King is dying.
+Dialogue: 0,0:27:39.76,0:27:41.53,Default,,0000,0000,0000,,我们需要你的帮助\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We need your help.
+Dialogue: 0,0:27:42.90,0:27:45.26,Default,,0000,0000,0000,,人生自古谁无死呢\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Everyone dies some time.
+Dialogue: 0,0:27:45.27,0:27:47.30,Default,,0000,0000,0000,,你说对不对,王子殿下？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}How about you,prince？
+Dialogue: 0,0:27:47.30,0:27:50.67,Default,,0000,0000,0000,,想不想今天就死？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Do you want to die today？
+Dialogue: 0,0:27:50.67,0:27:52.54,Default,,0000,0000,0000,,我们在找新的国王--\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We seek the new King--
+Dialogue: 0,0:27:52.54,0:27:54.44,Default,,0000,0000,0000,,哈坎\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Hakan.
+Dialogue: 0,0:28:07.82,0:28:10.59,Default,,0000,0000,0000,,这么说你在找你哥哥？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}So you're looking for your brother？
+Dialogue: 0,0:28:17.86,0:28:19.33,Default,,0000,0000,0000,,知道他在哪吗？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Know where he is？
+Dialogue: 0,0:28:19.33,0:28:21.97,Default,,0000,0000,0000,,我为什么要告诉你？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Why the Hell would I tell you？
+Dialogue: 0,0:28:24.47,0:28:26.44,Default,,0000,0000,0000,,出于对我的尊重吧\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Out of respect.
+Dialogue: 0,0:28:28.48,0:28:30.88,Default,,0000,0000,0000,,尊重不是与生俱来的,小王子\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Respect is not a birthright,little prince.
+Dialogue: 0,0:28:30.88,0:28:34.81,Default,,0000,0000,0000,,你想要别人尊重,得自己去争取\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You want someone's respect, you've got to earn it.
+Dialogue: 0,0:28:34.82,0:28:37.52,Default,,0000,0000,0000,,你想要我的尊重？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You want to earn my respect？
+Dialogue: 0,0:28:39.95,0:28:43.56,Default,,0000,0000,0000,,你得表现得比你这副模样更强一点才行\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You'd better be stronger than you look.
+Dialogue: 0,0:29:07.95,0:29:10.72,Default,,0000,0000,0000,,- 肯定有其他办法的 - 他没有痛感\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- There has to be another way. - He feels no pain.
+Dialogue: 0,0:29:10.72,0:29:14.49,Default,,0000,0000,0000,,只能让他自愿告诉我们\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}The only way he'll tell us is through choice.
+Dialogue: 0,0:29:17.92,0:29:20.73,Default,,0000,0000,0000,,3杯酒,代表3次机会\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Three cups for your three chances.
+Dialogue: 0,0:29:20.73,0:29:23.70,Default,,0000,0000,0000,,你赢了,我就什么都告诉你\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You win-- I'll tell you everything you want.
+Dialogue: 0,0:29:23.70,0:29:26.03,Default,,0000,0000,0000,,我赢了-- 你就喝\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I win-- you drink.
+Dialogue: 0,0:29:26.03,0:29:29.97,Default,,0000,0000,0000,,3杯全喝掉的话,你就输了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You drink all three-- you lose
+Dialogue: 0,0:29:29.97,0:29:33.91,Default,,0000,0000,0000,,然后今晚你就任由我玩弄了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}and you're mine for the night, to do with as I see fit.
+Dialogue: 0,0:29:42.78,0:29:45.52,Default,,0000,0000,0000,,Ah.
+Dialogue: 0,0:29:45.52,0:29:47.72,Default,,0000,0000,0000,,手背碰到桌子就算输\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}First to fold or break.
+Dialogue: 0,0:29:51.02,0:29:52.42,Default,,0000,0000,0000,,开始！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Begin!
+Dialogue: 0,0:29:53.83,0:29:56.33,Default,,0000,0000,0000,,加油,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Come on,Steinar.
+Dialogue: 0,0:29:56.33,0:29:58.06,Default,,0000,0000,0000,,- 加油,斯坦纳 - 肩膀一起用力\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- Come on,Steinar. - Put your shoulder into it.
+Dialogue: 0,0:29:58.07,0:29:59.80,Default,,0000,0000,0000,,- 搞定他,斯坦纳 - 加油\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- Take him,Steinar. - Come on,Steinar.
+Dialogue: 0,0:29:59.80,0:30:02.00,Default,,0000,0000,0000,,- 加油 - 搞定他\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- Come on. - Take him.
+Dialogue: 0,0:30:04.94,0:30:06.97,Default,,0000,0000,0000,,喝了,小王子\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Drink up,little prince.
+Dialogue: 0,0:30:16.08,0:30:18.52,Default,,0000,0000,0000,,喝了之后你的老二才会长毛\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}That'll put hairs on your ball sack.
+Dialogue: 0,0:30:21.89,0:30:23.32,Default,,0000,0000,0000,,你应该有办法的吧\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Tell me you have a plan.
+Dialogue: 0,0:30:25.76,0:30:29.53,Default,,0000,0000,0000,,趁我们的老二都还硬,再来一发怎么样？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Shall we go again while our cocks are still hard？
+Dialogue: 0,0:30:33.43,0:30:36.37,Default,,0000,0000,0000,,手背碰到桌子就算输\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}First to fold or break.
+Dialogue: 0,0:30:36.37,0:30:38.07,Default,,0000,0000,0000,,- 开始 - 加油\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- Begin. - Come on.
+Dialogue: 0,0:30:38.07,0:30:40.07,Default,,0000,0000,0000,,- 肩膀用力啊 - 加油\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- Put your shoulder into it. - Come on.
+Dialogue: 0,0:30:40.07,0:30:44.41,Default,,0000,0000,0000,,加油！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Come on! Come on.
+Dialogue: 0,0:30:44.41,0:30:46.81,Default,,0000,0000,0000,,加油,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Come on,Steinar.
+Dialogue: 0,0:30:50.48,0:30:52.95,Default,,0000,0000,0000,,我操\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- Oh,fuck! - Fuck.
+Dialogue: 0,0:30:52.95,0:30:55.05,Default,,0000,0000,0000,,连下2盘\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Two down,
+Dialogue: 0,0:30:55.06,0:30:56.82,Default,,0000,0000,0000,,还剩一杯\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}one to go.
+Dialogue: 0,0:30:56.82,0:30:59.56,Default,,0000,0000,0000,,机会渺茫咯,王子殿下\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}What chance now,Princess,hmm？
+Dialogue: 0,0:31:22.92,0:31:25.15,Default,,0000,0000,0000,,贾库了,你的腰带\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Jokul,your belt.
+Dialogue: 0,0:31:25.15,0:31:27.99,Default,,0000,0000,0000,,快给我你的腰带\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Give me your belt,quick.
+Dialogue: 0,0:31:27.99,0:31:29.99,Default,,0000,0000,0000,,腰带\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Your belt.
+Dialogue: 0,0:31:29.99,0:31:32.96,Default,,0000,0000,0000,,好,斯坦纳 “圣蛇”会保佑你\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Good,Steinar. The serpent will protect you.
+Dialogue: 0,0:31:32.96,0:31:35.99,Default,,0000,0000,0000,,有众神的支持,你不能输,知道吗？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}With the Gods on your side, you can't lose. Hmm？
+Dialogue: 0,0:31:37.66,0:31:39.10,Default,,0000,0000,0000,,好\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Yeah.
+Dialogue: 0,0:31:40.67,0:31:42.97,Default,,0000,0000,0000,,无论如何我们都支持你,你知道的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We've got your back. You know that.
+Dialogue: 0,0:31:42.97,0:31:45.17,Default,,0000,0000,0000,,但现在唯一能阻止他的是做掉他\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}But the only way we'll stop him is if we kill him.
+Dialogue: 0,0:31:46.17,0:31:48.81,Default,,0000,0000,0000,,Ahh.
+Dialogue: 0,0:31:48.81,0:31:53.18,Default,,0000,0000,0000,,我很想好好玩弄你的菊花呢,王子殿下\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I am looking forward to making a woman out of you,Princess.
+Dialogue: 0,0:31:53.18,0:31:56.05,Default,,0000,0000,0000,,哦,不要这么苦逼的表情嘛\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Oh,don't look so sad.
+Dialogue: 0,0:31:56.05,0:31:58.85,Default,,0000,0000,0000,,你可能会觉得很爽的哦\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You might even enjoy it.
+Dialogue: 0,0:32:02.06,0:32:04.02,Default,,0000,0000,0000,,手背碰到桌子就算输\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}First to fold or break.
+Dialogue: 0,0:32:11.06,0:32:12.43,Default,,0000,0000,0000,,开始\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Begin.
+Dialogue: 0,0:32:12.43,0:32:14.57,Default,,0000,0000,0000,,加油,斯坦纳,用力！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Come on,Steinar,push!
+Dialogue: 0,0:32:14.57,0:32:16.60,Default,,0000,0000,0000,,加油,把他压下去\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Come on,break his fucking wrist.
+Dialogue: 0,0:32:16.60,0:32:19.47,Default,,0000,0000,0000,,加油！加油！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Come on! Come on!
+Dialogue: 0,0:32:25.85,0:32:28.55,Default,,0000,0000,0000,,Oh. Oh. Argh!
+Dialogue: 0,0:32:33.79,0:32:36.19,Default,,0000,0000,0000,,Ooh ooh.
+Dialogue: 0,0:32:36.19,0:32:37.76,Default,,0000,0000,0000,,Ooh.
+Dialogue: 0,0:32:37.76,0:32:40.16,Default,,0000,0000,0000,,你之前说你叫什么名字来着？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}What did you say your name was？
+Dialogue: 0,0:32:40.16,0:32:41.93,Default,,0000,0000,0000,,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Steinar.
+Dialogue: 0,0:32:41.93,0:32:44.23,Default,,0000,0000,0000,,你真是个混蛋,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You're an asshole,Steinar.
+Dialogue: 0,0:32:47.63,0:32:49.63,Default,,0000,0000,0000,,不过我喜欢\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I like assholes.
+Dialogue: 0,0:33:07.52,0:33:10.79,Default,,0000,0000,0000,,我不是自愿离开的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I didn't leave out of choice.
+Dialogue: 0,0:33:10.79,0:33:15.16,Default,,0000,0000,0000,,我成为一个persona non grata （意为“不受欢迎之人”）\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I became persona non grata.
+Dialogue: 0,0:33:15.16,0:33:18.03,Default,,0000,0000,0000,,这是拉丁语,哈坎教我的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}That's latin. Hakan taught me that.
+Dialogue: 0,0:33:18.03,0:33:22.60,Default,,0000,0000,0000,,他是一个伟人\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He's a prodigious man,a great man really.
+Dialogue: 0,0:33:22.60,0:33:25.07,Default,,0000,0000,0000,,为什么你现没和他在一起？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}How come you're not with him now？
+Dialogue: 0,0:33:25.07,0:33:29.51,Default,,0000,0000,0000,,打仗的时候,人们因为你杀人而喜欢你\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You kill people in battle-- they love you for it.
+Dialogue: 0,0:33:29.51,0:33:31.84,Default,,0000,0000,0000,,与几个小男孩一起“犯错误”……\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Make a mistake with a couple of boys--
+Dialogue: 0,0:33:31.85,0:33:33.75,Default,,0000,0000,0000,,他们就认为你是变态\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}they treat you like a leper.
+Dialogue: 0,0:33:39.29,0:33:41.55,Default,,0000,0000,0000,,你还好吗,王子殿下\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You all right there,Princess.
+Dialogue: 0,0:33:42.72,0:33:45.09,Default,,0000,0000,0000,,感觉满脑子嗡嗡作响？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Feeling the 'shrooms-s-s-s？
+Dialogue: 0,0:33:49.16,0:33:53.16,Default,,0000,0000,0000,,啊,哈坎整个人完全变了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Ah,Hakan's not the man he was.
+Dialogue: 0,0:33:53.17,0:33:56.00,Default,,0000,0000,0000,,变的不像是个人了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Not a man at all really.
+Dialogue: 0,0:33:56.00,0:33:59.97,Default,,0000,0000,0000,,你们看,我们就这么浑浑噩噩的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You see,we're-- we're all this,
+Dialogue: 0,0:33:59.97,0:34:01.97,Default,,0000,0000,0000,,但他……\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}but he--
+Dialogue: 0,0:34:01.98,0:34:06.31,Default,,0000,0000,0000,,高高在上的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}he's all that up there,
+Dialogue: 0,0:34:06.31,0:34:09.68,Default,,0000,0000,0000,,注视着我们\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}all around us.
+Dialogue: 0,0:34:09.68,0:34:13.55,Default,,0000,0000,0000,,你以为他会心甘情愿地跟你去\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Do you think he is just gonna pack up and follow you,
+Dialogue: 0,0:34:13.55,0:34:16.82,Default,,0000,0000,0000,,统治那些驱逐他的人们？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}rule the people that banished him？
+Dialogue: 0,0:34:16.82,0:34:19.12,Default,,0000,0000,0000,,他凭什么要跟你说话、跟你见面？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Why would he even speak to you,look at you？
+Dialogue: 0,0:34:22.19,0:34:24.33,Default,,0000,0000,0000,,他已经知道你会来的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He already knows you're coming.
+Dialogue: 0,0:34:28.67,0:34:30.20,Default,,0000,0000,0000,,那他应该不会介意……\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Then he won't mind...
+Dialogue: 0,0:34:32.34,0:34:36.68,Default,,0000,0000,0000,,你把他的下落告诉我\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}if you tell us where he is.
+Dialogue: 0,0:34:36.68,0:34:40.11,Default,,0000,0000,0000,,如果我告诉你,就得杀你灭口\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}But if I do that,you're going to die.
+Dialogue: 0,0:34:41.85,0:34:44.58,Default,,0000,0000,0000,,呃,人生自由谁无死\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Well,everybody has to die.
+Dialogue: 0,0:34:50.69,0:34:53.09,Default,,0000,0000,0000,,Oh.
+Dialogue: 0,0:34:53.09,0:34:55.73,Default,,0000,0000,0000,,不管了,王子殿下\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Oh,fuck it,Princess,
+Dialogue: 0,0:34:55.73,0:34:58.66,Default,,0000,0000,0000,,单单告诉你太没劲了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}i'll do better than tell you where he is.
+Dialogue: 0,0:35:00.63,0:35:02.87,Default,,0000,0000,0000,,我带你们去见他\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I'll take you there myself.
+Dialogue: 0,0:35:02.87,0:35:05.10,Default,,0000,0000,0000,,有何不可啊？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Why the Hell not？
+Dialogue: 0,0:35:05.11,0:35:08.64,Default,,0000,0000,0000,,你说他妈的对不对？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Why the fucking Hell not,hmm？
+Dialogue: 0,0:35:28.36,0:35:31.23,Default,,0000,0000,0000,,Ah.
+Dialogue: 0,0:35:49.22,0:35:52.35,Default,,0000,0000,0000,,它可以帮你看穿乌云,找到阳光\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Helps you see through the clouds, to find the sun.
+Dialogue: 0,0:35:52.35,0:35:54.92,Default,,0000,0000,0000,,- 这是魔法吗？ - 没有魔法这种东西。\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- Is it magic？ - No such thing as magic.
+Dialogue: 0,0:36:07.73,0:36:09.23,Default,,0000,0000,0000,,上面刻有字呢\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}It's inscribed.？
+Dialogue: 0,0:36:09.24,0:36:11.74,Default,,0000,0000,0000,,对。你怎么会认字的？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Yeah. Who taught you to read？
+Dialogue: 0,0:36:12.87,0:36:14.41,Default,,0000,0000,0000,,我曾在修道院里呆过\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I was at a monastery.
+Dialogue: 0,0:36:16.18,0:36:18.01,Default,,0000,0000,0000,,那里的人教了我……\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}They taught me...
+Dialogue: 0,0:36:19.68,0:36:21.91,Default,,0000,0000,0000,,很多事情\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}many things.
+Dialogue: 0,0:36:42.20,0:36:45.37,Default,,0000,0000,0000,,这个送给你吧\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Here,here you go. Have this.
+Dialogue: 0,0:36:47.44,0:36:49.94,Default,,0000,0000,0000,,可以吹的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You blow it.
+Dialogue: 0,0:37:00.75,0:37:02.75,Default,,0000,0000,0000,,艾瓦尔说从这里2天路程之外\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Boneless says there's a runestone
+Dialogue: 0,0:37:02.76,0:37:04.76,Default,,0000,0000,0000,,在西部山脉的山脚下\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}two days from here at the edge of a forest
+Dialogue: 0,0:37:04.76,0:37:07.13,Default,,0000,0000,0000,,一座森林边缘处有一个符文石\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}at the foot of the western mountains.
+Dialogue: 0,0:37:07.13,0:37:10.03,Default,,0000,0000,0000,,他会带我们找到这块石头,然后我们就可以按照符文找到哈坎\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Says he'll take us there and the runes will lead us to Hakan.
+Dialogue: 0,0:37:10.03,0:37:12.00,Default,,0000,0000,0000,,- 你相信他？ - 为什么不？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- And you trust him？ - Why not？
+Dialogue: 0,0:37:12.00,0:37:14.47,Default,,0000,0000,0000,,- 他是个疯子啊 -  对,他确实是疯子\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- Because he's a maniac. - Oh yeah,that he is.
+Dialogue: 0,0:37:15.84,0:37:17.74,Default,,0000,0000,0000,,但他现在很乐意帮助我们呢\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}But he's our maniac now.
+Dialogue: 0,0:38:05.55,0:38:07.12,Default,,0000,0000,0000,,瓦里！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Vali!
+Dialogue: 0,0:38:07.12,0:38:08.82,Default,,0000,0000,0000,,先是太阳出现血色\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}First the sun,
+Dialogue: 0,0:38:08.82,0:38:10.56,Default,,0000,0000,0000,,现在连大地也被鲜血染红了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}and now the ashes painted red.
+Dialogue: 0,0:38:10.56,0:38:12.26,Default,,0000,0000,0000,,瓦里！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Vali!
+Dialogue: 0,0:38:14.86,0:38:16.36,Default,,0000,0000,0000,,瓦里！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Vali!
+Dialogue: 0,0:38:19.13,0:38:21.20,Default,,0000,0000,0000,,- 斯坦纳 - 瓦里\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- Steinar. - Vali.
+Dialogue: 0,0:38:21.20,0:38:22.90,Default,,0000,0000,0000,,- 斯坦纳 - 你没事吧？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- Steinar. - Are you all right？
+Dialogue: 0,0:38:22.90,0:38:25.30,Default,,0000,0000,0000,,出什么事了？ 到底出什么事了？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}What happened here？ What happened？
+Dialogue: 0,0:38:26.34,0:38:27.94,Default,,0000,0000,0000,,有人来了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Men came.
+Dialogue: 0,0:38:29.21,0:38:31.28,Default,,0000,0000,0000,,昨天晚上\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Last night.
+Dialogue: 0,0:38:31.28,0:38:33.98,Default,,0000,0000,0000,,我听到有人说话,以为是你们\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I heard voices. I thought it was you.
+Dialogue: 0,0:38:33.98,0:38:35.98,Default,,0000,0000,0000,,为什么你身上一点伤也没有？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}How come there's not a scratch on you？
+Dialogue: 0,0:38:35.98,0:38:38.12,Default,,0000,0000,0000,,这是另一个天兆\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}It's another omen.
+Dialogue: 0,0:38:38.12,0:38:41.29,Default,,0000,0000,0000,,我们应该回去,众神现在与我们为敌\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We should turn back. The Gods are against us.
+Dialogue: 0,0:38:41.29,0:38:43.56,Default,,0000,0000,0000,,这是谁干的？盗贼？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Who did this？ Thieves？
+Dialogue: 0,0:38:44.99,0:38:47.53,Default,,0000,0000,0000,,要是盗贼会把马全部牵走的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Thieves would have taken all the horses.
+Dialogue: 0,0:38:47.53,0:38:51.40,Default,,0000,0000,0000,,有人想妨碍你们\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Someone trying to fuck with you.
+Dialogue: 0,0:38:51.40,0:38:53.90,Default,,0000,0000,0000,,谁想来妨碍我们的？出来啊\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You wanna fuck with us？ Come on.
+Dialogue: 0,0:38:53.90,0:38:56.13,Default,,0000,0000,0000,,来呀！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Come on!
+Dialogue: 0,0:38:56.14,0:38:59.37,Default,,0000,0000,0000,,艾瓦尔,走路去的话要多长时间？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Ivar,how long will it take us to get there on foot？
+Dialogue: 0,0:38:59.37,0:39:02.01,Default,,0000,0000,0000,,那要看你的心意坚决到什么程度了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Depends how determined you are.
+Dialogue: 0,0:39:02.01,0:39:04.18,Default,,0000,0000,0000,,非常坚决\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Determined.
+Dialogue: 0,0:40:00.43,0:40:02.50,Default,,0000,0000,0000,,我们应该等待月亮来指引我们\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We should wait for the Moon to guide us.
+Dialogue: 0,0:40:02.50,0:40:04.54,Default,,0000,0000,0000,,你他妈别老提月亮了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Shut your mouth about the fucking Moon.
+Dialogue: 0,0:40:09.01,0:40:11.11,Default,,0000,0000,0000,,听\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Listen.
+Dialogue: 0,0:40:18.08,0:40:21.12,Default,,0000,0000,0000,,瓦里,你们两个在这里等着\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Vali,you two,wait here.
+Dialogue: 0,0:40:46.71,0:40:49.58,Default,,0000,0000,0000,,管他的,要打就打吧！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Fuck this. Let's fight!
+Dialogue: 0,0:40:49.58,0:40:51.02,Default,,0000,0000,0000,,格里姆！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Grim!
+Dialogue: 0,0:40:51.02,0:40:52.95,Default,,0000,0000,0000,,Argh!
+Dialogue: 0,0:41:20.28,0:41:22.18,Default,,0000,0000,0000,,操\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Fuck.
+Dialogue: 0,0:41:57.78,0:41:59.48,Default,,0000,0000,0000,,斯坦纳！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Steinar!
+Dialogue: 0,0:42:42.29,0:42:45.06,Default,,0000,0000,0000,,Arghh!
+Dialogue: 0,0:44:33.61,0:44:35.94,Default,,0000,0000,0000,,我们应该去追击他们,把他们全干掉\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We should go after them,finish them off.
+Dialogue: 0,0:44:37.18,0:44:38.44,Default,,0000,0000,0000,,还是继续走吧\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We move on.
+Dialogue: 0,0:44:41.25,0:44:43.35,Default,,0000,0000,0000,,我不是叫你等着的吗\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I told you to wait.
+Dialogue: 0,0:44:43.35,0:44:45.75,Default,,0000,0000,0000,,我不是小孩子了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I'm not a child,Steinar.
+Dialogue: 0,0:44:45.75,0:44:47.75,Default,,0000,0000,0000,,去把那女孩带过来\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Go and get the girl.
+Dialogue: 0,0:44:47.75,0:44:49.45,Default,,0000,0000,0000,,快\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Now.
+Dialogue: 0,0:44:55.73,0:44:57.86,Default,,0000,0000,0000,,斯坦纳！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Steinar!
+Dialogue: 0,0:45:02.57,0:45:04.60,Default,,0000,0000,0000,,斯坦纳！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Steinar!
+Dialogue: 0,0:45:09.58,0:45:12.51,Default,,0000,0000,0000,,他死得很英勇\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He died a good death,
+Dialogue: 0,0:45:12.51,0:45:14.65,Default,,0000,0000,0000,,战斗到最后一刻\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}with his axe in his hand.
+Dialogue: 0,0:45:18.98,0:45:21.22,Default,,0000,0000,0000,,瓦尔哈拉会收留他的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Valhalla won't know what hit them.
+Dialogue: 0,0:46:32.62,0:46:34.76,Default,,0000,0000,0000,,到小山上可以看得更清楚一点\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}There's a clear view on the hill.
+Dialogue: 0,0:46:34.76,0:46:36.89,Default,,0000,0000,0000,,瓦里,到那上面去\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Vali,get up there,
+Dialogue: 0,0:46:36.90,0:46:39.30,Default,,0000,0000,0000,,看到有情况就喊一下\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}shout if you see anything.
+Dialogue: 0,0:46:39.30,0:46:41.60,Default,,0000,0000,0000,,艾瓦尔怎么样了？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}How's Ivar？
+Dialogue: 0,0:46:41.60,0:46:43.87,Default,,0000,0000,0000,,剩下半条命了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Nearly done.
+Dialogue: 0,0:46:46.64,0:46:48.94,Default,,0000,0000,0000,,我们得尽快上路\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We need to move on as soon as we can.
+Dialogue: 0,0:46:48.94,0:46:51.74,Default,,0000,0000,0000,,必须找到哈坎\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We have to reach Hakan.
+Dialogue: 0,0:47:55.51,0:47:57.81,Default,,0000,0000,0000,,袭击我们的不是普通的撒克逊人\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}They were no ordinary Saxons.
+Dialogue: 0,0:47:57.81,0:47:59.88,Default,,0000,0000,0000,,他们的装备更精良\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}They were too well armed,
+Dialogue: 0,0:47:59.88,0:48:01.58,Default,,0000,0000,0000,,更加训练有素\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}too well trained.
+Dialogue: 0,0:48:03.38,0:48:05.12,Default,,0000,0000,0000,,遇到他们并非偶然\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}They didn't just run into us.
+Dialogue: 0,0:48:05.12,0:48:07.05,Default,,0000,0000,0000,,难道有人在追杀我们？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You think we're being hunted？
+Dialogue: 0,0:48:09.12,0:48:12.49,Default,,0000,0000,0000,,如果哈拉德与他们的国王结盟了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}If Harald made an alliance with their King,
+Dialogue: 0,0:48:12.49,0:48:15.16,Default,,0000,0000,0000,,那么把我除掉肯定是他们谈好的条件之一\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}then getting rid of me would be part of the deal.
+Dialogue: 0,0:48:17.76,0:48:19.96,Default,,0000,0000,0000,,但是他们得先知道你的行踪才行啊\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}They'd need to know where to look for you.
+Dialogue: 0,0:48:22.97,0:48:25.10,Default,,0000,0000,0000,,也许有人在为他们通风报信\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Maybe someone's helping them.
+Dialogue: 0,0:48:25.10,0:48:28.71,Default,,0000,0000,0000,,你可别跟我来月亮和天兆之类的那一套鬼话\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Don't tell me you believe in all that crap about Moons and omens.
+Dialogue: 0,0:48:28.71,0:48:30.67,Default,,0000,0000,0000,,我只相信自己亲眼所见的事实\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I believe what I see with my own eyes.
+Dialogue: 0,0:48:30.68,0:48:32.14,Default,,0000,0000,0000,,好\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Right.
+Dialogue: 0,0:48:32.15,0:48:33.88,Default,,0000,0000,0000,,看这个\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Here.
+Dialogue: 0,0:48:35.45,0:48:37.42,Default,,0000,0000,0000,,是瓦里掉的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Vali dropped it.
+Dialogue: 0,0:48:38.98,0:48:40.82,Default,,0000,0000,0000,,看看上面的图案\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Look at the markings.
+Dialogue: 0,0:48:42.65,0:48:45.42,Default,,0000,0000,0000,,这是一枚撒克逊银币\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}It's a saxon coin.
+Dialogue: 0,0:48:45.43,0:48:47.86,Default,,0000,0000,0000,,你认为瓦里在为我们的敌人卖命？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You think vali is a servant of our enemies？
+Dialogue: 0,0:48:47.86,0:48:51.53,Default,,0000,0000,0000,,如果他听命于与撒克逊人串通的哈拉德,那就没错了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}If he serves Harald,who himself serves the Saxons,it amounts to the same thing.
+Dialogue: 0,0:48:51.53,0:48:54.67,Default,,0000,0000,0000,,凭一块银币就能判断？ 他可是我兄弟啊\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}All from a piece of silver？ He's my brother.
+Dialogue: 0,0:48:54.67,0:48:57.17,Default,,0000,0000,0000,,只是同父异母的而已,他母亲是个撒克逊人\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Half brother. His mother's a Saxon.
+Dialogue: 0,0:48:57.17,0:49:01.77,Default,,0000,0000,0000,,- 你这是什么屁话 - 你不是说过自己很讲道理还讲逻辑\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- Listen to yourself. - You say you believe in reason and logic.
+Dialogue: 0,0:49:01.77,0:49:04.18,Default,,0000,0000,0000,,当逻辑摆在你面前时又视而不见\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}When it's presented to you, you turn your back on it.
+Dialogue: 0,0:49:04.18,0:49:06.78,Default,,0000,0000,0000,,我哪里不讲道理和逻辑了？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}In what way do my actions betray a lack of reason？
+Dialogue: 0,0:49:06.78,0:49:08.98,Default,,0000,0000,0000,,当你应该战斗时却逃跑\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You run when you should fight.
+Dialogue: 0,0:49:08.98,0:49:12.12,Default,,0000,0000,0000,,当你应该去领导自己的同胞之时\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You set off on this meaningless quest
+Dialogue: 0,0:49:12.12,0:49:14.52,Default,,0000,0000,0000,,却在进行这个毫无意义的跑腿差事\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}when you should be leading your people.
+Dialogue: 0,0:49:14.52,0:49:16.52,Default,,0000,0000,0000,,当你应该与最亲密的老朋友 站在同一阵线的时候\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}And then you side with a bastard traitor
+Dialogue: 0,0:49:16.52,0:49:18.52,Default,,0000,0000,0000,,却又在袒护这个随时随地\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}who would stick a knife in your back,
+Dialogue: 0,0:49:18.52,0:49:20.52,Default,,0000,0000,0000,,会朝你背上捅一刀的杂种叛徒\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}rather than your oldest friend.
+Dialogue: 0,0:49:20.53,0:49:22.53,Default,,0000,0000,0000,,那你想我怎么样？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}What would you have me do,huh？
+Dialogue: 0,0:49:22.53,0:49:24.03,Default,,0000,0000,0000,,嗯？杀了他？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Hmm？ Kill him？
+Dialogue: 0,0:49:24.03,0:49:25.53,Default,,0000,0000,0000,,最好如此\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Better if you did.
+Dialogue: 0,0:49:25.53,0:49:28.53,Default,,0000,0000,0000,,他只是个孩子 好好想想吧\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He's a child. Think about that.
+Dialogue: 0,0:49:30.07,0:49:33.20,Default,,0000,0000,0000,,想想你那2个女儿\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Think about your two daughters.
+Dialogue: 0,0:49:33.21,0:49:38.58,Default,,0000,0000,0000,,非常时期需要非常手段,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Dark times call for dark deeds,Steinar.
+Dialogue: 0,0:49:39.81,0:49:43.01,Default,,0000,0000,0000,,你错了,海根\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You're wrong,hagen.
+Dialogue: 0,0:49:43.02,0:49:45.58,Default,,0000,0000,0000,,非常时期更需要正当之举\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}They call for light.
+Dialogue: 0,0:49:52.92,0:49:55.69,Default,,0000,0000,0000,,斯坦纳！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Steinar!
+Dialogue: 0,0:50:03.50,0:50:05.74,Default,,0000,0000,0000,,快\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Come on.
+Dialogue: 0,0:50:11.71,0:50:12.94,Default,,0000,0000,0000,,快点！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Hurry up!
+Dialogue: 0,0:50:29.96,0:50:32.53,Default,,0000,0000,0000,,- 我们打不过他们的！ - 我来挡一下他们！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- We can't outrun them! - I'll slow them down!
+Dialogue: 0,0:50:46.65,0:50:47.81,Default,,0000,0000,0000,,该死\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Damn.
+Dialogue: 0,0:51:59.78,0:52:01.39,Default,,0000,0000,0000,,你叫什么来着？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}What do they call you？
+Dialogue: 0,0:52:03.25,0:52:06.19,Default,,0000,0000,0000,,拜托,你肯定有名字的吧\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Come on,you must have a name.
+Dialogue: 0,0:52:06.19,0:52:08.13,Default,,0000,0000,0000,,自个儿撸去吧\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Go fuck yourself.
+Dialogue: 0,0:52:10.93,0:52:12.70,Default,,0000,0000,0000,,太令人失望了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}That's disappointing.
+Dialogue: 0,0:52:14.67,0:52:16.70,Default,,0000,0000,0000,,还以为当王子的都有些料儿的呢\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I had expected more from a prince.
+Dialogue: 0,0:52:16.70,0:52:19.20,Default,,0000,0000,0000,,不管你与我兄弟达成什么交易\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Whatever deal you struck with my brother,
+Dialogue: 0,0:52:20.41,0:52:21.91,Default,,0000,0000,0000,,都不会长久的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}it won't last.
+Dialogue: 0,0:52:21.91,0:52:23.91,Default,,0000,0000,0000,,兄弟\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Brother.
+Dialogue: 0,0:52:30.78,0:52:33.02,Default,,0000,0000,0000,,眼下的形势\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Right now
+Dialogue: 0,0:52:33.02,0:52:36.39,Default,,0000,0000,0000,,我们可以互相帮助\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}we're in a position where we can help each other.
+Dialogue: 0,0:52:36.39,0:52:38.26,Default,,0000,0000,0000,,我可以确保\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I could help make sure
+Dialogue: 0,0:52:38.26,0:52:41.66,Default,,0000,0000,0000,,你当上你那些同胞的国王\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}you become King of your people.
+Dialogue: 0,0:52:41.66,0:52:44.80,Default,,0000,0000,0000,,我们之间可以成立一个真正的联盟\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We could forge a real alliance
+Dialogue: 0,0:52:44.80,0:52:46.80,Default,,0000,0000,0000,,这个联盟可以持续好几代人\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}that could last generations.
+Dialogue: 0,0:52:46.80,0:52:48.97,Default,,0000,0000,0000,,要我们生活在十字架的阴影之下？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- Under the shadow of the cross？ - Under the protection
+Dialogue: 0,0:52:48.97,0:52:51.87,Default,,0000,0000,0000,,生活在一个仁慈的国王\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}of a benevolent King and a church
+Dialogue: 0,0:52:51.87,0:52:54.67,Default,,0000,0000,0000,,和一个鼓励教育和学习的教会保护之下\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}that would encourage education and learning.
+Dialogue: 0,0:52:54.67,0:52:58.94,Default,,0000,0000,0000,,哦,我看得出教育和学习的好处\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Well,I can see the benefits in education and learning,
+Dialogue: 0,0:52:58.94,0:53:03.35,Default,,0000,0000,0000,,但是当你提到你们的上帝的时候\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}but when you start talking about your God,
+Dialogue: 0,0:53:03.35,0:53:05.28,Default,,0000,0000,0000,,似乎并没有什么理性可言,对吧？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}reason doesn't really come into it,does it？
+Dialogue: 0,0:53:16.46,0:53:18.46,Default,,0000,0000,0000,,好好考虑一下吧\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Think about it.
+Dialogue: 0,0:54:17.49,0:54:21.49,Default,,0000,0000,0000,,拜托,就喝一口\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Come on,just a sip.
+Dialogue: 0,0:54:39.38,0:54:42.18,Default,,0000,0000,0000,,割断绳子\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Cut my ropes.
+Dialogue: 0,0:54:42.18,0:54:43.88,Default,,0000,0000,0000,,小心！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Watch out!
+Dialogue: 0,0:54:43.88,0:54:45.48,Default,,0000,0000,0000,,再插他一刀\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Stab him again.
+Dialogue: 0,0:54:45.48,0:54:47.82,Default,,0000,0000,0000,,再插\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}And again.
+Dialogue: 0,0:54:48.92,0:54:52.06,Default,,0000,0000,0000,,再插\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}And again. And again.
+Dialogue: 0,0:55:29.23,0:55:30.93,Default,,0000,0000,0000,,你们没事吧？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You all right？
+Dialogue: 0,0:55:34.47,0:55:36.30,Default,,0000,0000,0000,,他怎么样？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}What about him？
+Dialogue: 0,0:55:36.30,0:55:38.44,Default,,0000,0000,0000,,他不喜欢被绑起来\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Didn't like being tied up.
+Dialogue: 0,0:55:38.44,0:55:40.50,Default,,0000,0000,0000,,把一个卫兵的耳朵咬了下来\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Took one of the guard's ears off.
+Dialogue: 0,0:55:40.51,0:55:42.21,Default,,0000,0000,0000,,瓦里在哪？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Where's vali？
+Dialogue: 0,0:55:43.84,0:55:45.98,Default,,0000,0000,0000,,他跟他们一起去见圣人了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He went with them to meet their holy men
+Dialogue: 0,0:55:45.98,0:55:48.98,Default,,0000,0000,0000,,还要在白色基督像面前跪拜\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}and bow down before the white Christ.
+Dialogue: 0,0:55:54.55,0:55:56.05,Default,,0000,0000,0000,,别让他死了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Keep him alive.
+Dialogue: 0,0:55:56.06,0:55:57.62,Default,,0000,0000,0000,,得叫他告诉我们去哪里找哈坎\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We need him to tell us where we're going.
+Dialogue: 0,0:55:59.89,0:56:03.19,Default,,0000,0000,0000,,- 我要带瓦里一起走 - 听着,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- I'm not leaving without vali. - Look,Steinar.
+Dialogue: 0,0:56:03.20,0:56:05.60,Default,,0000,0000,0000,,他否认了众神的存在\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He denied the existence of the Gods.
+Dialogue: 0,0:56:05.60,0:56:07.23,Default,,0000,0000,0000,,他乞求改变信仰\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He begged to be converted.
+Dialogue: 0,0:57:12.66,0:57:15.60,Default,,0000,0000,0000,,不要管他了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Let the boy go.
+Dialogue: 0,0:57:15.60,0:57:19.34,Default,,0000,0000,0000,,你们竟敢闯入上帝的圣地？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You dare break the sanctity of the House of God？
+Dialogue: 0,0:57:19.34,0:57:22.41,Default,,0000,0000,0000,,别跟我说什么信仰,\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You talk of reason. When it comes down to it,
+Dialogue: 0,0:57:22.41,0:57:24.71,Default,,0000,0000,0000,,你就跟其他人一样迷信\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}you're just as superstitious as the rest of them.
+Dialogue: 0,0:57:24.71,0:57:26.71,Default,,0000,0000,0000,,现在放下你们的武器\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Now lay down your weapons
+Dialogue: 0,0:57:26.71,0:57:28.71,Default,,0000,0000,0000,,放了那个小伙子\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}and let the boy go.
+Dialogue: 0,0:57:43.49,0:57:46.70,Default,,0000,0000,0000,,我们会追你到天涯海角\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Oh,we will hunt you down
+Dialogue: 0,0:57:46.70,0:57:50.17,Default,,0000,0000,0000,,然后像杀畜生一样杀了你\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}and kill you like the godless animals you are.
+Dialogue: 0,0:57:50.17,0:57:52.70,Default,,0000,0000,0000,,你们跑这大老远来\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You go to such lengths
+Dialogue: 0,0:57:52.71,0:57:55.74,Default,,0000,0000,0000,,建造这些教堂\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}to build these churches,
+Dialogue: 0,0:57:55.74,0:57:59.08,Default,,0000,0000,0000,,用它们来把恐惧\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}making sure they strike terror
+Dialogue: 0,0:57:59.08,0:58:04.11,Default,,0000,0000,0000,,植入到来这里的人心中\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}into the hearts of all who come near.
+Dialogue: 0,0:58:06.18,0:58:08.45,Default,,0000,0000,0000,,可它们只不过是一个带有门的屋子\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}It's just a room with a door...
+Dialogue: 0,0:58:11.56,0:58:14.02,Default,,0000,0000,0000,,跟监狱没有区别\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}no different to a prison.
+Dialogue: 0,0:58:15.36,0:58:17.73,Default,,0000,0000,0000,,斯坦纳！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Steinar!
+Dialogue: 0,0:58:23.13,0:58:25.64,Default,,0000,0000,0000,,把他们关到里面去！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Secure them inside!
+Dialogue: 0,0:58:25.64,0:58:27.37,Default,,0000,0000,0000,,进去！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Get in!
+Dialogue: 0,0:58:38.42,0:58:40.55,Default,,0000,0000,0000,,知道怎么找到哈坎了吗？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Do we have what we need to find Hakan？
+Dialogue: 0,0:58:47.43,0:58:50.39,Default,,0000,0000,0000,,你遵守了承诺\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You were true to your word.
+Dialogue: 0,0:58:54.47,0:58:57.57,Default,,0000,0000,0000,,让他记住我,王子殿下\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Remember me to him,prince.
+Dialogue: 0,0:58:57.57,0:59:00.54,Default,,0000,0000,0000,,当你见到他时\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}When you see him,
+Dialogue: 0,0:59:00.54,0:59:04.67,Default,,0000,0000,0000,,他的双眼可以看穿灵魂\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}his eyes pierce the soul.
+Dialogue: 0,0:59:06.44,0:59:08.45,Default,,0000,0000,0000,,他知道\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He knows
+Dialogue: 0,0:59:08.45,0:59:12.45,Default,,0000,0000,0000,,你的真正本性,懂吗？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}who you truly are,hmm？
+Dialogue: 0,0:59:12.45,0:59:15.62,Default,,0000,0000,0000,,就像一个神明……\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Like a God...
+Dialogue: 0,0:59:17.59,0:59:19.42,Default,,0000,0000,0000,,看着凡人一样\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}sees men.
+Dialogue: 0,0:59:22.06,0:59:25.53,Default,,0000,0000,0000,,你也相信众神的吧？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You believe in the Gods,don't you,hmm？
+Dialogue: 0,0:59:25.53,0:59:27.56,Default,,0000,0000,0000,,你相信……\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You believe in...
+Dialogue: 0,0:59:29.63,0:59:31.70,Default,,0000,0000,0000,,瓦尔哈拉？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Valhalla？
+Dialogue: 0,0:59:35.17,0:59:37.81,Default,,0000,0000,0000,,对\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Yeah.
+Dialogue: 0,0:59:37.81,0:59:40.44,Default,,0000,0000,0000,,Oh.
+Dialogue: 0,0:59:40.45,0:59:43.65,Default,,0000,0000,0000,,瓦尔哈拉,我来了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Valhalla,I'm coming.
+Dialogue: 0,0:59:58.36,1:00:00.83,Default,,0000,0000,0000,,Shh shh.
+Dialogue: 0,1:00:29.19,1:00:31.23,Default,,0000,0000,0000,,这是谁的？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Whose was this？
+Dialogue: 0,1:00:32.90,1:00:35.60,Default,,0000,0000,0000,,- 我母亲的 - 她去哪了？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- It belonged to my mother. - What happened to her？
+Dialogue: 0,1:00:35.60,1:00:41.44,Default,,0000,0000,0000,,她被黑暗所吞噬\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}She was swallowed up into the darkness.
+Dialogue: 0,1:00:46.44,1:00:48.58,Default,,0000,0000,0000,,就像万事万物一样\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Like everything else.
+Dialogue: 0,1:01:16.41,1:01:19.31,Default,,0000,0000,0000,,- 你们杀完了没有？ - 还有那男孩\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- Are you finished？ - The boy.
+Dialogue: 0,1:01:19.31,1:01:22.38,Default,,0000,0000,0000,,- 他怎么了？ - 他自愿跟随敌人\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- What about him？ - He went willingly,
+Dialogue: 0,1:01:22.38,1:01:24.75,Default,,0000,0000,0000,,还准备接受基督教\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}prepared to accept the white Christ.
+Dialogue: 0,1:01:27.42,1:01:30.72,Default,,0000,0000,0000,,你这样会惹来杀身之祸的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}It was that or death.
+Dialogue: 0,1:01:30.72,1:01:33.52,Default,,0000,0000,0000,,你不肯让步的话,我们也不会\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You didn't yield and neither did we.
+Dialogue: 0,1:01:36.33,1:01:38.76,Default,,0000,0000,0000,,我现在决不让步\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}And I won't now.
+Dialogue: 0,1:01:38.76,1:01:40.56,Default,,0000,0000,0000,,瓦里只会给我们带来厄运\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Vali has brought us nothing but bad luck.
+Dialogue: 0,1:01:40.57,1:01:42.20,Default,,0000,0000,0000,,如果我们把他献祭给众神\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}If we offer him up as a sacrifice,
+Dialogue: 0,1:01:42.20,1:01:44.83,Default,,0000,0000,0000,,在接下来的时间里众神肯定会眷顾我们的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}the Gods will look over us for the rest of our journey.
+Dialogue: 0,1:01:44.84,1:01:47.67,Default,,0000,0000,0000,,为了保护我们同胞的未来,这是值得的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}It's worth it to safeguard the future of our people.
+Dialogue: 0,1:01:47.67,1:01:51.71,Default,,0000,0000,0000,,只要有你这种想法的人,我们的同胞就没有未来\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}So long as there's men who think like you,our people have no future.
+Dialogue: 0,1:01:51.71,1:01:55.95,Default,,0000,0000,0000,,他是个叛徒和懦夫,他应该去死\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He's a traitor and a coward. And he deserves to die.
+Dialogue: 0,1:01:55.95,1:01:59.28,Default,,0000,0000,0000,,- 让开,斯坦纳 - 别逼我\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- Step aside,Steinar. - Don't make me do this.
+Dialogue: 0,1:01:59.28,1:02:01.75,Default,,0000,0000,0000,,那你就让我别无选择\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Then you leave me no choice.
+Dialogue: 0,1:02:38.62,1:02:39.86,Default,,0000,0000,0000,,让开！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Yield!
+Dialogue: 0,1:03:40.32,1:03:41.58,Default,,0000,0000,0000,,不！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}No!
+Dialogue: 0,1:03:43.65,1:03:45.36,Default,,0000,0000,0000,,不！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}No!
+Dialogue: 0,1:04:15.49,1:04:17.49,Default,,0000,0000,0000,,教堂里的人怎么办？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}What about the people in the church？
+Dialogue: 0,1:06:15.74,1:06:17.24,Default,,0000,0000,0000,,等一下\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Wait.
+Dialogue: 0,1:06:31.62,1:06:33.62,Default,,0000,0000,0000,,不能碰它\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}No,we shouldn't touch it.
+Dialogue: 0,1:06:33.63,1:06:35.89,Default,,0000,0000,0000,,我跟你说,这可不单是一根棍子插着一个人头\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I'm telling you,this isn't just somebody's head on a stick.
+Dialogue: 0,1:06:35.89,1:06:37.89,Default,,0000,0000,0000,,这是个标志\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}This is a sign.
+Dialogue: 0,1:06:37.90,1:06:41.80,Default,,0000,0000,0000,,表示我们不能进去\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}This is telling us to stay the fuck away.
+Dialogue: 0,1:06:41.80,1:06:43.57,Default,,0000,0000,0000,,这是什么？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Well,what is it？
+Dialogue: 0,1:06:43.57,1:06:45.84,Default,,0000,0000,0000,,这是个符文石\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}It's a runestone.
+Dialogue: 0,1:06:45.84,1:06:48.10,Default,,0000,0000,0000,,就是艾瓦尔要带我们找的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}This is what Ivar was leading us to.
+Dialogue: 0,1:06:48.11,1:06:52.08,Default,,0000,0000,0000,,这可不妙啊,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}This isn't good,Steinar,I'm telling you.
+Dialogue: 0,1:06:54.21,1:06:56.71,Default,,0000,0000,0000,,要找到哈坎,就得先找到这个\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}To find Hakan,we had to find this first.
+Dialogue: 0,1:06:59.02,1:07:00.28,Default,,0000,0000,0000,,上面写着什么？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}What does it say？
+Dialogue: 0,1:07:03.22,1:07:06.19,Default,,0000,0000,0000,,写的不是如何找到哈坎\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}This isn't telling us how to find Hakan.
+Dialogue: 0,1:07:06.19,1:07:08.76,Default,,0000,0000,0000,,而是个警告\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}It's a warning,
+Dialogue: 0,1:07:08.76,1:07:11.13,Default,,0000,0000,0000,,如果我们找了就会有可怕的后果\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}saying what will happen if we try.
+Dialogue: 0,1:07:11.13,1:07:13.23,Default,,0000,0000,0000,,这是啥意思？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Well,what does it mean？
+Dialogue: 0,1:07:13.23,1:07:15.27,Default,,0000,0000,0000,,意思是我们离哈坎很近了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}It means we're close,
+Dialogue: 0,1:07:15.27,1:07:17.97,Default,,0000,0000,0000,,仅此而已\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}nothing more,nothing less.
+Dialogue: 0,1:07:17.97,1:07:19.97,Default,,0000,0000,0000,,我不能进去,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I can't go in there,Steinar.
+Dialogue: 0,1:07:19.97,1:07:22.61,Default,,0000,0000,0000,,就是不行\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I just can't.
+Dialogue: 0,1:07:22.61,1:07:25.88,Default,,0000,0000,0000,,- 没啥好怕的,贾库尔 - 我知道这些事情\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- Nothing to fear,Jokul. - I know these things.
+Dialogue: 0,1:07:25.88,1:07:28.01,Default,,0000,0000,0000,,如果我走进森林,我就死定了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}If I step foot in that forest,I'm dead.
+Dialogue: 0,1:07:28.01,1:07:29.98,Default,,0000,0000,0000,,你不进也会死\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You'll be dead if you don't.
+Dialogue: 0,1:08:37.98,1:08:39.72,Default,,0000,0000,0000,,贾库尔\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Jokul.
+Dialogue: 0,1:08:43.85,1:08:45.86,Default,,0000,0000,0000,,阿格尼斯！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Agnes!
+Dialogue: 0,1:11:50.81,1:11:52.88,Default,,0000,0000,0000,,你没有死……\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You're not dead...
+Dialogue: 0,1:11:55.15,1:11:57.11,Default,,0000,0000,0000,,还没有\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Not yet anyway.
+Dialogue: 0,1:12:00.82,1:12:04.25,Default,,0000,0000,0000,,你想知道为何还没死吗？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You want to know why you're not dead？
+Dialogue: 0,1:12:04.26,1:12:05.42,Default,,0000,0000,0000,,嗯？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Huh？
+Dialogue: 0,1:12:07.49,1:12:10.43,Default,,0000,0000,0000,,Huh？ Huh？
+Dialogue: 0,1:12:13.03,1:12:15.60,Default,,0000,0000,0000,,因为这是他的决定\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Because he chose it.
+Dialogue: 0,1:12:15.60,1:12:19.30,Default,,0000,0000,0000,,他决定谁生谁死\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He decides who lives,who dies.
+Dialogue: 0,1:12:24.11,1:12:26.48,Default,,0000,0000,0000,,你是谁？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Who are you,huh？
+Dialogue: 0,1:12:26.48,1:12:29.55,Default,,0000,0000,0000,,我是……\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I am
+Dialogue: 0,1:12:29.55,1:12:31.98,Default,,0000,0000,0000,,史学家乌尔里克\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Ulric the chronicler...
+Dialogue: 0,1:12:34.35,1:12:38.15,Default,,0000,0000,0000,,大王的仆人\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}a humble servant of the great master.
+Dialogue: 0,1:12:38.16,1:12:41.16,Default,,0000,0000,0000,,那好吧,乌尔里克\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Well,Ulric,
+Dialogue: 0,1:12:41.16,1:12:44.39,Default,,0000,0000,0000,,麻烦你去告诉你们大王\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}if you wouldn't mind telling the great master
+Dialogue: 0,1:12:44.40,1:12:47.16,Default,,0000,0000,0000,,说他弟弟来找他了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}that his brother's here to see him.
+Dialogue: 0,1:12:49.17,1:12:51.87,Default,,0000,0000,0000,,他没有弟弟\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He has no brother,
+Dialogue: 0,1:12:51.87,1:12:55.17,Default,,0000,0000,0000,,没有父亲,没有母亲\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}no father,no mother.
+Dialogue: 0,1:12:55.17,1:12:57.21,Default,,0000,0000,0000,,不过我会向他转告的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I'll tell him what you said though.
+Dialogue: 0,1:12:58.94,1:13:01.24,Default,,0000,0000,0000,,他听了也许会很开心\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}It might amuse him.
+Dialogue: 0,1:14:05.14,1:14:06.51,Default,,0000,0000,0000,,瓦里？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Vali？
+Dialogue: 0,1:14:09.11,1:14:12.55,Default,,0000,0000,0000,,瓦里,放我下来\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Vali,untie me.
+Dialogue: 0,1:14:18.12,1:14:20.49,Default,,0000,0000,0000,,瓦里,阿格尼斯在哪里？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Vali,where's Agnes？
+Dialogue: 0,1:14:20.49,1:14:22.33,Default,,0000,0000,0000,,贾库尔呢？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Where's Jokul？
+Dialogue: 0,1:14:24.26,1:14:25.46,Default,,0000,0000,0000,,瓦里？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Vali？
+Dialogue: 0,1:15:47.71,1:15:50.75,Default,,0000,0000,0000,,你真是大老远跑到这里来啊,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You're a long way from home,Steinar.
+Dialogue: 0,1:15:52.35,1:15:54.05,Default,,0000,0000,0000,,他也是走了很远才到这里的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}So is he.
+Dialogue: 0,1:15:56.65,1:15:58.65,Default,,0000,0000,0000,,这里是他的家\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}This is his home.
+Dialogue: 0,1:16:12.14,1:16:13.70,Default,,0000,0000,0000,,我们的父王要死了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Our father's dying.
+Dialogue: 0,1:16:17.77,1:16:20.34,Default,,0000,0000,0000,,当你想到家的时候\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}What do you see...
+Dialogue: 0,1:16:23.21,1:16:25.55,Default,,0000,0000,0000,,你看到了什么？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}when you think of home？
+Dialogue: 0,1:16:30.55,1:16:33.12,Default,,0000,0000,0000,,看到了……\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I think of the...
+Dialogue: 0,1:16:33.12,1:16:35.72,Default,,0000,0000,0000,,蓝天\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}the blue of the sky,
+Dialogue: 0,1:16:35.73,1:16:38.16,Default,,0000,0000,0000,,葱郁的森林\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}the green of the forest.
+Dialogue: 0,1:16:41.13,1:16:43.13,Default,,0000,0000,0000,,小松林\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}The smell of the pine trees.
+Dialogue: 0,1:16:47.74,1:16:49.77,Default,,0000,0000,0000,,我什么也看不见\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I see nothing.
+Dialogue: 0,1:16:53.51,1:16:55.64,Default,,0000,0000,0000,,什么也没有……\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Nothing...
+Dialogue: 0,1:16:55.65,1:16:57.75,Default,,0000,0000,0000,,只有黑暗\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}but darkness.
+Dialogue: 0,1:17:09.83,1:17:12.23,Default,,0000,0000,0000,,你为什么……\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Why have you
+Dialogue: 0,1:17:12.23,1:17:14.50,Default,,0000,0000,0000,,来这里？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}come here？
+Dialogue: 0,1:17:14.50,1:17:16.37,Default,,0000,0000,0000,,是我们的父王派我来的\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Our father sent me.
+Dialogue: 0,1:17:16.37,1:17:18.13,Default,,0000,0000,0000,,他派我来带你回去\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He sent me to bring you back...
+Dialogue: 0,1:17:20.34,1:17:25.71,Default,,0000,0000,0000,,当国王\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}to lead your people as King.
+Dialogue: 0,1:17:28.81,1:17:32.55,Default,,0000,0000,0000,,你不知道自己将要面对什么\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You don't know what you ask,
+Dialogue: 0,1:17:32.55,1:17:35.22,Default,,0000,0000,0000,,但你很快就知道了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}but you will.
+Dialogue: 0,1:17:49.63,1:17:52.47,Default,,0000,0000,0000,,开始盛宴吧！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Let the feast begin!
+Dialogue: 0,1:18:24.20,1:18:27.67,Default,,0000,0000,0000,,朋友们\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Friends,
+Dialogue: 0,1:18:27.67,1:18:32.71,Default,,0000,0000,0000,,这是一个重要的日子\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}- this is a momentous day. - Yeah!
+Dialogue: 0,1:18:32.71,1:18:37.81,Default,,0000,0000,0000,,这是一个重要的时刻\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}This is a truly momentous occasion.
+Dialogue: 0,1:18:37.82,1:18:41.22,Default,,0000,0000,0000,,开始疯狂庆祝吧！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Commence the festivities!
+Dialogue: 0,1:18:51.56,1:18:55.43,Default,,0000,0000,0000,,跟我一起来的人怎么样了？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}The people I arrived with-- what happened to them？
+Dialogue: 0,1:20:10.01,1:20:12.78,Default,,0000,0000,0000,,喂\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Hey,
+Dialogue: 0,1:20:12.78,1:20:15.71,Default,,0000,0000,0000,,哈坎出走的时候,你多大？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}how old were you when Hakan left？
+Dialogue: 0,1:20:15.71,1:20:19.35,Default,,0000,0000,0000,,10岁……11岁\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}10,11.
+Dialogue: 0,1:20:19.35,1:20:23.02,Default,,0000,0000,0000,,难道你从来没想过他为何出走？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Were you never curious as to why？
+Dialogue: 0,1:21:02.36,1:21:04.13,Default,,0000,0000,0000,,我一直爱着你\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I always loved you.
+Dialogue: 0,1:21:05.73,1:21:08.43,Default,,0000,0000,0000,,从来不想我们分开\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I never wanted us to be separated.
+Dialogue: 0,1:21:10.53,1:21:13.67,Default,,0000,0000,0000,,所有当母亲的都不愿意骨肉分离\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}No mother would ever wish for such a thing.
+Dialogue: 0,1:21:16.61,1:21:18.64,Default,,0000,0000,0000,,但现在要改变了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}But that's all going to change now.
+Dialogue: 0,1:21:21.95,1:21:24.98,Default,,0000,0000,0000,,现在是时候让全世界\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Now is the time for the world
+Dialogue: 0,1:21:24.98,1:21:27.15,Default,,0000,0000,0000,,拜倒在他的神威之下\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}to bow down before his might.
+Dialogue: 0,1:21:27.15,1:21:29.49,Default,,0000,0000,0000,,哈坎！哈坎！哈坎！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Hakan! Hakan! Hakan!
+Dialogue: 0,1:21:29.49,1:21:31.82,Default,,0000,0000,0000,,所有人都跪在他面前\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}All men will bow down before him.
+Dialogue: 0,1:21:31.82,1:21:34.02,Default,,0000,0000,0000,,哈坎！哈坎！哈坎！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Hakan! Hakan! Hakan!
+Dialogue: 0,1:21:34.02,1:21:37.66,Default,,0000,0000,0000,,哈坎！哈坎！ 哈坎！哈坎！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Hakan! Hakan! Hakan! Hakan!
+Dialogue: 0,1:21:40.70,1:21:43.77,Default,,0000,0000,0000,,哈坎！哈坎！ 哈坎！哈坎！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Hakan! Hakan! Hakan! Hakan!
+Dialogue: 0,1:21:43.77,1:21:45.57,Default,,0000,0000,0000,,跪在国王面前！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Bow down before the King!
+Dialogue: 0,1:22:22.44,1:22:25.81,Default,,0000,0000,0000,,哈坎！哈坎！ 哈坎！哈坎！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Hakan! Hakan! Hakan! Hakan!
+Dialogue: 0,1:22:25.81,1:22:28.94,Default,,0000,0000,0000,,哈坎！哈坎！ 哈坎！哈坎！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Hakan! Hakan! Hakan! Hakan!
+Dialogue: 0,1:23:03.55,1:23:06.25,Default,,0000,0000,0000,,跪下,跪在你的国王面前\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Bow before him. Kneel before your King.
+Dialogue: 0,1:23:17.26,1:23:19.16,Default,,0000,0000,0000,,你敢藐视他？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Do you deny him？
+Dialogue: 0,1:23:22.60,1:23:24.50,Default,,0000,0000,0000,,没错\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}I deny him.
+Dialogue: 0,1:24:55.73,1:24:59.16,Default,,0000,0000,0000,,你胆敢怀疑你的国王\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You dare question your King.
+Dialogue: 0,1:24:59.16,1:25:01.80,Default,,0000,0000,0000,,你胆敢怀疑你的神明\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}You dare question your God.
+Dialogue: 0,1:25:04.37,1:25:07.04,Default,,0000,0000,0000,,现在你的怀疑\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Now your questions will be answered
+Dialogue: 0,1:25:07.04,1:25:09.20,Default,,0000,0000,0000,,将会通过他的神威……\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}through his immortality...
+Dialogue: 0,1:25:15.31,1:25:20.85,Default,,0000,0000,0000,,还有你的灭亡……来获得解答\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}...and your destruction.
+Dialogue: 0,1:30:42.51,1:30:44.51,Default,,0000,0000,0000,,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Steinar.
+Dialogue: 0,1:32:28.34,1:32:29.58,Default,,0000,0000,0000,,斯坦纳\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Steinar.
+Dialogue: 0,1:32:37.39,1:32:39.69,Default,,0000,0000,0000,,哈坎在哪？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Well,where's Hakan？
+Dialogue: 0,1:32:50.40,1:32:53.10,Default,,0000,0000,0000,,你派他去找他哥哥\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He was sent to find his brother
+Dialogue: 0,1:32:53.10,1:32:56.34,Default,,0000,0000,0000,,他却带着哥哥的人头回来\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}and he returns with his head in a bag.
+Dialogue: 0,1:32:56.34,1:32:58.44,Default,,0000,0000,0000,,我派他去寻找王者\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}He was sent to find the King.
+Dialogue: 0,1:33:00.18,1:33:02.31,Default,,0000,0000,0000,,看来他已经找到了\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Looks like he found one.
+Dialogue: 0,1:33:03.45,1:33:05.85,Default,,0000,0000,0000,,我们营地里有多少人？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}How many people do we have in camp？
+Dialogue: 0,1:33:05.85,1:33:09.72,Default,,0000,0000,0000,,600到650个\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}600,650.
+Dialogue: 0,1:33:09.72,1:33:12.49,Default,,0000,0000,0000,,天亮前我们还能召集多少？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}How many more could we muster by the morning？
+Dialogue: 0,1:33:12.49,1:33:13.86,Default,,0000,0000,0000,,几百个\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}A few hundred more.
+Dialogue: 0,1:33:16.09,1:33:18.23,Default,,0000,0000,0000,,我们离撒克逊军队有多远？\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}And how far away is the saxon army？
+Dialogue: 0,1:33:23.27,1:33:25.30,Default,,0000,0000,0000,,骑马一天不到\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}No more than a day's ride.
+Dialogue: 0,1:33:26.64,1:33:28.87,Default,,0000,0000,0000,,好\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Good.
+Dialogue: 0,1:33:28.87,1:33:31.21,Default,,0000,0000,0000,,天一亮我们就出发\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}We leave at first light.
+Dialogue: 0,1:33:52.19,1:33:53.70,Default,,0000,0000,0000,,张开嘴\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Open your mouth.
+Dialogue: 0,1:34:07.81,1:34:09.71,Default,,0000,0000,0000,,吞下去！\N{\rasEng}{\fnSegoe Print\fs14\1c&H00FFFF&}Swallow it!
+

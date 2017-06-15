@@ -1,0 +1,2571 @@
+﻿1
+00:00:02,410 --> 00:00:05,380
+{\fn方正大黑简体\fs12\bord1\shad0}本剧改编自圣经  它们曾改变世界{\r}
+
+2
+00:00:05,380 --> 00:00:09,820
+{\fn方正大黑简体\fs12\bord1\shad0}本剧将始终保持《圣经》真谛{\r}
+
+3
+00:00:10,060 --> 00:00:12,080
+{\fn方正大黑简体\fs12\bord1\shad0}《圣经》前情提要{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Previously on The Bible.{\r}
+
+4
+00:00:13,310 --> 00:00:17,540
+{\fn方正大黑简体\fs12\bord1\shad0}犹太王国是由伟大的英雄们一手建立{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Great heroes have forged the Jewish nation in faith.{\r}
+
+5
+00:00:19,780 --> 00:00:22,950
+{\fn方正大黑简体\fs12\bord1\shad0}梅瑟解放了子民  带他们摆脱埃及人的奴役{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Moses freed the people from Egyptian slavery.{\r}
+
+6
+00:00:22,950 --> 00:00:25,290
+{\fn方正大黑简体\fs12\bord1\shad0}上主啊{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Lord!{\r}
+
+7
+00:00:28,060 --> 00:00:30,510
+{\fn方正大黑简体\fs12\bord1\shad0}跟我走{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Follow me!{\r}
+
+8
+00:00:31,740 --> 00:00:34,550
+{\fn方正大黑简体\fs12\bord1\shad0}若苏厄带领他的人民进入盟约之地{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Joshua led them into the promised land.{\r}
+
+9
+00:00:34,550 --> 00:00:37,010
+{\fn方正大黑简体\fs12\bord1\shad0}以色列  以色列{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Israel! Israel!{\r}
+
+10
+00:00:37,010 --> 00:00:39,740
+{\fn方正大黑简体\fs12\bord1\shad0}达味团结以色列人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}David united the Israelites...{\r}
+
+11
+00:00:39,740 --> 00:00:42,130
+{\fn方正大黑简体\fs12\bord1\shad0}夺下了耶路撒冷{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}and delivered the city of Jerusalem.{\r}
+
+12
+00:00:44,840 --> 00:00:48,000
+{\fn方正大黑简体\fs12\bord1\shad0}但如今他们的后裔由罗马统治{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}But now their descendants are ruled by Rome...{\r}
+
+13
+00:00:48,380 --> 00:00:50,080
+{\fn方正大黑简体\fs12\bord1\shad0}臣服于般雀·比拉多之下{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}under Pontius Pilate.{\r}
+
+14
+00:00:50,200 --> 00:00:53,010
+{\fn方正大黑简体\fs12\bord1\shad0}罗马人渣  罗马强盗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Roman scum! Roman thieves!{\r}
+
+15
+00:00:53,010 --> 00:00:55,080
+{\fn方正大黑简体\fs12\bord1\shad0}数百人正要去见比拉多长官{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Hundreds are heading to see the Prefect Pilate.{\r}
+
+16
+00:00:55,080 --> 00:00:55,870
+{\fn方正大黑简体\fs12\bord1\shad0}什么{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}What?{\r}
+
+17
+00:00:56,630 --> 00:00:59,270
+{\fn方正大黑简体\fs12\bord1\shad0}他们还未近他的身  就会成为亡魂{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He'll have them cut down before they could get anywhere near him.{\r}
+
+18
+00:00:59,270 --> 00:01:03,120
+{\fn方正大黑简体\fs12\bord1\shad0}也该让你们知道你们的主人为你们做了什么{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}It's time you understood what your masters do for you.{\r}
+
+19
+00:01:05,260 --> 00:01:08,600
+{\fn方正大黑简体\fs12\bord1\shad0}比拉多残杀了成百上千的犹太人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Pilate has already massacred hundreds of Jewish people.{\r}
+
+20
+00:01:11,630 --> 00:01:15,040
+{\fn方正大黑简体\fs12\bord1\shad0}大司祭盖法深感再多的骚乱{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}High Priest Caiaphas feels any further disorder{\r}
+
+21
+00:01:15,040 --> 00:01:16,940
+{\fn方正大黑简体\fs12\bord1\shad0}只会让比拉多继续杀戮{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}could make Pilate kill again.{\r}
+
+22
+00:01:17,970 --> 00:01:19,550
+{\fn方正大黑简体\fs12\bord1\shad0}或者关闭圣殿{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Or shut the temple.{\r}
+
+23
+00:01:22,650 --> 00:01:24,530
+{\fn方正大黑简体\fs12\bord1\shad0}在加里肋亚{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}In the province of Galilee,{\r}
+
+24
+00:01:24,610 --> 00:01:27,670
+{\fn方正大黑简体\fs12\bord1\shad0}耶稣已经引起轰动{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Jesus has already been making waves.{\r}
+
+25
+00:01:29,990 --> 00:01:32,140
+{\fn方正大黑简体\fs12\bord1\shad0}倘若你饥渴慕义{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}If you hunger for righteousness,{\r}
+
+26
+00:01:32,310 --> 00:01:36,020
+{\fn方正大黑简体\fs12\bord1\shad0}跟随我  你们必要得饱饫{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}you will be filled... through me.{\r}
+
+27
+00:01:36,690 --> 00:01:37,800
+{\fn方正大黑简体\fs12\bord1\shad0}我听说了一个年轻先知{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I've had a report of a young prophet,{\r}
+
+28
+00:01:37,800 --> 00:01:40,660
+{\fn方正大黑简体\fs12\bord1\shad0}纳匝肋人耶稣{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Jesus of Nazareth.{\r}
+
+29
+00:01:40,660 --> 00:01:43,130
+{\fn方正大黑简体\fs12\bord1\shad0}在加里肋亚  有很多人跟从他{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He has a big following in Galilee.{\r}
+
+30
+00:01:43,680 --> 00:01:45,280
+{\fn方正大黑简体\fs12\bord1\shad0}他能创造奇迹{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He works miracles.{\r}
+
+31
+00:01:46,210 --> 00:01:48,350
+{\fn方正大黑简体\fs12\bord1\shad0}耶稣为村民驱魔{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Jesus has cast out demons,{\r}
+
+32
+00:01:49,170 --> 00:01:50,570
+{\fn方正大黑简体\fs12\bord1\shad0}治疗疾病{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}cured the sick...{\r}
+
+33
+00:01:50,840 --> 00:01:53,080
+{\fn方正大黑简体\fs12\bord1\shad0}甚至能起死回生{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}and has even raised the dead.{\r}
+
+34
+00:01:53,700 --> 00:01:56,550
+{\fn方正大黑简体\fs12\bord1\shad0}很多人都相信  他就是默西亚{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Thousands believe he is the Messiah.{\r}
+
+35
+00:01:56,550 --> 00:01:58,320
+{\fn方正大黑简体\fs12\bord1\shad0}他们希望你能做他们的君王{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}They want you to be their king,{\r}
+
+36
+00:01:58,370 --> 00:02:00,080
+{\fn方正大黑简体\fs12\bord1\shad0}犹太人的王{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}king of the Jews.{\r}
+
+37
+00:02:00,130 --> 00:02:01,920
+{\fn方正大黑简体\fs12\bord1\shad0}你能像带领军队一般引领我们{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}You can lead us like an army.{\r}
+
+38
+00:02:03,790 --> 00:02:07,130
+{\fn方正大黑简体\fs12\bord1\shad0}动用武力不是解决办法{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}This is not the way, not by force.{\r}
+
+39
+00:02:07,540 --> 00:02:09,500
+{\fn方正大黑简体\fs12\bord1\shad0}耶稣和他的跟随者{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Now Jesus and his followers...{\r}
+
+40
+00:02:09,500 --> 00:02:13,040
+{\fn方正大黑简体\fs12\bord1\shad0}正前往权力的中心--耶路撒冷 前进{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}are heading to the center of power- Jerusalem.{\r}
+
+41
+00:02:13,320 --> 00:02:15,170
+{\fn方正大黑简体\fs12\bord1\shad0}加里肋亚默西亚的出现{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}The Messiah from Galilee{\r}
+
+42
+00:02:15,180 --> 00:02:18,290
+{\fn方正大黑简体\fs12\bord1\shad0}和耶路撒冷逾越节的时间如此接近{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}and Jerusalem of Passover have time near.{\r}
+
+43
+00:02:18,660 --> 00:02:20,000
+{\fn方正大黑简体\fs12\bord1\shad0}比拉多知道吗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Does Pilate know?{\r}
+
+44
+00:02:23,360 --> 00:02:27,470
+{\fn方正大黑简体\fs12\bord1\shad0}圣经{\r}
+
+45
+00:02:32,710 --> 00:02:36,270
+{\fn隶书\fs10\bord1\shad0}{\fn微软简隶书}主日
+逾越节前一周{\r\fn隶书\fs10\bord1\shad0}{\r}
+
+46
+00:02:43,690 --> 00:02:47,560
+{\fn方正大黑简体\fs12\bord1\shad0}逾越节是犹太人一年中最重要的节日{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Passover is the biggest Jewish festival of the year.{\r}
+
+47
+00:02:52,790 --> 00:02:56,140
+{\fn方正大黑简体\fs12\bord1\shad0}成千上万的人来到耶路撒冷感谢天主{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Thousands come to Jerusalem to thank God...{\r}
+
+48
+00:02:56,140 --> 00:02:59,770
+{\fn方正大黑简体\fs12\bord1\shad0}解救他们的祖先摆脱埃及人的奴役{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}for releasing their ancestors from Egyptian slavery.{\r}
+
+49
+00:03:09,800 --> 00:03:12,260
+{\fn方正大黑简体\fs12\bord1\shad0}看  是耶稣  默西亚{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Look! It's Jesus! The Messiah!{\r}
+
+50
+00:03:12,260 --> 00:03:14,500
+{\fn方正大黑简体\fs12\bord1\shad0}带上棕树枝  默西亚  默西亚{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Bring those palms! Messiah! Messiah!{\r}
+
+51
+00:03:14,500 --> 00:03:17,440
+{\fn方正大黑简体\fs12\bord1\shad0}耶稣进城在群众中掀起了狂潮{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Jesus ' entrance creates a storm.{\r}
+
+52
+00:03:17,440 --> 00:03:21,780
+{\fn方正大黑简体\fs12\bord1\shad0}他在那儿  他来了 贺三纳 贺三纳{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}There he is! There he is! Hosanna! Hosanna!{\r}
+
+53
+00:03:21,780 --> 00:03:24,570
+{\fn方正大黑简体\fs12\bord1\shad0}贺三纳  贺三纳{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Hosanna! Hosanna!{\r}
+
+54
+00:03:30,830 --> 00:03:34,910
+{\fn方正大黑简体\fs12\bord1\shad0}先知匝加利亚曾预言  犹太人的新王{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}The prophet Zechariah predicted that a new king of the Jews...{\r}
+
+55
+00:03:34,910 --> 00:03:37,430
+{\fn方正大黑简体\fs12\bord1\shad0}将骑着驴进城{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}would enter the city on a donkey.{\r}
+
+56
+00:03:48,690 --> 00:03:49,760
+{\fn方正大黑简体\fs12\bord1\shad0}贺三纳{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Hosanna!{\r}
+
+57
+00:03:54,030 --> 00:03:56,840
+{\fn方正大黑简体\fs12\bord1\shad0}贺三纳  贺三纳{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Hosanna! Hosanna!{\r}
+
+58
+00:04:08,830 --> 00:04:09,950
+{\fn方正大黑简体\fs12\bord1\shad0}他现在在哪儿{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Where is he now?{\r}
+
+59
+00:04:10,080 --> 00:04:13,570
+{\fn方正大黑简体\fs12\bord1\shad0}他刚骑着驴进了城{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He's just entered the city on a donkey.{\r}
+
+60
+00:04:14,620 --> 00:04:17,940
+{\fn方正大黑简体\fs12\bord1\shad0}瞧  你们的君王来了{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}See, your king comes to you,{\r}
+
+61
+00:04:18,120 --> 00:04:21,700
+{\fn方正大黑简体\fs12\bord1\shad0}一身正气  凯旋而来  而且谦卑有礼{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}righteous and victorious, humble...{\r}
+
+62
+00:04:21,820 --> 00:04:24,240
+{\fn方正大黑简体\fs12\bord1\shad0}还是骑着驴进城的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}and riding on a donkey.{\r}
+
+63
+00:04:24,770 --> 00:04:26,040
+{\fn方正大黑简体\fs12\bord1\shad0}他往哪里去了{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Where is he headed?{\r}
+
+64
+00:04:26,540 --> 00:04:28,010
+{\fn方正大黑简体\fs12\bord1\shad0}朝圣殿去了{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Towards the temple.{\r}
+
+65
+00:04:29,630 --> 00:04:34,840
+{\fn方正大黑简体\fs12\bord1\shad0}这个来自加里肋亚的扰乱者是个麻烦{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}This agitator from Galilee- he's trouble.{\r}
+
+66
+00:04:34,840 --> 00:04:36,860
+{\fn方正大黑简体\fs12\bord1\shad0}群众呢  有什么反应{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}The crowds- how are they responding?{\r}
+
+67
+00:04:37,740 --> 00:04:40,170
+{\fn方正大黑简体\fs12\bord1\shad0}罗马人呢  有采取行动吗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}And the Romans, have they made any move yet?{\r}
+
+68
+00:04:40,170 --> 00:04:42,700
+{\fn方正大黑简体\fs12\bord1\shad0}-没有  -迟早的事罢了{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}-No. -Hmm. Well, so far.{\r}
+
+69
+00:04:44,410 --> 00:04:47,690
+{\fn方正大黑简体\fs12\bord1\shad0}决不能让他在逾越节捣乱{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He must not interfere with Passover.{\r}
+
+70
+00:04:49,860 --> 00:04:54,110
+{\fn方正大黑简体\fs12\bord1\shad0}天主会将他的忿怒降在所有人身上{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}God will bring his wrath down upon all of us.{\r}
+
+71
+00:04:54,580 --> 00:04:57,990
+{\fn方正大黑简体\fs12\bord1\shad0}如果群众失控{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}And... who knows what Pilate will do...{\r}
+
+72
+00:04:57,990 --> 00:04:59,700
+{\fn方正大黑简体\fs12\bord1\shad0}谁知道比拉多会做出什么{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}if the crowds run out of control.{\r}
+
+73
+00:05:00,690 --> 00:05:03,140
+{\fn方正大黑简体\fs12\bord1\shad0}尼苛德摩  和玛耳曷一起去{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Nicodemus, go with Malchus.{\r}
+
+74
+00:05:03,140 --> 00:05:06,430
+{\fn方正大黑简体\fs12\bord1\shad0}如果他进入圣殿  好好看着他{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}If he enters the temple, watch him.{\r}
+
+75
+00:05:06,570 --> 00:05:08,400
+{\fn方正大黑简体\fs12\bord1\shad0}好好看着{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Do not blink.{\r}
+
+76
+00:05:08,820 --> 00:05:12,050
+{\fn方正大黑简体\fs12\bord1\shad0}我要知道一切情况  去吧{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I need to know everything. Go.{\r}
+
+77
+00:05:13,000 --> 00:05:18,000
+{\fn方正大黑简体\fs10\bord1\shad0}感谢YYETS字幕组
+原始翻译时间轴及制作{\r}
+
+78
+00:05:18,000 --> 00:05:23,000
+{\fn方正大黑简体\fs10\bord1\shad0}天主教长沙青年团体重制{\r}
+
+79
+00:05:23,000 --> 00:05:28,000
+{\fn方正大黑简体\fs10\bord1\shad0}本字幕采用天主教思高译本{\r}
+
+80
+00:05:28,000 --> 00:05:33,000
+{\fn方正大黑简体\fs10\bord1\shad0}仅供福传学习
+禁止用于任何商业盈利行为{\r}
+
+81
+00:05:33,000 --> 00:05:38,000
+{\fn方正大黑简体\fs10\shad0}如果你想为天主教的影视字幕出一份福传的力量， 请来Q群180574695【天主的译站】指导交流!{\r}
+
+82
+00:05:42,690 --> 00:05:44,640
+{\fn方正大黑简体\fs12\bord1\shad0}天国就要来了{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}The kingdom is coming!{\r}
+
+83
+00:05:46,170 --> 00:05:49,960
+{\fn方正大黑简体\fs12\bord1\shad0}天国就要来了  这可是默西亚{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}The kingdom is coming! Messiah!{\r}
+
+84
+00:05:50,000 --> 00:05:51,130
+{\fn方正大黑简体\fs12\bord1\shad0}那是巴辣巴{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}That's Barabbas.{\r}
+
+85
+00:05:51,130 --> 00:05:53,770
+{\fn方正大黑简体\fs12\bord1\shad0}默西亚{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Messiah!{\r}
+
+86
+00:05:53,770 --> 00:05:55,450
+{\fn方正大黑简体\fs12\bord1\shad0}以色列的君王{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}King of Israel,{\r}
+
+87
+00:05:55,450 --> 00:05:57,810
+{\fn方正大黑简体\fs12\bord1\shad0}你为什么不解救我们{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}why don't you make us free?{\r}
+
+88
+00:05:57,980 --> 00:06:01,150
+{\fn方正大黑简体\fs12\bord1\shad0}主啊  拯救我们远离罗马人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Save us from the Romans, Lord.{\r}
+
+89
+00:06:12,980 --> 00:06:14,530
+{\fn方正大黑简体\fs12\bord1\shad0}我们带着和平而来  巴辣巴{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}We come in peace, Barabbas.{\r}
+
+90
+00:06:25,560 --> 00:06:30,010
+{\fn方正大黑简体\fs12\bord1\shad0}贺三纳  贺三纳{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Hosanna! Hosanna!{\r}
+
+91
+00:06:30,010 --> 00:06:34,180
+{\fn方正大黑简体\fs12\bord1\shad0}贺三纳  贺三纳{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Hosanna! Hosanna!{\r}
+
+92
+00:06:35,110 --> 00:06:36,030
+{\fn方正大黑简体\fs12\bord1\shad0}让开{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Move.{\r}
+
+93
+00:06:36,150 --> 00:06:37,040
+{\fn方正大黑简体\fs12\bord1\shad0}闪开{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Get out of the way!{\r}
+
+94
+00:06:37,040 --> 00:06:38,380
+{\fn方正大黑简体\fs12\bord1\shad0}退开{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Get back!{\r}
+
+95
+00:07:20,960 --> 00:07:24,620
+{\fn方正大黑简体\fs12\bord1\shad0}圣殿是圣经之中最为神圣的地方{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}The temple is the holiest place in the Bible.{\r}
+
+96
+00:07:28,320 --> 00:07:29,930
+{\fn方正大黑简体\fs12\bord1\shad0}在节日里{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}During festival times,{\r}
+
+97
+00:07:29,980 --> 00:07:33,120
+{\fn方正大黑简体\fs12\bord1\shad0}买卖献祭的动物和兑换银钱的交易{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}selling sacrificial animals and changing money...{\r}
+
+98
+00:07:33,120 --> 00:07:35,020
+{\fn方正大黑简体\fs12\bord1\shad0}十分兴旺{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}has become a thriving business.{\r}
+
+99
+00:07:35,020 --> 00:07:36,670
+{\fn方正大黑简体\fs12\bord1\shad0}我来换换你这儿的钱{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Change your money here!{\r}
+
+100
+00:07:42,750 --> 00:07:44,150
+{\fn方正大黑简体\fs12\bord1\shad0}二  五{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Two, five-{\r}
+
+101
+00:07:45,010 --> 00:07:46,540
+{\fn方正大黑简体\fs12\bord1\shad0}都来这换吧{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}All change here!{\r}
+
+102
+00:07:50,380 --> 00:07:51,880
+{\fn方正大黑简体\fs12\bord1\shad0}换钱的到这里{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Exchange here!{\r}
+
+103
+00:08:06,320 --> 00:08:07,690
+{\fn方正大黑简体\fs12\bord1\shad0}你在干什么{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}What are you doing?{\r}
+
+104
+00:08:09,460 --> 00:08:11,530
+{\fn方正大黑简体\fs12\bord1\shad0}耶稣  别这样{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Jesus, please.{\r}
+
+105
+00:08:12,050 --> 00:08:13,480
+{\fn方正大黑简体\fs12\bord1\shad0}经上不是记载说{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Is it not written-{\r}
+
+106
+00:08:15,690 --> 00:08:16,580
+{\fn方正大黑简体\fs12\bord1\shad0}慢着{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Wait.{\r}
+
+107
+00:08:19,160 --> 00:08:20,880
+{\fn方正大黑简体\fs12\bord1\shad0}经上不是记载说{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Is it not written-{\r}
+
+108
+00:08:22,170 --> 00:08:23,660
+{\fn方正大黑简体\fs12\bord1\shad0}"我的殿宇...{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}"My house-"{\r}
+
+109
+00:08:25,040 --> 00:08:28,330
+{\fn方正大黑简体\fs12\bord1\shad0}"我的殿宇应称为祈祷之所"吗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}"My house shall be called the house of prayer"?{\r}
+
+110
+00:08:32,290 --> 00:08:33,270
+{\fn方正大黑简体\fs12\bord1\shad0}但是你们{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}But you,{\r}
+
+111
+00:08:33,990 --> 00:08:36,760
+{\fn方正大黑简体\fs12\bord1\shad0}你们竟把它做成了贼窝{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}you have made it a den of thieves.{\r}
+
+112
+00:08:37,180 --> 00:08:39,330
+{\fn方正大黑简体\fs12\bord1\shad0}你是谁  有何资格这样说教我们{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Who are you to tell us this?{\r}
+
+113
+00:08:48,070 --> 00:08:50,770
+{\fn方正大黑简体\fs12\bord1\shad0}教法律的是我们  而不是你{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}We teach the law, not you.{\r}
+
+114
+00:08:53,000 --> 00:08:55,320
+{\fn方正大黑简体\fs12\bord1\shad0}你们只为身份高贵者祈祷{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}You pray lofty prayers...{\r}
+
+115
+00:08:56,440 --> 00:09:00,180
+{\fn方正大黑简体\fs12\bord1\shad0}在圣殿之中装出虔诚的模样{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}and love your shows of piety in the temple.{\r}
+
+116
+00:09:05,180 --> 00:09:06,500
+{\fn方正大黑简体\fs12\bord1\shad0}假善的人啊{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Hypocrites.{\r}
+
+117
+00:09:08,600 --> 00:09:10,710
+{\fn方正大黑简体\fs12\bord1\shad0}你们不能事奉天主{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}You cannot serve God...{\r}
+
+118
+00:09:11,520 --> 00:09:12,740
+{\fn方正大黑简体\fs12\bord1\shad0}又事奉金钱{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}and money.{\r}
+
+119
+00:09:32,310 --> 00:09:33,770
+{\fn方正大黑简体\fs12\bord1\shad0}这太可恶了{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}This is outrageous.{\r}
+
+120
+00:09:33,770 --> 00:09:35,100
+{\fn方正大黑简体\fs12\bord1\shad0}你们却什么忙都帮不上{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}And you were little help.{\r}
+
+121
+00:09:36,200 --> 00:09:37,220
+{\fn方正大黑简体\fs12\bord1\shad0}他很聪明{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He's clever.{\r}
+
+122
+00:09:37,890 --> 00:09:39,480
+{\fn方正大黑简体\fs12\bord1\shad0}民众都尊崇他{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}The crowd worship him.{\r}
+
+123
+00:09:41,420 --> 00:09:44,420
+{\fn方正大黑简体\fs12\bord1\shad0}他有点不寻常{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}There is something unusual about him.{\r}
+
+124
+00:09:44,420 --> 00:09:46,340
+{\fn方正大黑简体\fs12\bord1\shad0}没什么不寻常的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}There is nothing unusual about him,{\r}
+
+125
+00:09:46,340 --> 00:09:48,350
+{\fn方正大黑简体\fs12\bord1\shad0}除了有搞破坏的本事之外{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}apart from his ability to cause havoc.{\r}
+
+126
+00:09:50,850 --> 00:09:53,040
+{\fn方正大黑简体\fs12\bord1\shad0}如果他回来了  向他挑战{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}If he returns, challenge him.{\r}
+
+127
+00:09:53,110 --> 00:09:55,140
+{\fn方正大黑简体\fs12\bord1\shad0}让他的追随们瞧瞧  他们的默西亚{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Make his supporters see their Messiah...{\r}
+
+128
+00:09:55,140 --> 00:09:57,520
+{\fn方正大黑简体\fs12\bord1\shad0}是个头脑多么简单的乡下人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}for the simpleminded peasant that he is.{\r}
+
+129
+00:10:06,600 --> 00:10:10,450
+{\fn微软简隶书\fs10\bord1\shad0}星期一
+距逾越节四天{\r}
+
+130
+00:10:13,830 --> 00:10:16,240
+{\fn方正大黑简体\fs12\bord1\shad0}逾越节前的一星期{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}In the week leading up to Passover,{\r}
+
+131
+00:10:16,240 --> 00:10:19,490
+{\fn方正大黑简体\fs12\bord1\shad0}犹太朝圣者们每天都来圣殿朝拜{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Jews pilgrims visit the temple daily.{\r}
+
+132
+00:10:20,280 --> 00:10:21,860
+{\fn方正大黑简体\fs12\bord1\shad0}为穷人们捐钱吧{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Ounce for the poor.{\r}
+
+133
+00:10:21,860 --> 00:10:22,980
+{\fn方正大黑简体\fs12\bord1\shad0}天主保佑你{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}God bless you!{\r}
+
+134
+00:10:23,950 --> 00:10:26,240
+{\fn方正大黑简体\fs12\bord1\shad0}耶稣也回来了{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Jesus also returns,{\r}
+
+135
+00:10:26,330 --> 00:10:29,290
+{\fn方正大黑简体\fs12\bord1\shad0}告诫更多的人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}to preach to ever larger crowds.{\r}
+
+136
+00:10:31,810 --> 00:10:35,220
+{\fn方正大黑简体\fs12\bord1\shad0}骆驼穿过针孔{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}It's much harder for a rich person{\r}
+
+137
+00:10:35,260 --> 00:10:37,600
+{\fn方正大黑简体\fs12\bord1\shad0}比富有的人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}to enter the kingdom of God,{\r}
+
+138
+00:10:37,690 --> 00:10:39,930
+{\fn方正大黑简体\fs12\bord1\shad0}进天主的国{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}than it is,{\r}
+
+139
+00:10:39,930 --> 00:10:42,900
+{\fn方正大黑简体\fs12\bord1\shad0}还要容易{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}for a carmel to go through the eye of a needle.{\r}
+
+140
+00:10:43,770 --> 00:10:45,400
+{\fn方正大黑简体\fs12\bord1\shad0}最重要的是{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}The most important thing...{\r}
+
+141
+00:10:45,960 --> 00:10:48,000
+{\fn方正大黑简体\fs12\bord1\shad0}你应该像爱你自己一样{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}is that you should love your neighbor...{\r}
+
+142
+00:10:48,680 --> 00:10:50,030
+{\fn方正大黑简体\fs12\bord1\shad0}爱你的近人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}as you love yourself.{\r}
+
+143
+00:10:50,730 --> 00:10:51,570
+{\fn方正大黑简体\fs12\bord1\shad0}辣彼{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Teacher!{\r}
+
+144
+00:10:55,220 --> 00:10:58,040
+{\fn方正大黑简体\fs12\bord1\shad0}他们说你学识渊博  那么告诉我们{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}They say you are learned. So tell us.{\r}
+
+145
+00:10:59,170 --> 00:11:01,520
+{\fn方正大黑简体\fs12\bord1\shad0}我们应该向罗马人交税吗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Should we pay taxes to the Romans?{\r}
+
+146
+00:11:01,520 --> 00:11:03,990
+{\fn方正大黑简体\fs12\bord1\shad0}不{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}No!{\r}
+
+147
+00:11:10,920 --> 00:11:12,150
+{\fn方正大黑简体\fs12\bord1\shad0}圈套{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}It's a trap.{\r}
+
+148
+00:11:15,930 --> 00:11:17,090
+{\fn方正大黑简体\fs12\bord1\shad0}辣彼{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Well, teacher,{\r}
+
+149
+00:11:17,850 --> 00:11:21,960
+{\fn方正大黑简体\fs12\bord1\shad0}我们应该向罗马人交税吗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}should we... pay the Romans taxes...{\r}
+
+150
+00:11:22,050 --> 00:11:26,060
+{\fn方正大黑简体\fs12\bord1\shad0}不交  不交{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Not pay! Not pay!{\r}
+
+151
+00:11:26,060 --> 00:11:27,770
+{\fn方正大黑简体\fs12\bord1\shad0}不交{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Not pay!{\r}
+
+152
+00:11:31,220 --> 00:11:33,650
+{\fn方正大黑简体\fs12\bord1\shad0}以色列  以色列{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Israel! Israel!{\r}
+
+153
+00:11:33,650 --> 00:11:37,050
+{\fn方正大黑简体\fs12\bord1\shad0}以色列  以色列{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Israel! Israel!{\r}
+
+154
+00:11:37,050 --> 00:11:38,000
+{\fn方正大黑简体\fs12\bord1\shad0}以色列{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Israel!{\r}
+
+155
+00:11:38,000 --> 00:11:39,090
+{\fn方正大黑简体\fs12\bord1\shad0}告诉他{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Tell him!{\r}
+
+156
+00:11:40,540 --> 00:11:42,410
+{\fn方正大黑简体\fs12\bord1\shad0}这肖像和名号是谁的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Whose face is on the coin?{\r}
+
+157
+00:11:43,390 --> 00:11:44,720
+{\fn方正大黑简体\fs12\bord1\shad0}是凯撒的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Caesar's.{\r}
+
+158
+00:11:50,890 --> 00:11:52,650
+{\fn方正大黑简体\fs12\bord1\shad0}那么凯撒的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Then give to Caesar...{\r}
+
+159
+00:11:55,310 --> 00:11:56,890
+{\fn方正大黑简体\fs12\bord1\shad0}就应归还凯撒{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}what is Caesar's...{\r}
+
+160
+00:11:57,830 --> 00:11:59,580
+{\fn方正大黑简体\fs12\bord1\shad0}天主的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}and give to God...{\r}
+
+161
+00:12:00,630 --> 00:12:01,990
+{\fn方正大黑简体\fs12\bord1\shad0}就应归还天主{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}what is God's.{\r}
+
+162
+00:12:28,260 --> 00:12:33,180
+{\fn方正大黑简体\fs12\bord1\shad0}大司祭  那个跟耶稣在一起的人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}High Priest, that man there with Jesus,{\r}
+
+163
+00:12:33,800 --> 00:12:35,430
+{\fn方正大黑简体\fs12\bord1\shad0}他来找过我{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}he approached me.{\r}
+
+164
+00:12:35,760 --> 00:12:37,260
+{\fn方正大黑简体\fs12\bord1\shad0}他想帮我们{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He wants to help us.{\r}
+
+165
+00:12:39,010 --> 00:12:42,450
+{\fn方正大黑简体\fs12\bord1\shad0}真的吗  或许真用得上{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Really? That could be useful.{\r}
+
+166
+00:13:01,310 --> 00:13:03,020
+{\fn方正大黑简体\fs12\bord1\shad0}你让他占了上风{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}You let him get the better of you.{\r}
+
+167
+00:13:13,350 --> 00:13:16,090
+{\fn方正大黑简体\fs12\bord1\shad0}但我可能已经找到了对付他的办法{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Yet I may have found a way to deal with him.{\r}
+
+168
+00:13:20,800 --> 00:13:24,550
+{\fn微软简隶书\fs10\bord1\shad0}星期三
+距逾越节两天{\r}
+
+169
+00:13:30,800 --> 00:13:32,550
+{\fn方正大黑简体\fs12\bord1\shad0}要顺从{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Teachers of the law,{\r}
+
+170
+00:13:33,770 --> 00:13:35,020
+{\fn方正大黑简体\fs12\bord1\shad0}制定法律者{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}obey them.{\r}
+
+171
+00:13:35,620 --> 00:13:38,010
+{\fn方正大黑简体\fs12\bord1\shad0}凡他们对你们说的  你们要行要守{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Do everything they tell you,{\r}
+
+172
+00:13:39,340 --> 00:13:41,390
+{\fn方正大黑简体\fs12\bord1\shad0}但不要照他们的行为去做{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}but don't do what they do.{\r}
+
+173
+00:13:42,800 --> 00:13:45,300
+{\fn方正大黑简体\fs12\bord1\shad0}因为他们只说不做{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}They don't practice what they preach.{\r}
+
+174
+00:13:46,820 --> 00:13:50,320
+{\fn方正大黑简体\fs12\bord1\shad0}他们所做的一切工作  都是为叫人看{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Everything they do is done for others to see.{\r}
+
+175
+00:13:52,680 --> 00:13:54,630
+{\fn方正大黑简体\fs12\bord1\shad0}你们的父只有一位{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}You only have one father,{\r}
+
+176
+00:13:55,450 --> 00:13:58,060
+{\fn方正大黑简体\fs12\bord1\shad0}就是天上的父{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}and he is in heaven.{\r}
+
+177
+00:13:59,140 --> 00:14:01,430
+{\fn方正大黑简体\fs12\bord1\shad0}你们的导师只有一位{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}You only have one teacher,{\r}
+
+178
+00:14:02,510 --> 00:14:03,450
+{\fn方正大黑简体\fs12\bord1\shad0}他...{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}and he...{\r}
+
+179
+00:14:05,390 --> 00:14:06,990
+{\fn方正大黑简体\fs12\bord1\shad0}就是默西亚{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}is the Christ.{\r}
+
+180
+00:14:14,320 --> 00:14:18,060
+{\fn方正大黑简体\fs12\bord1\shad0}以色列  以色列{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Israel! Israel!{\r}
+
+181
+00:14:35,960 --> 00:14:39,310
+{\fn方正大黑简体\fs12\bord1\shad0}你看见这些雄伟的殿宇了吗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Do you see all these great buildings?{\r}
+
+182
+00:14:41,760 --> 00:14:44,280
+{\fn方正大黑简体\fs12\bord1\shad0}将来在这里决没有一块石头{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Not one stone of this place,{\r}
+
+183
+00:14:44,600 --> 00:14:48,910
+{\fn方正大黑简体\fs12\bord1\shad0}留在另一块石头上，而不被拆毁的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}not one stone, will be left standing.{\r}
+
+184
+00:14:55,020 --> 00:14:57,590
+{\fn方正大黑简体\fs12\bord1\shad0}他说他要拆毁圣殿{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He said he'll destroy the temple.{\r}
+
+185
+00:15:05,150 --> 00:15:06,420
+{\fn方正大黑简体\fs12\bord1\shad0}他说什么{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He said what?{\r}
+
+186
+00:15:06,420 --> 00:15:10,280
+{\fn方正大黑简体\fs12\bord1\shad0}将来没有一块石头是不被拆毁的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Not one stone will be left standing.{\r}
+
+187
+00:15:13,720 --> 00:15:16,530
+{\fn方正大黑简体\fs12\bord1\shad0}他威胁说要拆毁圣殿{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He threatens to destroy the temple.{\r}
+
+188
+00:15:18,990 --> 00:15:22,760
+{\fn方正大黑简体\fs12\bord1\shad0}我们必须迅速行动  而且不能声张{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}We must move swiftly but softly.{\r}
+
+189
+00:15:23,460 --> 00:15:25,500
+{\fn方正大黑简体\fs12\bord1\shad0}我们不能公开抓捕他{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}We can not arrest him openly,{\r}
+
+190
+00:15:25,500 --> 00:15:27,700
+{\fn方正大黑简体\fs12\bord1\shad0}否则他的拥护者会暴动{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}or his his supporters will run riot.{\r}
+
+191
+00:15:27,700 --> 00:15:29,970
+{\fn方正大黑简体\fs12\bord1\shad0}不  不能在逾越节  不行{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}No, not on Passover. No.{\r}
+
+192
+00:15:30,390 --> 00:15:31,250
+{\fn方正大黑简体\fs12\bord1\shad0}不{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}No.{\r}
+
+193
+00:15:35,910 --> 00:15:39,340
+{\fn方正大黑简体\fs12\bord1\shad0}我们必须在逾越节前夜{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}We must bring him in quietly...{\r}
+
+194
+00:15:40,100 --> 00:15:42,580
+{\fn方正大黑简体\fs12\bord1\shad0}把他悄悄带过来{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}at night before Passover.{\r}
+
+195
+00:15:44,460 --> 00:15:46,720
+{\fn方正大黑简体\fs12\bord1\shad0}玛耳曷  你指给我看的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Malchus, what's the name of that{\r}
+
+196
+00:15:47,710 --> 00:15:49,760
+{\fn方正大黑简体\fs12\bord1\shad0}那个追随者叫什么{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}follower of his that you pointed out to me?{\r}
+
+197
+00:15:49,760 --> 00:15:51,090
+{\fn方正大黑简体\fs12\bord1\shad0}犹达斯  大司祭{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Judas, High Priest.{\r}
+
+198
+00:15:51,140 --> 00:15:53,080
+{\fn方正大黑简体\fs12\bord1\shad0}犹达斯  对{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Judas. Yes.{\r}
+
+199
+00:15:55,390 --> 00:15:58,650
+{\fn方正大黑简体\fs12\bord1\shad0}把他带到这来见我{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Bring him to me... here.{\r}
+
+200
+00:16:12,220 --> 00:16:14,870
+{\fn微软简隶书\fs10\bord1\shad0}比拉多宅邸{\r}
+
+201
+00:16:15,260 --> 00:16:16,150
+{\fn方正大黑简体\fs12\bord1\shad0}大人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Sir.{\r}
+
+202
+00:16:17,420 --> 00:16:18,530
+{\fn方正大黑简体\fs12\bord1\shad0}我们在吃饭呢{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}We're eating.{\r}
+
+203
+00:16:18,910 --> 00:16:22,960
+{\fn方正大黑简体\fs12\bord1\shad0}大人  有个犹太人在圣殿里制造麻烦{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Sir, a Jew has been causing trouble in the temple.{\r}
+
+204
+00:16:23,890 --> 00:16:24,850
+{\fn方正大黑简体\fs12\bord1\shad0}所以呢{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}So?{\r}
+
+205
+00:16:26,000 --> 00:16:28,410
+{\fn方正大黑简体\fs12\bord1\shad0}昨天他攻击了兑换银钱的人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Yesterday he attacked the money changers.{\r}
+
+206
+00:16:28,420 --> 00:16:31,640
+{\fn方正大黑简体\fs12\bord1\shad0}今天他又说要拆毁圣殿{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Today he says he will destroy the temple.{\r}
+
+207
+00:16:35,630 --> 00:16:38,110
+{\fn方正大黑简体\fs12\bord1\shad0}他有众多拥护者{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He has a large number of supporters.{\r}
+
+208
+00:16:41,360 --> 00:16:42,630
+{\fn方正大黑简体\fs12\bord1\shad0}他叫什么{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}What's his name?{\r}
+
+209
+00:16:42,760 --> 00:16:44,960
+{\fn方正大黑简体\fs12\bord1\shad0}他们称他纳匝肋人耶稣{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}They call him Jesus of Nazareth.{\r}
+
+210
+00:16:46,040 --> 00:16:47,860
+{\fn方正大黑简体\fs12\bord1\shad0}我的仆人谈起过他{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}My servants talk about him.{\r}
+
+211
+00:16:48,330 --> 00:16:50,290
+{\fn方正大黑简体\fs12\bord1\shad0}那是盖法的事{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He's Caiaphas' business.{\r}
+
+212
+00:16:51,090 --> 00:16:53,100
+{\fn方正大黑简体\fs12\bord1\shad0}但你要密切注意民众的情况{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}But you keep an eye on the crowds.{\r}
+
+213
+00:16:53,190 --> 00:16:55,680
+{\fn方正大黑简体\fs12\bord1\shad0}若事态失控  我就关闭圣殿{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}If they start to get out of hand, I'll shut the temple.{\r}
+
+214
+00:16:55,680 --> 00:16:58,060
+{\fn方正大黑简体\fs12\bord1\shad0}管他是不是过节{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Festival or no festival.{\r}
+
+215
+00:17:46,860 --> 00:17:47,910
+{\fn方正大黑简体\fs12\bord1\shad0}辣彼{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Rabbi.{\r}
+
+216
+00:17:52,720 --> 00:17:54,400
+{\fn方正大黑简体\fs12\bord1\shad0}我是尼苛德摩{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I am Nicodemus.{\r}
+
+217
+00:17:58,600 --> 00:17:59,640
+{\fn方正大黑简体\fs12\bord1\shad0}欢迎{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Welcome.{\r}
+
+218
+00:18:00,320 --> 00:18:02,310
+{\fn方正大黑简体\fs12\bord1\shad0}我自愿前来{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I come here of my own accord.{\r}
+
+219
+00:18:02,310 --> 00:18:05,040
+{\fn方正大黑简体\fs12\bord1\shad0}大司祭并不知情{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}The High Priest knows nothing of this.{\r}
+
+220
+00:18:09,130 --> 00:18:10,390
+{\fn方正大黑简体\fs12\bord1\shad0}他来这里干嘛{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}What's he doing here?{\r}
+
+221
+00:18:11,830 --> 00:18:13,730
+{\fn方正大黑简体\fs12\bord1\shad0}显然他不愿意和我们同坐{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Surely he doesn't want to sit with us.{\r}
+
+222
+00:18:31,830 --> 00:18:33,190
+{\fn方正大黑简体\fs12\bord1\shad0}犹达斯{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Judas.{\r}
+
+223
+00:18:42,480 --> 00:18:44,900
+{\fn方正大黑简体\fs12\bord1\shad0}你那位来自加里肋亚的朋友{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Your friend from Galilee{\r}
+
+224
+00:18:44,900 --> 00:18:46,660
+{\fn方正大黑简体\fs12\bord1\shad0}引起了好一阵轰动啊{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}has caused quite a stir.{\r}
+
+225
+00:19:01,280 --> 00:19:03,440
+{\fn方正大黑简体\fs12\bord1\shad0}没人能否认他有众多追随者{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}One cannot deny that he has followers,{\r}
+
+226
+00:19:03,440 --> 00:19:07,230
+{\fn方正大黑简体\fs12\bord1\shad0}尤其是一些没怎么受过教育的人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}especially amongst the less well-educated element.{\r}
+
+227
+00:19:09,070 --> 00:19:10,970
+{\fn方正大黑简体\fs12\bord1\shad0}但你  犹达斯{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}But you, Judas-{\r}
+
+228
+00:19:13,530 --> 00:19:14,950
+{\fn方正大黑简体\fs12\bord1\shad0}我倒是很好奇{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I'm intrigued.{\r}
+
+229
+00:19:18,080 --> 00:19:18,980
+{\fn方正大黑简体\fs12\bord1\shad0}他{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He-{\r}
+
+230
+00:19:20,040 --> 00:19:21,450
+{\fn方正大黑简体\fs12\bord1\shad0}他有一种能力{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He has a power.{\r}
+
+231
+00:19:23,180 --> 00:19:25,470
+{\fn方正大黑简体\fs12\bord1\shad0}很难用言语形容{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}It's hard for me to put into words.{\r}
+
+232
+00:19:25,670 --> 00:19:28,770
+{\fn方正大黑简体\fs12\bord1\shad0}他的能力就是制造麻烦{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}A power to cause trouble,{\r}
+
+233
+00:19:29,650 --> 00:19:31,340
+{\fn方正大黑简体\fs12\bord1\shad0}引起骚乱{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}to stir things up.{\r}
+
+234
+00:19:36,110 --> 00:19:37,980
+{\fn方正大黑简体\fs12\bord1\shad0}攻击兑换银钱之人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Attacking money changers.{\r}
+
+235
+00:19:39,790 --> 00:19:43,300
+{\fn方正大黑简体\fs12\bord1\shad0}威胁要拆毁圣殿{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Threatening to destroy the temple-{\r}
+
+236
+00:19:44,580 --> 00:19:46,460
+{\fn方正大黑简体\fs12\bord1\shad0}那是我们的至圣所{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}the Holy of Holies.{\r}
+
+237
+00:19:48,740 --> 00:19:50,420
+{\fn方正大黑简体\fs12\bord1\shad0}如果他真是...{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}If he were...{\r}
+
+238
+00:19:51,850 --> 00:19:53,870
+{\fn方正大黑简体\fs12\bord1\shad0}人子{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}the Son of God-{\r}
+
+239
+00:19:55,580 --> 00:19:56,550
+{\fn方正大黑简体\fs12\bord1\shad0}如果{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}lf.{\r}
+
+240
+00:19:57,700 --> 00:20:00,010
+{\fn方正大黑简体\fs12\bord1\shad0}他会折辱主的圣殿吗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Would he abuse the house of God?{\r}
+
+241
+00:20:03,140 --> 00:20:04,750
+{\fn方正大黑简体\fs12\bord1\shad0}真正的默西亚{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}The true Messiah...{\r}
+
+242
+00:20:05,730 --> 00:20:08,830
+{\fn方正大黑简体\fs12\bord1\shad0}会团结以色列  而非使其分裂{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}will unite Israel, not divide it.{\r}
+
+243
+00:20:11,870 --> 00:20:13,430
+{\fn方正大黑简体\fs12\bord1\shad0}你想对他怎么样{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}What do you want with him?{\r}
+
+244
+00:20:14,230 --> 00:20:15,760
+{\fn方正大黑简体\fs12\bord1\shad0}谈谈而已{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Just to talk.{\r}
+
+245
+00:20:18,920 --> 00:20:21,270
+{\fn方正大黑简体\fs12\bord1\shad0}如果罗马人介入此事{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}If the Romans step in,{\r}
+
+246
+00:20:22,310 --> 00:20:24,900
+{\fn方正大黑简体\fs12\bord1\shad0}你能想象那时的杀戮吗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}can you imagine the slaughter?{\r}
+
+247
+00:20:27,910 --> 00:20:30,170
+{\fn方正大黑简体\fs12\bord1\shad0}那将意味着圣殿的毁灭{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}It will mean the end of the temple,{\r}
+
+248
+00:20:31,580 --> 00:20:33,230
+{\fn方正大黑简体\fs12\bord1\shad0}信仰的毁灭{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}the end of our faith,{\r}
+
+249
+00:20:34,730 --> 00:20:36,350
+{\fn方正大黑简体\fs12\bord1\shad0}以及国家的终结{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}the end of our nation.{\r}
+
+250
+00:20:38,940 --> 00:20:41,050
+{\fn方正大黑简体\fs12\bord1\shad0}你想这样吗  犹达斯{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Is that what you want, Judas?{\r}
+
+251
+00:20:43,290 --> 00:20:46,740
+{\fn方正大黑简体\fs12\bord1\shad0}犹达斯  你是他的朋友{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Judas, you are his friend.{\r}
+
+252
+00:20:47,630 --> 00:20:50,350
+{\fn方正大黑简体\fs12\bord1\shad0}把他带到这来  小心行事{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Bring him here... discreetly.{\r}
+
+253
+00:20:52,660 --> 00:20:55,800
+{\fn方正大黑简体\fs12\bord1\shad0}让我们共同阻止这一切{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Let us try to stop this...{\r}
+
+254
+00:20:56,060 --> 00:20:57,560
+{\fn方正大黑简体\fs12\bord1\shad0}趁现在还来得及{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}while we still can.{\r}
+
+255
+00:21:03,350 --> 00:21:04,950
+{\fn方正大黑简体\fs12\bord1\shad0}那我有什么好处{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}And what's in it for me?{\r}
+
+256
+00:21:17,570 --> 00:21:18,530
+{\fn方正大黑简体\fs12\bord1\shad0}很好{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Good.{\r}
+
+257
+00:21:19,690 --> 00:21:22,550
+{\fn方正大黑简体\fs12\bord1\shad0}希望很快就能听到你的好消息{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}We shall expect to hear from you presently.{\r}
+
+258
+00:21:26,270 --> 00:21:28,330
+{\fn方正大黑简体\fs12\bord1\shad0}他们说你能创造奇迹{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}They say you can perform miracles,{\r}
+
+259
+00:21:30,760 --> 00:21:33,390
+{\fn方正大黑简体\fs12\bord1\shad0}说你见过天主的国{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}that you have seen the kingdom of God.{\r}
+
+260
+00:21:35,980 --> 00:21:38,350
+{\fn方正大黑简体\fs12\bord1\shad0}你也能看见天主的国{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}You can see the kingdom of God.{\r}
+
+261
+00:21:42,550 --> 00:21:44,250
+{\fn方正大黑简体\fs12\bord1\shad0}但你必须重生{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}But you must be born again.{\r}
+
+262
+00:21:46,820 --> 00:21:51,000
+{\fn方正大黑简体\fs12\bord1\shad0}重生  如何能重生{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Born again? How can you be... born again?{\r}
+
+263
+00:21:53,370 --> 00:21:54,890
+{\fn方正大黑简体\fs12\bord1\shad0}你必须获得新生{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}You must be reborn.{\r}
+
+264
+00:21:56,060 --> 00:21:57,560
+{\fn方正大黑简体\fs12\bord1\shad0}不是你的肉体{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Not in the flesh,{\r}
+
+265
+00:21:58,770 --> 00:22:00,120
+{\fn方正大黑简体\fs12\bord1\shad0}而是你的灵魂{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}but in a spirit.{\r}
+
+266
+00:22:18,030 --> 00:22:20,240
+{\fn方正大黑简体\fs12\bord1\shad0}风随意向那里吹{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}The wind blows where it wishes.{\r}
+
+267
+00:22:21,890 --> 00:22:23,720
+{\fn方正大黑简体\fs12\bord1\shad0}却不知道风从哪里来{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}You don't k now where it comes from...{\r}
+
+268
+00:22:25,230 --> 00:22:26,750
+{\fn方正大黑简体\fs12\bord1\shad0}往哪里去{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}or where it goes.{\r}
+
+269
+00:22:31,770 --> 00:22:34,700
+{\fn方正大黑简体\fs12\bord1\shad0}凡从圣神而生的  就是这样{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}And so it is when the Spirit enters you.{\r}
+
+270
+00:22:37,960 --> 00:22:39,070
+{\fn方正大黑简体\fs12\bord1\shad0}天主{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}God...{\r}
+
+271
+00:22:39,070 --> 00:22:42,370
+{\fn方正大黑简体\fs12\bord1\shad0}竟这样爱了世界{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}so loved the world...{\r}
+
+272
+00:22:43,450 --> 00:22:46,900
+{\fn方正大黑简体\fs12\bord1\shad0}甚至赐下了自己的独生子{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}that he gave his one and only son.{\r}
+
+273
+00:22:49,310 --> 00:22:50,730
+{\fn方正大黑简体\fs12\bord1\shad0}使凡信他的人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Believe in him,{\r}
+
+274
+00:22:51,820 --> 00:22:54,160
+{\fn方正大黑简体\fs12\bord1\shad0}不至丧亡  反而获得永生{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}and you will have eternal life.{\r}
+
+275
+00:23:06,238 --> 00:23:07,610
+{\fn微软简隶书\fs10\bord1\shad0}星期四
+逾越节前一天{\r}
+
+276
+00:23:07,610 --> 00:23:09,640
+{\fn方正大黑简体\fs12\bord1\shad0}随着逾越节愈发临近{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}The closer it gets to Passover,{\r}
+
+277
+00:23:09,750 --> 00:23:12,060
+{\fn方正大黑简体\fs12\bord1\shad0}耶路撒冷局势更加紧张{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}the tenser it gets in Jerusalem.{\r}
+
+278
+00:23:13,840 --> 00:23:15,580
+{\fn方正大黑简体\fs12\bord1\shad0}就在三十年前{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Just 30 years ago,{\r}
+
+279
+00:23:15,580 --> 00:23:19,500
+{\fn方正大黑简体\fs12\bord1\shad0}罗马人在逾越节游行期间杀害了数千人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}the Romans killed thousands during Passover demonstrations.{\r}
+
+280
+00:23:19,500 --> 00:23:23,000
+{\fn方正大黑简体\fs12\bord1\shad0}罗马强盗  罗马人渣{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Roman thieves! Roman scum!{\r}
+
+281
+00:23:23,340 --> 00:23:25,120
+{\fn方正大黑简体\fs12\bord1\shad0}罗马强盗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Roman thieves!{\r}
+
+282
+00:23:29,220 --> 00:23:31,560
+{\fn方正大黑简体\fs12\bord1\shad0}罗马强盗  罗马人渣{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Roman thieves! Roman scum!{\r}
+
+283
+00:23:31,820 --> 00:23:33,420
+{\fn方正大黑简体\fs12\bord1\shad0}罗马人渣{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Roman scum!{\r}
+
+284
+00:23:43,440 --> 00:23:45,030
+{\fn方正大黑简体\fs12\bord1\shad0}场面太混乱了{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}This is a mess.{\r}
+
+285
+00:23:46,900 --> 00:23:48,760
+{\fn方正大黑简体\fs12\bord1\shad0}我必须通知比拉多{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I must inform Pilate.{\r}
+
+286
+00:23:58,190 --> 00:24:00,250
+{\fn方正大黑简体\fs12\bord1\shad0}从我担任总督以来{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Since I 've been prefect,{\r}
+
+287
+00:24:01,230 --> 00:24:04,870
+{\fn方正大黑简体\fs12\bord1\shad0}你们犹太人多次挑战我耐心的底线{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}you Jews have tested my patience to breaking point.{\r}
+
+288
+00:24:05,260 --> 00:24:06,620
+{\fn方正大黑简体\fs12\bord1\shad0}现在我已忍无可忍{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Now I 'm beyond it.{\r}
+
+289
+00:24:06,620 --> 00:24:07,990
+{\fn方正大黑简体\fs12\bord1\shad0}是的  但是  总督大人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Yes, but, prefect-{\r}
+
+290
+00:24:07,990 --> 00:24:09,200
+{\fn方正大黑简体\fs12\bord1\shad0}我正在说话{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I'm speaking.{\r}
+
+291
+00:24:11,910 --> 00:24:15,260
+{\fn方正大黑简体\fs12\bord1\shad0}倘若动乱在明日再次发生{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}If disturbance took places a day and repeated tomorrow.{\r}
+
+292
+00:24:15,260 --> 00:24:17,660
+{\fn方正大黑简体\fs12\bord1\shad0}我会立即关闭圣殿{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I will shut the temple immediately.{\r}
+
+293
+00:24:17,660 --> 00:24:19,350
+{\fn方正大黑简体\fs12\bord1\shad0}逾越节将被取消{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}There will be no Passover.{\r}
+
+294
+00:24:19,350 --> 00:24:21,680
+{\fn方正大黑简体\fs12\bord1\shad0}整个城市实行宵禁{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I will put this city under curfew.{\r}
+
+295
+00:24:21,690 --> 00:24:24,570
+{\fn方正大黑简体\fs12\bord1\shad0}镇压一切叛乱{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I will crush any rebellion.{\r}
+
+296
+00:24:26,690 --> 00:24:30,170
+{\fn方正大黑简体\fs12\bord1\shad0}我说得够明白了吗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Do I make myself absolutely clear?{\r}
+
+297
+00:25:49,270 --> 00:25:51,120
+{\fn方正大黑简体\fs12\bord1\shad0}主  我们感谢你{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}We thank you, Lord,{\r}
+
+298
+00:25:51,890 --> 00:25:56,350
+{\fn方正大黑简体\fs12\bord1\shad0}感谢你创造天地万物{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}by whose word everything comes to be.{\r}
+
+299
+00:25:56,350 --> 00:25:57,860
+{\fn方正大黑简体\fs12\bord1\shad0}阿们{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Amen.{\r}
+
+300
+00:26:20,410 --> 00:26:22,780
+{\fn方正大黑简体\fs12\bord1\shad0}这是我死前  我们一起吃的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}This is our last meal together...{\r}
+
+301
+00:26:26,880 --> 00:26:28,320
+{\fn方正大黑简体\fs12\bord1\shad0}最后一餐{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}before I die.{\r}
+
+302
+00:26:36,220 --> 00:26:37,510
+{\fn方正大黑简体\fs12\bord1\shad0}什么意思{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}What do you mean?{\r}
+
+303
+00:26:40,620 --> 00:26:43,600
+{\fn方正大黑简体\fs12\bord1\shad0}你们中有一个人要出卖我{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I 'm going to be betrayed to my enemies.{\r}
+
+304
+00:26:45,560 --> 00:26:46,800
+{\fn方正大黑简体\fs12\bord1\shad0}我会被逮捕{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Arrested...{\r}
+
+305
+00:26:49,490 --> 00:26:51,300
+{\fn方正大黑简体\fs12\bord1\shad0}并处以死刑{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}and condemned to death.{\r}
+
+306
+00:27:05,330 --> 00:27:08,020
+{\fn方正大黑简体\fs12\bord1\shad0}玛耳曷  犹达斯有什么消息吗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Malchus, any word from Judas?{\r}
+
+307
+00:27:09,430 --> 00:27:11,430
+{\fn方正大黑简体\fs12\bord1\shad0}没有  大司祭{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Nothing, High Priest.{\r}
+
+308
+00:27:12,690 --> 00:27:14,360
+{\fn方正大黑简体\fs12\bord1\shad0}我不会再等了{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I won't wait any longer.{\r}
+
+309
+00:27:15,780 --> 00:27:19,790
+{\fn方正大黑简体\fs12\bord1\shad0}玛耳曷  我们今晚就把这个假先知抓起来{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Malchus, we arrest this false prophet tonight.{\r}
+
+310
+00:27:23,310 --> 00:27:26,650
+{\fn方正大黑简体\fs12\bord1\shad0}我们怎么知道他是假先知{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}How do we know he is a false prophet?{\r}
+
+311
+00:27:27,720 --> 00:27:29,480
+{\fn方正大黑简体\fs12\bord1\shad0}他符合{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Has he fulfilled...{\r}
+
+312
+00:27:29,950 --> 00:27:32,970
+{\fn方正大黑简体\fs12\bord1\shad0}我们经文中所描述的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}any of the signs of a true Messiah{\r}
+
+313
+00:27:32,970 --> 00:27:35,030
+{\fn方正大黑简体\fs12\bord1\shad0}真正的默西亚的特征吗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}as written in our scriptures?{\r}
+
+314
+00:27:37,220 --> 00:27:39,280
+{\fn方正大黑简体\fs12\bord1\shad0}尼苛德摩  他符合吗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Well, Nicodemus, has he?{\r}
+
+315
+00:27:45,630 --> 00:27:48,220
+{\fn方正大黑简体\fs12\bord1\shad0}他将依据我们的法律受审{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He will be tried according to our law.{\r}
+
+316
+00:27:49,610 --> 00:27:52,590
+{\fn方正大黑简体\fs12\bord1\shad0}我们得除掉他  否则罗马人会毁灭一切{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}We remove this man or the Romans destroy everything.{\r}
+
+317
+00:27:53,550 --> 00:27:54,760
+{\fn方正大黑简体\fs12\bord1\shad0}除掉{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Remove?{\r}
+
+318
+00:27:55,820 --> 00:27:57,070
+{\fn方正大黑简体\fs12\bord1\shad0}处死{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Execute?{\r}
+
+319
+00:27:57,240 --> 00:27:59,410
+{\fn方正大黑简体\fs12\bord1\shad0}没错  尼苛德摩{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Yes, Nicodemus.{\r}
+
+320
+00:28:01,730 --> 00:28:04,020
+{\fn方正大黑简体\fs12\bord1\shad0}用这个乡下人的命{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}The life of one peasant...{\r}
+
+321
+00:28:04,240 --> 00:28:06,370
+{\fn方正大黑简体\fs12\bord1\shad0}换取犹太民族的未来{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}for the future of God's nation.{\r}
+
+322
+00:28:22,150 --> 00:28:23,830
+{\fn方正大黑简体\fs12\bord1\shad0}你们心里不要烦乱{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Don't be afraid.{\r}
+
+323
+00:28:26,880 --> 00:28:28,470
+{\fn方正大黑简体\fs12\bord1\shad0}你们要信赖天主{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Trust in God.{\r}
+
+324
+00:28:31,230 --> 00:28:33,090
+{\fn方正大黑简体\fs12\bord1\shad0}也要信赖我{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Trust in me also.{\r}
+
+325
+00:28:35,930 --> 00:28:38,950
+{\fn方正大黑简体\fs12\bord1\shad0}我去的地方  你们知道往那里去的路{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}You know the way to where I'm going.{\r}
+
+326
+00:28:39,850 --> 00:28:41,240
+{\fn方正大黑简体\fs12\bord1\shad0}我们都不知道你往哪里去{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}We don't know where you are going,{\r}
+
+327
+00:28:41,240 --> 00:28:42,160
+{\fn方正大黑简体\fs12\bord1\shad0}怎么会知道那条路呢{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}how can we know the way?{\r}
+
+328
+00:28:43,740 --> 00:28:45,520
+{\fn方正大黑简体\fs12\bord1\shad0}我是道路{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I am the way,{\r}
+
+329
+00:28:48,320 --> 00:28:49,600
+{\fn方正大黑简体\fs12\bord1\shad0}真理{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}the truth...{\r}
+
+330
+00:28:51,900 --> 00:28:53,340
+{\fn方正大黑简体\fs12\bord1\shad0}和生命{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}and the life.{\r}
+
+331
+00:29:05,640 --> 00:29:06,770
+{\fn方正大黑简体\fs12\bord1\shad0}拿去{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Take it.{\r}
+
+332
+00:29:12,010 --> 00:29:13,070
+{\fn方正大黑简体\fs12\bord1\shad0}吃吧{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Eat.{\r}
+
+333
+00:29:28,340 --> 00:29:29,330
+{\fn方正大黑简体\fs12\bord1\shad0}这{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}This-{\r}
+
+334
+00:29:32,270 --> 00:29:33,810
+{\fn方正大黑简体\fs12\bord1\shad0}这是我的身体{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}This is my body.{\r}
+
+335
+00:29:59,450 --> 00:30:01,100
+{\fn方正大黑简体\fs12\bord1\shad0}这是我的血{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}This is my blood.{\r}
+
+336
+00:30:09,400 --> 00:30:10,860
+{\fn方正大黑简体\fs12\bord1\shad0}你们这样做{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Remember me...{\r}
+
+337
+00:30:12,110 --> 00:30:13,750
+{\fn方正大黑简体\fs12\bord1\shad0}来纪念我{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}by doing this.{\r}
+
+338
+00:30:15,680 --> 00:30:17,520
+{\fn方正大黑简体\fs12\bord1\shad0}我要去天父那里了{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I'm going to the Father.{\r}
+
+339
+00:30:19,090 --> 00:30:21,080
+{\fn方正大黑简体\fs12\bord1\shad0}但我将一直与你们同在{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}But I will always be with you.{\r}
+
+340
+00:30:27,380 --> 00:30:29,200
+{\fn方正大黑简体\fs12\bord1\shad0}现在我要告诉你们{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}But now I must tell you...{\r}
+
+341
+00:30:31,190 --> 00:30:32,880
+{\fn方正大黑简体\fs12\bord1\shad0}你们中间有一个人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}that one of you here...{\r}
+
+342
+00:30:34,590 --> 00:30:36,110
+{\fn方正大黑简体\fs12\bord1\shad0}要出卖我{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}will betray me.{\r}
+
+343
+00:30:40,050 --> 00:30:40,910
+{\fn方正大黑简体\fs12\bord1\shad0}是谁{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Who?{\r}
+
+344
+00:30:53,260 --> 00:30:55,150
+{\fn方正大黑简体\fs12\bord1\shad0}那个吃了它的人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Whoever eats this.{\r}
+
+345
+00:30:57,460 --> 00:31:01,440
+{\fn方正大黑简体\fs12\bord1\shad0}我不会  我不会出卖你的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I will not. I will not betray you.{\r}
+
+346
+00:31:13,800 --> 00:31:15,310
+{\fn方正大黑简体\fs12\bord1\shad0}快做吧{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Do it quickly.{\r}
+
+347
+00:31:25,390 --> 00:31:26,690
+{\fn方正大黑简体\fs12\bord1\shad0}让他走{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Let him go.{\r}
+
+348
+00:32:01,940 --> 00:32:03,940
+{\fn方正大黑简体\fs12\bord1\shad0}今夜你们都要跌倒{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}You will all fall away.{\r}
+
+349
+00:32:26,180 --> 00:32:27,310
+{\fn方正大黑简体\fs12\bord1\shad0}辣彼{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Rabbi.{\r}
+
+350
+00:32:30,210 --> 00:32:31,910
+{\fn方正大黑简体\fs12\bord1\shad0}我绝不跌倒{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I will not fall away.{\r}
+
+351
+00:32:39,540 --> 00:32:41,660
+{\fn方正大黑简体\fs12\bord1\shad0}我愿意为你舍命{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I will lay down my life for you.{\r}
+
+352
+00:32:43,330 --> 00:32:44,430
+{\fn方正大黑简体\fs12\bord1\shad0}你真愿意吗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Will you?{\r}
+
+353
+00:32:46,800 --> 00:32:47,800
+{\fn方正大黑简体\fs12\bord1\shad0}我愿意{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I will.{\r}
+
+354
+00:33:08,200 --> 00:33:09,290
+{\fn方正大黑简体\fs12\bord1\shad0}伯多禄{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Peter,{\r}
+
+355
+00:33:10,440 --> 00:33:11,870
+{\fn方正大黑简体\fs12\bord1\shad0}我实在告诉你{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I tell you...{\r}
+
+356
+00:33:13,990 --> 00:33:15,660
+{\fn方正大黑简体\fs12\bord1\shad0}鸡叫以前{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}before dawn,{\r}
+
+357
+00:33:17,470 --> 00:33:21,040
+{\fn方正大黑简体\fs12\bord1\shad0}你要三次不认我{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}you will deny me...three times.{\r}
+
+358
+00:33:58,200 --> 00:34:01,200
+{\fn方正大黑简体\fs12\bord1\shad0}犹达斯  他在哪{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Judas. Where is he?{\r}
+
+359
+00:34:02,390 --> 00:34:05,000
+{\fn方正大黑简体\fs12\bord1\shad0}-我...  -你究竟知不知道他在哪{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}- I... - Do you know where he is now?{\r}
+
+360
+00:34:07,640 --> 00:34:09,040
+{\fn方正大黑简体\fs12\bord1\shad0}我知道他会去哪{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I know where he's going.{\r}
+
+361
+00:34:10,350 --> 00:34:12,050
+{\fn方正大黑简体\fs12\bord1\shad0}带我的侍从找到他{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Lead my servant to him.{\r}
+
+362
+00:34:34,280 --> 00:34:37,340
+{\fn微软简隶书\fs10\bord1\shad0}革责玛尼园{\r}
+
+363
+00:34:55,150 --> 00:34:56,280
+{\fn方正大黑简体\fs12\bord1\shad0}醒寤吧{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Wake up.{\r}
+
+364
+00:34:57,160 --> 00:34:58,580
+{\fn方正大黑简体\fs12\bord1\shad0}免陷于诱惑{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}And keep awake.{\r}
+
+365
+00:34:59,280 --> 00:35:00,760
+{\fn方正大黑简体\fs12\bord1\shad0}时辰已到{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}The time has come.{\r}
+
+366
+00:35:03,310 --> 00:35:07,490
+{\fn方正大黑简体\fs12\bord1\shad0}心神固然切愿  但肉体却软弱{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}The spirit is willing, but the flesh is weak.{\r}
+
+367
+00:35:10,480 --> 00:35:11,890
+{\fn方正大黑简体\fs12\bord1\shad0}我必须要祈祷{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I must pray.{\r}
+
+368
+00:35:27,980 --> 00:35:28,990
+{\fn方正大黑简体\fs12\bord1\shad0}父啊{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Father.{\r}
+
+369
+00:35:31,550 --> 00:35:32,730
+{\fn方正大黑简体\fs12\bord1\shad0}父啊{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Father.{\r}
+
+370
+00:35:37,920 --> 00:35:39,120
+{\fn方正大黑简体\fs12\bord1\shad0}我知道{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I know...{\r}
+
+371
+00:35:41,950 --> 00:35:43,260
+{\fn方正大黑简体\fs12\bord1\shad0}一切{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}it must be...{\r}
+
+372
+00:35:45,330 --> 00:35:46,660
+{\fn方正大黑简体\fs12\bord1\shad0}照你所愿意的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}as you will it.{\r}
+
+373
+00:35:48,030 --> 00:35:51,600
+{\fn方正大黑简体\fs12\bord1\shad0}父啊  请给我免去这杯吧{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Father, take this from me.{\r}
+
+374
+00:35:52,540 --> 00:35:53,800
+{\fn方正大黑简体\fs12\bord1\shad0}宽恕我{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Spare me.{\r}
+
+375
+00:35:56,770 --> 00:35:59,560
+{\fn方正大黑简体\fs12\bord1\shad0}主啊  你定会满意我的所为{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Lord, I know you will please with me.{\r}
+
+376
+00:36:00,980 --> 00:36:04,930
+{\fn方正大黑简体\fs12\bord1\shad0}因你一直诚心扶持我{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}For you sustain me in sincerity.{\r}
+
+377
+00:36:05,840 --> 00:36:08,360
+{\fn方正大黑简体\fs12\bord1\shad0}感谢你们  我们的祖先{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}We thank you, our ancestors,{\r}
+
+378
+00:36:09,160 --> 00:36:10,860
+{\fn方正大黑简体\fs12\bord1\shad0}感谢你们的庇佑{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}for watching over us.{\r}
+
+379
+00:36:14,180 --> 00:36:15,310
+{\fn方正大黑简体\fs12\bord1\shad0}父啊{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Father.{\r}
+
+380
+00:36:17,560 --> 00:36:19,490
+{\fn方正大黑简体\fs12\bord1\shad0}愿上主{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Praise the Lord.{\r}
+
+381
+00:36:20,580 --> 00:36:22,930
+{\fn方正大黑简体\fs12\bord1\shad0}以色列天主，受赞颂{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}God of Israel.{\r}
+
+382
+00:36:24,230 --> 00:36:27,670
+{\fn方正大黑简体\fs12\bord1\shad0}自永远直到永远{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Everlasting and everlasting.{\r}
+
+383
+00:36:28,310 --> 00:36:31,120
+{\fn方正大黑简体\fs12\bord1\shad0}阿们， 阿们！（咏41）{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Amen and amen.{\r}
+
+384
+00:36:46,770 --> 00:36:49,640
+{\fn方正大黑简体\fs12\bord1\shad0}如果这是你的旨意  父啊{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}If you will it, Father.{\r}
+
+385
+00:36:55,350 --> 00:36:56,850
+{\fn方正大黑简体\fs12\bord1\shad0}如果这是你的旨意{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}If you will it,{\r}
+
+386
+00:36:59,550 --> 00:37:00,580
+{\fn方正大黑简体\fs12\bord1\shad0}我必完成{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}your will...{\r}
+
+387
+00:37:03,630 --> 00:37:04,760
+{\fn方正大黑简体\fs12\bord1\shad0}你的旨意{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}is mine.{\r}
+
+388
+00:37:37,250 --> 00:37:38,970
+{\fn方正大黑简体\fs12\bord1\shad0}你来做的事 就做吧{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Do what you came for.{\r}
+
+389
+00:37:48,520 --> 00:37:49,880
+{\fn方正大黑简体\fs12\bord1\shad0}叛徒{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Traitor!{\r}
+
+390
+00:37:54,580 --> 00:37:56,740
+{\fn方正大黑简体\fs12\bord1\shad0}抓住他  抓住他{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Take him. Take him.{\r}
+
+391
+00:37:56,740 --> 00:37:57,830
+{\fn方正大黑简体\fs12\bord1\shad0}不{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}No!{\r}
+
+392
+00:37:58,740 --> 00:38:00,780
+{\fn方正大黑简体\fs12\bord1\shad0}快跑  耶稣{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Run, Jesus!{\r}
+
+393
+00:38:05,220 --> 00:38:06,970
+{\fn方正大黑简体\fs12\bord1\shad0}快跑  耶稣{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Run, Jesus!{\r}
+
+394
+00:38:06,970 --> 00:38:09,170
+{\fn方正大黑简体\fs12\bord1\shad0}跑  快跑{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Run! Run!{\r}
+
+395
+00:38:09,170 --> 00:38:10,370
+{\fn方正大黑简体\fs12\bord1\shad0}快跑  耶稣{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Run, Jesus!{\r}
+
+396
+00:38:10,370 --> 00:38:11,290
+{\fn方正大黑简体\fs12\bord1\shad0}伯多禄{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Peter.{\r}
+
+397
+00:38:13,080 --> 00:38:15,040
+{\fn方正大黑简体\fs12\bord1\shad0}因为凡持剑的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He who lives by the sword...{\r}
+
+398
+00:38:15,720 --> 00:38:17,310
+{\fn方正大黑简体\fs12\bord1\shad0}必死在剑下{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}dies by the sword.{\r}
+
+399
+00:39:08,700 --> 00:39:09,570
+{\fn方正大黑简体\fs12\bord1\shad0}快跑{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Run!{\r}
+
+400
+00:39:12,790 --> 00:39:15,430
+{\fn方正大黑简体\fs12\bord1\shad0}快点  走  快走{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Come on, you! Move! Move it!{\r}
+
+401
+00:39:15,440 --> 00:39:16,720
+{\fn方正大黑简体\fs12\bord1\shad0}把他带回去{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Take him back.{\r}
+
+402
+00:39:20,720 --> 00:39:22,040
+{\fn方正大黑简体\fs12\bord1\shad0}这人怎么处置{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}What about this one?{\r}
+
+403
+00:39:23,520 --> 00:39:24,790
+{\fn方正大黑简体\fs12\bord1\shad0}滚远点{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Get out of here!{\r}
+
+404
+00:39:27,380 --> 00:39:28,270
+{\fn方正大黑简体\fs12\bord1\shad0}快来{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Come on.{\r}
+
+405
+00:39:29,620 --> 00:39:30,970
+{\fn方正大黑简体\fs12\bord1\shad0}我不会抛下耶稣的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I won't leave Jesus.{\r}
+
+406
+00:39:31,130 --> 00:39:32,850
+{\fn方正大黑简体\fs12\bord1\shad0}-伯多禄  -快走吧{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}- Peter - Come on!{\r}
+
+407
+00:39:35,300 --> 00:39:36,380
+{\fn方正大黑简体\fs12\bord1\shad0}快走  玛利亚{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Come on, Mary.{\r}
+
+408
+00:39:44,260 --> 00:39:45,260
+{\fn方正大黑简体\fs12\bord1\shad0}别停下{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Keep moving!{\r}
+
+409
+00:39:48,420 --> 00:39:49,400
+{\fn方正大黑简体\fs12\bord1\shad0}走快点{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Quickly!{\r}
+
+410
+00:39:51,270 --> 00:39:52,370
+{\fn方正大黑简体\fs12\bord1\shad0}耶稣{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Jesus!{\r}
+
+411
+00:39:53,650 --> 00:39:54,070
+{\fn方正大黑简体\fs12\bord1\shad0}起来{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Get up!{\r}
+
+412
+00:39:54,570 --> 00:39:55,070
+{\fn方正大黑简体\fs12\bord1\shad0}够了{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Enough!{\r}
+
+413
+00:39:55,220 --> 00:39:56,250
+{\fn方正大黑简体\fs12\bord1\shad0}接着走  别停下{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Keep him moving.{\r}
+
+414
+00:40:11,110 --> 00:40:13,020
+{\fn方正大黑简体\fs12\bord1\shad0}叫你口出狂言{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}We'll teach you to blaspheme.{\r}
+
+415
+00:40:14,990 --> 00:40:16,410
+{\fn方正大黑简体\fs12\bord1\shad0}过来{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Come on!{\r}
+
+416
+00:40:19,300 --> 00:40:21,970
+{\fn方正大黑简体\fs12\bord1\shad0}-告诉盖法我们抓到耶稣了  -是{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}- Tell Caiaphas we have Jesus. - Yes, sir.{\r}
+
+417
+00:40:23,690 --> 00:40:24,730
+{\fn方正大黑简体\fs12\bord1\shad0}你不用跟了{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Not you.{\r}
+
+418
+00:40:38,000 --> 00:40:41,230
+{\fn方正大黑简体\fs12\bord1\shad0}"因此夜间的审判包括死刑{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}"Therefore night trials involving death penalty{\r}
+
+419
+00:40:41,230 --> 00:40:43,640
+{\fn方正大黑简体\fs12\bord1\shad0}不得在安息日前夜{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}may not be held on the eve of Sabbath...{\r}
+
+420
+00:40:43,640 --> 00:40:46,230
+{\fn方正大黑简体\fs12\bord1\shad0}或是其他宗教节日前夜进行"{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}or on the eve of a feast day."{\r}
+
+421
+00:40:47,040 --> 00:40:48,440
+{\fn方正大黑简体\fs12\bord1\shad0}大司祭说{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}The best scholar say{\r}
+
+422
+00:40:48,440 --> 00:40:50,300
+{\fn方正大黑简体\fs12\bord1\shad0}审判只能在白昼进行{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}we must hold our trials by daylight.{\r}
+
+423
+00:40:50,300 --> 00:40:52,170
+{\fn方正大黑简体\fs12\bord1\shad0}但我们今晚就审判{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}But the trial is tonight.{\r}
+
+424
+00:42:15,820 --> 00:42:17,180
+{\fn方正大黑简体\fs12\bord1\shad0}你不能这么干{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}You cannot go through with this.{\r}
+
+425
+00:42:17,180 --> 00:42:18,560
+{\fn方正大黑简体\fs12\bord1\shad0}这不合法{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}It is not legal.{\r}
+
+426
+00:42:18,660 --> 00:42:19,660
+{\fn方正大黑简体\fs12\bord1\shad0}我们的司祭说{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Our scholar say{\r}
+
+427
+00:42:19,660 --> 00:42:22,150
+{\fn方正大黑简体\fs12\bord1\shad0}审判必须在白天在法庭上公开进行{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}it must be in court, in daylight, in public!{\r}
+
+428
+00:42:22,160 --> 00:42:23,200
+{\fn方正大黑简体\fs12\bord1\shad0}必须这么做{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}It is necessary.{\r}
+
+429
+00:42:23,200 --> 00:42:23,880
+{\fn方正大黑简体\fs12\bord1\shad0}为什么要这么匆忙？{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Why the rush?{\r}
+
+430
+00:42:23,880 --> 00:42:25,320
+{\fn方正大黑简体\fs12\bord1\shad0}你知道的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}You know why.{\r}
+
+431
+00:42:25,880 --> 00:42:28,260
+{\fn方正大黑简体\fs12\bord1\shad0}比拉多会关闭圣殿{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Pilate will close the temple.{\r}
+
+432
+00:42:29,220 --> 00:42:31,160
+{\fn方正大黑简体\fs12\bord1\shad0}我们必须除掉这个耶稣{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}We must be rid of this Jesus.{\r}
+
+433
+00:42:33,610 --> 00:42:36,400
+{\fn方正大黑简体\fs12\bord1\shad0}如果他真的是人们所说的那个人呢{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}But what if he really is who they say he is?{\r}
+
+434
+00:42:37,170 --> 00:42:40,130
+{\fn方正大黑简体\fs12\bord1\shad0}我们会准确地判断这事的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}We are to decide precisely that.{\r}
+
+435
+00:42:40,160 --> 00:42:42,320
+{\fn方正大黑简体\fs12\bord1\shad0}现在  按天主指引的做{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}now, with God's guidance.{\r}
+
+436
+00:42:42,320 --> 00:42:44,230
+{\fn方正大黑简体\fs12\bord1\shad0}天主要求我们遵守法律{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}God demands we obey the law.{\r}
+
+437
+00:42:44,230 --> 00:42:47,070
+{\fn方正大黑简体\fs12\bord1\shad0}那我提醒你  法律是这么写的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Let me remind you what the law says.{\r}
+
+438
+00:42:47,490 --> 00:42:52,020
+{\fn方正大黑简体\fs12\bord1\shad0}任何对司祭或审判表示蔑视的人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Anyone who shows contempt for the judge or for the priest...{\r}
+
+439
+00:42:52,020 --> 00:42:54,020
+{\fn方正大黑简体\fs12\bord1\shad0}格杀勿论{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}shall be put to death.{\r}
+
+440
+00:42:54,940 --> 00:42:56,130
+{\fn方正大黑简体\fs12\bord1\shad0}任何人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Anyone.{\r}
+
+441
+00:43:11,130 --> 00:43:12,210
+{\fn方正大黑简体\fs12\bord1\shad0}告诉我{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Tell me.{\r}
+
+442
+00:43:13,870 --> 00:43:15,280
+{\fn方正大黑简体\fs12\bord1\shad0}请告诉我{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Speak to me.{\r}
+
+443
+00:43:15,790 --> 00:43:17,770
+{\fn方正大黑简体\fs12\bord1\shad0}为什么放任他们如此对你{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Why letting them do this to you?{\r}
+
+444
+00:43:18,050 --> 00:43:19,180
+{\fn方正大黑简体\fs12\bord1\shad0}别再向前了  退下{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}No, no, no. Get back.{\r}
+
+445
+00:43:19,180 --> 00:43:20,970
+{\fn方正大黑简体\fs12\bord1\shad0}看到那个被捕的人了吗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Have you seen the man they arrested?{\r}
+
+446
+00:43:20,970 --> 00:43:23,200
+{\fn方正大黑简体\fs12\bord1\shad0}-看到那个被捕的人了吗  -退下{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}- Have you seen the man they arrested?  -Get back.{\r}
+
+447
+00:43:35,780 --> 00:43:36,870
+{\fn方正大黑简体\fs12\bord1\shad0}同胞们{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Brothers.{\r}
+
+448
+00:43:38,410 --> 00:43:41,050
+{\fn方正大黑简体\fs12\bord1\shad0}感谢各位深夜前来{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Thank you for coming at this hour.{\r}
+
+449
+00:43:41,520 --> 00:43:43,540
+{\fn方正大黑简体\fs12\bord1\shad0}如果不是要紧事{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}You know I would not have asked you...{\r}
+
+450
+00:43:44,030 --> 00:43:45,900
+{\fn方正大黑简体\fs12\bord1\shad0}我也不会如此兴师动众{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}if it were not so serious.{\r}
+
+451
+00:44:10,800 --> 00:44:11,980
+{\fn方正大黑简体\fs12\bord1\shad0}让他起来{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Get him up.{\r}
+
+452
+00:44:17,730 --> 00:44:19,930
+{\fn方正大黑简体\fs12\bord1\shad0}纳匝肋人耶稣{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Jesus of Nazareth,{\r}
+
+453
+00:44:21,610 --> 00:44:24,940
+{\fn方正大黑简体\fs12\bord1\shad0}你被指控亵渎天主{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}you are charged with blasphemy.{\r}
+
+454
+00:44:54,100 --> 00:44:55,030
+{\fn方正大黑简体\fs12\bord1\shad0}玛利亚{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Mary?{\r}
+
+455
+00:44:56,610 --> 00:44:57,540
+{\fn方正大黑简体\fs12\bord1\shad0}玛利亚{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Mary.{\r}
+
+456
+00:45:02,800 --> 00:45:05,150
+{\fn方正大黑简体\fs12\bord1\shad0}出什么事了  我的儿子呢{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}What has happened? Where is my son?{\r}
+
+457
+00:45:05,920 --> 00:45:07,880
+{\fn方正大黑简体\fs12\bord1\shad0}耶稣被捕了{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Jesus has been arrested.{\r}
+
+458
+00:45:08,150 --> 00:45:08,790
+{\fn方正大黑简体\fs12\bord1\shad0}被捕{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Arrested?{\r}
+
+459
+00:45:08,790 --> 00:45:10,940
+{\fn方正大黑简体\fs12\bord1\shad0}但我们不知道他被抓到哪去了{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}But we don't know where they have taken him.{\r}
+
+460
+00:45:12,410 --> 00:45:13,560
+{\fn方正大黑简体\fs12\bord1\shad0}被捕{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Arrested?{\r}
+
+461
+00:45:14,260 --> 00:45:15,410
+{\fn方正大黑简体\fs12\bord1\shad0}在夜里吗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}At night?{\r}
+
+462
+00:45:16,360 --> 00:45:17,870
+{\fn方正大黑简体\fs12\bord1\shad0}他们是秘密行动{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}They want to keep it secret.{\r}
+
+463
+00:45:18,080 --> 00:45:20,000
+{\fn方正大黑简体\fs12\bord1\shad0}不希望引起民众抗议{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}They don't want any protests.{\r}
+
+464
+00:45:22,130 --> 00:45:28,000
+{\fn方正大黑简体\fs12\bord1\shad0}他利用魔鬼的力量去治愈疾病{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He has employed demons... to heal.{\r}
+
+465
+00:45:29,310 --> 00:45:32,200
+{\fn方正大黑简体\fs12\bord1\shad0}他还威胁说{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He has threatened...{\r}
+
+466
+00:45:32,320 --> 00:45:36,530
+{\fn方正大黑简体\fs12\bord1\shad0}要摧毁天主的圣殿{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}to destroy the temple of our Lord.{\r}
+
+467
+00:45:40,000 --> 00:45:42,130
+{\fn方正大黑简体\fs12\bord1\shad0}同胞们  在审判之前{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Brothers, we must listen...{\r}
+
+468
+00:45:43,240 --> 00:45:44,780
+{\fn方正大黑简体\fs12\bord1\shad0}我们必须倾听{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}before we judge.{\r}
+
+469
+00:45:47,540 --> 00:45:51,420
+{\fn方正大黑简体\fs12\bord1\shad0}所以  我请先知来{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}And so I invite the prophet...{\r}
+
+470
+00:45:51,920 --> 00:45:53,080
+{\fn方正大黑简体\fs12\bord1\shad0}说一说{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}to speak.{\r}
+
+471
+00:45:55,850 --> 00:45:59,120
+{\fn方正大黑简体\fs12\bord1\shad0}请告诉我们  天主向你传达的话{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Tell us the message you bring from God.{\r}
+
+472
+00:46:10,670 --> 00:46:11,680
+{\fn方正大黑简体\fs12\bord1\shad0}没有吗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Nothing?{\r}
+
+473
+00:46:13,390 --> 00:46:15,290
+{\fn方正大黑简体\fs12\bord1\shad0}无话可说吗  当然了{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Nothing to say? Surely.{\r}
+
+474
+00:46:18,030 --> 00:46:19,430
+{\fn方正大黑简体\fs12\bord1\shad0}那告诉我们{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Tell us this.{\r}
+
+475
+00:46:21,620 --> 00:46:25,300
+{\fn方正大黑简体\fs12\bord1\shad0}你是不是默西亚{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Are you... the Chosen One?{\r}
+
+476
+00:46:27,050 --> 00:46:29,230
+{\fn方正大黑简体\fs12\bord1\shad0}你是不是天主之子{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Are you the Son of God?{\r}
+
+477
+00:46:34,420 --> 00:46:35,680
+{\fn方正大黑简体\fs12\bord1\shad0}我是{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I am.{\r}
+
+478
+00:46:42,350 --> 00:46:44,730
+{\fn方正大黑简体\fs12\bord1\shad0}你们将要看见人子{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}And you will see me coming...{\r}
+
+479
+00:46:45,090 --> 00:46:46,730
+{\fn方正大黑简体\fs12\bord1\shad0}乘着天上的云彩降来{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}with the clouds of heaven,{\r}
+
+480
+00:46:47,460 --> 00:46:49,850
+{\fn方正大黑简体\fs12\bord1\shad0}坐在那大能者的右边{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}sitting at the right hand of God.{\r}
+
+481
+00:46:49,850 --> 00:46:52,200
+{\fn方正大黑简体\fs12\bord1\shad0}真是无法容忍{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}This is repulsive!{\r}
+
+482
+00:46:52,210 --> 00:46:54,970
+{\fn方正大黑简体\fs12\bord1\shad0}和天主一起  骗子{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}With God? Impostor!{\r}
+
+483
+00:46:54,970 --> 00:46:57,330
+{\fn方正大黑简体\fs12\bord1\shad0}蠢材  亵渎者{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Fool! Blasphemer!{\r}
+
+484
+00:47:03,690 --> 00:47:05,320
+{\fn方正大黑简体\fs12\bord1\shad0}大家都听见了{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}We have heard enough.{\r}
+
+485
+00:47:06,630 --> 00:47:09,230
+{\fn方正大黑简体\fs12\bord1\shad0}裁决结果只有一个{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}There is only one verdict.{\r}
+
+486
+00:47:11,580 --> 00:47:12,580
+{\fn方正大黑简体\fs12\bord1\shad0}他有罪吗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Guilty?{\r}
+
+487
+00:47:24,840 --> 00:47:26,160
+{\fn方正大黑简体\fs12\bord1\shad0}这是不对的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}This is wrong.{\r}
+
+488
+00:47:28,540 --> 00:47:31,050
+{\fn方正大黑简体\fs12\bord1\shad0}这给我们的公会带来耻辱{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}This brings shame on our council.{\r}
+
+489
+00:47:31,900 --> 00:47:32,930
+{\fn方正大黑简体\fs12\bord1\shad0}不是吗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Does it not?{\r}
+
+490
+00:47:32,940 --> 00:47:34,100
+{\fn方正大黑简体\fs12\bord1\shad0}同胞们{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Brothers.{\r}
+
+491
+00:47:36,670 --> 00:47:38,320
+{\fn方正大黑简体\fs12\bord1\shad0}此人被判处死刑{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}The sentence is death.{\r}
+
+492
+00:47:48,820 --> 00:47:51,190
+{\fn方正大黑简体\fs12\bord1\shad0}《圣经》下集预告{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Next time on The Bible.{\r}
+
+493
+00:47:51,200 --> 00:47:54,170
+{\fn方正大黑简体\fs12\bord1\shad0}长官  我们需要您的帮助{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Prefect, we need your help.{\r}
+
+494
+00:47:54,700 --> 00:47:58,500
+{\fn方正大黑简体\fs12\bord1\shad0}我们判决了一名非常危险的犯人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}We have convicted a dangerous criminal.{\r}
+
+495
+00:48:00,920 --> 00:48:04,290
+{\fn方正大黑简体\fs12\bord1\shad0}他活一日  就是一日的威胁{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He is an immediate threat.{\r}
+
+496
+00:48:04,510 --> 00:48:05,860
+{\fn方正大黑简体\fs12\bord1\shad0}他叫什么{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}His name.{\r}
+
+497
+00:48:06,490 --> 00:48:08,390
+{\fn方正大黑简体\fs12\bord1\shad0}纳匝肋人耶稣{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Jesus of Nazareth.{\r}
+
+498
+00:48:11,070 --> 00:48:13,240
+{\fn方正大黑简体\fs12\bord1\shad0}你是犹太人的君王吗{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Are you the king of the Jews?{\r}
+
+499
+00:48:14,080 --> 00:48:15,340
+{\fn方正大黑简体\fs12\bord1\shad0}我的国{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}My kingdom...{\r}
+
+500
+00:48:16,290 --> 00:48:17,950
+{\fn方正大黑简体\fs12\bord1\shad0}不属于这世界{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}is not of this world.{\r}
+
+501
+00:48:18,220 --> 00:48:21,630
+{\fn方正大黑简体\fs12\bord1\shad0}此人不过是被人蛊惑了而已{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He's guilty of nothing more than being deluded.{\r}
+
+502
+00:48:21,800 --> 00:48:25,810
+{\fn方正大黑简体\fs12\bord1\shad0}他侵犯了我们神圣的法律{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He has broken our sacred laws.{\r}
+
+503
+00:48:25,810 --> 00:48:29,510
+{\fn方正大黑简体\fs12\bord1\shad0}纳匝肋人耶稣被判有罪{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Jesus of Nazareth has been found guilty.{\r}
+
+504
+00:48:29,510 --> 00:48:31,200
+{\fn方正大黑简体\fs12\bord1\shad0}拿回你们的臭钱吧{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Take back your money!{\r}
+
+505
+00:48:34,140 --> 00:48:36,920
+{\fn方正大黑简体\fs12\bord1\shad0}你认识他  你称他辣彼{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}You know him. You called him Rabbi.{\r}
+
+506
+00:48:36,960 --> 00:48:38,580
+{\fn方正大黑简体\fs12\bord1\shad0}我不认识此人{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He's nothing to do with me.{\r}
+
+507
+00:48:39,220 --> 00:48:40,530
+{\fn方正大黑简体\fs12\bord1\shad0}他们会杀了他的{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}They're going to kill him.{\r}
+
+508
+00:48:43,630 --> 00:48:44,940
+{\fn方正大黑简体\fs12\bord1\shad0}钉死他{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Crucify him!{\r}
+
+509
+00:48:44,940 --> 00:48:46,650
+{\fn方正大黑简体\fs12\bord1\shad0}你必因此事后悔终生{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}You'll live to regret this.{\r}
+
+510
+00:48:46,650 --> 00:48:48,590
+{\fn方正大黑简体\fs12\bord1\shad0}一周之后就没人会记得他是谁了{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}He'll be forgotten in a week.{\r}
+
+511
+00:48:51,210 --> 00:48:53,010
+{\fn方正大黑简体\fs12\bord1\shad0}你本应是他的磐石{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}You were supposed to be his rock.{\r}
+
+512
+00:48:53,010 --> 00:48:56,160
+{\fn方正大黑简体\fs12\bord1\shad0}我辜负了他  如今也无法请求他的宽恕{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}I failed him. Now I can't ask him to forgive me.{\r}
+
+513
+00:48:59,900 --> 00:49:01,070
+{\fn方正大黑简体\fs12\bord1\shad0}父啊{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Father.{\r}
+
+514
+00:49:01,300 --> 00:49:02,680
+{\fn方正大黑简体\fs12\bord1\shad0}宽赦他们吧{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}Forgive them...{\r}
+
+515
+00:49:04,620 --> 00:49:07,240
+{\fn方正大黑简体\fs12\bord1\shad0}因为他们不知道他们做的是什么{\r}
+{\fn方正大黑简体\fs8\bord1\shad0}for they know not what they do.{\r}
+
+516
+00:49:08,768 --> 00:49:23,854
+{\fn方正大黑简体\fs10\shad0}如果你想为天主教的影视字幕出一份福传的力量， 请来Q群180574695【天主的译站】指导交流!{\r}
+

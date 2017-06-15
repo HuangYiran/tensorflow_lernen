@@ -1,0 +1,3002 @@
+1
+00:00:00,800 --> 00:00:03,790
+星际之门之亚特兰蒂斯 前情提要
+Previously on Stargate Atlantis...
+
+2
+00:00:03,790 --> 00:00:07,790
+母船在49小时之后就会进入
+卫星的攻击范围
+The hive ships will be in range
+of the satellite in 49 hours.
+
+3
+00:00:07,790 --> 00:00:10,990
+那个卫星是唯一可以在幽灵和亚特兰蒂斯之间
+起抵抗作用的东西了
+That satellite is the only thing
+standing between the Wraith and Atlantis.
+
+4
+00:00:11,190 --> 00:00:13,290
+你的意思是, 你认为它还不够强大
+足以干掉一艘幽灵的母船
+And you think it's powerful enough
+to take out a Wraith hive ship?
+
+5
+00:00:13,290 --> 00:00:16,290
+根据古人的数据库, 当完全充满电时
+它应该能够干掉所有这三艘母船
+According to the Ancients' database, it should
+be able to take out all three when fully charged.
+
+6
+00:00:16,590 --> 00:00:18,990
+很糟糕, 非常糟糕
+This is bad. Very bad.
+
+7
+00:00:18,990 --> 00:00:19,990
+我不知道我能不能修好它
+I'm not sure I can fix this.
+
+8
+00:00:20,790 --> 00:00:23,490
+幽灵的兴趣
+并不在于摧毁亚特兰蒂斯
+The Wraith are not interested
+in destroying Atlantis.
+
+9
+00:00:23,690 --> 00:00:24,990
+它们到这里来是为了去地球
+They're coming here to get to Earth.
+
+10
+00:00:24,990 --> 00:00:25,890
+这就意味着要劫持这座城市
+Which means stealing the city, which
+is why we have a self-destruct in place.
+
+11
+00:00:26,390 --> 00:00:28,290
+这也就是为什么
+我们要在这里装上自毁装置
+We're having trouble
+docking with the satellite.
+
+12
+00:00:28,390 --> 00:00:30,990
+我们没法停靠到卫星上
+See what you can do from your side.
+
+13
+00:00:30,990 --> 00:00:31,990
+没时间了
+There isn't time for that.
+
+14
+00:00:31,990 --> 00:00:37,990
+飞到安全距离之外 再回来接我
+然后在卫星教训完幽灵的飞船之后
+Get to a safe distance, then come get me once
+the satellite has taken care of the Wraith ships.
+
+15
+00:00:40,590 --> 00:00:41,190
+我们干掉一艘了!
+We have a kill.
+
+16
+00:00:42,890 --> 00:00:44,590
+没有时间了
+快点离开这里!
+There's no time. Just get the hell out of here!
+
+17
+00:00:47,346 --> 00:00:49,990
+亚特兰蒂斯, 我是McKay!
+我们已经失去了卫星!
+Atlantis, this is McKay. We have lost the satellite.
+
+18
+00:00:49,990 --> 00:00:54,090
+- 你们有没有打下更多的飞船?
+- 没有, 另外两艘飞船都完好无损
+Did you manage to take out any more ships? Negative. The two other hive ships are intact.
+
+19
+00:00:54,090 --> 00:00:57,090
+你在那儿也做不了什么了, Rodney
+返回亚特兰蒂斯吧
+You can't do any more out there, Rodney. Return to Atlantis.
+
+20
+00:01:06,490 --> 00:01:07,390
+欢迎回来, Rodney
+Welcome back, Rodney.
+
+21
+00:01:07,390 --> 00:01:08,390
+现在是什么情况?
+Where are we?
+
+22
+00:01:08,390 --> 00:01:10,890
+探测器显示, 母船又开始移动了
+Our scanners show the hive
+ships have started moving again,
+
+23
+00:01:10,891 --> 00:01:12,890
+虽然移动的速度非常慢
+although their pace
+has slowed considerably.
+
+24
+00:01:13,490 --> 00:01:15,290
+很显然, 你的行动得让它们考虑考虑
+Obviously, you gave them
+something to think about.
+
+25
+00:01:15,890 --> 00:01:17,690
+不管它们是两小时后到达
+还是两天后到达
+If they get here in two hours or two days,
+
+26
+00:01:18,390 --> 00:01:19,890
+这并不能改变
+我们已经束手无策的现实
+it
+doesn't change the fact that we're out of options.
+
+27
+00:01:21,390 --> 00:01:22,490
+我们不能指望跟它们战斗
+We can't hope to fight them.
+
+28
+00:01:22,490 --> 00:01:24,490
+因此希望你们两个能够有更好的主意
+So, unless either of you has any more ideas...
+
+29
+00:01:29,990 --> 00:01:31,990
+最后一组人已经准备好撤离了
+The last group is assembled and ready for evac.
+
+30
+00:01:33,590 --> 00:01:34,990
+很好
+All right, then.
+
+31
+00:01:35,890 --> 00:01:36,790
+我们把这件事做完吧
+Let's get this done. Ready?
+
+32
+00:02:00,190 --> 00:02:02,890
+自毁程序已经启动了
+准备将病毒加载到古人的主机中
+Self-destruct is armed. Prepare to load the virus into the Ancient mainframe.
+
+33
+00:02:04,490 --> 00:02:05,890
+Rodney, 拨通阿尔法站点
+Rodney, dial the alpha site.
+
+34
+00:02:05,890 --> 00:02:08,890
+就开始拨
+Dialing.
+
+35
+00:02:18,390 --> 00:02:19,590
+有虫洞连接进来
+We've got an incoming wormhole.
+
+36
+00:02:26,300 --> 00:02:27,190
+接收身份验证码...
+We're receiving an I.D.C.
+
+37
+00:02:27,190 --> 00:02:28,190
+是谁?
+Who is it?
+
+38
+00:02:29,090 --> 00:02:30,190
+星际之门指挥官
+Stargate Command.
+
+39
+00:02:30,590 --> 00:02:33,190
+- 你确定?
+- 肯定
+Are you sure? Positive.
+
+40
+00:02:33,190 --> 00:02:34,190
+解除防护盾
+Lower the shields.
+
+41
+00:02:51,390 --> 00:02:52,590
+Weir博士?
+Dr. Weir?
+
+42
+00:02:52,790 --> 00:02:53,790
+是的
+Yes.
+
+43
+00:02:53,790 --> 00:02:55,590
+Dillard Everett上校, 美国海军陆战队
+Colonel Everett, United States Marine Corps.
+
+44
+00:02:55,590 --> 00:02:56,690
+你应该知道...
+You should know...
+
+45
+00:02:56,690 --> 00:03:01,290
+O'Neill将军恭贺你们, 任务完成得很好
+即便是在这种极端的环境下
+General O'Neill sends his compliments on a job
+well done under extraordinary circumstances.
+
+46
+00:03:02,050 --> 00:03:03,050
+你的任务完成了
+You are relieved.
+
+47
+00:03:03,050 --> 00:03:04,050
+长官, 我们正准备撤退
+We were about to evacuate.
+
+48
+00:03:04,050 --> 00:03:07,050
+- 不进行战斗?
+- 是的
+Without a fight. Yes, sir.
+
+49
+00:03:08,800 --> 00:03:09,800
+这是我的命令
+On my order.
+
+50
+00:03:10,300 --> 00:03:11,300
+撤销撤退命令
+That evacuation order is rescinded.
+
+51
+00:03:12,300 --> 00:03:14,300
+我想你们已经启动了自毁装置
+I assume you've armed the self-destruct device?
+
+52
+00:03:15,300 --> 00:03:17,200
+是的, 因为Weir是想告诉你...
+Yes, sir, we have, but as
+Dr. Weir was trying to tell you...
+
+53
+00:03:17,200 --> 00:03:19,400
+我要你立刻解除它
+I am going to need you to disarm it immediately.
+
+54
+00:03:19,400 --> 00:03:22,400
+等等, 上校
+我想你并没有完全了解这里的形势
+Hold on a second, Colonel. I don't think you fully grasp our situation...
+
+55
+00:03:22,400 --> 00:03:24,400
+有三艘幽灵的飞船
+正向你们这个方向飞来
+You have three Wraith hive ships
+bearing down on your position
+
+56
+00:03:24,400 --> 00:03:26,500
+而你们没有什么可以自卫
+and precious little to defend yourselves with.
+
+57
+00:03:26,500 --> 00:03:29,500
+是这些么?
+That about sum it up?
+
+58
+00:03:29,500 --> 00:03:30,500
+你收到了我们的消息?
+You got our message.
+
+59
+00:03:30,500 --> 00:03:31,500
+我们收到了消息
+We got your message.
+
+60
+00:03:31,500 --> 00:03:34,500
+现在已经减少到两艘母船了
+我们成功的摧毁了一艘
+It's down to two hive ships.
+We managed to destroy one.
+
+61
+00:03:34,500 --> 00:03:37,500
+这更好
+这样我的工作就更轻松了
+Good for you. That should make my job a little easier.
+
+62
+00:03:37,500 --> 00:03:39,400
+你的工作具体是什么, 长官?
+What exactly is your job, sir?
+
+63
+00:03:39,400 --> 00:03:45,300
+我想那对你来说应该很清楚, 少校
+我们应该不惜一切代价保卫亚特兰蒂斯
+I should think that would be We are going to defend Atlantis at all costs.
+obvious to you by now, Major.
+
+64
+00:04:41,000 --> 00:04:47,000
+星际之门之亚特兰蒂斯
+第一季第20集 围攻 第二部分
+Season 1 : Episode 20
+The siege (part 2)
+
+65
+00:04:51,337 --> 00:04:51,837
+上校
+Colonel.
+
+66
+00:04:53,137 --> 00:04:54,837
+这是O'Neill签署的
+Signed by General O'Neill.
+
+67
+00:05:00,837 --> 00:05:03,037
+上校, 我们并不是不感激
+Colonel, it's not that we don't appreciate the thought,
+
+68
+00:05:03,337 --> 00:05:06,437
+不过如果你读过那份介绍
+舰队正朝这里开来的报告
+but if you had read the report
+on the armada headed this way,
+
+69
+00:05:06,437 --> 00:05:07,437
+我们没有什么可以做了
+you'd know there's not much we can do about it.
+
+70
+00:05:07,437 --> 00:05:10,437
+是的, 我 一页一页的读过你们的报告
+Oh, I read your report cover to cover, Major.
+
+71
+00:05:11,800 --> 00:05:12,800
+你们一定是找到了一个ZPM
+They must have found a ZPM.
+
+72
+00:05:12,800 --> 00:05:15,100
+只有这样你们才能从地球拨号到这里
+That's the only way they could
+have dialed in from Earth.
+
+73
+00:05:15,200 --> 00:05:17,500
+它是被一队考古学家在埃及发现的
+It was discovered in Egypt
+by a group of archaeologists.
+
+74
+00:05:17,500 --> 00:05:20,000
+这个该死的东西一直都藏在我们眼皮底下
+The damn thing has been under our noses the whole time.
+
+75
+00:05:20,000 --> 00:05:22,000
+难以想象！
+Fantastic. Wait a minute.
+
+76
+00:05:22,000 --> 00:05:25,500
+等等, 你们怎样才能把那个ZPM带到这里来?
+你们需要它建立虫洞
+How could you possibly bring the ZPM back here? You need it to maintain the wormhole.
+
+77
+00:05:25,500 --> 00:05:28,800
+在我们说话的时候, 它已经被传送到了
+Daedalus号上了, 我们的新战舰
+As we speak, it is being transported up
+to the Daedalus, our new battlecruiser.
+
+78
+00:05:28,800 --> 00:05:31,800
+Prometheus号的姊妹舰
+我简直无法想象它已经造好了
+Sister ship of the Prometheus. I didn't even know it was finished.
+
+79
+00:05:32,300 --> 00:05:36,200
+利用那个ZPM的能量
+她将会在四天内到达这里
+With the ZPM boosting her engines, she
+should be here inside of of four days.
+
+80
+00:05:36,200 --> 00:05:38,200
+在这段时间内我们要守住这个基地
+That is how long we have to hold this base.
+
+81
+00:05:38,800 --> 00:05:41,200
+Sheppard少校
+拨通那个飞马座的阿尔法站点
+Major Sheppard, dial Pegasus alpha
+site, recall all military personnel.
+
+82
+00:05:41,200 --> 00:05:46,200
+叫所有的军事人员, 连同所有
+愿意回来帮忙的平民, 马上回来
+As well, any civilians who would like to return and
+help take part in damage control are welcome to do so.
+
+83
+00:05:46,200 --> 00:05:48,200
+我们非常欢迎他们
+And when you're done with that,
+
+84
+00:05:48,600 --> 00:05:51,200
+在你做完之后
+到我设在会议室中的办公室中来
+please join
+me and my officers in the conference room.
+
+85
+00:05:51,200 --> 00:05:53,200
+我们将讨论一下我们的战术安排
+We'll discuss our tactical position.
+
+86
+00:05:53,200 --> 00:05:54,200
+Everett上校?
+Colonel Everett.
+
+87
+00:05:55,000 --> 00:05:56,200
+好吧, 现在你是主管
+Fine, you're in charge,
+
+88
+00:05:56,200 --> 00:05:58,200
+不过有需要我的地方
+可以去那个简报厅找我
+but
+I should be at that briefing.
+
+89
+00:05:58,200 --> 00:06:01,200
+如果涉及到亚特兰蒂斯的其它方面时
+我很乐意让你加入
+When it comes down to any other aspect of
+Atlantis, I will be happy to include you.
+
+90
+00:06:02,200 --> 00:06:04,200
+我们是在谈我们的战术安排
+We're talking about our tactical position.
+
+91
+00:06:04,200 --> 00:06:06,200
+- 我明白...
+- 很好!
+- I understand that...
+- Good.
+
+92
+00:06:06,600 --> 00:06:09,200
+能不能有个人去把自毁装置关掉?
+Somebody want to please turn off that self-destruct?
+
+93
+00:06:13,300 --> 00:06:17,100
+这幅示意图是跟据你们发给我们的信息画的
+它准确么?
+This schematic is based on the Can I assume it's accurate?
+information we got in your message.
+
+94
+00:06:17,100 --> 00:06:18,100
+是的, 长官!
+Yes, sir.
+
+95
+00:06:18,100 --> 00:06:20,300
+- 上尉, 实施方案, 阿尔法2
+- 是的, 长官!
+Captain, deploy plan alpha-two. Yes, sir.
+
+96
+00:06:20,300 --> 00:06:22,800
+军士, 阿尔法2
+Sergeant, alpha-two.
+
+97
+00:06:22,800 --> 00:06:24,800
+如果你不介意的话, 我想问一下, 上校
+实施什么方案?
+If you don't mind my asking,
+Colonel, deploy what exactly?
+
+98
+00:06:24,800 --> 00:06:27,300
+我们带来了一些轨迹枪
+We brought along a few rail guns.
+
+99
+00:06:27,300 --> 00:06:28,300
+它们本来是为Prometheus准备的
+They were originally slated  for Prometheus
+
+100
+00:06:28,300 --> 00:06:31,300
+在他们下一次更换装备的时候
+替换他们现有的装备
+to replace
+their current close-in armament on her next refit.
+
+101
+00:06:31,300 --> 00:06:34,900
+它们可以在250英里的距离上
+产生速度为5马赫速度的冲击力
+They will deliver an impact
+velocity of mach 5 at 250 miles.
+
+102
+00:06:34,900 --> 00:06:36,900
+一个标准的弹夹就支持发射一万次
+A standard magazine
+will hold 10,000 rounds.
+
+103
+00:06:37,900 --> 00:06:39,800
+自毁已经被中止了
+The self-destruct has been aborted.
+
+104
+00:06:40,200 --> 00:06:43,200
+谢谢! 你联系了阿尔法站点么?
+Thank you. Did you contact the alpha site?
+
+105
+00:06:46,000 --> 00:06:47,400
+是我让Sheppard先不忙
+I asked major Sheppard to wait
+
+106
+00:06:47,800 --> 00:06:49,300
+直到我有机会跟你谈谈
+until I had a chance to talk with you.
+
+107
+00:06:49,300 --> 00:06:51,300
+- 是么?
+- 是的
+- Is that a fact?
+- Yes, sir.
+
+108
+00:06:51,900 --> 00:06:54,300
+少校? 拨通阿尔法站点!
+Major, dial the alpha site.
+
+109
+00:06:54,300 --> 00:06:56,700
+上校, 你到这里一共只有五分钟
+Colonel, you've been here all of five minutes.
+
+110
+00:06:56,800 --> 00:06:59,700
+而到现在为止
+我已经为基地中的所有人
+Now, I have been responsible for
+the lives of the people on this base,
+
+111
+00:06:59,700 --> 00:07:01,700
+包括军人和平民
+both military and civilian,
+
+112
+00:07:01,700 --> 00:07:03,700
+负责了几个月了
+for the past several months.
+
+113
+00:07:04,400 --> 00:07:08,300
+我不想把这些人的生命置于危险境地
+直到我知道你将准备如何保卫这个城市
+I'm not about to put those lives in jeopardy until
+I at least know how you intend to defend this city.
+
+114
+00:07:08,300 --> 00:07:12,300
+我不需要向你解释, 博士
+而且我也不需要你的合作
+I don't need to explain myself to you,
+Doctor, and I don't need your cooperation.
+
+115
+00:07:13,300 --> 00:07:16,137
+不过你可能需要我...长官
+But you could probably use mine. Sir.
+
+116
+00:07:16,137 --> 00:07:20,137
+所以, 不是有意冒犯
+请回答Weir博士的问题
+So with all due respect, please
+answer Dr. Weir's question.
+
+117
+00:07:20,737 --> 00:07:22,737
+- 你这不是在威胁我吧, 少校?
+- 不, 长官.
+Is that a threat, Major? No, sir.
+
+118
+00:07:22,937 --> 00:07:25,737
+我知道你需要建立一条清晰的指令链
+I understand you need to establish a clear chain
+of command,
+
+119
+00:07:25,737 --> 00:07:27,837
+不过如果你把Weir博士排除在外
+but if you cut Dr. Weir out of the loop,
+
+120
+00:07:28,137 --> 00:07:30,837
+你将只会疏远信赖和尊敬她的人
+you'll only alienate the people whose
+trust and respect she's earned,
+which is everyone on the base, including me.
+
+121
+00:07:31,337 --> 00:07:34,637
+也就是说基地中的所有人, 包括我
+Is that a fact?
+
+122
+00:07:42,737 --> 00:07:43,337
+请坐吧
+Have a seat.
+
+123
+00:07:51,337 --> 00:07:51,837
+我应该参加那个会议
+I should be in that meeting.
+
+124
+00:07:52,637 --> 00:07:54,837
+我是了解这个城市防御能力的首席专家
+I am the foremost expert on the
+defense capabilities of this city.
+
+125
+00:07:55,337 --> 00:07:58,337
+是的, 你知道
+当军方参与进来之后, 科学家就只能坐在旁边
+You know how it is. When military steps in,
+ scientists take a back seat.
+
+126
+00:07:58,337 --> 00:08:00,337
+直到他们需要我们
+Until they need us.
+
+127
+00:08:00,337 --> 00:08:01,337
+- 他们认为他们不需要我们
+- 是的, 他们认为不需要我们
+They don't think they need us. They don't think they need us right
+up
+
+128
+00:08:01,337 --> 00:08:04,337
+一直到他们需要我们的时刻
+然后他们又需要我们
+until the point that they need us.
+- And then... they need us.
+
+129
+00:08:04,337 --> 00:08:06,337
+他们需要我们
+- Then they need us.
+
+130
+00:08:06,737 --> 00:08:07,337
+看看这个
+Take a look at this.
+
+131
+00:08:15,700 --> 00:08:17,537
+六个naquadah增强型的核弹头
+Six naquadah-enhanced nuclear
+warheads,
+
+132
+00:08:17,537 --> 00:08:19,137
+每颗120亿吨的当量
+1,200 megatons a piece.
+
+133
+00:08:19,137 --> 00:08:22,737
+它们是几乎所有地雷工程师的结晶
+雷达是完全探测不到的
+They emit almost zero E.M. and
+are otherwise invisible to radar.
+
+134
+00:08:22,737 --> 00:08:25,737
+一旦被部署, 它们将会被近炸引信引爆
+Once deployed, they will
+detonate by proximity fuse.
+
+135
+00:08:26,937 --> 00:08:27,937
+太空地雷?
+Space mines?
+
+136
+00:08:27,937 --> 00:08:29,937
+是的. 我们可以利用隐身的小飞船
+That's right.
+
+137
+00:08:29,937 --> 00:08:32,537
+把它们放置在舰队和亚特兰蒂斯之间
+We'll use jumpers in stealth mode to place them
+in a pattern between the armada and Atlantis.
+
+138
+00:08:32,537 --> 00:08:35,037
+少校, 我们希望
+你可以帮助我们完成这个
+Major, we were hoping you could help us with that.
+
+139
+00:08:35,037 --> 00:08:37,637
+好的, 不过我建议留下两个备用
+Yes, but I recommend keeping a couple in reserve.
+
+140
+00:08:37,637 --> 00:08:39,637
+不行, 我们准备一次就搞定
+Negative. We'll only get one shot at this.
+
+141
+00:08:40,037 --> 00:08:41,537
+我们必须考虑到这种可能性...
+We'll have to consider the possibility...
+
+142
+00:08:41,537 --> 00:08:42,437
+我的人中有四个是飞行员
+Four of my men are pilots.
+
+143
+00:08:42,637 --> 00:08:45,137
+Beckett正在对他们进行基因植入
+Beckett is giving them the gene inoculation right now.
+
+144
+00:08:45,665 --> 00:08:48,365
+在这完成之后, 你要带他们去熟悉飞船
+Assuming it takes, you will
+familiarize them with the jumpers,
+
+145
+00:08:48,365 --> 00:08:50,365
+他们将会成为我们的战斗机掩护分队
+and they will become our fighter screen.
+
+146
+00:08:50,365 --> 00:08:51,365
+同我一起
+Along with me.
+
+147
+00:08:51,365 --> 00:08:52,365
+我有另外一个任务给你
+I have another job for you.
+
+148
+00:08:52,365 --> 00:08:55,365
+我知道这个基地装备有一个
+座椅武器平台
+I understand that this base is
+equipped with a chair weapons platform,
+
+149
+00:08:55,365 --> 00:08:58,365
+类似于我们在南极洲找到的那个
+like the one we found in Antarctica.
+
+150
+00:08:58,765 --> 00:09:00,765
+是的, 不过我们没办法为它提供足够的能量
+Yes, but we have no way of powering it. We do now.
+
+151
+00:09:00,765 --> 00:09:03,765
+我们知道, 我们带来了一个
+二号型号的naquadah发电机
+We brought a mark II naquadah generator.
+
+152
+00:09:05,065 --> 00:09:07,665
+我们找到办法可以将
+能量输出提高6倍
+We found a way to increase
+the power output by 600%.
+
+153
+00:09:07,965 --> 00:09:09,165
+这不是永久的
+It won't last nearly as long,
+
+154
+00:09:09,165 --> 00:09:11,365
+不过应该可以在我们需要的时候
+为椅子提供足够长时间的能量
+but it should
+power the chair for as long as we need it to.
+
+155
+00:09:11,365 --> 00:09:12,765
+这听起来像是一个筹划已久的计划
+This is beginning to sound like a plan.
+
+156
+00:09:16,165 --> 00:09:17,865
+我们知道这是一个艰巨的任务
+We know this is a long shot,
+
+157
+00:09:17,865 --> 00:09:18,865
+不过正如我所说
+but like I said,
+
+158
+00:09:18,865 --> 00:09:21,865
+我们所需要做的就是坚持住
+直到Daedalus到达这里
+all we
+have to do is hold out until the Daedalus gets here,
+
+159
+00:09:21,865 --> 00:09:23,865
+然后我们就可以用ZPM
+来启动城市的防护罩
+then we can use the ZPM to power the city shield.
+
+160
+00:09:25,865 --> 00:09:26,865
+还有什么问题么?
+Any questions?
+
+161
+00:09:32,765 --> 00:09:33,765
+好吧
+All right, then.
+
+162
+00:09:33,765 --> 00:09:36,765
+现在Weir博士已经被告知了所有的计划
+Now that Dr. Weir has been informed of
+our plans, I would greatly appreciate it
+
+163
+00:09:36,765 --> 00:09:39,765
+如果你们执行我的命令
+联系阿尔法站点
+if you'd execute my order
+
+164
+00:09:39,765 --> 00:09:42,765
+我将会非常感谢
+ and contact the alpha site.
+
+165
+00:09:44,765 --> 00:09:45,465
+遵命, 长官
+Yes, sir.
+
+166
+00:09:49,765 --> 00:09:50,665
+还有, 少校!
+And Major.
+
+167
+00:09:52,765 --> 00:09:54,865
+这是我最后一次向你重复我的命令
+This is last time I give you an order twice.
+
+168
+00:09:57,265 --> 00:09:58,265
+明白
+Understood.
+
+169
+00:11:36,900 --> 00:11:37,865
+你一定是Teyla了
+You must be Teyla.
+
+170
+00:11:52,165 --> 00:11:53,465
+你一定是Everett上校
+And you are Colonel Everett.
+
+171
+00:11:53,865 --> 00:11:56,465
+Sheppard少校在他的报告中
+对你的评价很高
+Major Sheppard spoke very highly of you in his report.
+
+172
+00:11:57,165 --> 00:12:00,265
+当然, 最近的报告让我有一点关注
+Of course, a more recent report
+has me a little concerned.
+
+173
+00:12:00,865 --> 00:12:03,265
+你认为我可以再一次陷入
+幽灵的影响之中么?
+You think I may once again fall
+under the influence of the Wraith?
+
+174
+00:12:04,265 --> 00:12:09,265
+Sheppard少校向我保证, 这不会再发生了
+不过我要你不要参和进来
+Major Sheppard assures me that won't happen,
+but I do need you to stay out of the way.
+
+175
+00:12:09,865 --> 00:12:12,265
+你不是需要每个有能力的人
+来保护亚特兰蒂斯么?
+Do you not need every able
+body to help defend Atlantis?
+
+176
+00:12:13,736 --> 00:12:15,265
+我认为我们就可以应付
+I think we can handle it.
+
+177
+00:12:21,465 --> 00:12:22,765
+他根本就没有试
+He's not even trying.
+
+178
+00:12:22,765 --> 00:12:24,765
+我们已经试了几十次了
+We've tried this a dozen times.
+
+179
+00:12:24,765 --> 00:12:25,965
+当时不是用的这个能源
+But never with this power source.
+
+180
+00:12:25,965 --> 00:12:27,765
+我是认真的! Sheppard少校是你要找的人
+I'm serious. Major Sheppard's your man.
+
+181
+00:12:27,765 --> 00:12:30,765
+他当然是, 不过他在训练飞行员
+而现在正在部署太空地雷
+Of course he is, but he's training pilots
+and deploying space mines right now,
+
+182
+00:12:30,765 --> 00:12:32,465
+所以我们就要缠住你
+so we're stuck with you.
+
+183
+00:12:32,465 --> 00:12:34,465
+现在, 仔细听我说
+Now, listen to me very carefully,
+do exactly what I tell you to do,
+
+184
+00:12:34,465 --> 00:12:36,465
+完全按照我所说的去做
+希望没有人会受伤
+and hopefully no one will get hurt.
+
+185
+00:12:36,765 --> 00:12:38,865
+Rodney, 一定还有其他人
+Rodney, there must be someone else.
+
+186
+00:12:38,865 --> 00:12:40,865
+集中精力, 想着让椅子启动
+Concentrate on powering up the chair.
+
+187
+00:12:40,865 --> 00:12:42,865
+排除其他一切杂念
+Nothing else, nothing more, nothing but.
+
+188
+00:12:42,865 --> 00:12:43,865
+不要想着...
+Don't start thinking...
+
+189
+00:12:43,865 --> 00:12:46,865
+不要跟我说那些, 不要开始想
+或者我会开始想它!
+don't tell me what not to start thinking
+about, or I'll start thinking about it.
+
+190
+00:12:46,865 --> 00:12:47,865
+请把它启动
+Please power it up.
+
+191
+00:12:52,865 --> 00:12:57,065
+好, 好, 好
+Good. Good... good.
+
+192
+00:12:59,465 --> 00:13:00,265
+噢, 不
+And... oh, no.
+
+193
+00:13:01,065 --> 00:13:02,265
+什么? 我做错什么了?
+What? Did I do something wrong?
+
+194
+00:13:08,265 --> 00:13:10,465
+完了吧? 没什么可担心的
+So... see? Nothing to worry about.
+
+195
+00:13:12,565 --> 00:13:13,665
+让他从椅子上下来
+Get him out of the chair.
+
+196
+00:13:21,150 --> 00:13:21,865
+Elizabeth!
+Elizabeth.
+
+197
+00:13:21,865 --> 00:13:25,865
+抱歉, 我已经接上了那个发电机
+而且座椅平台也可以工作了
+ Excuse me. I've hooked up the generator, and
+ the chair platform is operational.
+
+198
+00:13:25,865 --> 00:13:26,965
+这是个好消息!
+That's good news.
+
+199
+00:13:27,265 --> 00:13:28,265
+并不完全是
+Not so much.
+
+200
+00:13:28,265 --> 00:13:29,265
+为什么, 有什么问题?
+Why? What's wrong?
+
+201
+00:13:29,465 --> 00:13:31,265
+椅子只有为数不多的飞弹了
+We're down to just a few dozen drones.
+
+202
+00:13:31,265 --> 00:13:32,865
+你直到现在才发现这个?
+And you're just finding this out now?
+
+203
+00:13:32,865 --> 00:13:35,865
+在椅子初始化之前, 没有办法知道这个
+There was no way of determining
+that until the chair was initialized,
+
+204
+00:13:35,865 --> 00:13:37,865
+所以只有在二号发电机接上后
+我才有可能发现
+and that was only possible
+once the mark II was tied in.
+
+205
+00:13:37,865 --> 00:13:40,665
+在南极洲的椅子控制了
+成千上万个这种该死的东西
+The chair in Antarctica controlled
+thousands of the damn things.
+
+206
+00:13:40,665 --> 00:13:42,165
+是的, 我知道!
+Yes. I know.
+
+207
+00:13:42,165 --> 00:13:45,565
+它们可能在古人第一次防御幽灵进攻
+的时候被用掉了
+They were probably used defending Atlantis the
+first time the Wraith attacked the Ancients.
+
+208
+00:13:45,565 --> 00:13:48,865
+即使只有几十个也能帮我们
+防守一会儿航空港
+Even a few dozen will help us
+keep them at bay for a while.
+
+209
+00:13:49,865 --> 00:13:50,865
+怎么了?
+What is it?
+
+210
+00:13:51,365 --> 00:13:53,365
+有入侵者
+我不知道他们来自哪里
+We have incoming. I don't know where they came from.
+
+211
+00:13:53,365 --> 00:13:54,365
+它们是突然出现的
+They just appeared all of a sudden.
+
+212
+00:13:54,865 --> 00:13:55,865
+怎么了?
+What's going on?
+
+213
+00:13:56,165 --> 00:13:58,865
+我们刚刚探测到有一波目标
+正在接近我们星球
+We've just detected a wave of
+objects approaching the planet.
+
+214
+00:13:58,865 --> 00:13:59,865
+有多少?
+How many?
+
+215
+00:13:59,865 --> 00:14:00,865
+几百个
+A hundred plus.
+
+216
+00:14:01,465 --> 00:14:03,465
+它们为什么没有被远程探测器检测到?
+How come they weren't detected
+by the long-range sensors?
+
+217
+00:14:04,865 --> 00:14:05,865
+因为它们是石头!
+Because they're rocks...
+
+218
+00:14:06,465 --> 00:14:07,465
+小行星!
+asteroids.
+
+219
+00:14:07,465 --> 00:14:10,465
+幽灵一定是从小行星带捕获它们
+The Wraith must have harvested them
+from this system's asteroid belt
+
+220
+00:14:10,465 --> 00:14:12,065
+然后在安全的距离之外
+将它们加速抛向我们
+and accelerated them towards
+us from a safe distance.
+
+221
+00:14:12,065 --> 00:14:14,365
+主机花了很长时间才判断出
+它们是一个威胁
+The mainframe's taken this long
+to determine they were a threat.
+
+222
+00:14:14,365 --> 00:14:15,665
+它们可以造成很大的破坏么?
+Can they do much damage?
+
+223
+00:14:15,665 --> 00:14:17,865
+大部分会在大气层中烧掉
+Oh, yeah, even if most of them
+burn off in the atmosphere,
+
+224
+00:14:17,865 --> 00:14:19,165
+不过这肯定不是它们的目的
+but that's not why they're doing it.
+
+225
+00:14:19,165 --> 00:14:21,165
+它们正冲着地雷而去
+They're headed toward the mines.
+
+226
+00:14:21,165 --> 00:14:23,165
+它们可以被关掉么?
+Well, can they be deactivated?
+
+227
+00:14:23,165 --> 00:14:25,165
+不行!
+No.
+
+228
+00:14:38,265 --> 00:14:39,265
+好了
+Well...
+
+229
+00:14:39,265 --> 00:14:41,065
+这下好了
+that's that.
+
+230
+00:14:41,265 --> 00:14:43,265
+你的地雷炸得可真响啊, 上校
+Your mines made one hell of a bang, Colonel.
+
+231
+00:14:43,265 --> 00:14:45,265
+我相信幽灵的耳朵还在嗡嗡响呢
+I'm sure the Wraiths' ears are ringing.
+
+232
+00:14:46,165 --> 00:14:47,765
+怎么看不见母船的状态了?
+What's the status of the hive ships?
+
+233
+00:14:47,965 --> 00:14:49,165
+没办法知道了
+There's no way of knowing.
+
+234
+00:14:49,165 --> 00:14:51,165
+地雷的爆炸一定是让探测器过载了
+The mine detonations must
+have overloaded the sensors.
+
+235
+00:14:51,165 --> 00:14:52,565
+后备探测器要多久才能工作?
+How long till they're back up?
+
+236
+00:14:53,565 --> 00:14:55,565
+那里有太多的残余辐射了
+There's a lot of residual radiation.
+
+237
+00:14:56,165 --> 00:14:57,465
+我们在几小时之内将什么都看不到
+It'll keep us blind for hours.
+
+238
+00:14:57,465 --> 00:15:01,465
+是的, 它们还在那里
+而且我们刚刚失去了我们的首要防线
+Yeah, well, they're still out there, and
+we just lost our primary line of defense.
+
+239
+00:15:15,165 --> 00:15:16,465
+你想见我, 上校?
+You wanted to see me, Colonel?
+
+240
+00:15:16,765 --> 00:15:20,165
+我被告知可以在这个房间里
+学到很多亚特兰蒂斯的历史
+I was told I could learn a lot about
+the history of Atlantis in this room.
+
+241
+00:15:20,165 --> 00:15:23,165
+我们并没有怎么用它
+因为它的能量需求太高了
+We haven't used it much because
+of the power requirements.
+
+242
+00:15:23,465 --> 00:15:25,465
+不过, 我还是想亲自看看
+Still, I would like to see for myself
+
+243
+00:15:25,465 --> 00:15:27,065
+古人第一次是怎么失败的
+how the Ancients lost the first time,
+
+244
+00:15:27,065 --> 00:15:29,465
+这样可以尽量避免它们所犯的的错误
+try to avoid their mistakes.
+
+245
+00:15:30,565 --> 00:15:32,465
+是的, 长官
+我们可以做到
+Yes, sir, we could do that.
+
+246
+00:15:42,065 --> 00:15:44,765
+这是飞马星系的状态
+This is the status of the Pegasus galaxy
+
+247
+00:15:44,765 --> 00:15:47,765
+在古人遭遇到幽灵之前
+before the Ancients encountered the Wraith.
+
+248
+00:15:48,965 --> 00:15:54,665
+蓝色的代表有古人居住
+或者受到古人保护的星球
+The blue stars represent systems either
+inhabited by or protected by the Ancients.
+
+249
+00:15:54,665 --> 00:15:57,665
+然后...
+Then...
+
+250
+00:15:58,165 --> 00:16:01,865
+这是他们战斗了大概一百年后的样子
+this is how it looked after
+they fought for almost a hundred years.
+
+251
+00:16:03,165 --> 00:16:04,865
+所有这些当中, 只剩下亚特兰蒂斯了
+Until Atlantis was all that was left?
+
+252
+00:16:05,365 --> 00:16:05,865
+是的
+Yes, sir.
+
+253
+00:16:06,365 --> 00:16:08,365
+这就是围攻开始的时候
+That's when the siege began.
+
+254
+00:16:11,365 --> 00:16:14,365
+在接下来的几年中
+亚特兰蒂斯还可以抵御入侵者
+For several more years, the Atlantians
+were able to hold off their attackers,
+
+255
+00:16:14,365 --> 00:16:17,365
+依靠城市的防护罩和更先进的武器系统
+relying on the city's shield and superior weaponry,
+
+256
+00:16:17,365 --> 00:16:19,865
+包括卫星武器系统
+including the weapons satellite system.
+
+257
+00:16:19,865 --> 00:16:23,865
+但是不管摧毁了多少艘幽灵的飞船
+总是会有更多的飞船不停地赶来
+No matter how many Wraith ships They could win almost every battle,
+
+258
+00:16:23,865 --> 00:16:26,865
+它们可以打赢每一场战斗
+but they saw no way to win the war.  they destroyed, more kept coming here.
+
+259
+00:16:26,865 --> 00:16:33,865
+但是他们发觉无法赢得这场战争 于是, 他们沉下城市然后离开了
+
+
+So... they submerged the city... and left.
+
+260
+00:16:37,865 --> 00:16:38,865
+就这些?
+That's it.
+
+261
+00:16:38,865 --> 00:16:40,865
+这是传说
+ That's the story.
+
+262
+00:16:40,965 --> 00:16:42,965
+不过图景非常清楚
+But the picture is pretty clear.
+
+263
+00:16:42,965 --> 00:16:45,465
+所以你认为这是一场打不赢的战争
+So you think this is a no-win situation?
+
+264
+00:16:45,465 --> 00:16:47,865
+不, 长官
+我的意思是
+No, sir. What I mean is,
+
+265
+00:16:49,365 --> 00:16:50,865
+即便是我们在这一次打败了它们
+它们还是会回来
+even if we beat
+them this time, they're going to come back.
+
+266
+00:16:55,965 --> 00:16:56,965
+少校
+Major...
+
+267
+00:16:58,565 --> 00:16:59,565
+我想我可以告诉你
+I think I should tell you
+
+268
+00:16:59,565 --> 00:17:02,565
+Marshal Sumner上校
+是我的一个非常要好的朋友
+that colonel
+Marshall Sumner was a very good friend of mine.
+
+269
+00:17:02,565 --> 00:17:03,965
+我们一起共事多年
+We served together a lot of years and
+
+270
+00:17:03,965 --> 00:17:05,965
+你知道...
+you know...
+
+271
+00:17:05,965 --> 00:17:07,965
+我不能只为自己活着
+I cannot, for the life of me,
+
+272
+00:17:07,965 --> 00:17:10,965
+很想知道为什么你已经走了那么远
+却仍然没有救他
+figure how it is that you could go
+as far as you did and not save him.
+
+273
+00:17:10,965 --> 00:17:12,965
+你怎么能够离得那么近却...
+- How you could get that close...
+
+274
+00:17:12,965 --> 00:17:14,465
+在我找到Sumner上校的时候...
+- By the time I reached colonel Sumner...
+
+275
+00:17:14,465 --> 00:17:17,465
+更糟! 你向他开枪杀了他
+worse, you admit to firing
+the shot that killed him.
+
+276
+00:17:17,465 --> 00:17:20,465
+因为我相信这是他要我做的
+Because I believe that's
+what he wanted me to do.
+
+277
+00:17:22,965 --> 00:17:24,165
+你很了解他, 是么?
+You knew him that well, did you?
+
+278
+00:17:25,965 --> 00:17:27,165
+你当时不在那里, 长官
+You weren't there, sir.
+
+279
+00:17:32,765 --> 00:17:34,765
+我喜欢是为他好
+I wish, for his sake, I was.
+
+280
+00:17:40,865 --> 00:17:43,465
+那晚的情景总在我脑中挥之不去
+There isn't a night that doesn't go by
+where
+
+281
+00:17:43,865 --> 00:17:46,465
+当时的情景总在我眼前重演
+that moment doesn't play in my head...
+
+282
+00:17:46,465 --> 00:17:49,365
+每当那个时候...
+and every time it does...
+
+283
+00:17:49,365 --> 00:17:51,865
+控制室
+Control room...
+
+284
+00:17:51,865 --> 00:17:53,865
+我是Everett上校, 请回话
+This is colonel Everett. Report.
+
+285
+00:17:53,865 --> 00:17:55,865
+长官, 我们刚刚探测到
+一波梭镖飞船入侵
+Sir, we've just detected a wave of darts inbound.
+
+286
+00:17:57,365 --> 00:17:58,865
+我就来
+到椅子那儿去
+I'm on my way. Head to the chair.
+
+287
+00:17:59,465 --> 00:18:01,765
+这事我们以后再说
+We'll finish this later.
+
+288
+00:18:05,065 --> 00:18:06,065
+发生什么了?
+What's happening?
+
+289
+00:18:06,065 --> 00:18:08,065
+很多个信号, 长官
+正在飞快地接近中
+Multiple signals, sir, closing fast.
+
+290
+00:18:08,065 --> 00:18:10,865
+McKay说得没错
+核爆炸损坏了探测器
+Dr. McKay must've been right about
+the nukes damaging the sensors.
+
+291
+00:18:10,865 --> 00:18:12,865
+直到它们飞到我们头顶上时
+我们才发现
+We couldn't see them until
+they were right on top of us.
+
+292
+00:18:12,865 --> 00:18:13,865
+射击手就位了么?
+Are my gunners in position?
+
+293
+00:18:13,865 --> 00:18:14,865
+是的, 长官
+Yes, sir.
+
+294
+00:18:14,865 --> 00:18:16,265
+损害控制分队呢?
+About our damage control parties?
+
+295
+00:18:16,265 --> 00:18:17,265
+他们都已经就位了
+They're all in position.
+
+296
+00:18:17,265 --> 00:18:20,265
+很好, 关闭城市的灯光
+All right. Darken the city.
+
+297
+00:18:32,865 --> 00:18:34,465
+记住! 短, 稳, 快
+Remember, short steady bursts.
+
+298
+00:18:43,365 --> 00:18:44,765
+它们来了
+Here they come!
+
+299
+00:19:32,465 --> 00:19:32,965
+McKay, 把它开动起来
+McKay, fire it up!
+
+300
+00:19:33,465 --> 00:19:34,465
+要等一分钟
+It'll take a minute.
+
+301
+00:19:35,465 --> 00:19:36,365
+我们一分钟也不能耽误了!
+We don't have a minute.
+
+302
+00:19:36,365 --> 00:19:38,065
+这个发电机只有在工作于一个
+近似过载的边缘状态时
+This generator can only power the chair
+
+303
+00:19:38,065 --> 00:19:40,465
+才能为椅子提供能量
+because it
+operates in a state of barely-controlled overload...
+
+304
+00:19:41,265 --> 00:19:42,465
+快点让这个该死的东西工作起来!
+Just get the damn thing working.
+
+305
+00:19:42,465 --> 00:19:45,465
+这正是我在努力去做的
+That's what I'm trying to do.
+
+306
+00:19:49,965 --> 00:19:50,665
+上校, 我是Radnor!
+Colonel, it's Radner.
+
+307
+00:19:52,065 --> 00:19:53,065
+说吧
+Go ahead.
+
+308
+00:19:53,065 --> 00:19:56,065
+看起来它们当中有一些
+开始进行神风敢死队似的攻击
+<i>It looks like some of them are</i>
+<i>starting to make kamikaze runs.</i>
+
+309
+00:20:00,465 --> 00:20:01,465
+发生什么了?
+What happened?
+
+310
+00:20:02,765 --> 00:20:04,465
+我们失去了主要系统
+We lost primary systems.
+
+311
+00:20:34,765 --> 00:20:35,665
+有一个射击点停了
+One of our gun positions is dark.
+
+312
+00:20:37,265 --> 00:20:38,665
+Farrell, 你怎么不射击了?
+Ferrell, why aren't you firing?
+
+313
+00:20:42,465 --> 00:20:43,465
+Farrell, 回答!
+Ferrell, report.
+
+314
+00:20:44,665 --> 00:20:48,865
+上校, 我是Ford中尉
+我离Farrell的位置比较近, 我就过去!
+Colonel, this is lieutenant Ford. I'm near Ferrell's position. I'm on it!
+
+315
+00:20:53,265 --> 00:20:54,265
+好了你有能量了, 干吧!
+You've got power. Go!
+
+316
+00:22:33,265 --> 00:22:35,265
+城市的探测器没有能量供应了
+Power is out in sections of the city.
+
+317
+00:22:35,265 --> 00:22:38,265
+远程探测器和内部探测器都不工作了
+不过我们正在着手解决
+The long-range scanners and the internal
+sensors are down, but we're working on them.
+
+318
+00:22:38,265 --> 00:22:40,065
+我想知道那些母船的状态
+I want to know the status of those hive ships A.S.A.P.
+
+319
+00:22:40,065 --> 00:22:42,365
+它们正在靠近, 这就是它们的状态!
+They're coming. That's their status.
+
+320
+00:22:42,365 --> 00:22:44,765
+明天, 后天, 大后天!
+Tomorrow, the day after, the day after that...
+
+321
+00:22:44,765 --> 00:22:45,765
+最终, 它们会到这里的
+ eventually, they'll get here.
+
+322
+00:22:45,765 --> 00:22:47,765
+我们是不是在这里欢迎它们
+就是另外一回事了
+Whether we're here to greet
+them or not is another matter.
+
+323
+00:22:47,765 --> 00:22:48,765
+Rodney
+Rodney.
+
+324
+00:22:48,765 --> 00:22:51,465
+听者, 那个椅子已经用完弹药了
+你准备怎样应付下一波?
+Look, the chair is out of drones. How do you expect to handle the next wave?
+
+325
+00:22:51,465 --> 00:22:53,465
+我接受大家的意见
+I'm open to suggestions.
+
+326
+00:22:53,465 --> 00:22:54,465
+真的么?
+Really?
+
+327
+00:22:57,765 --> 00:22:58,765
+我们去攻击母船
+We target the hive ships.
+
+328
+00:22:59,165 --> 00:23:00,165
+用什么?
+With what?
+
+329
+00:23:00,365 --> 00:23:02,965
+我们驾驶处于隐形状态的小飞船
+直取它们的咽喉
+We fly the puddle jumper in stealth
+mode right down their throats.
+
+330
+00:23:03,018 --> 00:23:04,518
+你是准备完成一项自杀任务?
+Are you volunteering for a suicide mission?
+
+331
+00:23:04,618 --> 00:23:06,018
+这不会是一次自杀任务
+It won't be a suicide mission if McKay and Zelenka
+
+332
+00:23:06,018 --> 00:23:09,018
+如果McKay和Zelenka找到了
+可以远程控制小飞船的办法的话
+can figure out a way to remote-control the jumpers.
+
+333
+00:23:11,618 --> 00:23:12,618
+你能做到么?
+Can you do it?
+
+334
+00:23:12,618 --> 00:23:13,618
+- 据我所知, 这是有可能的
+- 是真的么?
+I knew this was going to happen. Is that a fact?
+
+335
+00:23:13,618 --> 00:23:14,618
+是的, 是真的!
+Yes, it's a fact.
+
+336
+00:23:14,618 --> 00:23:17,618
+你带着你的枪和士兵出现在这里
+Look, you show up here
+with your guns and your brush cuts,
+
+337
+00:23:17,618 --> 00:23:20,818
+不过要真正拯救这个城市的时候
+你却转向科学家求助!
+but when it comes to actually saving the city,
+
+338
+00:23:20,818 --> 00:23:22,818
+而且每次你的要求都是不可能的
+you turn to the scientists, and
+every time, what you ask is impossible.
+
+339
+00:23:22,818 --> 00:23:24,918
+你上次睡觉时在什么时候, 博士?
+When was the last time you slept, Doctor?
+
+340
+00:23:24,918 --> 00:23:26,918
+住嘴, 我有主意了
+Shut up. I have an idea.
+
+341
+00:23:26,918 --> 00:23:28,518
+- 那个椅子
+- 当然, 那个椅子
+The chair. Of course, the chair.
+
+342
+00:23:28,518 --> 00:23:30,318
+问题是, 怎么把它接入飞船系统
+The problem is tying it
+to the jumper's systems.
+
+343
+00:23:30,318 --> 00:23:31,918
+同时不让发电机过载
+Without overloading the generators.
+
+344
+00:23:31,918 --> 00:23:34,918
+可能可以使用小飞船自己的飞弹
+作为一种推进的方法
+Possibly using the drones on the
+jumpers themselves as a means of propulsion...
+
+345
+00:23:34,918 --> 00:23:37,418
+同时将惯性阻尼器增加到最大
+while increasing the inertial dampening to maximum.
+
+346
+00:23:37,418 --> 00:23:38,718
+操作起来可能比较困难
+不过确实是可能的
+It won't be very maneuverable,
+but possibly, possibly...
+
+347
+00:23:38,718 --> 00:23:41,218
+- 有可能
+- 那就是说可以了?
+Is that a "yes?"
+
+348
+00:23:41,218 --> 00:23:42,618
+不, 只是有可能
+No, it's a "possibly."
+
+349
+00:23:42,618 --> 00:23:45,318
+我会认为是!
+一艘飞船可以造成多大的损坏?
+I'll take it. How much damage
+can one puddle jumper do?
+
+350
+00:23:45,318 --> 00:23:50,718
+我也有个主意
+我想我知道我们可以去哪里再弄一个核弹
+I've got an idea about that, too. I think I know where
+ we can get another nuke.
+
+351
+00:23:52,718 --> 00:23:55,518
+少校, 我不知道Genii
+对我们处境会有多大的同情心
+Major, I don't know how sympathetic
+the Genii will be to our situation.
+
+352
+00:23:55,518 --> 00:23:57,218
+Genii?
+The Genii?
+
+353
+00:23:57,218 --> 00:23:59,618
+他们不是想测试他们的武器么?
+现在机会来了
+They want to test their weapon. Now's your chance.
+
+354
+00:23:59,618 --> 00:24:01,618
+让我过去!
+Let me pass!
+
+355
+00:24:03,318 --> 00:24:04,618
+我要跟Weir博士说话!
+I need to talk to Dr. Weir!
+
+356
+00:24:05,618 --> 00:24:06,618
+Teyla?
+Teyla?
+
+357
+00:24:08,318 --> 00:24:09,318
+怎么了?
+What's the matter?
+
+358
+00:24:09,718 --> 00:24:12,318
+幽灵
+他们已经进入亚特兰蒂斯了!
+The Wraith... they are in Atlantis.
+
+359
+00:24:22,818 --> 00:24:23,818
+幽灵飞行员进行自杀式飞行
+The Wraith piloting the kamikaze ships
+beam into the city right before they hit.
+
+360
+00:24:23,818 --> 00:24:26,518
+在撞向城市之前, 通过光柱潜入进来
+So they're trying to take the city intact.
+
+361
+00:24:26,518 --> 00:24:29,118
+这就是说它们试图完整无缺的夺下城市
+它们到底有多少?
+How many are we talking about?
+
+362
+00:24:29,118 --> 00:24:30,318
+有多少梭镖飞船坠毁了?
+ How many darts crashed?
+
+363
+00:24:30,318 --> 00:24:33,318
+大概20到30之间
+内部传感器仍然不能工作
+Between 20 and 30,
+and internal sensors are still down.
+
+364
+00:24:33,318 --> 00:24:35,918
+好吧, 我们有这个
+Well, we have this.
+
+365
+00:24:36,718 --> 00:24:37,918
+这个不能区分任何幽灵
+It can't differentiate between Wraith and human,
+
+366
+00:24:37,918 --> 00:24:40,918
+不过如果我们将基地中所有的人
+限制在一个特定的区域
+but if we confine all base
+personnel to the designated areas,
+
+367
+00:24:40,918 --> 00:24:44,618
+那么这里显示的区域之外的小点
+就很有可能是目标
+the blips that show up out
+of bounds will be the likely targets.
+
+368
+00:24:44,618 --> 00:24:45,618
+让我看看
+Let me see that.
+
+369
+00:24:45,618 --> 00:24:47,718
+对你没有任何用, 你需要特定的基因
+It won't do you any good. You need the gene.
+
+370
+00:24:50,418 --> 00:24:51,918
+我也接受了基因治疗
+I got the gene therapy, too.
+
+371
+00:24:54,118 --> 00:24:55,118
+我们希望能提供帮助
+We wish to help.
+
+372
+00:24:58,218 --> 00:24:59,218
+这是一个很大的城市, 上校
+This is quite a large city,
+
+373
+00:25:00,218 --> 00:25:02,218
+你需要尽可能多的人开展搜索工作
+you need
+as many people searching as possible.
+
+374
+00:25:03,318 --> 00:25:06,618
+她是能第一个感觉到幽灵存在的人
+She is the one who sensed the
+Wraith presence in the first place.
+
+375
+00:25:06,618 --> 00:25:08,618
+上尉?
+Captain.
+
+376
+00:25:11,618 --> 00:25:12,818
+给这些人一些武器
+Get some weapons for these people.
+
+377
+00:25:13,218 --> 00:25:15,818
+是的, 长官
+Yes, sir.
+
+378
+00:25:25,318 --> 00:25:27,418
+在这个基地中, 还有其他人
+拥有古人的基因
+There's other people on this base that possess
+the Ancient gene...
+
+379
+00:25:27,418 --> 00:25:31,418
+例如, Kusanagi博士
+我相信她一定愿意帮助的
+Dr. Kusanagi, for example. I'm sure she'd relish the opportunity to help.
+
+380
+00:25:31,418 --> 00:25:34,918
+是的! 我现在又累又饿, 坐下去!
+Carson, 它已经没有飞弹了
+I am exhausted and starving, so sit down. Carson, it's out of drones.
+
+381
+00:25:34,918 --> 00:25:37,218
+你做不了任何破坏,  即便是你想的话
+You couldn't do any damage if you wanted to.
+
+382
+00:25:38,418 --> 00:25:39,418
+谢谢
+Thank you.
+
+383
+00:25:40,418 --> 00:25:43,418
+好了, 我们开始做事
+下到航空港去, 到了之后用无线电通知我!
+Okay, we're in business. Radio me when you get there.
+Head down to the jumper bay.
+
+384
+00:27:18,159 --> 00:27:19,648
+你还好吧?
+You okay?
+
+385
+00:27:21,074 --> 00:27:23,431
+下一次, 你去当诱饵怎么样?
+How about next time you can be the bait?
+
+386
+00:27:23,667 --> 00:27:28,667
+下一次, 也许吧
+好了, 这边!
+Yeah, maybe. Next time. Okay, this way.
+
+387
+00:27:33,812 --> 00:27:35,981
+我们刚刚收到Genii的回复
+We just received the response from the Genii.
+
+388
+00:27:35,981 --> 00:27:37,336
+我们听听吧
+Let's hear it.
+
+389
+00:27:40,464 --> 00:27:45,464
+我是Genii人Prenom
+我们很欢迎我们两个民族之间能够开展对话
+This is Prenum of the Genii. We welcome the opportunity to
+ open a dialogue between our two people.
+
+390
+00:27:46,739 --> 00:27:50,401
+你们排个代表过来
+一个人, 不许带武器
+Send your representative... one person, unarmed.
+
+391
+00:27:50,401 --> 00:27:52,896
+- 就是这些?
+- 是的, 女士
+Is that all? Yes, ma'am.
+
+392
+00:27:52,896 --> 00:27:53,868
+Everett上校, 我是Weir
+Colonel Everett, this is Weir.
+
+393
+00:27:53,868 --> 00:27:57,018
+正如我们所希望的
+Genii要求我们派去一个代表
+As we'd hoped, the Genii have
+asked us to send a representative.
+
+394
+00:27:57,518 --> 00:27:59,511
+我准备过去
+I'm set to go.
+
+395
+00:27:59,511 --> 00:28:01,769
+好, 我找不出比你更有资格的人了
+Good. I can't imagine anyone more qualified.
+
+396
+00:28:01,769 --> 00:28:04,242
+如果你搞定的话, 我会请你喝一杯的
+Pull this off, and I'll buy you a drink.
+
+397
+00:28:04,548 --> 00:28:07,348
+就这样
+拨通星际之门
+You've got a deal. Dial the gate.
+
+398
+00:28:44,176 --> 00:28:48,284
+Weir博士, 我是Prenom
+Dr. Weir... I am Prenum of the Genii.
+
+399
+00:28:49,055 --> 00:28:54,055
+我非常惊奇, 不, 是震惊
+你竟然有胆量到这里来
+I'm rather surprised... no, astonished that
+you would have the audacity to come here.
+
+400
+00:28:55,282 --> 00:28:57,848
+你已经收到我们的消息了
+幽灵就在我们门口了
+You heard our message. The Wraith are at our doorstep.
+
+401
+00:28:58,411 --> 00:29:02,691
+可以想象, 对你们濒临灭亡的处境
+我们感到十分的欣喜
+And we are understandably delighted
+at the prospect of your demise.
+
+402
+00:29:03,582 --> 00:29:07,904
+可能是这样吧
+不过, 我们有你们想要的东西
+That may be so... but, still, we have something that you want.
+
+403
+00:29:09,553 --> 00:29:10,771
+C4
+C-4.
+
+404
+00:29:10,771 --> 00:29:17,973
+不仅仅是那个, 我们有机会替你们
+测试你们的武器, 而不用担心会伤到你们
+More than that. We have an opportunity for you to test your weapon
+
+405
+00:29:17,973 --> 00:29:19,680
+而且还有可能打败幽灵
+at no risk to yourselves,
+and a chance to strike at the Wraith.
+
+406
+00:29:22,129 --> 00:29:23,721
+你无法想象它们已经离得多进了
+You have no idea how close they are.
+
+407
+00:29:24,056 --> 00:29:29,056
+幽灵曾经来过, 博士
+The Wraith have come, Doctor.
+
+408
+00:29:32,275 --> 00:29:33,808
+六天以前
+Six days ago.
+
+409
+00:29:35,567 --> 00:29:40,567
+幸运的是, 我们提前探测到了它们
+并且及时关闭了我们的反应堆
+Fortunately, we detected their approach and we were able to shut down our reactors in time.
+
+410
+00:29:41,234 --> 00:29:43,218
+在地面上, 我们失去了好几百人
+Hundreds of lives were lost on the surface,
+
+411
+00:29:44,004 --> 00:29:47,995
+不过还是有数千人获救了
+因为我们在地下的设施没有被发现
+but thousands more were saved because
+our underground complex went undetected.
+
+412
+00:29:48,221 --> 00:29:52,983
+因此你应该知道, 对Genii的威胁
+已经到来了而且已经过去了
+So, you see, the threat to the Genii has come and gone.
+
+413
+00:29:55,499 --> 00:30:00,321
+只要幽灵没有注意
+它们不再会对这个星球感兴趣了
+So far as the Wraith are concerned, this planet is no longer of interest to them.
+
+414
+00:30:02,196 --> 00:30:05,101
+我们有McKay博士提供给我们的设计图
+We have the design that Dr. McKay provided for us,
+
+415
+00:30:05,457 --> 00:30:09,756
+现在我们的原型核弹已经接近完成了
+and our prototype bombs are nearly complete.
+
+416
+00:30:10,069 --> 00:30:12,028
+那你为什么要我到这里来?
+So why would you ask me to come here?
+
+417
+00:30:13,306 --> 00:30:20,050
+这样我们就可以用你的命
+来交换C4
+So that we may trade the C-4... for your life.
+
+418
+00:31:01,001 --> 00:31:01,487
+该死!
+Damn it.
+
+419
+00:31:12,743 --> 00:31:16,712
+我是Everett
+幽灵刚刚破坏了我们的一个发电机
+This is Everett. The Wraith just took out one of our generators.
+
+420
+00:31:16,894 --> 00:31:19,952
+最近的发电机站是哪个?
+三号!
+What's the nearest generator station? Number three,
+
+421
+00:31:19,952 --> 00:31:21,147
+Teyla的队伍更近!
+but Teyla's group is closer.
+
+422
+00:31:21,245 --> 00:31:21,781
+Teyla?
+<i>Teyla?</i>
+
+423
+00:31:21,965 --> 00:31:23,436
+我们已经在路上了, 少校!
+We are already on our way, Major.
+
+424
+00:31:24,589 --> 00:31:27,507
+我已经给你们C4了
+I have already offered you the C-4.
+
+425
+00:31:27,507 --> 00:31:28,860
+你现在想要我们的武器原型进行交换
+And you want our prototype weapons in exchange.
+
+426
+00:31:30,563 --> 00:31:32,566
+这种交易对Genii来说不公平
+That's not a bargain for the Genii.
+
+427
+00:31:33,205 --> 00:31:35,650
+如果你现在有C4的话, 你会怎么做?
+What would you do if you had the C-4 right now?
+
+428
+00:31:35,890 --> 00:31:37,374
+把它结合到你们的武器中去?
+Incorporate it into your weapons?
+
+429
+00:31:37,374 --> 00:31:38,668
+- 是的
+- 那么你需要测试他们!
+Yes. And you would test them.
+
+430
+00:31:38,800 --> 00:31:39,851
+当然
+Of course.
+
+431
+00:31:41,548 --> 00:31:46,544
+我正提供给你机会
+可以在幽灵的母船上测试你的武器
+I am offering you the chance to test
+your weapon design on a Wraith hive ship,
+
+432
+00:31:46,694 --> 00:31:48,112
+而且绝不会伤害到你的人民
+at no risk to your own people,
+
+433
+00:31:48,306 --> 00:31:50,586
+而且你们仍然还可以制造更多
+and still have enough to build dozens more.
+
+434
+00:31:51,872 --> 00:31:54,129
+现在, 你要么是太自傲, 要么是太愚蠢
+以至于不能看到...
+Now, if you are too proud or too stupid to see...
+
+435
+00:31:54,129 --> 00:31:54,769
+说话小心点, 博士!
+Be careful, Doctor.
+
+436
+00:31:54,769 --> 00:31:56,269
+我现在顾不上了!
+I am way past careful.
+
+437
+00:31:57,098 --> 00:31:58,328
+现在你知道我们的协议
+Now, you know what the deal is,
+
+438
+00:31:58,561 --> 00:32:01,486
+是接受还是拒绝, 由你吧
+and it's a damn good one, so take it or leave it.
+
+439
+00:32:14,413 --> 00:32:15,581
+好了, 就是这了!
+Yeah. That's it.
+
+440
+00:32:16,321 --> 00:32:18,487
+OK, 测试一下
+Okay... let's give it a test.
+
+441
+00:32:19,141 --> 00:32:21,552
+准备
+<i>Standing by.</i>
+
+442
+00:32:24,534 --> 00:32:28,882
+Carson? 我需要你清除所有杂念
+只想着小飞船
+<i>Carson,</i> I need you to clear your mind and think about the puddle jumper.
+
+443
+00:32:28,882 --> 00:32:31,170
+想着让它启动起来
+Think about bringing it online.
+
+444
+00:32:32,724 --> 00:32:34,402
+快点, 快点, 快点
+Come on, come on, come on...
+
+445
+00:32:34,916 --> 00:32:36,708
+现在就启动吧
+any time now.
+
+446
+00:32:36,708 --> 00:32:38,511
+Carson
+Carson...
+
+447
+00:32:39,446 --> 00:32:43,071
+我知道你可以做到
+启动小飞船
+look, I know you can do this. Just activate the puddle jumper.
+
+448
+00:32:50,504 --> 00:32:54,996
+好, 好, 好, 好
+Rodney, Rodney, 起作用了
+Yes! <i>Yes! Yes! Yes!</i> <i>Rodney, Rodney,</i> it works!
+
+449
+00:33:07,152 --> 00:33:08,486
+给我个无线电
+Give me your radio.
+
+450
+00:33:12,649 --> 00:33:13,516
+我是Weir
+<i>This is Weir.</i>
+
+451
+00:33:14,795 --> 00:33:16,049
+我已经拿到原型核弹了
+I've got the prototypes.
+
+452
+00:33:16,661 --> 00:33:18,228
+原型核弹, 好
+Prototypes. Right.
+
+453
+00:33:50,598 --> 00:33:52,904
+这应该是最后几个了
+That should be the last of them.
+
+454
+00:33:57,899 --> 00:33:58,970
+上校?
+Colonel.
+
+455
+00:33:58,970 --> 00:34:03,741
+做得好, 博士
+我必须承认, 我深受感动
+Well done, Doctor. I...I have to admit it, I am impressed.
+
+456
+00:34:04,550 --> 00:34:06,236
+好吧, 也许对我来说, 仍然还有希望
+Well, maybe there's hope for me yet.
+
+457
+00:34:07,531 --> 00:34:09,084
+我坐在你的位子上了
+I'm in your chair.
+
+458
+00:34:09,739 --> 00:34:10,390
+我认为那是你的位子
+I thought it was your chair.
+
+459
+00:34:10,428 --> 00:34:11,930
+好吧, 是的, 我不是经常要坐
+Yeah, well, I... I don't sit much.
+
+460
+00:34:11,957 --> 00:34:15,680
+我要去检查...
+I was just going over the...
+
+461
+00:34:17,061 --> 00:34:17,917
+我们有个麻烦
+We have a problem.
+
+462
+00:34:18,613 --> 00:34:20,048
+我们有很多麻烦
+We have a lot of problems.
+
+463
+00:34:20,266 --> 00:34:23,027
+我刚刚检查完Genii的核装置
+它们没有完成
+I just finished examining the Genii nuclear devices. They're incomplete.
+
+464
+00:34:23,027 --> 00:34:24,368
+我可以完成, 不过这需要时间
+I could finish it, but it's going to take time.
+
+465
+00:34:24,368 --> 00:34:25,176
+要多长时间?
+How much time?
+
+466
+00:34:25,176 --> 00:34:26,018
+差不多一天
+About a day.
+
+467
+00:34:26,667 --> 00:34:28,246
+我们没有一天的时间了, 博士
+We don't have a day, Doctor.
+
+468
+00:34:28,536 --> 00:34:30,850
+正如我所说的, 我们有个麻烦
+Well, like I said, we have a problem.
+
+469
+00:34:46,466 --> 00:34:47,729
+你要见我, Rodney?
+You wanted to see me, Rodney?
+
+470
+00:34:48,258 --> 00:34:49,265
+是的, 是的
+我需要有东西让我保持清醒
+Yes. I need something to keep me awake.
+
+471
+00:34:49,265 --> 00:34:49,724
+是的, 我也是
+Yeah, me too.
+
+472
+00:34:49,724 --> 00:34:50,781
+我已经为你做过事了
+I've already given you something.
+
+473
+00:34:50,781 --> 00:34:54,083
+好吧, 我们在这里是在造一个核弹
+保持清醒是先决条件
+We're building nuclear bombs. Staying awake is sort of a prerequisite. Snappy.
+
+474
+00:34:54,083 --> 00:34:58,266
+爽快. 好吧, 我会再给你打一针兴奋剂
+坚持住!
+All right, I'll get you another stimulant. Carry on.
+
+475
+00:34:58,398 --> 00:34:59,524
+谢谢
+Thank you.
+
+476
+00:35:08,543 --> 00:35:10,135
+对你的一些人民, 我感到非常抱歉
+I'm sorry you lost some of your people.
+
+477
+00:35:11,162 --> 00:35:12,585
+死了很多人, 上校
+Many have died, Colonel.
+
+478
+00:35:12,585 --> 00:35:15,396
+我是四号飞船
+我们已经看到幽灵的母船了
+<i>This is jumper four.</i> <i>We have a visual on the hive ships.</i>
+
+479
+00:35:15,568 --> 00:35:16,768
+我是Everett
+This is Everett.
+
+480
+00:35:17,043 --> 00:35:20,464
+四号飞船刚刚报告
+幽灵的母船已经逼近这个行星了
+Jumper four has just informed us
+the Wraith hive ships are approaching the planet.
+
+481
+00:35:21,641 --> 00:35:24,436
+防御队伍, 各就各位
+Defense team, to your positions.
+
+482
+00:35:25,803 --> 00:35:26,780
+博士?
+Doctor?
+
+483
+00:35:30,268 --> 00:35:31,123
+谢谢
+Thank you.
+
+484
+00:35:34,118 --> 00:35:35,291
+我是Weir
+This is Weir.
+
+485
+00:35:37,144 --> 00:35:38,726
+我知道你们现在都已经很疲惫了
+Now, I know how tired you all are,
+
+486
+00:35:40,159 --> 00:35:42,379
+在过去几天里
+让你们去做的事太多了
+and how much we have asked of you these past few days.
+
+487
+00:35:43,862 --> 00:35:45,600
+值得乐观的是
+Daedalus号马上就会到了
+<i>Hopefully, the Daedalus will arrive soon,</i>
+
+488
+00:35:45,877 --> 00:35:48,223
+不过在那之前
+我们的命运仍然掌握在我们自己手中
+<i>but until that happens,</i>
+<i>our fate is in our own hands.</i>
+
+489
+00:35:49,997 --> 00:35:52,697
+如果在这场战斗中
+我们的任务失败了
+<i>If, during the course of</i>
+<i>this battle, that mission fails,</i>
+
+490
+00:35:53,540 --> 00:35:55,326
+我会下达撤退的命令
+I will give the order to evacuate.
+
+491
+00:35:56,916 --> 00:35:59,390
+现在我们希望那不会发生
+Now, we all hope it won't come to that,
+
+492
+00:36:00,109 --> 00:36:02,956
+但如果确实发生了, 不要犹豫
+but if it does... don't hesitate.
+
+493
+00:36:06,102 --> 00:36:07,962
+就是这些
+That is all.
+
+494
+00:36:12,649 --> 00:36:13,849
+没时间了
+Time's up.
+
+495
+00:36:13,849 --> 00:36:15,845
+好, 正好, 我们也完成了
+Oh, what a coincidence. We're done.
+
+496
+00:36:22,647 --> 00:36:25,044
+那么, 去椅子所在的房间吧
+Oh... so... chair room?
+
+497
+00:36:26,762 --> 00:36:27,797
+好吧
+Right.
+
+498
+00:36:30,411 --> 00:36:33,887
+上校, 我们准备去航空港
+给小飞船装上核弹
+Colonel. We're heading into the bay to load up the jumpers.
+
+499
+00:36:34,243 --> 00:36:35,596
+知道了
+<i>Understood.</i>
+
+500
+00:36:43,221 --> 00:36:46,585
+记住, 我欠你一杯
+Remember... I owe you that drink.
+
+501
+00:37:00,016 --> 00:37:02,879
+慢点, 慢点, 慢点
+就在这里
+Slow. Slow, slow, slow. Right here.
+
+502
+00:37:14,128 --> 00:37:15,620
+Sheppard, 你准备好了么?
+Sheppard, are you ready?
+
+503
+00:37:23,554 --> 00:37:24,439
+Rodney?
+Rodney?
+
+504
+00:37:24,830 --> 00:37:26,923
+发电机能量输出不太正常
+The generator's not powering up like it should be.
+
+505
+00:38:02,661 --> 00:38:06,311
+它们又发起了一波进攻
+少校, 我们需要立刻开始!
+They're sending in another wave! Major, we need to go!
+
+506
+00:38:39,888 --> 00:38:40,946
+McKay!
+McKay!
+
+507
+00:38:41,082 --> 00:38:42,865
+有地方不对劲!
+能量级别正在下降!
+There's something wrong.
+Power levels are dropping!
+
+508
+00:38:48,634 --> 00:38:50,918
+Rodney, 还是没有动静!
+Rodney, nothing is happening.
+
+509
+00:38:57,795 --> 00:38:59,754
+为什么没有小飞船升空?
+Why are there no jumpers in the air?
+
+510
+00:38:59,754 --> 00:39:02,864
+我们一定是用光了二号发电机的能量
+它已经死了!
+<i>We must have exhausted the mark II's energy output.</i> It's dead!
+
+511
+00:39:03,026 --> 00:39:03,985
+太久了, Rodney
+So long, Rodney.
+
+512
+00:39:03,985 --> 00:39:07,485
+应该有办法来...少校!
+There's got to be a way to... Major!
+
+513
+00:39:19,609 --> 00:39:21,596
+到上面去, 它们已经在基地中了
+Heads up, people! They're in the base.
+
+514
+00:39:25,217 --> 00:39:26,965
+上校, 我们有麻烦了
+Colonel, we have a problem.
+
+515
+00:39:28,069 --> 00:39:28,718
+是什么?
+What is it?
+
+516
+00:39:29,305 --> 00:39:31,328
+我们可能需要下令撤退了
+<i>We may need to give the order to evacuate.</i>
+
+517
+00:39:31,795 --> 00:39:32,832
+Elizabeth, 等等!
+Elizabeth, wait!
+
+518
+00:39:35,552 --> 00:39:36,276
+你不能!
+You can't.
+
+519
+00:39:37,169 --> 00:39:39,695
+我必须这样去做, 你是知道的
+I have to, and you know it.
+
+520
+00:39:39,941 --> 00:39:40,440
+John?
+John...
+
+521
+00:39:46,342 --> 00:39:46,980
+去吧
+Go.
+
+522
+00:39:59,546 --> 00:40:01,431
+该死的小飞船到底是怎么了
+What's the status on that damn jumper?
+
+523
+00:40:03,208 --> 00:40:04,625
+已经在路上了
+It's on its way.
+
+524
+00:40:28,757 --> 00:40:31,218
+Weir博士
+Sheppard少校已经驾驶着小飞船出去了
+<i>Dr. Weir, major Sheppard is taking the jumper out.</i>
+
+525
+00:40:31,218 --> 00:40:35,164
+我知道了, Zelenka博士
+开始准备二号飞船
+I'm aware of that, Dr. Zelenka. Start prepping jumper two.
+
+526
+00:40:38,820 --> 00:40:40,969
+Teyla, 我听到了枪声
+你那边情况怎么样?
+Teyla, I'm hearing gunfire. What's your status?
+
+527
+00:40:42,545 --> 00:40:44,219
+Teyla, 你能听到么?
+Teyla, do you hear me?
+
+528
+00:40:45,046 --> 00:40:47,188
+Teyla!
+Teyla?
+
+529
+00:41:07,349 --> 00:41:10,520
+希望我引爆这一个之后
+就用不上另外一个了
+Hopefully, if I take this one out, the other one will back off.
+
+530
+00:41:12,571 --> 00:41:17,571
+走, 走, 走!
+Go, go, go, go!
+
+531
+00:41:19,076 --> 00:41:19,835
+我们不能呆在这里了, Elizabeth
+We can't stay here, Elizabeth.
+
+532
+00:41:19,835 --> 00:41:21,965
+他是对的
+它们正通过光柱从四处近来
+He's right, they're beaming in all over the place.
+
+533
+00:41:22,458 --> 00:41:26,984
+我们哪儿也不去
+还没到那步
+We're not going anywhere. Not yet.
+
+534
+00:41:36,082 --> 00:41:39,980
+你知道, 如果这有效的话
+可能需要有人再做一次
+You know, if this works, somebody might have to do it again.
+
+535
+00:41:40,972 --> 00:41:42,046
+知道
+Understood.
+
+536
+00:41:43,486 --> 00:41:44,181
+快, 快!
+Come on. Keep up!
+
+537
+00:41:47,395 --> 00:41:48,428
+在那里!
+Over there.
+
+538
+00:42:03,686 --> 00:42:05,376
+是你让Sheppard驾驶那个飞船的?
+You let Sheppard fly that jumper?
+
+539
+00:42:10,317 --> 00:42:13,365
+帮我准备好自毁程序
+万一这失败的话
+Help me arm the self-destruct in case this fails.
+
+540
+00:42:37,981 --> 00:42:40,168
+它们没有察觉到我的靠近
+They haven't detected my approach.
+
+541
+00:42:42,413 --> 00:42:44,795
+核弹已经准备好了
+The weapon is armed and ready.
+
+542
+00:42:48,673 --> 00:42:51,212
+我就要进去了
+I'm going in.
+
+543
+00:42:51,828 --> 00:42:54,443
+<i>未完待续...<i>
+

@@ -1,0 +1,2319 @@
+﻿1
+00:00:02,530 --> 00:00:10,180
+{\fn方正大黑简体\fs12\shad0}本剧改编自圣经  它们曾改变世界{\r}
+
+2
+00:00:05,350 --> 00:00:10,180
+{\fn方正大黑简体\fs12\shad0}本剧将始终保持《圣经》真谛{\r}
+
+3
+00:00:12,710 --> 00:00:16,180
+{\fn方正大黑简体\fs12\shad0}我已看见应许之地{\r}
+{\fn方正大黑简体\fs8\shad0}And I've seen the promised land.{\r}
+
+4
+00:00:12,710 --> 00:00:16,180
+{\fn隶书\fs10\shad0\an8}声音源自马丁·路德·金  美国民权运动领袖
+
+5
+00:00:16,440 --> 00:00:20,390
+{\fn方正大黑简体\fs12\shad0}在起初天主创造了天地{\r}
+{\fn方正大黑简体\fs8\shad0}In the beginning, God created the heaven and the earth.{\r}
+
+6
+00:00:16,440 --> 00:00:20,390
+{\fn隶书\fs10\shad0\an8}声音源自威廉·安德斯
+美国第一次载人航天飞行的航天员之一{\r}
+
+7
+00:00:20,390 --> 00:00:24,310
+{\fn方正大黑简体\fs12\shad0}给谁的多 向谁要的也多{\r}
+{\fn方正大黑简体\fs8\shad0}For those to whom much is given, much is required.{\r}
+
+8
+00:00:20,390 --> 00:00:24,310
+{\fn隶书\fs10\shad0\an8}声音源自约翰·F·肯尼迪
+美国第35任总统{\r}
+
+9
+00:00:24,380 --> 00:00:27,050
+{\fn方正大黑简体\fs12\shad0}你应当爱近人如你自己{\r}
+{\fn方正大黑简体\fs8\shad0}Thou shalt love thy neighbor as thyself.{\r}
+
+10
+00:00:24,380 --> 00:00:27,050
+{\fn隶书\fs10\shad0\an8}声音源自罗纳德·里根  美国第40任总统{\r}
+
+11
+00:00:27,050 --> 00:00:29,070
+{\fn方正大黑简体\fs12\shad0}你们找，必要找着{\r}
+{\fn方正大黑简体\fs8\shad0}Seek, and ye shall find.{\r}
+
+12
+00:00:27,950 --> 00:00:31,100
+{\fn隶书\fs10\shad0\an8}出自美黑人女诗人玛雅·安杰洛{\r}
+
+13
+00:00:29,070 --> 00:00:31,100
+{\fn方正大黑简体\fs12\shad0}你们求，必要给你们{\r}
+{\fn方正大黑简体\fs8\shad0}Ask, and it shall be given.{\r}
+
+14
+00:00:31,100 --> 00:00:35,180
+{\fn方正大黑简体\fs12\shad0}上主的旨意怎样行在天上 就让它在地上实现{\r}
+{\fn方正大黑简体\fs8\shad0}As the will of God is in heaven, even so let it be.{\r}
+
+15
+00:00:31,100 --> 00:00:35,440
+{\fn隶书\fs10\shad0\an8}声音源自温斯顿·丘吉尔  二战时期英国首相{\r}
+
+16
+00:00:35,440 --> 00:00:39,150
+{\fn方正大黑简体\fs12\shad0}天主是我们的救助和力量{\r}
+{\fn方正大黑简体\fs8\shad0}God is our refuge and strength.{\r}
+
+17
+00:00:35,440 --> 00:00:39,150
+{\fn隶书\fs10\shad0\an8}声音源自贝拉克·奥巴马  美国总统{\r}
+
+18
+00:00:39,470 --> 00:00:42,630
+{\fn方正大黑简体\fs12\shad0}有史以来影响最深远的故事...{\r}
+{\fn方正大黑简体\fs8\shad0}The most powerful story of all time...{\r}
+
+19
+00:00:42,700 --> 00:00:45,710
+{\fn方正大黑简体\fs12\shad0}至今仍在继续塑造我们的世界{\r}
+{\fn方正大黑简体\fs8\shad0}continues to shape our world.{\r}
+
+20
+00:00:45,880 --> 00:00:48,520
+{\fn方正大黑简体\fs12\shad0}这是我们执政的基础{\r}
+{\fn方正大黑简体\fs8\shad0}It's the foundation of our governments,{\r}
+
+21
+00:00:48,860 --> 00:00:51,620
+{\fn方正大黑简体\fs12\shad0}我们法律的蓝图{\r}
+{\fn方正大黑简体\fs8\shad0}the blueprint for our laws,{\r}
+
+22
+00:00:52,050 --> 00:00:55,540
+{\fn方正大黑简体\fs12\shad0}人生旅程的神圣指南{\r}
+{\fn方正大黑简体\fs8\shad0}a sacred guide for life's journey.{\r}
+
+23
+00:00:56,460 --> 00:00:58,920
+{\fn方正大黑简体\fs12\shad0}这就是——《圣经》{\r}
+{\fn方正大黑简体\fs8\shad0}This is the Bible.{\r}
+
+24
+00:00:59,360 --> 00:01:02,990
+{\fn方正大黑简体\fs12\shad0}《圣经》
+第一季  第01集{\r}
+
+25
+00:01:03,650 --> 00:01:06,750
+{\fn方正大黑简体\fs12\shad0}天主预先警告我  要我造一座方舟{\r}
+{\fn方正大黑简体\fs8\shad0}God warned me. He told me to build a boat.{\r}
+
+26
+00:01:07,630 --> 00:01:10,220
+{\fn方正大黑简体\fs12\shad0}天主对我说{\r}
+{\fn方正大黑简体\fs8\shad0}God has spoken to me.{\r}
+
+27
+00:01:10,390 --> 00:01:13,020
+{\fn方正大黑简体\fs12\shad0}他会领我们到新的家园{\r}
+{\fn方正大黑简体\fs8\shad0}He will lead us to a new home.{\r}
+
+28
+00:01:13,030 --> 00:01:17,070
+{\fn方正大黑简体\fs12\shad0}他保证让我的后裔多如繁星{\r}
+{\fn方正大黑简体\fs8\shad0}He has promised descendants as numerous as the stars.{\r}
+
+29
+00:01:18,760 --> 00:01:21,320
+{\fn方正大黑简体\fs12\shad0}-你是谁？  -我是梅瑟{\r}
+{\fn方正大黑简体\fs8\shad0}- Who are you? - My name is Moses.{\r}
+
+30
+00:01:21,460 --> 00:01:24,970
+{\fn方正大黑简体\fs12\shad0}天主派我来  为使你们自由{\r}
+{\fn方正大黑简体\fs8\shad0}God has sent me to set you free.{\r}
+
+31
+00:01:24,970 --> 00:01:29,430
+{\fn方正大黑简体\fs12\shad0}上主救我们脱离埃及 他许诺赐我们这片土地{\r}
+{\fn方正大黑简体\fs8\shad0}The Lord brought us out from Egypt, he promised us this land.{\r}
+
+32
+00:01:29,430 --> 00:01:31,910
+{\fn方正大黑简体\fs12\shad0}很快  它就会是我们的了{\r}
+{\fn方正大黑简体\fs8\shad0}And soon... it will be ours!{\r}
+
+33
+00:01:32,420 --> 00:01:34,820
+{\fn方正大黑简体\fs12\shad0}耶路撒冷  我们的新家园{\r}
+{\fn方正大黑简体\fs8\shad0}Jerusalem... our new home.{\r}
+
+34
+00:01:34,820 --> 00:01:38,660
+{\fn方正大黑简体\fs12\shad0}达味  你在人间建立了天主的国度{\r}
+{\fn方正大黑简体\fs8\shad0}David, you have forged God's nation on earth.{\r}
+
+35
+00:01:41,080 --> 00:01:45,700
+{\fn方正大黑简体\fs12\shad0}这个国度及其国民从全能造物主得到信心{\r}
+{\fn方正大黑简体\fs8\shad0}A nation and a people find faith in an all-powerful creator.{\r}
+
+36
+00:01:45,700 --> 00:01:48,550
+{\fn方正大黑简体\fs12\shad0}天主与我同在！{\r}
+{\fn方正大黑简体\fs8\shad0}God is with me!{\r}
+
+37
+00:01:49,520 --> 00:01:53,970
+{\fn方正大黑简体\fs12\shad0}他们的故事帮助我们认识自己{\r}
+{\fn方正大黑简体\fs8\shad0}Their story helps define who we are.{\r}
+
+38
+00:01:54,880 --> 00:01:56,530
+{\fn方正大黑简体\fs12\shad0}如何选择{\r}
+{\fn方正大黑简体\fs8\shad0}The choices we make.{\r}
+
+39
+00:01:57,720 --> 00:02:01,130
+{\fn方正大黑简体\fs12\shad0}如何生存  如何去爱{\r}
+{\fn方正大黑简体\fs8\shad0}How we live. How we love.{\r}
+
+40
+00:02:01,550 --> 00:02:04,760
+{\fn方正大黑简体\fs12\shad0}如何奋斗和克服困难{\r}
+{\fn方正大黑简体\fs8\shad0}How we struggle and overcome.{\r}
+
+41
+00:02:04,760 --> 00:02:08,780
+{\fn方正大黑简体\fs12\shad0}是谁创造了大地  海洋  和天空？{\r}
+{\fn方正大黑简体\fs8\shad0}Who created the earth, the sea, the sky?{\r}
+
+42
+00:02:08,780 --> 00:02:10,210
+{\fn方正大黑简体\fs12\shad0}是谁创造了你们？{\r}
+{\fn方正大黑简体\fs8\shad0}Who created you?{\r}
+
+43
+00:02:10,220 --> 00:02:12,450
+{\fn方正大黑简体\fs12\shad0}主啊！{\r}
+{\fn方正大黑简体\fs8\shad0}Lord!{\r}
+
+44
+00:02:16,900 --> 00:02:19,640
+{\fn方正大黑简体\fs12\shad0}我们将此城献给上主！{\r}
+{\fn方正大黑简体\fs8\shad0}We give this city to the Lord!{\r}
+
+45
+00:02:19,640 --> 00:02:21,720
+{\fn方正大黑简体\fs12\shad0}耶利哥是我们的！{\r}
+{\fn方正大黑简体\fs8\shad0}Jericho is ours!{\r}
+
+46
+00:02:21,720 --> 00:02:25,360
+{\fn方正大黑简体\fs12\shad0}耶路撒冷城中所有的一切 随便抢！{\r}
+{\fn方正大黑简体\fs8\shad0}And whatever's left of Jerusalem......help yourselves!{\r}
+
+47
+00:02:25,370 --> 00:02:27,710
+{\fn方正大黑简体\fs12\shad0}这是个圈套  他们想置我们于死地{\r}
+{\fn方正大黑简体\fs8\shad0}It's a trap for all of us. They want us dead.{\r}
+
+48
+00:02:29,750 --> 00:02:34,440
+{\fn方正大黑简体\fs12\shad0}天主将从巴比伦带来灾难{\r}
+{\fn方正大黑简体\fs8\shad0}God is bringing disaster from Babylon.{\r}
+
+49
+00:02:42,050 --> 00:02:47,630
+{\fn方正大黑简体\fs12\shad0}夫人  我相信您的儿子必是应许的那位为王者{\r}
+{\fn方正大黑简体\fs8\shad0}Lady, I believe your son is the promised king of his people.{\r}
+
+50
+00:02:47,700 --> 00:02:49,190
+{\fn方正大黑简体\fs12\shad0}他叫什么名字？{\r}
+{\fn方正大黑简体\fs8\shad0}What is his name?{\r}
+
+51
+00:02:50,220 --> 00:02:51,520
+{\fn方正大黑简体\fs12\shad0}耶稣{\r}
+{\fn方正大黑简体\fs8\shad0}Jesus.{\r}
+
+52
+00:02:53,840 --> 00:02:55,650
+{\fn方正大黑简体\fs12\shad0}他的名字是耶稣{\r}
+{\fn方正大黑简体\fs8\shad0}His name is Jesus.{\r}
+
+53
+00:02:59,650 --> 00:03:01,000
+{\fn方正大黑简体\fs12\shad0}你说有麻烦了{\r}
+{\fn方正大黑简体\fs8\shad0}You said there was trouble.{\r}
+
+54
+00:03:01,140 --> 00:03:03,810
+{\fn方正大黑简体\fs12\shad0}人们都成群结队去找那个野人似的若翰{\r}
+{\fn方正大黑简体\fs8\shad0}The people are flocking to this wild man, John.{\r}
+
+55
+00:03:03,980 --> 00:03:05,220
+{\fn方正大黑简体\fs12\shad0}他们认为他是先知{\r}
+{\fn方正大黑简体\fs8\shad0}They think he's a prophet.{\r}
+
+56
+00:03:05,220 --> 00:03:07,270
+{\fn方正大黑简体\fs12\shad0}甚至有人认为他就是默西亚{\r}
+{\fn方正大黑简体\fs8\shad0}Some even call him the 'Messiah'.{\r}
+
+57
+00:03:05,220 --> 00:03:07,270
+{\fn隶书\fs10\shad0}(默西亚 指受傅者 即预言中的耶稣
+犹太人所期待的王){\r}
+
+58
+00:03:07,270 --> 00:03:10,280
+{\fn方正大黑简体\fs12\shad0}即将到来的那一位  他将用火来施洗{\r}
+{\fn方正大黑简体\fs8\shad0}There is one to come, who will baptize with fire{\r}
+
+59
+00:03:10,280 --> 00:03:12,100
+{\fn方正大黑简体\fs12\shad0}我不过是旷野中的呐喊{\r}
+{\fn方正大黑简体\fs8\shad0}I am just the voice in the wilderness,{\r}
+
+60
+00:03:12,100 --> 00:03:13,760
+{\fn方正大黑简体\fs12\shad0}为主预备道路的...{\r}
+{\fn方正大黑简体\fs8\shad0}preparing the way for the--{\r}
+
+61
+00:03:15,130 --> 00:03:17,950
+{\fn方正大黑简体\fs12\shad0}天主  我们要做什么{\r}
+{\fn方正大黑简体\fs8\shad0}Lord, what are we going to do?{\r}
+
+62
+00:03:18,800 --> 00:03:20,420
+{\fn方正大黑简体\fs12\shad0}改变世界{\r}
+{\fn方正大黑简体\fs8\shad0}Change the world.{\r}
+
+63
+00:03:21,600 --> 00:03:23,720
+{\fn方正大黑简体\fs12\shad0}玛利亚  他在这里{\r}
+{\fn方正大黑简体\fs8\shad0}Mary! He's here!{\r}
+
+64
+00:03:23,830 --> 00:03:27,750
+{\fn方正大黑简体\fs12\shad0}-谁  -耶稣  他终于又回来了{\r}
+{\fn方正大黑简体\fs8\shad0}- Who? - Jesus! He's back at last.{\r}
+
+65
+00:03:28,060 --> 00:03:31,830
+{\fn方正大黑简体\fs12\shad0}神贫的人是有福的 因为天国是他们的{\r}
+{\fn方正大黑简体\fs8\shad0}Blessed are the poor, for theirs is the kingdom of heaven.{\r}
+
+66
+00:03:28,060 --> 00:03:31,830
+{\fn隶书\fs9\shad0\}(《圣经》原文为 Blessed are the poor in spirit 此处按原文翻译){\r}
+
+67
+00:03:31,910 --> 00:03:35,430
+{\fn方正大黑简体\fs12\shad0}温良的人是有福的 因为他们要承受土地{\r}
+{\fn方正大黑简体\fs8\shad0}Blessed are the meek, for they shall inherit the earth.{\r}
+
+68
+00:03:35,430 --> 00:03:36,060
+{\fn方正大黑简体\fs12\shad0}你说什么{\r}
+{\fn方正大黑简体\fs8\shad0}What are you saying?{\r}
+
+69
+00:03:36,060 --> 00:03:40,740
+{\fn方正大黑简体\fs12\shad0}你说你就是被天主选中派来人间的默西亚吗{\r}
+{\fn方正大黑简体\fs8\shad0}That you are the Messiah, the chosen one sent by God?{\r}
+
+70
+00:03:40,740 --> 00:03:42,260
+{\fn方正大黑简体\fs12\shad0}已经开始了{\r}
+{\fn方正大黑简体\fs8\shad0}It has begun.{\r}
+
+71
+00:03:42,480 --> 00:03:44,510
+{\fn方正大黑简体\fs12\shad0}倘若你渴望公义{\r}
+{\fn方正大黑简体\fs8\shad0}If you hunger for righteousness,{\r}
+
+72
+00:03:44,510 --> 00:03:46,870
+{\fn方正大黑简体\fs12\shad0}通过我  必将达成所愿{\r}
+{\fn方正大黑简体\fs8\shad0}you will be filled... through me.{\r}
+
+73
+00:03:46,870 --> 00:03:49,790
+{\fn方正大黑简体\fs12\shad0}有五千人前往见他  有五千人{\r}
+{\fn方正大黑简体\fs8\shad0}Five thousand came to see him. Five thousand.{\r}
+
+74
+00:03:49,790 --> 00:03:54,220
+{\fn方正大黑简体\fs12\shad0}你们的王骑着驴来了{\r}
+{\fn方正大黑简体\fs8\shad0}Your king comes to you, riding on a donkey.{\r}
+
+75
+00:03:54,470 --> 00:03:56,540
+{\fn方正大黑简体\fs12\shad0}他有点不寻常{\r}
+{\fn方正大黑简体\fs8\shad0}There is something unusual about him.{\r}
+
+76
+00:03:56,540 --> 00:04:00,330
+{\fn方正大黑简体\fs12\shad0}没什么不寻常的  除了他有破坏一切能力{\r}
+{\fn方正大黑简体\fs8\shad0}There is nothing unusual about him, apart from his ability to cause havoc.{\r}
+
+77
+00:04:00,330 --> 00:04:03,050
+{\fn方正大黑简体\fs12\shad0}如果一场骚乱  在第二天再次重演{\r}
+{\fn方正大黑简体\fs8\shad0}If the disturbances that took place a day are repeated tomorrow,{\r}
+
+78
+00:04:03,050 --> 00:04:06,040
+{\fn方正大黑简体\fs12\shad0}我会将它粉碎{\r}
+{\fn方正大黑简体\fs8\shad0}I will crush any rebellion.{\r}
+
+79
+00:04:33,730 --> 00:04:35,560
+{\fn方正大黑简体\fs12\shad0}在起初{\r}
+{\fn方正大黑简体\fs8\shad0}In the beginning,{\r}
+
+80
+00:04:35,560 --> 00:04:40,010
+{\fn方正大黑简体\fs12\shad0}天主创造天地{\r}
+{\fn方正大黑简体\fs8\shad0}God created the heavens and the earth.{\r}
+
+81
+00:04:41,280 --> 00:04:45,320
+{\fn方正大黑简体\fs12\shad0}天主说  有光{\r}
+{\fn方正大黑简体\fs8\shad0}And God said, "Let there be light",{\r}
+
+82
+00:04:49,070 --> 00:04:52,260
+{\fn方正大黑简体\fs12\shad0}就有了光{\r}
+{\fn方正大黑简体\fs8\shad0}and there was light.{\r}
+
+83
+00:04:59,570 --> 00:05:05,760
+{\fn方正大黑简体\fs12\shad0}天主将水和穹苍分开{\r}
+{\fn方正大黑简体\fs8\shad0}Then God separated the water and the sky.{\r}
+
+84
+00:05:06,200 --> 00:05:11,130
+{\fn方正大黑简体\fs12\shad0}造就了海洋和陆地{\r}
+{\fn方正大黑简体\fs8\shad0}He formed the seas and the land.{\r}
+
+85
+00:05:18,680 --> 00:05:27,110
+{\fn方正大黑简体\fs12\shad0}地上长出各类树木植物{\r}
+{\fn方正大黑简体\fs8\shad0}Then he covered the land...with trees...and plants{\r}
+
+86
+00:05:37,350 --> 00:05:42,780
+{\fn方正大黑简体\fs12\shad0}水中有了各类生物{\r}
+{\fn方正大黑简体\fs8\shad0}Then he filled the world...with all the creatures of the sea{\r}
+
+87
+00:05:48,880 --> 00:05:50,480
+{\fn方正大黑简体\fs12\shad0}空中有了各种飞鸟{\r}
+{\fn方正大黑简体\fs8\shad0}...and of the air.{\r}
+
+88
+00:05:55,510 --> 00:05:58,710
+{\fn方正大黑简体\fs12\shad0}地上有了各种动物{\r}
+{\fn方正大黑简体\fs8\shad0}all the creatures of the ground.{\r}
+
+89
+00:06:06,180 --> 00:06:07,410
+{\fn方正大黑简体\fs12\shad0}然后{\r}
+{\fn方正大黑简体\fs8\shad0}And then{\r}
+
+90
+00:06:07,870 --> 00:06:09,220
+{\fn方正大黑简体\fs12\shad0}他创造了{\r}
+{\fn方正大黑简体\fs8\shad0}he made{\r}
+
+91
+00:06:09,940 --> 00:06:11,240
+{\fn方正大黑简体\fs12\shad0}我们{\r}
+{\fn方正大黑简体\fs8\shad0}us.{\r}
+
+92
+00:06:15,960 --> 00:06:18,760
+{\fn方正大黑简体\fs12\shad0}住在伊甸园中{\r}
+{\fn方正大黑简体\fs8\shad0}To live in paradise.{\r}
+
+93
+00:06:19,770 --> 00:06:20,910
+{\fn方正大黑简体\fs12\shad0}直到{\r}
+{\fn方正大黑简体\fs8\shad0}Until...{\r}
+
+94
+00:06:21,290 --> 00:06:23,930
+{\fn方正大黑简体\fs12\shad0}亚当和厄娃违背了主的旨意{\r}
+{\fn方正大黑简体\fs8\shad0}Adam and Eve disobeyed God{\r}
+
+95
+00:06:26,370 --> 00:06:28,970
+{\fn方正大黑简体\fs12\shad0}偷食了禁果{\r}
+{\fn方正大黑简体\fs8\shad0}and ate the forbidden fruit.{\r}
+
+96
+00:06:35,060 --> 00:06:37,300
+{\fn方正大黑简体\fs12\shad0}这一选择{\r}
+{\fn方正大黑简体\fs8\shad0}And with one choice,{\r}
+
+97
+00:06:37,560 --> 00:06:43,060
+{\fn方正大黑简体\fs12\shad0}让他们辨识了善与恶{\r}
+{\fn方正大黑简体\fs8\shad0}they learned both good and evil.{\r}
+
+98
+00:06:44,550 --> 00:06:48,050
+{\fn方正大黑简体\fs12\shad0}从那之后  因为加音杀了亚伯尔{\r}
+{\fn方正大黑简体\fs8\shad0}Since then, since Cain killed Abel,{\r}
+
+99
+00:06:48,560 --> 00:06:52,240
+{\fn方正大黑简体\fs12\shad0}天主目睹了人类内心深处太多的恶念{\r}
+{\fn方正大黑简体\fs8\shad0}God has seen too much evil in human hearts.{\r}
+
+100
+00:07:09,420 --> 00:07:12,130
+{\fn方正大黑简体\fs12\shad0}错误的选择  错误的决定{\r}
+{\fn方正大黑简体\fs8\shad0}Wrong choices, wrong decisions.{\r}
+
+101
+00:07:12,210 --> 00:07:16,580
+{\fn方正大黑简体\fs12\shad0}导致了今日的悲剧{\r}
+{\fn方正大黑简体\fs8\shad0}That's why this is happening.{\r}
+
+102
+00:07:19,280 --> 00:07:23,730
+{\fn方正大黑简体\fs12\shad0}我们的造物主决定净化这片土地{\r}
+{\fn方正大黑简体\fs8\shad0}Our creator decided to cleanse the earth.{\r}
+
+103
+00:07:28,250 --> 00:07:31,910
+{\fn方正大黑简体\fs12\shad0}天主警告我  要我造一艘船{\r}
+{\fn方正大黑简体\fs8\shad0}God warned me. He told me to build a boat.{\r}
+
+104
+00:07:36,440 --> 00:07:41,380
+{\fn方正大黑简体\fs12\shad0}一艘能拯救我的家人和所有动物的船{\r}
+{\fn方正大黑简体\fs8\shad0}A boat to save our family, and all the animals.{\r}
+
+105
+00:07:43,560 --> 00:07:46,340
+{\fn方正大黑简体\fs12\shad0}而其他所有的生物{\r}
+{\fn方正大黑简体\fs8\shad0}Every other living creature...{\r}
+
+106
+00:07:48,260 --> 00:07:49,970
+{\fn方正大黑简体\fs12\shad0}都将死亡{\r}
+{\fn方正大黑简体\fs8\shad0}would die.{\r}
+
+107
+00:08:10,080 --> 00:08:11,640
+{\fn方正大黑简体\fs12\shad0}第七日{\r}
+{\fn方正大黑简体\fs8\shad0}And on the seventh day,{\r}
+
+108
+00:08:12,890 --> 00:08:13,750
+{\fn方正大黑简体\fs12\shad0}天主{\r}
+{\fn方正大黑简体\fs8\shad0}God...{\r}
+
+109
+00:08:15,120 --> 00:08:16,410
+{\fn方正大黑简体\fs12\shad0}休息{\r}
+{\fn方正大黑简体\fs8\shad0}rested.{\r}
+
+110
+00:08:33,000 --> 00:08:38,000
+{\fn方正大黑简体\fs10\shad0}感谢YYETS字幕组
+原始翻译时间轴及制作{\r}
+
+111
+00:08:38,000 --> 00:08:46,000
+{\fn方正大黑简体\fs10\shad0}天主教长沙青年团体重制{\r}
+
+112
+00:08:38,000 --> 00:08:46,000
+{\fn方正大黑简体\fs10\shad0}本字幕采用天主教思高译本{\r}
+
+113
+00:08:46,000 --> 00:08:48,000
+{\fn方正大黑简体\fs10\shad0}仅供福传学习
+禁止用于任何商业盈利行为{\r}
+
+114
+00:08:48,000 --> 00:08:55,000
+{\fn方正大黑简体\fs10\shad0}如果你想为天主教的影视字幕出一份福传的力量， 请来Q群180574695【天主的译站】指导交流!{\r}
+
+115
+00:08:59,900 --> 00:09:02,870
+{\fn方正大黑简体\fs12\shad0}洪水吞没世界后{\r}
+{\fn方正大黑简体\fs8\shad0}After the floodwater's engulfed the world,{\r}
+
+116
+00:09:02,930 --> 00:09:06,710
+{\fn方正大黑简体\fs12\shad0}《圣经》记载诺厄后裔有了全新的开始{\r}
+{\fn方正大黑简体\fs8\shad0}The Bible describes a new beginning for Noah's descendants{\r}
+
+117
+00:09:06,710 --> 00:09:08,320
+{\fn方正大黑简体\fs12\shad0}这也是一个契机{\r}
+{\fn方正大黑简体\fs8\shad0}and a chance to restore{\r}
+
+118
+00:09:08,320 --> 00:09:12,570
+{\fn方正大黑简体\fs12\shad0}人类与天主得以重修旧好{\r}
+{\fn方正大黑简体\fs8\shad0}the relationship between God and humanity.{\r}
+
+119
+00:09:15,010 --> 00:09:19,420
+{\fn方正大黑简体\fs12\shad0}对全能造物主的全新信仰正在萌芽{\r}
+{\fn方正大黑简体\fs8\shad0}A new faith in an all-powerful creator is being born.{\r}
+
+120
+00:09:24,710 --> 00:09:27,370
+{\fn方正大黑简体\fs12\shad0}在无数人信仰天主前{\r}
+{\fn方正大黑简体\fs8\shad0}Before billions can believe in him{\r}
+
+121
+00:09:27,740 --> 00:09:30,630
+{\fn方正大黑简体\fs12\shad0}必定要有一人听到他的召唤{\r}
+{\fn方正大黑简体\fs8\shad0}one man must hear God's voice{\r}
+
+122
+00:09:30,680 --> 00:09:33,260
+{\fn方正大黑简体\fs12\shad0}并且拥有信念追随他{\r}
+{\fn方正大黑简体\fs8\shad0}and have the faith to follow.{\r}
+
+123
+00:09:43,400 --> 00:09:46,700
+{\fn方正大黑简体\fs12\shad0}亚巴郎  离开你的故乡{\r}
+{\fn方正大黑简体\fs8\shad0}Abraham, leave your home{\r}
+
+124
+00:09:46,700 --> 00:09:51,752
+{\fn方正大黑简体\fs12\shad0}往我赐给你和你后裔的地方去{\r}
+{\fn方正大黑简体\fs8\shad0}and go to the land I will give to you and your offspring.{\r}
+
+125
+00:09:53,290 --> 00:09:54,890
+{\fn方正大黑简体\fs12\shad0}我会祝福你{\r}
+{\fn方正大黑简体\fs8\shad0}I will bless you.{\r}
+
+126
+00:09:55,340 --> 00:09:58,060
+{\fn方正大黑简体\fs12\shad0}我会让你成为万民之父{\r}
+{\fn方正大黑简体\fs8\shad0}I will make you a father of many nations,{\r}
+
+127
+00:09:58,730 --> 00:10:01,970
+{\fn方正大黑简体\fs12\shad0}你的后裔将多如繁星{\r}
+{\fn方正大黑简体\fs8\shad0}with descendants as numerous as the stars.{\r}
+
+128
+00:10:04,950 --> 00:10:09,810
+{\fn方正大黑简体\fs12\shad0}地上万民都要因你获得祝福{\r}
+{\fn方正大黑简体\fs8\shad0}All the peoples on earth will be blessed through you.{\r}
+
+129
+00:10:16,110 --> 00:10:17,020
+{\fn方正大黑简体\fs12\shad0}撒辣依{\r}
+{\fn方正大黑简体\fs8\shad0}Sarah.{\r}
+
+130
+00:10:17,440 --> 00:10:19,950
+{\fn方正大黑简体\fs12\shad0}天主同我说话了{\r}
+{\fn方正大黑简体\fs8\shad0}God has spoken to me.{\r}
+
+131
+00:10:21,130 --> 00:10:22,240
+{\fn方正大黑简体\fs12\shad0}跟我来{\r}
+{\fn方正大黑简体\fs8\shad0}Come with me.{\r}
+
+132
+00:10:26,810 --> 00:10:29,240
+{\fn方正大黑简体\fs12\shad0}我的侄儿  罗特  跟我们走吧{\r}
+{\fn方正大黑简体\fs8\shad0}Lot, my nephew, walk with us.{\r}
+
+133
+00:10:29,240 --> 00:10:30,140
+{\fn方正大黑简体\fs12\shad0}亚巴郎{\r}
+{\fn方正大黑简体\fs8\shad0}Abraham?{\r}
+
+134
+00:10:32,400 --> 00:10:35,140
+{\fn方正大黑简体\fs12\shad0}他将指引我们去新的家园{\r}
+{\fn方正大黑简体\fs8\shad0}He will lead us to a new home.{\r}
+
+135
+00:10:35,330 --> 00:10:38,960
+{\fn方正大黑简体\fs12\shad0}但我们已经有一个很好的家园了{\r}
+{\fn方正大黑简体\fs8\shad0}But we have a home, a good home.{\r}
+
+136
+00:10:38,960 --> 00:10:41,470
+{\fn方正大黑简体\fs12\shad0}远离城市  去一片新的陆地上{\r}
+{\fn方正大黑简体\fs8\shad0}Away from the city to a new land.{\r}
+
+137
+00:10:42,850 --> 00:10:44,150
+{\fn方正大黑简体\fs12\shad0}为了我们的孩子{\r}
+{\fn方正大黑简体\fs8\shad0}For our children.{\r}
+
+138
+00:10:44,150 --> 00:10:47,670
+{\fn方正大黑简体\fs12\shad0}但你们没有孩子  也永远不会有{\r}
+{\fn方正大黑简体\fs8\shad0}But you have no children. You can never have children.{\r}
+
+139
+00:10:47,670 --> 00:10:49,040
+{\fn方正大黑简体\fs12\shad0}我们会有的{\r}
+{\fn方正大黑简体\fs8\shad0}But we will.{\r}
+
+140
+00:10:49,370 --> 00:10:53,190
+{\fn方正大黑简体\fs12\shad0}他保证我的后裔会多如繁星{\r}
+{\fn方正大黑简体\fs8\shad0}He has promised descendants as numerous as the stars.{\r}
+
+141
+00:10:59,860 --> 00:11:03,500
+{\fn方正大黑简体\fs12\shad0}他同我说话了  这是他承诺的{\r}
+{\fn方正大黑简体\fs8\shad0}He spoke to me. He promised.{\r}
+
+142
+00:11:04,410 --> 00:11:07,020
+{\fn方正大黑简体\fs12\shad0}撒辣依  相信我{\r}
+{\fn方正大黑简体\fs8\shad0}Sarah, believe me.{\r}
+
+143
+00:11:09,470 --> 00:11:11,000
+{\fn方正大黑简体\fs12\shad0}相信我{\r}
+{\fn方正大黑简体\fs8\shad0}Believe me.{\r}
+
+144
+00:11:22,350 --> 00:11:25,550
+{\fn方正大黑简体\fs12\shad0}罗特  你要和我一起去吗{\r}
+{\fn方正大黑简体\fs8\shad0}And, Lot, you are with me?{\r}
+
+145
+00:11:26,470 --> 00:11:29,480
+{\fn方正大黑简体\fs12\shad0}他会指引我们去一片神奇之地{\r}
+{\fn方正大黑简体\fs8\shad0}He will lead us to a land of wonder.{\r}
+
+146
+00:11:29,890 --> 00:11:30,710
+{\fn方正大黑简体\fs12\shad0}不{\r}
+{\fn方正大黑简体\fs8\shad0}No.{\r}
+
+147
+00:11:31,990 --> 00:11:32,780
+{\fn方正大黑简体\fs12\shad0}不要{\r}
+{\fn方正大黑简体\fs8\shad0}No.{\r}
+
+148
+00:11:47,850 --> 00:11:50,090
+{\fn方正大黑简体\fs12\shad0}真是神迹{\r}
+{\fn方正大黑简体\fs8\shad0}Such wonder!{\r}
+
+149
+00:12:01,970 --> 00:12:05,490
+{\fn方正大黑简体\fs12\shad0}亚巴郎深信  他将成为一个大国之父{\r}
+{\fn方正大黑简体\fs8\shad0}Driven by the belief that he will father a great nation,{\r}
+
+150
+00:12:05,670 --> 00:12:07,900
+{\fn方正大黑简体\fs12\shad0}他带领自己的小部落{\r}
+{\fn方正大黑简体\fs8\shad0}Abraham leads his small tribe{\r}
+
+151
+00:12:07,900 --> 00:12:11,150
+{\fn方正大黑简体\fs12\shad0}前往天主与他立约的新地{\r}
+{\fn方正大黑简体\fs8\shad0}to the land promised to him by God.{\r}
+
+152
+00:12:25,040 --> 00:12:28,020
+{\fn方正大黑简体\fs12\shad0}我还能做什么  别的土地都被占领了{\r}
+{\fn方正大黑简体\fs8\shad0}What else can I do? All the other land is taken!{\r}
+
+153
+00:12:28,920 --> 00:12:30,560
+{\fn方正大黑简体\fs12\shad0}你不能抢我的{\r}
+{\fn方正大黑简体\fs8\shad0}You can't have mine!{\r}
+
+154
+00:12:36,600 --> 00:12:38,810
+{\fn方正大黑简体\fs12\shad0}冷静{\r}
+{\fn方正大黑简体\fs8\shad0}Calm down!{\r}
+
+155
+00:12:39,020 --> 00:12:40,470
+{\fn方正大黑简体\fs12\shad0}住手  走开{\r}
+{\fn方正大黑简体\fs8\shad0}Stop! Come away!{\r}
+
+156
+00:12:42,260 --> 00:12:43,430
+{\fn方正大黑简体\fs12\shad0}不能再这样下去了{\r}
+{\fn方正大黑简体\fs8\shad0}This can't go on.{\r}
+
+157
+00:12:43,430 --> 00:12:45,540
+{\fn方正大黑简体\fs12\shad0}你得告诉亚巴郎我们的决定{\r}
+{\fn方正大黑简体\fs8\shad0}You've got to tell Abram what we decided.{\r}
+
+158
+00:12:45,540 --> 00:12:46,760
+{\fn方正大黑简体\fs12\shad0}怎么了{\r}
+{\fn方正大黑简体\fs8\shad0}What's going on?{\r}
+
+159
+00:12:47,700 --> 00:12:50,160
+{\fn方正大黑简体\fs12\shad0}他的人想霸占我们的草地{\r}
+{\fn方正大黑简体\fs8\shad0}His men are trying to take our pasture.{\r}
+
+160
+00:12:51,360 --> 00:12:53,180
+{\fn方正大黑简体\fs12\shad0}天主让我们共享这片地{\r}
+{\fn方正大黑简体\fs8\shad0}God gave us this land to share.{\r}
+
+161
+00:12:53,180 --> 00:12:54,970
+{\fn方正大黑简体\fs12\shad0}那他应该再多给一些{\r}
+{\fn方正大黑简体\fs8\shad0}Then he should have given us more of it.{\r}
+
+162
+00:12:55,820 --> 00:12:56,770
+{\fn方正大黑简体\fs12\shad0}告诉他{\r}
+{\fn方正大黑简体\fs8\shad0}Tell him.{\r}
+
+163
+00:12:59,640 --> 00:13:01,410
+{\fn方正大黑简体\fs12\shad0}亚巴郎  土地不够{\r}
+{\fn方正大黑简体\fs8\shad0}Abraham, there just isn't enough land.{\r}
+
+164
+00:13:01,890 --> 00:13:02,830
+{\fn方正大黑简体\fs12\shad0}我们人太多了{\r}
+{\fn方正大黑简体\fs8\shad0}There are too many of us.{\r}
+
+165
+00:13:02,840 --> 00:13:05,190
+{\fn方正大黑简体\fs12\shad0}上主会给我们的  要有信心{\r}
+{\fn方正大黑简体\fs8\shad0}The Lord will provide. Have faith.{\r}
+
+166
+00:13:05,210 --> 00:13:07,180
+{\fn方正大黑简体\fs12\shad0}相信看不见的天主吗{\r}
+{\fn方正大黑简体\fs8\shad0}In a God we cannot see?{\r}
+
+167
+00:13:10,030 --> 00:13:11,610
+{\fn方正大黑简体\fs12\shad0}是时候分道扬镳了{\r}
+{\fn方正大黑简体\fs8\shad0}It's time we go our separate ways.{\r}
+
+168
+00:13:12,380 --> 00:13:15,490
+{\fn方正大黑简体\fs12\shad0}不  我们必须团结在一起{\r}
+{\fn方正大黑简体\fs8\shad0}No. No, we must stay together.{\r}
+
+169
+00:13:15,500 --> 00:13:16,690
+{\fn方正大黑简体\fs12\shad0}待在一起饿死吗{\r}
+{\fn方正大黑简体\fs8\shad0}Stay and starve?{\r}
+
+170
+00:13:16,890 --> 00:13:18,530
+{\fn方正大黑简体\fs12\shad0}待在一起  眼看大家因一片草叶{\r}
+{\fn方正大黑简体\fs8\shad0}Stay and watch our men kill each other{\r}
+
+171
+00:13:18,530 --> 00:13:20,030
+{\fn方正大黑简体\fs12\shad0}而自相残杀吗{\r}
+{\fn方正大黑简体\fs8\shad0}over a blade of grass?{\r}
+
+172
+00:13:25,080 --> 00:13:25,900
+{\fn方正大黑简体\fs12\shad0}叔叔{\r}
+{\fn方正大黑简体\fs8\shad0}Uncle.{\r}
+
+173
+00:13:27,930 --> 00:13:28,920
+{\fn方正大黑简体\fs12\shad0}我们打算离开{\r}
+{\fn方正大黑简体\fs8\shad0}We're leaving.{\r}
+
+174
+00:13:33,530 --> 00:13:34,530
+{\fn方正大黑简体\fs12\shad0}那好吧{\r}
+{\fn方正大黑简体\fs8\shad0}Very well.{\r}
+
+175
+00:13:36,510 --> 00:13:37,750
+{\fn方正大黑简体\fs12\shad0}你们想去哪里{\r}
+{\fn方正大黑简体\fs8\shad0}Where do you want to go?{\r}
+
+176
+00:13:38,270 --> 00:13:40,440
+{\fn方正大黑简体\fs12\shad0}到索多玛附近更茂盛的草场去{\r}
+{\fn方正大黑简体\fs8\shad0}To the greener pastures closer to Sodom.{\r}
+
+177
+00:13:41,670 --> 00:13:42,800
+{\fn方正大黑简体\fs12\shad0}索多玛？{\r}
+{\fn方正大黑简体\fs8\shad0}Sodom?{\r}
+
+178
+00:13:49,270 --> 00:13:50,490
+{\fn方正大黑简体\fs12\shad0}保重{\r}
+{\fn方正大黑简体\fs8\shad0}Take care.{\r}
+
+179
+00:13:51,980 --> 00:13:53,800
+{\fn方正大黑简体\fs12\shad0}亚巴郎没有自己的孩子{\r}
+{\fn方正大黑简体\fs8\shad0}With no children of his own,{\r}
+
+180
+00:13:54,290 --> 00:13:58,490
+{\fn方正大黑简体\fs12\shad0}侄子罗特对他来说  就如同儿子一般{\r}
+{\fn方正大黑简体\fs8\shad0}Abraham's nephew Lot is the closest thing he has to a son.{\r}
+
+181
+00:14:03,130 --> 00:14:05,400
+{\fn方正大黑简体\fs12\shad0}如果我连自己的家人都领导不了{\r}
+{\fn方正大黑简体\fs8\shad0}How can I lead a people...{\r}
+
+182
+00:14:08,010 --> 00:14:11,500
+{\fn方正大黑简体\fs12\shad0}又如何去领导一个民族呢{\r}
+{\fn方正大黑简体\fs8\shad0}when I can't even lead my own family?{\r}
+
+183
+00:14:25,970 --> 00:14:29,280
+{\fn方正大黑简体\fs12\shad0}一年后{\r}
+
+184
+00:14:42,380 --> 00:14:45,890
+{\fn方正大黑简体\fs12\shad0}快  帮帮他  是罗特的人{\r}
+{\fn方正大黑简体\fs8\shad0}Quickly, help him! It's one of Lot's men.{\r}
+
+185
+00:14:45,900 --> 00:14:48,500
+{\fn方正大黑简体\fs12\shad0}撒慕尔  快{\r}
+{\fn方正大黑简体\fs8\shad0}Samuel! Hurry!{\r}
+
+186
+00:14:54,150 --> 00:14:55,250
+{\fn方正大黑简体\fs12\shad0}来  靠在我身上{\r}
+{\fn方正大黑简体\fs8\shad0}Here, lean on me.{\r}
+
+187
+00:14:55,370 --> 00:14:56,150
+{\fn方正大黑简体\fs12\shad0}发生了什么事{\r}
+{\fn方正大黑简体\fs8\shad0}What happened?{\r}
+
+188
+00:14:56,150 --> 00:14:59,550
+{\fn方正大黑简体\fs12\shad0}我们毫无胜算  他们人太多了{\r}
+{\fn方正大黑简体\fs8\shad0}We didn't stand a chance. There were so many of them.{\r}
+
+189
+00:15:00,370 --> 00:15:01,360
+{\fn方正大黑简体\fs12\shad0}罗特呢{\r}
+{\fn方正大黑简体\fs8\shad0}And Lot?{\r}
+
+190
+00:15:01,470 --> 00:15:03,880
+{\fn方正大黑简体\fs12\shad0}还活着  但被抓走了{\r}
+{\fn方正大黑简体\fs8\shad0}Alive, but taken prisoner.{\r}
+
+191
+00:15:03,880 --> 00:15:04,800
+{\fn方正大黑简体\fs12\shad0}帮他一把{\r}
+{\fn方正大黑简体\fs8\shad0}Help him.{\r}
+
+192
+00:15:05,250 --> 00:15:07,790
+{\fn方正大黑简体\fs12\shad0}扶着我的手{\r}
+{\fn方正大黑简体\fs8\shad0}Here, take my hand.{\r}
+
+193
+00:15:08,330 --> 00:15:09,310
+{\fn方正大黑简体\fs12\shad0}靠在我身上{\r}
+{\fn方正大黑简体\fs8\shad0}Lean on me.{\r}
+
+194
+00:15:09,510 --> 00:15:10,580
+{\fn方正大黑简体\fs12\shad0}这样好受点{\r}
+{\fn方正大黑简体\fs8\shad0}That's better.{\r}
+
+195
+00:15:11,020 --> 00:15:12,020
+{\fn方正大黑简体\fs12\shad0}好好照顾他{\r}
+{\fn方正大黑简体\fs8\shad0}Tend to him.{\r}
+
+196
+00:15:20,960 --> 00:15:22,740
+{\fn方正大黑简体\fs12\shad0}我们有些训练有素的壮丁{\r}
+{\fn方正大黑简体\fs8\shad0}We have some trained men.{\r}
+
+197
+00:15:22,740 --> 00:15:25,300
+{\fn方正大黑简体\fs12\shad0}亚巴郎  你们不是士兵{\r}
+{\fn方正大黑简体\fs8\shad0}Abraham, you are not soldiers.{\r}
+
+198
+00:15:25,300 --> 00:15:26,650
+{\fn方正大黑简体\fs12\shad0}我告诉他们要相信天主{\r}
+{\fn方正大黑简体\fs8\shad0}I told them to trust in God.{\r}
+
+199
+00:15:26,650 --> 00:15:28,330
+{\fn方正大黑简体\fs12\shad0}我让罗特跟我们一起来的{\r}
+{\fn方正大黑简体\fs8\shad0}I made Lot come with us.{\r}
+
+200
+00:15:28,330 --> 00:15:29,740
+{\fn方正大黑简体\fs12\shad0}但后来他们离开了{\r}
+{\fn方正大黑简体\fs8\shad0}And then they left us.{\r}
+
+201
+00:15:29,740 --> 00:15:31,060
+{\fn方正大黑简体\fs12\shad0}他们选择了他们的地土{\r}
+{\fn方正大黑简体\fs8\shad0}They had their pick of the land.{\r}
+
+202
+00:15:31,060 --> 00:15:31,970
+{\fn方正大黑简体\fs12\shad0}那是他们的选择{\r}
+{\fn方正大黑简体\fs8\shad0}It was their choice.{\r}
+
+203
+00:15:31,970 --> 00:15:33,620
+{\fn方正大黑简体\fs12\shad0}但他们是我们的家人{\r}
+{\fn方正大黑简体\fs8\shad0}They are family.{\r}
+
+204
+00:15:36,260 --> 00:15:37,730
+{\fn方正大黑简体\fs12\shad0}我们必须帮他们{\r}
+{\fn方正大黑简体\fs8\shad0}We have to help them.{\r}
+
+205
+00:15:40,940 --> 00:15:43,140
+{\fn方正大黑简体\fs12\shad0}天主会眷顾我们的{\r}
+{\fn方正大黑简体\fs8\shad0}God will take care of us.{\r}
+
+206
+00:16:40,150 --> 00:16:42,400
+{\fn方正大黑简体\fs12\shad0}谁来帮我一把？{\r}
+{\fn方正大黑简体\fs8\shad0}I think I'll need a hand on this one!{\r}
+
+207
+00:16:43,360 --> 00:16:44,160
+{\fn方正大黑简体\fs12\shad0}别碰她！{\r}
+{\fn方正大黑简体\fs8\shad0}Leave her alone!{\r}
+
+208
+00:16:45,870 --> 00:16:47,160
+{\fn方正大黑简体\fs12\shad0}放开她！{\r}
+{\fn方正大黑简体\fs8\shad0}Let her go!{\r}
+
+209
+00:16:53,280 --> 00:16:54,380
+{\fn方正大黑简体\fs12\shad0}放开她！{\r}
+{\fn方正大黑简体\fs8\shad0}Leave her!{\r}
+
+210
+00:17:01,740 --> 00:17:05,040
+{\fn方正大黑简体\fs12\shad0}信赖天主！{\r}
+{\fn方正大黑简体\fs8\shad0}Trust in God!{\r}
+
+211
+00:18:02,030 --> 00:18:03,050
+{\fn方正大黑简体\fs12\shad0}罗特{\r}
+{\fn方正大黑简体\fs8\shad0}Lot!{\r}
+
+212
+00:18:05,400 --> 00:18:06,910
+{\fn方正大黑简体\fs12\shad0}哦 罗特{\r}
+{\fn方正大黑简体\fs8\shad0}Oh, Lot!{\r}
+
+213
+00:18:12,900 --> 00:18:16,750
+{\fn方正大黑简体\fs12\shad0}我们以寡敌众{\r}
+{\fn方正大黑简体\fs8\shad0}So few of us against so many.{\r}
+
+214
+00:18:18,900 --> 00:18:20,820
+{\fn方正大黑简体\fs12\shad0}天主与我们同在{\r}
+{\fn方正大黑简体\fs8\shad0}God is with us.{\r}
+
+215
+00:18:21,070 --> 00:18:22,150
+{\fn方正大黑简体\fs12\shad0}亚巴郎{\r}
+{\fn方正大黑简体\fs8\shad0}Abraham.{\r}
+
+216
+00:18:22,650 --> 00:18:24,340
+{\fn方正大黑简体\fs12\shad0}我们还是要去索多玛{\r}
+{\fn方正大黑简体\fs8\shad0}We're carrying on to Sodom.{\r}
+
+217
+00:18:31,900 --> 00:18:35,540
+{\fn方正大黑简体\fs12\shad0}我们聚在一处吧{\r}
+{\fn方正大黑简体\fs8\shad0}We must stay together.{\r}
+
+218
+00:18:37,170 --> 00:18:37,970
+{\fn方正大黑简体\fs12\shad0}不{\r}
+{\fn方正大黑简体\fs8\shad0}No.{\r}
+
+219
+00:18:40,950 --> 00:18:42,100
+{\fn方正大黑简体\fs12\shad0}不  叔叔{\r}
+{\fn方正大黑简体\fs8\shad0}No, uncle.{\r}
+
+220
+00:18:45,250 --> 00:18:46,280
+{\fn方正大黑简体\fs12\shad0}我们不能回去{\r}
+{\fn方正大黑简体\fs8\shad0}We can't.{\r}
+
+221
+00:18:48,390 --> 00:18:49,740
+{\fn方正大黑简体\fs12\shad0}我们得继续走我们的路{\r}
+{\fn方正大黑简体\fs8\shad0}We have to carry on.{\r}
+
+222
+00:18:57,300 --> 00:18:58,160
+{\fn方正大黑简体\fs12\shad0}我们走{\r}
+{\fn方正大黑简体\fs8\shad0}Let's go.{\r}
+
+223
+00:19:26,630 --> 00:19:27,830
+{\fn方正大黑简体\fs12\shad0}亚巴郎{\r}
+{\fn方正大黑简体\fs8\shad0}Abraham?{\r}
+
+224
+00:19:29,330 --> 00:19:30,680
+{\fn方正大黑简体\fs12\shad0}进来吧{\r}
+{\fn方正大黑简体\fs8\shad0}Come inside.{\r}
+
+225
+00:19:30,990 --> 00:19:32,280
+{\fn方正大黑简体\fs12\shad0}这么多星星{\r}
+{\fn方正大黑简体\fs8\shad0}The stars.{\r}
+
+226
+00:19:34,390 --> 00:19:36,000
+{\fn方正大黑简体\fs12\shad0}-亚巴郎  -星星{\r}
+{\fn方正大黑简体\fs8\shad0}- Abraham? - The stars.{\r}
+
+227
+00:19:36,600 --> 00:19:39,550
+{\fn方正大黑简体\fs12\shad0}满天的星星  来数数看{\r}
+{\fn方正大黑简体\fs8\shad0}All of them. Count them.{\r}
+
+228
+00:19:39,550 --> 00:19:41,840
+{\fn方正大黑简体\fs12\shad0}-亚巴郎  -来数数看，数不尽的星星{\r}
+{\fn方正大黑简体\fs8\shad0}- Abraham. - Count them, count them.{\r}
+
+229
+00:19:46,710 --> 00:19:48,080
+{\fn方正大黑简体\fs12\shad0}我们的造物主{\r}
+{\fn方正大黑简体\fs8\shad0}Our creator....{\r}
+
+230
+00:19:48,650 --> 00:19:50,400
+{\fn方正大黑简体\fs12\shad0}他创造了星辰{\r}
+{\fn方正大黑简体\fs8\shad0}...who made the stars,{\r}
+
+231
+00:19:50,930 --> 00:19:53,960
+{\fn方正大黑简体\fs12\shad0}也会赐给我们后裔多如星辰{\r}
+{\fn方正大黑简体\fs8\shad0}will give us as many descendants{\r}
+
+232
+00:19:54,490 --> 00:19:57,200
+{\fn方正大黑简体\fs12\shad0}世代居住在自己的土地上{\r}
+{\fn方正大黑简体\fs8\shad0}to populate our land.{\r}
+
+233
+00:19:59,480 --> 00:20:02,640
+{\fn方正大黑简体\fs12\shad0}他答应过  你会有孩子的{\r}
+{\fn方正大黑简体\fs8\shad0}He has promised. You will have a child.{\r}
+
+234
+00:20:02,640 --> 00:20:03,650
+{\fn方正大黑简体\fs12\shad0}-我不会有  -你会的{\r}
+{\fn方正大黑简体\fs8\shad0}- I won't. - You will!{\r}
+
+235
+00:20:03,650 --> 00:20:04,860
+{\fn方正大黑简体\fs12\shad0}不会{\r}
+{\fn方正大黑简体\fs8\shad0}I won't.{\r}
+
+236
+00:20:05,870 --> 00:20:07,310
+{\fn方正大黑简体\fs12\shad0}我不能{\r}
+{\fn方正大黑简体\fs8\shad0}I can't.{\r}
+
+237
+00:20:09,160 --> 00:20:10,760
+{\fn方正大黑简体\fs12\shad0}我的年纪太大了{\r}
+{\fn方正大黑简体\fs8\shad0}It's too late for me.{\r}
+
+238
+00:20:16,530 --> 00:20:18,550
+{\fn方正大黑简体\fs12\shad0}但你还是有机会的{\r}
+{\fn方正大黑简体\fs8\shad0}For you there's still a chance.{\r}
+
+239
+00:20:25,670 --> 00:20:26,640
+{\fn方正大黑简体\fs12\shad0}她{\r}
+{\fn方正大黑简体\fs8\shad0}Her.{\r}
+
+240
+00:20:30,130 --> 00:20:31,250
+{\fn方正大黑简体\fs12\shad0}哈加尔{\r}
+{\fn方正大黑简体\fs8\shad0}Hagar.{\r}
+
+241
+00:20:32,050 --> 00:20:33,470
+{\fn方正大黑简体\fs12\shad0}那个婢女{\r}
+{\fn方正大黑简体\fs8\shad0}The servant girl.{\r}
+
+242
+00:20:39,340 --> 00:20:40,240
+{\fn方正大黑简体\fs12\shad0}不{\r}
+{\fn方正大黑简体\fs8\shad0}No.{\r}
+
+243
+00:20:41,440 --> 00:20:43,310
+{\fn方正大黑简体\fs12\shad0}不  不行{\r}
+{\fn方正大黑简体\fs8\shad0}No, no, no.{\r}
+
+244
+00:20:43,830 --> 00:20:44,750
+{\fn方正大黑简体\fs12\shad0}不可以{\r}
+{\fn方正大黑简体\fs8\shad0}No.{\r}
+
+245
+00:20:52,960 --> 00:20:53,990
+{\fn方正大黑简体\fs12\shad0}可以的{\r}
+{\fn方正大黑简体\fs8\shad0}Yes.{\r}
+
+246
+00:22:09,330 --> 00:22:13,830
+{\fn方正大黑简体\fs12\shad0}十四年后{\r}
+
+247
+00:22:15,110 --> 00:22:16,210
+{\fn方正大黑简体\fs12\shad0}快点{\r}
+{\fn方正大黑简体\fs8\shad0}Come on!{\r}
+
+248
+00:22:18,670 --> 00:22:20,310
+{\fn方正大黑简体\fs12\shad0}拿稳了  依市玛耳{\r}
+{\fn方正大黑简体\fs8\shad0}Hold it steady, Ishmael.{\r}
+
+249
+00:22:31,760 --> 00:22:33,370
+{\fn方正大黑简体\fs12\shad0}撒辣依  你看到了吗{\r}
+{\fn方正大黑简体\fs8\shad0}Sarah, did you see that?{\r}
+
+250
+00:22:33,370 --> 00:22:34,460
+{\fn方正大黑简体\fs12\shad0}看到了吗{\r}
+{\fn方正大黑简体\fs8\shad0}Did you see that?{\r}
+
+251
+00:22:34,790 --> 00:22:36,350
+{\fn方正大黑简体\fs12\shad0}我的好儿子{\r}
+{\fn方正大黑简体\fs8\shad0}Oh! My boy!{\r}
+
+252
+00:22:36,350 --> 00:22:37,830
+{\fn方正大黑简体\fs12\shad0}我的好儿子{\r}
+{\fn方正大黑简体\fs8\shad0}My boy!{\r}
+
+253
+00:22:41,530 --> 00:22:43,180
+{\fn方正大黑简体\fs12\shad0}我的好儿子{\r}
+{\fn方正大黑简体\fs8\shad0}My boy.{\r}
+
+254
+00:22:46,210 --> 00:22:47,820
+{\fn方正大黑简体\fs12\shad0}是你的好儿子{\r}
+{\fn方正大黑简体\fs8\shad0}Your boy.{\r}
+
+255
+00:22:51,010 --> 00:22:52,170
+{\fn方正大黑简体\fs12\shad0}跟你妈妈去吧{\r}
+{\fn方正大黑简体\fs8\shad0}Go with your mother.{\r}
+
+256
+00:23:14,210 --> 00:23:15,330
+{\fn方正大黑简体\fs12\shad0}亚巴郎{\r}
+{\fn方正大黑简体\fs8\shad0}Abraham.{\r}
+
+257
+00:23:54,960 --> 00:23:56,410
+{\fn方正大黑简体\fs12\shad0}欢迎  我主{\r}
+{\fn方正大黑简体\fs8\shad0}Welcome, Lord.{\r}
+
+258
+00:24:01,450 --> 00:24:04,150
+{\fn方正大黑简体\fs12\shad0}请进来说话{\r}
+{\fn方正大黑简体\fs8\shad0}Please join me.{\r}
+
+259
+00:24:05,360 --> 00:24:07,560
+{\fn方正大黑简体\fs12\shad0}端水过来  为客人备好食物{\r}
+{\fn方正大黑简体\fs8\shad0}Bring water. Prepare food for our visitors.{\r}
+
+260
+00:24:07,560 --> 00:24:08,760
+{\fn方正大黑简体\fs12\shad0}是  主人{\r}
+{\fn方正大黑简体\fs8\shad0}Yes, master.{\r}
+
+261
+00:24:26,070 --> 00:24:27,460
+{\fn方正大黑简体\fs12\shad0}你们是远道而来吗{\r}
+{\fn方正大黑简体\fs8\shad0}Have you traveled far?{\r}
+
+262
+00:24:28,700 --> 00:24:31,290
+{\fn方正大黑简体\fs12\shad0}是的  从很远的地方来{\r}
+{\fn方正大黑简体\fs8\shad0}Yes. A long way.{\r}
+
+263
+00:24:33,850 --> 00:24:36,880
+{\fn方正大黑简体\fs12\shad0}亚巴郎  你的妻子撒辣在哪里？{\r}
+{\fn方正大黑简体\fs8\shad0}Abraham. Where is your wife?{\r}
+
+264
+00:24:41,940 --> 00:24:42,940
+{\fn方正大黑简体\fs12\shad0}在帐幕里{\r}
+{\fn方正大黑简体\fs8\shad0}In there.{\r}
+
+265
+00:24:45,520 --> 00:24:49,110
+{\fn方正大黑简体\fs12\shad0}明年  你的妻子撒辣要有一个儿子{\r}
+{\fn方正大黑简体\fs8\shad0}Next year, Sarah will have a son.{\r}
+
+266
+00:24:58,140 --> 00:24:59,470
+{\fn方正大黑简体\fs12\shad0}你为什么笑？{\r}
+{\fn方正大黑简体\fs8\shad0}Why do you laugh?{\r}
+
+267
+00:25:05,730 --> 00:25:08,490
+{\fn方正大黑简体\fs12\shad0}-我没有笑  -不，你实在笑了{\r}
+{\fn方正大黑简体\fs8\shad0}- I didn't laugh. - You did.{\r}
+
+268
+00:25:09,910 --> 00:25:11,500
+{\fn方正大黑简体\fs12\shad0}孩子生下之后{\r}
+{\fn方正大黑简体\fs8\shad0}And when you have a son,{\r}
+
+269
+00:25:11,850 --> 00:25:14,520
+{\fn方正大黑简体\fs12\shad0}要给他起名叫做依撒格{\r}
+{\fn方正大黑简体\fs8\shad0}you will name him Isaac,{\r}
+
+270
+00:25:15,720 --> 00:25:18,380
+{\fn方正大黑简体\fs12\shad0}意为笑声{\r}
+{\fn方正大黑简体\fs8\shad0}which means laughter.{\r}
+
+271
+00:25:26,820 --> 00:25:28,620
+{\fn方正大黑简体\fs12\shad0}感谢你的热情款待{\r}
+{\fn方正大黑简体\fs8\shad0}Thank you for your hospitality.{\r}
+
+272
+00:25:29,420 --> 00:25:30,560
+{\fn方正大黑简体\fs12\shad0}我们得走了{\r}
+{\fn方正大黑简体\fs8\shad0}We must go.{\r}
+
+273
+00:25:31,020 --> 00:25:32,480
+{\fn方正大黑简体\fs12\shad0}路上需要我帮忙吗{\r}
+{\fn方正大黑简体\fs8\shad0}Can I help you on your way?{\r}
+
+274
+00:25:34,520 --> 00:25:35,650
+{\fn方正大黑简体\fs12\shad0}你们要去哪里{\r}
+{\fn方正大黑简体\fs8\shad0}Where are you going?{\r}
+
+275
+00:25:38,380 --> 00:25:40,430
+{\fn方正大黑简体\fs12\shad0}去决定索多玛的命运{\r}
+{\fn方正大黑简体\fs8\shad0}To decide the fate of Sodom.{\r}
+
+276
+00:25:48,360 --> 00:25:51,860
+{\fn方正大黑简体\fs12\shad0}索多玛{\r}
+
+277
+00:25:52,120 --> 00:25:53,400
+{\fn方正大黑简体\fs12\shad0}滚开{\r}
+{\fn方正大黑简体\fs8\shad0}Get out of here!{\r}
+
+278
+00:26:06,100 --> 00:26:10,950
+{\fn方正大黑简体\fs12\shad0}索多玛变得堕落  成了罪恶之城{\r}
+{\fn方正大黑简体\fs8\shad0}Sodom has become corrupt, a city of sin.{\r}
+
+279
+00:26:13,950 --> 00:26:16,150
+{\fn方正大黑简体\fs12\shad0}但我的侄子罗特生活在那{\r}
+{\fn方正大黑简体\fs8\shad0}But my nephew Lot lives there.{\r}
+
+280
+00:26:16,660 --> 00:26:17,930
+{\fn方正大黑简体\fs12\shad0}他们全家都在那{\r}
+{\fn方正大黑简体\fs8\shad0}He has a family.{\r}
+
+281
+00:26:21,390 --> 00:26:24,480
+{\fn方正大黑简体\fs12\shad0}控告索多玛的声音实在很大{\r}
+{\fn方正大黑简体\fs8\shad0}The outcry against Sodom is great.{\r}
+
+282
+00:26:25,120 --> 00:26:27,550
+{\fn方正大黑简体\fs12\shad0}他们的罪恶实在深重{\r}
+{\fn方正大黑简体\fs8\shad0}Its sins are very grave.{\r}
+
+283
+00:26:32,970 --> 00:26:34,700
+{\fn方正大黑简体\fs12\shad0}你们要毁灭它吗{\r}
+{\fn方正大黑简体\fs8\shad0}You're going to destroy it?{\r}
+
+284
+00:26:35,100 --> 00:26:36,510
+{\fn方正大黑简体\fs12\shad0}整座城市？{\r}
+{\fn方正大黑简体\fs8\shad0}The whole city?{\r}
+
+285
+00:26:45,360 --> 00:26:46,740
+{\fn方正大黑简体\fs12\shad0}好姑娘{\r}
+{\fn方正大黑简体\fs8\shad0}Good girl!{\r}
+
+286
+00:26:49,050 --> 00:26:51,300
+{\fn方正大黑简体\fs12\shad0}你是公义的天主{\r}
+{\fn方正大黑简体\fs8\shad0}You are a just God.{\r}
+
+287
+00:26:52,470 --> 00:26:55,360
+{\fn方正大黑简体\fs12\shad0}你真要将义人{\r}
+{\fn方正大黑简体\fs8\shad0}Will you destroy the good men...{\r}
+
+288
+00:26:55,360 --> 00:26:57,550
+{\fn方正大黑简体\fs12\shad0}同恶人一起消灭么？{\r}
+{\fn方正大黑简体\fs8\shad0}- This way. - ...along with the evil ones?{\r}
+
+289
+00:26:59,480 --> 00:27:01,710
+{\fn方正大黑简体\fs12\shad0}恳求你！  救命！{\r}
+{\fn方正大黑简体\fs8\shad0}Please! Help!{\r}
+
+290
+00:27:02,500 --> 00:27:05,780
+{\fn方正大黑简体\fs12\shad0}救救我们！  救命！{\r}
+{\fn方正大黑简体\fs8\shad0}Help us! Help!{\r}
+
+291
+00:27:07,020 --> 00:27:10,190
+{\fn方正大黑简体\fs12\shad0}假如城里有五十个义人，你还要消灭么？{\r}
+{\fn方正大黑简体\fs8\shad0}What if there were 50 good people in Sodom?{\r}
+
+292
+00:27:11,020 --> 00:27:13,720
+{\fn方正大黑简体\fs12\shad0}不为其中的那五十个义人，赦免那地方吗？{\r}
+{\fn方正大黑简体\fs8\shad0}Will they suffer the same fate as the wicked?{\r}
+
+293
+00:27:15,120 --> 00:27:16,850
+{\fn方正大黑简体\fs12\shad0}请救救我们{\r}
+{\fn方正大黑简体\fs8\shad0}Please help us!{\r}
+
+294
+00:27:16,850 --> 00:27:18,190
+{\fn方正大黑简体\fs12\shad0}我们会考验他们{\r}
+{\fn方正大黑简体\fs8\shad0}We will test them.{\r}
+
+295
+00:27:18,790 --> 00:27:22,730
+{\fn方正大黑简体\fs12\shad0}若是我的天使能在索多玛找出五十个义人{\r}
+{\fn方正大黑简体\fs8\shad0}If my angels find 50 righteous people in Sodom,{\r}
+
+296
+00:27:23,420 --> 00:27:25,730
+{\fn方正大黑简体\fs12\shad0}为了他们我要赦免整座城市{\r}
+{\fn方正大黑简体\fs8\shad0}I will spare the whole city.{\r}
+
+297
+00:27:27,870 --> 00:27:30,500
+{\fn方正大黑简体\fs12\shad0}-找到那些囚犯  -求求你  帮帮我们{\r}
+{\fn方正大黑简体\fs8\shad0}- Find these prisoners! - Please, help us.{\r}
+
+298
+00:27:30,580 --> 00:27:33,120
+{\fn方正大黑简体\fs12\shad0}-他们往这边跑了  -救救我们{\r}
+{\fn方正大黑简体\fs8\shad0}- They went this way! - Help us.{\r}
+
+299
+00:27:33,120 --> 00:27:35,470
+{\fn方正大黑简体\fs12\shad0}假若只有三十个呢{\r}
+{\fn方正大黑简体\fs8\shad0}Or fewer? 30.{\r}
+
+300
+00:27:35,890 --> 00:27:36,860
+{\fn方正大黑简体\fs12\shad0}二十个{\r}
+{\fn方正大黑简体\fs8\shad0}20.{\r}
+
+301
+00:27:37,390 --> 00:27:39,930
+{\fn方正大黑简体\fs12\shad0}你不会毁灭他们的  是吗{\r}
+{\fn方正大黑简体\fs8\shad0}You would not destroy them, surely?{\r}
+
+302
+00:27:39,930 --> 00:27:41,900
+{\fn方正大黑简体\fs12\shad0}-求你了  -在那边{\r}
+{\fn方正大黑简体\fs8\shad0}- Please! - Down there!{\r}
+
+303
+00:27:41,930 --> 00:27:43,050
+{\fn方正大黑简体\fs12\shad0}救救我们{\r}
+{\fn方正大黑简体\fs8\shad0}Help us!{\r}
+
+304
+00:27:44,080 --> 00:27:45,840
+{\fn方正大黑简体\fs12\shad0}-拜托  -这边{\r}
+{\fn方正大黑简体\fs8\shad0}- Please. - This way.{\r}
+
+305
+00:27:46,300 --> 00:27:49,980
+{\fn方正大黑简体\fs12\shad0}假如在那里找到十个义人怎样？{\r}
+{\fn方正大黑简体\fs8\shad0}What if there were ten righteous men in Sodom?{\r}
+
+306
+00:27:50,750 --> 00:27:52,860
+{\fn方正大黑简体\fs12\shad0}你不存留他们么？{\r}
+{\fn方正大黑简体\fs8\shad0}Would you not save them?{\r}
+
+307
+00:27:53,300 --> 00:27:56,090
+{\fn方正大黑简体\fs12\shad0}罗特  你做什么  他们是什么人{\r}
+{\fn方正大黑简体\fs8\shad0}Lot. What are you doing? Who are these people?{\r}
+
+308
+00:27:56,490 --> 00:27:57,780
+{\fn方正大黑简体\fs12\shad0}他们需要我们的帮助{\r}
+{\fn方正大黑简体\fs8\shad0}They need our help.{\r}
+
+309
+00:28:01,020 --> 00:28:02,480
+{\fn方正大黑简体\fs12\shad0}我会竭尽全力帮助他们{\r}
+{\fn方正大黑简体\fs8\shad0}I'll do what I can for you.{\r}
+
+310
+00:28:02,490 --> 00:28:04,430
+{\fn方正大黑简体\fs12\shad0}即使只有十个{\r}
+{\fn方正大黑简体\fs8\shad0}Even if I find only ten,{\r}
+
+311
+00:28:04,830 --> 00:28:07,180
+{\fn方正大黑简体\fs12\shad0}我也会赦免整座城市{\r}
+{\fn方正大黑简体\fs8\shad0}I will save the whole city.{\r}
+
+312
+00:28:07,180 --> 00:28:10,070
+{\fn方正大黑简体\fs12\shad0}-这边  -给我出来{\r}
+{\fn方正大黑简体\fs8\shad0}- This way! - Show yourselves!{\r}
+
+313
+00:28:21,380 --> 00:28:22,350
+{\fn方正大黑简体\fs12\shad0}那是什么？{\r}
+{\fn方正大黑简体\fs8\shad0}What's that?{\r}
+
+314
+00:28:23,120 --> 00:28:23,950
+{\fn方正大黑简体\fs12\shad0}在门后面{\r}
+{\fn方正大黑简体\fs8\shad0}Behind the door!{\r}
+
+315
+00:28:23,950 --> 00:28:24,970
+{\fn方正大黑简体\fs12\shad0}那边{\r}
+{\fn方正大黑简体\fs8\shad0}Over there!{\r}
+
+316
+00:28:25,280 --> 00:28:28,230
+{\fn方正大黑简体\fs12\shad0}开门  开门{\r}
+{\fn方正大黑简体\fs8\shad0}Open the door! Open the door!{\r}
+
+317
+00:28:29,760 --> 00:28:31,360
+{\fn方正大黑简体\fs12\shad0}把陌生人交出来{\r}
+{\fn方正大黑简体\fs8\shad0}Give us the strangers!{\r}
+
+318
+00:28:32,100 --> 00:28:33,640
+{\fn方正大黑简体\fs12\shad0}把他们交出来{\r}
+{\fn方正大黑简体\fs8\shad0}Bring them out!{\r}
+
+319
+00:28:34,650 --> 00:28:35,990
+{\fn方正大黑简体\fs12\shad0}把他们交出来{\r}
+{\fn方正大黑简体\fs8\shad0}Bring them out!{\r}
+
+320
+00:28:36,950 --> 00:28:39,150
+{\fn方正大黑简体\fs12\shad0}-他们是我的客人  -让我们过去{\r}
+{\fn方正大黑简体\fs8\shad0}- They are guests in my house. - Let us pass!{\r}
+
+321
+00:28:39,150 --> 00:28:40,830
+{\fn方正大黑简体\fs12\shad0}-别再纠缠不休了  -我们连你也不会放过{\r}
+{\fn方正大黑简体\fs8\shad0}- Let them be. - We'll take you too!{\r}
+
+322
+00:28:40,830 --> 00:28:43,020
+{\fn方正大黑简体\fs12\shad0}开门  给我出来{\r}
+{\fn方正大黑简体\fs8\shad0}Open the door! Show yourselves!{\r}
+
+323
+00:28:58,840 --> 00:29:00,020
+{\fn方正大黑简体\fs12\shad0}让开{\r}
+{\fn方正大黑简体\fs8\shad0}Step aside.{\r}
+
+324
+00:29:24,070 --> 00:29:26,200
+{\fn方正大黑简体\fs12\shad0}-我们必须马上离开  -我看不见了{\r}
+{\fn方正大黑简体\fs8\shad0}- We must go. - I can't see!{\r}
+
+325
+00:29:26,700 --> 00:29:27,630
+{\fn方正大黑简体\fs12\shad0}快点{\r}
+{\fn方正大黑简体\fs8\shad0}Come on.{\r}
+
+326
+00:29:30,390 --> 00:29:32,730
+{\fn方正大黑简体\fs12\shad0}托亚巴郎的福  上主要存留你们{\r}
+{\fn方正大黑简体\fs8\shad0}For Abraham's sake, the Lord is saving you.{\r}
+
+327
+00:29:32,740 --> 00:29:34,750
+{\fn方正大黑简体\fs12\shad0}一直跑 不要停{\r}
+{\fn方正大黑简体\fs8\shad0}Keep moving. That's it.{\r}
+
+328
+00:29:36,160 --> 00:29:37,050
+{\fn方正大黑简体\fs12\shad0}等等{\r}
+{\fn方正大黑简体\fs8\shad0}Wait.{\r}
+
+329
+00:29:39,030 --> 00:29:41,180
+{\fn方正大黑简体\fs12\shad0}他们在那儿{\r}
+{\fn方正大黑简体\fs8\shad0}There they are!{\r}
+
+330
+00:30:15,140 --> 00:30:16,030
+{\fn方正大黑简体\fs12\shad0}我们走{\r}
+{\fn方正大黑简体\fs8\shad0}Let's go.{\r}
+
+331
+00:30:38,880 --> 00:30:40,970
+{\fn方正大黑简体\fs12\shad0}要有信德  亚巴郎{\r}
+{\fn方正大黑简体\fs8\shad0}Have faith, Abraham.{\r}
+
+332
+00:31:26,010 --> 00:31:27,220
+{\fn方正大黑简体\fs12\shad0}你们现在安全了{\r}
+{\fn方正大黑简体\fs8\shad0}You are safe now.{\r}
+
+333
+00:31:29,140 --> 00:31:32,420
+{\fn方正大黑简体\fs12\shad0}你们必须离开  这座城市即将受到惩罚{\r}
+{\fn方正大黑简体\fs8\shad0}You must get away. The city is being punished.{\r}
+
+334
+00:31:34,930 --> 00:31:36,120
+{\fn方正大黑简体\fs12\shad0}一直跑 不要停{\r}
+{\fn方正大黑简体\fs8\shad0}keep moving. Come on!{\r}
+
+335
+00:31:37,600 --> 00:31:38,590
+{\fn方正大黑简体\fs12\shad0}一直跑{\r}
+{\fn方正大黑简体\fs8\shad0}Keep moving.{\r}
+
+336
+00:31:40,370 --> 00:31:41,230
+{\fn方正大黑简体\fs12\shad0}一直跑  别停下{\r}
+{\fn方正大黑简体\fs8\shad0}Keep moving. Come on!{\r}
+
+337
+00:31:41,230 --> 00:31:44,000
+{\fn方正大黑简体\fs12\shad0}不可回望这座罪孽之城{\r}
+{\fn方正大黑简体\fs8\shad0}Do not look back at the city of sin.{\r}
+
+338
+00:31:44,080 --> 00:31:45,410
+{\fn方正大黑简体\fs12\shad0}相信天主{\r}
+{\fn方正大黑简体\fs8\shad0}Believe in God.{\r}
+
+339
+00:31:46,010 --> 00:31:47,370
+{\fn方正大黑简体\fs12\shad0}不要回头{\r}
+{\fn方正大黑简体\fs8\shad0}Do not look back!{\r}
+
+340
+00:31:50,020 --> 00:31:50,930
+{\fn方正大黑简体\fs12\shad0}罗特{\r}
+{\fn方正大黑简体\fs8\shad0}Lot.{\r}
+
+341
+00:32:00,930 --> 00:32:04,650
+{\fn方正大黑简体\fs12\shad0}不！{\r}
+{\fn方正大黑简体\fs8\shad0}No!{\r}
+
+342
+00:32:07,120 --> 00:32:08,780
+{\fn方正大黑简体\fs12\shad0}不要回头{\r}
+{\fn方正大黑简体\fs8\shad0}Don't look back!{\r}
+
+343
+00:32:11,770 --> 00:32:14,590
+{\fn方正大黑简体\fs12\shad0}不要{\r}
+{\fn方正大黑简体\fs8\shad0}No!{\r}
+
+344
+00:32:23,760 --> 00:32:26,330
+{\fn方正大黑简体\fs12\shad0}罗特之妻化为一根盐柱{\r}
+{\fn方正大黑简体\fs8\shad0}Lot's wife is turned into a pillar of salt{\r}
+
+345
+00:32:26,330 --> 00:32:28,070
+{\fn方正大黑简体\fs12\shad0}因违背天主的话{\r}
+{\fn方正大黑简体\fs8\shad0}for disobeying God.{\r}
+
+346
+00:32:29,620 --> 00:32:32,760
+{\fn方正大黑简体\fs12\shad0}罗特和他的女儿逃到山里{\r}
+{\fn方正大黑简体\fs8\shad0}Lot and his daughters flee to the mountains{\r}
+
+347
+00:32:33,000 --> 00:32:35,280
+{\fn方正大黑简体\fs12\shad0}再也没有见过亚巴郎{\r}
+{\fn方正大黑简体\fs8\shad0}never to see Abraham again.{\r}
+
+348
+00:32:52,970 --> 00:32:53,910
+{\fn方正大黑简体\fs12\shad0}她怎么样了{\r}
+{\fn方正大黑简体\fs8\shad0}How is she?{\r}
+
+349
+00:32:54,690 --> 00:32:56,240
+{\fn方正大黑简体\fs12\shad0}她怎么样了{\r}
+{\fn方正大黑简体\fs8\shad0}How is she?{\r}
+
+350
+00:33:52,640 --> 00:33:53,870
+{\fn方正大黑简体\fs12\shad0}是个男孩{\r}
+{\fn方正大黑简体\fs8\shad0}A boy.{\r}
+
+351
+00:33:55,520 --> 00:33:56,600
+{\fn方正大黑简体\fs12\shad0}依撒格{\r}
+{\fn方正大黑简体\fs8\shad0}Isaac.{\r}
+
+352
+00:33:57,360 --> 00:33:58,830
+{\fn方正大黑简体\fs12\shad0}如他所应许的{\r}
+{\fn方正大黑简体\fs8\shad0}As he promised.{\r}
+
+353
+00:34:38,110 --> 00:34:39,200
+{\fn方正大黑简体\fs12\shad0}你们的面包{\r}
+{\fn方正大黑简体\fs8\shad0}Your bread.{\r}
+
+354
+00:34:42,120 --> 00:34:43,930
+{\fn方正大黑简体\fs12\shad0}吃吧  依市玛耳{\r}
+{\fn方正大黑简体\fs8\shad0}Eat your food, Ishmael.{\r}
+
+355
+00:34:47,100 --> 00:34:47,810
+{\fn方正大黑简体\fs12\shad0}依市玛耳{\r}
+{\fn方正大黑简体\fs8\shad0}Ishmael!{\r}
+
+356
+00:34:47,810 --> 00:34:52,380
+{\fn方正大黑简体\fs12\shad0}-快来看  快来  -来了{\r}
+{\fn方正大黑简体\fs8\shad0}- Come and see! Hurry! - I am!{\r}
+
+357
+00:34:56,750 --> 00:34:57,770
+{\fn方正大黑简体\fs12\shad0}做得不错{\r}
+{\fn方正大黑简体\fs8\shad0}It's good.{\r}
+
+358
+00:35:20,910 --> 00:35:21,820
+{\fn方正大黑简体\fs12\shad0}撒辣{\r}
+{\fn方正大黑简体\fs8\shad0}Sarah?{\r}
+
+359
+00:35:23,190 --> 00:35:24,270
+{\fn方正大黑简体\fs12\shad0}怎么了{\r}
+{\fn方正大黑简体\fs8\shad0}What's the matter?{\r}
+
+360
+00:35:24,570 --> 00:35:26,930
+{\fn方正大黑简体\fs12\shad0}那个女人以为她的儿子会{\r}
+{\fn方正大黑简体\fs8\shad0}That woman thinks her boy is going to inherit{\r}
+
+361
+00:35:26,930 --> 00:35:28,530
+{\fn方正大黑简体\fs12\shad0}承受应当属于依撒格的一切{\r}
+{\fn方正大黑简体\fs8\shad0}what rightfully belongs to Isaac.{\r}
+
+362
+00:35:28,530 --> 00:35:29,610
+{\fn方正大黑简体\fs12\shad0}什么意思{\r}
+{\fn方正大黑简体\fs8\shad0}What do you mean?{\r}
+
+363
+00:35:34,230 --> 00:35:37,050
+{\fn方正大黑简体\fs12\shad0}亚巴郎  我们一族的领导人会是谁{\r}
+{\fn方正大黑简体\fs8\shad0}Who is to be the first of all our tribe, Abraham?{\r}
+
+364
+00:35:37,810 --> 00:35:40,960
+{\fn方正大黑简体\fs12\shad0}天上引领众星的星辰又会是哪一颗{\r}
+{\fn方正大黑简体\fs8\shad0}The first star of all those stars in the heavens?{\r}
+
+365
+00:35:43,270 --> 00:35:44,450
+{\fn方正大黑简体\fs12\shad0}是我们的儿子{\r}
+{\fn方正大黑简体\fs8\shad0}Our son?{\r}
+
+366
+00:35:46,150 --> 00:35:47,450
+{\fn方正大黑简体\fs12\shad0}还是她的儿子{\r}
+{\fn方正大黑简体\fs8\shad0}Or hers?{\r}
+
+367
+00:35:47,510 --> 00:35:49,410
+{\fn方正大黑简体\fs12\shad0}-撒辣  我... -亚巴郎{\r}
+{\fn方正大黑简体\fs8\shad0}- Sarah, I... - Abraham.{\r}
+
+368
+00:35:49,610 --> 00:35:50,990
+{\fn方正大黑简体\fs12\shad0}亚巴郎{\r}
+{\fn方正大黑简体\fs8\shad0}Abraham!{\r}
+
+369
+00:35:51,270 --> 00:35:52,800
+{\fn方正大黑简体\fs12\shad0}你决定{\r}
+{\fn方正大黑简体\fs8\shad0}You decide.{\r}
+
+370
+00:35:56,050 --> 00:35:57,230
+{\fn方正大黑简体\fs12\shad0}妈妈{\r}
+{\fn方正大黑简体\fs8\shad0}Mama.{\r}
+
+371
+00:35:59,180 --> 00:36:00,940
+{\fn方正大黑简体\fs12\shad0}或者让天主来决定{\r}
+{\fn方正大黑简体\fs8\shad0}Or let God decide.{\r}
+
+372
+00:36:45,130 --> 00:36:46,080
+{\fn方正大黑简体\fs12\shad0}勇敢一点{\r}
+{\fn方正大黑简体\fs8\shad0}Be brave.{\r}
+
+373
+00:36:55,560 --> 00:36:59,050
+{\fn方正大黑简体\fs12\shad0}天主向他保证  哈加尔和依市玛耳会活下来{\r}
+{\fn方正大黑简体\fs8\shad0}Assured by God that they will survive,{\r}
+
+374
+00:36:59,530 --> 00:37:03,700
+{\fn方正大黑简体\fs12\shad0}于是亚巴郎将他们送去荒野{\r}
+{\fn方正大黑简体\fs8\shad0}Abraham sends Hagar and Ishmael into the wilderness.{\r}
+
+375
+00:37:16,580 --> 00:37:18,140
+{\fn方正大黑简体\fs12\shad0}再见了  依市玛耳{\r}
+{\fn方正大黑简体\fs8\shad0}Goodbye, Ishmael.{\r}
+
+376
+00:37:20,560 --> 00:37:22,180
+{\fn方正大黑简体\fs12\shad0}哦 我的孩子{\r}
+{\fn方正大黑简体\fs8\shad0}Oh, my boy.{\r}
+
+377
+00:37:22,750 --> 00:37:23,900
+{\fn方正大黑简体\fs12\shad0}我的孩子{\r}
+{\fn方正大黑简体\fs8\shad0}My boy.{\r}
+
+378
+00:37:25,350 --> 00:37:29,930
+{\fn方正大黑简体\fs12\shad0}待你长大之后  天主会赐予你众多子嗣{\r}
+{\fn方正大黑简体\fs8\shad0}When you grow up, God will bless you with many children.{\r}
+
+379
+00:37:55,700 --> 00:38:00,250
+{\fn方正大黑简体\fs12\shad0}十年后{\r}
+
+380
+00:38:05,470 --> 00:38:07,430
+{\fn方正大黑简体\fs12\shad0}我去给你做早点  依撒格{\r}
+{\fn方正大黑简体\fs8\shad0}Let me make you some breakfast, Isaac.{\r}
+
+381
+00:38:08,150 --> 00:38:11,390
+{\fn方正大黑简体\fs12\shad0}历经多年奋斗  亚巴郎终于认识到{\r}
+{\fn方正大黑简体\fs8\shad0}After years of struggle, Abraham has learned{\r}
+
+382
+00:38:11,390 --> 00:38:16,680
+{\fn方正大黑简体\fs12\shad0}被天主选中既是恩赐  也是考验{\r}
+{\fn方正大黑简体\fs8\shad0}that to be chosen by God is a blessing and a test.{\r}
+
+383
+00:38:17,670 --> 00:38:19,510
+{\fn方正大黑简体\fs12\shad0}他必须证明他的信德{\r}
+{\fn方正大黑简体\fs8\shad0}He must prove his faith{\r}
+
+384
+00:38:19,730 --> 00:38:22,400
+{\fn方正大黑简体\fs12\shad0}一次又一次{\r}
+{\fn方正大黑简体\fs8\shad0}again and again.{\r}
+
+385
+00:38:42,070 --> 00:38:43,360
+{\fn方正大黑简体\fs12\shad0}祭献？{\r}
+{\fn方正大黑简体\fs8\shad0}A sacrifice?{\r}
+
+386
+00:38:47,270 --> 00:38:48,090
+{\fn方正大黑简体\fs12\shad0}不{\r}
+{\fn方正大黑简体\fs8\shad0}No.{\r}
+
+387
+00:38:50,880 --> 00:38:51,770
+{\fn方正大黑简体\fs12\shad0}不{\r}
+{\fn方正大黑简体\fs8\shad0}No.{\r}
+
+388
+00:38:52,740 --> 00:38:55,920
+{\fn方正大黑简体\fs12\shad0}我表现出来的信德还不够吗{\r}
+{\fn方正大黑简体\fs8\shad0}Have I not shown you enough faith?{\r}
+
+389
+00:39:03,570 --> 00:39:04,930
+{\fn方正大黑简体\fs12\shad0}依撒格{\r}
+{\fn方正大黑简体\fs8\shad0}Isaac.{\r}
+
+390
+00:39:17,390 --> 00:39:18,390
+{\fn方正大黑简体\fs12\shad0}多吃点{\r}
+{\fn方正大黑简体\fs8\shad0}Eat up.{\r}
+
+391
+00:39:18,770 --> 00:39:20,120
+{\fn方正大黑简体\fs12\shad0}等你有了自己的孩子{\r}
+{\fn方正大黑简体\fs8\shad0}When you have children of your own,{\r}
+
+392
+00:39:20,120 --> 00:39:22,490
+{\fn方正大黑简体\fs12\shad0}你就会想让他们长得高高壮壮...{\r}
+{\fn方正大黑简体\fs8\shad0}you'll want them to grow up as big and...{\r}
+
+393
+00:39:22,790 --> 00:39:23,890
+{\fn方正大黑简体\fs12\shad0}亚巴郎{\r}
+{\fn方正大黑简体\fs8\shad0}Abraham?{\r}
+
+394
+00:39:27,830 --> 00:39:29,170
+{\fn方正大黑简体\fs12\shad0}怎么了{\r}
+{\fn方正大黑简体\fs8\shad0}What's the matter?{\r}
+
+395
+00:39:34,720 --> 00:39:36,410
+{\fn方正大黑简体\fs12\shad0}天主想要一个祭品{\r}
+{\fn方正大黑简体\fs8\shad0}God wants a sacrifice.{\r}
+
+396
+00:39:38,880 --> 00:39:39,810
+{\fn方正大黑简体\fs12\shad0}我的孩子{\r}
+{\fn方正大黑简体\fs8\shad0}My boy.{\r}
+
+397
+00:39:40,750 --> 00:39:41,820
+{\fn方正大黑简体\fs12\shad0}跟我来{\r}
+{\fn方正大黑简体\fs8\shad0}Come with me.{\r}
+
+398
+00:41:06,610 --> 00:41:09,830
+{\fn方正大黑简体\fs12\shad0}父亲  柴火有了{\r}
+{\fn方正大黑简体\fs8\shad0}Father, we have the firewood.{\r}
+
+399
+00:41:09,890 --> 00:41:11,170
+{\fn方正大黑简体\fs12\shad0}但是羊羔在哪里呢？{\r}
+{\fn方正大黑简体\fs8\shad0}But where's the lamb?{\r}
+
+400
+00:41:17,930 --> 00:41:21,470
+{\fn方正大黑简体\fs12\shad0}上主会准备好祭品的  孩子{\r}
+{\fn方正大黑简体\fs8\shad0}The Lord will provide a sacrifice, my son.{\r}
+
+401
+00:41:34,020 --> 00:41:35,370
+{\fn方正大黑简体\fs12\shad0}亚巴郎来问你要羊羔了吗{\r}
+{\fn方正大黑简体\fs8\shad0}Did Abraham take a lamb?{\r}
+
+402
+00:41:35,370 --> 00:41:36,720
+{\fn方正大黑简体\fs12\shad0}没有  夫人{\r}
+{\fn方正大黑简体\fs8\shad0}No, mistress.{\r}
+
+403
+00:41:57,780 --> 00:41:58,930
+{\fn方正大黑简体\fs12\shad0}把柴火拿来{\r}
+{\fn方正大黑简体\fs8\shad0}Bring the wood.{\r}
+
+404
+00:42:26,780 --> 00:42:29,240
+{\fn方正大黑简体\fs12\shad0}父亲  你要做什么{\r}
+{\fn方正大黑简体\fs8\shad0}Father? What are you doing?{\r}
+
+405
+00:42:33,720 --> 00:42:35,290
+{\fn方正大黑简体\fs12\shad0}父亲  你弄疼我了{\r}
+{\fn方正大黑简体\fs8\shad0}You're hurting me, father.{\r}
+
+406
+00:42:36,490 --> 00:42:37,670
+{\fn方正大黑简体\fs12\shad0}依撒格{\r}
+{\fn方正大黑简体\fs8\shad0}Isaac.{\r}
+
+407
+00:42:38,200 --> 00:42:40,740
+{\fn方正大黑简体\fs12\shad0}你一定要信赖天主{\r}
+{\fn方正大黑简体\fs8\shad0}You must trust in God.{\r}
+
+408
+00:43:13,860 --> 00:43:14,770
+{\fn方正大黑简体\fs12\shad0}求您了{\r}
+{\fn方正大黑简体\fs8\shad0}Please.{\r}
+
+409
+00:43:15,330 --> 00:43:16,200
+{\fn方正大黑简体\fs12\shad0}求您了{\r}
+{\fn方正大黑简体\fs8\shad0}Please.{\r}
+
+410
+00:43:17,970 --> 00:43:20,000
+{\fn方正大黑简体\fs12\shad0}求您了  父亲{\r}
+{\fn方正大黑简体\fs8\shad0}Please, father.{\r}
+
+411
+00:43:21,100 --> 00:43:22,250
+{\fn方正大黑简体\fs12\shad0}原谅我{\r}
+{\fn方正大黑简体\fs8\shad0}Forgive me.{\r}
+
+412
+00:43:26,550 --> 00:43:27,770
+{\fn方正大黑简体\fs12\shad0}求您了{\r}
+{\fn方正大黑简体\fs8\shad0}Please.{\r}
+
+413
+00:43:44,200 --> 00:43:45,530
+{\fn方正大黑简体\fs12\shad0}亚巴郎{\r}
+{\fn方正大黑简体\fs8\shad0}Abraham.{\r}
+
+414
+00:43:58,670 --> 00:44:00,640
+{\fn方正大黑简体\fs12\shad0}祭品{\r}
+{\fn方正大黑简体\fs8\shad0}A sacrifice?{\r}
+
+415
+00:44:03,260 --> 00:44:04,720
+{\fn方正大黑简体\fs12\shad0}哦 孩子  我的孩子{\r}
+{\fn方正大黑简体\fs8\shad0}Oh, my boy, my boy.{\r}
+
+416
+00:44:04,720 --> 00:44:05,860
+{\fn方正大黑简体\fs12\shad0}我的孩子{\r}
+{\fn方正大黑简体\fs8\shad0}My boy.{\r}
+
+417
+00:44:06,440 --> 00:44:07,550
+{\fn方正大黑简体\fs12\shad0}不{\r}
+{\fn方正大黑简体\fs8\shad0}No.{\r}
+
+418
+00:44:09,860 --> 00:44:11,830
+{\fn方正大黑简体\fs12\shad0}不{\r}
+{\fn方正大黑简体\fs8\shad0}No.{\r}
+
+419
+00:44:46,540 --> 00:44:47,790
+{\fn方正大黑简体\fs12\shad0}依撒格{\r}
+{\fn方正大黑简体\fs8\shad0}Isaac!{\r}
+
+420
+00:45:10,500 --> 00:45:13,280
+{\fn方正大黑简体\fs12\shad0}亚巴郎通过了最后的考验{\r}
+{\fn方正大黑简体\fs8\shad0}Abraham has passed the ultimate test.{\r}
+
+421
+00:45:14,030 --> 00:45:17,010
+{\fn方正大黑简体\fs12\shad0}他将成为万民之父{\r}
+{\fn方正大黑简体\fs8\shad0}He will become the father of God's nation.{\r}
+
+422
+00:45:20,820 --> 00:45:22,900
+{\fn方正大黑简体\fs12\shad0}接下来就到依撒格了{\r}
+{\fn方正大黑简体\fs8\shad0}Now it's up to Isaac.{\r}
+
+423
+00:45:23,650 --> 00:45:26,130
+{\fn方正大黑简体\fs12\shad0}他会有一个叫雅各伯的儿子{\r}
+{\fn方正大黑简体\fs8\shad0}He will have a son called Jacob.{\r}
+
+424
+00:45:26,450 --> 00:45:29,700
+{\fn方正大黑简体\fs12\shad0}天主会为他重新起名叫以色列{\r}
+{\fn方正大黑简体\fs8\shad0}God will rename him Israel.{\r}
+
+425
+00:45:30,970 --> 00:45:34,600
+{\fn方正大黑简体\fs12\shad0}天主曾对他许诺的后裔如繁星般众多{\r}
+{\fn方正大黑简体\fs8\shad0}The promise of descendants as numerous as the stars{\r}
+
+426
+00:45:35,040 --> 00:45:36,510
+{\fn方正大黑简体\fs12\shad0}渐渐成真了{\r}
+{\fn方正大黑简体\fs8\shad0}is coming true.{\r}
+
+427
+00:45:38,060 --> 00:45:39,770
+{\fn方正大黑简体\fs12\shad0}但不久后  饥荒迫使以色列人{\r}
+{\fn方正大黑简体\fs8\shad0}But soon famine forces the Israelites{\r}
+
+428
+00:45:39,770 --> 00:45:44,330
+{\fn方正大黑简体\fs12\shad0}远离天主许诺之地  下到埃及{\r}
+{\fn方正大黑简体\fs8\shad0}far from the promised land to Egypt.{\r}
+
+429
+00:45:46,070 --> 00:45:49,440
+{\fn方正大黑简体\fs12\shad0}在那里  他们成为了法郎的奴隶{\r}
+{\fn方正大黑简体\fs8\shad0}Here they are enslaved by Pharaoh.{\r}
+
+430
+00:45:51,160 --> 00:45:54,330
+{\fn方正大黑简体\fs12\shad0}亚巴郎和天主成了遥远的记忆{\r}
+{\fn方正大黑简体\fs8\shad0}Abraham and God become a distant memory.{\r}
+
+431
+00:45:55,580 --> 00:45:58,740
+{\fn方正大黑简体\fs12\shad0}他的子民都沦为重负之下的役畜{\r}
+{\fn方正大黑简体\fs8\shad0}All his people reduced to beasts of burden.{\r}
+
+432
+00:46:00,430 --> 00:46:01,720
+{\fn方正大黑简体\fs12\shad0}只有一人幸免于此{\r}
+{\fn方正大黑简体\fs8\shad0}Except one.{\r}
+
+433
+00:46:03,110 --> 00:46:04,330
+{\fn方正大黑简体\fs12\shad0}梅瑟{\r}
+{\fn方正大黑简体\fs8\shad0}Moses.{\r}
+
+434
+00:46:05,930 --> 00:46:08,150
+{\fn方正大黑简体\fs12\shad0}《圣经》下集预告{\r}
+{\fn方正大黑简体\fs8\shad0}Next time on the Bible.{\r}
+
+435
+00:46:08,150 --> 00:46:09,530
+{\fn方正大黑简体\fs12\shad0}你不能再去争强斗勇了{\r}
+{\fn方正大黑简体\fs8\shad0}You're not going to fight again.{\r}
+
+436
+00:46:09,530 --> 00:46:11,850
+{\fn方正大黑简体\fs12\shad0}我无法拒绝  母亲  他是法郎的儿子{\r}
+{\fn方正大黑简体\fs8\shad0}I can't refuse. He's Pharaoh's son, mother.{\r}
+
+437
+00:46:11,850 --> 00:46:12,860
+{\fn方正大黑简体\fs12\shad0}还手{\r}
+{\fn方正大黑简体\fs8\shad0}Fight me!{\r}
+
+438
+00:46:14,010 --> 00:46:15,370
+{\fn方正大黑简体\fs12\shad0}我命令你{\r}
+{\fn方正大黑简体\fs8\shad0}I order you!{\r}
+
+439
+00:46:17,410 --> 00:46:18,750
+{\fn方正大黑简体\fs12\shad0}你根本非我族人{\r}
+{\fn方正大黑简体\fs8\shad0}You're not one of us!{\r}
+
+440
+00:46:18,750 --> 00:46:20,110
+{\fn方正大黑简体\fs12\shad0}他在说什么{\r}
+{\fn方正大黑简体\fs8\shad0}What's he talking about?{\r}
+
+441
+00:46:20,770 --> 00:46:22,620
+{\fn方正大黑简体\fs12\shad0}你生来就是个奴隶{\r}
+{\fn方正大黑简体\fs8\shad0}You were born a slave.{\r}
+
+442
+00:46:23,880 --> 00:46:26,250
+{\fn方正大黑简体\fs12\shad0}你的族人就在外面  梅瑟{\r}
+{\fn方正大黑简体\fs8\shad0}Your people are out there, Moses.{\r}
+
+443
+00:46:26,920 --> 00:46:28,510
+{\fn方正大黑简体\fs12\shad0}那些以色列人{\r}
+{\fn方正大黑简体\fs8\shad0}The Israelites.{\r}
+
+444
+00:46:30,420 --> 00:46:33,530
+{\fn方正大黑简体\fs12\shad0}新生活欢迎你  梅瑟{\r}
+{\fn方正大黑简体\fs8\shad0}Welcome to your new life, Moses!{\r}
+
+445
+00:46:33,720 --> 00:46:35,870
+{\fn方正大黑简体\fs12\shad0}你现在什么都不是了{\r}
+{\fn方正大黑简体\fs8\shad0}You are nothing now!{\r}
+
+446
+00:46:38,220 --> 00:46:40,020
+{\fn方正大黑简体\fs12\shad0}你是亚巴郎的天主{\r}
+{\fn方正大黑简体\fs8\shad0}You are the God of Abraham{\r}
+
+447
+00:46:40,430 --> 00:46:43,830
+{\fn方正大黑简体\fs12\shad0}我会去做  让我的子民获得自由{\r}
+{\fn方正大黑简体\fs8\shad0}I will do it. I will set my people free.{\r}
+
+448
+00:46:45,810 --> 00:46:47,440
+{\fn方正大黑简体\fs12\shad0}如此水深火热{\r}
+{\fn方正大黑简体\fs8\shad0}So much suffering.{\r}
+
+449
+00:46:48,460 --> 00:46:49,990
+{\fn方正大黑简体\fs12\shad0}等等  请等等{\r}
+{\fn方正大黑简体\fs8\shad0}Wait. Wait. Please.{\r}
+
+450
+00:46:50,340 --> 00:46:55,110
+{\fn方正大黑简体\fs12\shad0}-你是谁  -我是梅瑟  若苏厄{\r}
+{\fn方正大黑简体\fs8\shad0}- Who are you? - My name is Moses, Joshua.{\r}
+
+451
+00:46:55,410 --> 00:46:59,490
+{\fn方正大黑简体\fs12\shad0}天主派我回来  给你们自由{\r}
+{\fn方正大黑简体\fs8\shad0}God has sent me to set you free.{\r}
+
+452
+00:46:59,780 --> 00:47:01,610
+{\fn方正大黑简体\fs12\shad0}你到这儿来做什么  梅瑟{\r}
+{\fn方正大黑简体\fs8\shad0}Why are you here, Moses?{\r}
+
+453
+00:47:01,640 --> 00:47:03,590
+{\fn方正大黑简体\fs12\shad0}还我族人自由{\r}
+{\fn方正大黑简体\fs8\shad0}Let my people go.{\r}
+
+454
+00:47:04,630 --> 00:47:05,480
+{\fn方正大黑简体\fs12\shad0}自由{\r}
+{\fn方正大黑简体\fs8\shad0}Freedom?{\r}
+
+455
+00:47:05,480 --> 00:47:10,140
+{\fn方正大黑简体\fs12\shad0}他们能自由选择成为奴隶或是死亡{\r}
+{\fn方正大黑简体\fs8\shad0}They're free to choose slavery or death!{\r}
+
+456
+00:47:10,420 --> 00:47:12,950
+{\fn方正大黑简体\fs12\shad0}我这一生都被法郎奴役{\r}
+{\fn方正大黑简体\fs8\shad0}All my life, I have been Pharaoh's.{\r}
+
+457
+00:47:12,950 --> 00:47:14,740
+{\fn方正大黑简体\fs12\shad0}我再也不会是个奴隶了{\r}
+{\fn方正大黑简体\fs8\shad0}I will never be a slave again.{\r}
+
+458
+00:47:14,740 --> 00:47:17,730
+{\fn方正大黑简体\fs12\shad0}若苏厄  天主与我们同在{\r}
+{\fn方正大黑简体\fs8\shad0}Joshua, God is with us.{\r}
+
+459
+00:47:18,450 --> 00:47:20,520
+{\fn方正大黑简体\fs12\shad0}死亡天使会降临{\r}
+{\fn方正大黑简体\fs8\shad0}The angel of death is coming.{\r}
+
+460
+00:47:23,540 --> 00:47:26,030
+{\fn方正大黑简体\fs12\shad0}滚  带着你们那卑鄙的天主{\r}
+{\fn方正大黑简体\fs8\shad0}Go! And leave my land,{\r}
+
+461
+00:47:26,030 --> 00:47:28,290
+{\fn方正大黑简体\fs12\shad0}滚出我的国土{\r}
+{\fn方正大黑简体\fs8\shad0}and take your wretched God with you!{\r}
+
+462
+00:47:28,300 --> 00:47:29,840
+{\fn方正大黑简体\fs12\shad0}梅瑟{\r}
+{\fn方正大黑简体\fs8\shad0}Moses!{\r}
+
+463
+00:47:41,400 --> 00:47:43,620
+{\fn方正大黑简体\fs12\shad0}埃及人追来了  他们追来了{\r}
+{\fn方正大黑简体\fs8\shad0}The Egyptians. They're here!{\r}
+
+464
+00:47:45,590 --> 00:47:47,930
+{\fn方正大黑简体\fs12\shad0}主啊{\r}
+{\fn方正大黑简体\fs8\shad0}Lord!{\r}
+
+465
+00:47:53,380 --> 00:47:55,760
+{\fn方正大黑简体\fs12\shad0}跟我走{\r}
+{\fn方正大黑简体\fs8\shad0}Follow me!{\r}
+
+466
+00:47:58,050 --> 00:47:59,640
+{\fn方正大黑简体\fs12\shad0}给我活捉梅瑟{\r}
+{\fn方正大黑简体\fs8\shad0}Bring me Moses!{\r}
+
+467
+00:48:05,205 --> 00:48:22,614
+{\fn方正大黑简体\fs10\shad0}如果你想为天主教的影视字幕出一份福传的力量， 请来Q群180574695【天主的译站】指导交流!{\r}
+

@@ -1,0 +1,3489 @@
+1
+00:00:07,667 --> 00:00:20,046
+<font color="#ffff00">-==http://www.1000fr.com== 謦灵风软影视论坛荣誉出品 本字幕仅供学习交流 严禁用于商业用途</font>
+<font color="#ffff00"> www.1000fr.com presents</font>
+
+2
+00:00:25,484 --> 00:00:30,039
+<font color="#ffff00">福尔摩斯探案</font>
+<font color="#ffff00">The Memoris Of Shelock Holmes</font>
+
+3
+00:00:34,681 --> 00:00:39,435
+<font color="#4096d1">-=Keepfrds MNHD Team=- 校对: ptrpan</font>
+
+4
+00:00:45,203 --> 00:00:47,677
+<font color="#ffff00">第七季 第四集</font>
+<font color="#ffff00">S7E04</font>
+
+5
+00:01:07,243 --> 00:01:10,868
+<font color="#ffff00">红圈会</font>
+<font color="#ffff00">The Red Circle</font>
+
+6
+00:02:34,104 --> 00:02:35,160
+Emilia
+Emilia.
+
+7
+00:03:17,602 --> 00:03:19,404
+<i>红圈会奇案</i>
+<i>The strange case of the Red Circle</i>
+
+8
+00:03:19,481 --> 00:03:21,319
+<i>开始于纽约</i>
+<i>started in New York</i>
+
+9
+00:03:21,394 --> 00:03:23,682
+<i>终结于澳大利亚</i>
+<i>and ended in the Antipodes.</i>
+
+10
+00:03:23,760 --> 00:03:24,287
+<i>但首先还是让我说说</i>
+<i>But first I should explain</i>
+
+11
+00:03:24,324 --> 00:03:26,948
+<i>两个名字都以G开头的人</i>
+<i>how two men with the initial G</i>
+
+12
+00:03:27,030 --> 00:03:28,868
+<i>是怎么到伦敦的</i>
+<i>came to be in London.</i>
+
+13
+00:03:30,753 --> 00:03:33,707
+<i>Gennaro是个好汉</i>
+<i>Gennaro was the hero,</i>
+
+14
+00:03:33,780 --> 00:03:36,068
+<i>Black Gorgiano却是个恶棍</i>
+<i>Black Gorgiano, the villain</i>
+
+15
+00:03:36,146 --> 00:03:38,957
+<i>他俩都爱上了Emilia</i>
+<i>and both men loved Emilia.</i>
+
+16
+00:04:02,308 --> 00:04:03,494
+有什么可以帮...
+Yes, what can I...
+
+17
+00:04:03,531 --> 00:04:04,461
+你有房间出租?
+You have a room to let?
+
+18
+00:04:04,498 --> 00:04:06,936
+你瞧 我没有...
+Well you see I don't...
+
+19
+00:04:06,973 --> 00:04:08,416
+是谁呀 Albert?
+Who is it, Albert?
+
+20
+00:04:08,453 --> 00:04:11,134
+是我妻子 平常都是她来掌管这些事
+The wife, she usually sees to this, you see.
+
+21
+00:04:11,215 --> 00:04:13,717
+亲爱的 是个访客
+A visitor my dear,
+
+22
+00:04:13,789 --> 00:04:15,770
+想租个房间
+wanting a room.
+
+23
+00:04:15,843 --> 00:04:17,266
+好了 Albert
+All right, Albert,
+
+24
+00:04:17,339 --> 00:04:19,556
+回你的"造船室"吧
+you go into your boat building.
+
+25
+00:04:19,635 --> 00:04:22,895
+你需要什么 先生?
+Now, sir, what do you require?
+
+26
+00:04:22,974 --> 00:04:25,050
+是只过一个晚上呢
+Is it a room for the night,
+
+27
+00:04:25,131 --> 00:04:26,821
+还是长住?
+or for a longer stay?
+
+28
+00:04:33,378 --> 00:04:34,866
+这么说吧 Warren太太
+Well, Mrs. Warren,
+
+29
+00:04:34,943 --> 00:04:39,111
+我看不出有什么特别的理由 让你觉得不安
+I cannot think you have any particular reason for uneasiness
+
+30
+00:04:39,684 --> 00:04:43,596
+你也注意到了我还有其他事要忙
+and you note I have other things to engage me.
+
+31
+00:04:43,675 --> 00:04:46,000
+福尔摩斯 一个房客
+Holmes, the matter of a lodger
+
+32
+00:04:46,076 --> 00:04:48,993
+在他的房间里待上一个星期也不露面
+remaining unseen in his room for more than a week
+
+33
+00:04:49,068 --> 00:04:51,606
+难免引人好奇
+is surely of some passing interest.
+
+34
+00:04:51,678 --> 00:04:54,718
+换了是我 房东几个星期也不会看到我
+If I were a lodger she wouldn't see me for weeks on end.
+
+35
+00:04:55,400 --> 00:04:57,416
+这没有让你不安吧 Hudson太太?
+That doesn't trouble you, does it Mrs. Hudson?
+
+36
+00:04:57,488 --> 00:04:58,478
+我没什么不安的
+Nothing troubles me
+
+37
+00:04:58,515 --> 00:05:00,618
+只要是有你 福尔摩斯先生
+where you're concerned, Mr. Holmes.
+
+38
+00:05:00,689 --> 00:05:02,427
+但你还记得么
+But if you remember
+
+39
+00:05:02,464 --> 00:05:06,385
+一年前 你就接过Warren太太的 一个房客的案子
+you arranged an affair for a lodger of Mrs. Warren's a year ago.
+
+40
+00:05:06,422 --> 00:05:08,087
+是的 你接过 先生
+Yes, you did, sir,
+
+41
+00:05:08,124 --> 00:05:10,951
+一个意大利绅士 Firmani先生
+an Italian gentleman, Mr. Firmani.
+
+42
+00:05:12,522 --> 00:05:14,135
+Enrico Firmani
+Enrico Firmani.
+
+43
+00:05:17,458 --> 00:05:21,134
+Firmani先生不厌其烦地 说着你的好 先生
+Mr. Firmani never stopped talking of your kindness, sir.
+
+44
+00:05:21,171 --> 00:05:24,482
+你怎么样打破黑暗带来光明
+How you brought light into the darkness.
+
+45
+00:05:26,608 --> 00:05:28,985
+那是个瓦格纳之夜
+It was a Wagner night I think.
+
+46
+00:05:32,001 --> 00:05:34,314
+让我们听听这个房客的事吧
+Let us hear about this lodger.
+
+47
+00:05:40,523 --> 00:05:42,599
+它吓着我了 福尔摩斯先生
+It frightens me, Mr. Holmes.
+
+48
+00:05:42,681 --> 00:05:44,828
+吓的我没法睡觉
+I can't sleep for fright
+
+49
+00:05:44,908 --> 00:05:48,348
+听着他的脚步声从这到那
+hearing his footsteps moving here and moving there
+
+50
+00:05:48,422 --> 00:05:50,889
+从早到晚一刻不停
+from early morning to late at night
+
+51
+00:05:50,961 --> 00:05:53,632
+却从来见不到他 哪怕是一眼
+and I never, never catch so much as a glimpse of him.
+
+52
+00:05:54,090 --> 00:05:56,869
+Warren先生也像我一样紧张
+Mr. Warren is as nervous as I am.
+
+53
+00:06:01,816 --> 00:06:04,442
+那家伙在逃避什么呢 福尔摩斯先生?
+What's the fellow hiding from, Mr. Holmes?
+
+54
+00:06:05,052 --> 00:06:05,956
+他干过什么?
+What has he done?
+
+55
+00:06:05,993 --> 00:06:07,978
+你知道除了那个女仆
+You see except for the maid
+
+56
+00:06:08,014 --> 00:06:10,304
+家里就剩下她跟那个房客了
+she's all alone in the house with him.
+
+57
+00:06:10,375 --> 00:06:12,391
+不 我受不了了
+No, I can't stand it.
+
+58
+00:06:12,463 --> 00:06:13,599
+我的神经承受不住了
+My, nerves can't stand it.
+
+59
+00:06:13,636 --> 00:06:15,434
+华生 看看怎么回事
+Watson, cope.
+
+60
+00:06:18,900 --> 00:06:21,273
+Hudson太太 拿嗅盐来 要是你有的话
+Smelling salts, Mrs. Hudson, if you have them.
+
+61
+00:06:28,850 --> 00:06:31,032
+仔细想想 Warren太太
+Take time to consider, Mrs. Warren,
+
+62
+00:06:31,111 --> 00:06:34,742
+最微小的事也可能是最重要的
+the smallest point may be the most essential.
+
+63
+00:06:40,435 --> 00:06:42,831
+他是10天前来的
+He came 10 days ago
+
+64
+00:06:42,905 --> 00:06:44,921
+他向我房租
+and he asked me my terms
+
+65
+00:06:44,993 --> 00:06:47,662
+我就说一星期12先令
+so I told him 12 shillings a week.
+
+66
+00:06:47,741 --> 00:06:49,817
+一间小的起居室和卧室
+There's a small sitting room and a bedroom
+
+67
+00:06:49,899 --> 00:06:52,152
+位于顶楼 里面一切齐备
+all complete all at the top of the house
+
+68
+00:06:52,229 --> 00:06:56,045
+他说愿意付一星期3镑
+and he said he'd pay me three pounds a week for it.
+
+69
+00:06:56,082 --> 00:06:57,596
+3镑?
+Three pounds?
+
+70
+00:06:57,633 --> 00:06:59,392
+是的 先生 一星期3镑
+Yes, sir, three pounds a week
+
+71
+00:06:59,428 --> 00:07:01,471
+但是得遵守他的条件
+as long as I kept his terms.
+
+72
+00:07:01,509 --> 00:07:02,823
+什么条件?
+What terms?
+
+73
+00:07:02,860 --> 00:07:05,441
+嗯 他想要一把房屋的钥匙
+Well, he wanted a key to the house.
+
+74
+00:07:05,519 --> 00:07:07,807
+这没什么 大多数房客都有
+That's all right most of my lodgers have them
+
+75
+00:07:07,885 --> 00:07:12,119
+但他要求完全一个人
+but he was to be left entirely to himself
+
+76
+00:07:12,200 --> 00:07:15,746
+决不能被打扰
+and never on any account to be disturbed.
+
+77
+00:07:15,818 --> 00:07:18,415
+这也没什么奇怪的
+Well, there's nothing very wonderful about that.
+
+78
+00:07:18,496 --> 00:07:20,968
+算不上个理由 可这又是根本没有道理的
+Well, not in reason but this is out of all reason.
+
+79
+00:07:21,311 --> 00:07:22,801
+他住进来有10天了
+He's been in there 10 days
+
+80
+00:07:22,880 --> 00:07:24,195
+不管是早晨 中午还是晚上
+morning, noon and night
+
+81
+00:07:24,272 --> 00:07:26,039
+不论是她 还是Warren先生或女仆
+and neither she nor Mr. Warren
+
+82
+00:07:26,116 --> 00:07:28,298
+都没有看过他 哪怕就一眼
+nor the maid has once set eyes on him.
+
+83
+00:07:28,377 --> 00:07:29,558
+除了刚来的那个晚上
+And apart from the first night,
+
+84
+00:07:29,595 --> 00:07:32,159
+他也从来没有出去过
+he's never once gone out.
+
+85
+00:07:32,448 --> 00:07:33,543
+哦 刚来的晚上他出去过么?
+Oh, he did go out on the first night?
+
+86
+00:07:33,581 --> 00:07:34,830
+是的 出去过
+Oh, yes, he did,
+
+87
+00:07:34,866 --> 00:07:36,620
+他很晚才回来
+he returned very late,
+
+88
+00:07:37,128 --> 00:07:38,166
+我已经睡觉了
+I'd gone to bed
+
+89
+00:07:38,203 --> 00:07:40,115
+是Warren先生看到他的
+but Mr. Warren saw him.
+
+90
+00:07:40,152 --> 00:07:42,683
+他回来时已经过了午夜
+It was after midnight he'd come back.
+
+91
+00:07:47,659 --> 00:07:51,056
+那吃饭怎么办 我肯定他得吃东西
+These meals, I mean surely he eats.
+
+92
+00:07:51,093 --> 00:07:52,882
+他要吃饭时就摇铃
+Well he rings when he wants them.
+
+93
+00:07:52,918 --> 00:07:55,085
+我们把饭放在他门口的椅子上
+We put them on a chair outside his door.
+
+94
+00:07:55,167 --> 00:07:57,420
+要是他还需要些什么的话
+If he wants anything else
+
+95
+00:07:57,498 --> 00:08:00,436
+他就写在一小片纸上
+he writes it on a bit of paper,
+
+96
+00:08:01,389 --> 00:08:05,898
+用铅笔写
+this just in pencil,
+
+97
+00:08:06,056 --> 00:08:08,594
+只有只言片语
+just the one word nothing more.
+
+98
+00:08:08,666 --> 00:08:09,911
+你看看
+Here.
+
+99
+00:08:13,641 --> 00:08:18,747
+早饭时女仆把"每日新闻"报带给他
+The maid leaves the Daily Chronicle with him every morning at breakfast.
+
+100
+00:08:20,321 --> 00:08:21,945
+为什么用印刷体来写?
+Why is it printed?
+
+101
+00:08:22,026 --> 00:08:24,564
+为了隐瞒他的笔迹
+Well, to conceal his handwriting.
+
+102
+00:08:24,635 --> 00:08:26,224
+华生 你有什么推论
+Watson, deduce.
+
+103
+00:08:26,305 --> 00:08:28,522
+我?
+Me?
+
+104
+00:08:28,601 --> 00:08:35,163
+铅笔尖很宽 写起来带点紫色
+Well, the pencil is broad tipped and violet tinted.
+
+105
+00:08:35,664 --> 00:08:38,962
+写的时候...写的时候相当用力
+And it's used with, well it's used with considerable pressure
+
+106
+00:08:38,999 --> 00:08:42,308
+还没写完纸就被划破了
+and the paper's been torn off at the side before the printing was done.
+
+107
+00:08:42,345 --> 00:08:47,767
+你能看到肥皂(soap)的这个S没写完
+You can see the S of soap is partly gone.
+
+108
+00:08:47,804 --> 00:08:48,887
+表明什么?
+Suggesting?
+
+109
+00:08:48,923 --> 00:08:49,804
+匆忙
+Haste.
+
+110
+00:08:49,841 --> 00:08:51,139
+或者是谨慎
+Or caution.
+
+111
+00:08:51,668 --> 00:08:53,932
+说说这个男人的年龄和长相
+The man's age and appearance?
+
+112
+00:08:53,969 --> 00:08:57,033
+他不到30 先生 一身黑衣服
+Oh, he's under 30, sir, he's very dark,
+
+113
+00:08:57,071 --> 00:08:59,160
+中等身材 胡子刮得很干净
+middle height, clean-shaven.
+
+114
+00:08:59,197 --> 00:09:02,203
+说话的口音和Firmani先生很像
+Oh, has an accent like Mr. Firmani.
+
+115
+00:09:02,279 --> 00:09:03,346
+当然 他没有名字?
+Of course no name?
+
+116
+00:09:03,427 --> 00:09:04,706
+没有 先生
+No, sir.
+
+117
+00:09:06,036 --> 00:09:07,351
+没有信件或者访客
+No letters or callers.
+
+118
+00:09:07,428 --> 00:09:08,155
+一个都没有 先生
+None, sir.
+
+119
+00:09:08,333 --> 00:09:09,441
+他的行李呢?
+His luggage?
+
+120
+00:09:09,968 --> 00:09:10,999
+上面有没有签条?
+Labels?
+
+121
+00:09:11,082 --> 00:09:12,327
+或者贴纸?
+Stickers?
+
+122
+00:09:14,352 --> 00:09:16,243
+"白色之星"号
+White Star.
+
+123
+00:09:17,518 --> 00:09:18,869
+十天前
+Ten days ago.
+
+124
+00:09:21,623 --> 00:09:23,390
+从纽约来
+New York.
+
+125
+00:09:23,467 --> 00:09:29,196
+我想我们还是等等
+I think that we must wait
+
+126
+00:09:29,277 --> 00:09:33,476
+直到有更多的线索
+until we have a little more material.
+
+127
+00:09:33,556 --> 00:09:35,335
+二位请便吧
+Please vanish both of you.
+
+128
+00:09:36,619 --> 00:09:37,763
+谢谢
+Thank you.
+
+129
+00:09:40,758 --> 00:09:42,692
+谢谢你 福尔摩斯先生
+Thank you, Mr. Holmes.
+
+130
+00:09:43,159 --> 00:09:44,511
+噢 谢谢你 医生
+Oh, thank you, Doctor.
+
+131
+00:09:46,882 --> 00:09:48,997
+交给我吧 Hudson太太
+Leave it to me, Mrs. Hudson.
+
+132
+00:09:59,371 --> 00:10:02,504
+你得承认 福尔摩斯 这事还是有点意思的
+You must admit, Holmes, there are some points of interest.
+
+133
+00:10:03,581 --> 00:10:05,052
+只有一点 房间里的人
+Only that the man in the rooms
+
+134
+00:10:05,089 --> 00:10:07,396
+可能和订房间的人不是同一个人了
+may not be the one who engaged them.
+
+135
+00:10:08,035 --> 00:10:09,940
+对啊 当然 我怎么没有想到这一点
+Yes, of course, I hadn't thought of that.
+
+136
+00:10:10,262 --> 00:10:12,700
+在订了房间后他立刻就走了
+And he went out immediately after taking the rooms
+
+137
+00:10:12,738 --> 00:10:14,393
+直到午夜才回来
+and returned at midnight.
+
+138
+00:10:15,237 --> 00:10:16,837
+为什么要换人呢?
+Why a substitution?
+
+139
+00:10:17,916 --> 00:10:21,319
+值得为此
+Well, opens up a pleasurable feel
+
+140
+00:10:21,395 --> 00:10:24,064
+展开一番推理
+for intelligent speculation
+
+141
+00:10:24,143 --> 00:10:26,360
+有一条调查的线索
+and there is one line of investigation.
+
+142
+00:10:26,439 --> 00:10:29,808
+Warren太太的前房客
+Mrs. Warren's former lodger.
+
+143
+00:10:29,884 --> 00:10:34,296
+那不勒斯的Enrico Firmani
+Enrico Firmani of Naples.
+
+144
+00:10:34,372 --> 00:10:37,775
+他在皇家歌剧院的后台工作
+He works backstage at the Royal Opera House.
+
+145
+00:10:37,850 --> 00:10:45,988
+我曾帮他找到过失散的至亲
+I helped him find a close relative once.
+
+146
+00:10:46,062 --> 00:10:48,114
+很简单的案子
+A simple matter.
+
+147
+00:10:48,184 --> 00:10:50,472
+Catchpole街37号
+37 Catchpole Street.
+
+148
+00:10:50,550 --> 00:10:52,732
+你补充了些东西?
+You added something?
+
+149
+00:10:52,812 --> 00:10:55,516
+对那些需要帮助的同乡来说 他是一个朋友
+A friend to his fellow countrymen in need.
+
+150
+00:10:55,594 --> 00:10:56,910
+你是不是认为
+Do you suppose
+
+151
+00:10:56,986 --> 00:10:58,610
+他向他需要帮助的同乡
+he could've recommended his former lodgings
+
+152
+00:10:58,691 --> 00:11:00,220
+推荐了他的前房东?
+to a fellow countryman in need?
+
+153
+00:11:00,290 --> 00:11:01,843
+很有可能
+Possibly.
+
+154
+00:11:03,596 --> 00:11:06,143
+但这解释不了房客的举动
+Well, it doesn't explain the lodge's behavior.
+
+155
+00:11:07,806 --> 00:11:09,354
+举动?
+Behavior?
+
+156
+00:11:09,894 --> 00:11:11,838
+什么举动?
+What behavior?
+
+157
+00:11:15,459 --> 00:11:17,747
+你怎么知道这儿的?
+How do you know this address?
+
+158
+00:11:17,825 --> 00:11:20,494
+从福尔摩斯先生那里
+Mr. Sherlock Holmes.
+
+159
+00:11:20,574 --> 00:11:22,756
+福尔摩斯先生?
+Mr. Holmes?
+
+160
+00:11:22,836 --> 00:11:26,382
+他总是保留着他过去委托人的相关记录
+He always keeps a record of his past clients.
+
+161
+00:11:26,454 --> 00:11:28,292
+要是福尔摩斯要问我的话
+But if Holmes has something to ask
+
+162
+00:11:28,367 --> 00:11:29,956
+为什么他不亲自来
+why does he not come himself,
+
+163
+00:11:30,038 --> 00:11:32,114
+为什么派你来 华生医生?
+why send you, Dr. Watson?
+
+164
+00:11:32,195 --> 00:11:36,749
+我偶尔也自己行动
+Well, I do on occasion act for myself.
+
+165
+00:11:36,822 --> 00:11:40,190
+恐怕我帮不了你
+Well, I cannot help you I'm afraid.
+
+166
+00:11:40,266 --> 00:11:43,421
+我对Warren太太的这个房客一无所知
+I know nothing of this lodger of Mrs. Warren's.
+
+167
+00:11:43,502 --> 00:11:45,827
+他是不是你的一个同乡
+Is he perhaps a fellow countryman of yours
+
+168
+00:11:45,902 --> 00:11:48,927
+刚从美国来 需要帮助?
+recently arrived from America in need of help?
+
+169
+00:11:48,999 --> 00:11:51,108
+那你告诉福尔摩斯我就在这里 如果他需要我的话
+Then tell him I'm here if he needs me.
+
+170
+00:11:52,095 --> 00:11:53,561
+只能说这么多了
+That is all I can say.
+
+171
+00:11:55,400 --> 00:11:56,233
+失陪了
+Excuse me,
+
+172
+00:11:56,265 --> 00:11:58,521
+<i>("纽约时报" 意大利商人命丧布鲁克林)</i>
+The New Nork
+
+173
+00:11:56,508 --> 00:11:57,942
+现在我得去工作了
+I must go to work now.
+
+174
+00:11:59,262 --> 00:12:01,894
+可能是Warren太太需要帮助
+It may be that Mrs. Warren needs help.
+
+175
+00:12:01,976 --> 00:12:03,743
+这个男人在打扰她的家庭
+The man is disturbing her household.
+
+176
+00:12:03,820 --> 00:12:06,737
+为什么 他做了什么了?
+Why, what does he do to them?
+
+177
+00:12:06,813 --> 00:12:08,149
+这个案子更主要是关于他没有做什么
+Well, it's more a case of what he doesn't do.
+
+178
+00:12:08,186 --> 00:12:10,035
+他从早到晚从不露面
+He doesn't appear from dawn till dusk.
+
+179
+00:12:10,117 --> 00:12:12,495
+他的饮食留在门外
+He has his meals on a tray left outside the door.
+
+180
+00:12:13,423 --> 00:12:14,952
+如果他是一个亡命之徒
+If he's a fugitive from justice
+
+181
+00:12:15,022 --> 00:12:17,025
+我们应该把他交给警察
+we should turn him over to the police.
+
+182
+00:12:17,597 --> 00:12:18,825
+警察?
+Police?
+
+183
+00:12:19,998 --> 00:12:22,296
+不 不
+No, no.
+
+184
+00:12:25,043 --> 00:12:26,549
+再见 妈妈
+Caio Mama.
+
+185
+00:12:35,758 --> 00:12:37,299
+如果有什么问题的话
+If there is a problem,
+
+186
+00:12:37,568 --> 00:12:39,659
+福尔摩斯知道在哪里找我
+Holmes knows where to find me
+
+187
+00:12:39,898 --> 00:12:41,348
+在剧院 别来这里
+at the theatre not here,
+
+188
+00:12:41,385 --> 00:12:43,248
+别再来这里了 医生 你听明白了么?
+never here Doctor, do you understand?
+
+189
+00:12:43,285 --> 00:12:46,109
+在这行当 你树了不少敌人吧
+You have enemies in your line of work.
+
+190
+00:12:46,683 --> 00:12:49,714
+每个人都有敌人 不管他们是干什么的
+Everyone has enemies whatever they do,
+
+191
+00:12:49,751 --> 00:12:51,625
+真实的生活就是这样
+is that not true of life.
+
+192
+00:12:52,424 --> 00:12:54,156
+但有些人冒的风险更高
+But some are more at risk than others
+
+193
+00:12:54,232 --> 00:12:56,034
+由于他们的信念
+with their beliefs
+
+194
+00:12:56,111 --> 00:12:58,815
+和他们的勇气
+and their courage.
+
+195
+00:12:58,894 --> 00:13:01,598
+我做我该做的 医生
+I do what I do, Doctor,
+
+196
+00:13:01,678 --> 00:13:04,773
+别要求我做一个圣徒
+don't make me out to be a saint.
+
+197
+00:13:04,844 --> 00:13:06,896
+现在请容我失陪了
+Now please excuse me.
+
+198
+00:13:26,867 --> 00:13:30,819
+Signor Zamba 是纽约的主要水果出口公司
+Signor Zamba, senior partner in the firm of Castallote and Zamba,
+
+199
+00:13:31,320 --> 00:13:33,300
+Castallote & Zamba公司的高级合伙人
+chief fruit importers of New York
+
+200
+00:13:33,373 --> 00:13:36,076
+最近在他家公寓前的台阶上被刺杀
+was stabbed repeatedly on the steps of his mansion.
+
+201
+00:13:36,156 --> 00:13:39,346
+这事发生在8周之前
+Now this is dated eight weeks ago.
+
+202
+00:13:39,427 --> 00:13:41,640
+平克顿侦探事务所的侦探Rimmer
+Detective Rimmer of the Pinkerton Agency,
+
+203
+00:13:41,677 --> 00:13:42,415
+Abe Rimmer
+Abe Rimmer.
+
+204
+00:13:42,452 --> 00:13:43,652
+在犯罪现场表示
+Said at the scene of the slaying
+
+205
+00:13:43,688 --> 00:13:46,561
+这件事是那不勒斯的帮会所为
+we believe this is the work of a Neapolitan society
+
+206
+00:13:46,599 --> 00:13:50,728
+其与烧炭党联合后 以红圈会闻名于世
+allied to the old Carbonari known as the Red Circle.
+
+207
+00:13:50,804 --> 00:13:52,050
+全欧洲都知道
+Famous throughout Europe
+
+208
+00:13:52,087 --> 00:13:54,799
+现在在布鲁克林也发展了一个分支
+a branch is now being planted in Brooklyn.
+
+209
+00:13:54,873 --> 00:13:59,089
+侦探们地怀疑一个叫Giuseppe Gorgiano的人
+Detectives are anxious to question a Giuseppe Gorgiano.
+
+210
+00:13:59,126 --> 00:14:00,889
+Firmani可能还隐瞒了什么事
+Now, Firmani was hiding something else.
+
+211
+00:14:00,926 --> 00:14:01,856
+我说不出来这种感觉
+I can't describe the feeling
+
+212
+00:14:01,893 --> 00:14:04,674
+但那还有一个老妇人 我推测是他的母亲
+but there was an old woman who I took to be his mother.
+
+213
+00:14:04,755 --> 00:14:06,213
+他的母亲?
+His mother?
+
+214
+00:14:06,286 --> 00:14:07,389
+你去他的家里了?
+You went to his home?
+
+215
+00:14:07,468 --> 00:14:09,484
+是的
+Yes.
+
+216
+00:14:09,556 --> 00:14:12,225
+那张写满悲伤和秘密的脸
+A face full of sorrow and secrets.
+
+217
+00:14:12,305 --> 00:14:14,285
+你帮助的就是这个人么 福尔摩斯?
+Is this the person that you helped, Holmes?
+
+218
+00:14:14,357 --> 00:14:15,363
+如果你对我隐瞒了什么
+If you're holding something back
+
+219
+00:14:15,399 --> 00:14:17,082
+我希望你能告诉我
+I should like you to tell me.
+
+220
+00:14:20,306 --> 00:14:22,210
+你去他的家里
+By going to his home
+
+221
+00:14:24,029 --> 00:14:26,698
+可能会给Firmani带来死亡的威胁
+you may have put Firmani's life in danger.
+
+222
+00:14:26,778 --> 00:14:28,307
+什么?
+What?
+
+223
+00:14:30,152 --> 00:14:34,080
+他为那些在伦敦的意大利人提供庇护
+He's a point of refuge for the Italian community in London,
+
+224
+00:14:34,535 --> 00:14:36,587
+像是灯塔发出来的光
+a beacon of light if you will
+
+225
+00:14:36,658 --> 00:14:38,825
+在这张罪恶的黑网中
+in a dark web of devilry.
+
+226
+00:14:39,998 --> 00:14:41,658
+红圈会
+The Red Circle.
+
+227
+00:14:44,208 --> 00:14:45,346
+天呐
+God.
+
+228
+00:14:46,609 --> 00:14:48,103
+是这个Gorgiano么?
+And this Gorgiano?
+
+229
+00:14:48,174 --> 00:14:51,649
+Black Gorgiano
+Black Gorgiano,
+
+230
+00:14:51,723 --> 00:14:54,154
+有死神之称
+he's earned the name of death,
+
+231
+00:14:54,227 --> 00:14:59,434
+在南意大利和更远地方
+La Morte in Southern Italy and far beyond.
+
+232
+00:14:59,516 --> 00:15:03,858
+是很有名的杀手
+He's red up to the elbows in murder.
+
+233
+00:15:03,934 --> 00:15:06,365
+有没有可能这个Black Gorgiano
+Is it possible that this Black Gorgiano
+
+234
+00:15:06,440 --> 00:15:07,396
+就是Warren太太的房客?
+is the man at Mr. Warren's?
+
+235
+00:15:07,433 --> 00:15:08,642
+不是的 但有着某种联系
+No, but there may be some connection.
+
+236
+00:15:08,679 --> 00:15:10,642
+华生 我们有事要做了
+Watson, we have work to do.
+
+237
+00:15:10,650 --> 00:15:12,655
+去歌剧院
+The opera house.
+
+238
+00:15:12,691 --> 00:15:14,103
+然后在查令街十字
+And then Charing Cross
+
+239
+00:15:14,141 --> 00:15:17,478
+给我的朋友Abe Rimmer发一封电报
+to send a telegram to my friend Abe Rimmer.
+
+240
+00:15:41,857 --> 00:15:43,351
+非常好 Laven小姐
+Wonderful, Miss. Laven,
+
+241
+00:15:43,422 --> 00:15:45,260
+请再来一遍
+just once more, please.
+
+242
+00:15:53,859 --> 00:15:56,006
+Enrico Firmani
+Enrico Firmani.
+
+243
+00:16:01,375 --> 00:16:05,290
+你一直和我作对
+You have been troublesome to me for a long time.
+
+244
+00:16:06,212 --> 00:16:08,239
+现在你帮我
+But now you help me
+
+245
+00:16:08,995 --> 00:16:11,858
+就饶你一条命
+in return for your life,
+
+246
+00:16:12,960 --> 00:16:15,036
+Gennaro Lucca
+Gennaro Lucca,
+
+247
+00:16:15,535 --> 00:16:17,731
+你把他藏到哪去了?
+where are you hiding him?
+
+248
+00:16:19,083 --> 00:16:20,974
+你到底说还是不说 Enrico?
+Will you tell me, Enrico?
+
+249
+00:16:50,048 --> 00:16:51,648
+这里不容许通行
+Nobody's allowed in here.
+
+250
+00:16:51,961 --> 00:16:54,143
+哦 是你 福尔摩斯先生
+Oh, it's you, Mr. Holmes.
+
+251
+00:16:59,615 --> 00:17:01,406
+福尔摩斯先生
+Mr. Holmes.
+
+252
+00:17:01,772 --> 00:17:03,539
+Hawkins 你怎么到这来了?
+Hawkins, what brings you here?
+
+253
+00:17:03,617 --> 00:17:05,764
+我想和你来的理由一样
+Same thing that brings you I expect.
+
+254
+00:17:05,843 --> 00:17:07,990
+我无法想象您这么快就接手这个案子
+How you got onto it so fast I can't imagine.
+
+255
+00:17:08,071 --> 00:17:09,979
+不同的线索
+Different threads
+
+256
+00:17:10,052 --> 00:17:11,996
+把我们引到了同一场纷争里
+leading up to the same tangle.
+
+257
+00:17:12,071 --> 00:17:14,253
+我们是来找Enrico Firmani的
+We've come to see Enrico Firmani.
+
+258
+00:17:14,332 --> 00:17:16,657
+他已经死了
+But Firmani's dead.
+
+259
+00:17:16,733 --> 00:17:20,237
+在还不到2小时前 在这里被人割断了喉咙
+He was found with his throat cut less than two hours ago up here.
+
+260
+00:17:20,978 --> 00:17:23,581
+恐怕凶手已经逃得无影无踪了
+Murderer got clean away I'm afraid.
+
+261
+00:17:24,700 --> 00:17:25,770
+华生
+Watson.
+
+262
+00:17:37,956 --> 00:17:39,524
+你说中了 福尔摩斯
+You're right, Holmes,
+
+263
+00:17:40,878 --> 00:17:43,060
+我今早不该去找他的
+I should not have gone this morning.
+
+264
+00:17:43,696 --> 00:17:45,638
+或许能救他一命
+Might have saved a life.
+
+265
+00:17:46,062 --> 00:17:48,581
+我想这不该怪罪于你
+I don't think you can blame yourself for that.
+
+266
+00:17:50,515 --> 00:17:58,267
+才子娇娃同归泉壤 正像扫烟囱人一样
+Golden boys and girls all must as chimneysweeps come to dust.
+
+267
+00:17:50,515 --> 00:17:58,267
+<i>(莎士比亚<辛白林> 此处用朱生豪译文)</i>
+Golden boys and girls all must as chimneysweeps come to dust.
+
+268
+00:18:06,136 --> 00:18:08,959
+一个人孤身来到伦敦
+A person arrives alone in London.
+
+269
+00:18:09,095 --> 00:18:11,110
+他去找Firmani寻求帮助
+He seeks help from Firmani,
+
+270
+00:18:11,181 --> 00:18:12,032
+他的同乡为了安全起见
+his fellow countryman
+
+271
+00:18:12,070 --> 00:18:14,896
+安排他住在Warren太太的公寓里
+who places him for safety in Mrs. Warren's lodgings.
+
+272
+00:18:14,974 --> 00:18:18,387
+紧接着Firmani被谋杀了
+And then Firmani is murdered
+
+273
+00:18:18,424 --> 00:18:20,462
+是因为不肯说出这个藏身之处
+rather than give away the hiding place.
+
+274
+00:18:20,540 --> 00:18:22,966
+不 不
+No, no.
+
+275
+00:18:23,080 --> 00:18:25,193
+还不能肯定这一点
+Of that we can't be sure.
+
+276
+00:18:26,698 --> 00:18:28,353
+那是谁杀了他呢?
+But who killed him?
+
+277
+00:18:28,750 --> 00:18:30,126
+Gorgiano?
+Gorgiano?
+
+278
+00:18:30,872 --> 00:18:32,747
+Gorgiano在英国么?
+Is Gorgiano in England?
+
+279
+00:18:33,204 --> 00:18:35,142
+他想把这个房客怎么样?
+What does he want with this lodger?
+
+280
+00:18:35,430 --> 00:18:38,434
+公寓房间里的那个人 完全孤立 很危险
+The person in that room is entirely alone and at risk,
+
+281
+00:18:38,471 --> 00:18:40,610
+甚至写一封信都可能被截获
+I mean even a letter might be intercepted.
+
+282
+00:18:40,719 --> 00:18:43,699
+那么他是怎么收到外面的消息?
+How does a message reach him from the outside?
+
+283
+00:18:43,736 --> 00:18:47,894
+除非是通过那个最有价值的猎场
+Except by that most valuable hunting ground
+
+284
+00:18:47,931 --> 00:18:51,131
+甚至对那些不同寻常的学者来说
+ever given to the student of the unusual.
+
+285
+00:18:51,168 --> 00:18:52,599
+报上的广告栏
+Agony columns.
+
+286
+00:18:52,636 --> 00:18:56,487
+我们只需要把注意力放在
+We need only concern ourselves
+
+287
+00:18:56,524 --> 00:18:58,922
+过去两周的
+with the Daily Chronicle.
+
+288
+00:18:59,649 --> 00:19:01,858
+每日新闻报上
+For the past two weeks,
+
+289
+00:19:01,895 --> 00:19:05,328
+我们的房客每天早饭后
+which our lodger collects every morning
+
+290
+00:19:05,970 --> 00:19:08,266
+都要翻阅它的
+after his breakfast.
+
+291
+00:19:10,243 --> 00:19:12,303
+哦 天呐
+Oh, dear me,
+
+292
+00:19:13,005 --> 00:19:16,031
+好一个喊叫和呻吟的大合唱
+what a chorus of cries and groans.
+
+293
+00:19:16,067 --> 00:19:20,192
+好一堆怪事奇闻的大杂烩
+What a ragbag of singular happenings.
+
+294
+00:19:23,026 --> 00:19:24,664
+在王子滑冰俱乐部...
+Lady with a feather boa
+
+295
+00:19:25,665 --> 00:19:28,301
+戴黑色羽毛围巾的女士
+at Prince's Skating Club.
+
+296
+00:19:29,313 --> 00:19:30,990
+福尔摩斯 听听这个
+Holmes, listen to this,
+
+297
+00:19:31,759 --> 00:19:34,958
+耐心点 将寻找一种可靠的通信方法
+Be patient, will find some means of communications,
+
+298
+00:19:34,994 --> 00:19:37,484
+目前仍用此栏 G
+meanwhile this column G.
+
+299
+00:19:40,400 --> 00:19:42,153
+你能再沿着这条线索找下去吗?
+Can you pick up a trace again?
+
+300
+00:19:42,230 --> 00:19:43,536
+噢 有了
+Ah, here we are.
+
+301
+00:19:45,466 --> 00:19:48,560
+正在做有效安排
+I'm making successful arrangements,
+
+302
+00:19:48,631 --> 00:19:50,220
+请耐心谨慎
+patience and prudence,
+
+303
+00:19:50,301 --> 00:19:52,697
+乌云就会散去 G
+the clouds will pass G.
+
+304
+00:19:56,147 --> 00:19:57,250
+哦 没有了
+No, nothing.
+
+305
+00:20:01,644 --> 00:20:04,182
+在这 道路已清除
+Here, here, the path is clearing.
+
+306
+00:20:04,253 --> 00:20:06,329
+如有机会 当发信号
+If I find chance to signal message
+
+307
+00:20:06,409 --> 00:20:08,247
+记住说定的暗号
+remember code as agreed,
+
+308
+00:20:08,323 --> 00:20:10,470
+这是两天前的
+that's two days ago.
+
+309
+00:20:12,394 --> 00:20:13,674
+Hudson太太?
+Mrs. Hudson?
+
+310
+00:20:15,177 --> 00:20:16,862
+有什么事 福尔摩斯先生?
+What is it, Mr. Holmes?
+
+311
+00:20:16,898 --> 00:20:18,303
+我正洗窗帘呢
+I'm washing curtains.
+
+312
+00:20:18,340 --> 00:20:20,206
+请找一下昨天和今天的每日新闻报
+The Daily Chronicle yesterday and today,
+
+313
+00:20:20,243 --> 00:20:22,116
+如果你乐意的话
+if you'd be so kind.
+
+314
+00:20:23,992 --> 00:20:25,713
+耐心谨慎
+Patience and prudence.
+
+315
+00:20:26,067 --> 00:20:29,641
+现在这事终于有点眉目了
+Now the affair begins to grow more intelligible.
+
+316
+00:21:24,934 --> 00:21:26,737
+我找到了
+I've found it.
+
+317
+00:21:26,812 --> 00:21:29,385
+带门廊和黑门的房子 第二层
+House with porch and black door, first floor,
+
+318
+00:21:29,456 --> 00:21:32,302
+窗户右边 黄昏后 G
+window right, after dusk, G.
+
+319
+00:21:32,379 --> 00:21:33,624
+你看
+There you are.
+
+320
+00:21:33,701 --> 00:21:36,647
+G... Black Gorgiano
+G, Black Gorgiano.
+
+321
+00:21:36,728 --> 00:21:38,840
+可能会是个陷阱 来引那个人出去?
+Could it be a trap, to draw the person out?
+
+322
+00:21:38,877 --> 00:21:39,758
+不大可能
+Unlikely.
+
+323
+00:21:39,939 --> 00:21:42,312
+我们是不是该把已经知道的 红圈会的事告诉警察
+Well should we not tell the police what we know about the Red Circle?
+
+324
+00:21:42,349 --> 00:21:43,838
+告诉警察?
+Tell the police,
+
+325
+00:21:44,044 --> 00:21:46,167
+他们手头的事就够他们受的了
+they find it difficult enough to deal with the facts
+
+326
+00:21:46,204 --> 00:21:49,995
+别用我们的想法来让他们更困惑
+without confusing them with our suppositions.
+
+327
+00:21:50,032 --> 00:21:51,270
+听听这个
+Oh, listen to this,
+
+328
+00:21:51,583 --> 00:21:53,271
+毫无动机的谋杀
+motiveless murder.
+
+329
+00:21:53,462 --> 00:21:56,575
+根据对Hawkins警督的采访 真是
+According to Inspector Hawkins, really.
+
+330
+00:21:57,116 --> 00:21:59,737
+福尔摩斯先生 医生 你最好快一点
+Mr. Holmes, Doctor, you must come quickly,
+
+331
+00:21:59,774 --> 00:22:01,732
+有人被绑架了
+there's been a kidnapping.
+
+332
+00:22:02,856 --> 00:22:04,908
+应该交给警察 福尔摩斯先生
+This is a police matter, Mr. Holmes.
+
+333
+00:22:04,979 --> 00:22:06,780
+我要把那个房客赶出去
+I'm throwing that lodger out.
+
+334
+00:22:06,857 --> 00:22:08,729
+我该去和他直说了
+I'd have gone straight up and told him so...
+
+335
+00:22:08,805 --> 00:22:10,276
+但她认为应该
+But she thought it only right
+
+336
+00:22:10,313 --> 00:22:12,837
+先征求您的意见 福尔摩斯先生
+to ask your opinion first, Mr. Holmes.
+
+337
+00:22:12,911 --> 00:22:15,296
+请泡一壶茶 Hudson太太
+A large pot of tea please, Mrs. Hudson.
+
+338
+00:22:18,443 --> 00:22:22,383
+我实在是没有耐心了 这已经连累到我丈夫了
+I'm at the end of my patience when it comes to knocking my old man about.
+
+339
+00:22:22,421 --> 00:22:23,760
+谁要伤害他?
+Who knocked him about?
+
+340
+00:22:24,203 --> 00:22:25,875
+我要是知道就好了
+I wish I knew that.
+
+341
+00:22:25,912 --> 00:22:27,677
+事情是今早发生的 先生
+It happened this morning, sir.
+
+342
+00:22:28,324 --> 00:22:29,336
+Warren先生
+Mr. Warren
+
+343
+00:22:29,373 --> 00:22:35,148
+是Tottenham宫廷路上 Norton & Waylight公司的计时员
+he's a timekeeper at Norton & Waylight's on Tottenham Court Road.
+
+344
+00:22:35,185 --> 00:22:38,656
+他必须在早晨七点钟以前出门
+He has to leave the house before seven in the morning.
+
+345
+00:22:38,693 --> 00:22:41,418
+要是我能和他谈谈会大有帮助
+It would greatly help me if I could speak to him myself.
+
+346
+00:22:43,887 --> 00:22:45,439
+好的
+All right.
+
+347
+00:22:46,693 --> 00:22:48,849
+小心点 福尔摩斯 他心脏不太好
+Take care, Holmes, his heart.
+
+348
+00:22:48,886 --> 00:22:51,351
+你来说说吧 Warren先生
+Can you speak, Mr. Warren?
+
+349
+00:22:51,387 --> 00:22:55,339
+我出门还没有走上10步
+Well, I hadn't gone ten paces
+
+350
+00:22:56,827 --> 00:22:59,301
+后面就来了两个人
+before two men crept up behind me.
+
+351
+00:22:59,338 --> 00:23:01,002
+拿大衣蒙住了他的头
+And threw a coat over his head,
+
+352
+00:23:01,039 --> 00:23:02,654
+把他塞到了马车里
+bundled him into cab
+
+353
+00:23:02,691 --> 00:23:08,051
+开了一段路后 在Hampstead荒地把他扔了出来
+and drove off and shot him out on Hampstead Heath.
+
+354
+00:23:08,088 --> 00:23:09,730
+Hampstead荒地
+Hampstead Heath.
+
+355
+00:23:09,767 --> 00:23:12,914
+真可怕 你看到什么了么?
+Dreadful, what did you observe?
+
+356
+00:23:14,566 --> 00:23:16,292
+我乘公共汽车回的家
+I took a bus home.
+
+357
+00:23:16,330 --> 00:23:17,828
+在这之前呢
+Before the bus,
+
+358
+00:23:18,474 --> 00:23:19,570
+那些人
+these men,
+
+359
+00:23:20,128 --> 00:23:21,681
+你有没有看清他们的长相?
+did you observe their appearance?
+
+360
+00:23:21,763 --> 00:23:25,207
+没有 先生 好像是变魔术一样 我被抓进去
+No, sir, I was picked up as if by magic
+
+361
+00:23:25,244 --> 00:23:27,451
+又被扔出来
+and dropped as if by magic.
+
+362
+00:23:29,730 --> 00:23:31,981
+车里至少有3个人
+Three of them at least was in on it,
+
+363
+00:23:32,479 --> 00:23:33,950
+也可能是4个
+maybe four.
+
+364
+00:23:34,329 --> 00:23:36,049
+你听见他们说话了么?
+Did you hear them talk?
+
+365
+00:23:37,349 --> 00:23:41,787
+其中一个用意大利语赌咒发誓
+One of them swore some oaths in Italian.
+
+366
+00:23:42,116 --> 00:23:44,440
+钱可不是万能的
+Money is not everything.
+
+367
+00:23:44,516 --> 00:23:47,691
+我今天就要把他给赶出去 就在今天
+I'll have him out of here before the day is done.
+
+368
+00:23:47,995 --> 00:23:50,544
+我想见见你的这个房客
+I should like to meet this lodger of yours.
+
+369
+00:23:50,581 --> 00:23:52,478
+他什么时候吃午饭?
+What time does he take his lunch?
+
+370
+00:23:52,901 --> 00:23:54,313
+一点整
+One o'clock sharp.
+
+371
+00:23:54,606 --> 00:23:57,939
+有没有什么地方能让我们藏起来?
+Is there anywhere where we might conceal ourselves?
+
+372
+00:23:58,016 --> 00:24:00,269
+有的 楼上有个储藏室
+Yes, there's a box room upstairs.
+
+373
+00:24:00,695 --> 00:24:02,520
+有没有一面大镜子?
+Is there a looking glass?
+
+374
+00:24:02,557 --> 00:24:07,157
+有的 在房间外楼梯平台那的抽屉里有一面
+Yes, there's one on the chest of drawers outside on the landing.
+
+375
+00:24:07,194 --> 00:24:08,900
+好极了 来吧 华生
+Excellent, come, Watson.
+
+376
+00:24:09,566 --> 00:24:11,475
+那我该怎么办?
+What about me, then?
+
+377
+00:24:12,141 --> 00:24:13,779
+我们有40分钟
+We've got forty minutes.
+
+378
+00:24:32,390 --> 00:24:35,288
+很明显他的敌人们弄错了
+It's clear now that his enemies mistook their man.
+
+379
+00:24:35,759 --> 00:24:38,631
+想都不敢想 要是他们抓到他会怎么样
+What they would've done if they'd got him bears no thinking.
+
+380
+00:24:38,668 --> 00:24:39,433
+可他们没有
+But they didn't.
+
+381
+00:24:39,470 --> 00:24:41,110
+你看到了么?
+Do you see what I see?
+
+382
+00:24:42,783 --> 00:24:45,286
+一个带门廊和黑门的房子
+A house with a porch and black door.
+
+383
+00:24:45,366 --> 00:24:46,337
+有一个房间出租
+With a room to let
+
+384
+00:24:46,374 --> 00:24:48,972
+这样G就可以进到那里去
+to which G could have access.
+
+385
+00:24:50,655 --> 00:24:53,168
+福尔摩斯 我觉得我们应该通知苏格兰场
+Holmes, I feel very strongly that we should inform Scotland Yard.
+
+386
+00:24:53,204 --> 00:24:54,551
+还不是时候
+Not yet.
+
+387
+00:24:54,588 --> 00:24:56,421
+我们在监视
+We are on watch,
+
+388
+00:24:57,649 --> 00:25:00,187
+或许也在被监视
+and may be being watched.
+
+389
+00:25:01,303 --> 00:25:03,816
+让我们看看房子后面有什么吧
+Let's see what lies behind these lodgings.
+
+390
+00:25:22,210 --> 00:25:23,455
+他感觉怎么样?
+How's he feeling?
+
+391
+00:25:23,532 --> 00:25:24,419
+噢 他很好
+Oh, he's all right.
+
+392
+00:25:24,456 --> 00:25:27,329
+他就是喜欢小题大做
+He just likes a fuss made of him.
+
+393
+00:27:15,978 --> 00:27:17,602
+福尔摩斯先生
+Mr. Holmes.
+
+394
+00:27:17,683 --> 00:27:18,820
+锁上你的门
+Bolt your door.
+
+395
+00:27:18,901 --> 00:27:20,881
+在我们回来前别让任何人进来
+And let no one in until we return.
+
+396
+00:27:20,954 --> 00:27:22,340
+你看到他了么?
+Did you see him?
+
+397
+00:27:22,414 --> 00:27:25,924
+Warren太太 请相信我
+Mrs. Warren, trust me.
+
+398
+00:27:32,609 --> 00:27:33,980
+我不知道他什么时候回来
+I don't know when he's coming back.
+
+399
+00:27:34,016 --> 00:27:35,195
+他给了我一些钱
+He gave me some money
+
+400
+00:27:35,232 --> 00:27:36,655
+之后就再没有见过他
+and I haven't seen him since.
+
+401
+00:27:36,692 --> 00:27:38,079
+你说是一个外国绅士
+A foreign gentlemen, you say.
+
+402
+00:27:38,117 --> 00:27:41,016
+肯定是 但我不介意他是外国人
+Definitely and I don't care for foreigners.
+
+403
+00:27:41,097 --> 00:27:42,412
+哦 是吗
+Oh really.
+
+404
+00:27:42,489 --> 00:27:44,032
+要是你想租的话 先生
+So if you want it gentlemen,
+
+405
+00:27:44,069 --> 00:27:47,073
+我们可以签个合同
+I'm sure we can come to an arrangement.
+
+406
+00:27:47,812 --> 00:27:49,756
+等你看完了以后 我在大厅等你 先生
+I'll be in the hall sir, when you've finished.
+
+407
+00:27:49,830 --> 00:27:51,324
+谢谢
+Thank you.
+
+408
+00:27:53,727 --> 00:27:55,197
+这什么都没有
+Nothing in here.
+
+409
+00:27:56,371 --> 00:27:58,065
+好极了
+Perfect.
+
+410
+00:27:58,215 --> 00:27:59,491
+看 华生
+Look, Watson,
+
+411
+00:28:00,545 --> 00:28:02,744
+公寓2楼的窗户里
+the first floor window of the lodgings,
+
+412
+00:28:02,781 --> 00:28:04,929
+住着我们焦虑的女士
+our agitated lady.
+
+413
+00:28:06,564 --> 00:28:08,545
+只需要再等几个小时
+Only a few more hours to wait
+
+414
+00:28:08,617 --> 00:28:09,887
+就会发信号
+before the signal.
+
+415
+00:28:11,540 --> 00:28:13,674
+黄昏之后 G
+After dusk, G.
+
+416
+00:28:15,402 --> 00:28:19,479
+一切都符合为爱私奔的条件
+It has all the makings of some love escapade.
+
+417
+00:28:20,272 --> 00:28:21,630
+爱?
+Love?
+
+418
+00:28:23,856 --> 00:28:25,984
+爱或许是这件事的根源
+Love may be at the root of it
+
+419
+00:28:27,266 --> 00:28:29,321
+但她的脸
+but her face,
+
+420
+00:28:29,562 --> 00:28:31,240
+噢 华生 她的脸
+oh, Watson her face
+
+421
+00:28:31,277 --> 00:28:33,337
+上面写满了对生活的忧虑
+She fears for her life,
+
+422
+00:28:34,294 --> 00:28:37,255
+我想有一对夫妇
+I consider a couple,
+
+423
+00:28:37,771 --> 00:28:39,017
+来伦敦避难
+seek refuge in London
+
+424
+00:28:39,054 --> 00:28:41,902
+为了躲避某种威胁
+from some instant and terrible fear.
+
+425
+00:28:41,982 --> 00:28:44,942
+丈夫为了最大限度保证妻子的安全
+The man desires her utmost safety
+
+426
+00:28:45,551 --> 00:28:47,651
+而采用如此原始的方式
+and arranges to communicate
+
+427
+00:28:47,722 --> 00:28:49,525
+来进行联络
+in such original fashion
+
+428
+00:28:49,563 --> 00:28:53,396
+甚至是女房东 也不知道房客已经换人了
+for not even the landlady knows of the substitution.
+
+429
+00:28:53,432 --> 00:28:57,678
+字条是用印刷体写的 以防有人通过笔迹认出来
+And there's printed messages to prevent the fact that she's a woman
+
+430
+00:28:57,715 --> 00:29:00,232
+房客是一个女人
+being revealed by her handwriting.
+
+431
+00:29:01,806 --> 00:29:03,142
+看
+Look.
+
+432
+00:29:04,630 --> 00:29:06,336
+蜡烛和火柴
+A candle and matches,
+
+433
+00:29:08,458 --> 00:29:09,627
+他们的信号
+Their signal.
+
+434
+00:29:10,093 --> 00:29:12,340
+现在其实没这个必要
+But there's no need for this now surely,
+
+435
+00:29:12,930 --> 00:29:15,171
+就不能直接让他们见面么?
+can't we just simply bring them together?
+
+436
+00:29:15,243 --> 00:29:17,247
+你能保证我们能一直保护他们
+And guarantee that we'd protect them forever
+
+437
+00:29:17,283 --> 00:29:18,930
+免遭红圈会的毒手么?
+from the Red Circle?
+
+438
+00:29:18,967 --> 00:29:20,230
+不能
+No.
+
+439
+00:29:21,574 --> 00:29:23,684
+我们得让他们继续这么下去
+We must let them play this thing out.
+
+440
+00:29:26,759 --> 00:29:29,046
+我先回贝克街
+I must return briefly to Baker Street.
+
+441
+00:29:29,472 --> 00:29:31,923
+你能不能找个借口留在公寓?
+Do you have reason enough to stay in the lodgings?
+
+442
+00:29:31,960 --> 00:29:34,109
+就说是为了Warren先生的健康
+Mr. Warren's health gives me every excuse.
+
+443
+00:29:34,146 --> 00:29:37,477
+或许我有必要把你的左轮手枪带来
+It might be advisable for me to bring back your revolver.
+
+444
+00:29:37,785 --> 00:29:39,520
+不用 我已经带着了
+No need to man, I have it.
+
+445
+00:29:39,596 --> 00:29:40,882
+好极了
+Good, splendid.
+
+446
+00:29:48,956 --> 00:29:50,598
+我们一小时后见
+I'll see you within the hour.
+
+447
+00:29:56,367 --> 00:30:00,399
+Hawkins 希望到头来有情人终相聚
+Hawkins, journey's end with lover's meeting.
+
+448
+00:30:00,471 --> 00:30:02,724
+我会主持正义的 福尔摩斯先生
+I'll do you this justice, Mr. Holmes.
+
+449
+00:30:02,801 --> 00:30:03,742
+我办案子的时候只要是跟您合作
+I was never in a case yet
+
+450
+00:30:03,779 --> 00:30:07,016
+就没有一次觉的不踏实
+I didn't feel stronger for having you on my side.
+
+451
+00:30:08,123 --> 00:30:10,861
+逃亡的人可能是Gennaro和Emilia Lucca
+Fugitives may be Gennaro and Emilia Lucca
+
+452
+00:30:10,897 --> 00:30:12,937
+如果是这样 那他们处境危险
+if so in grave danger,
+
+453
+00:30:12,974 --> 00:30:15,715
+很需要我们协助
+expect agent imminently.
+
+454
+00:30:15,752 --> 00:30:17,959
+祝好 署名Abe Rimmer
+Regards, Abe Rimmer.
+
+455
+00:30:17,996 --> 00:30:19,152
+他已经来了
+The agent's here,
+
+456
+00:30:19,189 --> 00:30:21,028
+今天早晨从纽约来的
+he arrived from New York this morning.
+
+457
+00:30:21,065 --> 00:30:21,829
+名字叫Leverton
+His name is Leverton.
+
+458
+00:30:21,866 --> 00:30:23,997
+我听说过这个名字
+Leverton I know of him.
+
+459
+00:30:24,034 --> 00:30:26,925
+他一直在追捕Black Gorgiano
+The man he's after is Black Gorgiano,
+
+460
+00:30:27,333 --> 00:30:29,460
+红圈会的头目
+leader of the Red Circle.
+
+461
+00:30:30,547 --> 00:30:33,109
+我们是不是这一次领先你了 福尔摩斯先生?
+Do we score over you for once, Mr. Holmes?
+
+462
+00:30:34,080 --> 00:30:36,522
+你得更努力一点了
+You must give us best some of the time.
+
+463
+00:30:38,671 --> 00:30:44,171
+我想我们都应该竭尽全力
+I think that we should pool our resources.
+
+464
+00:31:07,131 --> 00:31:08,381
+楼上有人
+There's someone up there.
+
+465
+00:31:13,638 --> 00:31:14,692
+Warren太太
+Mrs Warren.
+
+466
+00:31:26,823 --> 00:31:27,546
+福尔摩斯
+Holmes.
+
+467
+00:31:28,528 --> 00:31:30,472
+让楼下保持安静
+Keep the peace downstairs.
+
+468
+00:31:30,546 --> 00:31:33,215
+我得和Senora Lucca说几句话
+I must have a word with Senora Lucca.
+
+469
+00:31:47,664 --> 00:31:49,008
+Senora Lucca
+Senora Lucca,
+
+470
+00:31:49,438 --> 00:31:50,941
+我是歇洛克・福尔摩斯
+its Sherlock Holmes.
+
+471
+00:31:51,560 --> 00:31:53,025
+我必须和你谈谈
+I must speak to you.
+
+472
+00:31:53,335 --> 00:31:54,396
+哦 不
+Oh no.
+
+473
+00:31:58,796 --> 00:32:01,713
+你丈夫Gennaro和你都会安全的
+Your husband Gennaro, will be safe, and so will you
+
+474
+00:32:01,788 --> 00:32:04,848
+如果你愿意接受我们的保护
+if you will place yourself in our hands.
+
+475
+00:32:10,138 --> 00:32:13,292
+苏格兰场在监视这所房子
+Scotland Yard is watching the house
+
+476
+00:32:13,375 --> 00:32:17,965
+Leverton先生也在从纽约赶来
+and Mr. Leverton is on his way from New York.
+
+477
+00:32:18,036 --> 00:32:20,538
+Leverton先生?
+Mr. Leverton?
+
+478
+00:32:26,665 --> 00:32:29,855
+我们不会让你受到任何伤害的
+We shall not let any harm come to you.
+
+479
+00:32:29,935 --> 00:32:31,702
+请让我进来
+Please let me in.
+
+480
+00:32:33,936 --> 00:32:35,429
+好么
+Please.
+
+481
+00:32:40,337 --> 00:32:42,554
+我再也不上去了
+I'm not going up there again.
+
+482
+00:32:42,633 --> 00:32:43,569
+绝不
+Never.
+
+483
+00:32:43,643 --> 00:32:44,497
+亲爱的 别说傻话
+Oh don't be silly dear,
+
+484
+00:32:44,533 --> 00:32:45,196
+别傻了
+don't be silly.
+
+485
+00:32:45,233 --> 00:32:46,889
+你听到医生的话了
+You know what the doctor said,
+
+486
+00:32:46,926 --> 00:32:49,235
+是一只猫在抓
+it was just a cat scratching.
+
+487
+00:32:49,313 --> 00:32:51,788
+不 不是的 天花板都被掀起来了
+No, it wasn't, it lifted.
+
+488
+00:32:51,825 --> 00:32:55,192
+Hudson太太 你能给Vera倒杯茶么?
+Mrs. Hudson, would you make Vera a cup of tea, please?
+
+489
+00:32:55,853 --> 00:32:57,843
+这屋子里发生什么了?
+What is going on in this house?
+
+490
+00:32:57,976 --> 00:33:00,619
+吵吵嚷嚷 灯也不亮
+Noises, lights going off,
+
+491
+00:33:01,279 --> 00:33:02,879
+我快要死了
+it'll be the death of me.
+
+492
+00:33:02,951 --> 00:33:03,963
+噢 天呐
+Oh my god.
+
+493
+00:33:04,900 --> 00:33:08,769
+我出生在那不勒斯附近的Posillipo
+I was born in Posillipo near Naples.
+
+494
+00:33:09,040 --> 00:33:11,362
+我父亲是名首席律师
+My father was chief lawyer.
+
+495
+00:33:12,414 --> 00:33:14,445
+Gennaro没有钱 也没有地位
+Gennaro had no money and no position,
+
+496
+00:33:14,482 --> 00:33:20,448
+虽然没有这些 但是他英俊 有活力
+nothing but his beauty, his strength and energy.
+
+497
+00:33:21,913 --> 00:33:23,586
+我父亲不同意我们结婚
+My father forbade the match
+
+498
+00:33:23,623 --> 00:33:25,004
+我们就私奔
+and we run away.
+
+499
+00:33:25,041 --> 00:33:27,342
+在巴里结了婚
+We were married in Bari.
+
+500
+00:33:27,931 --> 00:33:31,127
+我卖掉了首饰当路费 来到了美国
+I sold my jewels to bring us to America.
+
+501
+00:33:33,186 --> 00:33:35,541
+一开始命运向我们微笑
+Fortune smiled at first,
+
+502
+00:33:35,829 --> 00:33:37,453
+Gennaro从几个暴徒手中
+Gennaro saved a rich Italian
+
+503
+00:33:37,534 --> 00:33:39,843
+救下了一个富有的意大利人
+from some ruffians in the Bowery.
+
+504
+00:33:40,387 --> 00:33:42,529
+名叫Signor Castallote
+He was Signor Castallote
+
+505
+00:33:43,280 --> 00:33:47,300
+经营Castallote&Zamba水果出口公司
+of Castallote and Zamba the fruit importers.
+
+506
+00:33:48,285 --> 00:33:50,904
+Gennaro与他情同父子
+Gennaro became like a son to him.
+
+507
+00:34:02,166 --> 00:34:03,865
+告诉我们这个访客的情况
+Tell me about this visitor,
+
+508
+00:34:05,820 --> 00:34:08,536
+这个你们从Posillipo来的朋友
+this friend of your husbands from Posillipo?
+
+509
+00:34:08,811 --> 00:34:10,545
+噢 他不是朋友
+Oh, is no friend.
+
+510
+00:34:11,943 --> 00:34:14,208
+Gennaro有一天把他带回家来
+Gennaro brought him home one day.
+
+511
+00:34:14,378 --> 00:34:16,110
+他们是在街上偶遇的
+They had met in the street.
+
+512
+00:34:16,187 --> 00:34:17,746
+以后他就经常来
+He came again and again.
+
+513
+00:34:19,178 --> 00:34:22,950
+他大谈什么政治和社会问题
+He talked and raved about politics and social questions
+
+514
+00:34:22,988 --> 00:34:26,846
+以及他的打算 还挥舞着他巨大的手臂
+and what he meant to do, whirling his great arm.
+
+515
+00:34:26,882 --> 00:34:30,169
+他的声音在我们的小房子里 听起来就像是打雷
+His voice was like thunder in our little house.
+
+516
+00:34:30,243 --> 00:34:31,599
+那你的丈夫呢?
+And your husband?
+
+517
+00:34:32,762 --> 00:34:36,960
+他坐在那 脸色苍白 无精打采
+He sat pale and listless.
+
+518
+00:34:36,997 --> 00:34:40,093
+一开始我以为他是不喜欢
+At first I thought it was dislike
+
+519
+00:34:40,952 --> 00:34:43,113
+后来我才明白
+but then I understood
+
+520
+00:34:43,150 --> 00:34:46,984
+是一种深藏的恐惧
+it was a deep secret fear.
+
+521
+00:34:48,402 --> 00:34:50,388
+我恳求他出于对我的爱
+I implored him out of love for me,
+
+522
+00:34:50,424 --> 00:34:52,239
+出于我们相濡以沫的感情
+by all we held dear
+
+523
+00:34:52,276 --> 00:34:55,208
+告诉我为什么这个人 能给他带来这么大的阴影
+to tell me why this man overshadowed him.
+
+524
+00:35:02,097 --> 00:35:04,825
+在他年少不羁的时代
+In his wild, young days
+
+525
+00:35:04,862 --> 00:35:08,112
+全世界好像都跟他过不去
+when all the world seemed against him
+
+526
+00:35:08,149 --> 00:35:10,394
+他就加入了一个兄弟会
+he had joined a brotherhood,
+
+527
+00:35:10,431 --> 00:35:12,295
+El Chicaroso
+El Chicaroso
+
+528
+00:35:12,332 --> 00:35:14,097
+红圈会
+the Red Circle.
+
+529
+00:35:16,043 --> 00:35:17,521
+他以为它的目的仅仅是
+He thought its purpose
+
+530
+00:35:17,558 --> 00:35:21,301
+反对生活中的不公正
+was to put right the injustice of life.
+
+531
+00:35:23,331 --> 00:35:26,155
+一旦你发了那个可怕的誓
+Once you've taken its dreadful oath.
+
+532
+00:35:30,050 --> 00:35:31,571
+告诉我关于
+Tell me about you,
+
+533
+00:35:32,414 --> 00:35:35,819
+你和Gorgiano
+and Gorgiano.
+
+534
+00:35:38,863 --> 00:35:43,244
+我早就注意到了 当他来找我们时
+I had noticed for some time when he came to us
+
+535
+00:35:43,900 --> 00:35:47,307
+他总是盯着我看
+his eyes were always turned upon me
+
+536
+00:35:47,344 --> 00:35:51,244
+那眼睛真可怕
+his terrible glaring eyes.
+
+537
+00:35:51,688 --> 00:35:53,271
+有一天晚上
+And one evening,
+
+538
+00:35:55,238 --> 00:35:58,084
+他说我唤醒了他所谓的爱
+I had awakened what he called love in him.
+
+539
+00:35:58,161 --> 00:36:03,897
+-Emilia 我的唯一 -那是一种野兽般的爱
+-Emilia, mio solo grande. -It was the love of a brut,
+
+540
+00:36:03,933 --> 00:36:05,473
+野蛮粗俗
+a savage.
+
+541
+00:36:26,898 --> 00:36:28,453
+几天以后
+A few days later,
+
+542
+00:36:28,490 --> 00:36:30,737
+红圈会有一个会议
+there was a Red Circle meeting.
+
+543
+00:36:33,508 --> 00:36:36,248
+他们勒索Signor Castallote
+Signor Castallote had been approached for money
+
+544
+00:36:36,326 --> 00:36:37,686
+却遭到了拒绝
+and had refused them.
+
+545
+00:36:38,563 --> 00:36:40,814
+于是他们计划杀了他
+Now they planned to kill him,
+
+546
+00:36:41,441 --> 00:36:43,201
+通过抽签来决定谁动手
+they drew lots.
+
+547
+00:36:50,730 --> 00:36:52,942
+<i>这是早就安排好的</i>
+<i>It was fixed.</i>
+
+548
+00:36:53,200 --> 00:36:56,640
+<i>因为我拒绝了Gorgiano 他要报复</i>
+<i>It was Gorgiano's revenge for my rejecting him.</i>
+
+549
+00:37:04,682 --> 00:37:06,577
+我在这世上
+My dearest friend,
+
+550
+00:37:10,143 --> 00:37:12,242
+最好的朋友
+in all the world.
+
+551
+00:37:13,065 --> 00:37:15,118
+然后你们一起去了警察局?
+And then you both went to the police?
+
+552
+00:37:15,693 --> 00:37:17,386
+我一个人去的
+I went alone.
+
+553
+00:37:18,076 --> 00:37:19,047
+真勇敢
+That was brave.
+
+554
+00:37:19,120 --> 00:37:21,299
+就算是 可这有什么用呢?
+Yes, but what has it done?
+
+555
+00:37:21,973 --> 00:37:24,960
+我们被迫逃走 我们的朋友还是难逃一死
+They got us away but friends still die.
+
+556
+00:37:24,997 --> 00:37:27,538
+我们永远逃不出那野兽的控制 永远
+We shall never be rid of that beast, never
+
+557
+00:37:29,399 --> 00:37:30,937
+现在你得走了
+and now you must go.
+
+558
+00:37:31,436 --> 00:37:32,130
+我已经说的太多了
+I've said too much,
+
+559
+00:37:32,167 --> 00:37:34,281
+已经违背了对我丈夫的许诺
+I've broken my promise to my husband,
+
+560
+00:37:34,861 --> 00:37:37,632
+快走吧 求你了
+go please, go.
+
+561
+00:38:33,016 --> 00:38:34,975
+Enrico会感到欣慰的
+Enrico would have wished it.
+
+562
+00:38:35,012 --> 00:38:37,094
+开始新的生活吧
+Go sail to a new life.
+
+563
+00:38:38,131 --> 00:38:39,305
+Gracias
+Gracias.
+
+564
+00:39:17,723 --> 00:39:20,644
+他不能整夜待在这里
+He can't stay here all night.
+
+565
+00:39:23,151 --> 00:39:26,449
+要是有必要 他会的 是么 医生?
+Well if he has to won't you, Doctor?
+
+566
+00:39:29,054 --> 00:39:33,699
+好吧 那样的话 我们来玩会惠斯特纸牌吧
+Well, in that case I wouldn't mind a game of whist.
+
+567
+00:39:34,809 --> 00:39:37,506
+你玩惠斯特纸牌么 医生?
+Do you play whist, Doctor?
+
+568
+00:40:00,899 --> 00:40:02,815
+福尔摩斯先生?
+Mr. Holmes?
+
+569
+00:40:03,927 --> 00:40:05,982
+Emilia
+Emilia.
+
+570
+00:40:07,265 --> 00:40:12,736
+Emilia 我的爱
+Emilia, mi amore.
+
+571
+00:40:31,341 --> 00:40:32,782
+Hawkins
+Hawkins.
+
+572
+00:40:34,020 --> 00:40:36,482
+我已经安排了人监视 福尔摩斯先生
+I've set my men on watch, Mr. Holmes.
+
+573
+00:40:37,290 --> 00:40:38,850
+你在期待什么?
+What are you expecting to happen?
+
+574
+00:40:39,274 --> 00:40:42,820
+不止一次 侦查行动的作用有限
+Well, there are times when the art of detection is of little use.
+
+575
+00:40:44,841 --> 00:40:47,658
+得等待那些无法预知的事发生
+We must wait upon the unpredictable.
+
+576
+00:40:48,146 --> 00:40:50,558
+我也有这样的经验
+I've had some experience of that in my time.
+
+577
+00:40:51,173 --> 00:40:55,974
+我可以说 我们要等的是Signora Lucca的丈夫
+I can say only that we are expecting Signora Lucca's husband.
+
+578
+00:40:57,191 --> 00:40:58,578
+你得放他过去
+You must let him pass.
+
+579
+00:40:58,652 --> 00:41:00,276
+你的人不要干扰他
+Your men must not distract him.
+
+580
+00:41:00,357 --> 00:41:01,794
+-他们知道的 -很好
+They know that. Fine.
+
+581
+00:41:02,167 --> 00:41:04,233
+-那我们要抓的凶手呢? -噢 他就在附近
+-And our murderer? -Oh, he is about.
+
+582
+00:41:06,001 --> 00:41:07,621
+某个地方
+Somewhere,
+
+583
+00:41:10,098 --> 00:41:11,474
+等待机会下手
+waiting his chance.
+
+584
+00:41:11,511 --> 00:41:14,293
+美国的Leverton给了我一份详尽的描述
+I have a good description from the American Leverton,
+
+585
+00:41:14,448 --> 00:41:15,760
+我们都准备好了
+we'll be ready.
+
+586
+00:41:18,483 --> 00:41:19,550
+看
+Look.
+
+587
+00:41:22,590 --> 00:41:23,596
+华生
+Watson.
+
+588
+00:42:05,835 --> 00:42:07,246
+Signora Lucca
+Signora Lucca,
+
+589
+00:42:07,713 --> 00:42:09,136
+你必须告诉我暗号
+you must give me the signal.
+
+590
+00:42:09,209 --> 00:42:10,836
+走开 我再不会相信你了
+Go away, I don't trust you.
+
+591
+00:42:10,948 --> 00:42:12,964
+除了我丈夫 我谁也不信
+I trust no one but my husband.
+
+592
+00:42:13,036 --> 00:42:14,210
+非常感谢你 医生
+I'm obliged to you, Doctor.
+
+593
+00:42:14,289 --> 00:42:17,135
+最好不要动弹
+The main thing is just to keep this still as possible.
+
+594
+00:42:17,211 --> 00:42:17,901
+好的
+Fine.
+
+595
+00:42:19,160 --> 00:42:21,239
+-福尔摩斯先生 -福尔摩斯
+-Mr. Holmes. -Holmes.
+
+596
+00:42:21,276 --> 00:42:23,985
+这是平克顿侦探事务所的 Leverton先生
+This is Mr. Leverton of the Pinkerton Agency.
+
+597
+00:42:24,066 --> 00:42:28,656
+破获长岛山洞奇案的Leverton么
+Leverton, of the Long Island Cave mystery
+
+598
+00:42:28,727 --> 00:42:30,671
+很荣幸见到你
+I'm honored to meet you.
+
+599
+00:42:30,745 --> 00:42:31,919
+是我的荣幸 先生
+The honor is mine, sir.
+
+600
+00:42:31,997 --> 00:42:34,013
+好吧
+Well, well, well.
+
+601
+00:42:34,085 --> 00:42:35,536
+很可惜这幅模样见你
+I'm sorry we had to meet like this.
+
+602
+00:42:35,617 --> 00:42:36,560
+你很勇敢
+You're a brave man,
+
+603
+00:42:36,597 --> 00:42:38,372
+我看到你在屋顶
+I saw you on the roof.
+
+604
+00:42:39,339 --> 00:42:41,770
+当你毕生时间都用来追踪这件事的时候
+When you're on the trail of a lifetime, Mr. Holmes,
+
+605
+00:42:41,844 --> 00:42:43,920
+你也会把个人安全
+you put all thoughts of personal safety
+
+606
+00:42:44,000 --> 00:42:46,052
+置之度外的 福尔摩斯先生
+out of your mind.
+
+607
+00:42:46,122 --> 00:42:47,924
+我想那混蛋跑掉了
+The brute got away I suppose?
+
+608
+00:42:48,001 --> 00:42:50,432
+是的 但他会回来的
+Yes, but he'll be back soon.
+
+609
+00:42:50,506 --> 00:42:52,973
+这房子里有
+There's something in this house
+
+610
+00:42:53,046 --> 00:42:54,778
+他梦寐以求的
+that he wants badly.
+
+611
+00:42:54,855 --> 00:42:55,498
+噢 是的 我知道
+Oh, yes, I know.
+
+612
+00:42:55,535 --> 00:42:57,202
+谢谢你 医生 我很好 真的很好
+Thank you, Doctor, I'm fine, just fine.
+
+613
+00:42:57,239 --> 00:42:59,379
+楼上的女士安全么?
+Is the lady upstairs, safe?
+
+614
+00:42:59,416 --> 00:43:01,555
+是的 但不再相信任何人
+Yes, but trusting no one.
+
+615
+00:43:01,779 --> 00:43:03,155
+所以我们必须等待
+And so we must wait
+
+616
+00:43:03,192 --> 00:43:05,198
+他丈夫发出的暗号
+for her husband's signal.
+
+617
+00:43:05,605 --> 00:43:06,858
+什么暗号 福尔摩斯先生?
+What signal, Mr. Holmes?
+
+618
+00:43:17,749 --> 00:43:19,420
+Leverton 灯
+Leverton, the lamp.
+
+619
+00:43:22,271 --> 00:43:25,356
+这么说Gennaro Lucca就在那儿?
+So Gennaro Lucca is over there now?
+
+620
+00:43:25,436 --> 00:43:27,261
+还没有 但我想他会来的
+Not yet but he will be I hope.
+
+621
+00:43:27,298 --> 00:43:30,030
+当我到伦敦的时候 我也找不到Lucca
+I couldn't find Lucca when I got to London.
+
+622
+00:43:30,067 --> 00:43:32,650
+我们通过Enrico Firmani进行联系
+My contact was Enrico Firmani
+
+623
+00:43:32,687 --> 00:43:34,567
+但那家伙找到了他
+but the brute reached him first
+
+624
+00:43:34,604 --> 00:43:37,936
+在杀死他之前肯定也让他开口了
+and he must have made him talk before killing him.
+
+625
+00:43:37,973 --> 00:43:40,459
+我们是不是该上楼去看看Lucca夫人?
+Shall we not go upstairs to reassure Mrs. Lucca?
+
+626
+00:43:40,537 --> 00:43:41,947
+她不会让我们进到房间里去的 华生
+She won't admit us, Watson.
+
+627
+00:43:42,998 --> 00:43:44,595
+她现在只听她丈夫的
+She'll only answer to her husband.
+
+628
+00:43:44,676 --> 00:43:47,404
+噢 看哪 是Hawkins
+Oh, look, Hawkins
+
+629
+00:43:48,190 --> 00:43:49,964
+不是很显眼
+not too conspicuous.
+
+630
+00:43:50,313 --> 00:43:53,754
+对 Hawkins警督 他看来来很能干
+Yes, Inspector Hawkins, he seems an able fellow.
+
+631
+00:43:53,791 --> 00:43:55,960
+是苏格兰场最好的一个
+One of Scotland Yard's finest.
+
+632
+00:43:55,997 --> 00:43:57,844
+业务熟练
+He knows his business.
+
+633
+00:44:15,710 --> 00:44:16,971
+先生们
+Gentlemen,
+
+634
+00:44:18,146 --> 00:44:21,751
+Gennaro Lucca刚刚进来
+Gennaro Lucca has just gone in.
+
+635
+00:44:22,808 --> 00:44:24,270
+目前为止一切顺利
+So far so good.
+
+636
+00:44:24,966 --> 00:44:26,388
+夫人是在红圈会计划要杀掉Castallote
+Mrs. Lucca came to us
+
+637
+00:44:26,461 --> 00:44:29,140
+那天晚上来找我们的
+the night the Red Circle planned to kill Castallote.
+
+638
+00:44:30,636 --> 00:44:33,193
+他们已经杀掉了他的合伙人Zamba
+They'd already murdered his partner Zamba.
+
+639
+00:44:34,393 --> 00:44:36,236
+我们设法把团伙成员一网打尽
+We managed to round up most of the gang
+
+640
+00:44:36,273 --> 00:44:40,089
+但那个Black Gorgiano漏网了
+but Black Gorgiano slipped the net.
+
+641
+00:44:41,665 --> 00:44:43,264
+一听说他来英国
+When we heard he'd left for England,
+
+642
+00:44:43,301 --> 00:44:45,921
+我也就尽快赶来了
+I followed after him fast as I could.
+
+643
+00:44:47,490 --> 00:44:48,628
+我和苏格兰场取得了联系
+I got in touch with Scotland Yard
+
+644
+00:44:48,665 --> 00:44:51,322
+他却没有踪影了
+but he'd gone to ground.
+
+645
+00:45:52,743 --> 00:45:54,546
+开始发出暗号了 是什么意思?
+There's a single light, what does it mean?
+
+646
+00:45:55,553 --> 00:45:56,812
+两个灯光
+Two lights.
+
+647
+00:46:00,745 --> 00:46:03,712
+-消失了 -不 又有了
+-Gone. -No, no, there it is again.
+
+648
+00:46:06,903 --> 00:46:10,893
+缓慢的闪三下
+Three lights measured slow.
+
+649
+00:46:12,122 --> 00:46:14,468
+他要说什么 到底什么意思?
+What's he saying, what does it mean?
+
+650
+00:46:14,871 --> 00:46:15,736
+没什么意思
+Nothing,
+
+651
+00:46:15,810 --> 00:46:16,620
+没什么
+nothing.
+
+652
+00:46:18,281 --> 00:46:21,453
+但他下一步肯定是要确认一下
+But his next actions must confirm it.
+
+653
+00:46:21,968 --> 00:46:26,015
+他肯定是来这里等她
+He must come here to collect her.
+
+654
+00:46:33,136 --> 00:46:34,474
+又消失了
+It's gone.
+
+655
+00:46:35,120 --> 00:46:36,543
+收到消息了
+The message received.
+
+656
+00:46:36,615 --> 00:46:37,649
+什么消息?
+But what message?
+
+657
+00:46:43,469 --> 00:46:45,241
+Gennaro
+Gennaro.
+
+658
+00:46:46,948 --> 00:46:50,804
+我最好的朋友
+My dearest friend in all the world,
+
+659
+00:46:52,515 --> 00:46:56,974
+和兄弟会的叛徒
+and betrayer of the brotherhood.
+
+660
+00:46:59,542 --> 00:47:01,739
+这不是在发信号 有个人跟他在一起
+There's no message there's somebody with him.
+
+661
+00:47:04,030 --> 00:47:05,024
+华生?
+Watson?
+
+662
+00:47:06,118 --> 00:47:07,470
+你听到了么 福尔摩斯?
+Did you hear that, Holmes?
+
+663
+00:47:07,544 --> 00:47:09,168
+是的 危险
+Yeah, danger.
+
+664
+00:47:09,249 --> 00:47:12,024
+天哪 看 她跑出来了 跑到街上了
+My God, look she's out there on the street.
+
+665
+00:47:12,102 --> 00:47:13,347
+华生
+Watson.
+
+666
+00:47:32,838 --> 00:47:35,962
+Hawkins 你要抓的人在那
+Hawkins Your murderer is up there.
+
+667
+00:47:36,039 --> 00:47:38,091
+不可能 这只有一个入口
+Impossible, there's only one entrance.
+
+668
+00:47:38,161 --> 00:47:39,655
+等一下 他是我的人 Hawkins
+Just a minute he's mine, Hawkins,
+
+669
+00:47:39,726 --> 00:47:41,184
+-我来负责 -不 你不能 先生
+-I'll take responsibility. -No you won't sir,
+
+670
+00:47:41,221 --> 00:47:43,802
+伦敦的事由伦敦警方负责
+London dangers are up to the London force.
+
+671
+00:47:46,058 --> 00:47:47,444
+Gennaro
+Gennaro.
+
+672
+00:48:07,942 --> 00:48:09,495
+Emilia
+Emilia.
+
+673
+00:48:21,198 --> 00:48:23,704
+华生 带他们离开这个恐怖的地方
+Watson, take them away from this horror.
+
+674
+00:48:52,197 --> 00:48:54,217
+请把船票给我 先生
+I'll take those tickets, sir.
+
+675
+00:48:55,816 --> 00:48:59,329
+求求你 我们的船黎明时起锚
+Please, our ship sales at dawn.
+
+676
+00:49:07,505 --> 00:49:09,314
+你打算把它怎么办 警督?
+What are you going to do with him, Inspector?
+
+677
+00:49:09,627 --> 00:49:12,377
+他将被逮捕 并以谋杀Gorgiano的罪名被指控
+He'll be arrested and tried for the murder of Gorgiano,
+
+678
+00:49:12,415 --> 00:49:14,088
+法律就是法律
+that is the law.
+
+679
+00:49:14,742 --> 00:49:17,497
+我不知道你们英国的法律会怎么对他
+Well, I don't know what your British law may be
+
+680
+00:49:17,535 --> 00:49:19,110
+但我想要是在纽约
+but I guess that in New York,
+
+681
+00:49:19,147 --> 00:49:22,888
+这位女士的丈夫会收到很多的感谢信
+this lady's husband will receive a pretty general vote of thanks.
+
+682
+00:49:25,249 --> 00:49:27,996
+这世上没有哪一个法官 会给这个男人判刑
+There's not a judge on earth that will condemn this man.
+
+683
+00:49:28,504 --> 00:49:31,444
+我想Lucca夫妇没有什么好担心的
+I don't think Mr. And Mrs. Lucca have too much to fear
+
+684
+00:49:31,824 --> 00:49:33,670
+但我们还是得遵守法律程序
+but we have to go through the procedures.
+
+685
+00:49:34,573 --> 00:49:35,994
+带他们下楼
+Take them downstairs.
+
+686
+00:49:42,191 --> 00:49:44,994
+要是你一个人在这里 福尔摩斯先生
+No doubt if you'd been here on your own, Mr. Holmes,
+
+687
+00:49:45,149 --> 00:49:47,239
+你会有不同的解决方法吧
+you'd have found a different solution.
+
+688
+00:49:47,515 --> 00:49:50,175
+我们生活在法律之下 警督
+The law is what we live with, Inspector.
+
+689
+00:49:51,097 --> 00:49:56,719
+但有的时候正义更难实现
+Justice is sometimes harder to achieve.
+
+690
+00:49:57,466 --> 00:49:59,665
+我还是不明白 你是怎么一开始
+What I still don't understand is how you came to be mixed up
+
+691
+00:49:59,701 --> 00:50:00,934
+就卷到这件事里来的
+in all this in the first place.
+
+692
+00:50:00,971 --> 00:50:02,960
+晚安警督
+Good night, Inspector.
+
+693
+00:50:04,229 --> 00:50:05,929
+晚安 福尔摩斯先生
+Good night, Mr. Holmes.
+
+694
+00:50:37,545 --> 00:50:40,599
+<i>看来英国的司法 对这对年轻夫妇很友善</i>
+<i>English justice looked kindly on the young couple</i>
+
+695
+00:50:40,636 --> 00:50:43,345
+<i>不久 他们就去了澳大利亚</i>
+<i>and soon afterwards they left for Australia.</i>
+
+696
+00:50:44,423 --> 00:50:46,824
+<i>在那里终于摆脱了红圈会的威胁</i>
+<i>There they found a new and happier life</i>
+
+697
+00:50:46,904 --> 00:50:50,242
+<i>过着新的幸福生活</i>
+<i>free from the threat of the Red Circle.</i>
+
+698
+00:50:54,670 --> 00:50:59,779
+<font color="#ffff00">风软FRM字幕组作品 -==http://www.1000fr.com==- 欢迎加入</font>
+<font color="#ffff00">welcome to www.1000fr.com</font>
+

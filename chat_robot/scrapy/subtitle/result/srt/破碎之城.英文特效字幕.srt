@@ -1,0 +1,6807 @@
+1
+00:00:24,940 --> 00:00:40,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}更多佳片尽在 shop.paipai.com/1610169789
+
+2
+00:02:36,940 --> 00:02:38,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-What do we want?-Justice!
+
+3
+00:02:38,990 --> 00:02:40,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-When do we want it?-Now!
+
+4
+00:02:40,490 --> 00:02:41,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-What do we want?-Justice!
+
+5
+00:02:41,780 --> 00:02:43,280
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-When do we want it?-Now!
+
+6
+00:02:43,280 --> 00:02:44,870
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-What do we want?-Justice!
+
+7
+00:02:44,870 --> 00:02:46,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-When do we want it?-Now!
+
+8
+00:02:46,450 --> 00:02:47,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-What do we want?-Justice!
+
+9
+00:02:47,750 --> 00:02:49,210
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-When do we want it?-Now!
+
+10
+00:02:49,210 --> 00:02:50,460
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-What do we want?-Justice!
+
+11
+00:02:50,500 --> 00:02:52,080
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-When do we want it?-Now!
+
+12
+00:02:53,880 --> 00:02:56,380
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Your Honor, it's murder.
+
+13
+00:02:56,380 --> 00:02:58,260
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Even when the police do it.
+
+14
+00:02:58,260 --> 00:03:01,760
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Detective William James Taggart swore an oath
+
+15
+00:03:01,760 --> 00:03:05,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to protect and serve the people of New York.
+
+16
+00:03:05,640 --> 00:03:07,140
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He shattered that oath.
+
+17
+00:03:07,180 --> 00:03:10,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The State will prove there is probable cause
+
+18
+00:03:10,100 --> 00:03:13,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to try him for the murder of Mikey Tavarez.
+
+19
+00:03:13,650 --> 00:03:15,610
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Thank you, Your Honor.
+
+20
+00:03:15,610 --> 00:03:16,820
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Mr.Davies.
+
+21
+00:03:16,820 --> 00:03:18,530
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Your Honor, it isn't murder
+
+22
+00:03:18,530 --> 00:03:20,150
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}when the other guy shooting at you.
+
+23
+00:03:21,910 --> 00:03:24,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It isn't murder when the other guy has a gun.
+
+24
+00:03:42,050 --> 00:03:43,550
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What are we drinking, chief?
+
+25
+00:03:43,550 --> 00:03:45,600
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Nothing for me, sir.
+
+26
+00:03:45,600 --> 00:03:47,890
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Civilization gone to pieces.
+
+27
+00:03:53,350 --> 00:03:56,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You know, there are a lot of men in this town
+
+28
+00:03:56,940 --> 00:03:59,190
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}who would find it hard to trust a man
+
+29
+00:03:59,190 --> 00:04:01,110
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}as respectable as you.
+
+30
+00:04:01,110 --> 00:04:02,820
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I am not one of those men.
+
+31
+00:04:02,820 --> 00:04:05,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Your boss, the police commissioner,
+
+32
+00:04:05,410 --> 00:04:06,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}he's an asshole.
+
+33
+00:04:06,700 --> 00:04:09,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I came to discuss the Taggart case, sir.
+
+34
+00:04:09,410 --> 00:04:11,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What is there to discuss?
+
+35
+00:04:11,410 --> 00:04:12,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It won't make it past preliminary.
+
+36
+00:04:12,960 --> 00:04:14,830
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Maybe we should hope it does, sir.
+
+37
+00:04:14,830 --> 00:04:17,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Those people outside will find it very hard
+
+38
+00:04:17,750 --> 00:04:19,550
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to believe it wasn't murder, plain and simple.
+
+39
+00:04:19,590 --> 00:04:21,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How's this for plain and simple?
+
+40
+00:04:21,340 --> 00:04:24,260
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}There's one less homicidal rapist walking the streets.
+
+41
+00:04:24,260 --> 00:04:27,260
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Mikey Tavarez was found innocent of those charges.
+
+42
+00:04:27,260 --> 00:04:28,720
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He walked on a technicality.
+
+43
+00:04:28,720 --> 00:04:31,560
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We know he raped and killed Yesenia Barea.
+
+44
+00:04:31,600 --> 00:04:33,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The law says differently, sir.
+
+45
+00:04:34,600 --> 00:04:37,440
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You always this much fun, chief?
+
+46
+00:04:37,440 --> 00:04:39,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I think Billy Taggart is a hero.
+
+47
+00:04:39,690 --> 00:04:42,740
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And I like getting my photo taken next to heroes.
+
+48
+00:04:42,740 --> 00:04:44,400
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I also like winning Staten Island
+
+49
+00:04:44,450 --> 00:04:45,860
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}without having to go there.
+
+50
+00:04:45,860 --> 00:04:49,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}A witness came forward this morning.
+
+51
+00:04:49,450 --> 00:04:51,910
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We are two minutes away from the judge's decision.
+
+52
+00:04:51,910 --> 00:04:54,210
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He came forward with evidence.
+
+53
+00:04:55,210 --> 00:04:56,420
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Where is it?
+
+54
+00:04:56,460 --> 00:04:58,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's been temporarily misplaced.
+
+55
+00:04:58,750 --> 00:05:00,670
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The witness?
+
+56
+00:05:00,670 --> 00:05:02,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}A kid.
+
+57
+00:05:06,340 --> 00:05:08,350
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Is he legal?
+
+58
+00:05:08,350 --> 00:05:10,600
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Is his mother legal?
+
+59
+00:05:10,640 --> 00:05:12,430
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Find out what he wants.
+
+60
+00:05:12,470 --> 00:05:14,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It appears he wants justice, sir.
+
+61
+00:05:14,770 --> 00:05:17,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Well, nobody gets that.
+
+62
+00:05:18,270 --> 00:05:19,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What do you want, chief?
+
+63
+00:05:21,690 --> 00:05:24,240
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I want what's best for the city, sir.
+
+64
+00:05:26,150 --> 00:05:28,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It is the court's view
+
+65
+00:05:28,490 --> 00:05:32,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}that the State has failed to present a clear case..
+
+66
+00:05:33,790 --> 00:05:36,210
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}..for why the shooting should amount to murder
+
+67
+00:05:36,210 --> 00:05:38,040
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and not self-defense.
+
+68
+00:05:38,040 --> 00:05:41,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Therefore, the defendant will not be held
+
+69
+00:05:41,590 --> 00:05:43,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to answer to these charges at trial.
+
+70
+00:05:43,800 --> 00:05:46,300
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He's free to go. Court adjourned.
+
+71
+00:05:52,220 --> 00:05:53,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Detective.
+
+72
+00:05:53,680 --> 00:05:54,930
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Sorry to interrupt.
+
+73
+00:05:54,930 --> 00:05:56,850
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Chief Fairbanks wants to see you.
+
+74
+00:06:00,270 --> 00:06:01,820
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Here's our guy.
+
+75
+00:06:01,820 --> 00:06:04,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How are you? Mr.Mayor.
+
+76
+00:06:04,070 --> 00:06:07,320
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Hey, chief.-Sit down, detective.
+
+77
+00:06:08,700 --> 00:06:09,990
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-What's this about?-Sit down.
+
+78
+00:06:09,990 --> 00:06:11,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Don't worry about the chief.
+
+79
+00:06:11,450 --> 00:06:14,330
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We drew straws for "good cop, bad cop" and he won.
+
+80
+00:06:14,370 --> 00:06:16,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What does he want, to interrogate me?
+
+81
+00:06:16,450 --> 00:06:20,210
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No, I just wanted to get in a room with you.
+
+82
+00:06:20,210 --> 00:06:23,250
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I wanted to tell you how proud I am of you.
+
+83
+00:06:23,250 --> 00:06:25,260
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You've done the city a great favor.
+
+84
+00:06:25,260 --> 00:06:28,010
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You, in my eyes, hero.
+
+85
+00:06:28,050 --> 00:06:29,470
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Thank you.
+
+86
+00:06:29,470 --> 00:06:30,760
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Here's the thing.
+
+87
+00:06:30,760 --> 00:06:33,220
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Some uncomfortable evidence has come to light.
+
+88
+00:06:33,220 --> 00:06:36,680
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}If it should come out, we will be fucked.
+
+89
+00:06:36,730 --> 00:06:40,350
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It is a necessity that we remain unfucked.
+
+90
+00:06:41,610 --> 00:06:43,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-So..-You're done, detective.
+
+91
+00:06:44,860 --> 00:06:46,990
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yesenia Barea was 16 years old, chief.
+
+92
+00:06:46,990 --> 00:06:48,360
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Mikey Tavarez was exonerated.
+
+93
+00:06:48,400 --> 00:06:51,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-And they got it wrong.-So you put it right.
+
+94
+00:06:51,490 --> 00:06:52,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm not the bad guy, chief.
+
+95
+00:06:52,740 --> 00:06:54,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Keep telling yourself that.
+
+96
+00:06:54,490 --> 00:06:56,240
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Billy, there's some wars you fight
+
+97
+00:06:56,240 --> 00:06:58,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and some wars you walk away from.
+
+98
+00:06:58,410 --> 00:07:01,420
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Mayor..-This is not the fighting kind.
+
+99
+00:07:01,420 --> 00:07:03,880
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I have a long memory, son.
+
+100
+00:07:03,920 --> 00:07:06,880
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}If you ever change your number,
+
+101
+00:07:06,880 --> 00:07:10,010
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}you make sure you let my office know.
+
+102
+00:07:28,000 --> 00:07:31,000
+
+
+103
+00:07:45,090 --> 00:07:46,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Mayor Nicholas Hostetler
+
+104
+00:07:46,630 --> 00:07:48,420
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}is Wall Street's approved candidate.
+
+105
+00:07:48,420 --> 00:07:50,220
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That's the charge from the mayor's rival,
+
+106
+00:07:50,220 --> 00:07:51,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Councilman Jack Valliant,
+
+107
+00:07:51,800 --> 00:07:54,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}who spoke to reporters earlier today.
+
+108
+00:09:01,240 --> 00:09:03,830
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What the fuck are you doing? Hey, what..
+
+109
+00:09:07,540 --> 00:09:09,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What the fuck's going on out here?
+
+110
+00:09:09,750 --> 00:09:11,090
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Take it easy.
+
+111
+00:09:11,090 --> 00:09:13,510
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-What's going on?-This guy attacked me.
+
+112
+00:09:15,470 --> 00:09:17,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Motherfucker!
+
+113
+00:09:19,720 --> 00:09:21,470
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No, stop!
+
+114
+00:09:21,470 --> 00:09:23,600
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No, please, no.
+
+115
+00:09:23,600 --> 00:09:25,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Fucker.
+
+116
+00:09:25,730 --> 00:09:26,980
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Where's my camera?
+
+117
+00:09:28,400 --> 00:09:30,360
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Sweetheart, look at me for a second, please?
+
+118
+00:09:31,400 --> 00:09:32,610
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Thank you.
+
+119
+00:09:33,740 --> 00:09:35,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Son of a bitch.
+
+120
+00:09:40,030 --> 00:09:42,040
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Just like in the beginning.
+
+121
+00:09:42,040 --> 00:09:45,160
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No one would admit something was happening.
+
+122
+00:09:45,160 --> 00:09:48,080
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Never happened. Never happened.
+
+123
+00:09:50,500 --> 00:09:52,500
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Big part. Disturbing.
+
+124
+00:09:59,260 --> 00:10:01,970
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Ow. All right, all right.
+
+125
+00:10:01,970 --> 00:10:05,060
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-When are you going to stop this?-Stop what?
+
+126
+00:10:05,060 --> 00:10:07,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Coming home looking like bloody meat.
+
+127
+00:10:07,270 --> 00:10:10,360
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-I thought you liked bloody meat.-I'm a vegetarian.
+
+128
+00:10:10,360 --> 00:10:12,980
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You got to get your protein somehow.
+
+129
+00:10:12,980 --> 00:10:14,480
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You're an asshole.
+
+130
+00:10:14,480 --> 00:10:15,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Ow.
+
+131
+00:10:15,690 --> 00:10:18,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Did you pick up your dress for the premiere?
+
+132
+00:10:18,490 --> 00:10:19,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Tomorrow.
+
+133
+00:10:19,780 --> 00:10:22,080
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Am I gonna like this dress?
+
+134
+00:10:22,080 --> 00:10:23,330
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I think you'll approve.
+
+135
+00:10:23,330 --> 00:10:25,080
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Will Ryan like this dress?
+
+136
+00:10:25,080 --> 00:10:27,160
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I don't know. I'm not familiar with his taste.
+
+137
+00:10:27,160 --> 00:10:28,580
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I see the looks he gives you.
+
+138
+00:10:28,580 --> 00:10:31,080
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How come you see these looks and I don't?
+
+139
+00:10:31,130 --> 00:10:33,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You see the best in people, it's your fatal flaw.
+
+140
+00:10:33,800 --> 00:10:35,550
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What's yours?
+
+141
+00:10:35,550 --> 00:10:38,420
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Not being able to see the best in people.
+
+142
+00:10:38,420 --> 00:10:40,090
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Not even me?
+
+143
+00:10:40,090 --> 00:10:42,930
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You're the exception, you know that.
+
+144
+00:10:42,930 --> 00:10:46,020
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm an actress. Maybe I've got you fooled.
+
+145
+00:10:47,560 --> 00:10:50,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm a detective. You couldn't if you tried.
+
+146
+00:10:58,110 --> 00:10:59,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's down to the wire,
+
+147
+00:10:59,570 --> 00:11:01,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}with New Yorkers set to vote in eight days.
+
+148
+00:11:01,450 --> 00:11:03,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Our latest poll shows Councilman Jack Valliant
+
+149
+00:11:03,370 --> 00:11:05,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}pulling ahead in the race for mayor.
+
+150
+00:11:05,370 --> 00:11:09,040
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Let's look at what a potential Valliant administration could..
+
+151
+00:11:16,500 --> 00:11:20,050
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No, Tom, not a few weeks. Months.
+
+152
+00:11:20,050 --> 00:11:22,140
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Simon Cowell was still on American Idol
+
+153
+00:11:22,140 --> 00:11:24,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}when we did this job.
+
+154
+00:11:24,680 --> 00:11:27,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}"What do I want?" Am I speaking Latin?
+
+155
+00:11:27,270 --> 00:11:29,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I want payment, Tom. Payment.
+
+156
+00:11:29,270 --> 00:11:32,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Fifty-five hundred dollars is what..Hello?
+
+157
+00:11:32,770 --> 00:11:34,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hello?
+
+158
+00:11:35,270 --> 00:11:37,480
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Fucking cross-dresser.
+
+159
+00:11:43,910 --> 00:11:46,160
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hi. Gary Lyman's office, please.
+
+160
+00:11:46,160 --> 00:11:48,620
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah, I'll wait.
+
+161
+00:11:48,660 --> 00:11:51,250
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}If that's your brother calling collect again..
+
+162
+00:11:51,250 --> 00:11:54,130
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's called collections, Billy.
+
+163
+00:11:54,130 --> 00:11:55,790
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Because you don't charge nobody up front.
+
+164
+00:11:55,840 --> 00:11:57,460
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How's it coming?
+
+165
+00:11:57,500 --> 00:11:59,260
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You know that theory of yours about never being broke
+
+166
+00:11:59,260 --> 00:12:00,880
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}if somebody owes you?
+
+167
+00:12:00,880 --> 00:12:02,090
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We're broke.
+
+168
+00:12:03,680 --> 00:12:05,930
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah, I'm still holding.
+
+169
+00:12:05,930 --> 00:12:07,600
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah.
+
+170
+00:12:09,390 --> 00:12:10,810
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What is this?
+
+171
+00:12:10,850 --> 00:12:13,980
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Some guy from Staten Island said he's gonna kill you.
+
+172
+00:12:14,020 --> 00:12:16,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Call him back. Tell him he owes me a camera.
+
+173
+00:12:16,770 --> 00:12:20,530
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Oh. Oh, he just stepped out?
+
+174
+00:12:20,530 --> 00:12:22,990
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah, just now?
+
+175
+00:12:23,030 --> 00:12:25,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Well, you tell him he's got
+
+176
+00:12:25,570 --> 00:12:27,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}till the close of business today
+
+177
+00:12:27,490 --> 00:12:30,830
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to call Katy from Billy Taggart's office.
+
+178
+00:12:30,830 --> 00:12:33,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Or else I'm gonna tell his wife he's been screwing his assistant
+
+179
+00:12:33,750 --> 00:12:36,130
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}for the past 11 months. How about that?
+
+180
+00:12:37,000 --> 00:12:38,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Are you serious?
+
+181
+00:12:38,750 --> 00:12:42,050
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}These people provoke me, Billy. All day. You don't know.
+
+182
+00:12:42,050 --> 00:12:43,970
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}This is a professional workplace, Katy.
+
+183
+00:12:43,970 --> 00:12:45,760
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah. Once more with conviction.
+
+184
+00:12:45,760 --> 00:12:51,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-How much have you cleared?-Uh, like $1,800.
+
+185
+00:12:51,100 --> 00:12:52,890
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Not bad. How much is outstanding?
+
+186
+00:12:52,890 --> 00:12:55,350
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Forty-two thousand.
+
+187
+00:12:56,350 --> 00:12:58,110
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Give me the fucking numbers.-Yeah.
+
+188
+00:12:58,110 --> 00:13:01,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How about I garnish your wages and put a lien on your garage
+
+189
+00:13:01,650 --> 00:13:04,400
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}until I've gotten every cent of the 8 grand you owe?
+
+190
+00:13:04,400 --> 00:13:06,160
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How about I pay in installments?
+
+191
+00:13:06,160 --> 00:13:07,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Three installments of 2,650,
+
+192
+00:13:07,570 --> 00:13:09,530
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I want the first payment this Friday.
+
+193
+00:13:09,530 --> 00:13:11,160
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Jimmy. Hey, buddy.
+
+194
+00:13:11,160 --> 00:13:13,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-It's Billy.-What's up, Bill?
+
+195
+00:13:13,370 --> 00:13:16,710
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Oh, just hoping I can get that payment, buddy.
+
+196
+00:13:16,710 --> 00:13:19,460
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Well, things have been a little slow here.
+
+197
+00:13:19,460 --> 00:13:21,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I've been, uh, having some rough times.
+
+198
+00:13:21,960 --> 00:13:25,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How many times did you catch him,
+
+199
+00:13:25,170 --> 00:13:26,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}literally, with his pants down
+
+200
+00:13:26,590 --> 00:13:29,010
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and I pay for his infidelity?
+
+201
+00:13:29,010 --> 00:13:31,220
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You're the one that hired me, Amber.
+
+202
+00:13:31,220 --> 00:13:34,560
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm supposed to foot the goddamn bill?
+
+203
+00:13:34,560 --> 00:13:36,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How many times, Billy? Tell me.
+
+204
+00:13:36,940 --> 00:13:40,360
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Eight times, Amber, for a total of $4,000. Come on.
+
+205
+00:13:40,360 --> 00:13:42,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Send him the invoice then!
+
+206
+00:13:43,940 --> 00:13:46,240
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Listen, Billy, I'm not paying you a dime.
+
+207
+00:13:46,240 --> 00:13:48,320
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I want my fucking money.
+
+208
+00:13:48,320 --> 00:13:50,660
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You'll get it. Nev-uary.
+
+209
+00:13:50,660 --> 00:13:52,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What kind of man are you, Dave?
+
+210
+00:13:52,410 --> 00:13:54,830
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}A man who doesn't pay his debts
+
+211
+00:13:54,830 --> 00:13:56,040
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}is the worst kind of all.
+
+212
+00:13:56,040 --> 00:13:57,790
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Is that the kind of man you are?
+
+213
+00:13:57,790 --> 00:14:01,420
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Okay, okay. I can maybe get you half by Monday.
+
+214
+00:14:01,460 --> 00:14:05,300
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Half is fair. I can do half. Talk to Katy.
+
+215
+00:14:05,300 --> 00:14:07,430
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hey, Dave, Katy.
+
+216
+00:14:07,470 --> 00:14:10,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}So, what time on Monday, huh?
+
+217
+00:14:10,640 --> 00:14:12,850
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-I'm going to get some air.-Okay.
+
+218
+00:14:19,060 --> 00:14:22,110
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Billy! Billy!
+
+219
+00:14:22,150 --> 00:14:24,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Phone!-Take a message!
+
+220
+00:14:24,730 --> 00:14:26,320
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's the mayor.
+
+221
+00:14:35,290 --> 00:14:37,250
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You seem nervous.
+
+222
+00:14:37,250 --> 00:14:40,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's probably the bomb I got shoved up my asshole.
+
+223
+00:14:42,000 --> 00:14:43,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Too soon?
+
+224
+00:14:43,960 --> 00:14:46,550
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Councilman Valliant, any comment on the Bolton Village sale?
+
+225
+00:14:46,550 --> 00:14:48,930
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I think this is a sad day for New York.
+
+226
+00:14:48,930 --> 00:14:52,680
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I never thought I'd see a mayor of this city, even this mayor,
+
+227
+00:14:52,680 --> 00:14:54,470
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}stoop so low as to steal the homes
+
+228
+00:14:54,470 --> 00:14:56,720
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}of 30,000 hardworking New Yorkers.
+
+229
+00:14:56,720 --> 00:14:58,310
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And I will not let this sale stand
+
+230
+00:14:58,350 --> 00:15:00,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}when I'm elected mayor on Tuesday.
+
+231
+00:15:00,100 --> 00:15:02,560
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Is the timing of the announcement political?
+
+232
+00:15:02,560 --> 00:15:04,480
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Absolutely, it's political.
+
+233
+00:15:04,520 --> 00:15:06,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That's not to say Nick Hostetler doesn't care.
+
+234
+00:15:06,570 --> 00:15:09,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Evidently, he cares very deeply about two things:
+
+235
+00:15:09,570 --> 00:15:12,660
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}His own job and taking care of his buddies on Wall Street.
+
+236
+00:15:12,700 --> 00:15:15,540
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What's your message to the people of Bolton Village?
+
+237
+00:15:15,540 --> 00:15:17,200
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Help is on the way.
+
+238
+00:15:17,200 --> 00:15:19,830
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Come Tuesday you will have an ally in City Hall.
+
+239
+00:15:19,870 --> 00:15:22,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Listen to this guy, Mike.
+
+240
+00:15:22,290 --> 00:15:24,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Can't even get his numbers right.
+
+241
+00:15:24,340 --> 00:15:27,460
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Bolton Village is home to 37,512.
+
+242
+00:15:27,460 --> 00:15:29,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And you know what this deal means for them?
+
+243
+00:15:29,340 --> 00:15:32,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Valliant seems to think it means eviction, mayor.
+
+244
+00:15:32,640 --> 00:15:35,180
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Valliant thinks.
+
+245
+00:15:35,180 --> 00:15:36,810
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What it means is better service.
+
+246
+00:15:36,810 --> 00:15:38,680
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It means more attentive landlords,
+
+247
+00:15:38,720 --> 00:15:41,020
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}somebody showing up when the toilet is blocked
+
+248
+00:15:41,060 --> 00:15:42,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}or the heat's on the fritz.
+
+249
+00:15:42,650 --> 00:15:44,980
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It means paint on the walls and it means windows fixed.
+
+250
+00:15:44,980 --> 00:15:48,190
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Valliant says Solstein Donagan's going to jack up their rents,
+
+251
+00:15:48,230 --> 00:15:49,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}replace them with yuppies.
+
+252
+00:15:51,200 --> 00:15:52,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}This is a great deal
+
+253
+00:15:52,700 --> 00:15:54,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}for the people of Bolton Village
+
+254
+00:15:54,490 --> 00:15:57,330
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and it's a great deal for the city of New York.
+
+255
+00:15:57,330 --> 00:15:58,790
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Do you think the announcement of this deal
+
+256
+00:15:58,790 --> 00:16:01,540
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}will add to your poll numbers?
+
+257
+00:16:01,540 --> 00:16:03,710
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Well, you know, Mike,
+
+258
+00:16:03,750 --> 00:16:06,000
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}if the readers of the New York Post
+
+259
+00:16:06,000 --> 00:16:08,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}want to reward competence,
+
+260
+00:16:08,340 --> 00:16:10,970
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}who am I to argue with that? Excuse me.
+
+261
+00:16:10,970 --> 00:16:13,630
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah?
+
+262
+00:16:13,630 --> 00:16:17,600
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Well, obviously that was some attempt at humor.
+
+263
+00:16:17,600 --> 00:16:21,060
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No, call off the brigade. Bring him up. Thank you.
+
+264
+00:16:21,100 --> 00:16:24,350
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}All right, Mike, get out of here.
+
+265
+00:16:24,350 --> 00:16:25,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Go do the people's work.
+
+266
+00:16:25,770 --> 00:16:27,900
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Good luck Tuesday.-Thank you.
+
+267
+00:16:27,940 --> 00:16:31,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Look. Here's one for the car. One for the wife.
+
+268
+00:16:31,650 --> 00:16:33,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And one for the kid, put it on his school bag.
+
+269
+00:16:33,610 --> 00:16:36,240
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Thanks.-All right.
+
+270
+00:16:36,240 --> 00:16:39,080
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Mr.Mayor.-Hey.
+
+271
+00:16:39,120 --> 00:16:40,580
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You know, Billy,
+
+272
+00:16:40,580 --> 00:16:44,620
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}we take threats of terrorism very seriously around here.
+
+273
+00:16:44,620 --> 00:16:45,670
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I..
+
+274
+00:16:45,670 --> 00:16:48,090
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Even from good Catholic boys like you.
+
+275
+00:16:49,590 --> 00:16:53,510
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm kidding. Look at you. Looking all civilized.
+
+276
+00:16:53,510 --> 00:16:55,380
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's good to see you, mayor.
+
+277
+00:16:55,380 --> 00:16:57,470
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You see this golden boy on your way in?
+
+278
+00:16:57,470 --> 00:16:59,510
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I caught a glimpse.
+
+279
+00:16:59,510 --> 00:17:02,390
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You know, if I'm being honest,
+
+280
+00:17:02,390 --> 00:17:04,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I find it faintly insulting.
+
+281
+00:17:04,520 --> 00:17:07,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What, that you're running dead even with a nobody?
+
+282
+00:17:09,690 --> 00:17:11,820
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah.
+
+283
+00:17:11,820 --> 00:17:14,280
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You always were more balls than tact.
+
+284
+00:17:14,280 --> 00:17:16,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm actually trying to reverse the trend.
+
+285
+00:17:16,950 --> 00:17:19,330
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No, you shouldn't. It's one of your strong suits.
+
+286
+00:17:20,410 --> 00:17:23,620
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Scotch?-Uh, I'm on the wagon, thank you.
+
+287
+00:17:23,660 --> 00:17:24,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Really?
+
+288
+00:17:24,960 --> 00:17:28,420
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What about if I just pour one for you
+
+289
+00:17:28,420 --> 00:17:31,300
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and leave it between us like a symbol?
+
+290
+00:17:31,300 --> 00:17:33,630
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You going to be able to put this guy away?
+
+291
+00:17:34,970 --> 00:17:37,300
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I ever tell you about Johnny Ingrisano?
+
+292
+00:17:37,300 --> 00:17:39,010
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I don't think you told me that.
+
+293
+00:17:39,010 --> 00:17:40,350
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Every day, growing up in Queens,
+
+294
+00:17:40,350 --> 00:17:43,680
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}this guy would pummel me at recess.
+
+295
+00:17:43,680 --> 00:17:46,350
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What could I do? I was just a kid.
+
+296
+00:17:47,310 --> 00:17:48,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}A couple of years ago,
+
+297
+00:17:48,730 --> 00:17:50,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I heard Ingrisano got in legal trouble.
+
+298
+00:17:50,730 --> 00:17:54,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The kind of trouble another guy could get himself out of easily.
+
+299
+00:17:54,070 --> 00:17:55,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}So I got involved.
+
+300
+00:17:55,530 --> 00:17:59,030
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Now, he scratches his ass without permission,
+
+301
+00:17:59,030 --> 00:18:00,830
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}he spends a week in Rikers.
+
+302
+00:18:01,990 --> 00:18:05,500
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Jack Valliant reminds me of Johnny Ingrisano.
+
+303
+00:18:06,330 --> 00:18:07,790
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You ever do any hunting?
+
+304
+00:18:07,790 --> 00:18:09,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-No.-You should try it.
+
+305
+00:18:09,750 --> 00:18:13,460
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You would be a natural. And you'd love the dogs.
+
+306
+00:18:13,460 --> 00:18:16,010
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Women call men dogs.
+
+307
+00:18:16,010 --> 00:18:18,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}They mean it to suggest we're somehow
+
+308
+00:18:18,590 --> 00:18:20,510
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}untrustworthy or disloyal.
+
+309
+00:18:20,510 --> 00:18:22,430
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But a dog is anything but.
+
+310
+00:18:24,350 --> 00:18:25,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And if men are dogs,
+
+311
+00:18:25,770 --> 00:18:28,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}what the goddamn hell does that make women?
+
+312
+00:18:28,640 --> 00:18:30,900
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You ever seen a bitch in heat?
+
+313
+00:18:30,900 --> 00:18:32,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}She'll grind herself across the grass
+
+314
+00:18:32,770 --> 00:18:34,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to try and get at that itch.
+
+315
+00:18:36,030 --> 00:18:38,110
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And if she can sneak out of the backyard,
+
+316
+00:18:38,110 --> 00:18:40,660
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}any dog will do.
+
+317
+00:18:40,660 --> 00:18:43,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm not sure I'm following you, mayor.
+
+318
+00:18:46,370 --> 00:18:48,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I need you to help me find the son of a bitch
+
+319
+00:18:48,370 --> 00:18:50,000
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}who's fucking my wife.
+
+320
+00:18:51,250 --> 00:18:53,380
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You think she's having an affair?
+
+321
+00:18:53,420 --> 00:18:55,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I know she's having an affair.
+
+322
+00:18:55,340 --> 00:18:58,050
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Maybe you should call the Post and confirm.
+
+323
+00:18:58,050 --> 00:19:00,430
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}She's smarter than that.
+
+324
+00:19:00,430 --> 00:19:02,680
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}So is he.
+
+325
+00:19:02,680 --> 00:19:04,390
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He's like a goddamn phantom.
+
+326
+00:19:04,430 --> 00:19:06,680
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Maybe he doesn't exist.
+
+327
+00:19:06,680 --> 00:19:10,810
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I still want the pictures. I want to know who he is.
+
+328
+00:19:10,810 --> 00:19:12,810
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I want to know where he's from.
+
+329
+00:19:12,810 --> 00:19:14,820
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I want to know how big his dick is, how long he lasts,
+
+330
+00:19:14,820 --> 00:19:16,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}where do they fuck. In hotels or his place?
+
+331
+00:19:16,940 --> 00:19:18,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I want to know if he makes her come,
+
+332
+00:19:18,610 --> 00:19:20,860
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}or if she fakes it with him too.
+
+333
+00:19:20,860 --> 00:19:23,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And I want to know everything by election day.
+
+334
+00:19:23,450 --> 00:19:26,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What's it got to do with the election?
+
+335
+00:19:26,450 --> 00:19:29,790
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}New Yorkers, they've elected drunks, crooks,
+
+336
+00:19:29,790 --> 00:19:32,250
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Italians, homos, Jews and blacks to that seat.
+
+337
+00:19:32,250 --> 00:19:34,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But they will not elect is some guy whose wife
+
+338
+00:19:34,960 --> 00:19:38,300
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}is fucking some other guy behind his back.
+
+339
+00:19:38,300 --> 00:19:40,680
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Now this pussy, this Jack Valliant,
+
+340
+00:19:40,680 --> 00:19:43,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}he may be too much of a lightweight
+
+341
+00:19:43,590 --> 00:19:46,390
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to use this story if it comes across his desk.
+
+342
+00:19:46,390 --> 00:19:49,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But his staff will not hesitate.
+
+343
+00:19:49,140 --> 00:19:51,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What if she doesn't see him before Tuesday?
+
+344
+00:19:51,770 --> 00:19:55,110
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Then it's gonna be the easiest $50,000 you ever made.
+
+345
+00:19:56,320 --> 00:19:58,320
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Half now, half later.
+
+346
+00:19:58,320 --> 00:19:59,860
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Half right now?
+
+347
+00:19:59,860 --> 00:20:02,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Right this instant. What do you say?
+
+348
+00:20:02,990 --> 00:20:04,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I say yes.
+
+349
+00:20:04,490 --> 00:20:07,280
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You get me what I need.
+
+350
+00:20:07,280 --> 00:20:09,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I will, mayor. Consider it done.
+
+351
+00:20:12,160 --> 00:20:16,090
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You can get my wife's schedule from Valerie on the way out, hm?
+
+352
+00:20:18,500 --> 00:20:19,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Something wrong?
+
+353
+00:20:19,960 --> 00:20:21,470
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}When you called, I didn't think it would be
+
+354
+00:20:21,510 --> 00:20:23,130
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}for something like this.
+
+355
+00:20:23,180 --> 00:20:24,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah.
+
+356
+00:20:26,100 --> 00:20:27,720
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Neither did I.
+
+357
+00:20:32,230 --> 00:20:33,980
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hey, Billy.
+
+358
+00:20:33,980 --> 00:20:35,810
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Welcome back.
+
+359
+00:20:37,110 --> 00:20:38,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Thanks, mayor.
+
+360
+00:20:58,210 --> 00:21:01,630
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Have you got time for breakfast?-Baby, have you seen my keys?
+
+361
+00:21:02,880 --> 00:21:05,260
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}On the table, by your hot sauce collection.
+
+362
+00:21:08,140 --> 00:21:10,310
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It looks like we can do L.A. in style.
+
+363
+00:21:10,310 --> 00:21:12,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I landed a big contract, I got some cushion now.
+
+364
+00:21:12,640 --> 00:21:14,350
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That sounds great.
+
+365
+00:21:14,350 --> 00:21:17,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'll text you the details for the cast dinner tomorrow.
+
+366
+00:21:17,940 --> 00:21:20,190
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No, I'm not going to that.
+
+367
+00:21:20,190 --> 00:21:22,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Those guys take that metrosexual shit way too far.
+
+368
+00:21:22,570 --> 00:21:24,150
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I don't give a fuck if you want to be
+
+369
+00:21:24,150 --> 00:21:25,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}a thespian or a lesbian.
+
+370
+00:21:25,780 --> 00:21:27,820
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But when a man whips out a compact
+
+371
+00:21:27,820 --> 00:21:30,030
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and a powder puff at dinner, that's no good.
+
+372
+00:21:30,080 --> 00:21:31,910
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Can you pretend to be interested?
+
+373
+00:21:31,910 --> 00:21:33,580
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Just one night, please.
+
+374
+00:21:33,580 --> 00:21:35,830
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's not every day your girlfriend stars
+
+375
+00:21:35,830 --> 00:21:37,710
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}in her first indie film.
+
+376
+00:21:37,710 --> 00:21:39,540
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}If you ask me nicely.
+
+377
+00:21:39,590 --> 00:21:41,050
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Can you please?
+
+378
+00:21:41,090 --> 00:21:42,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yes.
+
+379
+00:21:44,880 --> 00:21:47,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Put some powder on me, so I don't feel left out.
+
+380
+00:21:47,590 --> 00:21:48,970
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-No.-Okay.
+
+381
+00:21:48,970 --> 00:21:51,220
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But I feel uncomfortable around those people.
+
+382
+00:22:18,540 --> 00:22:20,670
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Ladies and gentlemen, the First Lady of New York,
+
+383
+00:22:20,670 --> 00:22:21,920
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Cathleen Hostetler.
+
+384
+00:22:27,220 --> 00:22:28,930
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We did it!
+
+385
+00:22:30,890 --> 00:22:34,310
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Equality has finally come to New York.
+
+386
+00:22:36,230 --> 00:22:38,480
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Some said that now wasn't the right time
+
+387
+00:22:38,480 --> 00:22:40,440
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to wage this fight.
+
+388
+00:22:40,440 --> 00:22:42,440
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Well, I say there's never a wrong time
+
+389
+00:22:42,440 --> 00:22:45,360
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to fight for what is rightfully yours.
+
+390
+00:22:49,150 --> 00:22:51,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I say there is never a wrong time
+
+391
+00:22:51,370 --> 00:22:53,030
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to stand up to the bullies.
+
+392
+00:22:54,290 --> 00:22:56,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Even if they're powerful bullies.
+
+393
+00:22:56,330 --> 00:22:59,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Especially if they're powerful bullies.
+
+394
+00:23:00,920 --> 00:23:04,040
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That just makes the victory so much sweeter.
+
+395
+00:23:06,800 --> 00:23:10,300
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And today we declare a victory.
+
+396
+00:23:10,340 --> 00:23:13,390
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Today we declare, with our hearts full
+
+397
+00:23:13,390 --> 00:23:15,010
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and our heads high:
+
+398
+00:23:15,010 --> 00:23:16,470
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}"This is my life,
+
+399
+00:23:16,470 --> 00:23:20,350
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and I will love whom I damn well choose."
+
+400
+00:23:20,350 --> 00:23:22,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Thank you.
+
+401
+00:23:53,220 --> 00:23:55,510
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Come on, buddy, show me your face.
+
+402
+00:23:57,180 --> 00:23:58,680
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Shit.
+
+403
+00:24:15,320 --> 00:24:16,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Damn.
+
+404
+00:24:27,250 --> 00:24:29,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You read The Times this morning?
+
+405
+00:24:29,590 --> 00:24:31,550
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No, I did not.
+
+406
+00:24:31,590 --> 00:24:34,840
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I read the Post, like the rest of New York.
+
+407
+00:24:35,760 --> 00:24:37,890
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Interesting editorial.
+
+408
+00:24:37,890 --> 00:24:41,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That rag is a glorified tabloid for rich people.
+
+409
+00:24:41,270 --> 00:24:43,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You're rich, aren't you, Nick?
+
+410
+00:24:43,770 --> 00:24:46,020
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Filthy rich,
+
+411
+00:24:46,020 --> 00:24:48,480
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}if recent events are any indication.
+
+412
+00:24:50,030 --> 00:24:53,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I heard your speech went down gangbusters last night.
+
+413
+00:24:53,070 --> 00:24:54,110
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hmm.
+
+414
+00:24:54,110 --> 00:24:55,990
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Like opening night of Mamma Mia!
+
+415
+00:24:55,990 --> 00:24:58,580
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Queens doing backflips in the aisles.
+
+416
+00:24:58,580 --> 00:25:00,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Someone you know attend?
+
+417
+00:25:02,410 --> 00:25:05,460
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You know who's really excited about this new law?
+
+418
+00:25:05,460 --> 00:25:08,710
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Who?-Artie.
+
+419
+00:25:08,710 --> 00:25:12,260
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He says he's never written so many prenups in his life.
+
+420
+00:25:13,090 --> 00:25:15,050
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You remember Artie?
+
+421
+00:25:15,050 --> 00:25:17,090
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I think of him every day.
+
+422
+00:25:22,430 --> 00:25:25,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You didn't mention the election last night.
+
+423
+00:25:25,640 --> 00:25:27,980
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It was not the proper forum.
+
+424
+00:25:30,110 --> 00:25:31,320
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Darling,
+
+425
+00:25:32,780 --> 00:25:34,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}it's election season.
+
+426
+00:25:34,950 --> 00:25:37,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Every forum's the proper forum.
+
+427
+00:25:39,660 --> 00:25:41,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Act accordingly.
+
+428
+00:25:44,410 --> 00:25:46,000
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Bo!
+
+429
+00:25:46,870 --> 00:25:49,130
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Come here.
+
+430
+00:25:49,130 --> 00:25:50,540
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Smile.
+
+431
+00:25:52,090 --> 00:25:54,510
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}A little to the left.
+
+432
+00:25:59,550 --> 00:26:02,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Is this what you do all day?
+
+433
+00:26:02,100 --> 00:26:05,020
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Spy on beautiful women in swanky restaurants?
+
+434
+00:26:05,020 --> 00:26:08,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}If you consider the finer bodegas of Bensonhurst swanky.
+
+435
+00:26:08,730 --> 00:26:12,480
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We should do this more often. It's time you earned your keep.
+
+436
+00:26:12,480 --> 00:26:14,030
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Does that mean I get paid this month?
+
+437
+00:26:14,030 --> 00:26:16,320
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yep. Soon as I see that phone bill.
+
+438
+00:26:16,360 --> 00:26:18,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He's my brother. What do you want?
+
+439
+00:26:18,490 --> 00:26:19,990
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Send him a phone card.
+
+440
+00:26:19,990 --> 00:26:23,330
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah, I should, right?
+
+441
+00:26:25,450 --> 00:26:26,910
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He doing all right?
+
+442
+00:26:28,210 --> 00:26:29,630
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You know.
+
+443
+00:26:29,630 --> 00:26:32,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Sing Sing ain't no place for guys with good hearts.
+
+444
+00:26:37,550 --> 00:26:39,010
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Why'd the mayor call you?
+
+445
+00:26:39,010 --> 00:26:40,430
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}She's grabbing her things.
+
+446
+00:26:40,430 --> 00:26:43,350
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Shit. What do I do?-Calm down. Look at me.
+
+447
+00:26:43,350 --> 00:26:45,140
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Smile. Attagirl.
+
+448
+00:26:45,140 --> 00:26:47,850
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Stand up. Get your coat. Keep smiling and talking.
+
+449
+00:26:47,890 --> 00:26:50,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-My heart is pounding.-Purse.
+
+450
+00:26:51,610 --> 00:26:52,900
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Come here.
+
+451
+00:26:52,900 --> 00:26:54,320
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Beat her to the door.
+
+452
+00:26:54,320 --> 00:26:56,740
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Then get across the street so you can cover her.
+
+453
+00:26:56,740 --> 00:26:58,610
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Call me when you got her.-Okay.
+
+454
+00:26:58,610 --> 00:27:00,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Katy, what do we have?
+
+455
+00:27:00,740 --> 00:27:04,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Uptown on Madison, towards 45th. She picked up a bodyguard.
+
+456
+00:27:04,410 --> 00:27:07,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Keep at her pace.
+
+457
+00:27:07,290 --> 00:27:09,920
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Okay, she just took a call.
+
+458
+00:27:09,920 --> 00:27:11,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-BlackBerry?-It's a flip phone.
+
+459
+00:27:11,960 --> 00:27:13,540
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I need you to get in closer.
+
+460
+00:27:13,590 --> 00:27:16,550
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Get me a name, Katy. A place, a time, something.
+
+461
+00:27:16,550 --> 00:27:18,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Okay.
+
+462
+00:27:18,170 --> 00:27:22,050
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No, no, no. I understand. So, uh, what time, darling?
+
+463
+00:27:22,090 --> 00:27:23,850
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'll be there.
+
+464
+00:27:23,850 --> 00:27:25,810
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's him. She's arranging a meeting.
+
+465
+00:27:25,810 --> 00:27:27,560
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I got her.
+
+466
+00:27:27,560 --> 00:27:30,980
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah. I'll be there soon.
+
+467
+00:27:35,860 --> 00:27:37,900
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Go.
+
+468
+00:27:37,900 --> 00:27:39,860
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Ma'am! Ma'am! Wait. Sorry.
+
+469
+00:27:39,860 --> 00:27:42,910
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's yours. I think you dropped this.
+
+470
+00:27:42,950 --> 00:27:45,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Yes, thank you.-Oh, you're welcome.
+
+471
+00:27:48,910 --> 00:27:50,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Should we follow her?
+
+472
+00:27:50,410 --> 00:27:52,460
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No, she'll figure we were here soon enough.
+
+473
+00:27:52,460 --> 00:27:54,210
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Find out who this number belongs to.
+
+474
+00:27:54,210 --> 00:27:56,210
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}If he drives a Lexus, we got our guy.
+
+475
+00:27:57,590 --> 00:27:59,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Welcome back to the Roosevelt, Mrs.Hostetler.
+
+476
+00:27:59,960 --> 00:28:01,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Thank you, Kenny.
+
+477
+00:28:03,760 --> 00:28:05,930
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-I got him.-You got him?
+
+478
+00:28:05,930 --> 00:28:08,060
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Oh, I got him. And it's good, Billy.
+
+479
+00:28:08,060 --> 00:28:12,190
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-How good?-Ah. Wondrous good.
+
+480
+00:28:12,190 --> 00:28:14,060
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}They teach you that at DeVry?
+
+481
+00:28:14,060 --> 00:28:16,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-I go to Hunter, asshole.-Oh, pardon me.
+
+482
+00:28:16,690 --> 00:28:19,860
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's a sophisticated place. I got sophisticated friends.
+
+483
+00:28:19,860 --> 00:28:21,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We read books, drink wine.
+
+484
+00:28:21,950 --> 00:28:23,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You old enough to drink?
+
+485
+00:28:23,410 --> 00:28:25,240
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You'd be surprised what I'm old enough to do.
+
+486
+00:28:25,240 --> 00:28:26,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hey, easy.
+
+487
+00:28:26,450 --> 00:28:30,330
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}For example, I'm old enough to vote.
+
+488
+00:28:30,330 --> 00:28:33,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It might come of some interest when casting my ballot
+
+489
+00:28:33,370 --> 00:28:37,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to know that Jack Valliant's campaign manager,
+
+490
+00:28:37,170 --> 00:28:41,050
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}a guy named Paul Andrews, is fucking the mayor's wife.
+
+491
+00:28:41,050 --> 00:28:45,090
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Bullshit. And he drives a Lexus.
+
+492
+00:28:49,430 --> 00:28:50,470
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}This is good.
+
+493
+00:28:50,470 --> 00:28:52,350
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's borderline orgasmic, Billy.
+
+494
+00:28:52,350 --> 00:28:54,850
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You learn that at Hunter too?
+
+495
+00:28:54,850 --> 00:28:56,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Wouldn't you like to know?
+
+496
+00:28:56,730 --> 00:28:59,110
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}This is not gonna go over good with the mayor.
+
+497
+00:28:59,150 --> 00:29:02,150
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That is a cold bitch.
+
+498
+00:29:03,950 --> 00:29:06,240
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Your attention, please.
+
+499
+00:29:06,240 --> 00:29:09,870
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}All luggage and parcels must be attended at all times.
+
+500
+00:29:09,870 --> 00:29:13,120
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Montauk. Round trip. Peak.
+
+501
+00:29:16,460 --> 00:29:17,710
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Thank you.
+
+502
+00:30:01,710 --> 00:30:04,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Whoa!
+
+503
+00:30:04,340 --> 00:30:06,470
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How you looking against the kid?
+
+504
+00:30:06,470 --> 00:30:09,180
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The numbers are holding steady.
+
+505
+00:30:09,220 --> 00:30:10,890
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Steady?-Yeah.
+
+506
+00:30:10,890 --> 00:30:14,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-What the fuck does that mean?-Steady is a prelude to a shift, okay?
+
+507
+00:30:14,560 --> 00:30:16,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}In what direction?
+
+508
+00:30:16,730 --> 00:30:20,610
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The incumbent, Sam. Always to the incumbent.
+
+509
+00:30:20,610 --> 00:30:22,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Really?
+
+510
+00:30:35,120 --> 00:30:36,660
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}A little slow, Nick.
+
+511
+00:30:36,660 --> 00:30:39,330
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah? You watch your ass, I'll take care of mine.
+
+512
+00:30:39,330 --> 00:30:41,040
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm beginning to wonder if you can.
+
+513
+00:30:41,080 --> 00:30:43,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's like Griffith and Paret in '62.
+
+514
+00:30:43,340 --> 00:30:45,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Emile Griffith and Benny Paret, remember that?
+
+515
+00:30:45,340 --> 00:30:47,630
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Yeah.-So the kid is Paret,
+
+516
+00:30:47,630 --> 00:30:48,880
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm Griffith.
+
+517
+00:30:48,880 --> 00:30:50,260
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You mean you're the fag?
+
+518
+00:30:51,390 --> 00:30:54,060
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I am Griffith minus the fag angle.
+
+519
+00:30:54,100 --> 00:30:55,430
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm holding back.
+
+520
+00:30:55,430 --> 00:30:58,480
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm making him think he's got it won.
+
+521
+00:30:58,480 --> 00:31:01,060
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Then comes the 12th round. Remember that?
+
+522
+00:31:01,060 --> 00:31:03,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah.
+
+523
+00:31:04,570 --> 00:31:07,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-The kill shot.-Fuck you.
+
+524
+00:31:07,940 --> 00:31:10,360
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}So, Nick,
+
+525
+00:31:10,360 --> 00:31:15,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I've got a half a million sunk in your campaign
+
+526
+00:31:15,450 --> 00:31:17,910
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and a lot more riding on the result.
+
+527
+00:31:17,950 --> 00:31:20,580
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}So why don't you just tell me
+
+528
+00:31:20,620 --> 00:31:23,130
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}how you're going to win this thing?
+
+529
+00:31:31,510 --> 00:31:34,390
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We have dirt dropping on the news desks
+
+530
+00:31:34,390 --> 00:31:37,020
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}of every paper and every network
+
+531
+00:31:37,020 --> 00:31:39,680
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}across the city tonight.
+
+532
+00:31:39,680 --> 00:31:41,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Will it stick?
+
+533
+00:31:41,140 --> 00:31:43,610
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No, it won't stick. It's all bullshit.
+
+534
+00:31:43,610 --> 00:31:45,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But it will smudge.
+
+535
+00:31:45,270 --> 00:31:46,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That will get the undecideds thinking,
+
+536
+00:31:46,820 --> 00:31:51,030
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and Sunday night at the debate, I will put him away.
+
+537
+00:31:51,030 --> 00:31:53,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Well, you better, Nick.
+
+538
+00:31:53,700 --> 00:31:55,030
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You just better.
+
+539
+00:32:05,460 --> 00:32:07,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You know who you're voting for?
+
+540
+00:32:09,170 --> 00:32:10,970
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I don't think I'll make it to the polls.
+
+541
+00:32:11,010 --> 00:32:13,090
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I try to vote for president, but..
+
+542
+00:32:13,090 --> 00:32:16,470
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}President doesn't determine the quality of life in Brooklyn.
+
+543
+00:32:17,510 --> 00:32:19,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How'd you know I was from Brooklyn?
+
+544
+00:32:19,640 --> 00:32:21,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You just told me you were from Brooklyn.
+
+545
+00:32:21,690 --> 00:32:24,980
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm in the business of picking up on these things.
+
+546
+00:32:24,980 --> 00:32:26,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What are you, a private eye?
+
+547
+00:32:26,690 --> 00:32:31,530
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No. Private eye? Private eyes still exist?
+
+548
+00:32:32,740 --> 00:32:33,990
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What do you do, then?
+
+549
+00:32:33,990 --> 00:32:35,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm in politics.
+
+550
+00:32:35,450 --> 00:32:38,160
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-So why do you recommend?-I recommend the new guy.
+
+551
+00:32:38,160 --> 00:32:40,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Ah, come on, he's too clean.
+
+552
+00:32:40,290 --> 00:32:41,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}New York's this big, messy place.
+
+553
+00:32:41,960 --> 00:32:43,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Does it have to be?
+
+554
+00:32:43,210 --> 00:32:44,620
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It could be better,
+
+555
+00:32:44,620 --> 00:32:47,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}but it's been pretty good under Hostetler.
+
+556
+00:32:49,500 --> 00:32:50,880
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What do you do, then?
+
+557
+00:32:50,880 --> 00:32:53,510
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I work sanitation.
+
+558
+00:32:54,630 --> 00:32:58,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You clean up pretty well for a garbage man.
+
+559
+00:32:58,100 --> 00:32:59,890
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm doing it to impress a lady.
+
+560
+00:32:59,890 --> 00:33:01,680
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Ah, it's always a lady.
+
+561
+00:33:03,940 --> 00:33:05,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Local 831?
+
+562
+00:33:05,650 --> 00:33:08,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Yeah, 15 years.-Fifteen years.
+
+563
+00:33:10,360 --> 00:33:12,530
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You own a home?
+
+564
+00:33:12,530 --> 00:33:14,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-In New York?-Exactly.
+
+565
+00:33:14,450 --> 00:33:16,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}So why is it that you, a union man,
+
+566
+00:33:16,700 --> 00:33:18,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and I take it a native New Yorker..
+
+567
+00:33:18,700 --> 00:33:21,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Why is it that you don't own your own home in the city?
+
+568
+00:33:21,410 --> 00:33:22,870
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But yet every Bernie and Gordon
+
+569
+00:33:22,870 --> 00:33:26,670
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}who get off this train with an MBA and no scruples,
+
+570
+00:33:26,670 --> 00:33:27,790
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}they own one?
+
+571
+00:33:27,790 --> 00:33:29,710
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}They own one in the city and on the island.
+
+572
+00:33:29,750 --> 00:33:32,210
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}So where is yours?
+
+573
+00:33:32,210 --> 00:33:34,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm just saying.
+
+574
+00:33:37,720 --> 00:33:40,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}So you own a house out here?
+
+575
+00:33:40,100 --> 00:33:43,020
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No. No. No, don't get me wrong.
+
+576
+00:33:43,020 --> 00:33:45,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I like the water and sand and grass, but no.
+
+577
+00:33:45,640 --> 00:33:47,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Only thing better than getting out of that city
+
+578
+00:33:47,730 --> 00:33:48,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}is going back.
+
+579
+00:33:50,440 --> 00:33:52,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Just about everything and anyone I love is in that city.
+
+580
+00:33:52,940 --> 00:33:55,400
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The next and final stop will be Montauk.
+
+581
+00:33:55,400 --> 00:33:58,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}All passengers must depart the train.
+
+582
+00:33:58,410 --> 00:34:01,120
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Gather all personal belongings.
+
+583
+00:34:01,120 --> 00:34:03,540
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Nice talking to you.-You too.
+
+584
+00:34:03,540 --> 00:34:05,460
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Again, the next and last stop..
+
+585
+00:34:51,290 --> 00:34:53,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Oh, shit.
+
+586
+00:35:12,650 --> 00:35:14,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Taggart Agency.
+
+587
+00:35:14,230 --> 00:35:15,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Were you on the other line?
+
+588
+00:35:15,570 --> 00:35:17,530
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No, I'm trying to save your business.
+
+589
+00:35:17,530 --> 00:35:19,900
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I don't get to say this often, but you were right.
+
+590
+00:35:19,900 --> 00:35:21,530
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Really?
+
+591
+00:35:21,530 --> 00:35:24,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The mayor's wife is fucking the campaign manager.
+
+592
+00:35:24,530 --> 00:35:25,740
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Told you.-Call the mayor.
+
+593
+00:35:25,740 --> 00:35:27,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Tell him I got pictures.-Okay.
+
+594
+00:35:27,450 --> 00:35:30,500
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-And stay off the fucking phone.-I wasn't..
+
+595
+00:35:30,500 --> 00:35:32,670
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Just like music
+
+596
+00:35:32,670 --> 00:35:34,840
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Ryan, I wouldn't even be in this movie
+
+597
+00:35:34,840 --> 00:35:37,130
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}if it wasn't for you, so thank you.
+
+598
+00:35:37,130 --> 00:35:38,470
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That was really sweet.
+
+599
+00:35:38,470 --> 00:35:41,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hmm, this guy here, we got a real civilian.
+
+600
+00:35:41,640 --> 00:35:44,390
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Come on, William, tell us. What do you do?
+
+601
+00:35:44,390 --> 00:35:46,180
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I don't do anything important.
+
+602
+00:35:46,220 --> 00:35:48,350
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I take pictures. It's very boring.
+
+603
+00:35:48,390 --> 00:35:51,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Oh, shit. You're not paparazzi, are you?
+
+604
+00:35:52,650 --> 00:35:56,150
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No, I actually, uh, mostly stick to real people, so..
+
+605
+00:35:56,150 --> 00:35:59,030
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Billy is a private investigator. He used to be a cop.
+
+606
+00:35:59,070 --> 00:36:01,530
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Get out of here.-That's how you two met?
+
+607
+00:36:01,530 --> 00:36:03,160
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You promised not to write her a ticket
+
+608
+00:36:03,160 --> 00:36:04,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}if she goes out with you.
+
+609
+00:36:04,490 --> 00:36:06,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah, something like that.
+
+610
+00:36:06,410 --> 00:36:07,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Details, details.
+
+611
+00:36:07,700 --> 00:36:09,200
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Come on, Billy.
+
+612
+00:36:09,250 --> 00:36:11,870
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How'd a guy like you end up with a girl like Natalie?
+
+613
+00:36:11,920 --> 00:36:13,210
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}A guy like me?
+
+614
+00:36:13,250 --> 00:36:15,670
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I can't imagine you're big on theater.
+
+615
+00:36:15,670 --> 00:36:19,260
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Look, this is your guys' party. Let's talk about your movie.
+
+616
+00:36:19,260 --> 00:36:20,550
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No one leaves this table
+
+617
+00:36:20,550 --> 00:36:22,720
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}without singing the blues, Billy.
+
+618
+00:36:22,760 --> 00:36:24,010
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Natalie, pick up the slack.
+
+619
+00:36:24,010 --> 00:36:25,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How'd you meet this charming guy?
+
+620
+00:36:25,640 --> 00:36:27,930
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Billy was a friend of the family.
+
+621
+00:36:27,930 --> 00:36:30,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You lived in the same neighborhood?
+
+622
+00:36:30,100 --> 00:36:32,020
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He worked by where I lived.
+
+623
+00:36:32,020 --> 00:36:34,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You fell in love with the neighborhood policeman?
+
+624
+00:36:34,270 --> 00:36:36,400
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Come on.
+
+625
+00:36:36,400 --> 00:36:37,860
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We were a bunch of broke Puerto Ricans
+
+626
+00:36:37,860 --> 00:36:40,740
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}nobody gave a damn about. Billy was good to us.
+
+627
+00:36:40,740 --> 00:36:43,030
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Barrow. Is that Puerto Rican?
+
+628
+00:36:43,030 --> 00:36:45,320
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's actually Barea.
+
+629
+00:36:45,320 --> 00:36:47,120
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Natalie Barea.
+
+630
+00:36:47,120 --> 00:36:48,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Natalia.
+
+631
+00:36:48,700 --> 00:36:50,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That has a nice ring to it.
+
+632
+00:36:50,790 --> 00:36:53,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You changed it so you could play more Anglo?
+
+633
+00:36:53,290 --> 00:36:55,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No.
+
+634
+00:36:55,750 --> 00:36:59,250
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I changed it because I was tired of going to auditions
+
+635
+00:36:59,250 --> 00:37:01,920
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and the first question out of the casting director's mouth
+
+636
+00:37:01,920 --> 00:37:06,300
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}was if I was related to Yesenia Barea.
+
+637
+00:37:06,300 --> 00:37:07,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Who's that?
+
+638
+00:37:07,800 --> 00:37:08,850
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}My sister.
+
+639
+00:37:08,850 --> 00:37:10,430
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Is she famous or something?
+
+640
+00:37:10,430 --> 00:37:13,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah. Her face was in all the papers seven years ago.
+
+641
+00:37:13,230 --> 00:37:14,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Nat, please..
+
+642
+00:37:14,520 --> 00:37:15,850
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Beautiful 16-year-old girl,
+
+643
+00:37:15,850 --> 00:37:17,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}raped and beaten to death
+
+644
+00:37:17,310 --> 00:37:19,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}in an apartment in Bolton Village.
+
+645
+00:37:26,160 --> 00:37:27,620
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Billy was good to us.
+
+646
+00:37:27,660 --> 00:37:32,910
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It was a really hard time and he made it better.
+
+647
+00:37:41,300 --> 00:37:43,880
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Sure, that's because you like to accuse anyone
+
+648
+00:37:43,880 --> 00:37:46,630
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}who doesn't let the rich off, of engaging in class warfare
+
+649
+00:37:46,630 --> 00:37:48,140
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}when in reality,
+
+650
+00:37:48,140 --> 00:37:50,180
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}you know full well what real class warfare is.
+
+651
+00:37:50,180 --> 00:37:52,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That's stealing homes of working people
+
+652
+00:37:52,520 --> 00:37:54,310
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and handing them over at a cut rate
+
+653
+00:37:54,310 --> 00:37:55,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to an investment bank.
+
+654
+00:37:55,520 --> 00:37:57,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That, sir, is real class warfare.
+
+655
+00:37:57,690 --> 00:37:59,610
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Maybe where you grew up in Connecticut,
+
+656
+00:37:59,610 --> 00:38:01,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}$3 billion is considered cut-rate.
+
+657
+00:38:01,650 --> 00:38:03,190
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But here in New York City,
+
+658
+00:38:03,190 --> 00:38:04,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}$3 billion is a lot of money
+
+659
+00:38:04,940 --> 00:38:06,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}that can solve a lot of problems.
+
+660
+00:38:06,650 --> 00:38:08,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You don't solve problems
+
+661
+00:38:08,450 --> 00:38:09,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}by bending over for billionaires.
+
+662
+00:38:09,780 --> 00:38:11,910
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I may bend over for billionaires,
+
+663
+00:38:11,910 --> 00:38:14,160
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}but you come from a long line of them.
+
+664
+00:38:14,200 --> 00:38:17,500
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How are the renovations coming on that $4 million townhouse
+
+665
+00:38:17,540 --> 00:38:18,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}in Brooklyn Heights?
+
+666
+00:38:18,750 --> 00:38:22,000
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You want my house too? Take it.
+
+667
+00:38:22,000 --> 00:38:24,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm upside-down on my mortgage like the rest of this city.
+
+668
+00:38:24,210 --> 00:38:27,180
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Because the system has been rigged by men like you.
+
+669
+00:38:30,680 --> 00:38:31,890
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Fuck, that's good.
+
+670
+00:38:31,890 --> 00:38:33,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Yeah?-You make that stick,
+
+671
+00:38:33,640 --> 00:38:35,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}you pull undecideds off the fence.
+
+672
+00:38:35,270 --> 00:38:37,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Okay.
+
+673
+00:38:37,560 --> 00:38:39,350
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We need that moment, Paul.
+
+674
+00:38:39,350 --> 00:38:43,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That "You are no Jack Kennedy" moment.
+
+675
+00:38:43,070 --> 00:38:44,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It has to be Bolton Village related.
+
+676
+00:38:44,690 --> 00:38:46,820
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Stick to the issues,
+
+677
+00:38:46,820 --> 00:38:48,820
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}people will see the difference between you two.
+
+678
+00:38:48,820 --> 00:38:51,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's not clean enough, Paul. It's gotta be clean cut.
+
+679
+00:38:51,070 --> 00:38:53,160
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He's got this clear line of attack on me.
+
+680
+00:38:53,160 --> 00:38:55,620
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm the rich Connecticut carpetbagger.
+
+681
+00:38:55,620 --> 00:38:57,040
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What the hell is he?
+
+682
+00:38:57,040 --> 00:38:58,080
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He's out of a job,
+
+683
+00:38:58,080 --> 00:38:59,920
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}if you stick to the fucking issues.
+
+684
+00:38:59,920 --> 00:39:02,210
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You're missing the point. He's a crook!
+
+685
+00:39:02,250 --> 00:39:03,840
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I need to hammer that home
+
+686
+00:39:03,840 --> 00:39:06,840
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}when he taunts me about my family money
+
+687
+00:39:06,840 --> 00:39:08,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and Harvard and the rest.
+
+688
+00:39:08,170 --> 00:39:10,090
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I need to be able to lay his fat ass flat.
+
+689
+00:39:10,090 --> 00:39:12,720
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}"You, sir, are a crook. And a liar."
+
+690
+00:39:12,720 --> 00:39:15,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And if tries to challenge me to prove it,
+
+691
+00:39:15,100 --> 00:39:17,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I pull out that glorious piece of paper
+
+692
+00:39:17,270 --> 00:39:19,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}you said you'd provide me with and read it out loud.
+
+693
+00:39:19,690 --> 00:39:22,110
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You know, let's take 10. Can I talk to you?
+
+694
+00:39:22,110 --> 00:39:25,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}All right, so what's your problem, Jack?
+
+695
+00:39:25,730 --> 00:39:28,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The Daily News is my problem, Paul.
+
+696
+00:39:28,070 --> 00:39:30,240
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The Post, The Times, they're all the same.
+
+697
+00:39:30,280 --> 00:39:32,990
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hostetler's backing up a dump truck of shit on me
+
+698
+00:39:32,990 --> 00:39:36,120
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and our campaign has piss-all in the way of pushback.
+
+699
+00:39:36,120 --> 00:39:38,330
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I thought that's what Montauk was for.
+
+700
+00:39:38,330 --> 00:39:39,830
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What about your source?
+
+701
+00:39:39,830 --> 00:39:42,580
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-I'm working on it.-So that's why you disappeared for nine hours?
+
+702
+00:39:42,630 --> 00:39:44,880
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He kept us waiting, I told you.
+
+703
+00:39:44,880 --> 00:39:46,130
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You came back stinking of booze.
+
+704
+00:39:46,130 --> 00:39:48,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I had a fucking cocktail, sweetheart.
+
+705
+00:39:48,340 --> 00:39:49,630
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}So where's our pushback?
+
+706
+00:39:49,630 --> 00:39:51,760
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Our pushback are truth and facts, Jack.
+
+707
+00:39:51,760 --> 00:39:53,510
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That's how we play.
+
+708
+00:39:53,510 --> 00:39:55,760
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Where are our headlines? That's all I want to know.
+
+709
+00:39:55,760 --> 00:39:57,680
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Tell you something..We don't need headlines, Jack.
+
+710
+00:39:57,680 --> 00:39:59,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Because we're winning.
+
+711
+00:39:59,270 --> 00:40:02,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Even their internal polling has us up by three.
+
+712
+00:40:02,150 --> 00:40:04,440
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You're winning on your own terms.
+
+713
+00:40:04,480 --> 00:40:05,900
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But let me tell you something.
+
+714
+00:40:05,900 --> 00:40:09,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You go on that debate stage and try to win that debate
+
+715
+00:40:09,780 --> 00:40:12,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}by going negative blow to negative blow,
+
+716
+00:40:12,780 --> 00:40:15,240
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}he will fucking destroy you.
+
+717
+00:40:15,240 --> 00:40:16,330
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Understand that.
+
+718
+00:40:16,330 --> 00:40:18,910
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Glad you got so much faith in me, Paul.
+
+719
+00:40:18,910 --> 00:40:22,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm all faith, you smug son of a bitch.
+
+720
+00:40:22,370 --> 00:40:23,790
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You try having some.
+
+721
+00:40:23,830 --> 00:40:26,670
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Just do me a favor. Do your job.
+
+722
+00:40:28,630 --> 00:40:30,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Get me that file.
+
+723
+00:40:32,470 --> 00:40:33,970
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yes, sir.
+
+724
+00:40:46,440 --> 00:40:47,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hey, Murdock.
+
+725
+00:40:47,690 --> 00:40:49,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You save some for the rest of us, will you?
+
+726
+00:40:49,940 --> 00:40:53,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Billy Taggart, holy shit. What are you doing here?
+
+727
+00:40:53,450 --> 00:40:55,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I was in the neighborhood.
+
+728
+00:40:55,490 --> 00:40:56,870
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Me too.
+
+729
+00:40:56,870 --> 00:40:58,330
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You club a herd of penguins for that getup?
+
+730
+00:40:58,370 --> 00:41:01,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What can I say? Private sector's good to me.
+
+731
+00:41:01,410 --> 00:41:04,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-You a shamus?-No, security.
+
+732
+00:41:04,170 --> 00:41:05,330
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}See that kid over there?
+
+733
+00:41:05,330 --> 00:41:07,790
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That's Todd Lancaster, my charge.
+
+734
+00:41:07,790 --> 00:41:10,090
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Rich kid. Pop tears down buildings.
+
+735
+00:41:10,090 --> 00:41:11,840
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And wants him to run the business one day.
+
+736
+00:41:11,840 --> 00:41:14,130
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm making sure he stays on the straight and narrow.
+
+737
+00:41:14,130 --> 00:41:17,510
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-How you doing, Mr.Mayor?-Tony, how are you?
+
+738
+00:41:17,550 --> 00:41:20,310
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Harris, come and say hello.
+
+739
+00:41:21,770 --> 00:41:24,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}This is Harris Sargent, SVP at Solstein Donagan.
+
+740
+00:41:24,230 --> 00:41:26,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Helped me push through the Bolton Village deal.
+
+741
+00:41:26,230 --> 00:41:28,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Four billion dollars we beat out of this poor bastard.
+
+742
+00:41:29,940 --> 00:41:33,530
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Good to see you. You remember my son, Todd.
+
+743
+00:41:33,530 --> 00:41:34,990
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}If you do, you get a prize.
+
+744
+00:41:34,990 --> 00:41:36,860
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Todd, when will you do the world a favor
+
+745
+00:41:36,860 --> 00:41:38,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and take the business from your old man?
+
+746
+00:41:38,740 --> 00:41:40,870
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}When I die and he grows a pair.
+
+747
+00:41:40,910 --> 00:41:43,500
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Oh, shit.
+
+748
+00:41:43,500 --> 00:41:45,040
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Some fucking party, huh?
+
+749
+00:41:45,040 --> 00:41:46,540
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'd rather be home watching the Knicks.
+
+750
+00:41:46,580 --> 00:41:48,210
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Do what, lose?
+
+751
+00:41:48,210 --> 00:41:52,050
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}This is the best game in town. You got the commissioner over there.
+
+752
+00:41:52,050 --> 00:41:53,460
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's the worst-kept secret
+
+753
+00:41:53,460 --> 00:41:55,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}him and the mayor can't stand each other.
+
+754
+00:41:55,170 --> 00:41:57,550
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But the commish don't miss a party.
+
+755
+00:41:57,550 --> 00:41:59,890
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's like watching Italian opera.
+
+756
+00:41:59,890 --> 00:42:01,970
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What do you know about opera?
+
+757
+00:42:01,970 --> 00:42:03,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Just because I don't understand the language
+
+758
+00:42:03,770 --> 00:42:05,440
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}don't mean they ain't out to fuck each other.
+
+759
+00:42:05,440 --> 00:42:10,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Suite 5101, Mr.Taggart. I'm told it's urgent.
+
+760
+00:42:10,230 --> 00:42:12,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Excuse me.
+
+761
+00:42:12,780 --> 00:42:15,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}In the neighborhood, my ass.
+
+762
+00:42:34,590 --> 00:42:37,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}May I offer you a drink, Mr.Taggart?
+
+763
+00:42:38,630 --> 00:42:39,890
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I don't drink.
+
+764
+00:42:39,890 --> 00:42:43,260
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But you used to. I can tell.
+
+765
+00:42:43,310 --> 00:42:44,310
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How?
+
+766
+00:42:44,310 --> 00:42:46,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}By those three seconds you let pass
+
+767
+00:42:46,520 --> 00:42:48,900
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}before turning down the drink.
+
+768
+00:42:48,900 --> 00:42:50,810
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How long has it been?
+
+769
+00:42:50,810 --> 00:42:52,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Seven years.
+
+770
+00:42:52,230 --> 00:42:54,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Good for you.
+
+771
+00:42:54,650 --> 00:42:56,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Finally hit rock bottom, huh?
+
+772
+00:42:56,780 --> 00:42:58,820
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I did it to keep a woman.
+
+773
+00:42:58,820 --> 00:43:00,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Then you do believe in love.
+
+774
+00:43:00,700 --> 00:43:02,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I believe in loving the one you're with.
+
+775
+00:43:02,830 --> 00:43:06,000
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What are you, stupid or Catholic?
+
+776
+00:43:07,160 --> 00:43:08,460
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Both.
+
+777
+00:43:08,500 --> 00:43:11,420
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}To your health, Mr.Taggart.
+
+778
+00:43:16,920 --> 00:43:20,550
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Perhaps you could explain what I'm doing up here.
+
+779
+00:43:21,720 --> 00:43:24,010
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Being tailed is exhausting.
+
+780
+00:43:24,890 --> 00:43:26,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}If I might pry,
+
+781
+00:43:26,270 --> 00:43:28,980
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}how much are you being paid for your efforts?
+
+782
+00:43:28,980 --> 00:43:30,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Which efforts are those?
+
+783
+00:43:30,690 --> 00:43:33,150
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The work you're doing for the mayor.
+
+784
+00:43:34,230 --> 00:43:37,400
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'll give you $50,000 to give it up
+
+785
+00:43:37,400 --> 00:43:38,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That's very generous,
+
+786
+00:43:38,690 --> 00:43:40,320
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}but I got a contract with the mayor.
+
+787
+00:43:40,360 --> 00:43:41,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Break it.
+
+788
+00:43:41,450 --> 00:43:43,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You don't break contract with the mayor.
+
+789
+00:43:43,700 --> 00:43:45,280
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Don't I know it.
+
+790
+00:43:45,280 --> 00:43:46,660
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Why don't you just leave him?
+
+791
+00:43:46,660 --> 00:43:49,250
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}This is not what you think it is, Mr.Taggart.
+
+792
+00:43:49,250 --> 00:43:52,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I take pictures. I don't get paid to think.
+
+793
+00:43:52,170 --> 00:43:55,040
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}If the last seven years of your life mean anything,
+
+794
+00:43:55,040 --> 00:43:58,840
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}if that woman you put down the bottle for means anything,
+
+795
+00:43:58,880 --> 00:44:00,720
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}walk away.
+
+796
+00:44:00,720 --> 00:44:04,260
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Because if you think you're investigating adultery
+
+797
+00:44:04,260 --> 00:44:07,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}you don't know Nicholas Hostetler very well.
+
+798
+00:44:19,570 --> 00:44:21,360
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I see you've met Billy.
+
+799
+00:44:21,360 --> 00:44:23,910
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yes, we met.
+
+800
+00:44:23,910 --> 00:44:25,660
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Did he tell you he's working for me?
+
+801
+00:44:25,660 --> 00:44:27,030
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He mentioned it.
+
+802
+00:44:27,030 --> 00:44:31,040
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Did he mention it was exclusive?-Yes, he did.
+
+803
+00:44:31,040 --> 00:44:33,540
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You used to know what "exclusive" meant.
+
+804
+00:44:33,540 --> 00:44:37,420
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}In this case, it means I worked for it.
+
+805
+00:44:37,420 --> 00:44:39,880
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Keep your grubby little paws off it.
+
+806
+00:44:41,420 --> 00:44:42,840
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Poor Nicky.
+
+807
+00:44:42,880 --> 00:44:44,760
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You never did learn how to share,
+
+808
+00:44:44,760 --> 00:44:46,550
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}did you?
+
+809
+00:44:46,550 --> 00:44:48,010
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Don't worry,
+
+810
+00:44:48,010 --> 00:44:51,430
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'll teach you before it's too late.
+
+811
+00:44:51,430 --> 00:44:53,390
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Careful, dear.
+
+812
+00:44:53,390 --> 00:44:55,400
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You too, darling.
+
+813
+00:44:56,610 --> 00:44:59,190
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Mr.Taggart, please take care.
+
+814
+00:45:03,740 --> 00:45:05,530
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I need a drink.
+
+815
+00:45:11,040 --> 00:45:13,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What have you got for me?
+
+816
+00:45:13,290 --> 00:45:16,040
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Actually, I think I need a few more days.
+
+817
+00:45:16,040 --> 00:45:17,500
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I got things nailed down,
+
+818
+00:45:17,500 --> 00:45:20,630
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}but I need another 48 hours to confirm.
+
+819
+00:45:22,760 --> 00:45:27,220
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You have an envelope of photographs in your pocket.
+
+820
+00:45:27,220 --> 00:45:32,060
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That I paid for. Right? Right?
+
+821
+00:45:32,100 --> 00:45:34,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Burning a hole in your bleeding heart?
+
+822
+00:45:52,750 --> 00:45:54,210
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Good work.
+
+823
+00:46:02,170 --> 00:46:03,970
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}All right, Billy, we're done.
+
+824
+00:46:18,230 --> 00:46:20,060
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hey, Ryan, you excited tonight?
+
+825
+00:46:23,570 --> 00:46:25,280
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Whoa! Wow!
+
+826
+00:46:41,000 --> 00:46:43,000
+
+
+827
+00:46:46,000 --> 00:46:47,000
+
+
+828
+00:46:53,500 --> 00:46:55,000
+
+
+829
+00:46:58,480 --> 00:47:01,810
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I love the line between the sky and the water.
+
+830
+00:47:01,860 --> 00:47:04,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You see how it gets darker the farther it is away,
+
+831
+00:47:04,780 --> 00:47:08,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}just a line separating sky from water.
+
+832
+00:47:09,950 --> 00:47:12,120
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He's religious. I get it.
+
+833
+00:47:12,120 --> 00:47:13,330
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He's got to have hope,
+
+834
+00:47:13,330 --> 00:47:15,330
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}have something to believe in.
+
+835
+00:47:15,330 --> 00:47:17,160
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Why do you have to bring him up?
+
+836
+00:47:17,160 --> 00:47:18,660
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What does it matter?
+
+837
+00:47:18,660 --> 00:47:21,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Not everything in this life is black and white.
+
+838
+00:47:22,590 --> 00:47:24,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Let's not talk about him anymore.
+
+839
+00:47:25,170 --> 00:47:27,130
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Let's go.
+
+840
+00:47:50,820 --> 00:47:53,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}*Y'all gonna make me Lose my mind*
+
+841
+00:47:53,570 --> 00:47:55,200
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}*Up in here! Up in here!*
+
+842
+00:47:55,240 --> 00:47:57,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Kiss of Life!
+
+843
+00:47:57,370 --> 00:47:59,830
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Sundance, here we come!
+
+844
+00:48:03,670 --> 00:48:05,250
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You like it?
+
+845
+00:48:05,250 --> 00:48:07,460
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}*Y'all gonna make me Lose my cool*
+
+846
+00:48:07,460 --> 00:48:09,670
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}*Up in here! Up in here!*
+
+847
+00:48:09,670 --> 00:48:12,130
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}*If I gots to bring it To you cowards*
+
+848
+00:48:12,130 --> 00:48:14,470
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Excuse me.-Yeah.
+
+849
+00:48:14,470 --> 00:48:17,220
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Can I get a double Jameson?-You got it.
+
+850
+00:48:17,260 --> 00:48:18,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}*How the fuck you gonna cross The dog*
+
+851
+00:48:18,520 --> 00:48:20,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}*With some bum shit*
+
+852
+00:48:20,270 --> 00:48:21,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}*There go the gun click. Some 911 shit*
+
+853
+00:48:21,940 --> 00:48:24,400
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}*All over some dumb shit. Ain't that some shit?*
+
+854
+00:48:24,440 --> 00:48:25,900
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}*Y'all niggas remind me. Of a strip club*
+
+855
+00:48:25,900 --> 00:48:27,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}*Every time you come around*
+
+856
+00:48:27,650 --> 00:48:29,190
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}*It's like I just gotta Get my dick sucked*
+
+857
+00:48:44,380 --> 00:48:45,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Again.
+
+858
+00:48:45,960 --> 00:48:49,420
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-You want a water back for that?-Just pour the fucking drink.
+
+859
+00:48:51,470 --> 00:48:53,720
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Billy, what are you doing?
+
+860
+00:48:53,720 --> 00:48:55,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hey, Nat, I just..
+
+861
+00:48:55,340 --> 00:48:57,760
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I just didn't want to be the only one not celebrating.
+
+862
+00:48:57,810 --> 00:49:00,020
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Billy, don't do this.-It's a party, right?
+
+863
+00:49:00,020 --> 00:49:01,890
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And what a fucking movie that was.
+
+864
+00:49:01,890 --> 00:49:05,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I mean, my God, I never seen you that good.
+
+865
+00:49:05,690 --> 00:49:08,360
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That was incredible. You were so convincing.
+
+866
+00:49:08,360 --> 00:49:10,150
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Excuse me. Can you take this drink back?
+
+867
+00:49:10,150 --> 00:49:13,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Please, I'm fine.-Billy, don't.
+
+868
+00:49:13,490 --> 00:49:15,820
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-That's enough.-What?
+
+869
+00:49:15,820 --> 00:49:17,320
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What?
+
+870
+00:49:17,320 --> 00:49:19,790
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You promised me. How can you hurt me like this?
+
+871
+00:49:19,790 --> 00:49:21,120
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How can I hurt you?
+
+872
+00:49:21,160 --> 00:49:22,540
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You haven't once asked me how I feel.
+
+873
+00:49:22,540 --> 00:49:24,620
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}This is not your night, Billy.
+
+874
+00:49:24,620 --> 00:49:28,250
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I've worked so hard for this. It doesn't mean anything to you.
+
+875
+00:49:28,250 --> 00:49:30,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Why don't you go do a line too?
+
+876
+00:49:30,170 --> 00:49:33,420
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Go back to being the old Billy. We know what a great guy he was.
+
+877
+00:49:33,420 --> 00:49:35,010
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm going to hang out with my friends.
+
+878
+00:49:35,010 --> 00:49:37,180
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You mean the Ryan?
+
+879
+00:49:37,180 --> 00:49:39,140
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You fuck him?
+
+880
+00:49:39,140 --> 00:49:41,430
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Don't do this.-Fine, I'll ask him myself.
+
+881
+00:49:41,430 --> 00:49:43,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Billy, just go home. Please.
+
+882
+00:49:43,270 --> 00:49:45,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Tell me the truth or I swear to God I'll start breaking shit.
+
+883
+00:49:45,270 --> 00:49:47,190
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}There's nothing left for you to break.
+
+884
+00:49:47,190 --> 00:49:48,610
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Tell me the truth.
+
+885
+00:49:48,610 --> 00:49:50,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You told me it was gonna be artistic,
+
+886
+00:49:50,270 --> 00:49:52,320
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}some simple love scene.
+
+887
+00:49:52,360 --> 00:49:54,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-I can't do this anymore.-You can't do this, what the fuck does that mean?
+
+888
+00:49:54,490 --> 00:49:57,360
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It means we're in pieces. We've always been in pieces.
+
+889
+00:49:57,360 --> 00:49:59,830
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-I'm taking you home.-No.-Now.-Are you listening to me?
+
+890
+00:49:59,870 --> 00:50:01,740
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No, I'm not listening, Nat, and you're not leaving me
+
+891
+00:50:01,740 --> 00:50:03,790
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}for this bunch of fucking assholes!
+
+892
+00:50:11,170 --> 00:50:13,670
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-I can't.-Nat, please.
+
+893
+00:50:13,670 --> 00:50:15,670
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Natalie.
+
+894
+00:50:17,180 --> 00:50:19,090
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm sorry.
+
+895
+00:50:19,090 --> 00:50:21,850
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}There's nothing left between us, Billy.
+
+896
+00:50:21,850 --> 00:50:23,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Don't say that.-Nothing.
+
+897
+00:50:23,100 --> 00:50:24,430
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We've had a dead girl
+
+898
+00:50:24,430 --> 00:50:26,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}holding us together for seven years.
+
+899
+00:50:26,770 --> 00:50:29,810
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's just not enough anymore.
+
+900
+00:50:29,810 --> 00:50:31,360
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How could you say that?
+
+901
+00:50:31,360 --> 00:50:33,110
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Natalie, I'm sorry.
+
+902
+00:50:33,110 --> 00:50:35,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Nat, you all right?-Yeah.
+
+903
+00:50:35,650 --> 00:50:39,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Billy, stop it! No! Let him go.
+
+904
+00:50:39,410 --> 00:50:42,030
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Billy, please.-Fucking actor.
+
+905
+00:50:42,080 --> 00:50:43,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah, you fucked him.
+
+906
+00:51:00,550 --> 00:51:03,720
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What the fuck are you doing? Wait a second.
+
+907
+00:51:16,240 --> 00:51:18,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You want to waste my fucking money!
+
+908
+00:51:18,570 --> 00:51:21,240
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You want to waste my fucking time.
+
+909
+00:51:47,640 --> 00:51:49,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Natalie?
+
+910
+00:51:50,230 --> 00:51:52,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Katy, I can't talk right now.
+
+911
+00:51:54,060 --> 00:51:56,110
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What?
+
+912
+00:51:56,150 --> 00:51:58,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Katy, don't fuck with me. What are you saying?
+
+913
+00:52:01,110 --> 00:52:02,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Shit!
+
+914
+00:52:05,410 --> 00:52:07,660
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}All available units,
+
+915
+00:52:07,660 --> 00:52:09,660
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}reports of multiple gunshots in the vicinity
+
+916
+00:52:09,660 --> 00:52:11,620
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}of Jane and Washington.
+
+917
+00:52:11,620 --> 00:52:15,630
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}One victim reported. Medical assistance is en route.
+
+918
+00:52:15,630 --> 00:52:17,710
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Stand back, right behind the line.
+
+919
+00:52:17,710 --> 00:52:19,130
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Stay back.
+
+920
+00:52:19,170 --> 00:52:21,130
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hey, Tony.
+
+921
+00:52:21,180 --> 00:52:22,840
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-He's with me.-Okay.
+
+922
+00:52:24,470 --> 00:52:26,680
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Thanks for doing this, Jansen.
+
+923
+00:52:26,680 --> 00:52:29,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We get the first call just after 1.
+
+924
+00:52:29,100 --> 00:52:30,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Reported gunshots.
+
+925
+00:52:30,520 --> 00:52:33,480
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Six more calls inside a minute, all 211's.
+
+926
+00:52:33,520 --> 00:52:36,440
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}First units arrive around three minutes later.
+
+927
+00:52:36,440 --> 00:52:37,980
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He's already good and dead by then.
+
+928
+00:52:37,980 --> 00:52:41,320
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-What's it look like?-So far, so good on robbery.
+
+929
+00:52:41,320 --> 00:52:42,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He didn't have a wallet on him
+
+930
+00:52:42,530 --> 00:52:43,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}but his apartment's right here,
+
+931
+00:52:43,700 --> 00:52:45,320
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}so maybe he left it inside.
+
+932
+00:52:45,320 --> 00:52:46,990
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We're working to get the landlord down here
+
+933
+00:52:47,030 --> 00:52:48,200
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to let us in.
+
+934
+00:52:48,200 --> 00:52:49,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Any cash when you found him?
+
+935
+00:52:49,450 --> 00:52:50,660
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No keys, no cash.
+
+936
+00:52:50,700 --> 00:52:52,920
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Like I said, so far, so good on robbery.
+
+937
+00:52:52,920 --> 00:52:56,500
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}So when's the last time you seen one of these?
+
+938
+00:53:04,590 --> 00:53:06,180
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You're not really thinking robbery?
+
+939
+00:53:06,220 --> 00:53:09,260
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No, we're spinning robbery. Media's pushing robbery.
+
+940
+00:53:09,260 --> 00:53:11,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's a counterfactual robbery.
+
+941
+00:53:11,270 --> 00:53:12,810
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Now it's your turn, Taggart.
+
+942
+00:53:12,810 --> 00:53:14,850
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What the hell this got to do with you?
+
+943
+00:53:14,850 --> 00:53:16,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That's funny, Billy.
+
+944
+00:53:16,730 --> 00:53:19,020
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I was just about to ask you that my damn self.
+
+945
+00:53:22,700 --> 00:53:24,610
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Okay, stay with me, Billy. This is what I got.
+
+946
+00:53:24,610 --> 00:53:28,330
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I got a former N.Y.P.D. detective-turned private eye
+
+947
+00:53:28,330 --> 00:53:29,830
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}at a fund-raiser for the mayor.
+
+948
+00:53:29,830 --> 00:53:32,120
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}If his mother's life depended on it,
+
+949
+00:53:32,120 --> 00:53:34,080
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}he couldn't find the money to afford a ticket.
+
+950
+00:53:34,080 --> 00:53:36,630
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That's Thursday. Then, this is the good part.
+
+951
+00:53:36,630 --> 00:53:40,500
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Twenty-four hours later, at the murder scene of the man
+
+952
+00:53:40,500 --> 00:53:43,630
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}running the campaign to unseat the mayor, poof.
+
+953
+00:53:43,630 --> 00:53:46,390
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Imagine, that very same private eye.
+
+954
+00:53:46,390 --> 00:53:48,260
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Explain that to me, Billy.
+
+955
+00:53:48,260 --> 00:53:50,600
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Is this Hostetler?
+
+956
+00:53:50,600 --> 00:53:52,180
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Is this what you gave him last night?
+
+957
+00:53:52,180 --> 00:53:53,560
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You gave him Andrews?
+
+958
+00:53:53,560 --> 00:53:56,400
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-I gave him pictures.-You gave him pictures?
+
+959
+00:53:56,400 --> 00:53:58,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Who were the pictures of?-His wife.
+
+960
+00:53:58,770 --> 00:54:00,900
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-His wife and who?-I can't tell you that.
+
+961
+00:54:03,610 --> 00:54:05,900
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You better start telling me something.
+
+962
+00:54:05,950 --> 00:54:08,660
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Explain to me what are you doing at my crime scene.
+
+963
+00:54:08,660 --> 00:54:10,280
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I was in the neighborhood.
+
+964
+00:54:10,280 --> 00:54:11,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You were just in the neighborhood?
+
+965
+00:54:13,370 --> 00:54:14,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Paul Andrews is dead.
+
+966
+00:54:14,960 --> 00:54:17,710
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You think you're just gonna piss on him and walk away?
+
+967
+00:54:17,710 --> 00:54:19,210
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}This is an execution.
+
+968
+00:54:19,210 --> 00:54:22,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}This is a fucking assassination. Did you finger Andrews?
+
+969
+00:54:22,630 --> 00:54:25,090
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}This what you do now, Billy, set up executions?
+
+970
+00:54:25,090 --> 00:54:26,300
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Fuck you.-Fuck me?
+
+971
+00:54:26,300 --> 00:54:28,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Fuck you. I took a job, chief.
+
+972
+00:54:28,340 --> 00:54:29,760
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I didn't ask questions.
+
+973
+00:54:29,760 --> 00:54:32,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I gave him pictures and I walked away.
+
+974
+00:54:32,770 --> 00:54:34,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Well, you think I gave him up to get murdered?
+
+975
+00:54:34,520 --> 00:54:37,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I think you're too damn smart to think you would set him up..
+
+976
+00:54:37,810 --> 00:54:39,610
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Fuck you. I did my job.
+
+977
+00:54:39,650 --> 00:54:42,110
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-You fucking knew.-I did my job.
+
+978
+00:54:42,110 --> 00:54:44,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Commissioner.-Get out of here.
+
+979
+00:54:44,490 --> 00:54:46,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Let me tell you something, Billy.
+
+980
+00:54:46,570 --> 00:54:49,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm taking Hostetler down.
+
+981
+00:54:49,450 --> 00:54:50,990
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He sees election day,
+
+982
+00:54:50,990 --> 00:54:53,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}it'll be from inside a cage, like a monkey.
+
+983
+00:54:53,370 --> 00:54:55,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Now, you either help me,
+
+984
+00:54:55,330 --> 00:54:58,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}or you'll be in there with him sucking on bananas too.
+
+985
+00:55:03,000 --> 00:55:04,050
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What?
+
+986
+00:55:04,050 --> 00:55:06,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Commissioner, there's an issue.
+
+987
+00:55:06,590 --> 00:55:09,510
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Something up, commissioner?
+
+988
+00:55:09,510 --> 00:55:11,180
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You're on the door. Nobody gets in here.
+
+989
+00:55:11,180 --> 00:55:13,810
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-With all due respect..-You're on the fucking door.
+
+990
+00:55:26,990 --> 00:55:28,150
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Jack.
+
+991
+00:55:29,820 --> 00:55:31,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What happened tonight, Jack?
+
+992
+00:55:36,660 --> 00:55:38,790
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Don't worry about him, he's with me.
+
+993
+00:55:43,000 --> 00:55:44,710
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Everyone's with you.
+
+994
+00:55:46,170 --> 00:55:48,010
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I need you to look at me, Jack.
+
+995
+00:55:48,050 --> 00:55:50,680
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Talk to me, okay?
+
+996
+00:55:50,720 --> 00:55:53,890
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Put the whiskey down, Jack. Okay?
+
+997
+00:55:55,560 --> 00:55:57,470
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Okay, Jack?
+
+998
+00:56:01,350 --> 00:56:03,020
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Okay.
+
+999
+00:56:03,060 --> 00:56:04,980
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You need to straighten up, Jack.
+
+1000
+00:56:04,980 --> 00:56:06,190
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Lock the door.
+
+1001
+00:56:12,200 --> 00:56:13,870
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's gonna be okay, Jack.
+
+1002
+00:56:23,920 --> 00:56:26,710
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Just tell me exactly what happened.
+
+1003
+00:56:30,550 --> 00:56:33,220
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You know, you're not a real cop.
+
+1004
+00:56:33,220 --> 00:56:35,050
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You're just a whore.
+
+1005
+00:56:54,410 --> 00:56:57,240
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We're gonna go for a walk and get some fresh air.
+
+1006
+00:56:57,240 --> 00:56:58,540
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You'll feel better, okay?
+
+1007
+00:56:58,540 --> 00:57:00,250
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Don't worry about that, all right?
+
+1008
+00:57:00,250 --> 00:57:01,870
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I wanna help you, Jack.
+
+1009
+00:57:01,870 --> 00:57:03,580
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But I have to know what happened tonight,
+
+1010
+00:57:03,580 --> 00:57:04,880
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and we don't have a lot of time.
+
+1011
+00:57:04,880 --> 00:57:06,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I need you to talk to me, understand?
+
+1012
+00:57:06,960 --> 00:57:10,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm done talking to you, fucking whore.
+
+1013
+00:57:10,170 --> 00:57:12,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You're talking, but not making sense.
+
+1014
+00:57:12,170 --> 00:57:13,510
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Clear his mind, Billy.
+
+1015
+00:57:31,940 --> 00:57:33,150
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Okay.
+
+1016
+00:57:40,290 --> 00:57:43,620
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He went, um, downstairs
+
+1017
+00:57:43,660 --> 00:57:47,040
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to meet Todd Lancaster.
+
+1018
+00:57:48,590 --> 00:57:49,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He'd called earlier
+
+1019
+00:57:49,960 --> 00:57:55,090
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and he told Paul he was ready to talk.
+
+1020
+00:57:57,890 --> 00:58:01,810
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He said he was ashamed of himself for helping us,
+
+1021
+00:58:01,850 --> 00:58:04,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}but he was, um..
+
+1022
+00:58:04,690 --> 00:58:07,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He was more ashamed of his father
+
+1023
+00:58:07,770 --> 00:58:10,150
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and just wanted it to stop.
+
+1024
+00:58:13,240 --> 00:58:16,280
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I think Paul lost track of time
+
+1025
+00:58:16,280 --> 00:58:19,740
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}because he looked at the clock and he, um,
+
+1026
+00:58:20,990 --> 00:58:23,000
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}just ran downstairs.
+
+1027
+00:58:24,580 --> 00:58:26,000
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That was, uh..
+
+1028
+00:58:27,040 --> 00:58:30,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That was the last time I saw him.
+
+1029
+00:58:30,170 --> 00:58:35,050
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Did you hear any voices outside? An altercation, maybe?
+
+1030
+00:58:35,050 --> 00:58:36,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No.
+
+1031
+00:58:38,180 --> 00:58:39,720
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Just the shots.
+
+1032
+00:58:45,020 --> 00:58:46,810
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I knew I couldn't go out there.
+
+1033
+00:58:46,810 --> 00:58:51,020
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I knew I couldn't call the police,
+
+1034
+00:58:51,020 --> 00:58:53,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}couldn't be seen here.
+
+1035
+00:58:54,740 --> 00:58:57,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I knew everything I couldn't do
+
+1036
+00:58:57,780 --> 00:59:01,160
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}that Jack Valliant, candidate for mayor,
+
+1037
+00:59:02,530 --> 00:59:04,120
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}couldn't do.
+
+1038
+00:59:05,200 --> 00:59:07,710
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You know what this means, Jack?
+
+1039
+00:59:09,750 --> 00:59:12,920
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah, it means I let him lie out there.
+
+1040
+00:59:16,550 --> 00:59:19,380
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It means I let him die alone.
+
+1041
+00:59:19,380 --> 00:59:20,970
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It means you can handle this.
+
+1042
+00:59:22,260 --> 00:59:24,930
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Look at me, Jack.
+
+1043
+00:59:24,930 --> 00:59:28,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You are gonna be the next mayor of New York City.
+
+1044
+00:59:28,690 --> 00:59:31,060
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You got to handle this.
+
+1045
+00:59:31,060 --> 00:59:33,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Now, you go get dressed.
+
+1046
+00:59:33,520 --> 00:59:36,320
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Find yourself a hat and a coat with a collar.
+
+1047
+00:59:36,320 --> 00:59:38,860
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We're gonna get you out of here, real quiet.
+
+1048
+00:59:42,490 --> 00:59:45,620
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah? Right.
+
+1049
+00:59:45,620 --> 00:59:47,620
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hostetler.
+
+1050
+00:59:47,620 --> 00:59:49,870
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We gotta get him out of here.
+
+1051
+00:59:49,870 --> 00:59:51,830
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm on my way.
+
+1052
+00:59:51,830 --> 00:59:53,420
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How involved are you?
+
+1053
+00:59:55,250 --> 00:59:56,420
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's complicated.
+
+1054
+01:00:00,930 --> 01:00:03,300
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He gave me a day to gather my bearings.
+
+1055
+01:00:03,300 --> 01:00:04,510
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We'll talk.
+
+1056
+01:00:32,790 --> 01:00:36,500
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-What a fucking mess.-A tragedy, sir.
+
+1057
+01:00:38,460 --> 01:00:42,130
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The press will want heads to roll over this.
+
+1058
+01:00:42,130 --> 01:00:44,970
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I beg your pardon, sir?
+
+1059
+01:00:44,970 --> 01:00:47,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You know how it goes.
+
+1060
+01:00:47,680 --> 01:00:50,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We either give them an arrest or a resignation.
+
+1061
+01:00:52,140 --> 01:00:54,480
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Then we'll have to give them an arrest.
+
+1062
+01:00:58,940 --> 01:01:00,900
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Tragedy in the West Village.
+
+1063
+01:01:00,900 --> 01:01:02,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Paul Andrews, campaign manager
+
+1064
+01:01:02,490 --> 01:01:04,610
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}for mayoral candidate Jack Valliant,
+
+1065
+01:01:04,610 --> 01:01:05,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}was found shot to death
+
+1066
+01:01:05,990 --> 01:01:07,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}outside his Jane Street apartment.
+
+1067
+01:01:07,700 --> 01:01:11,500
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Police questioned witnesses, but no suspects were detained.
+
+1068
+01:01:11,500 --> 01:01:13,330
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Police Commissioner Carl Fairbanks,
+
+1069
+01:01:13,330 --> 01:01:16,130
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}a personal friend of Andrews, says the investigation
+
+1070
+01:01:16,130 --> 01:01:19,130
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}will receive the department's highest priority.
+
+1071
+01:01:25,840 --> 01:01:27,930
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He was a better man than me.
+
+1072
+01:01:30,640 --> 01:01:32,310
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He should have been mayor.
+
+1073
+01:01:37,270 --> 01:01:40,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You and Andrews, you were, uh, together?
+
+1074
+01:01:40,690 --> 01:01:45,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}There's this quote I remember. I don't know where I heard it.
+
+1075
+01:01:45,490 --> 01:01:47,320
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I just always remember it.
+
+1076
+01:01:49,280 --> 01:01:51,910
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Maybe something I read in undergrad.
+
+1077
+01:01:55,870 --> 01:02:00,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}"And it's just not popular or safe
+
+1078
+01:02:00,170 --> 01:02:02,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to say that I loved him."
+
+1079
+01:02:29,200 --> 01:02:30,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Have you spoken to Councilman Valliant?
+
+1080
+01:02:30,950 --> 01:02:34,040
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I have. I reached out this morning.
+
+1081
+01:02:34,040 --> 01:02:36,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I offered him not only my deepest condolences,
+
+1082
+01:02:36,410 --> 01:02:40,500
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}but my personal assurance that we will do all we can
+
+1083
+01:02:40,500 --> 01:02:43,210
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to bring the perpetrators of this crime to justice.
+
+1084
+01:02:43,260 --> 01:02:45,050
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Did you know Paul Andrews?
+
+1085
+01:02:45,090 --> 01:02:49,180
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I only met Mr.Andrews a few times.
+
+1086
+01:02:49,180 --> 01:02:51,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He always struck me as a very genuine man,
+
+1087
+01:02:51,640 --> 01:02:54,140
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and a very hardworking man.
+
+1088
+01:02:54,140 --> 01:02:57,390
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He loved the city, he loved the people.
+
+1089
+01:02:57,390 --> 01:03:02,360
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He and my wife actually were good friends.
+
+1090
+01:03:02,360 --> 01:03:04,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}So this definitely hits home.
+
+1091
+01:03:04,110 --> 01:03:06,440
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Thank you all very much.
+
+1092
+01:03:06,440 --> 01:03:08,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What kind of man Paul Andrews was?
+
+1093
+01:03:08,110 --> 01:03:09,860
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hang on a minute.
+
+1094
+01:03:09,860 --> 01:03:13,580
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The kind of man who loved and fought with his whole heart.
+
+1095
+01:03:13,580 --> 01:03:15,540
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He was a dear friend to all of us,
+
+1096
+01:03:15,540 --> 01:03:18,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and the driving force behind this campaign.
+
+1097
+01:03:18,290 --> 01:03:20,000
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He will be dearly missed.
+
+1098
+01:03:20,000 --> 01:03:21,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}This must be an extremely difficult time.
+
+1099
+01:03:21,790 --> 01:03:24,300
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Have you considered suspending your campaign?
+
+1100
+01:03:24,300 --> 01:03:25,840
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No, absolutely not.
+
+1101
+01:03:25,840 --> 01:03:28,260
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The debate will continue as scheduled tomorrow.
+
+1102
+01:03:28,260 --> 01:03:30,930
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The, uh, election on Tuesday.
+
+1103
+01:03:30,930 --> 01:03:34,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We refuse to allow some thug to prevent this city
+
+1104
+01:03:34,100 --> 01:03:36,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}from exercising its democratic rights.
+
+1105
+01:03:36,520 --> 01:03:38,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Thank you.
+
+1106
+01:03:38,520 --> 01:03:41,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Paul Andrews definitely wasn't fucking the mayor's wife.
+
+1107
+01:03:43,060 --> 01:03:45,110
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We're looking for a guy named Todd Lancaster.
+
+1108
+01:03:45,110 --> 01:03:48,030
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Just find what you can on him and Bolton Village.
+
+1109
+01:03:48,030 --> 01:03:49,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Dig up whatever you can on the sale.
+
+1110
+01:03:49,950 --> 01:03:51,740
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Okay. I'm on it.
+
+1111
+01:03:59,870 --> 01:04:01,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Billy.
+
+1112
+01:04:03,210 --> 01:04:05,130
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You know it's not your fault.
+
+1113
+01:04:14,010 --> 01:04:15,470
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I gotta go.
+
+1114
+01:04:48,510 --> 01:04:51,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Sir, he just walked into Bolton Village.
+
+1115
+01:04:52,010 --> 01:04:53,390
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yes, sir.
+
+1116
+01:05:04,810 --> 01:05:07,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Drop the gun, Mikey! Drop the fucking gun!
+
+1117
+01:05:09,360 --> 01:05:11,360
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Chill, man. I didn't do nothing!
+
+1118
+01:05:11,360 --> 01:05:13,150
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Chill, man, what the fuck?
+
+1119
+01:05:13,150 --> 01:05:15,740
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's okay, Mikey. We just want to talk.
+
+1120
+01:06:00,450 --> 01:06:02,250
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Billy, hey.
+
+1121
+01:06:04,580 --> 01:06:07,880
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Oh, Billy, come in,-Hola.-come in.
+
+1122
+01:06:07,880 --> 01:06:11,090
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hi. Where is Natalia?
+
+1123
+01:06:11,130 --> 01:06:13,550
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Actually, I came alone, Mrs.Barea.
+
+1124
+01:06:13,550 --> 01:06:15,840
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}She's been really busy with the movie.
+
+1125
+01:06:15,840 --> 01:06:18,140
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Oh. Yes, the movie.
+
+1126
+01:06:28,310 --> 01:06:29,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hi, Billy. It's good to see you.
+
+1127
+01:06:29,980 --> 01:06:31,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You too.
+
+1128
+01:06:37,910 --> 01:06:39,280
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's good to see you.
+
+1129
+01:06:41,580 --> 01:06:44,250
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}So, what brings you back to the old neighborhood?
+
+1130
+01:06:44,250 --> 01:06:47,460
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That's a good question. I'm not really sure.
+
+1131
+01:06:47,460 --> 01:06:49,790
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Nostalgia can be hard to explain.
+
+1132
+01:06:49,790 --> 01:06:51,840
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah.
+
+1133
+01:06:51,840 --> 01:06:57,090
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hey, is everything all right between you and my daughter?
+
+1134
+01:06:57,090 --> 01:06:59,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah. Good.
+
+1135
+01:07:02,180 --> 01:07:03,850
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Why'd you stay here, Raul?
+
+1136
+01:07:05,310 --> 01:07:07,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Where would we go?
+
+1137
+01:07:07,690 --> 01:07:09,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Anywhere. I mean, I never got it.
+
+1138
+01:07:09,520 --> 01:07:11,560
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Natalie never got it. How could you stay here?
+
+1139
+01:07:11,560 --> 01:07:17,200
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Oh, I could never leave my Yesenia behind.
+
+1140
+01:07:17,200 --> 01:07:19,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}She's gone, Raul.
+
+1141
+01:07:19,070 --> 01:07:20,740
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No, Billy, no.
+
+1142
+01:07:20,740 --> 01:07:22,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}She is here.
+
+1143
+01:07:24,660 --> 01:07:29,330
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Look, I know how much you gave up that night.
+
+1144
+01:07:29,370 --> 01:07:32,540
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But you also gave us peace.
+
+1145
+01:07:35,170 --> 01:07:40,390
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And you gave Yesenia justice, huh?
+
+1146
+01:07:42,260 --> 01:07:43,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And I can't begin to tell you
+
+1147
+01:07:43,640 --> 01:07:47,680
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}how much that means to me and my wife.
+
+1148
+01:07:53,270 --> 01:07:54,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}So, Billy,
+
+1149
+01:07:56,360 --> 01:07:58,530
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}have you seen this movie?
+
+1150
+01:08:06,660 --> 01:08:09,000
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Raise your arms.
+
+1151
+01:08:09,000 --> 01:08:10,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Kevin.
+
+1152
+01:08:10,960 --> 01:08:12,380
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Give us a few moments.
+
+1153
+01:08:16,750 --> 01:08:19,970
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Thank you for meeting me, Mrs.Hostetler.-What do you want?
+
+1154
+01:08:19,970 --> 01:08:21,880
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I wanna know what's going on.
+
+1155
+01:08:21,930 --> 01:08:23,930
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Oh, you wanna know what's going on now?
+
+1156
+01:08:23,930 --> 01:08:26,390
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You couldn't care less the other night.
+
+1157
+01:08:26,390 --> 01:08:29,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Paul Andrews was my friend, Mr.Taggart.
+
+1158
+01:08:29,100 --> 01:08:31,390
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Do you understand that?
+
+1159
+01:08:31,440 --> 01:08:34,560
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}My very dear friend.
+
+1160
+01:08:35,900 --> 01:08:38,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And if you weren't such a cut-rate dick,
+
+1161
+01:08:38,690 --> 01:08:42,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}maybe he would still be alive today.
+
+1162
+01:08:42,070 --> 01:08:44,030
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But you are cut-rate.
+
+1163
+01:08:44,030 --> 01:08:47,910
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You're cheap to hire and you're cheaper to throw away.
+
+1164
+01:08:49,410 --> 01:08:51,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I gave you the opportunity to do the right thing
+
+1165
+01:08:51,460 --> 01:08:53,250
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and you refused.
+
+1166
+01:08:53,250 --> 01:08:54,630
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You're right.
+
+1167
+01:08:54,630 --> 01:08:56,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And I'm sorry about your friend, Mrs.Hostetler.
+
+1168
+01:08:56,960 --> 01:08:59,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Your husband set me up.
+
+1169
+01:08:59,590 --> 01:09:01,920
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And I'm gonna destroy him for it.
+
+1170
+01:09:01,920 --> 01:09:03,970
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I need you to understand that.
+
+1171
+01:09:03,970 --> 01:09:05,220
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'll do whatever it takes
+
+1172
+01:09:05,220 --> 01:09:06,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to bring that son of a bitch down.
+
+1173
+01:09:06,800 --> 01:09:10,020
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But first, you have to tell me what's going on.
+
+1174
+01:09:10,020 --> 01:09:14,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You weren't hired to look for my lover, Mr.Taggart.
+
+1175
+01:09:14,230 --> 01:09:16,110
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You were looking for my source.
+
+1176
+01:09:16,110 --> 01:09:21,610
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I discovered some information about the mayor a while back.
+
+1177
+01:09:21,610 --> 01:09:25,110
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}If it was ever brought to light, it would ruin him.
+
+1178
+01:09:25,110 --> 01:09:26,870
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I offered him a deal.
+
+1179
+01:09:26,870 --> 01:09:30,330
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I get a divorce, a reasonable settlement,
+
+1180
+01:09:30,330 --> 01:09:32,080
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}he gets my silence.
+
+1181
+01:09:32,080 --> 01:09:33,790
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He didn't take the deal.
+
+1182
+01:09:33,830 --> 01:09:36,920
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No. He hired you.
+
+1183
+01:09:38,290 --> 01:09:39,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It was Paul.
+
+1184
+01:09:41,050 --> 01:09:44,180
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Paul gave me the information.
+
+1185
+01:09:44,180 --> 01:09:45,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He thought by sharing it with me,
+
+1186
+01:09:45,800 --> 01:09:47,470
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}he would help me in my situation
+
+1187
+01:09:47,510 --> 01:09:51,140
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and I could help him by looking into it from my side.
+
+1188
+01:09:51,140 --> 01:09:52,430
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Looking into what?
+
+1189
+01:09:52,430 --> 01:09:54,600
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The Bolton Village sale.
+
+1190
+01:09:54,600 --> 01:09:57,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Four billion dollars is a hell of a lot of money
+
+1191
+01:09:57,650 --> 01:09:59,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}for a few city blocks of housing projects,
+
+1192
+01:09:59,730 --> 01:10:02,240
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-wouldn't you say?-Yeah.
+
+1193
+01:10:02,240 --> 01:10:05,150
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's worth twice that.
+
+1194
+01:10:05,200 --> 01:10:07,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-He's a dangerous man, Billy.-No.
+
+1195
+01:10:07,530 --> 01:10:10,120
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He only knows people that kill people.
+
+1196
+01:10:21,380 --> 01:10:22,840
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What you got, Katy?
+
+1197
+01:10:22,880 --> 01:10:24,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}A hit on Todd Lancaster.
+
+1198
+01:10:24,590 --> 01:10:26,630
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He works for his father Sam's construction
+
+1199
+01:10:26,630 --> 01:10:30,010
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and demolition company called the Rochway Group.
+
+1200
+01:10:30,010 --> 01:10:32,140
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Sam is one of the mayor's biggest donors,
+
+1201
+01:10:32,140 --> 01:10:33,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}which is interesting,
+
+1202
+01:10:33,770 --> 01:10:36,440
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}because Todd is like besties with Paul Andrews.
+
+1203
+01:10:36,440 --> 01:10:38,350
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Or, uh, he was, sorry.
+
+1204
+01:10:38,350 --> 01:10:41,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Andrews was an alumni mentor to Todd at Columbia.
+
+1205
+01:10:41,570 --> 01:10:43,030
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He took him under his wing,
+
+1206
+01:10:43,070 --> 01:10:44,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and now they serve on a bunch of boards
+
+1207
+01:10:44,690 --> 01:10:46,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}for all these, like, liberal organizations.
+
+1208
+01:10:46,700 --> 01:10:49,120
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Anyway, I got a home address for Todd
+
+1209
+01:10:49,120 --> 01:10:50,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}out in Port Washington,
+
+1210
+01:10:50,490 --> 01:10:51,910
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}but the office is by the Navy Yard,
+
+1211
+01:10:51,910 --> 01:10:53,870
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}so maybe you wanna try there first.
+
+1212
+01:10:53,870 --> 01:10:57,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But, Billy, just be careful, all right?
+
+1213
+01:10:57,170 --> 01:10:58,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Paul Andrews was just murdered.
+
+1214
+01:10:58,960 --> 01:11:02,630
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm sure it's gonna be a shitstorm out there.
+
+1215
+01:12:02,150 --> 01:12:04,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You're kidding me. You gotta be..
+
+1216
+01:12:30,880 --> 01:12:33,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Get in here. Get in here, you idiot.
+
+1217
+01:12:39,140 --> 01:12:43,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You are dead to me. Look at me, you little sissy.
+
+1218
+01:12:43,730 --> 01:12:46,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-You're dead to me.-Stop fucking hitting me!
+
+1219
+01:12:46,070 --> 01:12:49,150
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You're the reason this is happening.
+
+1220
+01:12:50,990 --> 01:12:52,860
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm the reason? Get him out of here!
+
+1221
+01:12:54,820 --> 01:12:56,580
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Get your fucking ape off of me!
+
+1222
+01:12:56,580 --> 01:13:01,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Stop the shredding! Just get this shit off of here!
+
+1223
+01:13:14,840 --> 01:13:16,140
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Oh, shit!
+
+1224
+01:13:28,940 --> 01:13:30,150
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Shit.
+
+1225
+01:13:45,370 --> 01:13:47,540
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Come on.
+
+1226
+01:13:55,220 --> 01:13:56,720
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Oh, fuck.
+
+1227
+01:14:30,500 --> 01:14:33,050
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I hope you got insurance.
+
+1228
+01:14:33,050 --> 01:14:34,920
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The other guy didn't leave his information?
+
+1229
+01:14:34,920 --> 01:14:38,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-No, but we'll get him.-How you gonna manage that?
+
+1230
+01:14:38,590 --> 01:14:40,220
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That camera over there.
+
+1231
+01:14:42,060 --> 01:14:43,980
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How long it take to get that footage?
+
+1232
+01:14:43,980 --> 01:14:47,350
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Depends. You got a powerful uncle?
+
+1233
+01:14:47,350 --> 01:14:48,810
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I might.
+
+1234
+01:14:53,570 --> 01:14:55,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Thank you for calling the Roosevelt Hotel.
+
+1235
+01:14:55,820 --> 01:14:57,280
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What did you say?
+
+1236
+01:14:57,280 --> 01:14:58,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The Roosevelt Hotel.
+
+1237
+01:14:58,820 --> 01:15:00,530
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah, I'm looking for a Carl Fairbanks.
+
+1238
+01:15:00,530 --> 01:15:02,280
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm sorry, sir,
+
+1239
+01:15:02,280 --> 01:15:04,120
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}but the commissioner hasn't set up his voicemail.
+
+1240
+01:15:04,160 --> 01:15:06,660
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-May I take a message?-We done here?
+
+1241
+01:15:06,660 --> 01:15:08,120
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah, we're good.
+
+1242
+01:15:22,100 --> 01:15:25,020
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Found a little trouble tonight, huh, Billy?
+
+1243
+01:15:25,020 --> 01:15:27,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah, you could call it that.
+
+1244
+01:15:27,770 --> 01:15:29,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Leave the bottle, Harry.
+
+1245
+01:15:33,400 --> 01:15:35,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You come here often?
+
+1246
+01:15:35,230 --> 01:15:39,200
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You trying to get in my drawers, Billy, eh?
+
+1247
+01:15:39,200 --> 01:15:41,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What's next, you're gonna ask me my sign?
+
+1248
+01:15:41,070 --> 01:15:43,910
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I bet you're the one with two fucking faces.
+
+1249
+01:15:43,910 --> 01:15:47,710
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What, Gemini? Close, Billy. I'm the bull.
+
+1250
+01:15:47,710 --> 01:15:51,000
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-What about you?-Cancer.
+
+1251
+01:15:51,000 --> 01:15:53,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The Roosevelt, huh?
+
+1252
+01:15:53,590 --> 01:15:57,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Pretty choice address for a cop, even if he is commissioner.
+
+1253
+01:15:57,210 --> 01:16:00,010
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-I made some sound investments.-Oh, I bet you did.
+
+1254
+01:16:00,010 --> 01:16:01,390
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Not to mention the place on Montauk.
+
+1255
+01:16:01,390 --> 01:16:04,350
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That must have set you back a few mil.
+
+1256
+01:16:04,350 --> 01:16:06,140
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You the new Russell Simmons now?
+
+1257
+01:16:06,140 --> 01:16:07,850
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You doing yoga and fucking white women?
+
+1258
+01:16:07,850 --> 01:16:09,190
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That's cute, Billy.
+
+1259
+01:16:09,230 --> 01:16:11,850
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Tell me something, commissioner.
+
+1260
+01:16:11,900 --> 01:16:14,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Is the First Lady upstairs right now?
+
+1261
+01:16:14,770 --> 01:16:16,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Be careful, Billy.
+
+1262
+01:16:16,690 --> 01:16:20,240
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I know that's why you were so concerned about those pictures.
+
+1263
+01:16:20,240 --> 01:16:21,990
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You were afraid you were in them.
+
+1264
+01:16:21,990 --> 01:16:24,280
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That's why you took me upstairs, not Jansen.
+
+1265
+01:16:24,280 --> 01:16:26,740
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-What do you want?-I want Hostetler.
+
+1266
+01:16:26,740 --> 01:16:28,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Get in line.
+
+1267
+01:16:28,950 --> 01:16:32,120
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I almost had him tonight. Papers in my trunk.
+
+1268
+01:16:32,120 --> 01:16:34,040
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}A fucking box full of mark-ups,
+
+1269
+01:16:34,040 --> 01:16:35,710
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}renderings of some New York skyline
+
+1270
+01:16:35,750 --> 01:16:37,090
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}that doesn't exist right now,
+
+1271
+01:16:37,090 --> 01:16:38,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}but will once they tear down Bolton Village.
+
+1272
+01:16:38,960 --> 01:16:40,380
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Some goon blindsided me.
+
+1273
+01:16:40,380 --> 01:16:42,890
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We ID'd him from his license plate.
+
+1274
+01:16:42,890 --> 01:16:44,430
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Who is he?
+
+1275
+01:16:44,430 --> 01:16:47,310
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Ex-homicide cop. Dick Murdock. You know him?
+
+1276
+01:16:47,310 --> 01:16:49,060
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah, he works for Sam Lancaster.
+
+1277
+01:16:49,060 --> 01:16:51,060
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He might work for Sam Lancaster,
+
+1278
+01:16:51,100 --> 01:16:53,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}but he's on Hostetler's payroll.
+
+1279
+01:16:53,230 --> 01:16:54,810
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Say again?
+
+1280
+01:16:54,810 --> 01:16:56,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That paperwork you got in your trunk,
+
+1281
+01:16:56,270 --> 01:16:57,900
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}not to diminish your new beauty mark,
+
+1282
+01:16:57,900 --> 01:16:59,900
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}is fucking worthless.
+
+1283
+01:16:59,900 --> 01:17:01,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Everyone knows Solstein Donagan
+
+1284
+01:17:01,650 --> 01:17:04,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}is gonna tear down Bolton Village.
+
+1285
+01:17:04,950 --> 01:17:07,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}A few know they hired the Rochway Group to do it.
+
+1286
+01:17:07,450 --> 01:17:10,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}So why is Paul Andrews dead if it was such an open secret?
+
+1287
+01:17:10,790 --> 01:17:12,580
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Well, he was about to figure out the rest.
+
+1288
+01:17:12,620 --> 01:17:15,710
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What "rest"? What fucking "rest"?
+
+1289
+01:17:15,710 --> 01:17:17,090
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Doesn't anybody in this town
+
+1290
+01:17:17,130 --> 01:17:19,380
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}speak in complete fucking sentences anymore?
+
+1291
+01:17:21,170 --> 01:17:23,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Todd Lancaster was meeting with Andrews that night
+
+1292
+01:17:23,800 --> 01:17:25,760
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to bring him a contract.
+
+1293
+01:17:25,760 --> 01:17:29,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Somebody didn't want that to happen.
+
+1294
+01:17:29,270 --> 01:17:31,890
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I myself almost secured the contract from Todd,
+
+1295
+01:17:31,890 --> 01:17:33,600
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}but now he's not talking.
+
+1296
+01:17:33,600 --> 01:17:35,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He's scared.
+
+1297
+01:17:35,730 --> 01:17:37,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Well, the contract is proof of the deal
+
+1298
+01:17:37,520 --> 01:17:39,280
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to tear down Bolton Village.
+
+1299
+01:17:41,400 --> 01:17:42,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That's part of it.
+
+1300
+01:17:45,410 --> 01:17:47,830
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Only Todd Lancaster knows the other part.
+
+1301
+01:17:49,620 --> 01:17:50,830
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Harry.
+
+1302
+01:17:50,830 --> 01:17:52,040
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Whatever he wants, on me.
+
+1303
+01:17:52,040 --> 01:17:54,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Good night, commissioner.
+
+1304
+01:17:54,370 --> 01:17:56,330
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Good night, commissioner.
+
+1305
+01:18:03,880 --> 01:18:05,550
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Places, everyone.
+
+1306
+01:18:05,550 --> 01:18:07,260
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We're live in five.
+
+1307
+01:18:11,060 --> 01:18:12,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Good evening, New York.
+
+1308
+01:18:12,770 --> 01:18:16,020
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Welcome to the third and final New York City mayoral debate.
+
+1309
+01:18:16,020 --> 01:18:18,610
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}At this time, join me in welcoming our candidates,
+
+1310
+01:18:18,610 --> 01:18:21,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Mayor Nicholas Hostetler and Councilman Jack Valliant.
+
+1311
+01:18:31,660 --> 01:18:33,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hey. How much?
+
+1312
+01:18:34,000 --> 01:18:35,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Manual windows?-Yeah.
+
+1313
+01:18:35,960 --> 01:18:38,040
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That's how you got those masculine forearms.
+
+1314
+01:18:38,040 --> 01:18:40,130
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Where do you think, from stroking your ego?
+
+1315
+01:18:40,130 --> 01:18:43,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Big booty, good. Big forearms, no good.
+
+1316
+01:18:43,800 --> 01:18:45,970
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Come on. Let me drive. What the fuck?
+
+1317
+01:18:46,010 --> 01:18:47,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Asshole!-I didn't do it on purpose.
+
+1318
+01:18:47,340 --> 01:18:49,510
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Let me drive.-Oh, my God!
+
+1319
+01:18:49,510 --> 01:18:51,760
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You ruin my car before you even drive it.
+
+1320
+01:18:51,760 --> 01:18:53,390
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-I apologize.-Where are we going again?
+
+1321
+01:18:53,390 --> 01:18:55,890
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Don't worry about it. Get in.-What do you think I'm doing?
+
+1322
+01:18:55,890 --> 01:18:57,900
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Whoa, where'd you get these seat covers,
+
+1323
+01:18:57,900 --> 01:18:59,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}the Gaza Strip?
+
+1324
+01:18:59,270 --> 01:19:00,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}In a Valliant administration,
+
+1325
+01:19:00,940 --> 01:19:03,280
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}we will be focusing on two key principles:
+
+1326
+01:19:03,280 --> 01:19:06,320
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Shared responsibility and shared sacrifice.
+
+1327
+01:19:06,360 --> 01:19:08,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}For those of you who were fortunate enough
+
+1328
+01:19:08,490 --> 01:19:11,240
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to earn more than $200,000 a year,
+
+1329
+01:19:11,240 --> 01:19:13,240
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}we'll ask that you pay a little more in taxes.
+
+1330
+01:19:13,240 --> 01:19:16,160
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}For those of you who don't,
+
+1331
+01:19:16,160 --> 01:19:17,620
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}well, we'll bring down the payroll tax.
+
+1332
+01:19:17,620 --> 01:19:19,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's responsible and it moves us forward
+
+1333
+01:19:19,290 --> 01:19:21,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}towards a balanced budget, and a secure future.
+
+1334
+01:19:23,380 --> 01:19:24,710
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Mayor.
+
+1335
+01:19:24,710 --> 01:19:27,470
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I think it is laughable that my opponent can be up here
+
+1336
+01:19:27,470 --> 01:19:31,140
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}espousing fiscal responsibility when it is a known fact
+
+1337
+01:19:31,140 --> 01:19:32,930
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}he has never met a tax he didn't want to raise.
+
+1338
+01:19:34,310 --> 01:19:37,180
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}This coming from the man whose policies landed us
+
+1339
+01:19:37,180 --> 01:19:38,560
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}in a billion-dollar deficit.
+
+1340
+01:19:38,560 --> 01:19:42,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}This is coming from the mayor who got us out of it.
+
+1341
+01:19:42,730 --> 01:19:45,440
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}By selling people's homes out from underneath them.
+
+1342
+01:19:45,440 --> 01:19:49,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}By selling public housing to a Wall Street equity firm.
+
+1343
+01:19:49,070 --> 01:19:51,030
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I believe the residents of Bolton Village
+
+1344
+01:19:51,070 --> 01:19:52,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}would have much preferred a tax increase
+
+1345
+01:19:52,780 --> 01:19:54,580
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to an eviction notice.
+
+1346
+01:19:54,580 --> 01:19:57,500
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Councilman, no matter where a New Yorker lives,
+
+1347
+01:19:57,500 --> 01:20:00,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}nobody wants a tax increase.
+
+1348
+01:20:00,290 --> 01:20:01,880
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Nor do I.
+
+1349
+01:20:01,920 --> 01:20:05,550
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's time you told the truth about the Bolton Village deal.
+
+1350
+01:20:05,590 --> 01:20:09,220
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Here's the truth. We have a $3 billion surplus.
+
+1351
+01:20:09,220 --> 01:20:13,010
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We can use that to put our people back to work.
+
+1352
+01:20:13,010 --> 01:20:17,140
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We can use that to bring tax relief to folks.
+
+1353
+01:20:17,140 --> 01:20:18,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That's the truth.
+
+1354
+01:20:18,730 --> 01:20:21,400
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No, that's not the truth. Not even close to the truth.
+
+1355
+01:20:21,440 --> 01:20:24,060
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You made a sweetheart deal with Solstein Donagan
+
+1356
+01:20:24,110 --> 01:20:25,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to line your own pockets.
+
+1357
+01:20:25,730 --> 01:20:30,030
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}To buy your way out of a deficit your broken policies created.
+
+1358
+01:20:30,030 --> 01:20:31,740
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The truth is you continue to lie
+
+1359
+01:20:31,780 --> 01:20:35,080
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to the good people of this city about their intentions.
+
+1360
+01:20:35,120 --> 01:20:37,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Solstein Donagan did not buy Bolton Village
+
+1361
+01:20:37,490 --> 01:20:39,500
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to get into the landlord business.
+
+1362
+01:20:39,500 --> 01:20:41,620
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Solstein Donagan bought Bolton Village
+
+1363
+01:20:41,620 --> 01:20:43,540
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}to get into the skyline business,
+
+1364
+01:20:43,540 --> 01:20:44,920
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}pure and simple.
+
+1365
+01:20:44,960 --> 01:20:47,210
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Peter, we've gone into the area of slander.
+
+1366
+01:20:47,210 --> 01:20:49,840
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Solstein Donagan, in their 50-year history,
+
+1367
+01:20:49,840 --> 01:20:53,090
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}has never bought a property intended for residential use
+
+1368
+01:20:53,140 --> 01:20:55,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and I highly doubt they intend to start now.
+
+1369
+01:20:55,140 --> 01:20:58,220
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I don't know how much clearer I can make it for you.
+
+1370
+01:20:58,220 --> 01:21:00,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}To the people of Bolton Village,
+
+1371
+01:21:00,640 --> 01:21:03,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}there is only one reason I got into this deal.
+
+1372
+01:21:03,730 --> 01:21:05,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Because I want better for you.
+
+1373
+01:21:05,270 --> 01:21:08,280
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}There is a new day dawning in Bolton Village.
+
+1374
+01:21:08,320 --> 01:21:09,990
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And if Solstein Donagan,
+
+1375
+01:21:09,990 --> 01:21:11,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}if they step out of line,
+
+1376
+01:21:11,490 --> 01:21:13,740
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}if they don't fulfill their promises,
+
+1377
+01:21:13,740 --> 01:21:17,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}then I will smack them back into shape.
+
+1378
+01:21:17,700 --> 01:21:19,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That is my oath.
+
+1379
+01:21:19,370 --> 01:21:21,080
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Unfortunately for you, mayor,
+
+1380
+01:21:21,080 --> 01:21:22,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}we're all well aware of what that oath is worth.
+
+1381
+01:21:22,960 --> 01:21:25,540
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The fact remains, the debt is gone.
+
+1382
+01:21:25,540 --> 01:21:27,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}There are other ways to move us towards solvency.
+
+1383
+01:21:27,840 --> 01:21:29,420
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Name one. Besides larceny?
+
+1384
+01:21:29,420 --> 01:21:30,920
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I tell you what I would have done.
+
+1385
+01:21:30,920 --> 01:21:32,670
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}First of all, I would have done something
+
+1386
+01:21:32,670 --> 01:21:34,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}my opponent clearly feels is beneath him,
+
+1387
+01:21:34,840 --> 01:21:37,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and that is to seek the counsel of my betters
+
+1388
+01:21:37,680 --> 01:21:39,220
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}on this crucial issue.
+
+1389
+01:21:39,220 --> 01:21:40,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I would've convened a panel of..
+
+1390
+01:21:40,640 --> 01:21:43,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Respected economists..to help us solve this.
+
+1391
+01:21:43,770 --> 01:21:45,440
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We all know about that panel.
+
+1392
+01:21:45,440 --> 01:21:48,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That same panel put us into default in the '80s.
+
+1393
+01:21:48,520 --> 01:21:50,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}New Yorkers need more than a panel.
+
+1394
+01:21:50,230 --> 01:21:51,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}They want solutions.
+
+1395
+01:21:51,570 --> 01:21:53,610
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And there is only one person up on this stage
+
+1396
+01:21:53,610 --> 01:21:55,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}in the business of providing solutions.
+
+1397
+01:21:55,780 --> 01:21:58,160
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The other one who's up here is in the business of saying
+
+1398
+01:21:58,200 --> 01:21:59,990
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}how dire the situation is. Is this a debate?
+
+1399
+01:21:59,990 --> 01:22:04,120
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Are we being treated to a Nick Hostetler soliloquy?
+
+1400
+01:22:04,120 --> 01:22:05,710
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The issue is dire.
+
+1401
+01:22:05,710 --> 01:22:08,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Because you and your cronies have rigged the game.
+
+1402
+01:22:08,590 --> 01:22:11,880
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Honest, hardworking New Yorkers recognize
+
+1403
+01:22:11,880 --> 01:22:13,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}that nothing will change.
+
+1404
+01:22:13,170 --> 01:22:15,010
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Nothing will ever change
+
+1405
+01:22:15,050 --> 01:22:17,050
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}if we continue to elect men like this.
+
+1406
+01:22:17,050 --> 01:22:19,680
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Tell me things have not changed.
+
+1407
+01:22:19,680 --> 01:22:23,930
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}When I was elected mayor, this was a broken city.
+
+1408
+01:22:23,930 --> 01:22:25,440
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Broken.
+
+1409
+01:22:25,440 --> 01:22:28,360
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Step by step, I've been getting it fixed.
+
+1410
+01:22:28,360 --> 01:22:32,110
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Bolton Village is just another one of those steps.
+
+1411
+01:22:32,110 --> 01:22:33,360
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Tell me things haven't changed.
+
+1412
+01:22:33,400 --> 01:22:34,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I just stood before you all
+
+1413
+01:22:34,780 --> 01:22:37,200
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and told you we have a $3 billion surplus.
+
+1414
+01:22:37,200 --> 01:22:39,530
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Peter..Tell me things haven't changed.
+
+1415
+01:22:39,580 --> 01:22:41,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No other mayor in the history of this city
+
+1416
+01:22:41,370 --> 01:22:43,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}has been able to say that.
+
+1417
+01:22:43,410 --> 01:22:44,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Tell me things haven't changed.
+
+1418
+01:22:44,960 --> 01:22:47,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}When you step out of your house in the morning, with your children,
+
+1419
+01:22:47,750 --> 01:22:50,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}you take them to the parks, do you feel safe?
+
+1420
+01:22:50,290 --> 01:22:51,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yes, you do feel safe
+
+1421
+01:22:51,750 --> 01:22:54,380
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}because I get your letters and I know you do.
+
+1422
+01:22:54,380 --> 01:22:58,050
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That's us, working together, getting it fixed.
+
+1423
+01:22:58,050 --> 01:23:00,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Tell me things haven't changed.
+
+1424
+01:23:00,100 --> 01:23:01,390
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That's right, mayor.
+
+1425
+01:23:05,270 --> 01:23:08,600
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Councilman Valliant, the original question still remains.
+
+1426
+01:23:08,600 --> 01:23:11,360
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What would you have done to reverse the debt?
+
+1427
+01:23:12,730 --> 01:23:15,240
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Like..Don't worry about it. Nicky fixed it.
+
+1428
+01:23:28,870 --> 01:23:31,250
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Two honks for trouble. Got it.
+
+1429
+01:23:31,250 --> 01:23:33,250
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Lean your seat back all the way, okay?-Okay.
+
+1430
+01:23:33,300 --> 01:23:35,210
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'll be right back.
+
+1431
+01:24:01,110 --> 01:24:02,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-You know who I am?-No.
+
+1432
+01:24:02,780 --> 01:24:07,120
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I know who you are, Todd. You're a fucking piece of shit!
+
+1433
+01:24:07,160 --> 01:24:08,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-You set up Andrews to die.-No. No.
+
+1434
+01:24:08,960 --> 01:24:10,210
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You set him up!
+
+1435
+01:24:10,210 --> 01:24:12,250
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You arranged that meeting and lured him out.
+
+1436
+01:24:12,250 --> 01:24:14,710
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-No, I didn't.-You let him walk into an ambush.
+
+1437
+01:24:14,710 --> 01:24:16,840
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-I didn't kill him.-You want to play games with me?
+
+1438
+01:24:16,840 --> 01:24:19,470
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Shut your fucking mouth! You're a fucking liar.
+
+1439
+01:24:19,470 --> 01:24:20,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-I didn't kill him.-Liar.
+
+1440
+01:24:20,840 --> 01:24:23,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-I'm not a liar.-You want to lie to me?
+
+1441
+01:24:23,640 --> 01:24:25,470
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm not lying.
+
+1442
+01:24:25,470 --> 01:24:27,390
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-He was my friend.-What?
+
+1443
+01:24:27,390 --> 01:24:29,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-He was my friend!-Get up!
+
+1444
+01:24:29,770 --> 01:24:31,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Now!
+
+1445
+01:24:32,310 --> 01:24:34,900
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Tell me what the fuck is going on!
+
+1446
+01:24:34,900 --> 01:24:37,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Please stop hitting me!
+
+1447
+01:24:37,070 --> 01:24:39,820
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I didn't know.
+
+1448
+01:24:39,820 --> 01:24:42,200
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I was just there to give him something.
+
+1449
+01:24:42,200 --> 01:24:45,620
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I was down on the corner, waiting for him.
+
+1450
+01:24:45,620 --> 01:24:49,040
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I saw him coming down the stairs and I waved, okay?
+
+1451
+01:24:49,040 --> 01:24:51,920
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I was gonna give him something to help Valliant win.
+
+1452
+01:24:51,920 --> 01:24:55,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}To help Valliant bring down that son of a bitch Hostetler!
+
+1453
+01:24:55,290 --> 01:24:56,630
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That doesn't make any sense.
+
+1454
+01:24:56,630 --> 01:24:58,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hostetler's your father's friend.
+
+1455
+01:24:58,340 --> 01:25:01,300
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Fuck my father!
+
+1456
+01:25:01,300 --> 01:25:03,390
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I had the contract in my hand.
+
+1457
+01:25:05,760 --> 01:25:09,680
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Paul, he saw me waving and he smiled.
+
+1458
+01:25:11,270 --> 01:25:14,480
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Murdock must have followed me in his car,
+
+1459
+01:25:14,480 --> 01:25:16,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}then he got out and he shot him, man.
+
+1460
+01:25:16,520 --> 01:25:18,530
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He shot him in the fucking head.
+
+1461
+01:25:18,570 --> 01:25:20,400
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And then he showed up to work the next day
+
+1462
+01:25:20,400 --> 01:25:22,240
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}like nothing happened.
+
+1463
+01:25:22,240 --> 01:25:24,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Todd, it's all right. Look at me. Look at me.
+
+1464
+01:25:24,740 --> 01:25:26,740
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Calm down, okay?
+
+1465
+01:25:26,740 --> 01:25:28,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Where's that contract?
+
+1466
+01:25:39,630 --> 01:25:40,840
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Take it.
+
+1467
+01:25:40,840 --> 01:25:43,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I don't want it anymore.
+
+1468
+01:25:49,930 --> 01:25:52,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You sure you're ready to do this to your father?
+
+1469
+01:25:52,270 --> 01:25:54,560
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah. Ah.
+
+1470
+01:25:54,560 --> 01:25:56,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Shit.
+
+1471
+01:25:56,770 --> 01:25:58,020
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Get upstairs. Go.
+
+1472
+01:26:33,680 --> 01:26:35,190
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That was an accident.
+
+1473
+01:26:35,190 --> 01:26:36,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's Taggart. Just calm down.
+
+1474
+01:26:36,940 --> 01:26:38,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Motherfucking fuck!
+
+1475
+01:27:20,230 --> 01:27:21,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Are you okay?
+
+1476
+01:27:23,110 --> 01:27:25,240
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah.
+
+1477
+01:27:25,240 --> 01:27:28,110
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Are you okay?
+
+1478
+01:27:28,110 --> 01:27:29,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah, I'm all right.
+
+1479
+01:28:07,070 --> 01:28:09,280
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You got those reporters' e-mail addresses?
+
+1480
+01:28:09,280 --> 01:28:11,160
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yep.
+
+1481
+01:28:11,160 --> 01:28:12,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Billy, are you sure about this?
+
+1482
+01:28:14,620 --> 01:28:17,250
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}If you don't hear from me in two hours, send that e-mail.
+
+1483
+01:28:17,250 --> 01:28:19,580
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Okay.
+
+1484
+01:28:22,540 --> 01:28:24,500
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Thanks for being there, Katy.
+
+1485
+01:28:26,210 --> 01:28:27,880
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Every time.
+
+1486
+01:28:42,520 --> 01:28:43,810
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Good evening. May I help you?
+
+1487
+01:28:43,810 --> 01:28:46,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah, tell the mayor it's Billy Taggart.
+
+1488
+01:28:46,110 --> 01:28:48,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}One moment, please.
+
+1489
+01:29:10,590 --> 01:29:12,010
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Mr.Mayor.
+
+1490
+01:29:13,510 --> 01:29:14,890
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Billy.
+
+1491
+01:29:14,890 --> 01:29:18,600
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What a nice surprise. Thank you, Valerie.
+
+1492
+01:29:18,640 --> 01:29:22,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}VCR. I haven't used one in years.
+
+1493
+01:29:23,480 --> 01:29:26,860
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Take your coat?-No, I'm good.
+
+1494
+01:29:26,860 --> 01:29:29,900
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I have to say, Billy, you're looking worse for wear.
+
+1495
+01:29:29,900 --> 01:29:32,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I got into a bit of a thing.
+
+1496
+01:29:32,490 --> 01:29:35,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Well, I'm glad you made it out.
+
+1497
+01:29:37,160 --> 01:29:39,120
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Drink?-Yeah, make it a double.
+
+1498
+01:29:39,120 --> 01:29:41,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Attaboy, Billy.
+
+1499
+01:29:42,500 --> 01:29:44,080
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}All right.
+
+1500
+01:29:46,790 --> 01:29:51,880
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}So how did Fitzgerald say it?
+
+1501
+01:29:51,880 --> 01:29:53,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}"To the orgiastic future
+
+1502
+01:29:53,800 --> 01:29:57,140
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}that year by year recedes before us."
+
+1503
+01:29:57,180 --> 01:29:58,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Cheers.
+
+1504
+01:30:01,850 --> 01:30:04,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I don't even know what that means.
+
+1505
+01:30:04,520 --> 01:30:06,560
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Me neither.
+
+1506
+01:30:06,560 --> 01:30:09,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What can I do for you, Billy?
+
+1507
+01:30:09,940 --> 01:30:12,820
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I wanna know why you hired me.
+
+1508
+01:30:12,860 --> 01:30:15,160
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Stick with the adultery narrative.
+
+1509
+01:30:15,200 --> 01:30:16,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's sexier.
+
+1510
+01:30:16,410 --> 01:30:18,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Lies are always sexier.
+
+1511
+01:30:18,070 --> 01:30:20,990
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I've had enough this week to last a lifetime,
+
+1512
+01:30:21,040 --> 01:30:23,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}so why don't you just tell me the fucking truth?
+
+1513
+01:30:25,750 --> 01:30:31,380
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The truth is I hired you to investigate my wife.
+
+1514
+01:30:31,380 --> 01:30:33,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Investigate her for what?
+
+1515
+01:30:33,170 --> 01:30:36,840
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}For not minding her own business is for what.
+
+1516
+01:30:36,840 --> 01:30:39,850
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}For having a big mouth is for what.
+
+1517
+01:30:39,890 --> 01:30:42,100
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}For asking too many questions is for what.
+
+1518
+01:30:42,100 --> 01:30:44,180
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Better be careful following her example, Billy,
+
+1519
+01:30:44,230 --> 01:30:47,440
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I might have to hire someone to investigate you.
+
+1520
+01:30:47,440 --> 01:30:49,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Who? Your boy Murdock?
+
+1521
+01:30:49,730 --> 01:30:54,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I don't think he's available for the job.
+
+1522
+01:30:54,070 --> 01:30:55,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I hope he didn't suffer.
+
+1523
+01:30:55,570 --> 01:30:57,660
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No more than Andrews did.
+
+1524
+01:30:57,660 --> 01:30:59,870
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Damn shame what happened to that man.
+
+1525
+01:30:59,870 --> 01:31:02,540
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}So tell me, did you really think I'd let you turn me
+
+1526
+01:31:02,540 --> 01:31:05,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}into an accessory to murder? For $50,000?
+
+1527
+01:31:05,410 --> 01:31:08,210
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Did you think I wouldn't ask any questions?
+
+1528
+01:31:08,210 --> 01:31:10,000
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Or that I wouldn't get any answers?
+
+1529
+01:31:10,000 --> 01:31:12,210
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What answers have you got, Billy?
+
+1530
+01:31:12,250 --> 01:31:14,920
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Andrews was about to link you to Bolton Village.
+
+1531
+01:31:14,920 --> 01:31:17,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That's the reason you got rid of him.
+
+1532
+01:31:17,340 --> 01:31:20,010
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-No, sir. Not me.-Oh, not you.
+
+1533
+01:31:20,010 --> 01:31:22,180
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The man you hired. Murdock.
+
+1534
+01:31:22,180 --> 01:31:24,220
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Try getting that testimony.
+
+1535
+01:31:24,270 --> 01:31:27,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah. You're good, mayor. I give you that.
+
+1536
+01:31:27,770 --> 01:31:29,020
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You got it all worked out, huh?
+
+1537
+01:31:29,020 --> 01:31:31,480
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The denial about Bolton Village.
+
+1538
+01:31:31,480 --> 01:31:33,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The discount to Solstein Donagan.
+
+1539
+01:31:33,780 --> 01:31:36,320
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The new big contract to the Rochway Group.
+
+1540
+01:31:36,320 --> 01:31:39,030
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But nobody can do a damn thing about it, huh?
+
+1541
+01:31:39,030 --> 01:31:41,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Because anybody that could is either dead or bought.
+
+1542
+01:31:41,700 --> 01:31:44,240
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm fucking impressed, mayor. You're good.
+
+1543
+01:31:44,290 --> 01:31:48,670
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Perhaps that's why the people keep electing me, Billy.
+
+1544
+01:31:48,670 --> 01:31:50,830
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Because I simply get the job done.
+
+1545
+01:31:50,830 --> 01:31:53,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}So all this, it was all for the city?
+
+1546
+01:31:53,800 --> 01:31:56,130
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Everything I do is for this great city.
+
+1547
+01:31:56,130 --> 01:31:59,470
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The city doesn't own 50 percent of Rochway Group, mayor.
+
+1548
+01:31:59,470 --> 01:32:00,930
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You do.
+
+1549
+01:32:02,100 --> 01:32:03,720
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Look what I got.
+
+1550
+01:32:08,600 --> 01:32:10,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What you got in your hand?
+
+1551
+01:32:10,770 --> 01:32:12,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's your fucking jugular, mayor.
+
+1552
+01:32:15,150 --> 01:32:19,490
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Fifty percent of $4 billion is a lot of fucking money.
+
+1553
+01:32:19,490 --> 01:32:21,110
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}So here's how this works.
+
+1554
+01:32:21,110 --> 01:32:24,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I got an e-mail in my outbox with a copy of that contract.
+
+1555
+01:32:24,780 --> 01:32:26,080
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I click one button,
+
+1556
+01:32:26,080 --> 01:32:27,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}a hundred newsmen will read your name
+
+1557
+01:32:27,950 --> 01:32:30,920
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}alongside Sam Lancaster's in black and white.
+
+1558
+01:32:30,920 --> 01:32:33,540
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Don't worry, I got the original nice and safe.
+
+1559
+01:32:33,540 --> 01:32:36,050
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You resign, you step down, I'll keep my mouth shut.
+
+1560
+01:32:36,050 --> 01:32:38,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Those e-mails will never see the light of day.
+
+1561
+01:32:38,170 --> 01:32:41,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But that Bolton Village deal is dead.
+
+1562
+01:32:41,340 --> 01:32:43,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You want to tear down other projects as a civilian,
+
+1563
+01:32:43,850 --> 01:32:46,310
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}so be it, but Bolton Village stands,
+
+1564
+01:32:46,350 --> 01:32:48,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and you're gonna walk away.
+
+1565
+01:32:48,270 --> 01:32:50,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}That's the deal, mayor. I suggest you take it.
+
+1566
+01:32:50,690 --> 01:32:52,150
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Counter offer.
+
+1567
+01:32:52,190 --> 01:32:53,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}No need.
+
+1568
+01:32:53,230 --> 01:32:55,020
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I got nothing left for you to threaten.
+
+1569
+01:32:55,020 --> 01:32:58,440
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I want the originals, I want all the copies,
+
+1570
+01:32:58,440 --> 01:33:02,530
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and I want your case file by 9 a.m. tomorrow.
+
+1571
+01:33:02,530 --> 01:33:04,160
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You're done, motherfucker.
+
+1572
+01:33:04,200 --> 01:33:05,160
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You are done.
+
+1573
+01:33:05,200 --> 01:33:08,040
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You ever spend a goddamn minute
+
+1574
+01:33:08,040 --> 01:33:11,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}thinking why I chose you, Taggart?
+
+1575
+01:33:11,290 --> 01:33:14,580
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}And I did choose you.
+
+1576
+01:33:14,580 --> 01:33:16,000
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I chose you.
+
+1577
+01:33:17,340 --> 01:33:20,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Because I own you.
+
+1578
+01:33:20,220 --> 01:33:24,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You're gonna have to excuse the quality of the videotape.
+
+1579
+01:33:24,390 --> 01:33:26,350
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It was shot on one of those camcorders
+
+1580
+01:33:26,390 --> 01:33:31,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}they used to sell you 40 bucks on Eighth Avenue.
+
+1581
+01:33:31,230 --> 01:33:33,440
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But I think you're about to see the bigger picture.
+
+1582
+01:33:34,850 --> 01:33:38,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Hey, yo! First off, let me say welcome.
+
+1583
+01:33:38,570 --> 01:33:39,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Welcome to Bolton Village.
+
+1584
+01:33:39,940 --> 01:33:41,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What the fuck is this?
+
+1585
+01:33:41,650 --> 01:33:44,860
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-What's your name, fool?-They call me Alex.
+
+1586
+01:33:44,910 --> 01:33:46,280
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What the fuck is this?
+
+1587
+01:33:48,370 --> 01:33:49,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We just cooling out.
+
+1588
+01:33:49,950 --> 01:33:51,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Me and my man David on the camcorder.
+
+1589
+01:33:51,960 --> 01:33:53,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yes, it's David, hello.
+
+1590
+01:33:56,380 --> 01:33:58,090
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I got a pocket full of cash
+
+1591
+01:33:58,090 --> 01:34:00,130
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and we looking to have some fun.
+
+1592
+01:34:00,130 --> 01:34:01,840
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We gonna hit up the usual spots,
+
+1593
+01:34:01,840 --> 01:34:04,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}maybe get into something unusual.
+
+1594
+01:34:04,590 --> 01:34:08,220
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Drop the gun, Mikey! Drop the fucking gun!
+
+1595
+01:34:09,510 --> 01:34:11,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Drop the fucking gun!
+
+1596
+01:34:11,270 --> 01:34:13,810
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Chill, man, what the fuck? Mikey, we just wanna talk.
+
+1597
+01:34:22,990 --> 01:34:26,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Drop the gun, Mikey. Drop the fucking gun.
+
+1598
+01:34:26,740 --> 01:34:29,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's okay, Mikey. We just wanna talk.
+
+1599
+01:34:33,500 --> 01:34:36,460
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Oh, shit, man! Get the fuck out of here!
+
+1600
+01:34:50,390 --> 01:34:53,850
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Oh, shit, man! Get the fuck out of here!
+
+1601
+01:34:58,020 --> 01:35:00,230
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How's your memory now, Billy?
+
+1602
+01:35:04,190 --> 01:35:07,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Now there's something that your average citizen..
+
+1603
+01:35:09,570 --> 01:35:12,870
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}..just wouldn't understand.
+
+1604
+01:35:12,870 --> 01:35:14,790
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}But I do.
+
+1605
+01:35:15,870 --> 01:35:20,590
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You see, we take because we can.
+
+1606
+01:35:20,590 --> 01:35:26,300
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We take because it feels good.
+
+1607
+01:35:26,300 --> 01:35:30,010
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The only difference between you and I
+
+1608
+01:35:30,010 --> 01:35:33,060
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}is that you've gone and done it on videotape.
+
+1609
+01:35:33,060 --> 01:35:34,600
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Like I was saying, I want the original,
+
+1610
+01:35:34,600 --> 01:35:39,310
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}all the copies, your case file by the morning.
+
+1611
+01:35:39,310 --> 01:35:41,190
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You can have this copy.
+
+1612
+01:35:41,190 --> 01:35:45,530
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I transferred it to disk seven years ago.
+
+1613
+01:35:55,290 --> 01:35:56,500
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Nat?
+
+1614
+01:37:08,780 --> 01:37:13,070
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We take because it feels good.
+
+1615
+01:37:13,070 --> 01:37:15,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}The only difference between you and I
+
+1616
+01:37:15,410 --> 01:37:19,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}is that you've gone and done it on videotape.
+
+1617
+01:37:19,410 --> 01:37:22,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Like I was saying, I want the original,
+
+1618
+01:37:22,170 --> 01:37:25,630
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}all the copies, your case file by the morning.
+
+1619
+01:37:25,630 --> 01:37:28,500
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You can have this copy.
+
+1620
+01:37:28,500 --> 01:37:31,920
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I transferred it to disk seven years ago.
+
+1621
+01:37:35,720 --> 01:37:38,890
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He'll ruin you if you do this. You know that, Billy.
+
+1622
+01:37:38,890 --> 01:37:40,930
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Use it.
+
+1623
+01:37:40,930 --> 01:37:43,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}There's no statute of limitations on murder.
+
+1624
+01:37:43,690 --> 01:37:45,060
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}If I go with this,
+
+1625
+01:37:45,100 --> 01:37:46,770
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I can't cut it down to protect you.
+
+1626
+01:37:46,770 --> 01:37:48,480
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm not asking you to.
+
+1627
+01:37:52,740 --> 01:37:54,740
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You sure?
+
+1628
+01:37:54,780 --> 01:37:58,080
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Time to square the debt.
+
+1629
+01:38:04,620 --> 01:38:06,080
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Ladies and gentlemen,
+
+1630
+01:38:06,130 --> 01:38:07,960
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}unaccustomed as I am to public speaking..
+
+1631
+01:38:07,960 --> 01:38:09,880
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I know you, Sam, you like a debate.
+
+1632
+01:38:09,880 --> 01:38:11,420
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}How did you enjoy that one?
+
+1633
+01:38:11,420 --> 01:38:12,720
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Masterful.
+
+1634
+01:38:12,720 --> 01:38:14,430
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Thank you very, very much.
+
+1635
+01:38:14,470 --> 01:38:16,340
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Firstly, I'd like to thank you for coming.
+
+1636
+01:38:16,340 --> 01:38:21,020
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}This is a room full of my wife and I's very, very good friends,
+
+1637
+01:38:21,020 --> 01:38:22,520
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}so thank you.
+
+1638
+01:38:22,520 --> 01:38:24,350
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}A man much smarter than me once said
+
+1639
+01:38:24,350 --> 01:38:27,940
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}that politics is the art of the possible.
+
+1640
+01:38:27,980 --> 01:38:29,270
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}This afternoon,
+
+1641
+01:38:29,320 --> 01:38:33,110
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Jack Valliant was ordering stationery.
+
+1642
+01:38:33,110 --> 01:38:34,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Tonight, he's looking for the number of the bus
+
+1643
+01:38:34,990 --> 01:38:36,450
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}that hit him.
+
+1644
+01:38:36,490 --> 01:38:38,280
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He fought a good fight, but he was boxing shadows.
+
+1645
+01:38:38,280 --> 01:38:40,580
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He was like Roberto Duran out there.
+
+1646
+01:38:40,580 --> 01:38:43,500
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}"No mas, Nicky, no mas. Don't hit me no more."
+
+1647
+01:38:43,500 --> 01:38:46,210
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}He says it's urgent. I'll deal with this.
+
+1648
+01:38:46,210 --> 01:38:48,840
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Don't go anywhere. I have a lot of people to thank.
+
+1649
+01:38:48,840 --> 01:38:50,420
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Yes?-It's me.
+
+1650
+01:38:50,420 --> 01:38:53,420
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Billy, I didn't think you'd call me so soon.
+
+1651
+01:38:53,420 --> 01:38:55,550
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Look out your window now, mayor.
+
+1652
+01:38:55,550 --> 01:38:58,760
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's your future. I think your ride's here, Nick.
+
+1653
+01:39:05,140 --> 01:39:06,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Nicholas Hostetler,
+
+1654
+01:39:06,690 --> 01:39:10,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}you're under arrest for the murder of Paul Andrews.
+
+1655
+01:39:10,570 --> 01:39:12,360
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You have the right to remain silent.
+
+1656
+01:39:12,360 --> 01:39:14,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Anything you say can be used against you.
+
+1657
+01:39:14,690 --> 01:39:17,320
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Anything I say will be used against you, Carl.
+
+1658
+01:39:17,320 --> 01:39:18,740
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You have the right to an attorney.
+
+1659
+01:39:18,740 --> 01:39:20,740
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}If you cannot afford one, one will be provided.
+
+1660
+01:39:20,740 --> 01:39:22,410
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Attorneys?
+
+1661
+01:39:22,410 --> 01:39:24,330
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}They'll pull your dental records when I'm done with you.
+
+1662
+01:39:24,330 --> 01:39:25,910
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Do you understand these rights?
+
+1663
+01:39:25,910 --> 01:39:28,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I understand you're suicidal.
+
+1664
+01:39:28,290 --> 01:39:31,000
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You may have forgotten how you got your job, I haven't.
+
+1665
+01:39:31,040 --> 01:39:33,460
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Do you really think a jury of my peers
+
+1666
+01:39:33,460 --> 01:39:35,880
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}in New York City will convict me?
+
+1667
+01:39:35,880 --> 01:39:39,430
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'm just the handcuffs guy.
+
+1668
+01:39:41,510 --> 01:39:44,350
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Don't wait up, dear.-Have I ever?
+
+1669
+01:39:49,310 --> 01:39:51,690
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I guess we both misjudged Billy.
+
+1670
+01:39:51,730 --> 01:39:54,190
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Then again, you misjudged a lot of us.
+
+1671
+01:39:54,190 --> 01:39:55,530
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We thought Billy would roll over,
+
+1672
+01:39:55,530 --> 01:39:58,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}that Andrews was sleeping with your wife.
+
+1673
+01:39:58,780 --> 01:40:00,530
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}You thought I wasn't.
+
+1674
+01:40:32,730 --> 01:40:34,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}New Yorkers have been put through an ordeal
+
+1675
+01:40:34,730 --> 01:40:36,280
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}these last few days,
+
+1676
+01:40:36,280 --> 01:40:37,900
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}beginning with the murder of Paul Andrews,
+
+1677
+01:40:37,940 --> 01:40:39,570
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}your campaign manager,
+
+1678
+01:40:39,610 --> 01:40:42,110
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}and culminating last night with the arrest of Hostetler
+
+1679
+01:40:42,110 --> 01:40:43,530
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}in connection with that crime.
+
+1680
+01:40:43,530 --> 01:40:45,080
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What would you say to New Yorkers
+
+1681
+01:40:45,120 --> 01:40:47,700
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}who, quite frankly, have lost faith
+
+1682
+01:40:47,700 --> 01:40:49,290
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}in their government?
+
+1683
+01:40:49,290 --> 01:40:52,000
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Well, days like these can shake your faith..
+
+1684
+01:40:52,000 --> 01:40:53,500
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-Rachael.-Hey.
+
+1685
+01:40:53,500 --> 01:40:55,750
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}-You staying out of trouble?-I'm trying.
+
+1686
+01:40:55,800 --> 01:40:57,380
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Yeah, I know it.
+
+1687
+01:41:00,090 --> 01:41:01,800
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Whatever he's drinking.
+
+1688
+01:41:09,430 --> 01:41:10,850
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Tomorrow's the big day, huh?
+
+1689
+01:41:14,230 --> 01:41:17,320
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Looks like our guy's a lock.
+
+1690
+01:41:22,280 --> 01:41:23,820
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}To Jack Valliant.
+
+1691
+01:41:26,910 --> 01:41:28,790
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}A good man.
+
+1692
+01:41:43,010 --> 01:41:46,640
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I, uh, I got you this.
+
+1693
+01:41:46,680 --> 01:41:48,140
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What is it?
+
+1694
+01:41:48,140 --> 01:41:50,730
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}What's it look like? It's a phone card.
+
+1695
+01:41:54,730 --> 01:41:56,650
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Thank you.
+
+1696
+01:41:57,980 --> 01:42:00,780
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Every time, Billy.
+
+1697
+01:42:07,330 --> 01:42:10,950
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}It's okay, Katy. I'll be home real soon.
+
+1698
+01:42:10,950 --> 01:42:12,580
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}I'll be here.
+
+1699
+01:42:12,580 --> 01:42:14,370
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}Come on, Billy.
+
+1700
+01:42:15,460 --> 01:42:17,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}We'll take the long way.
+
+1701
+01:42:19,170 --> 01:42:30,170
+{\fncambria\fs22\shad2\1c&H45DFEC&\b0\i1}亲，有空的时候可以来交流电影哦 加我QQ：1610169789
+
+1702
+01:42:30,170 --> 01:42:30,170
+

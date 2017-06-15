@@ -1,0 +1,4121 @@
+1
+00:00:02,300 --> 00:00:04,390
+前情提要
+Previously on Stargate Atlantis...
+
+2
+00:00:04,400 --> 00:00:07,490
+Ellis上校 欢迎你们首次拜访
+非常准时
+Colonel Ellis, you made excellent
+time on your first voyage here.
+
+3
+00:00:07,500 --> 00:00:11,190
+复制者们知道地球的位置
+而这些飞船
+The replicators know the location
+of earth, and with these new ships,
+
+4
+00:00:11,200 --> 00:00:12,690
+可以帮他们到达那里
+have the means to get there.
+
+5
+00:00:13,800 --> 00:00:15,690
+那么 我们要炸毁他们的飞船
+So, you're going to blow up their ships.
+
+6
+00:00:15,700 --> 00:00:16,790
+Oberoth...
+Oberoth...
+
+7
+00:00:16,800 --> 00:00:20,790
+我们攻击你们是别无选择的
+你们正在建造战舰 他们必须被摧毁
+we had to attack you.You were building
+warships.They needed to be neutralized.
+
+8
+00:00:20,800 --> 00:00:22,290
+现在 你们也是一样
+And now so do you.
+
+9
+00:00:22,300 --> 00:00:24,990
+不管我们躲藏在这个星球上
+的哪个地方
+No matter where we try
+to hide on this planet,
+
+10
+00:00:25,000 --> 00:00:27,890
+复制者的卫星总有办法追踪我们
+the replicator satellite
+will be able to track us.
+
+11
+00:00:27,900 --> 00:00:29,090
+我们让城市下沉
+We submerge the city.
+
+12
+00:00:29,100 --> 00:00:32,690
+海水可以减弱光束的强度
+为我们争取一些护盾使用时间
+The water attenuates the satellite's beam
+intensity, buys us some more shield time.
+
+13
+00:00:32,700 --> 00:00:33,890
+海水没有效果?
+The water has no effect?
+
+14
+00:00:33,900 --> 00:00:35,990
+有效果 只是距离我们设想的太远
+It's having an affect, but just
+nowhere near what we want it to.
+
+15
+00:00:36,000 --> 00:00:39,290
+你想让一颗小行星向我们飞来?
+这样做明智吗?
+You want to bring an asteroid
+towards us?Is that wise?
+
+16
+00:00:39,300 --> 00:00:42,090
+Atlantis 要离开这个星球了
+Atlantis is leaving this planet.
+
+17
+00:00:42,100 --> 00:00:45,590
+- 我们飞得还不够高
+- 我们没有足够的能量
+We're not flying high enough.We
+don't have enough power.
+
+18
+00:00:45,600 --> 00:00:47,000
+关掉护盾
+Lower the shield.
+
+19
+00:00:52,000 --> 00:00:53,600
+超光速引擎关闭了
+The hyperdrive just
+shut down.We are lost.
+
+20
+00:00:53,700 --> 00:00:55,890
+我们迷失了
+我们脱离超空间太快了
+We dropped out of
+hyperspace way too soon.
+
+21
+00:00:55,900 --> 00:00:57,300
+我不知道我们现在在哪
+I have no idea where we are.
+
+22
+00:01:05,300 --> 00:01:07,490
+她没有反映
+而且瞳孔反映迟缓
+She's unresponsive and
+her pupils are sluggish.
+
+23
+00:01:07,500 --> 00:01:10,090
+我要你准备手术室
+确保我们到的时候扫描器可以用
+I need you to prep the O.R.And have
+the scanner ready when we get there.
+
+24
+00:01:10,100 --> 00:01:12,300
+我们这就开始
+扫描器正在就位
+We're on it.The scanner
+is moving into position.
+
+25
+00:01:13,600 --> 00:01:14,500
+她要不行了
+She's crashing.
+
+26
+00:01:15,500 --> 00:01:17,400
+伙计们快点
+我可不想在走廊里抢救
+Let's go, guys.I don't
+want to do this in the hall.
+
+27
+00:01:22,000 --> 00:01:24,300
+好了 好了
+Here we go, here we go.
+
+28
+00:01:25,600 --> 00:01:27,290
+城市内的传感器上线了吗?
+You got city-wide
+sensors back on-line?
+
+29
+00:01:27,300 --> 00:01:29,890
+谢天谢地 是的
+正在缓缓启动
+Hopefully, yeah.Slowly
+booting up right now.
+
+30
+00:01:29,900 --> 00:01:30,990
+我们能联系Apollo了吗?
+Can we contact the Apollo?
+
+31
+00:01:31,000 --> 00:01:32,690
+- 还不行
+- 为什么?
+- Not yet, no.
+- Why not?
+
+32
+00:01:32,700 --> 00:01:34,290
+次空间通信还没有恢复
+Because sub-space
+communications are down.
+
+33
+00:01:34,300 --> 00:01:36,590
+别担心 我叫Chuck去解决了
+Don't worry, I've got
+chuck working on it.
+
+34
+00:01:38,700 --> 00:01:40,790
+也许你应该亲自解决
+Well, maybe you should be working on it.
+
+35
+00:01:40,800 --> 00:01:42,290
+我还有更重要的事要干
+I've got bigger fish to fry.
+
+36
+00:01:42,300 --> 00:01:45,300
+还有什么能比联系Apollo更重要呢?
+What could be more important
+than contacting the Apollo?
+
+37
+00:01:45,500 --> 00:01:46,700
+这不可能!
+This can't be right.
+
+38
+00:01:46,900 --> 00:01:48,400
+怎么了?
+What's wrong?
+
+39
+00:01:48,700 --> 00:01:49,200
+能量!
+Power.
+
+40
+00:01:50,200 --> 00:01:51,790
+我们正在大量地失去能量
+We're losing massive amounts of power.
+
+41
+00:01:51,800 --> 00:01:54,190
+- 把它拔出来就好了
+- 不行
+- Just pull it out.
+- I can't do that.
+
+42
+00:01:54,200 --> 00:01:55,290
+为什么?
+Why not?
+
+43
+00:01:55,300 --> 00:01:57,190
+等扫描器空出来
+我们得让你扫描一下
+We have to wait to get
+you under the scanner,
+
+44
+00:01:57,200 --> 00:01:59,890
+要保证把它拔出来
+不会给你造成更多伤害
+make sure pulling it out's not
+going to cause even more damage.
+
+45
+00:01:59,900 --> 00:02:02,290
+拔-出-来!
+Pull...it...out.
+
+46
+00:02:02,300 --> 00:02:04,590
+好好 我懂 你很强悍
+Yeah, yeah, I get it,
+you're a tough guy.
+
+47
+00:02:04,600 --> 00:02:06,790
+如果你要吧的话 请自便...
+If you want to pull it out, go
+ahead, but I'm not going to--
+
+48
+00:02:06,800 --> 00:02:08,090
+你疯了吗?!
+are you crazy?
+
+49
+00:02:20,700 --> 00:02:21,790
+数到3 准备
+On three, ready?
+
+50
+00:02:21,800 --> 00:02:23,090
+1 2 3
+One, two, three.
+
+51
+00:02:31,200 --> 00:02:32,400
+清开
+Clear.
+
+52
+00:02:35,300 --> 00:02:36,300
+充电
+Charge it.
+
+53
+00:02:36,500 --> 00:02:38,290
+我觉得问题不在我们这边
+I don't think the
+problem is on this end.
+
+54
+00:02:38,300 --> 00:02:41,900
+我不管问题在哪一边
+我想知道是什么出了问题
+I don't care where the problem is,
+I want to know what the problem is.
+
+55
+00:02:42,000 --> 00:02:43,100
+是线路
+It's in the conduits.
+
+56
+00:02:44,700 --> 00:02:46,690
+看上去...
+It looks like...
+
+57
+00:02:46,700 --> 00:02:49,290
+几个主要的线路都被光束
+的冲击波影响到了
+several main conduits
+were affected by the beam.
+
+58
+00:02:49,300 --> 00:02:50,790
+那就是我们得...
+All right, that means
+that we'll need to, uh--
+
+59
+00:02:50,800 --> 00:02:52,590
+是 是 你应该去...
+Yes, yes, yes. You
+should get the--
+
+60
+00:02:52,600 --> 00:02:54,390
+我会的 但是我得先关掉...
+Yeah, I will, as soon as
+I've shut down all of the--
+
+61
+00:02:54,400 --> 00:02:56,290
+是的 我也一样
+Yes, yes, yes, I will do the same thing.
+
+62
+00:02:56,300 --> 00:02:57,790
+等一下 这里发生了什么?
+Wait, wait, wait, what's going on here?
+
+63
+00:02:57,800 --> 00:03:00,290
+我每浪费一秒钟
+就会消耗掉更多的能量
+Every second I waste,
+we're draining more power.
+
+64
+00:03:00,300 --> 00:03:02,290
+相信我 我们做的没错
+Just trust me, we're
+doing the right thing.
+
+65
+00:03:02,300 --> 00:03:03,000
+没有效果
+No change.
+
+66
+00:03:04,600 --> 00:03:07,300
+我们试试甘露醇(减小颅内压药物)
+静注200cc
+Let's start her on mannitol, 200 cc's iv.
+
+67
+00:03:07,600 --> 00:03:09,290
+Rodney 告诉我发生了什么事
+Tell me what's going on, Rodney.
+
+68
+00:03:09,300 --> 00:03:12,790
+长话短说 有一堆不需要开的系统
+现在还开着
+Long story short, there are a bunch of
+systems on right now that don't need to be,
+
+69
+00:03:12,800 --> 00:03:15,790
+照目前的情况
+它们正在消耗这座城市的"生命"
+and given our current situation, they're
+draining the life out of the city.
+
+70
+00:03:15,800 --> 00:03:17,090
+你不能关掉它们吗?
+Can you not just shut them off?
+
+71
+00:03:17,100 --> 00:03:18,990
+等一下...
+Yeah, just wait, uh...
+
+72
+00:03:19,000 --> 00:03:21,090
+也许 可以
+Maybe, yeah.
+
+73
+00:03:24,400 --> 00:03:25,890
+快点...
+Come on...
+
+74
+00:03:25,900 --> 00:03:27,990
+快点...
+Aw, come on...
+
+75
+00:03:29,800 --> 00:03:30,400
+时间?
+Time?
+
+76
+00:03:30,410 --> 00:03:31,500
+心脏停跳已经2分钟了
+She's been flat for almost two minutes.
+
+77
+00:03:33,400 --> 00:03:35,400
+求你 Elizabeth 我们这里需要你
+Come on, we need you here, Elizabeth.
+
+78
+00:03:36,500 --> 00:03:39,100
+她的心室纤维恢复颤动了
+我们再电击一次
+She's going back into v-fib.
+Let's hit her again.
+
+79
+00:03:42,300 --> 00:03:43,890
+清开
+Clear.
+
+80
+00:03:48,800 --> 00:03:52,200
+好了
+伙计们 我们来扫描一下
+There we go. There we go.
+Let's start the scan.
+
+81
+00:03:58,400 --> 00:03:59,590
+Keller医生?
+Dr.Keller?
+
+82
+00:04:01,400 --> 00:04:02,700
+这可不太好
+That's not good.
+
+83
+00:04:03,000 --> 00:04:04,590
+她的大脑肿胀得很厉害
+Her brain is swelling quite seriously.
+
+84
+00:04:04,600 --> 00:04:05,990
+着解释了瞳孔反应迟缓
+That would explain the sluggish pupils.
+
+85
+00:04:06,000 --> 00:04:07,790
+和其他的问题
+Yeah, among other things.
+
+86
+00:04:07,800 --> 00:04:12,200
+注射30毫克尼莫地平
+还有注意一下她的血压
+Give her nimodipine, 30 milligrams q four
+h, and keep an eye on her blood pressure.
+
+87
+00:04:07,800 --> 00:04:12,200
+(尼莫地平是钙通道拮抗剂,用于保护脑神经元)
+Nothing.
+
+88
+00:04:14,100 --> 00:04:15,390
+都没用
+
+89
+00:04:15,400 --> 00:04:18,190
+控制板都失灵了
+我没法在这关掉系统
+The control grid's all out of whack.
+I can't shut the systems down from here.
+
+90
+00:04:18,200 --> 00:04:19,290
+这座城市在"流血"
+We're bleeding out.
+
+91
+00:04:19,300 --> 00:04:20,990
+我们可以手动关闭系统 不是吗?
+We can shut down the
+systems manually, right?
+
+92
+00:04:21,000 --> 00:04:22,190
+我不认为我们有那么多时间
+I don't think we have the time.
+
+93
+00:04:22,200 --> 00:04:23,990
+你连试都不想试一下吗?
+You would rather not try?
+
+94
+00:04:24,200 --> 00:04:25,690
+好了 你们是对的
+Okay, you're right, you're right.
+
+95
+00:04:25,700 --> 00:04:28,790
+Zelanka? 我需要你部署一些小队
+Zelenka...we need to deploy some teams.
+
+96
+00:04:31,400 --> 00:04:32,300
+她没有反映
+She's not responding.
+
+97
+00:04:35,200 --> 00:04:36,300
+我们要失去她了
+We're losing her.
+
+98
+00:04:40,900 --> 00:04:43,490
+我正在派一些人和你们一起
+以备需要
+I'm sending some of my men with
+your guys in case they need help.
+
+99
+00:04:43,500 --> 00:04:45,890
+预计5分钟内到达 这时间足够吗?
+Their eta is under five minutes.Does
+that give us enough time?
+
+100
+00:04:45,900 --> 00:04:49,090
+我不知道
+我们剩下的一点点能量快用完了
+I don't know.What little power
+we had left is almost gone.
+
+101
+00:04:49,100 --> 00:04:51,490
+如果能撑到晚上就是很幸运的了
+We'll be lucky if we can
+make it through the night.
+
+102
+00:05:05,900 --> 00:05:09,000
+星际之门亚特兰蒂斯
+第四季 第一集
+<font color="#ffff00">stargate.atlantis
+Season4 Episode01</font>
+
+103
+00:06:09,200 --> 00:06:10,390
+听着...
+Listen...
+
+104
+00:06:10,400 --> 00:06:11,290
+怎么了?
+What?
+
+105
+00:06:11,300 --> 00:06:14,190
+你在没有询问我的情况下
+做了很多决定
+You've been making a lot of
+decisions without consulting me.
+
+106
+00:06:14,200 --> 00:06:16,690
+对不起 我这就像在枪口上一样
+事情得很快完成
+Sorry. We're a little under
+the gun here. Things move fast.
+
+107
+00:06:16,700 --> 00:06:19,690
+我知道 但是Elizabeth现在...
+I understand that, but with Elizabeth...
+
+108
+00:06:19,700 --> 00:06:20,990
+不能领导...
+incapacitated.
+
+109
+00:06:21,000 --> 00:06:23,290
+我讨厌这么说 但是...
+I hate to say it, but, uh...
+
+110
+00:06:23,300 --> 00:06:24,990
+你负责 我知道了...
+抱歉
+You're in charge.I know, I'm sorry.
+
+111
+00:06:25,000 --> 00:06:26,890
+凡事通知我一下就好了
+Just keep me in the loop.
+
+112
+00:06:26,900 --> 00:06:29,590
+(一种加拿大的学生参看资料)
+
+113
+00:06:26,900 --> 00:06:29,590
+好的 我会给你 Cole Notes
+Okay. Okay, well, I'll
+give you the coles notes.
+
+114
+00:06:29,600 --> 00:06:30,390
+什么?
+The what?
+
+115
+00:06:30,400 --> 00:06:31,990
+(Cole Notes的美国版)
+
+116
+00:06:30,400 --> 00:06:31,990
+嗯 那Cliff Notes呢?
+Uh, the cliff notes?
+
+117
+00:06:32,000 --> 00:06:33,190
+你直说不就好了吗?
+Why didn't you just say that?
+
+118
+00:06:33,200 --> 00:06:33,990
+好吧 不管了
+Look, never mind.
+
+119
+00:06:34,000 --> 00:06:38,790
+我们离开Lantia的时候
+我们被复制者的卫星击中了
+Look, as we were leaving Lantia, we got grazed
+by the replicator's satellite beam, right?
+
+120
+00:06:38,800 --> 00:06:41,190
+光束打中了塔楼的一侧
+据我们所知
+It impacted the side of the
+tower, and from what we can tell,
+
+121
+00:06:41,200 --> 00:06:43,190
+它对一些能量管线造成了很大的破怀
+it wreaked havoc on a
+number of power conduits.
+
+122
+00:06:43,200 --> 00:06:44,790
+那么 改变接线不就行了
+So? Re-route the power then.
+
+123
+00:06:44,800 --> 00:06:46,190
+没这么简单
+Yeah, it's not so easy.
+
+124
+00:06:46,200 --> 00:06:48,590
+你看 ZPM室在这个塔的底部
+Look, the ZPM room is
+at the base of the tower,
+
+125
+00:06:48,600 --> 00:06:52,090
+也就是说被击中的管线是主要管线
+which means the conduits in and around
+where the beam hit are primary conduits.
+
+126
+00:06:52,100 --> 00:06:54,890
+它们无法被替代
+They can't be routed around.
+
+127
+00:06:54,900 --> 00:06:56,890
+那么城市的部分会没有能量供应?
+So parts of the city don't have power?
+
+128
+00:06:56,900 --> 00:07:00,790
+不是 管线没有挂掉
+它们只是损坏了
+No, no, no, the conduits weren't
+severed, they were damaged.
+
+129
+00:07:00,800 --> 00:07:03,190
+这个很复杂
+但是就把他们想成...
+Look, it's complicated,
+but imagine them as, uh...
+
+130
+00:07:03,200 --> 00:07:04,790
+- 漏了的管子 好吗?
+- 好吧
+- leaky pipes, okay?
+- Okay...
+
+131
+00:07:04,800 --> 00:07:06,790
+那么你抽水进去它们会漏 对吧?
+you pump water through
+them, they leak, right?
+
+132
+00:07:06,800 --> 00:07:08,790
+你再讲白痴一点 我就打你了
+You dumb this down any more,
+and you're going to get hit.
+
+133
+00:07:08,800 --> 00:07:09,790
+对不起
+Sorry.
+
+134
+00:07:09,800 --> 00:07:12,190
+城市发现不管因为什么原因
+Look, the city realizes
+that, for whatever reason,
+
+135
+00:07:12,200 --> 00:07:14,090
+能量没有到达外围平台
+power's not making
+it to the outer piers,
+
+136
+00:07:14,100 --> 00:07:16,690
+所以 因为城市无法自己修复泄漏
+so instead of repairing the
+leaks, which it can't do,
+
+137
+00:07:16,700 --> 00:07:21,490
+它提升了ZMP输出
+这样 即使管子是漏的
+it increases the ZPM's output so that even
+though the pipes are leaky and we lose power,
+
+138
+00:07:21,500 --> 00:07:24,090
+也有足够的能量可以到达线路的末端
+enough energy makes it
+to the end of the line.
+
+139
+00:07:24,400 --> 00:07:26,490
+- 这么说这很糟糕?
+- 没有 这是好事
+- And that's bad?
+- No, that's good.
+
+140
+00:07:26,500 --> 00:07:29,390
+如果不这样的话 我们会失去护盾
+没有大气 我们就会死了
+Well, otherwise, we'd lose the shields.We'd
+lose atmosphere.We'd all be dead.
+
+141
+00:07:29,400 --> 00:07:30,390
+然后?
+Okay...
+
+142
+00:07:30,400 --> 00:07:32,390
+现在有一些不需要的系统开着
+Look, there are a number of systems
+on right now that don't need to be,
+
+143
+00:07:32,400 --> 00:07:33,990
+而且它们在要能量
+and they're screaming for power.
+
+144
+00:07:34,000 --> 00:07:36,090
+我们可能正在失去致命的量的能量
+Look, we're going to lose juice,
+potentially a fatal amount,
+
+145
+00:07:36,100 --> 00:07:39,690
+但是如果我们可以关闭
+那些非必须的系统
+no matter what we do, but if we can get
+those nonessential systems shut down,
+
+146
+00:07:39,700 --> 00:07:42,490
+ZPM就可以输出更少的能量
+到泄漏的管道里
+then the ZPM will need to pump
+less power through the leaky pipes,
+
+147
+00:07:42,500 --> 00:07:47,290
+我们也许可以多活一个多小时
+and we'll put off imminent
+death for another hour or so.
+
+148
+00:07:47,300 --> 00:07:49,090
+那么 我们的进度如何?
+So then, where are we at?
+
+149
+00:07:49,100 --> 00:07:51,590
+看 各个小组的进度不错
+Well, the teams are making good time.
+
+150
+00:07:51,600 --> 00:07:55,790
+我们已经关闭了60%的非必要系统
+那么...
+We've got about 60% of the
+nonessential systems shut down, so--
+
+151
+00:07:55,800 --> 00:07:58,090
+什么? 怎么了?
+What? What's happening?
+
+152
+00:07:58,100 --> 00:08:02,090
+城市的外围建筑正在减压
+而且在关闭人工重力
+The city's outer buildings are decompressing,
+shutting down their artificial gravity.
+
+153
+00:08:02,100 --> 00:08:04,190
+城市为什么要这么做?
+Why would the city do such a thing?
+
+154
+00:08:07,500 --> 00:08:09,790
+它正在缩小护盾以节约能源
+It's going to collapse the shield.
+It's trying to save power.
+
+155
+00:08:09,800 --> 00:08:11,590
+我们有人在那里
+We've got guys out there.
+
+156
+00:08:11,600 --> 00:08:13,890
+Matthews 马上回到塔里来
+Matthews, fall back to
+the tower immediately.
+
+157
+00:08:13,900 --> 00:08:14,990
+我们还没有干完 长官
+I don't think we're done, Sir.
+
+158
+00:08:15,000 --> 00:08:17,290
+城市的护盾正在缩小 行动
+The city's shield's collapsing. Move.
+
+159
+00:08:17,300 --> 00:08:19,690
+你们都听到了 快走
+You heard the man. Go, go!
+
+160
+00:08:23,900 --> 00:08:25,790
+他们会来不及的
+They're not going to make it.
+
+161
+00:08:25,800 --> 00:08:27,990
+阻止它 让它停下来
+Stop it. Stop it from doing this.
+
+162
+00:08:28,000 --> 00:08:30,390
+城市认为它无法维持护盾
+除非我们让它小一点
+The city doesn't think it can maintain
+the shield unless we make it smaller.
+
+163
+00:08:30,400 --> 00:08:32,490
+如果我推迟缩小
+护盾可能会整体失效
+If we delay its collapse,
+it could fail completely.
+
+164
+00:08:32,500 --> 00:08:34,490
+我不管 超驰控制
+I don't care. Override it.
+
+165
+00:08:34,500 --> 00:08:35,200
+他不让我超驰
+It's not letting me.
+
+166
+00:08:55,500 --> 00:08:57,190
+我们快到了
+We're almost there.
+
+167
+00:08:58,900 --> 00:09:00,390
+我们会失去他们的 Mckay!
+We're going to lose those guys, McKay!
+
+168
+00:09:00,400 --> 00:09:02,390
+你认为我不知道吗?
+You think I don't realize that?
+
+169
+00:09:03,800 --> 00:09:05,690
+人工重力刚刚关闭了!
+The gravity just shut down!
+
+170
+00:09:14,600 --> 00:09:16,590
+生命信号终结
+bio signatures terminated
+
+171
+00:09:24,700 --> 00:09:26,590
+叫其他小队快一点
+Tell the other teams to hurry.
+
+172
+00:09:26,600 --> 00:09:29,500
+我不想让他们在外面多呆一秒钟
+I don't want them out there
+any longer than they need to be.
+
+173
+00:10:25,800 --> 00:10:30,090
+你有发现U盘数据率不同步的问题吗?
+Hey, are you getting the same data rate
+inconsistencies off these flash drives?
+
+174
+00:10:31,100 --> 00:10:35,100
+Bill? Bill?
+Bill?Bill?
+
+175
+00:10:37,400 --> 00:10:39,190
+哦 对不起
+Oh, sorry.
+
+176
+00:10:39,400 --> 00:10:40,890
+哦 天
+Oh, boy.
+
+177
+00:10:40,900 --> 00:10:42,290
+应该是这该死的失重
+It's this damn weightlessness.
+
+178
+00:10:42,300 --> 00:10:43,790
+也许你应该回地球上去
+You know, maybe you
+should gate back to earth.
+
+179
+00:10:43,800 --> 00:10:45,990
+我可以找别人
+帮我把空间站运行起来
+I can get somebody else to help
+me bring the station on-line.
+
+180
+00:10:46,000 --> 00:10:51,890
+不用 只要我想出办法让重力恢复
+就会没事的
+No.I'll be fine, as soon as I can figure
+out how to get the gravity back on.
+
+181
+00:10:51,900 --> 00:10:53,990
+你说U盘怎么了?
+Uh, what were you saying
+about the flash drives?
+
+182
+00:10:54,000 --> 00:10:58,390
+就是我没次更新软件的时候
+这些驱动器...
+Yeah, it's just that every time I
+update the software, the drives--
+
+183
+00:10:59,000 --> 00:11:00,990
+飞马系那边的星门启动了
+The pegasus gate just activated.
+
+184
+00:11:01,300 --> 00:11:03,990
+我是Abe Ellis上校
+Apollo的指挥官
+This is colonel abe ellis,
+commander of the Apollo.
+
+185
+00:11:04,000 --> 00:11:05,890
+中途站 请回话
+Midway station, please respond.
+
+186
+00:11:05,900 --> 00:11:08,590
+Ellis上校 我是Samantha Carter上校
+Colonel Ellis, this is
+Colonel Samantha Carter.
+
+187
+00:11:08,600 --> 00:11:10,890
+我在中途站
+I am on the midway station.
+
+188
+00:11:10,900 --> 00:11:12,490
+任务进行的如何?
+How did the mission go?
+
+189
+00:11:12,500 --> 00:11:16,290
+据我们所知
+Atlantis成功逃离了复制者的光束
+Well, as far as we can tell, atlantis
+successfully evaded the replicator's beam
+
+190
+00:11:16,300 --> 00:11:18,590
+并且进入了超空间
+and was able to enter hyperspace.
+
+191
+00:11:18,600 --> 00:11:19,790
+据你们所知?
+From what you can tell?
+
+192
+00:11:19,800 --> 00:11:22,690
+他们没有到达预定的会和地点
+Well, they're not at the
+predetermined rendezvous point.
+
+193
+00:11:22,700 --> 00:11:23,890
+真的?
+Really?
+
+194
+00:11:23,900 --> 00:11:25,100
+他们应该在那迎接你们的
+They should have beaten you there.
+
+195
+00:11:26,300 --> 00:11:28,390
+事实上 你们是怎么拨通的?
+Actually, hey, how are you dialing us?
+
+196
+00:11:28,400 --> 00:11:30,990
+M12-578没有星门 它不在系统内
+M12-578 doesn't have a
+gate. It's off the grid.
+
+197
+00:11:31,000 --> 00:11:34,590
+我跳跃到了最近得星门
+来看看他们有没有向你们报道
+I jumped to the nearest gate to
+see if they've checked in with you.
+
+198
+00:11:34,600 --> 00:11:36,590
+那么 很抱歉 他们没有
+Well, I'm sorry to
+say that they haven'T.
+
+199
+00:11:36,600 --> 00:11:38,290
+这可能不是好事
+That's probably not good.
+
+200
+00:11:38,300 --> 00:11:39,300
+是的 不太好
+No, probably not.
+
+201
+00:11:40,800 --> 00:11:44,690
+我马上回头 一小时之内再打给你
+如果联系上他们那会提前
+I'll head back, dial you again in
+an hour, sooner if I hear from them.
+
+202
+00:11:44,700 --> 00:11:46,200
+- 可以
+- Apollo收线
+- Sounds good.
+- Apollo out.
+
+203
+00:11:56,600 --> 00:11:58,090
+嗨 你应该在床上
+Hey, you should be in bed.
+
+204
+00:12:04,000 --> 00:12:05,090
+她怎么样?
+How's she doing?
+
+205
+00:12:05,100 --> 00:12:10,400
+她的大脑正在胀大 很严重
+Her brain is swelling, drastically,
+
+206
+00:12:10,900 --> 00:12:12,690
+已经超过了她头部承受的极限
+more than her head can handle.
+
+207
+00:12:12,700 --> 00:12:16,990
+如果不停止的化
+他们就得进行减压开颅手术
+If it doesn't stop, they're going to have
+to perform a decompressive craniectomy.
+
+208
+00:12:17,000 --> 00:12:20,690
+简单点说 他们切掉一块头骨
+Basically, they cut out
+a piece of her skull,
+
+209
+00:12:20,700 --> 00:12:25,100
+然后她的大脑就可以扩展到外面
+and the brain is allowed to
+expand outside of her head.
+
+210
+00:12:33,700 --> 00:12:34,890
+有她的消息吗?
+Any word on how she's doing?
+
+211
+00:12:34,900 --> 00:12:37,490
+她还在手术室
+还没有什么实质性的消息
+She's still in the O.R. No real news yet.
+
+212
+00:12:37,500 --> 00:12:40,390
+听着 我想我们得把护盾收缩到
+塔楼这里来
+Listen, I think we should collapse
+the shield right to the tower.
+
+213
+00:12:40,400 --> 00:12:42,490
+那会使我们完全暴露在太空中
+That will leave us
+completely exposed to space.
+
+214
+00:12:42,500 --> 00:12:45,590
+是的没错 但是我们的能量太少了
+Yes, it will, but our power
+is spread so thin right now,
+
+215
+00:12:45,600 --> 00:12:48,690
+我没有任何多余的能量来解决
+I don't have any extra juice to come
+up with the solutions to the hundred
+
+216
+00:12:48,700 --> 00:12:51,090
+这么多可以宣告我们死亡的问题
+or so problems that could lead
+to our premature demise today.
+
+217
+00:12:51,100 --> 00:12:54,190
+好吧 联系一下Zelenka
+确定所有的小队都到了
+All right, check with Zelenka. Make sure
+all the science teams are accounted for.
+
+218
+00:12:54,200 --> 00:12:55,690
+已经搞懂 我们准备好了
+Already done, we're ready.
+
+219
+00:12:55,700 --> 00:12:57,290
+好吧
+All right.
+
+220
+00:12:58,000 --> 00:12:58,990
+做你该做的
+Do what you need to do.
+
+221
+00:12:59,800 --> 00:13:00,000
+OK 开始吧
+Okay, here we go.
+
+222
+00:13:12,200 --> 00:13:15,100
+钙通道抗结剂没有什么效果
+The calcium channel blockers
+aren't having much effect.
+
+223
+00:13:16,100 --> 00:13:18,200
+- 颅内压多少?
+- 35
+What's her intracranial pressure?
+
+224
+00:13:20,600 --> 00:13:22,300
+我不能让它达到40
+I can't let her get to 40.
+
+225
+00:13:25,000 --> 00:13:25,300
+好吧...
+Okay...
+
+226
+00:13:27,500 --> 00:13:30,000
+准备进行开颅减压手术
+Let's prep for a
+decompressive craniectomy.
+
+227
+00:14:13,200 --> 00:14:14,590
+压力下降到29
+Pressure down to 29.
+
+228
+00:14:14,600 --> 00:14:17,190
+幸运的话 我们可以让它降到25
+Hopefully, we'll get it under 25.
+
+229
+00:14:21,700 --> 00:14:22,790
+是的...
+Yeah...
+
+230
+00:14:22,800 --> 00:14:25,690
+好的 两个好消息
+all right, two bits of good news.
+
+231
+00:14:25,700 --> 00:14:28,590
+第一 我计算出了我们的准确位置
+One, I've been able to
+calculate our exact location.
+
+232
+00:14:28,600 --> 00:14:30,090
+那就是说我们可以使用星门了?
+Does that mean we can use the gate?
+
+233
+00:14:30,100 --> 00:14:30,990
+很可惜 不行
+Sadly, no.
+
+234
+00:14:31,000 --> 00:14:34,890
+如果要启动星门
+我们必须停留在很小的空间范围
+To activate the gate, we require that we
+stay within a fairly small area of space.
+
+235
+00:14:34,900 --> 00:14:36,690
+我们现在移动的太快了
+We're moving too fast to use it.
+
+236
+00:14:36,700 --> 00:14:38,190
+我们能用亚光速引擎来减速吗?
+Can we use the sub-lights to slow down?
+
+237
+00:14:38,200 --> 00:14:39,590
+如果它们在工作的话就太好了
+Well, it would be great
+if they were working,
+
+238
+00:14:39,600 --> 00:14:41,990
+亚光速引擎和导航系统不能用
+but sub-light and navigation are out.
+
+239
+00:14:42,000 --> 00:14:43,990
+你把这个也算作好消息?
+You decided to put this
+in the good news category?
+
+240
+00:14:44,000 --> 00:14:45,890
+至少我们不在是迷失了 不是吗?
+Well, at least we're
+not lost anymore, right?
+
+241
+00:14:45,900 --> 00:14:49,490
+第二 我们的星际引擎没有损坏
+Number two, there is nothing
+wrong with our hyperdrives.
+
+242
+00:14:49,500 --> 00:14:51,790
+那么我们为什么提早退出了超空间?
+Then why did we fall out
+of hyperspace prematurely?
+
+243
+00:14:51,800 --> 00:14:53,090
+因为能量管线损坏
+The damaged power conduits.
+
+244
+00:14:53,100 --> 00:14:56,190
+这么说吧 我们的油箱里有足够的油
+只是我们没法让他们到达引擎
+We had plenty of gas in the tank, so to
+speak, we just couldn't get it to the engine.
+
+245
+00:14:56,200 --> 00:14:56,890
+我们就失速了
+Stalled out.
+
+246
+00:14:56,900 --> 00:14:59,490
+那么如果修理好管线
+我们可以超空间吗?
+So if we repair the conduits,
+can we jump into hyperspace?
+
+247
+00:14:59,500 --> 00:15:01,590
+我们就是这么想的
+在不降落并关闭系统的情况下
+That's the idea, yes.I mean, we wouldn't
+be able to repair them completely,
+
+248
+00:15:01,600 --> 00:15:05,690
+我们不能完全修好它们
+但是我们绝对可以打几个补丁
+not without landing and shutting down and
+such, but we can definitely patch them up.
+
+249
+00:15:05,700 --> 00:15:08,590
+Zelanka和他的小队正在以
+最快的速度工作
+Look, Zelenka and his team are
+working as fast as they possibly can.
+
+250
+00:15:08,600 --> 00:15:10,890
+但是我们还在流失大量的能量
+The problem is we're still leaking a lot of power.
+
+251
+00:15:10,900 --> 00:15:12,190
+即使我们已经减少了这么多消耗?
+Even with all our reductions?
+
+252
+00:15:12,200 --> 00:15:14,090
+恐怕 是的
+I'm afraid so, yes.
+
+253
+00:15:14,100 --> 00:15:19,790
+看 这事这座城市进入超空间所需的
+最少能量
+Look, this is the minimum amount of power the
+city requires to execute a jump into hyperspace.
+
+254
+00:15:19,800 --> 00:15:23,690
+如果我们不在一小时之内修补好
+管线 它就会低于这个水平了
+If we don't fix the power conduits inside
+of an hour, we'll drop below that level.
+
+255
+00:15:23,700 --> 00:15:25,190
+如果那样 我们就只有坐以待毙
+After that, we're stuck.
+
+256
+00:15:25,200 --> 00:15:30,300
+距护盾失效大概还有30小时
+然后我们就会在真空中死去
+We'll have maybe 30 hours before the shields
+fail, and we all die in the vacuum of space.
+
+257
+00:15:40,000 --> 00:15:42,190
+- 你没事吧?
+- 我没事
+- You okay?
+- Yeah, I'm fine.
+
+258
+00:15:42,200 --> 00:15:44,890
+- 他们把玻璃都清除了
+- 好的
+- They got all the glass out.
+- Good.
+
+259
+00:15:44,900 --> 00:15:46,190
+你需要我帮忙?
+You need me somewhere?
+
+260
+00:15:46,200 --> 00:15:47,690
+我需要你在这好好养伤
+Right here getting better.
+
+261
+00:15:47,700 --> 00:15:49,390
+没事的 我可以走了
+All right, well, I'm good to go.
+
+262
+00:15:50,500 --> 00:15:51,000
+中校...
+Colonel...
+
+263
+00:15:59,200 --> 00:16:00,490
+她没事吧?
+she okay?
+
+264
+00:16:00,500 --> 00:16:04,090
+她还活着 但是状况很糟
+She's alive, but she's in bad shape.
+
+265
+00:16:04,900 --> 00:16:08,390
+她断了6根肋骨
+其中一根还穿通了肺
+She's got six broken ribs,
+one of which punctured a lung.
+
+266
+00:16:09,800 --> 00:16:12,290
+不过她没有任何脊髓损伤
+Amazingly, she doesn't
+have any spinal damage,
+
+267
+00:16:12,300 --> 00:16:16,490
+但是她的头部被撞得很严重
+but her head got knocked
+around pretty good.
+
+268
+00:16:17,000 --> 00:16:22,690
+她正在遭受脑水肿的煎熬
+那可能造成严重的大脑损伤
+She's suffering from cerebral oedema, which
+may have caused substantial brain damage,
+
+269
+00:16:23,900 --> 00:16:25,490
+什么意思?
+what does that all mean?
+
+270
+00:16:26,400 --> 00:16:29,590
+现在说还太早 但是...
+Well, it's too early
+to know for sure, but...
+
+271
+00:16:30,300 --> 00:16:35,190
+如果她活下来
+我是说"如果"...
+if she survives, and I
+got to stress the "if"...
+
+272
+00:16:36,400 --> 00:16:39,490
+她再也不会是原来的Elizabeth
+she'll never be the
+same Elizabeth again.
+
+273
+00:16:43,300 --> 00:16:45,100
+我很抱歉
+I'm sorry.
+
+274
+00:16:47,000 --> 00:16:49,690
+我得去拿点东西 然后到手术室
+I've got to get some things
+and get back in there.
+
+275
+00:16:49,700 --> 00:16:53,190
+我们人手不足
+绝大多数的人员在Apollo上
+We're understaffed. Most of
+our team's on the Apollo.
+
+276
+00:17:03,000 --> 00:17:04,090
+这边进行的怎么样?
+How's it going on this end?
+
+277
+00:17:04,100 --> 00:17:05,890
+事实上 惊人的好
+Actually, you know, remarkably well.
+
+278
+00:17:05,900 --> 00:17:07,190
+- 真的?
+- 没错
+- Really?
+- Yes, yes, yes.
+
+279
+00:17:07,200 --> 00:17:10,190
+拆解备用导管的部件和控制水晶...
+Cannibalizing parts and
+crystals from secondary conduits
+
+280
+00:17:10,200 --> 00:17:12,790
+然后接入到主导管上
+and interfacing them with
+the primary ones is...
+
+281
+00:17:12,800 --> 00:17:13,890
+这工作进行的十分顺利
+is going very smoothly.
+
+282
+00:17:13,900 --> 00:17:15,390
+好的 如果我们保持目前的速度
+Yes, if we keep our current pace,
+
+283
+00:17:15,400 --> 00:17:19,490
+我们应该可以在能量低于必须值前
+we should be done well before we drop
+below the necessary power requirements to,
+
+284
+00:17:19,500 --> 00:17:21,890
+进入超空间并和Apollo会合
+you know, jump into hyperspace
+and meet up with the Apollo.
+
+285
+00:17:21,900 --> 00:17:25,390
+- 这太好了
+- 是的 我就知道你会很高兴
+- Well, that's fantastic.
+- Yes.Yeah, I thought you'd be happy.
+
+286
+00:17:25,400 --> 00:17:26,490
+高兴?
+Happy?
+
+287
+00:17:26,500 --> 00:17:28,790
+真的有机会让我们渡过这件事
+我是欣喜若狂
+There's actually a chance we might make
+it through this thing. I am ecstatic.
+
+288
+00:17:28,800 --> 00:17:29,890
+我得去做一点...
+I am going to
+do a little--
+
+289
+00:17:29,900 --> 00:17:33,190
+Sheppard中校 Mckay博士
+请马上到控制室!
+Colonel Sheppard, Dr.McKay, please
+report to the control room immediately!
+
+290
+00:17:34,100 --> 00:17:36,890
+那只持续了... 一秒钟?
+That lasted what, like, a second?
+
+291
+00:17:40,400 --> 00:17:42,090
+你们得看看这个
+You're going to want to look at this.
+
+292
+00:17:43,900 --> 00:17:46,590
+- 那是什么?
+- 小行星带?!
+What is that? An asteroid belt?
+
+293
+00:17:46,600 --> 00:17:48,490
+亚光速引擎还没有上线吗?
+Are the sub-lights
+still off-line?
+
+294
+00:17:48,500 --> 00:17:49,790
+没有
+Yup.
+
+295
+00:17:49,800 --> 00:17:51,190
+你得扩张护盾了
+We're going to need
+to expand the shields.
+
+296
+00:17:51,200 --> 00:17:52,790
+我们没有足够的能量
+We don't have enough power.
+
+297
+00:17:52,800 --> 00:17:55,190
+我们要多久才能到那?
+要多久才能穿过?
+How long till we get there, and
+how long till we get through it?
+
+298
+00:17:55,200 --> 00:17:58,790
+大约10分钟到达 然后也许2分钟穿过
+About 10 minutes until we get there. After
+that, maybe two minutes to get through.
+
+299
+00:17:58,800 --> 00:18:00,490
+两分钟就能通过一个小行星区域?
+Two minutes to get
+through an asteroid field?
+
+300
+00:18:00,500 --> 00:18:01,790
+我们不是完全通过
+Well, we're not passing
+all the way through.
+
+301
+00:18:01,800 --> 00:18:04,090
+只是蹭一下边缘
+We're just going to skim the edge.
+
+302
+00:18:04,100 --> 00:18:05,890
+你连两分钟的护盾都不能给我?
+You can't even give me two
+minutes of full shields?
+
+303
+00:18:05,900 --> 00:18:08,790
+我和你一样想把护盾打开
+但是我们承受不起能量消耗
+I'd like them up as much as you would,
+but we just can't afford the power.
+
+304
+00:18:08,800 --> 00:18:09,590
+Rodney
+Rodney--
+
+305
+00:18:09,600 --> 00:18:13,090
+Zelanka需要45分钟来完成
+能量管线的修复
+Look, Zelenka needs 45 minutes to
+complete the repairs to the power conduits.
+
+306
+00:18:13,100 --> 00:18:16,590
+即使我们只开1分钟护盾
+就能消耗光他全部的时间
+If we raise the shields even for one minute,
+it'll eat up all his time. We can't do it.
+
+307
+00:18:16,600 --> 00:18:18,590
+好吧
+Okay.
+
+308
+00:18:19,200 --> 00:18:20,190
+他们有多大?
+How big are they?
+
+309
+00:18:20,200 --> 00:18:22,490
+我们现在在一个很大的太阳系里
+Well, we're in the middle of a
+pretty big solar system right now,
+
+310
+00:18:22,500 --> 00:18:26,190
+小行星带可能是以前行星的残骸...
+and the asteroid belt's probably made
+up of remnants of early failed planets,
+
+311
+00:18:26,200 --> 00:18:28,590
+那么 你知道...
+so, you know...
+
+312
+00:18:28,600 --> 00:18:30,490
+有楼房那么大 或者更大
+building-size and larger.
+
+313
+00:18:30,800 --> 00:18:34,090
+我可以做到椅子上
+用Drone清开一条道路
+I could get in the chair, fire drones,
+and clear a path to travel through.
+
+314
+00:18:34,100 --> 00:18:36,690
+好主意 但是放椅子的房间现在在
+护盾外面
+In principle a good idea, but the chair room's
+outside of the shield right now,
+
+315
+00:18:36,700 --> 00:18:37,890
+我们永远不可能过去
+and we'd never get to it.
+
+316
+00:18:37,900 --> 00:18:40,090
+我们可以...
+Look we could, um...
+
+317
+00:18:40,100 --> 00:18:40,990
+不 这个不行...
+no, that's not going to work.
+
+318
+00:18:41,000 --> 00:18:42,490
+我们可以...
+Uh, we could...
+
+319
+00:18:43,200 --> 00:18:45,590
+在底部的人有多少有古人基因?
+how many people on the
+base have the ancient gene?
+
+320
+00:18:45,600 --> 00:18:49,090
+20左右 不 不 这不是一个好主意
+20 or so.Look, no, no. No,
+no, no, that is a bad idea--
+
+321
+00:18:49,100 --> 00:18:51,790
+- 你有更好的吗?
+- 是的
+- Uou have a better idea?
+- Yes.
+
+322
+00:18:52,700 --> 00:18:54,690
+我会的 我只是...
+只是需要更多时间
+I can.I just--
+I need some time.
+
+323
+00:18:54,700 --> 00:18:56,990
+联系底部所有有古人基因的人
+Contact everyone on the base
+who has the ancient gene,
+
+324
+00:18:57,000 --> 00:18:59,190
+叫他们在Jumper bay见我
+tell them to meet me
+up at the jumper bay.
+
+325
+00:19:00,300 --> 00:19:01,000
+好吧 快办
+Well, do it.
+
+326
+00:19:04,500 --> 00:19:07,690
+这就是说我们不能开启护盾
+因为我们没有足够的能量
+Which means we can't raise the shields
+because we don't have enough power.
+
+327
+00:19:08,000 --> 00:19:11,790
+如果我们不为这座城清开一条道路
+它会被撞碎
+If we don't clear a path for
+the city, it'll get ripped apart.
+
+328
+00:19:11,800 --> 00:19:15,290
+我们得开上我们有的全部Jumper
+So, we're going to take
+every last jumper we have,
+
+329
+00:19:15,300 --> 00:19:20,590
+然后用Drone为这座城
+开出一条路...
+and we're going to clear a path
+through the belt by firing our drones.
+
+330
+00:19:21,800 --> 00:19:22,790
+对不起
+Excuse me.
+
+331
+00:19:22,800 --> 00:19:24,790
+Jumper我只开过两次
+I've really only flown a jumper twice,
+
+332
+00:19:24,800 --> 00:19:27,290
+而且我从未用过Drone 那...
+and I've never actually
+fired a live drone, so--
+
+333
+00:19:27,300 --> 00:19:29,490
+你在模拟里试过 不是吗?
+you've done it in simulations, right?
+
+334
+00:19:29,500 --> 00:19:30,390
+是的 但是...
+Well, yeah, but--
+
+335
+00:19:30,400 --> 00:19:32,190
+它们基本上是一样的
+It's basically the same thing.
+
+336
+00:19:32,200 --> 00:19:34,790
+如果McKay能搞定 你也可以
+If McKay can do it, you can do it.
+
+337
+00:19:34,800 --> 00:19:36,490
+没错 关于这个 我...
+Yes, about that,
+actually, I--
+
+338
+00:19:36,500 --> 00:19:39,490
+听着 我知道那很危险
+Look, I know it's dangerous.
+
+339
+00:19:39,500 --> 00:19:41,490
+我知道你们很多人
+没在这些事上花很多时间
+I know a lot of you haven't logged
+a lot of hours in these things,
+
+340
+00:19:41,500 --> 00:19:46,390
+但是现在这是我们唯一的选择
+but right now, it's the only
+viable option we have, or, um...
+
+341
+00:19:47,500 --> 00:19:49,190
+要不然就只有等死了
+Or die.
+
+342
+00:19:51,100 --> 00:19:53,190
+我们行动吧
+Let's get moving.
+
+343
+00:20:12,900 --> 00:20:15,290
+好的 我为你们载入了航行信息
+All right, I've loaded a
+flight formation for all of you.
+
+344
+00:20:15,300 --> 00:20:18,890
+沿着你们的预定目标
+干掉你们航线上的一切障碍
+Stay in your designated positions,
+take out anything that's in your path.
+
+345
+00:20:18,900 --> 00:20:22,090
+Drone都已经装满
+所以弹药应该不是问题
+You've got a full load of drones,
+so ammo shouldn't be a problem.
+
+346
+00:20:23,200 --> 00:20:25,290
+看上去像老的视频游戏 Asteroids
+Looks like the old
+video game, Asteroids.
+
+347
+00:20:25,300 --> 00:20:26,890
+随你怎么搞
+Whatever works for you.
+
+348
+00:20:26,900 --> 00:20:28,490
+我 Asteroids 玩得很差
+I was terrible at Asteroids.
+
+349
+00:20:28,500 --> 00:20:30,490
+我想我有一次得了0分
+I think I actually scored zero once.
+
+350
+00:20:30,500 --> 00:20:32,990
+那么只有一条路走了--向上
+Then there's only one
+way to go, and that's up.
+
+351
+00:20:33,500 --> 00:20:36,590
+好了 大伙 我们走
+All right, everyone. Let's go.
+
+352
+00:20:36,600 --> 00:20:39,090
+打开Jumper Bay舱门
+Open the jumper bay doors.
+
+353
+00:20:56,500 --> 00:20:59,190
+快点 伙计们 保持队形
+Come on, guys, stay in formation.
+
+354
+00:20:59,200 --> 00:21:01,690
+我们不能留出任何空隙
+We can't afford any gaps.
+
+355
+00:21:04,200 --> 00:21:07,090
+没错 就是这样
+看见了 不是很难
+Yeah, there you go.
+See? Not so hard.
+
+356
+00:21:11,000 --> 00:21:14,390
+Jumper们 你们应该在3秒内到达
+Jumpers, you should
+be in range in three...
+
+357
+00:21:15,000 --> 00:21:16,790
+2...
+two...
+
+358
+00:21:16,790 --> 00:21:17,790
+1...
+one.
+
+359
+00:21:18,200 --> 00:21:20,390
+随便开火
+Fire at will.
+
+360
+00:21:30,600 --> 00:21:32,290
+打的漂亮 伙计们
+Nice shooting, people.
+
+361
+00:21:32,300 --> 00:21:35,090
+它们的数量太多 速度太快
+我们不能全部都打中
+There's too many of them and they're coming
+in too fast.We're not going to get them all.
+
+362
+00:21:35,100 --> 00:21:37,090
+加强火力 一次发射4个
+Double up, fire four a-piece.
+
+363
+00:21:37,100 --> 00:21:39,190
+我一次控制不了4枚Drone
+I can't control four
+drones at the same time.
+
+364
+00:21:39,200 --> 00:21:41,290
+集中注意力
+Just concentrate.
+
+365
+00:21:50,000 --> 00:21:50,690
+该死!
+Damm it!
+
+366
+00:21:50,700 --> 00:21:52,590
+别担心 你说的没错
+Don't worry about it.You were right.
+
+367
+00:21:52,600 --> 00:21:54,690
+我们没法在第一次穿越的时候
+就全部搞定
+We can't get everything
+on the first pass.
+
+368
+00:22:05,900 --> 00:22:08,390
+他们有清除足够的小行星吗?
+Have they destroyed enough
+asteroids to clear a path?
+
+369
+00:22:08,400 --> 00:22:10,490
+我们就快知道了!
+(中国人! 中国人!!)
+We're about to find out.
+
+370
+00:22:14,700 --> 00:22:15,590
+那么 现在做什么?
+Well, now what?
+
+371
+00:22:15,600 --> 00:22:17,090
+按我的指令 Bolton和Levine...
+Well,on my mark,you,bolton,and levine
+
+372
+00:22:17,100 --> 00:22:19,490
+将离开队形掉头回城
+are going to break formation
+and head back to the city.
+
+373
+00:22:19,500 --> 00:22:21,190
+打掉我们错过的东西
+Take out anything that we missed.
+
+374
+00:22:21,200 --> 00:22:23,290
+哦 那听上去很重要
+也许别人应该去...
+Oh, that sounds important.
+Maybe someone else should--
+
+375
+00:22:23,300 --> 00:22:24,790
+脱离!
+Break!
+
+376
+00:22:32,500 --> 00:22:33,490
+McKay...
+McKay...
+
+377
+00:22:33,500 --> 00:22:34,890
+你左边有一个打的
+you've a big one on your left.
+
+378
+00:22:34,900 --> 00:22:38,590
+- 我看见了
+- 10秒内冲撞
+- I see it.
+- Impact in 10 seconds.
+
+379
+00:22:53,800 --> 00:22:54,990
+那是什么?
+What was that?
+
+380
+00:22:55,000 --> 00:22:57,190
+小碎片正在通过
+Smaller pieces getting through.
+
+381
+00:23:00,400 --> 00:23:02,590
+其中一些明显不够小
+Some of them evidently not so small.
+
+382
+00:23:02,600 --> 00:23:05,990
+现在破怀被限制在城市边缘
+Right now damage is confined
+to the outer edge of the city.
+
+383
+00:23:06,500 --> 00:23:08,590
+希望它保持这样
+Let's hope it stays that way.
+
+384
+00:23:14,000 --> 00:23:15,990
+好了 我们通过了
+All right, we're through.
+
+385
+00:23:16,000 --> 00:23:18,690
+我们现在回头 带上掉队的人
+Now we're going to double
+back, pick up any stragglers.
+
+386
+00:23:38,600 --> 00:23:40,090
+好了
+That's it.
+
+387
+00:23:40,600 --> 00:23:42,790
+我们成功了
+We made it.
+
+388
+00:23:58,000 --> 00:23:59,990
+我不敢相信这真的成功了
+真是太惊人了
+I can't believe that actually
+worked. That was amazing.
+
+389
+00:24:00,000 --> 00:24:01,090
+你干得很不错 Rodney
+You did good, Rodney.
+
+390
+00:24:01,100 --> 00:24:03,090
+Zelenka现在应该修好导管了
+Zelenka and his team should
+have the conduits repaired now,
+
+391
+00:24:03,100 --> 00:24:05,390
+那么我想我们终于可以脱身了
+so I think we're
+finally out of the woods.
+
+392
+00:24:05,400 --> 00:24:09,790
+Sheppard中校 McKay博士
+请立即到控制室
+Colonel Sheppard, Dr.McKay, please
+report to the control room immediately.
+
+393
+00:24:09,800 --> 00:24:11,790
+啊 拜托!
+Aw, come on!
+
+394
+00:24:15,900 --> 00:24:16,990
+发生了什么?
+What the hell happened?
+
+395
+00:24:17,000 --> 00:24:18,490
+超空间引擎离线了
+The hyperdrive is offline.
+
+396
+00:24:18,500 --> 00:24:19,490
+我以为它是好的
+I thought it was good to go.
+
+397
+00:24:19,500 --> 00:24:21,890
+原来是 但是有几块大石头
+撞击了城市
+It was, but a few large pieces
+of rock impacted the city,
+
+398
+00:24:21,900 --> 00:24:24,190
+有一个控制阵列损坏了
+and one of the control
+arrays was damaged.
+
+399
+00:24:24,200 --> 00:24:25,790
+在我们修好之前 我们不能跳跃
+We can't jump until we fix it.
+
+400
+00:24:25,800 --> 00:24:28,390
+我告诉过你我对付小行星不行
+I told you I was no good at Asteroids.
+
+401
+00:24:37,800 --> 00:24:40,090
+损坏的管线在城市的外围
+The damaged conduits are on
+the outer edge of the city,
+
+402
+00:24:40,100 --> 00:24:43,090
+很遗憾 那里不在护盾的保护之内
+which, sadly, is outside of
+the protection of the shield.
+
+403
+00:24:43,100 --> 00:24:45,190
+我们可以用传送机尽可能的靠近
+We can use the transporters
+to get us very close,
+
+404
+00:24:45,200 --> 00:24:47,290
+但是还是需要太空行走的
+but it will still require a space walk.
+
+405
+00:24:47,300 --> 00:24:48,590
+这也不是很糟糕
+That shouldn't be too bad.
+
+406
+00:24:48,600 --> 00:24:51,390
+如果不是那些微行星
+这就是小菜一碟
+It'll be a breeze, with the
+exception of the micro-asteroids.
+
+407
+00:24:51,400 --> 00:24:52,390
+什么东西?
+The what?
+
+408
+00:24:52,400 --> 00:24:53,790
+我们刚刚通过一个小行星带
+We just came through an asteroid belt.
+
+409
+00:24:53,800 --> 00:24:57,790
+主要的部分在我们的后面 但是
+还有一些子弹大的小石头在前面
+The big stuff's behind is, but there's a
+bunch of little bullet-sized rocks out there.
+
+410
+00:24:57,800 --> 00:24:59,390
+小石子弹
+Tiny rock bullets.
+
+411
+00:24:59,400 --> 00:25:00,090
+太好了
+Great.
+
+412
+00:25:00,100 --> 00:25:01,090
+我确定你们会没事的
+I'm sure you'll be fine.
+
+413
+00:25:01,100 --> 00:25:02,290
+那么 你为什么不去?
+Well, then why aren't you going?
+
+414
+00:25:02,300 --> 00:25:04,190
+因为你已经研究出详细的修复方法了
+Well, because you've already worked
+out the details of the repair.
+
+415
+00:25:04,200 --> 00:25:06,390
+如果你要再教我 那就是浪费时间
+You know it will be a waste
+of time getting me up to speed.
+
+416
+00:25:06,400 --> 00:25:07,890
+说道时间 我们还有多少?
+Speaking of time, how much do we have?
+
+417
+00:25:07,900 --> 00:25:09,990
+你们穿好宇航服以后 15分钟
+Well, once you're suited
+up, uh...15 minutes?
+
+418
+00:25:10,000 --> 00:25:10,890
+就这么多?
+That's it, huh?
+
+419
+00:25:10,900 --> 00:25:14,390
+嘿 如果不是我们没有对管线的
+修复减慢了能量流失
+Hey, if the patch-job we did on the
+conduits hadn't slowed down the power loss,
+
+420
+00:25:14,400 --> 00:25:15,400
+我们早就到死亡线了
+we'd have hit the deadline already.
+
+421
+00:25:20,700 --> 00:25:21,000
+你们可以搞定的
+You can do this.
+
+422
+00:25:24,600 --> 00:25:25,000
+好的
+Right.
+
+423
+00:25:33,800 --> 00:25:35,790
+Mckay! 我一直在找你
+McKay! I've been trying to reach you.
+
+424
+00:25:35,800 --> 00:25:38,490
+你知道 我再拯救城市等等
+Elizabeth怎么样了?
+Well, you know, trying to save the
+city and whatnot. Look, how's elizabeth?
+
+425
+00:25:38,500 --> 00:25:40,290
+这就是我要和你谈的 她很不好
+I need to talk to you. She's really bad.
+
+426
+00:25:40,300 --> 00:25:43,790
+实际上 她伤的太重
+我们已经无能为力了
+She's so far gone, I don't think
+there's anything we can do to heal her.
+
+427
+00:25:43,800 --> 00:25:46,090
+我的天 你确定吗?
+Oh, my god. Are you sure?
+
+428
+00:25:46,100 --> 00:25:50,290
+我用尽了所有的医学方法
+但是没有一个有效
+I've exhausted every medical
+possibility, and none of it's worked.
+
+429
+00:25:50,400 --> 00:25:51,490
+她  她会死吗?
+She... she's going to die?
+
+430
+00:25:51,500 --> 00:25:54,890
+我还有一个想法
+但是我需要你的帮助
+Well, I do have one more
+idea, but I need your help.
+
+431
+00:25:54,900 --> 00:25:56,790
+我? 你要我干什么?
+Me? What do you need me for?
+
+432
+00:25:58,100 --> 00:25:59,290
+看见这些了吗?
+See those?
+
+433
+00:25:59,300 --> 00:26:00,390
+他们是什么?
+What are they?
+
+434
+00:26:00,400 --> 00:26:04,190
+记得Weir博士被复制者攻击的时候
+他使她感染了...
+Remember when Dr.Weir was attacked by
+that replicator, and he infected her--
+
+435
+00:26:04,200 --> 00:26:05,390
+纳米机器人
+Nanites.
+
+436
+00:26:05,700 --> 00:26:08,990
+Carson用电磁脉冲使它们失效了
+Carson was able to render them inert
+using an electro-magnetic pulse.
+
+437
+00:26:09,000 --> 00:26:11,090
+但是它们还在她的身体里
+But they're still in her system.
+
+438
+00:26:11,100 --> 00:26:12,000
+你真是个天才
+You're a genius.
+
+439
+00:26:13,100 --> 00:26:16,100
+我就是想拯救一条生命
+Well, you know, trying to
+save a life and whatnot.
+
+440
+00:26:19,500 --> 00:26:20,790
+你要什么?
+You want to what?
+
+441
+00:26:20,800 --> 00:26:22,790
+重新激活Wier身上的纳米机器人
+Reactivate Weir's nanites.
+
+442
+00:26:22,800 --> 00:26:25,690
+那是个很恐怖很恐怖的主意
+That is a terrible, terrible idea.
+
+443
+00:26:25,700 --> 00:26:28,090
+什么? 我会重新编程的
+What? I'd reprogram them.
+
+444
+00:26:28,100 --> 00:26:29,090
+不要
+No.
+
+445
+00:26:29,100 --> 00:26:30,390
+John 我们快要失去她了
+John, we are losing her here.
+
+446
+00:26:30,400 --> 00:26:31,990
+Keller和她的小队已经竭尽全力了
+Keller and her team have
+done everything they can.
+
+447
+00:26:32,000 --> 00:26:35,790
+如果我能重新编程这些机器人
+让他们修复她的身体...
+If I can reprogram the nanites to help repair her body
+without trying to take over her brain then--
+
+448
+00:26:35,800 --> 00:26:37,190
+好大一个"如果" 不是吗?
+Well, that's a big "if", isn't it?
+
+449
+00:26:38,200 --> 00:26:41,990
+我很确信我能重新编程
+以达到我们的目的
+I'm fairly confident I can reprogram
+them to do only what we want.
+
+450
+00:26:42,000 --> 00:26:43,990
+"很确信"?
+"Fairly confident?"
+
+451
+00:26:44,000 --> 00:26:47,690
+如果它们恢复了并且
+和其他复制者通讯 怎么办?
+What if they come back online and start
+communicating with the other replicators?
+
+452
+00:26:47,700 --> 00:26:51,790
+我们现在最不需要的就是一堆
+机器战舰出现
+The last thing we need right now is
+a bunch of robot warships showing up.
+
+453
+00:26:51,800 --> 00:26:52,690
+你在听吗?
+Are you listening?
+
+454
+00:26:52,700 --> 00:26:55,990
+听着 我说了 我可以让他们
+变得完全无害
+Look, I said I can reprogram
+them to be completely harmless.
+
+455
+00:26:56,000 --> 00:26:59,990
+在你确定之前
+我不会再继续这个谈话
+I am not having this
+conversation until you're sure.
+
+456
+00:27:01,100 --> 00:27:05,600
+我和别人一样想救活Elizabeth
+I want to save Elizabeth
+as much as anyone,
+
+457
+00:27:05,900 --> 00:27:09,090
+但是她不会想让我们置这座城
+于险境 即使是为了救她自己
+but she wouldn't want us risking
+the city, not even for her.
+
+458
+00:27:20,400 --> 00:27:22,400
+顺便说一下 你的决定是对的
+That was the right call, by the way.
+
+459
+00:27:23,100 --> 00:27:24,000
+希望如此
+Yeah, let's hope so.
+
+460
+00:27:33,200 --> 00:27:34,790
+Apollo有来消息吗?
+Any word from the Apollo?
+
+461
+00:27:34,800 --> 00:27:37,090
+没 还没有
+No, not yet.
+
+462
+00:27:40,100 --> 00:27:41,590
+你在干什么?
+What you working on?
+
+463
+00:27:41,600 --> 00:27:45,490
+我正尝试找一个方法
+找到或者联系Atlantis
+I'm actually trying to figure out
+a way to find or contact Atlantis.
+
+464
+00:27:45,500 --> 00:27:48,190
+他们明显偏离航向了 不是吗?
+Well...they've obviously
+veered off course, right?
+
+465
+00:27:48,200 --> 00:27:51,090
+上一次有人用Atlantis的
+超空间引擎是什么时候?
+Like, when was the last time
+Atlantis' hyperdrives were used?
+
+466
+00:27:51,100 --> 00:27:52,390
+一百万年前?
+Like, a million years ago?
+
+467
+00:27:52,400 --> 00:27:54,790
+我是说 谁知道这样的闲置会
+造成什么样的影响?
+I mean, who knows what that kind of
+inactivity could have done to them.
+
+468
+00:27:54,800 --> 00:27:58,390
+我想 他们更有可能是脱离
+超空间过早了
+I think it's more likely that they
+jumped out of hyperspace too soon.
+
+469
+00:27:58,400 --> 00:28:00,290
+他们只有一个ZPM来飞行
+They were only flying with one ZPM.
+
+470
+00:28:00,300 --> 00:28:02,890
+也许McKay低估了飞行所需的能量
+Maybe McKay under-estimated
+the power requirements.
+
+471
+00:28:02,900 --> 00:28:04,100
+Mckay? 啊!
+McKay? Ah...
+
+472
+00:28:05,000 --> 00:28:06,890
+不管怎么样 我知道怎么找到他们
+Either way, I know how to find them.
+
+473
+00:28:06,900 --> 00:28:07,690
+真的?
+Really?
+
+474
+00:28:07,700 --> 00:28:10,690
+没错 我们做一个AGB
+全星门广播
+Yeah, we do an A.G.B.,
+An all gates bulletin.
+
+475
+00:28:10,700 --> 00:28:13,190
+这有点像一个全面通缉(APB)
+只是使用了星门
+It's like an all points
+bulletin, only with stargates.
+
+476
+00:28:13,200 --> 00:28:14,490
+- 哦 好了...
+- 不 是真的
+- Oh, come on.
+- No, no, really.
+
+477
+00:28:14,500 --> 00:28:17,890
+我们写一个程序同时
+拨打飞马系里所有的星门
+We'll create a program, we'll dial all
+the gates in the Pegasus Galaxy at once,
+
+478
+00:28:17,900 --> 00:28:20,990
+然后尝试同Atlantis建立无线电联系
+and try to establish radio
+contact with Atlantis.
+
+479
+00:28:21,000 --> 00:28:22,490
+但是Atlantis的星门还不在系统内
+But the Atlantis gate is off the grid.
+
+480
+00:28:22,500 --> 00:28:24,990
+没错 但是如果他们和另一个星门
+靠的足够近...
+Right, but if they're
+close to another gate--
+
+481
+00:28:25,000 --> 00:28:27,390
+那么他们现在就应该联系上我们了
+then they would have
+contacted us by now.
+
+482
+00:28:29,200 --> 00:28:31,390
+没错
+Yeah.
+
+483
+00:28:31,400 --> 00:28:33,990
+那么 你想到了什么?
+So, uh, what have you come up with then?
+
+484
+00:28:34,000 --> 00:28:35,490
+还没有 但是...
+Well, nothing yet, but--
+
+485
+00:28:35,500 --> 00:28:36,890
+至少我在尝试了
+well, at least I am trying.
+
+486
+00:28:36,900 --> 00:28:39,790
+我在想点子 我...
+I'm generating ideas here. I...
+
+487
+00:28:40,200 --> 00:28:40,900
+对不起
+Sorry.
+
+488
+00:28:44,600 --> 00:28:46,790
+我事实上很惊讶
+I'm actually surprised.
+
+489
+00:28:46,800 --> 00:28:49,200
+这各区域的损伤看上去很小
+The damage in this area
+seems to be quite minimal.
+
+490
+00:28:52,300 --> 00:28:54,100
+我猜正好相反
+I beg to differ.
+
+491
+00:28:56,200 --> 00:28:58,000
+哦 我的天
+Oh, my.
+
+492
+00:29:15,700 --> 00:29:17,400
+让我猜
+Let me guess..
+
+493
+00:29:17,700 --> 00:29:19,590
+控制阵列在那边
+the array is over there.
+
+494
+00:29:21,100 --> 00:29:22,190
+恐怕是的
+I'm afraid so.
+
+495
+00:29:26,000 --> 00:29:28,100
+太好了
+Great.
+
+496
+00:29:36,100 --> 00:29:38,600
+那该死的是什么?
+What the hell was that?
+
+497
+00:29:38,900 --> 00:29:39,500
+微行星
+Micro-asteroid.
+
+498
+00:29:41,300 --> 00:29:42,890
+好的...
+Right...
+
+499
+00:29:44,400 --> 00:29:45,890
+好
+All right.
+
+500
+00:29:45,900 --> 00:29:47,990
+看上去我们得跳过去
+Looks like we're going to have to jump.
+
+501
+00:29:48,000 --> 00:29:49,590
+但我跳不了100英尺(300米)
+But I can't jump 100 feet.
+
+502
+00:29:49,600 --> 00:29:51,490
+我们在宇宙空间 记得吗?
+We're in space, remember?
+
+503
+00:29:51,500 --> 00:29:52,890
+这不算太远
+It's not that far a distance.
+
+504
+00:29:53,100 --> 00:29:59,390
+我要这个绳索拴住你
+Look, I'm going to hook you
+up with this tether, okay?
+
+505
+00:30:01,500 --> 00:30:05,090
+然后我解除你靴子的磁力
+Then I'm going to
+demagnetize your boots.
+
+506
+00:30:07,900 --> 00:30:09,590
+- 然后我把你扔出去
+- 等等 什么?
+- Then I'm going to throw you.
+- Wait, what? What?
+
+507
+00:30:09,600 --> 00:30:13,990
+然后我在绳索拉紧之前
+解除我靴子的磁力
+Then I'm going to demag my
+boots before the tether catches.
+
+508
+00:30:14,000 --> 00:30:18,190
+你的惯性应该会把我们两个
+都拉到走廊的洞里
+Your inertia should pull both of us
+over the hole and onto the hallway.
+
+509
+00:30:18,200 --> 00:30:19,700
+这会很简单的
+It'll be a cinch.
+
+510
+00:30:19,800 --> 00:30:20,100
+但是如果你弄偏了怎么办?
+But what if you miss?
+
+511
+00:30:21,200 --> 00:30:22,190
+你只能相信我了 博士
+You're just going to
+have to trust me, Doc.
+
+512
+00:30:23,500 --> 00:30:26,290
+相信我至少可以扔得动你
+Trust me as far as I
+can throw you, actually.
+
+513
+00:30:26,600 --> 00:30:28,400
+- 很好笑
+- 好吧 我们干吧
+- Very funny.
+- All right, let's do this.
+
+514
+00:31:11,000 --> 00:31:12,100
+那... 太不可置信了
+That was... was unbelievable.
+
+515
+00:31:13,500 --> 00:31:14,100
+开始工作吧
+Let's get to work.
+
+516
+00:31:14,200 --> 00:31:15,000
+好的
+All right.
+
+517
+00:31:24,500 --> 00:31:25,400
+进行的如何?
+How's it going?
+
+518
+00:31:26,900 --> 00:31:27,100
+很慢
+Slowly.
+
+519
+00:31:28,800 --> 00:31:30,990
+你有找到安全激活这些纳米机器
+的方法吗?
+Have you found a way to
+reactivate the nanites safely?
+
+520
+00:31:31,000 --> 00:31:34,700
+- 简单点说 是的 复杂点说 没有
+- 什么?
+- Short story, yes.Long story, no.
+- What?
+
+521
+00:31:34,800 --> 00:31:37,290
+我百分之百确定我可以激活它们
+I'm 100% certain that I
+can reactivate the nanites
+
+522
+00:31:37,300 --> 00:31:39,100
+而且让它们帮助Elizabeth恢复
+and have them help put
+Elizabeth back together.
+
+523
+00:31:40,800 --> 00:31:41,200
+好的...
+Okay...
+
+524
+00:31:41,900 --> 00:31:46,690
+问题是它们会用复制出来的机器
+替换损坏的细胞
+The problem is, that they would do it by replacing
+her damaged cells with replicated nanites,
+
+525
+00:31:46,700 --> 00:31:48,990
+那么一旦我让他们关闭...
+so the moment I tell
+them to turn inert again--
+
+526
+00:31:49,000 --> 00:31:51,290
+这些细胞会停止工作
+然后她会死
+those cells would stop
+functioning, and she'd die.
+
+527
+00:31:51,300 --> 00:31:51,400
+是的
+Yeah.
+
+528
+00:31:51,700 --> 00:31:54,490
+好消息是我可以让他们...
+Well, the good news is, I've been
+able to program them in such a way
+
+529
+00:31:54,500 --> 00:31:56,790
+不会伤害她 这一点我很确定
+that they would never
+harm her, I'm sure of that.
+
+530
+00:31:56,800 --> 00:32:00,490
+而且我已经关闭了它们的
+次空间通讯能力
+Plus, I've shut down their ability to
+contact the replicators via subspace,
+
+531
+00:32:00,500 --> 00:32:06,600
+那么她和我们都会很安全
+但是她下半辈子就会成为半复制者
+so both she and we would be safe, but she'd
+be part replicator for the rest of her life.
+
+532
+00:32:06,800 --> 00:32:08,690
+Sheppard肯定不希望这样
+Yeah, Sheppard's not
+going to go for that.
+
+533
+00:32:10,100 --> 00:32:14,090
+也许我可以让它们修复她自身的有机细胞
+There's a slight possibility I might be able
+to make them help repair her organic cells,
+
+534
+00:32:14,100 --> 00:32:15,790
+然后在完成之后关掉它们...
+and then shut down when
+they're done, but...
+
+535
+00:32:16,300 --> 00:32:17,290
+可我需要更多的时间
+I'm going to need more time.
+
+536
+00:32:19,300 --> 00:32:21,200
+好吧 交给你了 祝好运!
+Okay, well, I'll leave
+you to it then. Good luck.
+
+537
+00:32:22,200 --> 00:32:22,600
+谢了
+Mm, thanks.
+
+538
+00:32:26,000 --> 00:32:29,290
+抱歉 我可能需要更多时间
+I'm sorry.It's taking
+longer than I expected.
+
+539
+00:32:29,300 --> 00:32:31,990
+手套妨碍了速度
+These gloves are making
+the work so much slower.
+
+540
+00:32:37,000 --> 00:32:39,690
+别担心
+Don't worry about it.
+
+541
+00:32:39,700 --> 00:32:43,700
+还剩四分钟我们的能量就不足以
+跳入超空间了
+We've still got four minutes before the
+energy dips too low and we can't make the jump.
+
+542
+00:32:43,900 --> 00:32:45,490
+所以 也不要有太大压力
+So, no pressure then.
+
+543
+00:32:48,000 --> 00:32:49,200
+Radek!
+Radek!
+
+544
+00:33:18,100 --> 00:33:20,790
+听我说 他们...
+Listen, they, uh...
+
+545
+00:33:21,700 --> 00:33:25,690
+他们说你听不到我说话 可我...
+they say you can't
+hear me, but I just...
+
+546
+00:33:25,700 --> 00:33:27,790
+我只想...
+I just wanted to, um...
+
+547
+00:33:33,400 --> 00:33:35,390
+只想说谢谢你
+I just wanted to thank you.
+
+548
+00:33:37,000 --> 00:33:38,690
+谢谢你...
+Thanks for letting me...
+
+549
+00:33:38,700 --> 00:33:40,990
+两年前接纳了我
+stay here a couple of years ago.
+
+550
+00:33:44,500 --> 00:33:47,690
+因为我不知道还能不能...
+Because I don't know if
+I would still be, um...
+
+551
+00:33:55,700 --> 00:33:57,990
+谢谢你 Weir博士
+Thank you, dr.Weir.
+
+552
+00:34:02,400 --> 00:34:03,490
+我做错什么了?
+What did I do?
+
+553
+00:34:03,500 --> 00:34:06,090
+没什么 不是你的原因
+不过你得离开一下
+Nothing, it wasn't you,
+but you need to leave.
+
+554
+00:34:06,500 --> 00:34:08,390
+再挂一袋甘露醇
+Hang another bag of manitol.
+
+555
+00:34:14,100 --> 00:34:16,990
+你被一块小殒石击中了 疼不疼?
+You've been hit by a
+micro-asteroid. Does it hurt?
+
+556
+00:34:17,000 --> 00:34:18,290
+不疼
+It doesn't.
+
+557
+00:34:18,300 --> 00:34:20,090
+你在发抖
+You're in shock.
+
+558
+00:34:21,000 --> 00:34:22,290
+我的太空服破了一个洞
+There's a hole in my suit.
+
+559
+00:34:22,300 --> 00:34:24,990
+没关系 我调节了一下上面的按钮
+用来增加压力
+It's okay. I've dialed up controls
+to create positive pressure.
+
+560
+00:34:25,000 --> 00:34:26,790
+我去叫一艘Jumper飞船
+必须马上送你去手术室
+I'm calling a jumper. I've
+got to get you to the O.R.
+
+561
+00:34:26,800 --> 00:34:28,290
+我们现在不能走
+We can't leave yet.
+
+562
+00:34:28,300 --> 00:34:29,490
+我必须完成修复工作
+I have to finish the repairs.
+
+563
+00:34:29,500 --> 00:34:30,690
+告诉我怎么做就行了
+Just tell me what to do.
+
+564
+00:34:30,700 --> 00:34:33,190
+这太复杂了
+It's too complicated.
+
+565
+00:34:34,100 --> 00:34:36,390
+我已经快完成了
+I'm almost finished.
+
+566
+00:34:37,000 --> 00:34:39,990
+帮帮忙 帮我转过身去
+Please, help me turn around.
+
+567
+00:34:43,900 --> 00:34:44,990
+Mckay博士?
+Dr. McKay?
+
+568
+00:34:45,000 --> 00:34:46,090
+什么事 Keller?
+What is it, Keller?
+
+569
+00:34:46,100 --> 00:34:49,590
+Elizabeth快要不行了
+如果我们再不开始 可能就没机会了
+Elizabeth is crashing. If we're going
+to do this thing, we need to do it now.
+
+570
+00:34:49,600 --> 00:34:50,590
+我还需要些时间
+I need more time.
+
+571
+00:34:50,600 --> 00:34:51,890
+我们没有时间了
+We don't have more time.
+
+572
+00:34:51,900 --> 00:34:54,790
+我没法维持她的血压
+如果她的颅压还在继续升高
+I can't keep her blood pressure up,
+and if her ICP continues to climb,
+
+573
+00:34:54,800 --> 00:34:57,690
+就没办法挽救了
+there's no bringing her back.
+
+574
+00:34:59,600 --> 00:35:01,990
+好吧 我现在就把程序传给你
+Okay, I'm transferring
+the program to you now.
+
+575
+00:35:03,800 --> 00:35:05,000
+我这就过来
+I'm on my way.
+
+576
+00:35:09,200 --> 00:35:12,790
+如果他们的确是过早脱离超空间
+那么最简单的方法就是
+You know, the easiest thing to do if they
+really did fall out of hyperspace early
+
+577
+00:35:12,800 --> 00:35:16,190
+沿着去往M12-578的路线原路返回
+is to fly back over the path
+between M12-578 and Atlantis.
+
+578
+00:35:16,200 --> 00:35:17,890
+可这要花费上百万年
+Well, that would take
+over a million years.
+
+579
+00:35:17,900 --> 00:35:19,390
+这也就是我们使用超空间的原因
+That's why we have hyperspace.
+
+580
+00:35:19,400 --> 00:35:21,590
+我们可以使用Apollo号上的
+远程探测器
+We could use the Apollo's
+long-range sensors.
+
+581
+00:35:21,600 --> 00:35:24,290
+可那些远程探测器
+不能在超空间中工作
+Those long-range sensors,
+they don't work in hyperspace.
+
+582
+00:35:24,300 --> 00:35:26,390
+这我知道 可我们可以在超空间中
+跳跃一小段  然后出来看看
+I know, but we could make
+a little jump, look around,
+
+583
+00:35:26,400 --> 00:35:28,090
+然后再跳一小段 再出来看看...
+make another little
+jump, look around, and...
+
+584
+00:35:28,100 --> 00:35:29,090
+直到找到他们
+until we find them.
+
+585
+00:35:29,100 --> 00:35:30,290
+这个办法好
+Yeah, that's good.
+
+586
+00:35:30,300 --> 00:35:35,790
+好吧 如果合理的安排跳跃
+我们需要跳跃...
+Uh, so using those sensors,
+conservatively, we'd have to make...
+
+587
+00:35:36,200 --> 00:35:38,990
+180,000次
+180,000 little jumps.
+
+588
+00:35:39,000 --> 00:35:40,890
+这需要好几年
+It'd take a few years.
+
+589
+00:35:40,900 --> 00:35:44,390
+除非他们大幅增加
+远程探测器的探测距离
+Unless they seriously augment
+the long-range sensors.
+
+590
+00:35:44,400 --> 00:35:45,790
+好啊 可谁能办到呢?
+Oh, yeah, who's going to do that?
+
+591
+00:35:45,800 --> 00:35:48,590
+他们的飞船上又没有Asgard
+It's not like they
+have an Asgard on board.
+
+592
+00:35:48,600 --> 00:35:51,100
+去一趟飞马星系如何?
+Feel like taking a little
+trip to the Pegasus Galaxy?
+
+593
+00:35:53,900 --> 00:35:55,290
+还剩最后几个调整
+Just some final adjustments.
+
+594
+00:35:55,700 --> 00:35:56,890
+你干得很棒 Radek
+You're doing a great job, Radek.
+
+595
+00:35:56,900 --> 00:35:58,990
+我已经叫了一艘Jumper
+I've called a jumper.
+
+596
+00:36:02,600 --> 00:36:06,290
+好了 完成了
+There. I'm done.
+
+597
+00:36:08,000 --> 00:36:10,090
+控制室 我是Sheppard
+Control room, this is Sheppard.
+
+598
+00:36:10,100 --> 00:36:14,090
+等我们回到护盾区域之后
+马上进行超空间跳跃
+As soon as we get inside the
+shield, activate the hyperspace jump.
+
+599
+00:36:14,100 --> 00:36:15,890
+抱歉 John 我们办不到
+I'm sorry, John, but we can't.
+
+600
+00:36:15,900 --> 00:36:18,490
+为什么? Zelenka已经修好了
+Why not? Zelenka just finished repairs.
+
+601
+00:36:18,500 --> 00:36:21,790
+是的 这我知道
+可我们的能量刚刚跌入警戒线以下
+Yes, I know, but we've
+just dropped below the line.
+
+602
+00:36:22,300 --> 00:36:24,400
+没有足够的能量了
+We don't have enough power.
+
+603
+00:36:38,900 --> 00:36:40,790
+他没什么事吧?
+Is she going to be okay?
+
+604
+00:36:40,800 --> 00:36:42,000
+我想是的 还好没有击中大动脉
+I think so. It didn't
+hit any major arteries.
+
+605
+00:36:42,200 --> 00:36:43,000
+真走运
+Lucky.
+
+606
+00:36:43,100 --> 00:36:46,390
+我可不这么认为 现在他跟我们一样
+被困在这里了
+I wouldn't say that. He's still
+stuck here just like the rest of us.
+
+607
+00:36:46,400 --> 00:36:47,890
+是啊
+So it's true.
+
+608
+00:36:47,900 --> 00:36:51,690
+终于修复了超空间引擎
+可我们又没有足够的能量发动
+Finally fixed the hyperdrive, now we
+don't have enough juice to go anywhere.
+
+609
+00:36:51,700 --> 00:36:53,890
+在护盾失效之前 我们还有28个小时
+We've only got 28 hours
+before the shields fail.
+
+610
+00:36:53,900 --> 00:36:54,890
+有什么计划?
+So, what's the plan?
+
+611
+00:36:54,900 --> 00:36:56,590
+不知道 我要去找Mckay
+I don't know, I got to find McKay.
+
+612
+00:36:56,600 --> 00:36:57,790
+他来了
+He's in there.
+
+613
+00:36:57,800 --> 00:37:00,090
+什么?
+What?
+
+614
+00:37:00,100 --> 00:37:01,690
+嘿!
+Hey!
+
+615
+00:37:03,200 --> 00:37:05,490
+我听说了 我们没有及时修好阵列
+I heard we didn't get
+the array fixed in time.
+
+616
+00:37:05,500 --> 00:37:07,190
+你刚才在干什么?
+What were you doing in there?
+
+617
+00:37:07,500 --> 00:37:09,790
+听着 她就要死了 知道么?
+Look, she was dying, okay?
+
+618
+00:37:09,800 --> 00:37:10,890
+Rodney...
+Rodney...
+
+619
+00:37:10,900 --> 00:37:13,090
+她的心脏快不行了
+神经系统也濒临崩溃
+look, her heart was weak,
+her nervous system was fried.
+
+620
+00:37:13,100 --> 00:37:15,390
+你干什么了?
+What did you do?
+
+621
+00:37:18,500 --> 00:37:19,290
+我重新激活了那些纳米机器人
+I reactivated the nanites.
+
+622
+00:37:19,300 --> 00:37:20,390
+真该死 Mckay!
+Damn it, McKay!
+
+623
+00:37:20,400 --> 00:37:22,890
+你当时很忙! 在这生死攸关的时刻
+如果我不采取行动的话...
+Look, you were busy! It was
+life or death. If I didn't act--
+
+624
+00:37:22,900 --> 00:37:24,290
+是的  她会死的 我知道!
+Yes, she would have died, I know!
+
+625
+00:37:24,300 --> 00:37:27,690
+我知道你在想什么 可是救了Elizabeth
+并不一定就等于将我们置于危险境地
+Okay, I know what you're thinking, but
+helping Elizabeth is not putting us at risk.
+
+626
+00:37:27,700 --> 00:37:30,490
+你刚刚激活了复制者的纳米病毒
+You just reactivated
+the replicator nanites.
+
+627
+00:37:30,500 --> 00:37:31,690
+它们是无害的
+They're harmless.
+
+628
+00:37:31,700 --> 00:37:35,090
+我可以百分之百肯定 它们不会控制她
+并跟其他复制者联系!
+Look, I am 100% certain they're not going to
+try to take her over her, or contact the others!
+
+629
+00:37:35,100 --> 00:37:37,090
+不 不 你永远都不能肯定
+No, no, you can't know that for sure.
+
+630
+00:37:37,100 --> 00:37:39,190
+不 我可以
+Yes. Yes, I can.
+
+631
+00:37:40,500 --> 00:37:42,090
+关掉它们
+Shut it down.
+
+632
+00:37:42,400 --> 00:37:44,490
+可...这会害死她
+But...that would kill her.
+
+633
+00:37:44,500 --> 00:37:46,690
+如果是Elizabeth 她会怎样做?
+你认为她愿意看到这种结局?
+What would Elizabeth want?
+Do you think she'd want this?
+
+634
+00:37:46,700 --> 00:37:48,790
+是的 她肯定会跟你一样
+Yes. She'd sure as hell
+do the same for you.
+
+635
+00:37:48,800 --> 00:37:50,590
+那很显然 你还不是很了解她
+Then you obviously
+didn't know her very well.
+
+636
+00:37:50,600 --> 00:37:53,490
+好吧 也许吧 再等些时候
+你自己去问她吧...
+Well, maybe not, but you know what, give
+it some time, you can ask her, herself--
+
+637
+00:37:53,500 --> 00:37:58,090
+不行! 这样太危险了
+立刻把它们关掉
+No! It's too dangerous.
+Shut it down right now.
+
+638
+00:37:58,400 --> 00:38:01,090
+不 我不去
+No. No, I'm not going to.
+
+639
+00:38:06,200 --> 00:38:07,890
+Meyers...
+Meyers...
+
+640
+00:38:07,900 --> 00:38:10,290
+拿一台EMP(电磁脉冲)发生器到手术室来
+bring an EMP generator to the O.R.
+
+641
+00:38:10,300 --> 00:38:12,090
+你能不能听我一句话?
+Would you please just listen to me?
+
+642
+00:38:12,100 --> 00:38:14,090
+Keller医生!
+Dr. Keller!
+
+643
+00:38:21,600 --> 00:38:23,390
+John...
+John...
+
+644
+00:38:24,800 --> 00:38:26,790
+Rodney...
+Rodney...
+
+645
+00:38:28,200 --> 00:38:30,290
+发生什么了?
+What's going on?
+
+646
+00:38:46,200 --> 00:38:48,390
+没必要进行隔离
+The quarantine is unnecessary.
+
+647
+00:38:48,400 --> 00:38:52,490
+如果发生意外 我看你怎么交待
+Well, you'll excuse me if
+I wait for a second opinion.
+
+648
+00:38:52,500 --> 00:38:54,490
+这太荒谬了
+Okay, this is stupid.
+
+649
+00:38:54,500 --> 00:38:56,290
+- 什么?
+- 我们之间吵架
+- What is?
+- Us fighting.
+
+650
+00:38:56,300 --> 00:38:59,790
+我知道你对我有些不满
+也许你有一些借口
+Look, I know you're not happy with
+me, and you may have some cause.
+
+651
+00:38:59,800 --> 00:39:03,090
+可不管怎么样 如果我们想不出
+一个脱身的办法 这又有什么用呢?
+Anyway, it's not going to matter much if
+we don't figure a way out of this, right?
+
+652
+00:39:03,100 --> 00:39:05,090
+我们必须相互协作 所以...
+Look, we have to work together, so...
+
+653
+00:39:07,100 --> 00:39:10,090
+我...我很抱歉
+so, so I'm...I'm sorry.
+
+654
+00:39:14,800 --> 00:39:16,300
+接受你的道歉
+Apology accepted.
+
+655
+00:39:17,400 --> 00:39:18,000
+好吧
+All right.
+
+656
+00:39:20,300 --> 00:39:21,390
+该有人去跟她说说话
+Well, someone should talk to her.
+
+657
+00:39:21,400 --> 00:39:23,000
+Teyla在里面
+Well, Teyla's in there.
+
+658
+00:39:24,700 --> 00:39:26,290
+好的
+All right.
+
+659
+00:39:33,000 --> 00:39:34,490
+他们不该这样做的
+They shouldn't have done this.
+
+660
+00:39:35,600 --> 00:39:38,390
+我们都不想失去你 Elizabeth
+None of us wanted to
+lose you, Elizabeth.
+
+661
+00:39:38,900 --> 00:39:42,190
+可要是那些纳米机器人
+联络其他复制者呢?
+And what happens if the nanites are
+able to contact the other replicators?
+
+662
+00:39:42,200 --> 00:39:44,790
+Rodney相信这是不可能的
+Rodney does not believe
+that is possible.
+
+663
+00:39:45,800 --> 00:39:47,790
+不行 不值得冒这个险
+No, it's reckless.
+
+664
+00:39:48,200 --> 00:39:49,990
+照我来看...
+In my opinion...
+
+665
+00:39:50,000 --> 00:39:52,890
+很值得冒这个险
+it is well worth the risk.
+
+666
+00:39:57,400 --> 00:40:00,890
+你根本不知道我上次经历了什么
+You have no idea what I
+went through the last time.
+
+667
+00:40:01,900 --> 00:40:03,590
+相信我
+Believe me...
+
+668
+00:40:04,400 --> 00:40:07,900
+这是个很糟糕的主意
+this is a very bad idea.
+
+669
+00:40:22,100 --> 00:40:23,990
+你们在这里干什么?
+What the hell are you doing up here?
+
+670
+00:40:24,000 --> 00:40:26,890
+总比在医务室无聊的等死强吧?
+Well, there's not much point sitting in
+the infirmary waiting to die, is there?
+
+671
+00:40:28,400 --> 00:40:30,690
+好吧 现在是什么状况?
+All right, where do we stand?
+
+672
+00:40:30,700 --> 00:40:32,690
+次空间通讯我们是不用考虑了
+Well, we can pretty much forget
+about subspace communications.
+
+673
+00:40:32,700 --> 00:40:35,290
+主控制阵列差不多完全被光束摧毁了
+The main control array was almost
+completely damaged by the beam.
+
+674
+00:40:36,300 --> 00:40:38,190
+不过 我还有一个主意
+I do, however, have another idea.
+
+675
+00:40:38,800 --> 00:40:39,890
+说说看
+Let's hear it.
+
+676
+00:40:39,900 --> 00:40:41,390
+我们之所以不能利用剩余的能量
+跃入超空间
+Well, the reason why
+we cannot use the power
+
+677
+00:40:41,400 --> 00:40:45,490
+是因为城市不让我们这样干
+we have left to execute a short jump into
+hyperspace is that the city will not let us.
+
+678
+00:40:46,400 --> 00:40:49,390
+这是一个安全措施
+不过我有办法绕开它
+It's a safety protocol, but
+I might be able to bypass it.
+
+679
+00:40:49,400 --> 00:40:50,590
+然后呢 有什么好处?
+What does that give us?
+
+680
+00:40:50,600 --> 00:40:52,290
+不是很好
+Not much.
+
+681
+00:40:52,300 --> 00:40:54,090
+是的 我们还是无法跟Apollo回合
+Well, we wouldn't be
+able to get to the Apollo,
+
+682
+00:40:54,100 --> 00:40:55,690
+无法到达最近的星门
+and we wouldn't be able to
+get to the nearest stargate,
+
+683
+00:40:55,700 --> 00:40:59,790
+不过也许我们可以在附近
+找到一个适于居住的星球
+but we might be able to find a
+habitable planet within range.
+
+684
+00:41:00,000 --> 00:41:01,890
+我现在已经派人
+去用探测器进行扫描了
+I have my team running
+sensor sweeps right now.
+
+685
+00:41:01,900 --> 00:41:03,090
+他没有讲那个安全措施
+He's conveniently leaving out the reason
+
+686
+00:41:03,100 --> 00:41:07,190
+不让我们这样干的原因
+why those safety protocols are
+in place in the first place.
+
+687
+00:41:07,200 --> 00:41:08,790
+好吧 如果能量不足
+Yes, well, with insufficient power,
+
+688
+00:41:08,800 --> 00:41:12,790
+那么城市在进入超空间之前
+就有可能被撕裂
+there is a chance that the city could be ripped
+apart as we try to enter the hyperspace window.
+
+689
+00:41:12,800 --> 00:41:15,090
+几率有多大?
+What kind of chance?
+
+690
+00:41:15,100 --> 00:41:17,090
+50%
+50-50.
+
+691
+00:41:17,300 --> 00:41:20,590
+那我得说 Radek 这不是个好点子
+Well, I got to tell you,
+Radek, I'm not loving that idea.
+
+692
+00:41:23,500 --> 00:41:25,290
+那艘试验Jumper
+Experimental jumper.
+
+693
+00:41:26,600 --> 00:41:29,190
+还记得不 几个月前
+我被那台机器打中 然后就...
+Remember when I was zapped by that
+machine a few months ago, and I got...
+
+694
+00:41:29,200 --> 00:41:31,190
+一下子变得聪明多了?
+well, even smarter than I normally am?
+
+695
+00:41:31,200 --> 00:41:32,990
+差点害死你的那次? 记得
+The one that almost killed you? Yeah.
+
+696
+00:41:33,000 --> 00:41:33,890
+在我恢复原形之前
+Well, before I was reset,
+
+697
+00:41:33,900 --> 00:41:36,690
+我已经完成给一艘Puddle Jumper
+装上超空间引擎了
+I was very close to giving one of
+our puddle jumpers a hyperdrive.
+
+698
+00:41:36,700 --> 00:41:38,390
+- 你能完成么?
+- 当然
+- Can you finish it?
+- Yeah.
+
+699
+00:41:39,100 --> 00:41:40,490
+也许吧
+Yes, I probably can.
+
+700
+00:41:40,500 --> 00:41:43,490
+那我们可以飞到Appolo那里
+告诉我们现在的位置
+All right, great. We'll make a jump
+to the Apollo, tell them where we are.
+
+701
+00:41:43,500 --> 00:41:45,290
+- 不行
+- 为什么?
+- No.
+- Why no?
+
+702
+00:41:45,300 --> 00:41:46,890
+Jumper上的超空间引擎能力有限
+The jumper's hyperdrive
+would be limited.
+
+703
+00:41:46,900 --> 00:41:48,090
+没法飞那么远
+Wae wouldn't be able to jump that far.
+
+704
+00:41:48,100 --> 00:41:49,890
+那可以飞多远?
+How far then?
+
+705
+00:41:51,100 --> 00:41:53,090
+你觉得呢 大概是 二?
+What do you think, like, two?
+
+706
+00:41:53,100 --> 00:41:55,390
+大概吧?
+Yeah. Two and change maybe?
+
+707
+00:41:55,400 --> 00:41:58,190
+保守估计 大概有两千光年
+Conservatively, maybe 2000 light years.
+
+708
+00:41:58,800 --> 00:42:01,390
+这是在此范围内的星门地址
+This is a list of addresses
+that are within range.
+
+709
+00:42:04,100 --> 00:42:06,690
+那我们多飞几次 把队员们都
+转送到其中的一颗星球上
+All right, we'll make a bunch of trips
+and ferry the crew to one of the planets.
+
+710
+00:42:06,700 --> 00:42:08,090
+这个也不行
+Again, no.
+
+711
+00:42:08,100 --> 00:42:08,990
+为什么?
+Why not?
+
+712
+00:42:09,000 --> 00:42:10,190
+那个引擎从来没有测试过
+Well, the drive's never been tested.
+
+713
+00:42:10,200 --> 00:42:12,190
+幸运的话 可以飞个一两次
+Yeah, we'd be lucky if we get two jumps.
+
+714
+00:42:12,200 --> 00:42:14,890
+这样可以到某地飞一个来回
+We'll make a return trip somewhere.
+
+715
+00:42:17,700 --> 00:42:20,690
+是的 理想的话 还可以找到几个ZPM
+Yeah, ideally, somewhere
+with a few ZPMs to spare.
+
+716
+00:42:20,700 --> 00:42:22,290
+给Atlantis提供能量
+We come back, we get
+atlantis fully powered.
+
+717
+00:42:22,300 --> 00:42:24,290
+那就太好了
+Yeah, that'd be great.
+
+718
+00:42:24,300 --> 00:42:26,890
+M7R-227
+M7r-227.
+
+719
+00:42:27,900 --> 00:42:29,690
+那是什么?
+What's that?
+
+720
+00:42:29,900 --> 00:42:31,390
+这个...
+Well...
+
+721
+00:42:31,400 --> 00:42:33,290
+那里有ZPM?
+there's a planet out there with ZPMs?
+
+722
+00:42:33,300 --> 00:42:36,690
+是的 我们知道他们有几个ZPM
+Yeah... yeah, we know
+they have a few ZPMs.
+
+723
+00:42:36,700 --> 00:42:38,390
+那是哪里?
+And who would that be?
+
+724
+00:42:39,600 --> 00:42:42,990
+那儿? 那儿是复制者的母星
+That? That would be the
+replicator homeworld.
+
+725
+00:42:44,500 --> 00:42:46,390
+敢去么?
+You feel up to a heist?
+

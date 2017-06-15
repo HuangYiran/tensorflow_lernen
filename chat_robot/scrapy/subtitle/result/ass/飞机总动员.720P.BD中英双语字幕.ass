@@ -1,0 +1,1481 @@
+﻿[Script Info]
+; // 此字幕由PopSub生成  2013-11-17 17:01:25
+; // 版本: 0.77
+; // popgo_fansub@yahoo.co.jp
+; // 欢迎访问漫游天下 http://bbs.popgo.net
+Title:漫游字幕
+Original Script:漫游字幕组
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+PlayResX:640
+PlayResY:360
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,黑体,22,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,1,0,0,0,100,100,0,0.00,1,2,1,2,5,5,10,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.00,0:00:04.08,*Default,NTP,0000,0000,0000,,请注意\N{\fn微软雅黑\fs15}Look alive.
+Dialogue: 0,0:00:04.16,0:00:06.76,*Default,NTP,0000,0000,0000,,目标距离315英里 接近中\N{\fn微软雅黑\fs15}Contact appears to be heading 315 miles.
+Dialogue: 0,0:00:06.84,0:00:10.28,*Default,NTP,0000,0000,0000,,速度430 天使 高度约 2000\N{\fn微软雅黑\fs15}Speed 430, Angels. Approximately 2, 000.
+Dialogue: 0,0:00:38.84,0:00:41.41,*Default,NTP,0000,0000,0000,,汽车世界\N{\fn微软雅黑\fs15}World of Cars
+Dialogue: 0,0:00:53.26,0:00:56.26,*Default,NTP,0000,0000,0000,,飞机总动员\N{\fn微软雅黑\fs15}Planes
+Dialogue: 0,0:01:00.20,0:01:01.88,*Default,NTP,0000,0000,0000,,他在磨蹭什么?\N{\fn微软雅黑\fs15}What's taking this guy so long?
+Dialogue: 0,0:01:01.96,0:01:03.80,*Default,NTP,0000,0000,0000,,他真有自己说的那么厉害吗?\N{\fn微软雅黑\fs15}Is he really as good as they say he is?
+Dialogue: 0,0:01:03.88,0:01:06.08,*Default,NTP,0000,0000,0000,,不 是更厉害\N{\fn微软雅黑\fs15}No. Better.
+Dialogue: 0,0:01:06.40,0:01:08.36,*Default,NTP,0000,0000,0000,,哦 耶!\N{\fn微软雅黑\fs15}Oh. Yeah!
+Dialogue: 0,0:01:08.44,0:01:10.60,*Default,NTP,0000,0000,0000,,瞧! 那是谁?\N{\fn微软雅黑\fs15}Whoa! Who was that?
+Dialogue: 0,0:01:12.56,0:01:15.88,*Default,NTP,0000,0000,0000,,早上好 姑娘们 输了可别哭鼻子啊\N{\fn微软雅黑\fs15}Why, hello, ladies. Are you ready to lose?
+Dialogue: 0,0:01:15.96,0:01:18.12,*Default,NTP,0000,0000,0000,,最后飞到水塔的飞机给其他飞机买油\N{\fn微软雅黑\fs15}Last one to the water tower buys a round of fuel.
+Dialogue: 0,0:01:18.20,0:01:20.44,*Default,NTP,0000,0000,0000,,这样吧 我让你们先飞一段\N{\fn微软雅黑\fs15}Tell you what, I'll give you guys a head start.
+Dialogue: 0,0:01:20.52,0:01:23.64,*Default,NTP,0000,0000,0000,,- 你们用得上的  - 等着瞧 失败者\N{\fn微软雅黑\fs15}- You're going to need it.  - Later, loser.
+Dialogue: 0,0:01:23.72,0:01:27.48,*Default,NTP,0000,0000,0000,,一 一千 二... 哦 好了\N{\fn微软雅黑\fs15}One one-thousand, two one... oh, that's enough.
+Dialogue: 0,0:01:50.68,0:01:52.20,*Default,NTP,0000,0000,0000,,再见了 笨蛋!\N{\fn微软雅黑\fs15}See ya, suckers!
+Dialogue: 0,0:01:52.48,0:01:53.52,*Default,NTP,0000,0000,0000,,尝尝我的...\N{\fn微软雅黑\fs15}Eat my...
+Dialogue: 0,0:01:53.88,0:01:55.45,*Default,NTP,0000,0000,0000,,- 达斯迪!  - 哦! 啊...\N{\fn微软雅黑\fs15}- Dusty!  - Oh! Aw...
+Dialogue: 0,0:01:58.28,0:02:00.64,*Default,NTP,0000,0000,0000,,你又在做白日梦 给我小心点\N{\fn微软雅黑\fs15}Pay attention. You're daydreaming again.
+Dialogue: 0,0:02:00.72,0:02:04.00,*Default,NTP,0000,0000,0000,,白日梦? 没 没!\N{\fn微软雅黑\fs15}Me? No, no, no! No.
+Dialogue: 0,0:02:04.08,0:02:05.12,*Default,NTP,0000,0000,0000,,哦 好吧 有\N{\fn微软雅黑\fs15}Okay, yes.
+Dialogue: 0,0:02:05.20,0:02:07.20,*Default,NTP,0000,0000,0000,,别这样 利巴顿\N{\fn微软雅黑\fs15}But, you know, come on, Leadbottom.
+Dialogue: 0,0:02:07.40,0:02:09.16,*Default,NTP,0000,0000,0000,,这活有多难?\N{\fn微软雅黑\fs15}Really? How hard is this?
+Dialogue: 0,0:02:09.24,0:02:11.56,*Default,NTP,0000,0000,0000,,就是往前飞 转弯 再往前飞 再转弯\N{\fn微软雅黑\fs15}Fly straight, turn around. Fly straight, turn around.
+Dialogue: 0,0:02:11.72,0:02:15.04,*Default,NTP,0000,0000,0000,,你是在瞧不起伟大的空中喷洒艺术吗?\N{\fn微软雅黑\fs15}Are you disrespecting the sweet science of aerial application?
+Dialogue: 0,0:02:15.20,0:02:17.04,*Default,NTP,0000,0000,0000,,我可不想当一辈子作物喷粉机\N{\fn微软雅黑\fs15}Look, I am more than just a crop duster.
+Dialogue: 0,0:02:17.24,0:02:19.20,*Default,NTP,0000,0000,0000,,别再跟我念叨\N{\fn微软雅黑\fs15}Don't go flap-jawing
+Dialogue: 0,0:02:19.40,0:02:21.84,*Default,NTP,0000,0000,0000,,你那个花球之翼\N{\fn微软雅黑\fs15}about that Flings Around the Planet air racing nonsense again.
+Dialogue: 0,0:02:21.92,0:02:25.16,*Default,NTP,0000,0000,0000,,抱歉 那叫环球之翼飞行大赛\N{\fn微软雅黑\fs15}Excuse me, it is called the Wings Around the Globe Rally.
+Dialogue: 0,0:02:25.32,0:02:26.65,*Default,NTP,0000,0000,0000,,看在彼得比尔特牌汽车的份儿上!\N{\fn微软雅黑\fs15}For the love of Peterbilt!
+Dialogue: 0,0:02:26.76,0:02:29.12,*Default,NTP,0000,0000,0000,,我没胡说 我的转弯平稳\N{\fn微软雅黑\fs15}And it's not nonsense. I've got a tight turn radius
+Dialogue: 0,0:02:29.36,0:02:30.56,*Default,NTP,0000,0000,0000,,功率质量比也很高\N{\fn微软雅黑\fs15}and a high power-to-weight ratio.
+Dialogue: 0,0:02:30.64,0:02:31.72,*Default,NTP,0000,0000,0000,,- 你知道你还有什么吗?  - 什么?\N{\fn微软雅黑\fs15}- You know what else you got?  - What?
+Dialogue: 0,0:02:31.96,0:02:33.12,*Default,NTP,0000,0000,0000,,脑袋有包!\N{\fn微软雅黑\fs15}A screw loose!
+Dialogue: 0,0:02:33.24,0:02:35.24,*Default,NTP,0000,0000,0000,,为什么你不想给作物喷粉?\N{\fn微软雅黑\fs15}I mean, why would you want to give up crop-dusting?
+Dialogue: 0,0:02:35.56,0:02:41.20,*Default,NTP,0000,0000,0000,,蓝天白云 畅行无阻 还有迎面而来的维他肥的味道\N{\fn微软雅黑\fs15}Blue skies, no air traffic, and that tangy scent of Vita-minamulch.
+Dialogue: 0,0:02:41.32,0:02:42.56,*Default,NTP,0000,0000,0000,,嗯\N{\fn微软雅黑\fs15}Mmm.
+Dialogue: 0,0:02:42.80,0:02:44.76,*Default,NTP,0000,0000,0000,,妈妈就是这样喷洒\N{\fn微软雅黑\fs15}Just like Momma used to spray.
+Dialogue: 0,0:02:44.96,0:02:46.04,*Default,NTP,0000,0000,0000,,真是享受\N{\fn微软雅黑\fs15}Delicious.
+Dialogue: 0,0:02:46.12,0:02:48.93,*Default,NTP,0000,0000,0000,,人老了嗅觉真的是最先退化的\N{\fn微软雅黑\fs15}They say the sense of smell is the first thing to go.
+Dialogue: 0,0:02:49.08,0:02:51.08,*Default,NTP,0000,0000,0000,,- 你闻到了吗?  - 该下班了!\N{\fn微软雅黑\fs15}- You smell it?  - Quitting time!
+Dialogue: 0,0:02:51.84,0:02:54.16,*Default,NTP,0000,0000,0000,,喷粉机去参加什么比赛\N{\fn微软雅黑\fs15}A crop duster wanting to be a racer.
+Dialogue: 0,0:02:54.48,0:02:57.45,*Default,NTP,0000,0000,0000,,要我说 参赛的飞机更想来当喷粉机呢\N{\fn微软雅黑\fs15}If you ask me, more racers should want to be crop dusters.
+Dialogue: 0,0:02:57.60,0:03:00.84,*Default,NTP,0000,0000,0000,,我补充了维他肥 耶! 维他肥\N{\fn微软雅黑\fs15}I got some minamulch, yeah! Minamulch
+Dialogue: 0,0:03:06.70,0:03:07.94,*Default,NTP,0000,0000,0000,,欢迎来到 普罗普沃什镇
+Dialogue: 0,0:03:16.48,0:03:20.40,*Default,NTP,0000,0000,0000,,嗯 现在有什么大豆汽油 柳枝汽油 海藻汽油 算了吧!\N{\fn微软雅黑\fs15}Yuck. Nowadays, they got soybean fuel, switchgrass fuel, algae fuel. Come on!
+Dialogue: 0,0:03:20.52,0:03:22.40,*Default,NTP,0000,0000,0000,,- 哦 都不健康! 别加那些油  - 快给我讲讲\N{\fn微软雅黑\fs15}- Oh, healthy! No tank you.  - Tell me about it.
+Dialogue: 0,0:03:22.48,0:03:24.56,*Default,NTP,0000,0000,0000,,- 接下来会是什么 开心果汽油?  - 你疯了吗?\N{\fn微软雅黑\fs15}- What's next, pistachio propane?  - What, are you nuts?
+Dialogue: 0,0:03:24.68,0:03:27.36,*Default,NTP,0000,0000,0000,,我只会买老牌的玉米汽油\N{\fn微软雅黑\fs15}For my money, there's nothing like good old-fashioned corn fuel.
+Dialogue: 0,0:03:27.44,0:03:29.52,*Default,NTP,0000,0000,0000,,- 哦 你说得没错  - 我都想好标语了\N{\fn微软雅黑\fs15}- Oh, yeah, you betcha.  - I even made up a slogan.
+Dialogue: 0,0:03:29.72,0:03:30.96,*Default,NTP,0000,0000,0000,,哦 我喜欢标语\N{\fn微软雅黑\fs15}Oh, slogans are good.
+Dialogue: 0,0:03:31.12,0:03:34.80,*Default,NTP,0000,0000,0000,,"玉米 你的能量之源"\N{\fn微软雅黑\fs15}"Corn. it gives you gas."
+Dialogue: 0,0:03:37.00,0:03:39.04,*Default,NTP,0000,0000,0000,,朗朗上口 我喜欢\N{\fn微软雅黑\fs15}Catchy. I like that.
+Dialogue: 0,0:03:39.20,0:03:41.52,*Default,NTP,0000,0000,0000,,我也喜欢 好了 斯帕奇 你的油加好了\N{\fn微软雅黑\fs15}Me, too. There you go, Sparky, you're all set.
+Dialogue: 0,0:03:41.68,0:03:43.33,*Default,NTP,0000,0000,0000,,- 待会见 楚格  - 好的\N{\fn微软雅黑\fs15}- Catch you later, Chug.  - Sure thing.
+Dialogue: 0,0:03:43.48,0:03:45.84,*Default,NTP,0000,0000,0000,,农田守望者达斯迪 呼叫楚格 完毕\N{\fn微软雅黑\fs15}This is Dusty Crophopper to Chug. Over.
+Dialogue: 0,0:03:46.52,0:03:49.68,*Default,NTP,0000,0000,0000,,这儿没有楚格 拜托 用新呼号\N{\fn微软雅黑\fs15}Uh, Chug isn't here. Come on, use the new call sign.
+Dialogue: 0,0:03:49.76,0:03:50.72,*Default,NTP,0000,0000,0000,,哦 对 对\N{\fn微软雅黑\fs15}Right, right, right.
+Dialogue: 0,0:03:50.80,0:03:54.64,*Default,NTP,0000,0000,0000,,中流砥柱 呃 呼叫超级教练大卡奇拉\N{\fn微软雅黑\fs15}This is, uh, Strut Jetstream calling Turbo Coach Truck-zilla.
+Dialogue: 0,0:03:54.72,0:03:57.72,*Default,NTP,0000,0000,0000,,- 准备好去训练了吗?  - 那还用说 砥柱\N{\fn微软雅黑\fs15}- Ready for practice?  - You betcha, Strut.
+Dialogue: 0,0:04:00.00,0:04:02.32,*Default,NTP,0000,0000,0000,,哈哈! 哇!\N{\fn微软雅黑\fs15}Ha-ha! Whoo!
+Dialogue: 0,0:04:04.00,0:04:05.28,*Default,NTP,0000,0000,0000,,小混蛋\N{\fn微软雅黑\fs15}Young punk.
+Dialogue: 0,0:04:05.36,0:04:07.12,*Default,NTP,0000,0000,0000,,好了 哥们 我看到你了\N{\fn微软雅黑\fs15}All right, buddy, I got you in sight.
+Dialogue: 0,0:04:07.20,0:04:09.16,*Default,NTP,0000,0000,0000,,我们先在玉米地里短途飞行热热身\N{\fn微软雅黑\fs15}Now let's start with some corn-row sprints.
+Dialogue: 0,0:04:09.32,0:04:11.04,*Default,NTP,0000,0000,0000,,来个20米低空飞行!\N{\fn微软雅黑\fs15}Drop and give me 20!
+Dialogue: 0,0:04:19.16,0:04:20.84,*Default,NTP,0000,0000,0000,,加油 哥们 保持住!\N{\fn微软雅黑\fs15}Come on, buddy, keep it going!
+Dialogue: 0,0:04:21.00,0:04:22.49,*Default,NTP,0000,0000,0000,,- 哦 华丽的转弯  - 下个项目是什么?\N{\fn微软雅黑\fs15}- Ooh, nice turn.  - What else you got?
+Dialogue: 0,0:04:22.64,0:04:24.44,*Default,NTP,0000,0000,0000,,现在我们练习一下树桩技巧\N{\fn微软雅黑\fs15}Okay. Now, let's try some treeline moguls.
+Dialogue: 0,0:04:24.60,0:04:25.84,*Default,NTP,0000,0000,0000,,好的!\N{\fn微软雅黑\fs15}Yeah!
+Dialogue: 0,0:04:26.36,0:04:28.44,*Default,NTP,0000,0000,0000,,一路上下俯冲\N{\fn微软雅黑\fs15}All the way up and down.
+Dialogue: 0,0:04:28.64,0:04:29.60,*Default,NTP,0000,0000,0000,,别摔着了\N{\fn微软雅黑\fs15}Don't be dogging it.
+Dialogue: 0,0:04:29.68,0:04:30.76,*Default,NTP,0000,0000,0000,,- 这就对了  - 哦 耶!\N{\fn微软雅黑\fs15}- That's how you do it.  - Ooh, yeah!
+Dialogue: 0,0:04:30.84,0:04:32.44,*Default,NTP,0000,0000,0000,,- 表现不错!  - 哈哈\N{\fn微软雅黑\fs15}- Looking good!  - Uh-huh.
+Dialogue: 0,0:04:32.68,0:04:36.44,*Default,NTP,0000,0000,0000,,接下来用你的佛衣调整倾斜角!\N{\fn微软雅黑\fs15}Okay, adjust your angle of bank with your alien irons!
+Dialogue: 0,0:04:33.68,0:04:36.24,*Default,NTP,0000,0000,0000,,{\an8}飞行竞速初学者手册
+Dialogue: 0,0:04:36.88,0:04:39.80,*Default,NTP,0000,0000,0000,,- 你说的是"副翼"吗?  - 哦 是的\N{\fn微软雅黑\fs15}- You mean "ailerons"?  - Oh, yeah.
+Dialogue: 0,0:04:40.04,0:04:41.69,*Default,NTP,0000,0000,0000,,这样好了\N{\fn微软雅黑\fs15}Oh, great.
+Dialogue: 0,0:04:42.04,0:04:45.69,*Default,NTP,0000,0000,0000,,{\an8}楚格和多蒂飞机加油站
+Dialogue: 0,0:04:42.20,0:04:43.85,*Default,NTP,0000,0000,0000,,输油管道及油冷却器没事\N{\fn微软雅黑\fs15}Oil lines and oil cooler check out.
+Dialogue: 0,0:04:43.92,0:04:44.92,*Default,NTP,0000,0000,0000,,嗯\N{\fn微软雅黑\fs15}Mmm-hmm.
+Dialogue: 0,0:04:45.08,0:04:47.65,*Default,NTP,0000,0000,0000,,- AN八件套也没问题  - 太好了\N{\fn微软雅黑\fs15}- AN-8 fittings look fine.  - Nice.
+Dialogue: 0,0:04:47.80,0:04:49.37,*Default,NTP,0000,0000,0000,,等一下\N{\fn微软雅黑\fs15}Wait a minute.
+Dialogue: 0,0:04:49.52,0:04:52.04,*Default,NTP,0000,0000,0000,,你的主轴承油封坏了\N{\fn微软雅黑\fs15}You've worn out your main oil-seal.
+Dialogue: 0,0:04:52.16,0:04:53.65,*Default,NTP,0000,0000,0000,,啊 是吗?\N{\fn微软雅黑\fs15}Huh. Really?
+Dialogue: 0,0:04:53.72,0:04:55.80,*Default,NTP,0000,0000,0000,,这种损坏通常是由极高速度飞行造成的\N{\fn微软雅黑\fs15}That kind of damage comes from extremely high speeds.
+Dialogue: 0,0:04:55.88,0:04:57.24,*Default,NTP,0000,0000,0000,,嘿!\N{\fn微软雅黑\fs15}Hey!
+Dialogue: 0,0:04:57.32,0:05:01.16,*Default,NTP,0000,0000,0000,,将引擎加速到警戒线以上时间过长\N{\fn微软雅黑\fs15}Pushing the engine to the red line for prolonged periods of time.
+Dialogue: 0,0:05:01.24,0:05:03.48,*Default,NTP,0000,0000,0000,,- 那样做不太明智  - 没理由发生在身上\N{\fn微软雅黑\fs15}- That would be unwise.  - But that's not you.
+Dialogue: 0,0:05:03.56,0:05:06.76,*Default,NTP,0000,0000,0000,,你只是一架作物喷粉机 喷粉时\N{\fn微软雅黑\fs15}You're a crop duster and all you do is just dust crops
+Dialogue: 0,0:05:06.92,0:05:09.96,*Default,NTP,0000,0000,0000,,- 飞行速度很慢  - 嗯 飞得又慢又低\N{\fn微软雅黑\fs15}- at very low speeds.  - Yep, low and slow.
+Dialogue: 0,0:05:10.20,0:05:12.85,*Default,NTP,0000,0000,0000,,除非你又想去比赛了!\N{\fn微软雅黑\fs15}Unless you've been racing again!
+Dialogue: 0,0:05:13.24,0:05:15.97,*Default,NTP,0000,0000,0000,,不! 就我这样? 不可能\N{\fn微软雅黑\fs15}No! What, me? No.
+Dialogue: 0,0:05:16.28,0:05:18.32,*Default,NTP,0000,0000,0000,,达斯迪 你真是太棒了\N{\fn微软雅黑\fs15}Oh, man, Duster, you were in the zone,
+Dialogue: 0,0:05:18.52,0:05:20.24,*Default,NTP,0000,0000,0000,,土星火箭也追不上你\N{\fn微软雅黑\fs15}where a Saturn rocket couldn't catch you!
+Dialogue: 0,0:05:20.40,0:05:21.40,*Default,NTP,0000,0000,0000,,发射!\N{\fn微软雅黑\fs15}Ballistic!
+Dialogue: 0,0:05:21.48,0:05:23.56,*Default,NTP,0000,0000,0000,,你就是光速 光速!\N{\fn微软雅黑\fs15}We're talking light speed. Light speed, here!
+Dialogue: 0,0:05:23.76,0:05:27.84,*Default,NTP,0000,0000,0000,,这周末的资格赛你一定能成功的\N{\fn微软雅黑\fs15}You're going to tear it up at the qualifier this weekend.
+Dialogue: 0,0:05:28.80,0:05:30.40,*Default,NTP,0000,0000,0000,,耶... 哦 棒极了\N{\fn微软雅黑\fs15}Yea... Oh, Shelby.
+Dialogue: 0,0:05:30.80,0:05:32.76,*Default,NTP,0000,0000,0000,,呃... 我不知道他在说什么\N{\fn微软雅黑\fs15}Um... I don't know.
+Dialogue: 0,0:05:33.12,0:05:35.48,*Default,NTP,0000,0000,0000,,达斯迪 你不能比赛\N{\fn微软雅黑\fs15}Dusty, you're not built to race.
+Dialogue: 0,0:05:35.64,0:05:37.48,*Default,NTP,0000,0000,0000,,你是给农作物喷粉的\N{\fn微软雅黑\fs15}You're built to dust crops.
+Dialogue: 0,0:05:37.72,0:05:40.00,*Default,NTP,0000,0000,0000,,你知不知道肆意妄为的后果是什么?\N{\fn微软雅黑\fs15}Do you know what will happen if you push it too far?
+Dialogue: 0,0:05:40.08,0:05:43.00,*Default,NTP,0000,0000,0000,,机翼颤抖 金属疲劳 最后引擎失灵\N{\fn微软雅黑\fs15}Wing flutter, metal fatigue, turbine failure.
+Dialogue: 0,0:05:43.20,0:05:45.77,*Default,NTP,0000,0000,0000,,- 引擎失灵?  - 哦 不 我要掉下去了!\N{\fn微软雅黑\fs15}- Turbine failure?  - Oh, no, I'm going down!
+Dialogue: 0,0:05:46.52,0:05:49.28,*Default,NTP,0000,0000,0000,,我为什么没听多蒂的话?\N{\fn微软雅黑\fs15}Why didn't I listen to Dottie?
+Dialogue: 0,0:05:49.44,0:05:50.93,*Default,NTP,0000,0000,0000,,是啊 你为什么不听多蒂的话?\N{\fn微软雅黑\fs15}Yeah, why don't you listen to Dottie?
+Dialogue: 0,0:05:51.16,0:05:52.88,*Default,NTP,0000,0000,0000,,她是这世界上最明智的机械师!\N{\fn微软雅黑\fs15}She's the smartest mechanic in the world!
+Dialogue: 0,0:05:52.96,0:05:54.04,*Default,NTP,0000,0000,0000,,- 哦 天啊!  - 怎么了?\N{\fn微软雅黑\fs15}- Oh, my gosh!  - What?
+Dialogue: 0,0:05:54.24,0:05:55.73,*Default,NTP,0000,0000,0000,,- 孤儿院!  - 不\N{\fn微软雅黑\fs15}- The orphanage!  - No.
+Dialogue: 0,0:05:55.92,0:05:57.00,*Default,NTP,0000,0000,0000,,- 不要撞到孤儿院!  - 孩子们 快跑!\N{\fn微软雅黑\fs15}- Not the orphanage!  - Kids, out of the way!
+Dialogue: 0,0:05:57.12,0:05:58.36,*Default,NTP,0000,0000,0000,,嘣!\N{\fn微软雅黑\fs15}Kaboom!
+Dialogue: 0,0:05:59.04,0:06:01.48,*Default,NTP,0000,0000,0000,,孩子们!\N{\fn微软雅黑\fs15}The kids!
+Dialogue: 0,0:06:06.52,0:06:10.28,*Default,NTP,0000,0000,0000,,哇! 真是生动形象的表演\N{\fn微软雅黑\fs15}Wow! That was vivid and specific.
+Dialogue: 0,0:06:10.36,0:06:13.64,*Default,NTP,0000,0000,0000,,所以我才希望你和我们一起去资格赛\N{\fn微软雅黑\fs15}And exactly why I need you to come with us to the qualifier.
+Dialogue: 0,0:06:13.80,0:06:14.80,*Default,NTP,0000,0000,0000,,难以置信\N{\fn微软雅黑\fs15}You're unbelievable.
+Dialogue: 0,0:06:14.96,0:06:17.16,*Default,NTP,0000,0000,0000,,听到了吗? 他说我难以置信\N{\fn微软雅黑\fs15}Oh. Did you hear that? I'm unbelievable.
+Dialogue: 0,0:06:17.32,0:06:19.48,*Default,NTP,0000,0000,0000,,可怜的孤儿们!\N{\fn微软雅黑\fs15}The orphans!
+Dialogue: 0,0:06:22.68,0:06:25.68,*Default,NTP,0000,0000,0000,,欢迎观看本期节目 两周后环球之翼比赛即将开始\N{\fn微软雅黑\fs15}Tune in, in two weeks for the start of the Wings Around the Globe.
+Dialogue: 0,0:06:26.36,0:06:28.28,*Default,NTP,0000,0000,0000,,知道吗 这次该我们大显身手了 兄弟\N{\fn微软雅黑\fs15}You know, I think we've got a really good shot at this, buddy.
+Dialogue: 0,0:06:28.36,0:06:30.96,*Default,NTP,0000,0000,0000,,是啊! 希望那时我能看完这本书\N{\fn微软雅黑\fs15}Oh, yeah! Especially if I finish this book by then.
+Dialogue: 0,0:06:31.24,0:06:32.65,*Default,NTP,0000,0000,0000,,哦! 这个节目我喜欢!\N{\fn微软雅黑\fs15}Oh! I love this show!
+Dialogue: 0,0:06:33.04,0:06:35.69,*Default,NTP,0000,0000,0000,,史上最壮烈的10次坠落!\N{\fn微软雅黑\fs15}The 10 best air crashes of all time!
+Dialogue: 0,0:06:35.80,0:06:37.08,*Default,NTP,0000,0000,0000,,- 哇! 啊  - 坏了\N{\fn微软雅黑\fs15}- Whoa! Oh.  - Not good.
+Dialogue: 0,0:06:37.16,0:06:38.32,*Default,NTP,0000,0000,0000,,怎么会这样?\N{\fn微软雅黑\fs15}How does that happen?
+Dialogue: 0,0:06:42.32,0:06:43.97,*Default,NTP,0000,0000,0000,,这些可没什么帮助\N{\fn微软雅黑\fs15}That is not going to buff out.
+Dialogue: 0,0:06:44.04,0:06:48.48,*Default,NTP,0000,0000,0000,,或许这里没有收录比赛可能遇到的所有情况\N{\fn微软雅黑\fs15}You know, this might not cover everything you could run into out there.
+Dialogue: 0,0:06:48.64,0:06:50.40,*Default,NTP,0000,0000,0000,,- 那你说还有什么?  - 不知道\N{\fn微软雅黑\fs15}- What are you getting at?  - I don't know.
+Dialogue: 0,0:06:50.48,0:06:54.08,*Default,NTP,0000,0000,0000,,我在想 我们是不是得找个人帮忙\N{\fn微软雅黑\fs15}I'm just wondering if maybe we need, uh, some help.
+Dialogue: 0,0:06:54.16,0:06:55.28,*Default,NTP,0000,0000,0000,,帮忙? 找谁?\N{\fn微软雅黑\fs15}Help? From who?
+Dialogue: 0,0:06:55.36,0:06:57.28,*Default,NTP,0000,0000,0000,,哦 比如斯基珀\N{\fn微软雅黑\fs15}Oh, well, like the Skipper.
+Dialogue: 0,0:06:57.44,0:06:59.24,*Default,NTP,0000,0000,0000,,就是那个破旧的"海盗"号\N{\fn微软雅黑\fs15}That old Corsair down at the end of the runway?
+Dialogue: 0,0:06:59.52,0:07:01.52,*Default,NTP,0000,0000,0000,,- 没错 他是个战争英雄  - 就他那老身子骨\N{\fn微软雅黑\fs15}- Sure, he's a war hero.  - He's an old crankshaft.
+Dialogue: 0,0:07:01.60,0:07:03.17,*Default,NTP,0000,0000,0000,,我哥们斯帕奇说\N{\fn微软雅黑\fs15}My buddy, Sparky, says the Skipper
+Dialogue: 0,0:07:03.36,0:07:05.96,*Default,NTP,0000,0000,0000,,斯基珀曾是海军传奇教员\N{\fn微软雅黑\fs15}was a legendary flight instructor in the navy.
+Dialogue: 0,0:07:06.04,0:07:07.76,*Default,NTP,0000,0000,0000,,没错 他精通一切\N{\fn微软雅黑\fs15}That's right. He knows stuff.
+Dialogue: 0,0:07:07.84,0:07:09.17,*Default,NTP,0000,0000,0000,,他已经十几年没飞行了\N{\fn微软雅黑\fs15}He's been grounded for decades.
+Dialogue: 0,0:07:09.28,0:07:11.96,*Default,NTP,0000,0000,0000,,我为什么要请一个不再飞行的飞机当我的教练?\N{\fn微软雅黑\fs15}Why would I want to be coached by a plane who doesn't even fly?
+Dialogue: 0,0:07:12.04,0:07:13.69,*Default,NTP,0000,0000,0000,,最起码他是个飞机啊\N{\fn微软雅黑\fs15}At least he's a plane.
+Dialogue: 0,0:07:13.76,0:07:16.44,*Default,NTP,0000,0000,0000,,史上最壮烈的坠落第一...\N{\fn微软雅黑\fs15}The number one crash of all time...
+Dialogue: 0,0:07:16.52,0:07:17.60,*Default,NTP,0000,0000,0000,,哦 天啊!\N{\fn微软雅黑\fs15}Oh, man!
+Dialogue: 0,0:07:17.68,0:07:18.72,*Default,NTP,0000,0000,0000,,我没事\N{\fn微软雅黑\fs15}I'm okay.
+Dialogue: 0,0:07:20.68,0:07:22.92,*Default,NTP,0000,0000,0000,,哦! 肯定很疼\N{\fn微软雅黑\fs15}Ooh! That's got to hurt.
+Dialogue: 0,0:07:29.20,0:07:31.72,*Default,NTP,0000,0000,0000,,据说他击落了50架飞机\N{\fn微软雅黑\fs15}They say he shot down 50 planes.
+Dialogue: 0,0:07:31.88,0:07:35.16,*Default,NTP,0000,0000,0000,,我听过很多他们乔利扳手中队的故事\N{\fn微软雅黑\fs15}I heard stories about his squadron, the Jolly Wrenches.
+Dialogue: 0,0:07:35.48,0:07:36.48,*Default,NTP,0000,0000,0000,,嗯\N{\fn微软雅黑\fs15}Mmm-hmm.
+Dialogue: 0,0:07:36.60,0:07:40.04,*Default,NTP,0000,0000,0000,,他们是海军里最凶猛强悍的飞行中队\N{\fn微软雅黑\fs15}They were the roughest, toughest, meanest flyers in the navy.
+Dialogue: 0,0:07:40.20,0:07:42.93,*Default,NTP,0000,0000,0000,,杀人不眨眼\N{\fn微软雅黑\fs15}Ruthless killers who showed no mercy.
+Dialogue: 0,0:07:43.04,0:07:45.16,*Default,NTP,0000,0000,0000,,- 等一下...  - 不眨眼!\N{\fn微软雅黑\fs15}- Uh, wait, so...  - No mercy!
+Dialogue: 0,0:07:45.80,0:07:48.77,*Default,NTP,0000,0000,0000,,只要他们看到你 就会向你射击\N{\fn微软雅黑\fs15}They would shoot you as soon as look at you.
+Dialogue: 0,0:07:49.40,0:07:51.40,*Default,NTP,0000,0000,0000,,希望你准备好了\N{\fn微软雅黑\fs15}I hope you're right about this.
+Dialogue: 0,0:07:52.24,0:07:53.40,*Default,NTP,0000,0000,0000,,楚格!\N{\fn微软雅黑\fs15}Chug!
+Dialogue: 0,0:07:53.80,0:07:54.92,*Default,NTP,0000,0000,0000,,我在这里等你\N{\fn微软雅黑\fs15}I'll wait here.
+Dialogue: 0,0:08:01.24,0:08:02.57,*Default,NTP,0000,0000,0000,,嗯...\N{\fn微软雅黑\fs15}Uh...
+Dialogue: 0,0:08:04.64,0:08:06.92,*Default,NTP,0000,0000,0000,,你好 斯基珀\N{\fn微软雅黑\fs15}Hey, there, Skipper.
+Dialogue: 0,0:08:07.08,0:08:11.16,*Default,NTP,0000,0000,0000,,是这样的 我正在准备环球之翼飞行大赛\N{\fn微软雅黑\fs15}Say, I'm trying out for the Wings Around the Globe Rally.
+Dialogue: 0,0:08:11.32,0:08:14.48,*Default,NTP,0000,0000,0000,,我知道你不能再飞了\N{\fn微软雅黑\fs15}And I know you can't fly anymore,
+Dialogue: 0,0:08:14.68,0:08:19.76,*Default,NTP,0000,0000,0000,,但有句话叫"不能做的飞机可以当老师"\N{\fn微软雅黑\fs15}but, you know, they say, "Those who can't do, teach."
+Dialogue: 0,0:08:19.92,0:08:21.96,*Default,NTP,0000,0000,0000,,所以...\N{\fn微软雅黑\fs15}So...
+Dialogue: 0,0:08:22.08,0:08:25.24,*Default,NTP,0000,0000,0000,,我是想说 你比卡车要强得多了\N{\fn微软雅黑\fs15}Okay, what I mean to say is, you're not a truck.
+Dialogue: 0,0:08:25.32,0:08:28.80,*Default,NTP,0000,0000,0000,,所以你能不能指导我一下?\N{\fn微软雅黑\fs15}So, I was wondering if you would train me?
+Dialogue: 0,0:08:32.60,0:08:35.33,*Default,NTP,0000,0000,0000,,再接再厉 他接纳你了\N{\fn微软雅黑\fs15}Go on, he's warming up to you.
+Dialogue: 0,0:08:37.96,0:08:40.40,*Default,NTP,0000,0000,0000,,听说你曾击落了50架飞机\N{\fn微软雅黑\fs15}So, I heard you shot down 50 planes.
+Dialogue: 0,0:08:40.60,0:08:42.36,*Default,NTP,0000,0000,0000,,你想成为第51架?\N{\fn微软雅黑\fs15}You looking to be number 51?
+Dialogue: 0,0:08:42.52,0:08:44.44,*Default,NTP,0000,0000,0000,,呃... 不想\N{\fn微软雅黑\fs15}Uh... No.
+Dialogue: 0,0:08:44.64,0:08:45.80,*Default,NTP,0000,0000,0000,,别这样! 等一下\N{\fn微软雅黑\fs15}No, no, no! Wait, wait.
+Dialogue: 0,0:08:45.92,0:08:48.96,*Default,NTP,0000,0000,0000,,我想... 以我的头脑加上你的经验...\N{\fn微软雅黑\fs15}I just... I figured, with my guts and your glory...
+Dialogue: 0,0:08:49.04,0:08:52.48,*Default,NTP,0000,0000,0000,,要是不想你的头脑变成润滑油被涂在跑道上\N{\fn微软雅黑\fs15}Your guts would be a grease spot on a runway somewhere.
+Dialogue: 0,0:08:52.76,0:08:54.88,*Default,NTP,0000,0000,0000,,赶紧回家吧 别想那些不实际的 孩子\N{\fn微软雅黑\fs15}Go home. You're in over your head, kid.
+Dialogue: 0,0:08:54.96,0:08:56.84,*Default,NTP,0000,0000,0000,,你曾飞行过那么多...\N{\fn微软雅黑\fs15}Look, you flew all those...
+Dialogue: 0,0:09:01.64,0:09:03.96,*Default,NTP,0000,0000,0000,,我们去后门再试试\N{\fn微软雅黑\fs15}Let's try the back door.
+Dialogue: 0,0:09:08.94,0:09:13.70,*Default,NTP,0000,0000,0000,,{\an8}内布拉斯加州 林肯市
+Dialogue: 0,0:09:10.64,0:09:14.00,*Default,NTP,0000,0000,0000,,- 早上好 林肯市!  - 嘿 达斯迪!\N{\fn微软雅黑\fs15}- Hello, Lincoln!  - Hey, Dusty!
+Dialogue: 0,0:09:14.88,0:09:17.56,*Default,NTP,0000,0000,0000,,真不知道我为什么要跟你们一块来\N{\fn微软雅黑\fs15}I don't know how you talked me into coming to this.
+Dialogue: 0,0:09:17.64,0:09:18.72,*Default,NTP,0000,0000,0000,,来吧 多蒂\N{\fn微软雅黑\fs15}Now, come on, Dottie.
+Dialogue: 0,0:09:18.80,0:09:22.64,*Default,NTP,0000,0000,0000,,哇! 难以置信 那是红尾野马!\N{\fn微软雅黑\fs15}Wow! I don't believe it. A Red Tail P-51!
+Dialogue: 0,0:09:22.72,0:09:24.80,*Default,NTP,0000,0000,0000,,哦 天啊! 是海怒!\N{\fn微软雅黑\fs15}Oh, man! A Sea Fury!
+Dialogue: 0,0:09:25.48,0:09:27.48,*Default,NTP,0000,0000,0000,,快看啊!\N{\fn微软雅黑\fs15}Check it out!
+Dialogue: 0,0:09:28.72,0:09:29.72,*Default,NTP,0000,0000,0000,,哇!\N{\fn微软雅黑\fs15}Wow!
+Dialogue: 0,0:09:30.72,0:09:33.04,*Default,NTP,0000,0000,0000,,女士们先生们\N{\fn微软雅黑\fs15}Ladies and gentleplanes.
+Dialogue: 0,0:09:33.16,0:09:35.20,*Default,NTP,0000,0000,0000,,请大家注意了\N{\fn微软雅黑\fs15}May we have your attention, please?
+Dialogue: 0,0:09:35.36,0:09:37.84,*Default,NTP,0000,0000,0000,,请将您的挡风玻璃朝向天空\N{\fn微软雅黑\fs15}Kindly direct your windscreens to the heavens above
+Dialogue: 0,0:09:38.08,0:09:41.32,*Default,NTP,0000,0000,0000,,热烈欢迎我们的特别来宾\N{\fn微软雅黑\fs15}and give a warm welcome to our special guest.
+Dialogue: 0,0:09:41.48,0:09:43.52,*Default,NTP,0000,0000,0000,,螺旋桨王子\N{\fn微软雅黑\fs15}The Prince of Propellers.
+Dialogue: 0,0:09:43.60,0:09:45.52,*Default,NTP,0000,0000,0000,,一直被模仿\N{\fn微软雅黑\fs15}When he's speeding, he's leading.
+Dialogue: 0,0:09:45.72,0:09:47.16,*Default,NTP,0000,0000,0000,,快把我英俊的侧影照下来\N{\fn微软雅黑\fs15}Get my good side, fellas.
+Dialogue: 0,0:09:48.60,0:09:51.36,*Default,NTP,0000,0000,0000,,却从未被超越\N{\fn微软雅黑\fs15}When he's grinning, he's winning.
+Dialogue: 0,0:09:52.52,0:09:54.92,*Default,NTP,0000,0000,0000,,有请独一无二的\N{\fn微软雅黑\fs15}The one and only
+Dialogue: 0,0:09:55.08,0:09:57.52,*Default,NTP,0000,0000,0000,,里普斯林杰!\N{\fn微软雅黑\fs15}Ripslinger!
+Dialogue: 0,0:09:58.56,0:10:00.68,*Default,NTP,0000,0000,0000,,你们被我的拉烟包围啦\N{\fn微软雅黑\fs15}You're caught in the riptide!
+Dialogue: 0,0:10:00.84,0:10:02.64,*Default,NTP,0000,0000,0000,,欢迎你的到来\N{\fn微软雅黑\fs15}Thanks for coming out.
+Dialogue: 0,0:10:02.72,0:10:05.04,*Default,NTP,0000,0000,0000,,谁想照相? 好的 一个一个来\N{\fn微软雅黑\fs15}Who wants a picture? All right, one at a time.
+Dialogue: 0,0:10:05.12,0:10:08.09,*Default,NTP,0000,0000,0000,,除了那些自我吹嘘 他还是很谦虚的嘛\N{\fn微软雅黑\fs15}Well, with all that self-promotion, at least he's modest.
+Dialogue: 0,0:10:08.24,0:10:10.36,*Default,NTP,0000,0000,0000,,多蒂 那可是里普斯林杰\N{\fn微软雅黑\fs15}Dottie, that's Ripslinger.
+Dialogue: 0,0:10:10.52,0:10:13.44,*Default,NTP,0000,0000,0000,,他是RPX飞行队的队长 人们叫他...\N{\fn微软雅黑\fs15}He's captain of Team RPX. They call him...
+Dialogue: 0,0:10:13.60,0:10:15.44,*Default,NTP,0000,0000,0000,,绿色风暴\N{\fn微软雅黑\fs15}The Green Tornado.
+Dialogue: 0,0:10:15.60,0:10:18.25,*Default,NTP,0000,0000,0000,,他太棒了 直接晋级\N{\fn微软雅黑\fs15}Oh, he's so good, he's pre-qualified.
+Dialogue: 0,0:10:18.60,0:10:20.20,*Default,NTP,0000,0000,0000,,哦 这两位是内德和扎德\N{\fn微软雅黑\fs15}Oh. And those two, Ned and Zed.
+Dialogue: 0,0:10:20.64,0:10:21.64,*Default,NTP,0000,0000,0000,,涡轮两兄弟\N{\fn微软雅黑\fs15}The Twin Turbos.
+Dialogue: 0,0:10:21.76,0:10:23.09,*Default,NTP,0000,0000,0000,,他们是世界级选手\N{\fn微软雅黑\fs15}They're world-class racers.
+Dialogue: 0,0:10:23.24,0:10:28.12,*Default,NTP,0000,0000,0000,,知道吗 据说他们曾是一架飞机 出生的时候分裂成了两架\N{\fn微软雅黑\fs15}You know, I hear they used to be one plane and were separated at birth.
+Dialogue: 0,0:10:28.36,0:10:31.48,*Default,NTP,0000,0000,0000,,哇 真希望我出生的时候也分裂成两辆车\N{\fn微软雅黑\fs15}Wow. I wish I was separated at birth.
+Dialogue: 0,0:10:31.88,0:10:32.88,*Default,NTP,0000,0000,0000,,观众们...\N{\fn微软雅黑\fs15}Okay, people...
+Dialogue: 0,0:10:32.96,0:10:35.96,*Default,NTP,0000,0000,0000,,今天是四场预选赛中的最后一站\N{\fn微软雅黑\fs15}this is the last of four time trials being held worldwide.
+Dialogue: 0,0:10:36.04,0:10:39.12,*Default,NTP,0000,0000,0000,,今天的比赛项目是围绕桥塔飞行\N{\fn微软雅黑\fs15}Today's qualifying round is one lap around the pylons.
+Dialogue: 0,0:10:39.72,0:10:44.28,*Default,NTP,0000,0000,0000,,成绩最好五架飞机有资格晋级环球之翼\N{\fn微软雅黑\fs15}The top five finishers will qualify for the Wings Around the Globe Rally.
+Dialogue: 0,0:10:44.40,0:10:45.48,*Default,NTP,0000,0000,0000,,拭目以待吧\N{\fn微软雅黑\fs15}Oh, yeah.
+Dialogue: 0,0:10:45.64,0:10:47.36,*Default,NTP,0000,0000,0000,,弗扎雷利 该你上场了\N{\fn微软雅黑\fs15}Fonzarelli, you're up, my man.
+Dialogue: 0,0:10:48.72,0:10:50.76,*Default,NTP,0000,0000,0000,,哦 真是恶心\N{\fn微软雅黑\fs15}Oh, man! That's nasty.
+Dialogue: 0,0:10:54.92,0:10:57.16,*Default,NTP,0000,0000,0000,,他飞过了起飞线!\N{\fn微软雅黑\fs15}And he's through the start gate!
+Dialogue: 0,0:10:57.32,0:10:59.76,*Default,NTP,0000,0000,0000,,参赛飞机必须水平飞过蓝色桥塔\N{\fn微软雅黑\fs15}The racers must pass through the blue pylons on the horizontal
+Dialogue: 0,0:10:59.92,0:11:02.28,*Default,NTP,0000,0000,0000,,然后垂直从红色桥塔之间穿过\N{\fn微软雅黑\fs15}and around the red pylons on the knife-edge.
+Dialogue: 0,0:11:03.16,0:11:05.16,*Default,NTP,0000,0000,0000,,他到了三号门!\N{\fn微软雅黑\fs15}Now he's coming back to Gate Three!
+Dialogue: 0,0:11:05.24,0:11:06.84,*Default,NTP,0000,0000,0000,,飞得漂亮 兄弟\N{\fn微软雅黑\fs15}Nicely done, my man.
+Dialogue: 0,0:11:06.92,0:11:10.16,*Default,NTP,0000,0000,0000,,他在这个蓝色桥塔飞得比较高\N{\fn微软雅黑\fs15}Setting himself up a little high through the blue pylons there,
+Dialogue: 0,0:11:10.24,0:11:11.24,*Default,NTP,0000,0000,0000,,是在为前面的方阵做准备\N{\fn微软雅黑\fs15}lining up for the quadro.
+Dialogue: 0,0:11:11.44,0:11:14.84,*Default,NTP,0000,0000,0000,,他以一个高难度270度的大转弯完成了右转! 太棒了!\N{\fn微软雅黑\fs15}He's taking a hard right with a 270-degree high-G turn! Yeah!
+Dialogue: 0,0:11:15.00,0:11:16.92,*Default,NTP,0000,0000,0000,,他飞回来了 哇!\N{\fn微软雅黑\fs15}Back all the way around. Whoo!
+Dialogue: 0,0:11:17.08,0:11:20.12,*Default,NTP,0000,0000,0000,,- 顺利通过 哈! 太棒了 兄弟!  - 他真厉害\N{\fn微软雅黑\fs15}- Cleanly through. Ha! Look at you, man!  - That guy's good.
+Dialogue: 0,0:11:20.40,0:11:22.76,*Default,NTP,0000,0000,0000,,无懈可击的动作 速度很快\N{\fn微软雅黑\fs15}It doesn't get much better than that. All right. Good speed.
+Dialogue: 0,0:11:22.92,0:11:25.92,*Default,NTP,0000,0000,0000,,接下来是三塔阵 需要极强的倾斜控制力\N{\fn微软雅黑\fs15}Lining up for the three-pylon chicane, amazing pitch control.
+Dialogue: 0,0:11:26.12,0:11:27.88,*Default,NTP,0000,0000,0000,,流畅! 迅速! 轻松通过!\N{\fn微软雅黑\fs15}Smooth! Fast! Clean!
+Dialogue: 0,0:11:28.24,0:11:29.44,*Default,NTP,0000,0000,0000,,他来到了最后一轮\N{\fn微软雅黑\fs15}He's going into the final turn,
+Dialogue: 0,0:11:29.60,0:11:32.64,*Default,NTP,0000,0000,0000,,垂直8字动作 至少需要9.2倍过载的转向\N{\fn微软雅黑\fs15}into the half-Cuban 8, pulling an aggressive 9.2 Gs.
+Dialogue: 0,0:11:32.80,0:11:34.45,*Default,NTP,0000,0000,0000,,他开始爬升了!\N{\fn微软雅黑\fs15}Attacking the climb!
+Dialogue: 0,0:11:34.60,0:11:35.93,*Default,NTP,0000,0000,0000,,哇 速度真快\N{\fn微软雅黑\fs15}Wow. Now that's some speed.
+Dialogue: 0,0:11:36.36,0:11:39.92,*Default,NTP,0000,0000,0000,,观众们 他完美地完成垂直8字动作\N{\fn微软雅黑\fs15}Coming out of the Cuban 8 at the end of a fantastic first run, people.
+Dialogue: 0,0:11:40.00,0:11:41.24,*Default,NTP,0000,0000,0000,,成绩是1分24秒16\N{\fn微软雅黑\fs15}A 01.24.16.
+Dialogue: 0,0:11:42.08,0:11:44.32,*Default,NTP,0000,0000,0000,,其他对手想要超越可很难啊\N{\fn微软雅黑\fs15}A very good time for the other racers to try and beat.
+Dialogue: 0,0:11:45.32,0:11:47.28,*Default,NTP,0000,0000,0000,,他快速穿过了红色桥塔\N{\fn微软雅黑\fs15}Fast, tight through the pylons.
+Dialogue: 0,0:11:47.44,0:11:48.96,*Default,NTP,0000,0000,0000,,表现得不错\N{\fn微软雅黑\fs15}He's got a great pace going, here.
+Dialogue: 0,0:11:49.16,0:11:50.65,*Default,NTP,0000,0000,0000,,他只落后了半秒\N{\fn微软雅黑\fs15}He's just a half a second behind.
+Dialogue: 0,0:11:50.72,0:11:52.48,*Default,NTP,0000,0000,0000,,- 哦! 引擎失灵!  - 哦!\N{\fn微软雅黑\fs15}- Oh! Engine failure!  - Oh!
+Dialogue: 0,0:11:52.64,0:11:54.08,*Default,NTP,0000,0000,0000,,你的比赛结束 拜拜\N{\fn微软雅黑\fs15}Out of the race. Bye-bye.
+Dialogue: 0,0:11:54.40,0:11:55.68,*Default,NTP,0000,0000,0000,,表现得不错 不过注意时间\N{\fn微软雅黑\fs15}Great performance. Watch the clock here.
+Dialogue: 0,0:11:55.96,0:11:57.64,*Default,NTP,0000,0000,0000,,我都着急了 接下来是蓝色大门\N{\fn微软雅黑\fs15}I can't wait. Lining up for the Blue Gate.
+Dialogue: 0,0:11:57.80,0:12:00.00,*Default,NTP,0000,0000,0000,,哦 不 他没做好! 这要被罚分的\N{\fn微软雅黑\fs15}Oh, no, he did not! That's a major penalty.
+Dialogue: 0,0:12:00.28,0:12:02.24,*Default,NTP,0000,0000,0000,,- 不好意思了 兄弟  - 第八位\N{\fn微软雅黑\fs15}- Sorry, dude.  - Eighth place.
+Dialogue: 0,0:12:02.32,0:12:03.81,*Default,NTP,0000,0000,0000,,速度真快\N{\fn微软雅黑\fs15}Talk about fast.
+Dialogue: 0,0:12:03.96,0:12:06.24,*Default,NTP,0000,0000,0000,,完成了垂直8字\N{\fn微软雅黑\fs15}Coming out the Cuban 8.
+Dialogue: 0,0:12:07.20,0:12:08.64,*Default,NTP,0000,0000,0000,,整装待发 兄弟\N{\fn微软雅黑\fs15}Fueled and ready, man.
+Dialogue: 0,0:12:08.80,0:12:10.64,*Default,NTP,0000,0000,0000,,好了 该你了\N{\fn微软雅黑\fs15}Okay, bud, you're up.
+Dialogue: 0,0:12:10.80,0:12:12.21,*Default,NTP,0000,0000,0000,,一切就绪\N{\fn微软雅黑\fs15}Good and tight.
+Dialogue: 0,0:12:12.32,0:12:13.56,*Default,NTP,0000,0000,0000,,- 都准备好了  - 今天的比赛十分精彩\N{\fn微软雅黑\fs15}- All set.  - It's been a wonderful day here,
+Dialogue: 0,0:12:13.64,0:12:15.05,*Default,NTP,0000,0000,0000,,还有最后一位参赛者\N{\fn微软雅黑\fs15}and we're down to our last competitor.
+Dialogue: 0,0:12:15.16,0:12:16.57,*Default,NTP,0000,0000,0000,,该走了\N{\fn微软雅黑\fs15}This is it.
+Dialogue: 0,0:12:17.56,0:12:21.16,*Default,NTP,0000,0000,0000,,来自普罗普沃什镇的中流·砥柱\N{\fn微软雅黑\fs15}From Propwash Junction, Strut Jetstream.
+Dialogue: 0,0:12:21.48,0:12:22.97,*Default,NTP,0000,0000,0000,,"中流砥柱"?\N{\fn微软雅黑\fs15}"Strut Jetstream"?
+Dialogue: 0,0:12:23.04,0:12:26.96,*Default,NTP,0000,0000,0000,,是哦 史上最酷的呼号 我想出来的\N{\fn微软雅黑\fs15}Yep. Awesomest call sign ever. It was my idea.
+Dialogue: 0,0:12:27.04,0:12:29.24,*Default,NTP,0000,0000,0000,,- 好吧 怪不得  - 嘿 农业机!\N{\fn微软雅黑\fs15}- Ah. That explains it.  - Hey, ag-plane!
+Dialogue: 0,0:12:29.68,0:12:33.73,*Default,NTP,0000,0000,0000,,园艺活昨天就收工了 伙计 离开跑道 我们正比赛呢\N{\fn微软雅黑\fs15}Landscaping was yesterday, man. Get off the runway. We're racing, here.
+Dialogue: 0,0:12:33.84,0:12:35.88,*Default,NTP,0000,0000,0000,,- 再次呼叫中流·砥柱  - 不 不 停!\N{\fn微软雅黑\fs15}- Second call for Strut Jetstream.  - No, no, no!
+Dialogue: 0,0:12:35.96,0:12:38.61,*Default,NTP,0000,0000,0000,,- 我们在找...  - 是的! 我就是中流砥柱\N{\fn微软雅黑\fs15}- Looking for...  - Yo! I'm Strut Jetstream.
+Dialogue: 0,0:12:38.68,0:12:40.01,*Default,NTP,0000,0000,0000,,- 你是中流砥柱?  - 是的\N{\fn微软雅黑\fs15}- You are Strut Jetstream?  - Yep.
+Dialogue: 0,0:12:40.08,0:12:41.41,*Default,NTP,0000,0000,0000,,作物喷粉机? 哥们 这到底是怎么回事?\N{\fn微软雅黑\fs15}A crop duster? Man, what's going on here?
+Dialogue: 0,0:12:42.56,0:12:43.60,*Default,NTP,0000,0000,0000,,是个飞机就能比赛吗?\N{\fn微软雅黑\fs15}Is everybody getting to fly today?
+Dialogue: 0,0:12:43.68,0:12:45.88,*Default,NTP,0000,0000,0000,,哥们 你妈妈真是望子成龙啊\N{\fn微软雅黑\fs15}Man, your momma must have had high hopes for you.
+Dialogue: 0,0:12:46.20,0:12:48.32,*Default,NTP,0000,0000,0000,,听着 你知道你生来是为了庄稼的 不是来拼速度的\N{\fn微软雅黑\fs15}Now, you know you are built for seed, not speed.
+Dialogue: 0,0:12:48.48,0:12:49.68,*Default,NTP,0000,0000,0000,,开什么玩笑\N{\fn微软雅黑\fs15}You have got to be kidding me.
+Dialogue: 0,0:12:49.84,0:12:51.28,*Default,NTP,0000,0000,0000,,那个乡巴佬也要来参赛?\N{\fn微软雅黑\fs15}That farmer's going to race?
+Dialogue: 0,0:12:51.36,0:12:53.56,*Default,NTP,0000,0000,0000,,说真的 就凭这么小的螺旋桨?\N{\fn微软雅黑\fs15}Seriously, with a prop that small?
+Dialogue: 0,0:12:53.72,0:12:55.21,*Default,NTP,0000,0000,0000,,他可能是和旁边那辆漏油的\N{\fn微软雅黑\fs15}Maybe he races that leaky,
+Dialogue: 0,0:12:55.72,0:12:56.76,*Default,NTP,0000,0000,0000,,破旧的老卡车比赛吧\N{\fn微软雅黑\fs15}old fuel truck next to him.
+Dialogue: 0,0:12:56.84,0:12:57.96,*Default,NTP,0000,0000,0000,,说谁漏油呢?\N{\fn微软雅黑\fs15}Who are you calling leaky?
+Dialogue: 0,0:12:58.12,0:13:00.08,*Default,NTP,0000,0000,0000,,话这么多嘴干不 我漏点给你洗嘴巴\N{\fn微软雅黑\fs15}I'll leak on you, if you don't check your intake.
+Dialogue: 0,0:13:00.32,0:13:02.12,*Default,NTP,0000,0000,0000,,别和他们一般见识\N{\fn微软雅黑\fs15}Don't lower yourself to their level.
+Dialogue: 0,0:13:02.20,0:13:04.60,*Default,NTP,0000,0000,0000,,加油啊 达斯... 加油 砥柱\N{\fn微软雅黑\fs15}Go on Dus... Go on, Strut.
+Dialogue: 0,0:13:05.20,0:13:06.53,*Default,NTP,0000,0000,0000,,那家伙是谁?\N{\fn微软雅黑\fs15}Who's that guy?
+Dialogue: 0,0:13:06.72,0:13:08.13,*Default,NTP,0000,0000,0000,,- 你还真打算试试?  - 作物喷粉机?\N{\fn微软雅黑\fs15}- You're going to try out?  - A crop duster?
+Dialogue: 0,0:13:08.52,0:13:09.93,*Default,NTP,0000,0000,0000,,玉米地在那边\N{\fn微软雅黑\fs15}Cornfield is over that way.
+Dialogue: 0,0:13:10.12,0:13:12.12,*Default,NTP,0000,0000,0000,,请了天假就为了尝尝失败的滋味!\N{\fn微软雅黑\fs15}Nice of you to take the day off just to lose!
+Dialogue: 0,0:13:15.72,0:13:16.96,*Default,NTP,0000,0000,0000,,去吧 达斯迪!\N{\fn微软雅黑\fs15}Go, Duster!
+Dialogue: 0,0:13:17.28,0:13:20.48,*Default,NTP,0000,0000,0000,,想把弗扎雷利从第五挤下来简直是天方夜谭\N{\fn微软雅黑\fs15}It's going to be a tall order for him to knock Fonzarelli out of fifth place.
+Dialogue: 0,0:13:21.92,0:13:23.12,*Default,NTP,0000,0000,0000,,他起飞啦!\N{\fn微软雅黑\fs15}And he's off!
+Dialogue: 0,0:13:23.36,0:13:24.36,*Default,NTP,0000,0000,0000,,好吧 开始飞得还有所保留\N{\fn微软雅黑\fs15}Well, he's starting a little conservative.
+Dialogue: 0,0:13:24.48,0:13:25.48,*Default,NTP,0000,0000,0000,,有点看头\N{\fn微软雅黑\fs15}This ought to be rich.
+Dialogue: 0,0:13:25.56,0:13:27.88,*Default,NTP,0000,0000,0000,,时速193英里\N{\fn微软雅黑\fs15}193 miles per hour.
+Dialogue: 0,0:13:28.20,0:13:30.68,*Default,NTP,0000,0000,0000,,他来到了2号门 稳稳地平飞通过\N{\fn微软雅黑\fs15}He's into Gate Two, clean through the horizontal.
+Dialogue: 0,0:13:30.88,0:13:33.56,*Default,NTP,0000,0000,0000,,搞什么? 他还真能割草啊\N{\fn微软雅黑\fs15}What? He's practically mowing the lawn.
+Dialogue: 0,0:13:33.72,0:13:34.72,*Default,NTP,0000,0000,0000,,帮我修修草坪吧 哥们\N{\fn微软雅黑\fs15}Come to my house, man.
+Dialogue: 0,0:13:36.00,0:13:37.52,*Default,NTP,0000,0000,0000,,好的 第一节结束 他落后弗扎雷利整整一秒钟\N{\fn微软雅黑\fs15}Okay. At the first split, he's a full second behind Fonzarelli.
+Dialogue: 0,0:13:37.60,0:13:40.36,*Default,NTP,0000,0000,0000,,是的 差了不少时间 不过这家伙还挺有闯劲的\N{\fn微软雅黑\fs15}Yo, that's a lot of time to make up, but this guy's aggressive.
+Dialogue: 0,0:13:40.44,0:13:42.88,*Default,NTP,0000,0000,0000,,现在他在在做高难度270度大转弯\N{\fn微软雅黑\fs15}Now he's making that hard 270-degree high-G turn!
+Dialogue: 0,0:13:43.08,0:13:44.20,*Default,NTP,0000,0000,0000,,哇! 做的好!\N{\fn微软雅黑\fs15}Whoo! That's it!
+Dialogue: 0,0:13:44.28,0:13:45.85,*Default,NTP,0000,0000,0000,,准备好了 垂直左转\N{\fn微软雅黑\fs15}Setting himself up. Left vertical turn.
+Dialogue: 0,0:13:45.92,0:13:47.84,*Default,NTP,0000,0000,0000,,对准3塔阵\N{\fn微软雅黑\fs15}Lining up for the three-pylon chicane.
+Dialogue: 0,0:13:48.00,0:13:49.08,*Default,NTP,0000,0000,0000,,他在加速\N{\fn微软雅黑\fs15}He's gaining speed.
+Dialogue: 0,0:13:49.16,0:13:51.24,*Default,NTP,0000,0000,0000,,现在 他只落后弗扎雷利半秒钟了\N{\fn微软雅黑\fs15}Now, he's only half a second behind Fonzarelli.
+Dialogue: 0,0:13:51.64,0:13:52.72,*Default,NTP,0000,0000,0000,,快要赶上了\N{\fn微软雅黑\fs15}And he is closing rapidly.
+Dialogue: 0,0:13:54.08,0:13:56.92,*Default,NTP,0000,0000,0000,,他回到双塔 向上升！又高又陡!\N{\fn微软雅黑\fs15}Now he's back on that stick. Up he goes! Up and away!
+Dialogue: 0,0:13:57.56,0:13:58.80,*Default,NTP,0000,0000,0000,,只差弗扎雷利0.2秒了!\N{\fn微软雅黑\fs15}Now only two-tenths of a second behind Fonzarelli!
+Dialogue: 0,0:13:58.96,0:14:01.00,*Default,NTP,0000,0000,0000,,- 加油 达斯迪!  - 噢 就要结束了\N{\fn微软雅黑\fs15}- Come on, Duster!  - Oh, it's going to be close.
+Dialogue: 0,0:14:01.08,0:14:02.76,*Default,NTP,0000,0000,0000,,他能做到的 他行的\N{\fn微软雅黑\fs15}He's going to do it. He's going to do it.
+Dialogue: 0,0:14:02.92,0:14:06.24,*Default,NTP,0000,0000,0000,,噢 好样的! 完美的着陆 这才叫飞行!\N{\fn微软雅黑\fs15}Oh, yes! What a finish! Now, that's what you call flying!
+Dialogue: 0,0:14:06.44,0:14:08.09,*Default,NTP,0000,0000,0000,,做的好 达斯迪\N{\fn微软雅黑\fs15}Way to go, Dustmeister.
+Dialogue: 0,0:14:08.84,0:14:10.33,*Default,NTP,0000,0000,0000,,我早就知道你行的\N{\fn微软雅黑\fs15}That's what I'm talking about.
+Dialogue: 0,0:14:10.60,0:14:12.80,*Default,NTP,0000,0000,0000,,中流的成绩是\N{\fn微软雅黑\fs15}Jetstream, the official time is
+Dialogue: 0,0:14:12.96,0:14:16.44,*Default,NTP,0000,0000,0000,,1分24秒26\N{\fn微软雅黑\fs15}1 minute, 24.26 seconds.
+Dialogue: 0,0:14:16.60,0:14:20.32,*Default,NTP,0000,0000,0000,,第六名 就差一点点 真可惜\N{\fn微软雅黑\fs15}Sixth place, but what a close one, people.
+Dialogue: 0,0:14:20.48,0:14:23.40,*Default,NTP,0000,0000,0000,,好了 伙计们 环球之翼飞行大赛资格赛结束了\N{\fn微软雅黑\fs15}Well, folks, that wraps up the trials for the Wings Around the Globe Rally.
+Dialogue: 0,0:14:23.48,0:14:26.88,*Default,NTP,0000,0000,0000,,嘿 伙计 第六名不丢人\N{\fn微软雅黑\fs15}Hey, pal, sixth place ain't nothing to be ashamed of.
+Dialogue: 0,0:14:27.04,0:14:28.72,*Default,NTP,0000,0000,0000,,你飞得真不赖\N{\fn微软雅黑\fs15}That was a heck of a run.
+Dialogue: 0,0:14:30.12,0:14:31.36,*Default,NTP,0000,0000,0000,,谢谢\N{\fn微软雅黑\fs15}Thanks.
+Dialogue: 0,0:14:57.76,0:15:00.41,*Default,NTP,0000,0000,0000,,哇! 戴格! 让我来开!\N{\fn微软雅黑\fs15}Ow! Dagnabbit! Let me drive!
+Dialogue: 0,0:15:00.56,0:15:03.08,*Default,NTP,0000,0000,0000,,好啦 大功告成 救火车\N{\fn微软雅黑\fs15}There you go, topped off and all set, Mayday.
+Dialogue: 0,0:15:03.24,0:15:06.08,*Default,NTP,0000,0000,0000,,你能不能停下来! 难以置信!\N{\fn微软雅黑\fs15}Will you stop! Unbelievable!
+Dialogue: 0,0:15:06.24,0:15:07.24,*Default,NTP,0000,0000,0000,,你要不要重跑一趟!\N{\fn微软雅黑\fs15}Why don't you just go back!
+Dialogue: 0,0:15:07.32,0:15:09.32,*Default,NTP,0000,0000,0000,,你有一个坑没压到!\N{\fn微软雅黑\fs15}I mean, I think you actually missed a pothole!
+Dialogue: 0,0:15:10.16,0:15:11.81,*Default,NTP,0000,0000,0000,,哥们 你是史上最糟糕\N{\fn微软雅黑\fs15}Man, you got to be the worst,
+Dialogue: 0,0:15:11.88,0:15:14.48,*Default,NTP,0000,0000,0000,,最糟糕的送快递的运货车!\N{\fn微软雅黑\fs15}I mean the worst delivery truck that has ever delivered a delivery!
+Dialogue: 0,0:15:14.84,0:15:16.12,*Default,NTP,0000,0000,0000,,有什么能为你效劳的?\N{\fn微软雅黑\fs15}Can I help you?
+Dialogue: 0,0:15:17.44,0:15:18.93,*Default,NTP,0000,0000,0000,,告诉我这里一定是普罗普沃什镇吧\N{\fn微软雅黑\fs15}Please tell me this is Propwash Junction.
+Dialogue: 0,0:15:19.00,0:15:20.04,*Default,NTP,0000,0000,0000,,没错\N{\fn微软雅黑\fs15}Sure is.
+Dialogue: 0,0:15:20.12,0:15:23.09,*Default,NTP,0000,0000,0000,,终于到了 地图上都找不到这\N{\fn微软雅黑\fs15}Oh, finally. You know, you're not even on the map.
+Dialogue: 0,0:15:23.24,0:15:25.16,*Default,NTP,0000,0000,0000,,是啊 旅途还挺愉快 对吗?\N{\fn微软雅黑\fs15}Yeah, pretty drive though, ain't it?
+Dialogue: 0,0:15:25.44,0:15:27.64,*Default,NTP,0000,0000,0000,,噢 当然 要是我喜欢灰尘和玉米就更完美了\N{\fn微软雅黑\fs15}Oh, yeah. Especially if you like looking at dirt and corn.
+Dialogue: 0,0:15:27.72,0:15:30.69,*Default,NTP,0000,0000,0000,,不提了 我来找中流·砥柱\N{\fn微软雅黑\fs15}Anyway, I'm looking for a Strut Jetstream.
+Dialogue: 0,0:15:30.84,0:15:33.81,*Default,NTP,0000,0000,0000,,- 谁?  - 中流 我找中流·砥柱\N{\fn微软雅黑\fs15}- Who?  - Jetstream. Strut Jetstream.
+Dialogue: 0,0:15:34.16,0:15:36.40,*Default,NTP,0000,0000,0000,,不认识 想不起来有这号人 你有照片吗?\N{\fn微软雅黑\fs15}Nope, doesn't ring a bell. Do you have a photo?
+Dialogue: 0,0:15:36.64,0:15:38.60,*Default,NTP,0000,0000,0000,,是的 在这呢 没有 我没照片!\N{\fn微软雅黑\fs15}Yeah, I got one right here. No, I don't have a photo!
+Dialogue: 0,0:15:38.68,0:15:39.80,*Default,NTP,0000,0000,0000,,文件上写着\N{\fn微软雅黑\fs15}I have documentation that says
+Dialogue: 0,0:15:39.88,0:15:42.45,*Default,NTP,0000,0000,0000,,中流·砥柱住在普罗普沃什镇\N{\fn微软雅黑\fs15}Strut Jetstream lives in Propwash Junction.
+Dialogue: 0,0:15:42.60,0:15:44.80,*Default,NTP,0000,0000,0000,,噢 哇 哇! 哇 等等! 好的! 噢...\N{\fn微软雅黑\fs15}Oh, whoa, whoa! Whoa, wait a minute! Okay! Oh...
+Dialogue: 0,0:15:46.00,0:15:47.44,*Default,NTP,0000,0000,0000,,不 天啊 我...\N{\fn微软雅黑\fs15}No, gosh I...
+Dialogue: 0,0:15:47.60,0:15:49.36,*Default,NTP,0000,0000,0000,,嘿 我就是中流砥柱\N{\fn微软雅黑\fs15}Hey, I'm Strut Jetstream.
+Dialogue: 0,0:15:49.52,0:15:52.00,*Default,NTP,0000,0000,0000,,是啊! 我就说！\N{\fn微软雅黑\fs15}Yeah! That's right!
+Dialogue: 0,0:15:52.08,0:15:55.08,*Default,NTP,0000,0000,0000,,我就知道我记得 就是他 在那溜达呢\N{\fn微软雅黑\fs15}I knew I'd remember. There he is, strutting on over here.
+Dialogue: 0,0:15:55.24,0:15:57.81,*Default,NTP,0000,0000,0000,,不过你发音有点不标准\N{\fn微软雅黑\fs15}But you're mispronouncing it slightly.
+Dialogue: 0,0:15:57.96,0:15:59.20,*Default,NTP,0000,0000,0000,,- 是吗?  - 嗯 是的\N{\fn微软雅黑\fs15}- I am?  - Mmm-hmm. Yeah.
+Dialogue: 0,0:15:59.36,0:16:03.08,*Default,NTP,0000,0000,0000,,实际上应该是 "农田守望者达斯迪"\N{\fn微软雅黑\fs15}It's actually pronounced "Dusty Crophopper."
+Dialogue: 0,0:16:05.40,0:16:07.52,*Default,NTP,0000,0000,0000,,农田守望者达斯迪\N{\fn微软雅黑\fs15}Dusty Crophopper.
+Dialogue: 0,0:16:07.80,0:16:10.20,*Default,NTP,0000,0000,0000,,没错 是个斯堪的纳维亚名字\N{\fn微软雅黑\fs15}Yeah. It's Scandinavian.
+Dialogue: 0,0:16:10.84,0:16:12.68,*Default,NTP,0000,0000,0000,,没错 我是埃及人\N{\fn微软雅黑\fs15}Right, and I'm Egyptian.
+Dialogue: 0,0:16:12.76,0:16:15.60,*Default,NTP,0000,0000,0000,,我的天啊! 一股什么味?\N{\fn微软雅黑\fs15}Googly moogly! What is that smell?
+Dialogue: 0,0:16:15.68,0:16:17.64,*Default,NTP,0000,0000,0000,,- 是维它肥  - 维他命什么?\N{\fn微软雅黑\fs15}- It's Vita-minamulch.  - Vita-mina-what?
+Dialogue: 0,0:16:17.72,0:16:20.45,*Default,NTP,0000,0000,0000,,密西西比这边最香的农家肥\N{\fn微软雅黑\fs15}The finest-smelling compost this side of the Mississippi.
+Dialogue: 0,0:16:20.52,0:16:22.64,*Default,NTP,0000,0000,0000,,天然的 奶油状 很厚重的感觉\N{\fn微软雅黑\fs15}Original, creamy and chunky style.
+Dialogue: 0,0:16:22.72,0:16:26.12,*Default,NTP,0000,0000,0000,,噢 没错 闻到了吗? 像是水仙花\N{\fn微软雅黑\fs15}Oh, yeah. Smell that? It's like daffodils
+Dialogue: 0,0:16:27.08,0:16:29.40,*Default,NTP,0000,0000,0000,,就和周末大餐一样 我爱死它了 我就爱这味道\N{\fn微软雅黑\fs15}and like Sunday dinner. I just love it. I love it.
+Dialogue: 0,0:16:29.56,0:16:33.92,*Default,NTP,0000,0000,0000,,维它肥 太棒了! 维它肥 太棒了!\N{\fn微软雅黑\fs15}I got some minamulch, yeah! I got some minamulch, yeah!
+Dialogue: 0,0:16:34.08,0:16:36.28,*Default,NTP,0000,0000,0000,,这老飞机脑子有病 这你们都知道吗?\N{\fn微软雅黑\fs15}That old airplane needs some help. Y'all know that, right?
+Dialogue: 0,0:16:36.44,0:16:37.60,*Default,NTP,0000,0000,0000,,知道\N{\fn微软雅黑\fs15}Yeah.
+Dialogue: 0,0:16:37.76,0:16:40.16,*Default,NTP,0000,0000,0000,,你们知道赛用燃料添加剂硝基甲烷吗?\N{\fn微软雅黑\fs15}Are you familiar with the racing fuel additive, nitro methane?
+Dialogue: 0,0:16:40.24,0:16:42.56,*Default,NTP,0000,0000,0000,,噢 是的! 活力果汁! 可带劲了!\N{\fn微软雅黑\fs15}Oh, yeah! Zip juice! Go-go punch!
+Dialogue: 0,0:16:42.64,0:16:44.84,*Default,NTP,0000,0000,0000,,那玩意会模糊视线 速度加快\N{\fn微软雅黑\fs15}That stuff will blur your vision and slur your speech.
+Dialogue: 0,0:16:44.92,0:16:46.08,*Default,NTP,0000,0000,0000,,- 是违禁品  - 严禁使用\N{\fn微软雅黑\fs15}- It's illegal.  - Totally illegal.
+Dialogue: 0,0:16:46.16,0:16:48.52,*Default,NTP,0000,0000,0000,,都不知道长啥样 好的 你说什么?\N{\fn微软雅黑\fs15}Wouldn't know what it looks like. Yeah, you were saying?
+Dialogue: 0,0:16:48.60,0:16:52.49,*Default,NTP,0000,0000,0000,,我们弗扎雷利的油箱里发现了此种成分\N{\fn微软雅黑\fs15}That substance was found in the tank of the fifth-place qualifier, Fonzarelli.
+Dialogue: 0,0:16:52.56,0:16:55.04,*Default,NTP,0000,0000,0000,,使用违禁品会被自动取消资格\N{\fn微软雅黑\fs15}Illegal fuel intake is an automatic DQ.
+Dialogue: 0,0:16:55.28,0:16:57.44,*Default,NTP,0000,0000,0000,,等等 你的意思是...\N{\fn微软雅黑\fs15}Wait, so you're saying...
+Dialogue: 0,0:16:57.64,0:17:00.37,*Default,NTP,0000,0000,0000,,他被淘汰了 你入选了 祝贺你\N{\fn微软雅黑\fs15}He's out, you're in. Congratulations.
+Dialogue: 0,0:17:01.44,0:17:02.93,*Default,NTP,0000,0000,0000,,- 你入选了?  - 嗯\N{\fn微软雅黑\fs15}- You're in?  - Hmm.
+Dialogue: 0,0:17:04.36,0:17:06.01,*Default,NTP,0000,0000,0000,,他入选啦!\N{\fn微软雅黑\fs15}He's in!
+Dialogue: 0,0:17:06.08,0:17:07.92,*Default,NTP,0000,0000,0000,,你信吗 他入选了!\N{\fn微软雅黑\fs15}You're never going to believe this. He's in!
+Dialogue: 0,0:17:08.08,0:17:10.36,*Default,NTP,0000,0000,0000,,达斯迪要参加比赛啦! 多蒂 他入选啦！\N{\fn微软雅黑\fs15}Dusty's in the race! Dottie, he's in!
+Dialogue: 0,0:17:10.52,0:17:12.09,*Default,NTP,0000,0000,0000,,什么? 逗我玩呢?\N{\fn微软雅黑\fs15}What? Are you serious?
+Dialogue: 0,0:17:12.24,0:17:13.32,*Default,NTP,0000,0000,0000,,哇! 达斯迪\N{\fn微软雅黑\fs15}Whoo! Dusty.
+Dialogue: 0,0:17:13.40,0:17:15.08,*Default,NTP,0000,0000,0000,,悠着点哦 安全第一\N{\fn微软雅黑\fs15}Don't do anything crazy. Fly safe.
+Dialogue: 0,0:17:15.16,0:17:16.40,*Default,NTP,0000,0000,0000,,老兄 这实在太酷了\N{\fn微软雅黑\fs15}Man, it's going to be cool.
+Dialogue: 0,0:17:16.48,0:17:19.08,*Default,NTP,0000,0000,0000,,你要飞过几万英里宽的海洋\N{\fn微软雅黑\fs15}You're going to cross oceans thousands of miles wide.
+Dialogue: 0,0:17:19.24,0:17:21.08,*Default,NTP,0000,0000,0000,,可能会冻坏你的方向舵...\N{\fn微软雅黑\fs15}Freezing your rudder off one day...
+Dialogue: 0,0:17:21.24,0:17:23.32,*Default,NTP,0000,0000,0000,,- 也许会烧掉它  - 还有变态的飓风\N{\fn微软雅黑\fs15}- And burning it off the next!  - Freaking hurricanes.
+Dialogue: 0,0:17:23.52,0:17:24.64,*Default,NTP,0000,0000,0000,,- 旋风!  - 台风!\N{\fn微软雅黑\fs15}- Cyclones!  - Typhoons!
+Dialogue: 0,0:17:24.72,0:17:26.24,*Default,NTP,0000,0000,0000,,- 季风！  - 龙卷风！\N{\fn微软雅黑\fs15}- Monsoons!  - Tornadoes!
+Dialogue: 0,0:17:26.32,0:17:27.89,*Default,NTP,0000,0000,0000,,- 沙尘暴!  - 风雨交加!\N{\fn微软雅黑\fs15}- Sandstorms!  - Gale force winds!
+Dialogue: 0,0:17:27.96,0:17:29.20,*Default,NTP,0000,0000,0000,,没错!\N{\fn微软雅黑\fs15}Yeah!
+Dialogue: 0,0:17:33.04,0:17:34.32,*Default,NTP,0000,0000,0000,,嗯\N{\fn微软雅黑\fs15}Hmm.
+Dialogue: 0,0:17:35.60,0:17:36.96,*Default,NTP,0000,0000,0000,,坏主意\N{\fn微软雅黑\fs15}Bad idea.
+Dialogue: 0,0:17:37.96,0:17:40.96,*Default,NTP,0000,0000,0000,,你会冒着烟坠落在山边\N{\fn微软雅黑\fs15}You'll end up a smoking hole on the side of a mountain
+Dialogue: 0,0:17:41.08,0:17:43.04,*Default,NTP,0000,0000,0000,,零件分别掉在五个国家\N{\fn微软雅黑\fs15}with your parts spread over five countries.
+Dialogue: 0,0:17:43.12,0:17:44.32,*Default,NTP,0000,0000,0000,,你凭什么这么说?\N{\fn微软雅黑\fs15}What makes you say that?
+Dialogue: 0,0:17:44.52,0:17:46.80,*Default,NTP,0000,0000,0000,,你将要和世界上最厉害的选手竞争\N{\fn微软雅黑\fs15}You're going up against the best racers in the world.
+Dialogue: 0,0:17:46.88,0:17:48.53,*Default,NTP,0000,0000,0000,,这些人有些都跑不完全程\N{\fn微软雅黑\fs15}And some of them don't even finish.
+Dialogue: 0,0:17:48.68,0:17:49.96,*Default,NTP,0000,0000,0000,,你横滚时粗心大意的\N{\fn微软雅黑\fs15}You're sloppy on your rolls,
+Dialogue: 0,0:17:50.16,0:17:52.32,*Default,NTP,0000,0000,0000,,转弯太大 直行太慢\N{\fn微软雅黑\fs15}wide on your turns, slow on your straightaways.
+Dialogue: 0,0:17:52.52,0:17:54.56,*Default,NTP,0000,0000,0000,,你看了我的比赛?\N{\fn微软雅黑\fs15}You've been watching me?
+Dialogue: 0,0:17:54.64,0:17:56.52,*Default,NTP,0000,0000,0000,,是啊 瞧你像个傻瓜一样犯错\N{\fn微软雅黑\fs15}Yeah, watching you make a fool out of yourself.
+Dialogue: 0,0:17:56.76,0:17:58.68,*Default,NTP,0000,0000,0000,,垂直穿门时应该更果断\N{\fn微软雅黑\fs15}You need to be tighter getting in and out of your knife-edge.
+Dialogue: 0,0:17:58.76,0:17:59.76,*Default,NTP,0000,0000,0000,,好的\N{\fn微软雅黑\fs15}Okay.
+Dialogue: 0,0:17:59.84,0:18:02.20,*Default,NTP,0000,0000,0000,,任何多余的控制都会让你减速\N{\fn微软雅黑\fs15}Any extra control input costs you speed and seconds.
+Dialogue: 0,0:18:02.28,0:18:06.56,*Default,NTP,0000,0000,0000,,- 所以 你觉得我有点过了?  - 没错 菜鸟常犯的错\N{\fn微软雅黑\fs15}- So, you think I'm overcorrecting?  - Absolutely. Rookie mistake.
+Dialogue: 0,0:18:06.80,0:18:08.37,*Default,NTP,0000,0000,0000,,你是在提点我吗?\N{\fn微软雅黑\fs15}Are you giving me pointers?
+Dialogue: 0,0:18:08.56,0:18:11.37,*Default,NTP,0000,0000,0000,,不是! 我是在劝你清醒点 别痴心妄想了\N{\fn微软雅黑\fs15}No! I'm telling you to forget all this racing malarkey.
+Dialogue: 0,0:18:11.52,0:18:14.09,*Default,NTP,0000,0000,0000,,你天生就不合适 你是个作物喷粉机！\N{\fn微软雅黑\fs15}You just ain't built for it. You're a crop duster!
+Dialogue: 0,0:18:14.28,0:18:17.72,*Default,NTP,0000,0000,0000,,你以为我自己不知道吗?\N{\fn微软雅黑\fs15}You don't think I know that?
+Dialogue: 0,0:18:17.88,0:18:20.08,*Default,NTP,0000,0000,0000,,我才是那个整天在同一块地\N{\fn微软雅黑\fs15}I'm the one who's been flying back and forth
+Dialogue: 0,0:18:20.20,0:18:25.65,*Default,NTP,0000,0000,0000,,飞来飞去的人 日复一日 年复一年!\N{\fn微软雅黑\fs15}across the same fields day after day, month after month, for years!
+Dialogue: 0,0:18:25.80,0:18:30.40,*Default,NTP,0000,0000,0000,,我已经飞了近万英里\N{\fn微软雅黑\fs15}I have flown thousands of miles
+Dialogue: 0,0:18:30.60,0:18:32.36,*Default,NTP,0000,0000,0000,,可我哪都没去过\N{\fn微软雅黑\fs15}and I have never been anywhere.
+Dialogue: 0,0:18:32.44,0:18:33.48,*Default,NTP,0000,0000,0000,,不像你\N{\fn微软雅黑\fs15}Not like you.
+Dialogue: 0,0:18:34.12,0:18:37.44,*Default,NTP,0000,0000,0000,,你为战斗而生 瞧瞧你的成就!\N{\fn微软雅黑\fs15}You were built to fight, and look what you did!
+Dialogue: 0,0:18:37.92,0:18:39.60,*Default,NTP,0000,0000,0000,,你是个英雄\N{\fn微软雅黑\fs15}You're a hero.
+Dialogue: 0,0:18:40.96,0:18:45.17,*Default,NTP,0000,0000,0000,,我只是想去证明也许 只是也许\N{\fn微软雅黑\fs15}I'm just trying to prove that maybe, just maybe,
+Dialogue: 0,0:18:45.24,0:18:47.97,*Default,NTP,0000,0000,0000,,我能突破自我 做点不一样的事\N{\fn微软雅黑\fs15}I can do more than what I was built for.
+Dialogue: 0,0:18:50.36,0:18:53.40,*Default,NTP,0000,0000,0000,,你知道吗? 忘了我的话吧\N{\fn微软雅黑\fs15}You know what? Just forget it.
+Dialogue: 0,0:18:53.96,0:18:56.08,*Default,NTP,0000,0000,0000,,你永远不会懂的\N{\fn微软雅黑\fs15}You'll never understand.
+Dialogue: 0,0:18:59.60,0:19:02.20,*Default,NTP,0000,0000,0000,,明天早上 0500 别迟到了\N{\fn微软雅黑\fs15}0500, tomorrow. Don't be late.
+Dialogue: 0,0:19:02.36,0:19:04.20,*Default,NTP,0000,0000,0000,,等等 0500?\N{\fn微软雅黑\fs15}Wait. 0500?
+Dialogue: 0,0:19:04.36,0:19:07.76,*Default,NTP,0000,0000,0000,,没错 早上5点\N{\fn微软雅黑\fs15}Yeah, 5:00 a.m.
+Dialogue: 0,0:19:14.64,0:19:16.48,*Default,NTP,0000,0000,0000,,斯帕奇 望远镜\N{\fn微软雅黑\fs15}Sparky, binoculars.
+Dialogue: 0,0:19:16.72,0:19:18.68,*Default,NTP,0000,0000,0000,,这可是精密光学仪器啊\N{\fn微软雅黑\fs15}Those are some mighty clean optics, there.
+Dialogue: 0,0:19:18.80,0:19:20.21,*Default,NTP,0000,0000,0000,,你用的什么? 一种鹿皮?\N{\fn微软雅黑\fs15}What do you use? Some kind of shammy?
+Dialogue: 0,0:19:20.28,0:19:22.68,*Default,NTP,0000,0000,0000,,- 噢 不是 这是一种特殊的微纤维布  - 哈 微纤维\N{\fn微软雅黑\fs15}- Oh, no, it's a special microfiber cloth.  - Ah. Microfiber.
+Dialogue: 0,0:19:22.76,0:19:25.36,*Default,NTP,0000,0000,0000,,没错 不含棉绒 无划痕 回头我给你也弄点\N{\fn微软雅黑\fs15}Yeah, lint-free, scratch-free. I'll get you some.
+Dialogue: 0,0:19:25.44,0:19:27.92,*Default,NTP,0000,0000,0000,,我认识个海军退役哥们 他按批发价卖给我\N{\fn微软雅黑\fs15}I got an ex-Navy buddy who sells them to me wholesale.
+Dialogue: 0,0:19:28.08,0:19:29.08,*Default,NTP,0000,0000,0000,,我帮他做个网站...\N{\fn微软雅黑\fs15}I helped him set up his web...
+Dialogue: 0,0:19:29.24,0:19:31.64,*Default,NTP,0000,0000,0000,,别说了 我们还有很多事要做\N{\fn微软雅黑\fs15}Knock it off. We got a lot of work to do.
+Dialogue: 0,0:19:32.12,0:19:34.08,*Default,NTP,0000,0000,0000,,- 回头介绍你认识  - 谢谢\N{\fn微软雅黑\fs15}- I'll hook you up.  - Thanks.
+Dialogue: 0,0:19:34.28,0:19:36.52,*Default,NTP,0000,0000,0000,,好啦 达斯迪 记住\N{\fn微软雅黑\fs15}All right, Dusty, remember this.
+Dialogue: 0,0:19:36.64,0:19:39.08,*Default,NTP,0000,0000,0000,,重点不是你飞得有多快 而是你如何快速飞\N{\fn微软雅黑\fs15}It ain't how fast you fly, it's how you fly fast.
+Dialogue: 0,0:19:39.28,0:19:41.60,*Default,NTP,0000,0000,0000,,- 记住了  - 让我看看你有什么能耐\N{\fn微软雅黑\fs15}- Roger that.  - Show me what you got.
+Dialogue: 0,0:19:41.84,0:19:45.12,*Default,NTP,0000,0000,0000,,瞧好吧! 噢 耶\N{\fn微软雅黑\fs15}Watch this! Oh, yeah.
+Dialogue: 0,0:19:45.24,0:19:48.44,*Default,NTP,0000,0000,0000,,还不错 你能高低来回飞 还有什么?\N{\fn微软雅黑\fs15}Great, you can go up and down. What else?
+Dialogue: 0,0:19:48.64,0:19:50.00,*Default,NTP,0000,0000,0000,,- 让我看看你的转弯  - 来了!\N{\fn微软雅黑\fs15}- Show me your turns.  - Here we go!
+Dialogue: 0,0:19:51.96,0:19:55.88,*Default,NTP,0000,0000,0000,,你觉得这就不错了? 烂透了! 垂直穿越那些榆树\N{\fn微软雅黑\fs15}You think that was good? That stunk! Knife-edge those elm trees.
+Dialogue: 0,0:19:56.16,0:19:57.96,*Default,NTP,0000,0000,0000,,噢 加油 头抬高点!\N{\fn微软雅黑\fs15}Oh, come on. Keep your nose up!
+Dialogue: 0,0:19:58.12,0:19:59.96,*Default,NTP,0000,0000,0000,,嘿 斯基\N{\fn微软雅黑\fs15}Hey, Skip.
+Dialogue: 0,0:20:00.12,0:20:01.72,*Default,NTP,0000,0000,0000,,- 你想要速度 对吗?  - 是的\N{\fn微软雅黑\fs15}- You want speed, right?  - Yeah.
+Dialogue: 0,0:20:01.80,0:20:03.88,*Default,NTP,0000,0000,0000,,- 说真的 闪电那么快?  - 噢 没错!\N{\fn微软雅黑\fs15}- Serious, bolt-rattling speed?  - Oh, yeah!
+Dialogue: 0,0:20:03.96,0:20:06.12,*Default,NTP,0000,0000,0000,,向上看 看到那些云了吗?\N{\fn微软雅黑\fs15}Then look up. Do you see those clouds?
+Dialogue: 0,0:20:06.28,0:20:07.85,*Default,NTP,0000,0000,0000,,空中高速公路\N{\fn微软雅黑\fs15}The highway in the sky.
+Dialogue: 0,0:20:08.00,0:20:10.84,*Default,NTP,0000,0000,0000,,逐风而行是无可比拟的体验\N{\fn微软雅黑\fs15}Tailwinds like nothing you've ever flown.
+Dialogue: 0,0:20:11.00,0:20:12.84,*Default,NTP,0000,0000,0000,,还在等什么?\N{\fn微软雅黑\fs15}What are you waiting for?
+Dialogue: 0,0:20:13.08,0:20:15.12,*Default,NTP,0000,0000,0000,,来吧 火力全开 相信自己\N{\fn微软雅黑\fs15}Come on, power up. Firewall thrust.
+Dialogue: 0,0:20:15.28,0:20:17.12,*Default,NTP,0000,0000,0000,,最大扭矩 最大!\N{\fn微软雅黑\fs15}Max torque, max torque!
+Dialogue: 0,0:20:17.28,0:20:18.64,*Default,NTP,0000,0000,0000,,好的 看上去还不错\N{\fn微软雅黑\fs15}All right, looking good.
+Dialogue: 0,0:20:18.84,0:20:20.92,*Default,NTP,0000,0000,0000,,保持好位置 达斯迪 最大速度\N{\fn微软雅黑\fs15}Hold V-Y, Dusty. Max rate, now.
+Dialogue: 0,0:20:21.52,0:20:24.17,*Default,NTP,0000,0000,0000,,头抬太高了 低一点\N{\fn微软雅黑\fs15}Your nose is too high. Get your nose down.
+Dialogue: 0,0:20:24.76,0:20:28.12,*Default,NTP,0000,0000,0000,,你会失速的 减少倾斜度 低点！\N{\fn微软雅黑\fs15}You're going to stall. Ease off the pitch. Nose down!
+Dialogue: 0,0:20:28.32,0:20:29.32,*Default,NTP,0000,0000,0000,,噢！\N{\fn微软雅黑\fs15}Oh!
+Dialogue: 0,0:20:30.04,0:20:32.80,*Default,NTP,0000,0000,0000,,嘿 你在搞什么?\N{\fn微软雅黑\fs15}Hey, what are you doing?
+Dialogue: 0,0:20:38.64,0:20:40.68,*Default,NTP,0000,0000,0000,,刚刚在上面怎么了?\N{\fn微软雅黑\fs15}What just happened up there?
+Dialogue: 0,0:20:40.88,0:20:42.48,*Default,NTP,0000,0000,0000,,我... 我燃料不足了\N{\fn微软雅黑\fs15}I'm... I'm low on fuel.
+Dialogue: 0,0:20:42.64,0:20:43.92,*Default,NTP,0000,0000,0000,,我看起来像昨天才出厂吗?\N{\fn微软雅黑\fs15}Do I look like I was built yesterday?
+Dialogue: 0,0:20:44.08,0:20:47.92,*Default,NTP,0000,0000,0000,,- 不 不 说来话长  - 我有空\N{\fn微软雅黑\fs15}- No, no. It's a long story.  - I got time.
+Dialogue: 0,0:20:48.60,0:20:49.60,*Default,NTP,0000,0000,0000,,额...\N{\fn微软雅黑\fs15}Uh...
+Dialogue: 0,0:20:49.68,0:20:51.12,*Default,NTP,0000,0000,0000,,好的 这么说 你知道\N{\fn微软雅黑\fs15}Okay, well, um, you know,
+Dialogue: 0,0:20:51.20,0:20:54.04,*Default,NTP,0000,0000,0000,,我觉得 我的轴流式压缩机有些问题 所以...\N{\fn微软雅黑\fs15}I feel like I was having some problems with my axial compressor so...
+Dialogue: 0,0:20:54.36,0:20:57.09,*Default,NTP,0000,0000,0000,,在乔利扳手有句名言 Volo Pro Veritas\N{\fn微软雅黑\fs15}The Jolly Wrenches have a motto, Volo Pro Veritas.
+Dialogue: 0,0:20:57.16,0:20:59.68,*Default,NTP,0000,0000,0000,,意思是 "为真理而飞行"\N{\fn微软雅黑\fs15}It means "I fly for truth."
+Dialogue: 0,0:21:00.16,0:21:02.84,*Default,NTP,0000,0000,0000,,很明显 你不是\N{\fn微软雅黑\fs15}Clearly, you don't.
+Dialogue: 0,0:21:03.80,0:21:06.20,*Default,NTP,0000,0000,0000,,斯帕奇 推我回机库\N{\fn微软雅黑\fs15}Sparky, push me back to the hangar.
+Dialogue: 0,0:21:11.84,0:21:13.64,*Default,NTP,0000,0000,0000,,我恐高\N{\fn微软雅黑\fs15}I'm afraid of heights.
+Dialogue: 0,0:21:18.36,0:21:22.41,*Default,NTP,0000,0000,0000,,- 你是飞机啊  - 我是作物喷粉机\N{\fn微软雅黑\fs15}- But you're a plane.  - I'm a crop duster.
+Dialogue: 0,0:21:22.52,0:21:24.72,*Default,NTP,0000,0000,0000,,我从没飞过高于一千尺\N{\fn微软雅黑\fs15}I've never flown over a thousand feet.
+Dialogue: 0,0:21:24.92,0:21:26.41,*Default,NTP,0000,0000,0000,,开什么玩笑?\N{\fn微软雅黑\fs15}Are you kidding?
+Dialogue: 0,0:21:26.48,0:21:29.48,*Default,NTP,0000,0000,0000,,恐高还想环游世界比赛?\N{\fn微软雅黑\fs15}Scared of heights and you want to race around the world?
+Dialogue: 0,0:21:29.68,0:21:32.36,*Default,NTP,0000,0000,0000,,额 斯基 图洪加海港受袭那次\N{\fn微软雅黑\fs15}Uh, Skip, during the attack of Tujunga Harbor,
+Dialogue: 0,0:21:32.56,0:21:35.04,*Default,NTP,0000,0000,0000,,就连那些P-38都有点恐高\N{\fn微软雅黑\fs15}why, even the P-38s had trouble at high altitudes.
+Dialogue: 0,0:21:35.20,0:21:38.17,*Default,NTP,0000,0000,0000,,听着 他们又不用飞跃喜马拉雅山 对吗?\N{\fn微软雅黑\fs15}Well, they didn't have to fly over the Himalayas, did they?
+Dialogue: 0,0:21:38.40,0:21:40.88,*Default,NTP,0000,0000,0000,,我还是会贴着地 就高一点点\N{\fn微软雅黑\fs15}I'll still be low to the ground, just high up.
+Dialogue: 0,0:21:41.08,0:21:43.56,*Default,NTP,0000,0000,0000,,战争结束后 那些P-38拿了冠军\N{\fn微软雅黑\fs15}And after the war, those 38s went on to win races.
+Dialogue: 0,0:21:43.76,0:21:44.88,*Default,NTP,0000,0000,0000,,真的吗? 是真的吗?\N{\fn微软雅黑\fs15}Really? Is that true?
+Dialogue: 0,0:21:45.08,0:21:47.32,*Default,NTP,0000,0000,0000,,是的 真人真事 好像是第46届克利夫兰比赛\N{\fn微软雅黑\fs15}Yeah, true. Like in the Cleveland race of '46.
+Dialogue: 0,0:21:47.40,0:21:49.20,*Default,NTP,0000,0000,0000,,- 真的?  - 等等 还不止呢\N{\fn微软雅黑\fs15}- For real?  - Wait, it gets better.
+Dialogue: 0,0:21:49.36,0:21:53.20,*Default,NTP,0000,0000,0000,,在第49届比赛 空中骑士P-38战机平均时速337英里\N{\fn微软雅黑\fs15}In '49, the P-38 Sky Ranger averaged 337 miles per hour.
+Dialogue: 0,0:21:53.36,0:21:54.44,*Default,NTP,0000,0000,0000,,等等 337?\N{\fn微软雅黑\fs15}Wait, 337?
+Dialogue: 0,0:21:54.60,0:21:57.60,*Default,NTP,0000,0000,0000,,好吧 实际上是337.4 但记录册里四舍五入了\N{\fn微软雅黑\fs15}Well, actually 337.4, but they round it down in the record books.
+Dialogue: 0,0:21:57.72,0:21:58.76,*Default,NTP,0000,0000,0000,,你怎么记得这么清楚?\N{\fn微软雅黑\fs15}Why would you do that?
+Dialogue: 0,0:21:58.92,0:22:00.25,*Default,NTP,0000,0000,0000,,有些人对小数毫不在乎\N{\fn微软雅黑\fs15}Some people just have no respect for decimal points.
+Dialogue: 0,0:22:00.36,0:22:02.64,*Default,NTP,0000,0000,0000,,- 是的 我知道 和我说说  - 为什么他们就不能向上取整呢?\N{\fn微软雅黑\fs15}- Yeah, I know. Tell me about it.  - Why couldn't they round it up?
+Dialogue: 0,0:22:02.72,0:22:05.24,*Default,NTP,0000,0000,0000,,- 说真的 他...  - 好啦 好啦\N{\fn微软雅黑\fs15}- Seriously, he...  - All right, all right.
+Dialogue: 0,0:22:05.36,0:22:08.44,*Default,NTP,0000,0000,0000,,这么说 你喜欢低空飞行 我们想想怎么办\N{\fn微软雅黑\fs15}So, you're a flat-hatter. We'll work on that.
+Dialogue: 0,0:22:08.60,0:22:12.32,*Default,NTP,0000,0000,0000,,想想有没有办法把又低又慢 变成又低又快\N{\fn微软雅黑\fs15}But for now let's see if we can turn low and sloppy into low and fast.
+Dialogue: 0,0:22:12.60,0:22:13.93,*Default,NTP,0000,0000,0000,,收到\N{\fn微软雅黑\fs15}Roger that.
+Dialogue: 0,0:22:15.96,0:22:17.20,*Default,NTP,0000,0000,0000,,这样吧\N{\fn微软雅黑\fs15}It'll go like this.
+Dialogue: 0,0:22:17.76,0:22:19.64,*Default,NTP,0000,0000,0000,,旗帜那是起跑线\N{\fn微软雅黑\fs15}The flag marks the start line.
+Dialogue: 0,0:22:19.72,0:22:22.16,*Default,NTP,0000,0000,0000,,玉米地那头 有三个粮仓\N{\fn微软雅黑\fs15}Across the cornfield, three silos are waiting for you.
+Dialogue: 0,0:22:22.24,0:22:23.68,*Default,NTP,0000,0000,0000,,利用径向过载飞过那些障碍\N{\fn微软雅黑\fs15}Slalom those with a radial-G pass.
+Dialogue: 0,0:22:23.76,0:22:25.00,*Default,NTP,0000,0000,0000,,等等 "径向" 什么载?\N{\fn微软雅黑\fs15}Wait. "A radial" what pass?
+Dialogue: 0,0:22:25.08,0:22:26.16,*Default,NTP,0000,0000,0000,,一旦越过树木\N{\fn微软雅黑\fs15}Once you get to the trees,
+Dialogue: 0,0:22:26.28,0:22:28.85,*Default,NTP,0000,0000,0000,,调到最佳速度 保持飞行高度500英尺\N{\fn微软雅黑\fs15}go to your optimal rate of climb to about 500 feet.
+Dialogue: 0,0:22:28.92,0:22:31.96,*Default,NTP,0000,0000,0000,,倒飞再横滚回来 用高度换速度\N{\fn微软雅黑\fs15}Roll inverted and extend, trading altitude for air speed
+Dialogue: 0,0:22:32.12,0:22:34.44,*Default,NTP,0000,0000,0000,,- 然后俯冲至终点  - 嗯 好的\N{\fn微软雅黑\fs15}- and dive toward the finish line.  - Uh, okay.
+Dialogue: 0,0:22:34.52,0:22:37.20,*Default,NTP,0000,0000,0000,,照我说的做 就有机会打败他\N{\fn微软雅黑\fs15}You string all that together, you might have a chance to beat him.
+Dialogue: 0,0:22:37.28,0:22:38.28,*Default,NTP,0000,0000,0000,,我和谁比赛?\N{\fn微软雅黑\fs15}Who am I racing?
+Dialogue: 0,0:22:39.00,0:22:40.08,*Default,NTP,0000,0000,0000,,他来了\N{\fn微软雅黑\fs15}Here he comes.
+Dialogue: 0,0:22:40.16,0:22:43.13,*Default,NTP,0000,0000,0000,,他是个双发通勤机 大概1500马力\N{\fn微软雅黑\fs15}He's a twin commuter pushing about 1500 horsepower.
+Dialogue: 0,0:22:43.68,0:22:44.88,*Default,NTP,0000,0000,0000,,额 他飞得太高了\N{\fn微软雅黑\fs15}Uh, he's pretty high up.
+Dialogue: 0,0:22:45.08,0:22:48.12,*Default,NTP,0000,0000,0000,,不是和他比 和他的影子比赛\N{\fn微软雅黑\fs15}You're not racing him, you're racing his shadow.
+Dialogue: 0,0:22:48.32,0:22:49.44,*Default,NTP,0000,0000,0000,,到水塔前打败他\N{\fn微软雅黑\fs15}Beat it to the water tower.
+Dialogue: 0,0:22:50.80,0:22:52.76,*Default,NTP,0000,0000,0000,,开始吧！绕过粮仓!\N{\fn微软雅黑\fs15}Let's do this! Thread the silos!
+Dialogue: 0,0:22:53.28,0:22:56.52,*Default,NTP,0000,0000,0000,,跟紧！转弯时再斜点\N{\fn微软雅黑\fs15}Tighter! Lean into your turns more.
+Dialogue: 0,0:22:57.28,0:22:58.88,*Default,NTP,0000,0000,0000,,- 他转的真烂  - 没错\N{\fn微软雅黑\fs15}- His turns are terrible.  - Yeah.
+Dialogue: 0,0:22:59.12,0:23:00.53,*Default,NTP,0000,0000,0000,,加油啊 达斯迪 快点\N{\fn微软雅黑\fs15}Let's go, Dusty. Faster.
+Dialogue: 0,0:23:01.92,0:23:03.08,*Default,NTP,0000,0000,0000,,你落后了\N{\fn微软雅黑\fs15}You're falling behind.
+Dialogue: 0,0:23:03.24,0:23:05.52,*Default,NTP,0000,0000,0000,,开始爬升 在俯冲时追上他\N{\fn微软雅黑\fs15}Begin your climb and catch him in the dive.
+Dialogue: 0,0:23:05.68,0:23:07.80,*Default,NTP,0000,0000,0000,,开始俯冲\N{\fn微软雅黑\fs15}Start your dive now.
+Dialogue: 0,0:23:07.96,0:23:10.12,*Default,NTP,0000,0000,0000,,算了 你已经输了\N{\fn微软雅黑\fs15}Never mind, you already lost.
+Dialogue: 0,0:23:12.80,0:23:17.64,*Default,NTP,0000,0000,0000,,我们可以提升动力或者减少阻力\N{\fn微软雅黑\fs15}So, we can increase power or we can decrease drag.
+Dialogue: 0,0:23:18.32,0:23:21.05,*Default,NTP,0000,0000,0000,,当然是增加动力\N{\fn微软雅黑\fs15}Definitely increase power.
+Dialogue: 0,0:23:22.80,0:23:25.48,*Default,NTP,0000,0000,0000,,更大的扭矩意味着更快的速度\N{\fn微软雅黑\fs15}More torque means more speed.
+Dialogue: 0,0:23:28.88,0:23:30.21,*Default,NTP,0000,0000,0000,,太次了\N{\fn微软雅黑\fs15}Lousy.
+Dialogue: 0,0:23:30.36,0:23:32.52,*Default,NTP,0000,0000,0000,,试着利用径向过载\N{\fn微软雅黑\fs15}Come on, let's work that radial-G turn.
+Dialogue: 0,0:23:32.72,0:23:35.16,*Default,NTP,0000,0000,0000,,再做一次 再来 再来\N{\fn微软雅黑\fs15}Do it again. One more time. Again!
+Dialogue: 0,0:23:35.96,0:23:38.28,*Default,NTP,0000,0000,0000,,加油! 达斯迪\N{\fn微软雅黑\fs15}Come on! Push it, Dusty!
+Dialogue: 0,0:23:39.92,0:23:40.92,*Default,NTP,0000,0000,0000,,有进步!\N{\fn微软雅黑\fs15}Better!
+Dialogue: 0,0:23:41.08,0:23:42.68,*Default,NTP,0000,0000,0000,,记住 高度换速度\N{\fn微软雅黑\fs15}Remember now, altitude for airspeed.
+Dialogue: 0,0:23:42.84,0:23:43.84,*Default,NTP,0000,0000,0000,,重力是你的好帮手\N{\fn微软雅黑\fs15}Gravity is your ally.
+Dialogue: 0,0:23:43.96,0:23:45.96,*Default,NTP,0000,0000,0000,,物理定律支配着速度\N{\fn微软雅黑\fs15}The laws of physics govern speed.
+Dialogue: 0,0:23:46.12,0:23:49.52,*Default,NTP,0000,0000,0000,,达斯迪 尽你所能吧\N{\fn微软雅黑\fs15}All right, Dusty. Give this run all you've got.
+Dialogue: 0,0:23:49.68,0:23:51.33,*Default,NTP,0000,0000,0000,,利用你的径向过载\N{\fn微软雅黑\fs15}Use your radial-G.
+Dialogue: 0,0:23:51.40,0:23:52.81,*Default,NTP,0000,0000,0000,,让重力为你而战\N{\fn微软雅黑\fs15}Let gravity work for you.
+Dialogue: 0,0:23:55.04,0:23:58.40,*Default,NTP,0000,0000,0000,,看起来不错 这就是我所说的\N{\fn微软雅黑\fs15}Looking good. That's what I'm talking about.
+Dialogue: 0,0:23:58.48,0:24:00.68,*Default,NTP,0000,0000,0000,,让仪表盘烧起来吧! 冲啊!\N{\fn微软雅黑\fs15}Firewall the throttle! Go! Go! Go!
+Dialogue: 0,0:24:00.92,0:24:02.57,*Default,NTP,0000,0000,0000,,干的好! 达斯迪\N{\fn微软雅黑\fs15}You got it, Duster!
+Dialogue: 0,0:24:04.52,0:24:05.76,*Default,NTP,0000,0000,0000,,开始攀升!\N{\fn微软雅黑\fs15}Begin your climb!
+Dialogue: 0,0:24:05.96,0:24:07.84,*Default,NTP,0000,0000,0000,,高度换速度\N{\fn微软雅黑\fs15}All right, altitude for airspeed.
+Dialogue: 0,0:24:07.92,0:24:09.25,*Default,NTP,0000,0000,0000,,在俯冲的时候追上他!\N{\fn微软雅黑\fs15}Catch him in the dive!
+Dialogue: 0,0:24:09.40,0:24:11.16,*Default,NTP,0000,0000,0000,,开始俯冲!\N{\fn微软雅黑\fs15}Dive now!
+Dialogue: 0,0:24:17.16,0:24:19.04,*Default,NTP,0000,0000,0000,,像子弹一样!\N{\fn微软雅黑\fs15}Ballistic!
+Dialogue: 0,0:24:20.36,0:24:22.40,*Default,NTP,0000,0000,0000,,他超过阿斯顿马丁了!\N{\fn微软雅黑\fs15}He kicked Aston Martins out there!
+Dialogue: 0,0:24:22.64,0:24:24.76,*Default,NTP,0000,0000,0000,,- 达斯迪真汉子!  - 他已经准备好了\N{\fn微软雅黑\fs15}- Dusterino!  - He's ready.
+Dialogue: 0,0:24:28.20,0:24:30.12,*Default,NTP,0000,0000,0000,,- 喔!  - 太帅了\N{\fn微软雅黑\fs15}- Whoa!  - Oh, that's cool.
+Dialogue: 0,0:24:30.20,0:24:33.36,*Default,NTP,0000,0000,0000,,活塞和交叉的扳手 你的中队标志\N{\fn微软雅黑\fs15}The piston and cross-wrenches. Your squadron insignia.
+Dialogue: 0,0:24:33.52,0:24:34.64,*Default,NTP,0000,0000,0000,,- 这是你努力的结果  - 很适合你\N{\fn微软雅黑\fs15}- You've earned it.  - It fits you.
+Dialogue: 0,0:24:34.76,0:24:36.60,*Default,NTP,0000,0000,0000,,- 太适合你了 达斯迪  - 听着\N{\fn微软雅黑\fs15}- It fits you, Dusty.  - Now, listen.
+Dialogue: 0,0:24:36.76,0:24:38.56,*Default,NTP,0000,0000,0000,,比赛开始时所有的飞机起飞\N{\fn微软雅黑\fs15}When the race starts and all those planes take off,
+Dialogue: 0,0:24:38.68,0:24:40.60,*Default,NTP,0000,0000,0000,,会引起一阵强大的涡流\N{\fn微软雅黑\fs15}it'll stir up a bunch of swirlies
+Dialogue: 0,0:24:40.80,0:24:43.12,*Default,NTP,0000,0000,0000,,扳手中队在航空线之争战役中遇到过\N{\fn微软雅黑\fs15}just like the Wrenches ran into in the Battle of Airway.
+Dialogue: 0,0:24:43.24,0:24:45.56,*Default,NTP,0000,0000,0000,,明白 真希望你能和我一起去 斯基\N{\fn微软雅黑\fs15}Roger that. Sure wish you were coming with me, Skip.
+Dialogue: 0,0:24:45.72,0:24:48.20,*Default,NTP,0000,0000,0000,,到检查点后跟我无线电联系\N{\fn微软雅黑\fs15}Just radio back when you get to the check points.
+Dialogue: 0,0:24:48.36,0:24:50.24,*Default,NTP,0000,0000,0000,,我会在这做你的僚机\N{\fn微软雅黑\fs15}I'll be your wingman from here.
+Dialogue: 0,0:24:50.40,0:24:52.32,*Default,NTP,0000,0000,0000,,为真理而飞行 对吧\N{\fn微软雅黑\fs15}Volo Pro Veritas, right?
+Dialogue: 0,0:24:52.48,0:24:54.56,*Default,NTP,0000,0000,0000,,为真理而飞行\N{\fn微软雅黑\fs15}Volo Pro Veritas.
+Dialogue: 0,0:24:54.76,0:24:56.72,*Default,NTP,0000,0000,0000,,- 让他们见识一下 兄弟  - 我们都为你骄傲\N{\fn微软雅黑\fs15}- Kick some tail, buddy.  - We're all proud of you.
+Dialogue: 0,0:24:56.80,0:24:58.21,*Default,NTP,0000,0000,0000,,喔! 达斯迪先生!\N{\fn微软雅黑\fs15}Whoo-hoo! Dustmeister!
+Dialogue: 0,0:25:04.80,0:25:06.21,*Default,NTP,0000,0000,0000,,喔\N{\fn微软雅黑\fs15}Wow.
+Dialogue: 0,0:25:18.32,0:25:19.36,*Default,NTP,0000,0000,0000,,呼叫 呼叫\N{\fn微软雅黑\fs15}Break, break.
+Dialogue: 0,0:25:19.44,0:25:21.09,*Default,NTP,0000,0000,0000,,7号参赛机 7号参赛机\N{\fn微软雅黑\fs15}Air racer number 7, Air racer number 7.
+Dialogue: 0,0:25:21.16,0:25:23.28,*Default,NTP,0000,0000,0000,,是否收到? 这里是肯尼迪入场管制 完毕\N{\fn微软雅黑\fs15}Do you read? Kennedy approach, over.
+Dialogue: 0,0:25:25.44,0:25:29.08,*Default,NTP,0000,0000,0000,,我是农田守望者达斯迪 我在寻找JFK机场\N{\fn微软雅黑\fs15}I'm Dusty Crophopper, I'm looking for JFK airport.
+Dialogue: 0,0:25:29.24,0:25:31.48,*Default,NTP,0000,0000,0000,,农田守望者7号 你不应该脱离塔台的视线\N{\fn微软雅黑\fs15}Crophopper 7, you are supposed to be on the Carnice visual.
+Dialogue: 0,0:25:31.64,0:25:33.32,*Default,NTP,0000,0000,0000,,左转 航向1-9-5\N{\fn微软雅黑\fs15}Turn further left, heading 1-9-5.
+Dialogue: 0,0:25:33.48,0:25:36.45,*Default,NTP,0000,0000,0000,,保持高度1000 接收22号跑道导航信标\N{\fn微软雅黑\fs15}Maintain 1,000 feet. Intercept the 22 right localizer.
+Dialogue: 0,0:25:36.60,0:25:38.40,*Default,NTP,0000,0000,0000,,22号跑道空闲 尽快进场\N{\fn微软雅黑\fs15}You are cleared for the ILS 22, right approach.
+Dialogue: 0,0:25:38.64,0:25:40.60,*Default,NTP,0000,0000,0000,,- 收到  - 你后方有大型飞机\N{\fn微软雅黑\fs15}- Roger.  - Heavy is sectored in behind you.
+Dialogue: 0,0:25:40.68,0:25:41.84,*Default,NTP,0000,0000,0000,,请再重复一遍\N{\fn微软雅黑\fs15}Run that by me one more time.
+Dialogue: 0,0:25:42.04,0:25:43.69,*Default,NTP,0000,0000,0000,,左转 航向1-9-5 保持高度1000...\N{\fn微软雅黑\fs15}Turn further left, heading 1-9-5. Maintain 1,000...
+Dialogue: 0,0:25:43.76,0:25:44.80,*Default,NTP,0000,0000,0000,,好的 明白了\N{\fn微软雅黑\fs15}Never mind. I got it.
+Dialogue: 0,0:25:45.28,0:25:46.28,*Default,NTP,0000,0000,0000,,你看到他了吗?\N{\fn微软雅黑\fs15}Do you see him?
+Dialogue: 0,0:25:46.80,0:25:48.68,*Default,NTP,0000,0000,0000,,雷达有显示 但我连影都没见着\N{\fn微软雅黑\fs15}Well, radar does, but I don't see diddly.
+Dialogue: 0,0:25:52.68,0:25:57.12,*Default,NTP,0000,0000,0000,,看看这跑道! 太棒了! 这么光滑\N{\fn微软雅黑\fs15}Check out this pavement! Nice! It's so smooth.
+Dialogue: 0,0:25:57.32,0:26:00.00,*Default,NTP,0000,0000,0000,,农田守望者7号 你错过了F滑行道 向左去C滑行道\N{\fn微软雅黑\fs15}Crophopper 7, you passed Foxtrot. Turn left onto Charlie.
+Dialogue: 0,0:26:00.16,0:26:01.16,*Default,NTP,0000,0000,0000,,别在22号跑道待太久\N{\fn微软雅黑\fs15}Hold short at 22.
+Dialogue: 0,0:26:01.36,0:26:03.12,*Default,NTP,0000,0000,0000,,等等 我以为\N{\fn微软雅黑\fs15}Wait, I thought...
+Dialogue: 0,0:26:03.28,0:26:04.69,*Default,NTP,0000,0000,0000,,- 快离开跑道!  - 哇!\N{\fn微软雅黑\fs15}- Get off the runway!  - Whoa!
+Dialogue: 0,0:26:09.16,0:26:11.97,*Default,NTP,0000,0000,0000,,- 不好意思  - 回泽西岛去吧 废柴\N{\fn微软雅黑\fs15}- Oh. Sorry.  - Go back to Jersey, you bum.
+Dialogue: 0,0:26:12.12,0:26:13.20,*Default,NTP,0000,0000,0000,,不好意思 我在哪能...\N{\fn微软雅黑\fs15}Excuse me, where can I...
+Dialogue: 0,0:26:13.36,0:26:15.52,*Default,NTP,0000,0000,0000,,能看着点吗? 我在工作\N{\fn微软雅黑\fs15}Hey-ho, do you mind? I'm working here.
+Dialogue: 0,0:26:15.68,0:26:16.76,*Default,NTP,0000,0000,0000,,对不起\N{\fn微软雅黑\fs15}Sorry.
+Dialogue: 0,0:26:16.84,0:26:20.44,*Default,NTP,0000,0000,0000,,他是个好人 但是太轻浮了 你懂得\N{\fn微软雅黑\fs15}A nice enough guy, but way too much baggage, if you know what I mean.
+Dialogue: 0,0:26:20.64,0:26:22.96,*Default,NTP,0000,0000,0000,,你好 我想去匹兹营地\N{\fn微软雅黑\fs15}Oh, hey, there. I'm looking for pit row.
+Dialogue: 0,0:26:23.12,0:26:24.84,*Default,NTP,0000,0000,0000,,匹兹? 简单\N{\fn微软雅黑\fs15}The pits? Oh, yeah, that's easy.
+Dialogue: 0,0:26:25.00,0:26:27.36,*Default,NTP,0000,0000,0000,,你从这条路一直走到消防站\N{\fn微软雅黑\fs15}You want to go down this way toward the fire station.
+Dialogue: 0,0:26:27.56,0:26:30.16,*Default,NTP,0000,0000,0000,,A滑行道有个朝左的路口\N{\fn微软雅黑\fs15}Then taxiway alpha forks off to the left.
+Dialogue: 0,0:26:30.32,0:26:32.48,*Default,NTP,0000,0000,0000,,但是别走那条路 你应该向右转\N{\fn微软雅黑\fs15}But don't go that way. You want to veer right.
+Dialogue: 0,0:26:32.56,0:26:35.53,*Default,NTP,0000,0000,0000,,如果到了橙色的筒 你就走过了 所以...\N{\fn微软雅黑\fs15}And if you get to the orange barrels, you went too far. So...
+Dialogue: 0,0:26:35.68,0:26:37.52,*Default,NTP,0000,0000,0000,,就一直往前走然后右转\N{\fn微软雅黑\fs15}Just go straight ahead and to the right.
+Dialogue: 0,0:26:37.68,0:26:41.00,*Default,NTP,0000,0000,0000,,好的 谢了 漆喷的不错\N{\fn微软雅黑\fs15}Great, thanks. Hey, nice paint job.
+Dialogue: 0,0:26:41.20,0:26:43.52,*Default,NTP,0000,0000,0000,,多谢夸奖 我也为此而自豪\N{\fn微软雅黑\fs15}Well, thank you! I'm kind of proud of it.
+Dialogue: 0,0:26:43.68,0:26:46.20,*Default,NTP,0000,0000,0000,,- 我觉得他说的是我  - 好吧\N{\fn微软雅黑\fs15}- I think he was talking to me.  - Oh.
+Dialogue: 0,0:26:48.32,0:26:50.92,*Default,NTP,0000,0000,0000,,看看这是谁 斯堪的纳维亚人\N{\fn微软雅黑\fs15}Well, looky who's here. The Scandinavian.
+Dialogue: 0,0:26:51.12,0:26:52.92,*Default,NTP,0000,0000,0000,,- 呃...  - 想家吗?\N{\fn微软雅黑\fs15}- Hey. Uh...  - Miss your home town?
+Dialogue: 0,0:26:53.28,0:26:55.48,*Default,NTP,0000,0000,0000,,我就不想 刚刚这个想法抛到九霄云外了\N{\fn微软雅黑\fs15}I don't. Just about blocked that memory out of my mind.
+Dialogue: 0,0:26:55.56,0:26:57.16,*Default,NTP,0000,0000,0000,,但是你的味道又把它带回来了...\N{\fn微软雅黑\fs15}But you're bringing it right back with that...
+Dialogue: 0,0:26:57.24,0:27:01.04,*Default,NTP,0000,0000,0000,,噢 你怎么还是这股臭烘烘的维它什么肥的味道啊\N{\fn微软雅黑\fs15}Oh, man, that nasty Vita-mina-stink-a-bunch.
+Dialogue: 0,0:27:01.48,0:27:03.44,*Default,NTP,0000,0000,0000,,你的帐篷是左边的最后一个 快去吧!\N{\fn微软雅黑\fs15}Your tent's the last one on the left. Go!
+Dialogue: 0,0:27:03.52,0:27:05.01,*Default,NTP,0000,0000,0000,,好嘞\N{\fn微软雅黑\fs15}Okay.
+Dialogue: 0,0:27:05.16,0:27:08.08,*Default,NTP,0000,0000,0000,,澡堂在右边 随便说说\N{\fn微软雅黑\fs15}Power wash is on the right. Just saying.
+Dialogue: 0,0:27:08.80,0:27:12.80,*Default,NTP,0000,0000,0000,,喔! 从欧洲杯脱颖而出的牛头犬? 大狗!\N{\fn微软雅黑\fs15}Wow! Bulldog? From the European Cup? The Big Dog!
+Dialogue: 0,0:27:12.88,0:27:15.92,*Default,NTP,0000,0000,0000,,我看到过你做那不可思议的高过载垂直转弯\N{\fn微软雅黑\fs15}Hey, I saw you do this unbelievable high-G vertical turn.
+Dialogue: 0,0:27:16.04,0:27:17.04,*Default,NTP,0000,0000,0000,,你怎么做到的?\N{\fn微软雅黑\fs15}How did you do that?
+Dialogue: 0,0:27:17.20,0:27:18.53,*Default,NTP,0000,0000,0000,,竖起耳朵\N{\fn微软雅黑\fs15}Well, let me tell you.
+Dialogue: 0,0:27:18.68,0:27:22.24,*Default,NTP,0000,0000,0000,,我告诉你我所有的飞行秘密如何?\N{\fn微软雅黑\fs15}In fact, why don't I tell you all my racing secrets?
+Dialogue: 0,0:27:22.64,0:27:24.24,*Default,NTP,0000,0000,0000,,- 真的?  - 你说呢\N{\fn微软雅黑\fs15}- Really?  - No.
+Dialogue: 0,0:27:24.40,0:27:26.00,*Default,NTP,0000,0000,0000,,听着 我不知道\N{\fn微软雅黑\fs15}Look, I don't know how things work
+Dialogue: 0,0:27:26.12,0:27:28.60,*Default,NTP,0000,0000,0000,,你们那穷乡僻壤情况如何\N{\fn微软雅黑\fs15}in the backwater from which you hail, matey,
+Dialogue: 0,0:27:28.68,0:27:30.25,*Default,NTP,0000,0000,0000,,但这是场比赛\N{\fn微软雅黑\fs15}but this is a competition.
+Dialogue: 0,0:27:30.40,0:27:33.40,*Default,NTP,0000,0000,0000,,大家都各自为战! 拜拜\N{\fn微软雅黑\fs15}Every plane for himself! Goodbye.
+Dialogue: 0,0:27:33.56,0:27:35.24,*Default,NTP,0000,0000,0000,,是啊 当然了\N{\fn微软雅黑\fs15}Yeah, sure.
+Dialogue: 0,0:27:36.08,0:27:37.73,*Default,NTP,0000,0000,0000,,- 喔...啊!  - 唔\N{\fn微软雅黑\fs15}- Whoa... Whoa!  - Oh.
+Dialogue: 0,0:27:38.44,0:27:39.80,*Default,NTP,0000,0000,0000,,噢\N{\fn微软雅黑\fs15}Uh... Oh.
+Dialogue: 0,0:27:39.88,0:27:42.16,*Default,NTP,0000,0000,0000,,等等 这是玻光蜡100型号\N{\fn微软雅黑\fs15}Wait a second. This is AeroShell 100.
+Dialogue: 0,0:27:42.24,0:27:44.64,*Default,NTP,0000,0000,0000,,我记得我订的是DT-2380\N{\fn微软雅黑\fs15}I thought I ordered the DT-2380.
+Dialogue: 0,0:27:44.80,0:27:46.80,*Default,NTP,0000,0000,0000,,不好意思让你看到我出丑了\N{\fn微软雅黑\fs15}Well, I am sorry you had to see that.
+Dialogue: 0,0:27:47.00,0:27:49.84,*Default,NTP,0000,0000,0000,,- 你还好吧?  - 当然了 怎么会不好呢?\N{\fn微软雅黑\fs15}- Are you all right?  - Sure. Why wouldn't I be?
+Dialogue: 0,0:27:49.92,0:27:54.80,*Default,NTP,0000,0000,0000,,你是泛亚的冠军和蒙巴杯的记录保持者 伊莎妮\N{\fn微软雅黑\fs15}And you are Pan-Asian Champion and Mumbai Cup record holder, Ishani.
+Dialogue: 0,0:27:54.88,0:27:57.04,*Default,NTP,0000,0000,0000,,大家都叫我"伊莎妮"\N{\fn微软雅黑\fs15}Most people call me just "Ishani."
+Dialogue: 0,0:27:57.12,0:27:59.60,*Default,NTP,0000,0000,0000,,我是达斯迪 我是说我的名字是达斯迪\N{\fn微软雅黑\fs15}I'm Dusty. I mean, uh, my name is Dusty.
+Dialogue: 0,0:27:59.72,0:28:02.61,*Default,NTP,0000,0000,0000,,但我并不是真的满身灰尘 我很干净的\N{\fn微软雅黑\fs15}I'm not actually dusty, I'm quite clean.
+Dialogue: 0,0:28:02.76,0:28:06.89,*Default,NTP,0000,0000,0000,,幸会 "小干净"达斯迪\N{\fn微软雅黑\fs15}It's very nice to meet you, "quite clean" Dusty.
+Dialogue: 0,0:28:07.12,0:28:08.77,*Default,NTP,0000,0000,0000,,我也很高兴见到你\N{\fn微软雅黑\fs15}Nice to meet you, too.
+Dialogue: 0,0:28:09.92,0:28:11.76,*Default,NTP,0000,0000,0000,,看看那螺旋桨\N{\fn微软雅黑\fs15}Look at that propeller.
+Dialogue: 0,0:28:11.96,0:28:13.12,*Default,NTP,0000,0000,0000,,真棒\N{\fn微软雅黑\fs15}Ooh.
+Dialogue: 0,0:28:13.28,0:28:15.44,*Default,NTP,0000,0000,0000,,往那边一点 别太用力\N{\fn微软雅黑\fs15}A little over there. Not so much pressure, okay?
+Dialogue: 0,0:28:15.60,0:28:17.76,*Default,NTP,0000,0000,0000,,打扰一下 让一让\N{\fn微软雅黑\fs15}Oh, excuse me, guys. Pardon me.
+Dialogue: 0,0:28:18.60,0:28:20.01,*Default,NTP,0000,0000,0000,,就是这样\N{\fn微软雅黑\fs15}Yeah.
+Dialogue: 0,0:28:20.16,0:28:21.57,*Default,NTP,0000,0000,0000,,看看谁来了!\N{\fn微软雅黑\fs15}Hey, look who made it!
+Dialogue: 0,0:28:22.12,0:28:23.77,*Default,NTP,0000,0000,0000,,- 喷粉机  - 你好\N{\fn微软雅黑\fs15}- It's the crop duster.  - Hey.
+Dialogue: 0,0:28:23.92,0:28:26.52,*Default,NTP,0000,0000,0000,,你的到来是一个很有意思的故事\N{\fn微软雅黑\fs15}You know, having you here is a nice vehicle-interest story.
+Dialogue: 0,0:28:26.64,0:28:28.64,*Default,NTP,0000,0000,0000,,小镇农民来到这盛大的节日\N{\fn微软雅黑\fs15}Small-town farmer makes it to the big time.
+Dialogue: 0,0:28:28.80,0:28:29.92,*Default,NTP,0000,0000,0000,,是的 先生\N{\fn微软雅黑\fs15}Yes, sir.
+Dialogue: 0,0:28:30.00,0:28:32.16,*Default,NTP,0000,0000,0000,,- 但起飞时不幸遭遇事故  - 什么?\N{\fn微软雅黑\fs15}- But tragically crashes on takeoff.  - What?
+Dialogue: 0,0:28:32.36,0:28:33.85,*Default,NTP,0000,0000,0000,,环球之翼大赛冠军里普斯林杰\N{\fn微软雅黑\fs15}Wings around The Globe winner, Ripslinger,
+Dialogue: 0,0:28:33.92,0:28:38.20,*Default,NTP,0000,0000,0000,,会称赞默默无闻的乡巴佬然后把他葬在玉米地里\N{\fn微软雅黑\fs15}eulogizes the unknown hayseed and scatters his debris over a cornfield.
+Dialogue: 0,0:28:38.40,0:28:39.97,*Default,NTP,0000,0000,0000,,人气肯定会暴增啊!\N{\fn微软雅黑\fs15}Ratings will be through the roof!
+Dialogue: 0,0:28:40.12,0:28:41.92,*Default,NTP,0000,0000,0000,,- 好吧  - 祝你好运\N{\fn微软雅黑\fs15}- Okay.  - Good luck.
+Dialogue: 0,0:28:42.64,0:28:44.76,*Default,NTP,0000,0000,0000,,- 土鳖  - 什么?\N{\fn微软雅黑\fs15}- Farm boy.  - What?
+Dialogue: 0,0:28:47.20,0:28:49.96,*Default,NTP,0000,0000,0000,,人民英雄驾到\N{\fn微软雅黑\fs15}The hero of the people has arrived.
+Dialogue: 0,0:28:53.04,0:28:56.36,*Default,NTP,0000,0000,0000,,你们从没听说过伟大的卓帕卡布拉?\N{\fn微软雅黑\fs15}You have never heard of the great El Chupacabra?
+Dialogue: 0,0:28:59.84,0:29:02.92,*Default,NTP,0000,0000,0000,,这不是那个专吸小车燃料的怪物吗?\N{\fn微软雅黑\fs15}Hey, isn't that that monster that siphons fuel from small vehicles?
+Dialogue: 0,0:29:03.12,0:29:05.20,*Default,NTP,0000,0000,0000,,不不 这只是为了让对手\N{\fn微软雅黑\fs15}No, no, no, it's just a stage name
+Dialogue: 0,0:29:05.28,0:29:09.04,*Default,NTP,0000,0000,0000,,感到恐惧而设计的噱头而已\N{\fn微软雅黑\fs15}designed to strike fear into the hearts of my opponents.
+Dialogue: 0,0:29:09.32,0:29:12.13,*Default,NTP,0000,0000,0000,,是啊 他是墨西哥室内比赛的冠军\N{\fn微软雅黑\fs15}Yeah, he's the indoor racing champion of all Mexico.
+Dialogue: 0,0:29:12.28,0:29:13.28,*Default,NTP,0000,0000,0000,,室内比赛?\N{\fn微软雅黑\fs15}Indoor racing?
+Dialogue: 0,0:29:15.76,0:29:19.76,*Default,NTP,0000,0000,0000,,我也是一个艺人 电视剧明星 浪漫小说家\N{\fn微软雅黑\fs15}And numero uno recording artist, telenovela star and romance novelist.
+Dialogue: 0,0:29:19.92,0:29:23.76,*Default,NTP,0000,0000,0000,,你刚才说卓帕卡布拉 还是碎嘴卡布拉?\N{\fn微软雅黑\fs15}Did you say El Chupacabra or El Cuckoo-cabra?
+Dialogue: 0,0:29:23.96,0:29:27.64,*Default,NTP,0000,0000,0000,,你嘲笑我? 你竟敢嘲笑我?\N{\fn微软雅黑\fs15}You make joke? You make joke?
+Dialogue: 0,0:29:28.72,0:29:31.76,*Default,NTP,0000,0000,0000,,很好 你让我别无选择!\N{\fn微软雅黑\fs15}Very well. You leave me no choice!
+Dialogue: 0,0:29:31.84,0:29:35.52,*Default,NTP,0000,0000,0000,,向你扇动我的披风!\N{\fn微软雅黑\fs15}I swish my cape at you!
+Dialogue: 0,0:29:36.20,0:29:39.04,*Default,NTP,0000,0000,0000,,你已经被羞辱了\N{\fn微软雅黑\fs15}You have been shamed.
+Dialogue: 0,0:29:40.84,0:29:42.88,*Default,NTP,0000,0000,0000,,哎呀 我好怕怕呀\N{\fn微软雅黑\fs15}I hope I can get over it.
+Dialogue: 0,0:29:43.04,0:29:45.36,*Default,NTP,0000,0000,0000,,吓死人咧!\N{\fn微软雅黑\fs15}Oh. I just did!
+Dialogue: 0,0:29:45.72,0:29:47.88,*Default,NTP,0000,0000,0000,,嘿 我去年看了机动电视台播出的你的比赛\N{\fn微软雅黑\fs15}Hey, I saw you race on Telemoto last year.
+Dialogue: 0,0:29:47.96,0:29:50.16,*Default,NTP,0000,0000,0000,,当然 那是在西班牙 所以我不是很了解\N{\fn微软雅黑\fs15}Of course, it was in Spanish, so I didn't understand everything.
+Dialogue: 0,0:29:50.24,0:29:52.08,*Default,NTP,0000,0000,0000,,受宠若惊 小飞机\N{\fn微软雅黑\fs15}I am flattered, avión peque?o.
+Dialogue: 0,0:29:52.24,0:29:54.76,*Default,NTP,0000,0000,0000,,你之前参加过很多这样的盛会了吧?\N{\fn微软雅黑\fs15}You have done many of these long distance rallies, yes?
+Dialogue: 0,0:29:54.92,0:29:57.81,*Default,NTP,0000,0000,0000,,- 没有 这是我第一次  - 我也是第一次\N{\fn微软雅黑\fs15}- No, this is my first one.  - It is my first time, as well!
+Dialogue: 0,0:29:57.88,0:30:00.08,*Default,NTP,0000,0000,0000,,我们俩会经历很多奇遇\N{\fn微软雅黑\fs15}We will have many adventures, you and I.
+Dialogue: 0,0:30:00.24,0:30:02.68,*Default,NTP,0000,0000,0000,,我们会笑 会哭 还会翩翩起舞\N{\fn微软雅黑\fs15}We will laugh, we will cry, we will dance!
+Dialogue: 0,0:30:02.76,0:30:03.76,*Default,NTP,0000,0000,0000,,呃...\N{\fn微软雅黑\fs15}Um... Wow.
+Dialogue: 0,0:30:03.88,0:30:06.00,*Default,NTP,0000,0000,0000,,- 当然不是咱俩跳了  - 当然\N{\fn微软雅黑\fs15}- Probably not with each other.  - Of course.
+Dialogue: 0,0:30:06.28,0:30:08.36,*Default,NTP,0000,0000,0000,,天上见了 朋友\N{\fn微软雅黑\fs15}I will see you in the skies, amigo.
+Dialogue: 0,0:30:10.96,0:30:14.16,*Default,NTP,0000,0000,0000,,观众朋友们 又到了一年之中最重要的时刻\N{\fn微软雅黑\fs15}Race fans, it's that time of year again.
+Dialogue: 0,0:30:14.24,0:30:16.89,*Default,NTP,0000,0000,0000,,欢迎来到环球之翼飞行大赛\N{\fn微软雅黑\fs15}Welcome to the Wings Around The Globe.
+Dialogue: 0,0:30:17.44,0:30:19.28,*Default,NTP,0000,0000,0000,,大家好 我是布莱恩特·穆斯塔博格\N{\fn微软雅黑\fs15}Hello, I'm Brent Mustangburger,
+Dialogue: 0,0:30:19.44,0:30:22.52,*Default,NTP,0000,0000,0000,,这是世界上最快的比赛\N{\fn微软雅黑\fs15}and this is the flagship event of the world's fastest sport
+Dialogue: 0,0:30:22.68,0:30:24.88,*Default,NTP,0000,0000,0000,,只有最强王者能够参加的旗舰赛\N{\fn微软雅黑\fs15}where only the best of the best compete.
+Dialogue: 0,0:30:25.04,0:30:27.56,*Default,NTP,0000,0000,0000,,每一个赛段都是对选手\N{\fn微软雅黑\fs15}Each leg brings a new challenge,
+Dialogue: 0,0:30:27.76,0:30:31.44,*Default,NTP,0000,0000,0000,,敏捷 导航能力和持久力的全新挑战\N{\fn微软雅黑\fs15}testing agility, navigation and endurance.
+Dialogue: 0,0:30:31.84,0:30:35.73,*Default,NTP,0000,0000,0000,,但归根结底 速度才是比赛的真正意义\N{\fn微软雅黑\fs15}But when it's all said and done, speed is the name of the game.
+Dialogue: 0,0:30:36.08,0:30:37.65,*Default,NTP,0000,0000,0000,,科林·柯林已经在肯尼迪机场\N{\fn微软雅黑\fs15}Our very own Colin Cowling
+Dialogue: 0,0:30:37.72,0:30:41.77,*Default,NTP,0000,0000,0000,,的绝佳位置给我们带来独家现场报道\N{\fn微软雅黑\fs15}is standing by live from JFK airport with the best seat in the house.
+Dialogue: 0,0:30:41.92,0:30:43.33,*Default,NTP,0000,0000,0000,,现场状况如何 大个子\N{\fn微软雅黑\fs15}How's the view, big guy?
+Dialogue: 0,0:30:43.80,0:30:46.32,*Default,NTP,0000,0000,0000,,布莱恩特 下边的状况真是让人热血沸腾\N{\fn微软雅黑\fs15}Brent, the scene below me is absolutely electric.
+Dialogue: 0,0:30:46.40,0:30:48.97,*Default,NTP,0000,0000,0000,,如你所知 我们的参赛者来自世界各地\N{\fn微软雅黑\fs15}As you know, we have racers from all over the world, here.
+Dialogue: 0,0:30:49.12,0:30:51.88,*Default,NTP,0000,0000,0000,,但其实所谓的悬念只在于\N{\fn微软雅黑\fs15}But the real story should be who's coming in second
+Dialogue: 0,0:30:52.04,0:30:55.12,*Default,NTP,0000,0000,0000,,谁会位居三届卫冕冠军里普斯林杰之后处于第二\N{\fn微软雅黑\fs15}to three-time defending champ, Ripslinger,
+Dialogue: 0,0:30:55.28,0:30:58.25,*Default,NTP,0000,0000,0000,,里普斯林杰希望成为第一位四次\N{\fn微软雅黑\fs15}who is seeking to become the first four-time winner
+Dialogue: 0,0:30:58.40,0:30:59.81,*Default,NTP,0000,0000,0000,,摘得环球之翼桂冠的选手\N{\fn微软雅黑\fs15}in the Wings Around The Globe.
+Dialogue: 0,0:31:00.44,0:31:02.44,*Default,NTP,0000,0000,0000,,选手们正在入场\N{\fn微软雅黑\fs15}The racers are making their way to the runway.
+Dialogue: 0,0:31:02.60,0:31:03.60,*Default,NTP,0000,0000,0000,,- 是达斯迪  - 喔!\N{\fn微软雅黑\fs15}- It's Dusty!  - Whoo!
+Dialogue: 0,0:31:04.00,0:31:07.04,*Default,NTP,0000,0000,0000,,好了 各位 给你们带来达斯迪周边产品\N{\fn微软雅黑\fs15}All right, everybody, get your Dusty bobbleheads.
+Dialogue: 0,0:31:07.12,0:31:10.92,*Default,NTP,0000,0000,0000,,有微波手套 帽子 车贴\N{\fn微软雅黑\fs15}Your oven mitts, hats, bumper stickers, and I also ordered
+Dialogue: 0,0:31:11.00,0:31:13.20,*Default,NTP,0000,0000,0000,,我还订了一千个纪念哨子\N{\fn微软雅黑\fs15}a thousand commemorative whistles.
+Dialogue: 0,0:31:13.28,0:31:14.85,*Default,NTP,0000,0000,0000,,你能不能帮我建个网站?\N{\fn微软雅黑\fs15}Hey, you think you can help me set up a website?
+Dialogue: 0,0:31:15.00,0:31:16.44,*Default,NTP,0000,0000,0000,,钱会烧手吗?\N{\fn微软雅黑\fs15}Does a giga bite?
+Dialogue: 0,0:31:16.64,0:31:18.60,*Default,NTP,0000,0000,0000,,好好照顾它就不会烧手\N{\fn微软雅黑\fs15}Well, not if you pet him nicely.
+Dialogue: 0,0:31:20.04,0:31:21.32,*Default,NTP,0000,0000,0000,,达斯迪\N{\fn微软雅黑\fs15}Dusty.
+Dialogue: 0,0:31:24.48,0:31:26.88,*Default,NTP,0000,0000,0000,,136个国家参与竞争\N{\fn微软雅黑\fs15}One-hundred and thirty-six nations compete.
+Dialogue: 0,0:31:26.96,0:31:29.00,*Default,NTP,0000,0000,0000,,21架飞机脱颖而出\N{\fn微软雅黑\fs15}Twenty-one planes selected.
+Dialogue: 0,0:31:30.64,0:31:32.48,*Default,NTP,0000,0000,0000,,踏入这个赛场就意味着被载入史册\N{\fn微软雅黑\fs15}Folks, a step onto this field, is a step into history.
+Dialogue: 0,0:31:38.48,0:31:40.48,*Default,NTP,0000,0000,0000,,天呐!\N{\fn微软雅黑\fs15}Holy smokes!
+Dialogue: 0,0:31:46.96,0:31:51.84,*Default,NTP,0000,0000,0000,,观众朋友们 我们的比赛中第一次出现了作物喷粉机的身影\N{\fn微软雅黑\fs15}And for the first time ever, folks, we have a crop duster in the race.
+Dialogue: 0,0:31:52.04,0:31:54.12,*Default,NTP,0000,0000,0000,,作物喷粉机?\N{\fn微软雅黑\fs15}A crop duster?
+Dialogue: 0,0:31:54.28,0:31:55.48,*Default,NTP,0000,0000,0000,,他会挂掉的\N{\fn微软雅黑\fs15}Well, he's gonna die.
+Dialogue: 0,0:32:04.40,0:32:07.32,*Default,NTP,0000,0000,0000,,里普斯林杰! 里普斯林杰!\N{\fn微软雅黑\fs15}Ripslinger! Ripslinger!
+Dialogue: 0,0:32:07.68,0:32:08.68,*Default,NTP,0000,0000,0000,,喔!\N{\fn微软雅黑\fs15}Wow!
+Dialogue: 0,0:32:08.76,0:32:11.28,*Default,NTP,0000,0000,0000,,里普斯林杰! 里普斯林杰! 里普斯林杰!\N{\fn微软雅黑\fs15}Ripslinger! Ripslinger! Ripslinger!
+Dialogue: 0,0:32:11.36,0:32:12.93,*Default,NTP,0000,0000,0000,,沉浸在欢呼声中吧!\N{\fn微软雅黑\fs15}Yeah. You're caught in the riptide!
+Dialogue: 0,0:32:17.36,0:32:19.36,*Default,NTP,0000,0000,0000,,哇 看看周围的人群\N{\fn微软雅黑\fs15}Whoa. Look at this crowd.
+Dialogue: 0,0:32:19.52,0:32:23.16,*Default,NTP,0000,0000,0000,,专注比赛 朋友 别为任何事分心\N{\fn微软雅黑\fs15}Stay focused, amigo. Don't let anything distract you.
+Dialogue: 0,0:32:23.28,0:32:24.28,*Default,NTP,0000,0000,0000,,啊!\N{\fn微软雅黑\fs15}Ay-yay!
+Dialogue: 0,0:32:35.28,0:32:37.12,*Default,NTP,0000,0000,0000,,那是谁?\N{\fn微软雅黑\fs15}Who is that vision?
+Dialogue: 0,0:32:37.20,0:32:40.04,*Default,NTP,0000,0000,0000,,瑞谢尔 加拿大拉力赛冠军\N{\fn微软雅黑\fs15}That's Rochelle, the Canadian rally champ.
+Dialogue: 0,0:32:40.72,0:32:43.24,*Default,NTP,0000,0000,0000,,她真是貌若天仙 惊为天人\N{\fn微软雅黑\fs15}She is like an angel, sent from heaven.
+Dialogue: 0,0:32:43.32,0:32:46.96,*Default,NTP,0000,0000,0000,,就像无尽黑暗中的曙光\N{\fn微软雅黑\fs15}Like a sunrise after a lifetime of darkness.
+Dialogue: 0,0:32:47.16,0:32:52.24,*Default,NTP,0000,0000,0000,,就像即将枯萎草地上的新鲜肥料\N{\fn微软雅黑\fs15}Like fresh fertilizer on a field of dying grass.
+Dialogue: 0,0:32:53.56,0:32:55.72,*Default,NTP,0000,0000,0000,,完全不是一回事 朋友\N{\fn微软雅黑\fs15}This is not your thing, my friend.
+Dialogue: 0,0:32:55.88,0:32:59.44,*Default,NTP,0000,0000,0000,,好了 选手们 启动你们的引擎吧!\N{\fn微软雅黑\fs15}All right, racers. Start your engines!
+Dialogue: 0,0:33:05.72,0:33:09.52,*Default,NTP,0000,0000,0000,,七个赛段 超过31000公里\N{\fn微软雅黑\fs15}Seven legs, over 31,000 kilometers,
+Dialogue: 0,0:33:09.68,0:33:12.76,*Default,NTP,0000,0000,0000,,世界上最高的山峰 最深的海洋\N{\fn微软雅黑\fs15}the world's highest mountains, and the deepest oceans
+Dialogue: 0,0:33:12.92,0:33:14.12,*Default,NTP,0000,0000,0000,,都在那里等待着\N{\fn微软雅黑\fs15}all stand before them
+Dialogue: 0,0:33:14.28,0:33:18.36,*Default,NTP,0000,0000,0000,,被冠军所征服\N{\fn微软雅黑\fs15}just waiting to be conquered by the right competitor.
+Dialogue: 0,0:33:28.20,0:33:30.32,*Default,NTP,0000,0000,0000,,开始了 天呐\N{\fn微软雅黑\fs15}Here we go. Oh, boy!
+Dialogue: 0,0:33:30.52,0:33:31.80,*Default,NTP,0000,0000,0000,,所有的付出与汗水\N{\fn微软雅黑\fs15}All the preparation.
+Dialogue: 0,0:33:31.88,0:33:33.64,*Default,NTP,0000,0000,0000,,都是为了这一刻\N{\fn微软雅黑\fs15}It all comes down to this moment.
+Dialogue: 0,0:33:35.24,0:33:38.68,*Default,NTP,0000,0000,0000,,场上的一架飞机最终会夺得冠军\N{\fn微软雅黑\fs15}One of these planes is about to fly off into the pages of sports history
+Dialogue: 0,0:33:38.76,0:33:40.80,*Default,NTP,0000,0000,0000,,并在体育的历史长河中被人所铭记\N{\fn微软雅黑\fs15}and become a champion.
+Dialogue: 0,0:33:45.56,0:33:46.64,*Default,NTP,0000,0000,0000,,出发!\N{\fn微软雅黑\fs15}Go!
+Dialogue: 0,0:33:47.52,0:33:49.60,*Default,NTP,0000,0000,0000,,比赛开始了!\N{\fn微软雅黑\fs15}And we are under way!
+Dialogue: 0,0:34:13.80,0:34:15.32,*Default,NTP,0000,0000,0000,,喔! 涡流!\N{\fn微软雅黑\fs15}Whoa! Swirlies!
+Dialogue: 0,0:34:15.56,0:34:16.84,*Default,NTP,0000,0000,0000,,噢!\N{\fn微软雅黑\fs15}Whoa! Whoa.
+Dialogue: 0,0:34:20.72,0:34:22.29,*Default,NTP,0000,0000,0000,,第一站的比赛就异常艰难\N{\fn微软雅黑\fs15}Our first stage is a Whopper.
+Dialogue: 0,0:34:21.73,0:34:26.23,*Default,NTP,0000,0000,0000,,{\an8}第一赛段 纽约-冰岛
+Dialogue: 0,0:34:22.36,0:34:24.48,*Default,NTP,0000,0000,0000,,横跨北大西洋的死亡冲刺\N{\fn微软雅黑\fs15}A dead sprint across the North Atlantic.
+Dialogue: 0,0:34:24.64,0:34:26.88,*Default,NTP,0000,0000,0000,,没错 布莱恩特 就是如此 观众朋友们\N{\fn微软雅黑\fs15}That's right, Brent. This is how it works, folks.
+Dialogue: 0,0:34:27.00,0:34:30.60,*Default,NTP,0000,0000,0000,,这个赛段的冠军将在明天的比赛中第一个出发\N{\fn微软雅黑\fs15}The winner of the leg today is the first to take off tomorrow.
+Dialogue: 0,0:35:01.58,0:35:05.09,*Default,NTP,0000,0000,0000,,{\an9}欢迎来到冰岛
+Dialogue: 0,0:35:05.20,0:35:09.52,*Default,NTP,0000,0000,0000,,看看谁是最后一名! 只会低空飞行的土鳖!\N{\fn微软雅黑\fs15}Hey, look who's finally here! It's that low-flying farmer boy!
+Dialogue: 0,0:35:09.72,0:35:12.20,*Default,NTP,0000,0000,0000,,你知道自己是在比赛吧 啊?\N{\fn微软雅黑\fs15}You do know this is a race, right?
+Dialogue: 0,0:35:14.04,0:35:15.40,*Default,NTP,0000,0000,0000,,说的好 老大\N{\fn微软雅黑\fs15}That's a good one, boss.
+Dialogue: 0,0:35:16.20,0:35:19.60,*Default,NTP,0000,0000,0000,,麻烦问一下 破冰机有多重?\N{\fn微软雅黑\fs15}Excuse me, how much does a snow plow weigh?
+Dialogue: 0,0:35:19.72,0:35:21.13,*Default,NTP,0000,0000,0000,,我不知道\N{\fn微软雅黑\fs15}Je ne sais pas. I do not know.
+Dialogue: 0,0:35:21.28,0:35:24.88,*Default,NTP,0000,0000,0000,,足够击碎冰块 我是卓帕卡布拉\N{\fn微软雅黑\fs15}Enough to break the ice. I am El Chupacabra.
+Dialogue: 0,0:35:25.04,0:35:28.36,*Default,NTP,0000,0000,0000,,- 所以你是破冰机,是吧?  - 可以这么说\N{\fn微软雅黑\fs15}- Ah. You are the snow plow, oui?  - You could say that, yes.
+Dialogue: 0,0:35:28.56,0:35:31.80,*Default,NTP,0000,0000,0000,,- 那我是冰块?  - 是的\N{\fn微软雅黑\fs15}- And I am the ice?  - Yes.
+Dialogue: 0,0:35:32.12,0:35:33.48,*Default,NTP,0000,0000,0000,,冰冷 冷漠 毫无生气?\N{\fn微软雅黑\fs15}Cold, frozen and lifeless?
+Dialogue: 0,0:35:33.64,0:35:35.92,*Default,NTP,0000,0000,0000,,不 我... 用西班牙语说会比较好\N{\fn微软雅黑\fs15}No, I... It sounds better in Spanish.
+Dialogue: 0,0:35:36.08,0:35:38.73,*Default,NTP,0000,0000,0000,,自己玩去吧 桌布破拉\N{\fn微软雅黑\fs15}Why don't you go plow yourself, El Chu-toy?
+Dialogue: 0,0:35:40.40,0:35:42.64,*Default,NTP,0000,0000,0000,,她就像天使下凡\N{\fn微软雅黑\fs15}She is like an angel.
+Dialogue: 0,0:35:43.24,0:35:45.89,*Default,NTP,0000,0000,0000,,我是普罗普沃什镇 呼叫农田守望者达斯迪\N{\fn微软雅黑\fs15}This is Propwash Junction to Dusty Crophopper.
+Dialogue: 0,0:35:45.96,0:35:46.96,*Default,NTP,0000,0000,0000,,收到 楚格\N{\fn微软雅黑\fs15}I read you, Chug.
+Dialogue: 0,0:35:47.08,0:35:49.44,*Default,NTP,0000,0000,0000,,和"大狗"一起比赛感觉如何啊?\N{\fn微软雅黑\fs15}So what's it like racing with the big dogs, Duster?
+Dialogue: 0,0:35:49.72,0:35:52.53,*Default,NTP,0000,0000,0000,,- 我的机翼冻僵了 -哇!\N{\fn微软雅黑\fs15}- Well, my wings froze solid.  - Man!
+Dialogue: 0,0:35:52.60,0:35:54.72,*Default,NTP,0000,0000,0000,,- 喷粉器上挂满了冰柱  - 不错!\N{\fn微软雅黑\fs15}- I had icicles hanging off my sprayer.  - All right!
+Dialogue: 0,0:35:54.80,0:35:57.32,*Default,NTP,0000,0000,0000,,我还差点撞在一个10层的冰山上\N{\fn微软雅黑\fs15}And I nearly smashed into a 10-story iceberg.
+Dialogue: 0,0:35:57.40,0:35:58.56,*Default,NTP,0000,0000,0000,,太棒了\N{\fn微软雅黑\fs15}Awesome!
+Dialogue: 0,0:35:58.76,0:36:00.84,*Default,NTP,0000,0000,0000,,我可不会用"太棒了"来形容\N{\fn微软雅黑\fs15}Yeah, "awesome" is not quite the word that I would use
+Dialogue: 0,0:36:00.96,0:36:02.76,*Default,NTP,0000,0000,0000,,一次可怕的鬼门关之旅\N{\fn微软雅黑\fs15}to describe a gruesome near-death experience.
+Dialogue: 0,0:36:02.92,0:36:04.00,*Default,NTP,0000,0000,0000,,撑住 哥们\N{\fn微软雅黑\fs15}You hang in there, buddy.
+Dialogue: 0,0:36:04.16,0:36:07.40,*Default,NTP,0000,0000,0000,,没什么比死在你所钟爱的事上更棒了\N{\fn微软雅黑\fs15}There's nothing better than dying while doing what you love most.
+Dialogue: 0,0:36:07.60,0:36:09.60,*Default,NTP,0000,0000,0000,,这一定让他宽慰不少\N{\fn微软雅黑\fs15}That's gonna make him feel a lot better.
+Dialogue: 0,0:36:09.80,0:36:11.80,*Default,NTP,0000,0000,0000,,达斯迪 就像乔利中队在\N{\fn微软雅黑\fs15}Dusty, just like when the Jolly Wrenches
+Dialogue: 0,0:36:11.92,0:36:13.00,*Default,NTP,0000,0000,0000,,阿留申群岛的时候一样\N{\fn微软雅黑\fs15}were up in the Aleutians
+Dialogue: 0,0:36:13.08,0:36:15.60,*Default,NTP,0000,0000,0000,,靠近海面的空气饱含水分\N{\fn微软雅黑\fs15}the air down close to the sea has more moisture,
+Dialogue: 0,0:36:15.76,0:36:17.25,*Default,NTP,0000,0000,0000,,这就是为什么你会结冰\N{\fn微软雅黑\fs15}which is why you took on ice.
+Dialogue: 0,0:36:17.68,0:36:19.76,*Default,NTP,0000,0000,0000,,- 你得试着飞得高一点  - 好吧\N{\fn微软雅黑\fs15}- You gotta try to fly higher.  - Great.
+Dialogue: 0,0:36:19.84,0:36:20.96,*Default,NTP,0000,0000,0000,,好消息是\N{\fn微软雅黑\fs15}The good news is
+Dialogue: 0,0:36:21.12,0:36:23.80,*Default,NTP,0000,0000,0000,,明天的行程是巴伐利亚障碍赛段\N{\fn微软雅黑\fs15}tomorrow's leg goes through the Bavarian obstacle course.
+Dialogue: 0,0:36:23.96,0:36:27.20,*Default,NTP,0000,0000,0000,,完全靠的是灵活性 你要抓住机会赶超对手\N{\fn微软雅黑\fs15}It's all about agility, so it's your chance to move up.
+Dialogue: 0,0:36:28.36,0:36:31.44,*Default,NTP,0000,0000,0000,,还要记住 速度不是取胜的关键 技术才是一切\N{\fn微软雅黑\fs15}And remember, it's not speed that wins races, it's skill.
+Dialogue: 0,0:36:31.62,0:36:34.57,*Default,NTP,0000,0000,0000,,第二赛段 冰岛-德国
+Dialogue: 0,0:36:45.12,0:36:49.01,*Default,NTP,0000,0000,0000,,求救! 求救! 求救! 失去飞行视野 我看不见了\N{\fn微软雅黑\fs15}Mayday! Mayday! Mayday! I'm blinded. I can't see.
+Dialogue: 0,0:36:50.04,0:36:51.04,*Default,NTP,0000,0000,0000,,我们收到最新的消息\N{\fn微软雅黑\fs15}We're receiving breaking news
+Dialogue: 0,0:36:51.12,0:36:53.88,*Default,NTP,0000,0000,0000,,在德国上空赛段 一名选手出现了事故\N{\fn微软雅黑\fs15}of an incident in the skies over Germany involving one of the racers.
+Dialogue: 0,0:36:53.96,0:36:56.48,*Default,NTP,0000,0000,0000,,切换到航拍镜头一号 进行现场直播\N{\fn微软雅黑\fs15}Let's check in with Skycam 1 for more information.
+Dialogue: 0,0:36:56.64,0:36:58.80,*Default,NTP,0000,0000,0000,,斗牛犬 英国传奇赛手\N{\fn微软雅黑\fs15}Bulldog, the legendary flyer from
+Dialogue: 0,0:36:59.32,0:37:00.84,*Default,NTP,0000,0000,0000,,正经历生死关头\N{\fn微软雅黑\fs15}the UK, is in tremendous danger.
+Dialogue: 0,0:37:00.96,0:37:04.48,*Default,NTP,0000,0000,0000,,他好像正在盲飞 失去了飞行速度和高度\N{\fn微软雅黑\fs15}It looks like he's flying blind, losing speed, losing altitude...
+Dialogue: 0,0:37:04.96,0:37:07.69,*Default,NTP,0000,0000,0000,,等等! 是7号选手 农田守望者\N{\fn微软雅黑\fs15}Wait! It's Racer Number 7, Crophopper,
+Dialogue: 0,0:37:07.76,0:37:09.41,*Default,NTP,0000,0000,0000,,- 和他一起下坠  - 他在干什么啊?\N{\fn微软雅黑\fs15}- pulling up beside him.  - What's he doing?
+Dialogue: 0,0:37:09.60,0:37:12.12,*Default,NTP,0000,0000,0000,,- 斗牛犬 上偏你的左副翼  - 明白\N{\fn微软雅黑\fs15}- Bulldog, apply your left aileron.  - Okay.
+Dialogue: 0,0:37:12.20,0:37:13.20,*Default,NTP,0000,0000,0000,,停止尾旋\N{\fn微软雅黑\fs15}Stop roll.
+Dialogue: 0,0:37:13.44,0:37:14.56,*Default,NTP,0000,0000,0000,,- 乘现在 爬升 快爬升  - 明白\N{\fn微软雅黑\fs15}- Now, quick, pull up.  - Got it.
+Dialogue: 0,0:37:14.64,0:37:15.72,*Default,NTP,0000,0000,0000,,升一点 再升一点!\N{\fn微软雅黑\fs15}Harder, harder!
+Dialogue: 0,0:37:15.84,0:37:17.96,*Default,NTP,0000,0000,0000,,微右偏 好的!\N{\fn微软雅黑\fs15}Slight roll right. Good!
+Dialogue: 0,0:37:19.36,0:37:22.52,*Default,NTP,0000,0000,0000,,哇哦! 前方大型城堡! 爬升! 右满偏!\N{\fn微软雅黑\fs15}Whoa! Big castle! Pull up! Hard roll right!
+Dialogue: 0,0:37:23.68,0:37:24.72,*Default,NTP,0000,0000,0000,,停止偏转\N{\fn微软雅黑\fs15}Stop roll.
+Dialogue: 0,0:37:25.68,0:37:26.80,*Default,NTP,0000,0000,0000,,你还在吗?\N{\fn微软雅黑\fs15}Are you still there?
+Dialogue: 0,0:37:26.88,0:37:28.76,*Default,NTP,0000,0000,0000,,我还在 我就在你旁边\N{\fn微软雅黑\fs15}I'm right here. I'll fly right alongside you.
+Dialogue: 0,0:37:29.16,0:37:32.00,*Default,NTP,0000,0000,0000,,全体注意! 收到求救信号! 清空跑道!\N{\fn微软雅黑\fs15}Achtung! We have a mayday! Clear the runway!
+Dialogue: 0,0:37:32.16,0:37:34.00,*Default,NTP,0000,0000,0000,,全体注意! 清空跑道!\N{\fn微软雅黑\fs15}Achtung! Clear the runway!
+Dialogue: 0,0:37:34.16,0:37:35.52,*Default,NTP,0000,0000,0000,,- 提升马力  - 好的\N{\fn微软雅黑\fs15}- Add power.  - Okay.
+Dialogue: 0,0:37:35.68,0:37:36.72,*Default,NTP,0000,0000,0000,,- 慢慢的  - 明白\N{\fn微软雅黑\fs15}- Easy, now.  - Yes.
+Dialogue: 0,0:37:36.88,0:37:40.36,*Default,NTP,0000,0000,0000,,好的 下降襟翼 保持住\N{\fn微软雅黑\fs15}Good. Flaps down, lock them.
+Dialogue: 0,0:37:40.68,0:37:41.96,*Default,NTP,0000,0000,0000,,小心啊\N{\fn微软雅黑\fs15}Careful.
+Dialogue: 0,0:37:42.08,0:37:43.12,*Default,NTP,0000,0000,0000,,起落架放下\N{\fn微软雅黑\fs15}Landing gear down.
+Dialogue: 0,0:37:43.32,0:37:44.48,*Default,NTP,0000,0000,0000,,明白 起落架就位\N{\fn微软雅黑\fs15}Yeah, and locked.
+Dialogue: 0,0:37:44.68,0:37:46.04,*Default,NTP,0000,0000,0000,,开始滑行减速\N{\fn微软雅黑\fs15}Begin your flare.
+Dialogue: 0,0:37:46.24,0:37:47.68,*Default,NTP,0000,0000,0000,,重心略微偏后\N{\fn微软雅黑\fs15}Power back a little.
+Dialogue: 0,0:37:49.72,0:37:51.29,*Default,NTP,0000,0000,0000,,落地! 好样的!\N{\fn微软雅黑\fs15}Touchdown! Nicely done!
+Dialogue: 0,0:37:58.68,0:38:00.25,*Default,NTP,0000,0000,0000,,谢谢你的帮助 伙计\N{\fn微软雅黑\fs15}Thanks for your help, matey.
+Dialogue: 0,0:38:00.56,0:38:02.80,*Default,NTP,0000,0000,0000,,如果不是你...\N{\fn微软雅黑\fs15}I couldn't have done it without...
+Dialogue: 0,0:38:02.88,0:38:05.72,*Default,NTP,0000,0000,0000,,你? 是你救了我?\N{\fn微软雅黑\fs15}You? You saved me?
+Dialogue: 0,0:38:05.88,0:38:08.32,*Default,NTP,0000,0000,0000,,我之前怎么跟你说的 小鬼? 大家都各自为战 懂吗?\N{\fn微软雅黑\fs15}What did I tell you, boy? Every plane for himself, right?
+Dialogue: 0,0:38:08.40,0:38:11.29,*Default,NTP,0000,0000,0000,,在我家乡 如果你看到有人坠落...\N{\fn微软雅黑\fs15}Where I come from, if you see someone falling from the sky...
+Dialogue: 0,0:38:11.48,0:38:15.16,*Default,NTP,0000,0000,0000,,没错 但这是场比赛 你现在稳稳地垫底了\N{\fn微软雅黑\fs15}Yes, but this is a competition. Now, you're dead last.
+Dialogue: 0,0:38:15.36,0:38:17.80,*Default,NTP,0000,0000,0000,,但我欠你一条命\N{\fn微软雅黑\fs15}And I owe you my life.
+Dialogue: 0,0:38:19.20,0:38:20.28,*Default,NTP,0000,0000,0000,,你是在哭吗?\N{\fn微软雅黑\fs15}Are you crying?
+Dialogue: 0,0:38:20.48,0:38:22.56,*Default,NTP,0000,0000,0000,,我没哭 我是英国人!\N{\fn微软雅黑\fs15}I don't cry, I'm British!
+Dialogue: 0,0:38:24.04,0:38:25.40,*Default,NTP,0000,0000,0000,,但还是谢谢了 伙计\N{\fn微软雅黑\fs15}Thanks, matey.
+Dialogue: 0,0:38:25.80,0:38:27.72,*Default,NTP,0000,0000,0000,,小事情 牛头犬\N{\fn微软雅黑\fs15}Sure thing, Bulldog.
+Dialogue: 0,0:38:27.92,0:38:29.57,*Default,NTP,0000,0000,0000,,牛头犬!\N{\fn微软雅黑\fs15}Bulldog!
+Dialogue: 0,0:38:30.76,0:38:34.60,*Default,NTP,0000,0000,0000,,不得不说 农用飞机 你还真是个好人\N{\fn微软雅黑\fs15}Well, I gotta say, cropduster, you are a nice guy.
+Dialogue: 0,0:38:34.76,0:38:35.84,*Default,NTP,0000,0000,0000,,嘿 谢谢 里普\N{\fn微软雅黑\fs15}Hey. Thanks, Rip.
+Dialogue: 0,0:38:35.92,0:38:38.24,*Default,NTP,0000,0000,0000,,况且我们都知道 好人没有好下场\N{\fn微软雅黑\fs15}And we all know where nice guys finish.
+Dialogue: 0,0:38:38.40,0:38:40.08,*Default,NTP,0000,0000,0000,,是啊!\N{\fn微软雅黑\fs15}Yeah!
+Dialogue: 0,0:38:52.80,0:38:55.00,*Default,NTP,0000,0000,0000,,稳稳垫底\N{\fn微软雅黑\fs15}Dead last.
+Dialogue: 0,0:38:55.68,0:38:59.08,*Default,NTP,0000,0000,0000,,不高兴 就喝酒\N{\fn微软雅黑\fs15}You sad, you drink.
+Dialogue: 0,0:38:59.24,0:39:01.92,*Default,NTP,0000,0000,0000,,多谢了 好建议啊\N{\fn微软雅黑\fs15}Thanks. Great advice.
+Dialogue: 0,0:39:02.08,0:39:05.44,*Default,NTP,0000,0000,0000,,至少你没有情场失意啊\N{\fn微软雅黑\fs15}At least you are not last in the race for love.
+Dialogue: 0,0:39:05.68,0:39:06.76,*Default,NTP,0000,0000,0000,,瑞谢尔?\N{\fn微软雅黑\fs15}Rochelle?
+Dialogue: 0,0:39:06.92,0:39:11.96,*Default,NTP,0000,0000,0000,,这让人心碎 她的热情与我无关\N{\fn微软雅黑\fs15}Her passion is, sadly, not for me.
+Dialogue: 0,0:39:12.48,0:39:14.64,*Default,NTP,0000,0000,0000,,她很难追吧 卓帕\N{\fn微软雅黑\fs15}Tough break, El Chu.
+Dialogue: 0,0:39:15.68,0:39:16.68,*Default,NTP,0000,0000,0000,,不好意思\N{\fn微软雅黑\fs15}Excuse me.
+Dialogue: 0,0:39:16.76,0:39:20.44,*Default,NTP,0000,0000,0000,,我叫弗兰茨 我是你的粉丝\N{\fn微软雅黑\fs15}My name is Franz, and I am a huge fan.
+Dialogue: 0,0:39:20.52,0:39:23.92,*Default,NTP,0000,0000,0000,,- 我还有粉丝?  - 哦 就我一个人\N{\fn微软雅黑\fs15}- I have fans?  - Oh, no, no, no. Just me.
+Dialogue: 0,0:39:24.00,0:39:28.84,*Default,NTP,0000,0000,0000,,我代表所有小型飞机 想向你说声感谢\N{\fn微软雅黑\fs15}And I would like to say danke for representing all us little planes.
+Dialogue: 0,0:39:29.44,0:39:31.16,*Default,NTP,0000,0000,0000,,啊... 可你是辆车\N{\fn微软雅黑\fs15}Uh... You're a car.
+Dialogue: 0,0:39:31.40,0:39:34.92,*Default,NTP,0000,0000,0000,,没错 没错 但请称我飞行汽车弗兰茨\N{\fn微软雅黑\fs15}Yeah, yeah, yeah. But I am what you call a Flugzeugauto,
+Dialogue: 0,0:39:35.00,0:39:37.97,*Default,NTP,0000,0000,0000,,迄今六辆飞行汽车中的一辆!\N{\fn微软雅黑\fs15}one of only six flying cars ever built!
+Dialogue: 0,0:39:45.48,0:39:47.32,*Default,NTP,0000,0000,0000,,- 哇哦!  - 你好啊 达斯迪先生\N{\fn微软雅黑\fs15}- Whoa!  - Guten Tag, Herr Dusty.
+Dialogue: 0,0:39:47.96,0:39:50.08,*Default,NTP,0000,0000,0000,,我是冯·弗里根豪森\N{\fn微软雅黑\fs15}I am Von Fliegenhozen.
+Dialogue: 0,0:39:50.32,0:39:51.81,*Default,NTP,0000,0000,0000,,你刚刚不是说 你叫弗兰茨吗?\N{\fn微软雅黑\fs15}Didn't you just say your name was Franz?
+Dialogue: 0,0:39:51.88,0:39:53.08,*Default,NTP,0000,0000,0000,,不是 不是\N{\fn微软雅黑\fs15}Nein, nein, nein.
+Dialogue: 0,0:39:53.20,0:39:55.16,*Default,NTP,0000,0000,0000,,弗兰茨是那个没骨气的家伙\N{\fn微软雅黑\fs15}Franz is a guy with no spine
+Dialogue: 0,0:39:55.24,0:39:58.16,*Default,NTP,0000,0000,0000,,在地上运石头的时候他管事儿\N{\fn微软雅黑\fs15}who is in charge when we putter about the cobblestones.
+Dialogue: 0,0:39:58.24,0:40:01.08,*Default,NTP,0000,0000,0000,,在空中 我说了算\N{\fn微软雅黑\fs15}In the air, I am in charge.
+Dialogue: 0,0:40:01.40,0:40:04.64,*Default,NTP,0000,0000,0000,,这家伙急需检查一下脑子啊\N{\fn微软雅黑\fs15}This guy needs to get his head gasket checked.
+Dialogue: 0,0:40:04.80,0:40:07.48,*Default,NTP,0000,0000,0000,,严重的人格分裂啊\N{\fn微软雅黑\fs15}Serious identity issues.
+Dialogue: 0,0:40:07.68,0:40:10.88,*Default,NTP,0000,0000,0000,,戴面具还敢说这种话?\N{\fn微软雅黑\fs15}This from the one wearing a mask?
+Dialogue: 0,0:40:11.92,0:40:13.25,*Default,NTP,0000,0000,0000,,说得好\N{\fn微软雅黑\fs15}Touché.
+Dialogue: 0,0:40:13.56,0:40:16.04,*Default,NTP,0000,0000,0000,,我们都为你加油 达斯迪先生\N{\fn微软雅黑\fs15}We are both pulling for you, Herr Dusty.
+Dialogue: 0,0:40:16.68,0:40:19.00,*Default,NTP,0000,0000,0000,,谢谢你的支持 我现在缺少的就是支持\N{\fn微软雅黑\fs15}Thanks for the support. I need all the help I can get.
+Dialogue: 0,0:40:19.24,0:40:21.76,*Default,NTP,0000,0000,0000,,我还有业余的建议\N{\fn微软雅黑\fs15}I have a humble suggestion.
+Dialogue: 0,0:40:21.84,0:40:23.52,*Default,NTP,0000,0000,0000,,如果没有了那些罐子管子\N{\fn微软雅黑\fs15}Would you not be much faster
+Dialogue: 0,0:40:23.68,0:40:26.72,*Default,NTP,0000,0000,0000,,你不是可以轻装飞行 飞得更快吗?\N{\fn微软雅黑\fs15}without the pipes and tank and whatnot weighing you down?
+Dialogue: 0,0:40:26.88,0:40:28.21,*Default,NTP,0000,0000,0000,,我的喷粉器 又来?\N{\fn微软雅黑\fs15}My Sprayer. Again?
+Dialogue: 0,0:40:28.40,0:40:30.84,*Default,NTP,0000,0000,0000,,是啊 为什么坚持这多余的重量呢?\N{\fn微软雅黑\fs15}Yeah. Why carry around the extra weight?
+Dialogue: 0,0:40:31.16,0:40:32.60,*Default,NTP,0000,0000,0000,,这疯子小车还是有点道理的\N{\fn微软雅黑\fs15}The little crazy car is right.
+Dialogue: 0,0:40:32.68,0:40:35.25,*Default,NTP,0000,0000,0000,,也许你应该像个赛手一样思考问题了\N{\fn微软雅黑\fs15}Perhaps you need to start thinking like a racer.
+Dialogue: 0,0:40:37.68,0:40:39.44,*Default,NTP,0000,0000,0000,,这拆了还是可以装回去的 是吧?\N{\fn微软雅黑\fs15}This is reversible, right?
+Dialogue: 0,0:40:39.52,0:40:42.00,*Default,NTP,0000,0000,0000,,哦! 哦 嘿 你下手轻点啊 好吗?\N{\fn微软雅黑\fs15}Oh! Oh. Hey, you're being careful down there, right?
+Dialogue: 0,0:40:42.08,0:40:44.20,*Default,NTP,0000,0000,0000,,哇哦 哦! 好了 凉飕飕的\N{\fn微软雅黑\fs15}Whoa. Ooh! Yep, that's cold.
+Dialogue: 0,0:40:46.68,0:40:47.96,*Default,NTP,0000,0000,0000,,那?\N{\fn微软雅黑\fs15}So?
+Dialogue: 0,0:40:49.16,0:40:50.81,*Default,NTP,0000,0000,0000,,你们觉得呢?\N{\fn微软雅黑\fs15}So, what do you think?
+Dialogue: 0,0:40:51.68,0:40:52.76,*Default,NTP,0000,0000,0000,,好极了 达斯迪\N{\fn微软雅黑\fs15}Wunderbar, Dusty.
+Dialogue: 0,0:40:52.84,0:40:54.20,*Default,NTP,0000,0000,0000,,完美了\N{\fn微软雅黑\fs15}Fantastico.
+Dialogue: 0,0:40:54.36,0:40:55.77,*Default,NTP,0000,0000,0000,,一身轻松啊 不是吗?\N{\fn微软雅黑\fs15}It is freeing, yes?
+Dialogue: 0,0:40:55.96,0:40:58.20,*Default,NTP,0000,0000,0000,,没错 我要说的就是这点\N{\fn微软雅黑\fs15}Yeah, you took the words right out of my mouth.
+Dialogue: 0,0:40:59.80,0:41:01.29,*Default,NTP,0000,0000,0000,,再见了 喷粉器!\N{\fn微软雅黑\fs15}Bye-bye, sprayer!
+Dialogue: 0,0:41:01.44,0:41:03.96,*Default,NTP,0000,0000,0000,,谢谢你 弗兰茨... 哦 冯·弗里根豪森\N{\fn微软雅黑\fs15}Thanks for everything, Franz... Er, Von Fliegenhozen.
+Dialogue: 0,0:41:04.12,0:41:05.80,*Default,NTP,0000,0000,0000,,祝你好运 达斯迪先生\N{\fn微软雅黑\fs15}Guten luck, Herr Dusty.
+Dialogue: 0,0:41:06.72,0:41:08.44,*Default,NTP,0000,0000,0000,,现在到了第三个赛段\N{\fn微软雅黑\fs15}It's our third leg
+Dialogue: 0,0:41:06.76,0:41:09.66,*Default,NTP,0000,0000,0000,,{\an8}德国-印度
+Dialogue: 0,0:41:08.52,0:41:10.76,*Default,NTP,0000,0000,0000,,一些选手也因为机械故障而不得不退出比赛\N{\fn微软雅黑\fs15}and we've already lost several competitors to equipment failure.
+Dialogue: 0,0:41:10.84,0:41:13.73,*Default,NTP,0000,0000,0000,,但比赛的看点 布莱恩特 是农田守望者达斯迪\N{\fn微软雅黑\fs15}But the real story here, Brent, is Dusty Crophopper.
+Dialogue: 0,0:41:13.88,0:41:14.92,*Default,NTP,0000,0000,0000,,没错\N{\fn微软雅黑\fs15}Absolutely.
+Dialogue: 0,0:41:15.72,0:41:16.88,*Default,NTP,0000,0000,0000,,他正在一步步地赶超上来\N{\fn微软雅黑\fs15}He's passing one flier after another.
+Dialogue: 0,0:41:16.96,0:41:19.64,*Default,NTP,0000,0000,0000,,没错 这家伙本来是用来给庄稼撒药的\N{\fn微软雅黑\fs15}That's right. This guy was built to dust crops,
+Dialogue: 0,0:41:19.80,0:41:21.92,*Default,NTP,0000,0000,0000,,但他在比赛中 可谓绝尘而去啊\N{\fn微软雅黑\fs15}but he's dusting the competition.
+Dialogue: 0,0:41:22.56,0:41:24.48,*Default,NTP,0000,0000,0000,,之后的赛段呢 科林?\N{\fn微软雅黑\fs15}What's next, Colin?
+Dialogue: 0,0:41:24.64,0:41:26.32,*Default,NTP,0000,0000,0000,,布莱恩特 接下去 可是达斯迪的拿手赛段了\N{\fn微软雅黑\fs15}Brent, this could be Crophopper's leg, all the way.
+Dialogue: 0,0:41:26.40,0:41:29.40,*Default,NTP,0000,0000,0000,,选手们必须在1000英尺下方飞行\N{\fn微软雅黑\fs15}The racers will have to fly under a hard ceiling of 1,000 feet.
+Dialogue: 0,0:41:30.24,0:41:31.92,*Default,NTP,0000,0000,0000,,直面乌云和山峰\N{\fn微软雅黑\fs15}Stay under the clouds and in the hills.
+Dialogue: 0,0:41:32.24,0:41:33.68,*Default,NTP,0000,0000,0000,,20号选手被取消资格\N{\fn微软雅黑\fs15}Number 20 is disqualified.
+Dialogue: 0,0:41:41.12,0:41:42.88,*Default,NTP,0000,0000,0000,,- 动作真棒  - 难以置信\N{\fn微软雅黑\fs15}- What a move.  - Incredible.
+Dialogue: 0,0:41:42.96,0:41:45.28,*Default,NTP,0000,0000,0000,,- 看这个径向过载弯  - 哦嘢!\N{\fn微软雅黑\fs15}- Look at that radial-G pass.  - Oh, yeah!
+Dialogue: 0,0:41:46.24,0:41:47.84,*Default,NTP,0000,0000,0000,,从最后一名 一直追赶到第八名\N{\fn微软雅黑\fs15}From last place, all the way up to eighth.
+Dialogue: 0,0:41:47.92,0:41:50.20,*Default,NTP,0000,0000,0000,,里普斯林杰先生 比赛就是你的人生\N{\fn微软雅黑\fs15}Mr. Ripslinger, you were built for racing.
+Dialogue: 0,0:41:50.28,0:41:51.44,*Default,NTP,0000,0000,0000,,{\an8}印度 阿格拉空军基地
+Dialogue: 0,0:41:50.28,0:41:51.44,*Default,NTP,0000,0000,0000,,没错! 你懂的\N{\fn微软雅黑\fs15}Yeah! You know it.
+Dialogue: 0,0:41:51.60,0:41:53.52,*Default,NTP,0000,0000,0000,,农用飞机怎么可能超过你呢?\N{\fn微软雅黑\fs15}So how can a crop duster out-fly you?
+Dialogue: 0,0:41:53.68,0:41:54.84,*Default,NTP,0000,0000,0000,,- 等下 你说什么?  - 他在那里!\N{\fn微软雅黑\fs15}- Wait, what?  - There he is!
+Dialogue: 0,0:41:54.92,0:41:55.92,*Default,NTP,0000,0000,0000,,达斯迪!\N{\fn微软雅黑\fs15}Dusty!
+Dialogue: 0,0:41:56.36,0:41:57.85,*Default,NTP,0000,0000,0000,,- 哇哦!  - 你是怎么跟上专业选手的脚步的?\N{\fn微软雅黑\fs15}- Wow!  - How do you keep up with the pros?
+Dialogue: 0,0:41:58.04,0:42:00.28,*Default,NTP,0000,0000,0000,,是干农活 让你变的更强壮的吗?\N{\fn微软雅黑\fs15}Did working on the farm make you stronger?
+Dialogue: 0,0:42:00.36,0:42:02.01,*Default,NTP,0000,0000,0000,,达斯迪! 为什么你选择低飞?\N{\fn微软雅黑\fs15}Dusty! Why do you fly so low?
+Dialogue: 0,0:42:02.28,0:42:04.44,*Default,NTP,0000,0000,0000,,他们为什么要花时间报道他呢?\N{\fn微软雅黑\fs15}Why are they wasting their time with him?
+Dialogue: 0,0:42:04.52,0:42:06.12,*Default,NTP,0000,0000,0000,,他就是个带翅膀的拖拉机\N{\fn微软雅黑\fs15}He's a tractor with wings.
+Dialogue: 0,0:42:06.84,0:42:09.36,*Default,NTP,0000,0000,0000,,这完全就是草根搏上位的传统故事\N{\fn微软雅黑\fs15}Actually, it's a really compelling underdog story.
+Dialogue: 0,0:42:09.44,0:42:10.44,*Default,NTP,0000,0000,0000,,就好比"洛基"\N{\fn微软雅黑\fs15}It's like Rocky.
+Dialogue: 0,0:42:10.52,0:42:11.64,*Default,NTP,0000,0000,0000,,还有"戴维和歌利亚"\N{\fn微软雅黑\fs15}It's more like David and Goliath.
+Dialogue: 0,0:42:11.92,0:42:13.41,*Default,NTP,0000,0000,0000,,- 还有老黄狗  - 那不是讲草根族的电影\N{\fn微软雅黑\fs15}- Or Old Yeller.  - That's not an underdog story.
+Dialogue: 0,0:42:13.48,0:42:15.00,*Default,NTP,0000,0000,0000,,- 里面明明有草  - 够了!\N{\fn微软雅黑\fs15}- Well, there's a dog in it.  - Enough!
+Dialogue: 0,0:42:15.20,0:42:16.40,*Default,NTP,0000,0000,0000,,是啊 够了!\N{\fn微软雅黑\fs15}Yeah, enough!
+Dialogue: 0,0:42:16.60,0:42:18.68,*Default,NTP,0000,0000,0000,,结局老黄狗被杀了 你两个笨蛋\N{\fn微软雅黑\fs15}You know, they shot Old Yeller at the end, you twits.
+Dialogue: 0,0:42:18.84,0:42:20.00,*Default,NTP,0000,0000,0000,,哦! 被剧透了!\N{\fn微软雅黑\fs15}Oh! Spoiler alert!
+Dialogue: 0,0:42:20.12,0:42:24.40,*Default,NTP,0000,0000,0000,,这样下去 我们就跟那种条幅机 拉烟机和货机混为一谈了\N{\fn微软雅黑\fs15}Soon, we'll be overrun by every banner tower, skywriter and air freighter
+Dialogue: 0,0:42:24.52,0:42:27.17,*Default,NTP,0000,0000,0000,,那群自不量力的家伙\N{\fn微软雅黑\fs15}who thinks they can be one of us.
+Dialogue: 0,0:42:27.32,0:42:31.80,*Default,NTP,0000,0000,0000,,那乡巴佬已经得意忘形 都忘了自己从哪来的了\N{\fn微软雅黑\fs15}That farm boy forgot who he is and where he came from.
+Dialogue: 0,0:42:32.12,0:42:35.32,*Default,NTP,0000,0000,0000,,他别想阻止我创造历史\N{\fn微软雅黑\fs15}He's not about to stop me from making history.
+Dialogue: 0,0:42:35.56,0:42:37.24,*Default,NTP,0000,0000,0000,,达斯迪 达斯迪 你比赛的技巧是从哪里学来的啊?\N{\fn微软雅黑\fs15}Dusty, Dusty, where did you learn to race?
+Dialogue: 0,0:42:37.32,0:42:38.36,*Default,NTP,0000,0000,0000,,从我的教练 斯基珀\N{\fn微软雅黑\fs15}From my coach, Skipper.
+Dialogue: 0,0:42:38.64,0:42:41.12,*Default,NTP,0000,0000,0000,,他也是我参赛的原因 他是个极其出色的教练\N{\fn微软雅黑\fs15}He's the reason I'm even here. He's an amazing instructor.
+Dialogue: 0,0:42:41.80,0:42:42.84,*Default,NTP,0000,0000,0000,,也是一位人生的挚友\N{\fn微软雅黑\fs15}And a great friend.
+Dialogue: 0,0:42:43.00,0:42:46.00,*Default,NTP,0000,0000,0000,,他在全球执行过无数次任务\N{\fn微软雅黑\fs15}He flew dozens of missions all around the world.
+Dialogue: 0,0:42:46.16,0:42:49.16,*Default,NTP,0000,0000,0000,,我保证 如果他能的话 他肯定会一路陪着我的\N{\fn微软雅黑\fs15}And I'm sure, if he could, he'd be with us right now.
+Dialogue: 0,0:43:52.16,0:43:54.97,*Default,NTP,0000,0000,0000,,哇哦 你的引擎听上去有点锈了\N{\fn微软雅黑\fs15}Whoa, your engine sounds kind of rough.
+Dialogue: 0,0:43:55.04,0:43:57.56,*Default,NTP,0000,0000,0000,,肯定是内燃机错火了\N{\fn微软雅黑\fs15}Must be a mag misfire.
+Dialogue: 0,0:43:58.20,0:44:01.96,*Default,NTP,0000,0000,0000,,况且今晚天气也不适合飞行\N{\fn微软雅黑\fs15}It's probably not a good night for flying anyway.
+Dialogue: 0,0:44:04.28,0:44:08.56,*Default,NTP,0000,0000,0000,,- 好的 下次见啦  - 嘿 你有新玩意了吗?\N{\fn微软雅黑\fs15}- Okay. Come back soon.  - Hey, you got anything new?
+Dialogue: 0,0:44:08.84,0:44:09.84,*Default,NTP,0000,0000,0000,,那你就问对人了\N{\fn微软雅黑\fs15}I'm glad you asked.
+Dialogue: 0,0:44:09.92,0:44:13.76,*Default,NTP,0000,0000,0000,,现在正是推出限量款的达斯迪纪念杯\N{\fn微软雅黑\fs15}I'm now selling these one-of-a-kind Dusty commemorative mugs.
+Dialogue: 0,0:44:14.40,0:44:15.60,*Default,NTP,0000,0000,0000,,怎么样?\N{\fn微软雅黑\fs15}Huh?
+Dialogue: 0,0:44:15.96,0:44:16.96,*Default,NTP,0000,0000,0000,,哇哦!\N{\fn微软雅黑\fs15}Whoa!
+Dialogue: 0,0:44:17.32,0:44:18.65,*Default,NTP,0000,0000,0000,,达斯迪呼叫...\N{\fn微软雅黑\fs15}This is Dusty Crophopper calling...
+Dialogue: 0,0:44:18.84,0:44:21.04,*Default,NTP,0000,0000,0000,,- 我过10分钟就回来  - 达斯迪 第八名了啊!\N{\fn微软雅黑\fs15}- I'll be back in 10.  - Dusty, eighth place!
+Dialogue: 0,0:44:21.12,0:44:22.84,*Default,NTP,0000,0000,0000,,干得好啊 达斯超人!\N{\fn微软雅黑\fs15}Way to go, Dustmeister!
+Dialogue: 0,0:44:23.00,0:44:25.89,*Default,NTP,0000,0000,0000,,- 嘿! 你终于把M5000去掉啦  - 他的什么?\N{\fn微软雅黑\fs15}- Hey! You finally removed your M5000.  - His what?
+Dialogue: 0,0:44:25.96,0:44:28.28,*Default,NTP,0000,0000,0000,,他的5000型空用微型涂敷器\N{\fn微软雅黑\fs15}His Micro-Air-5000-D-L Aerial Applicator.
+Dialogue: 0,0:44:28.44,0:44:30.01,*Default,NTP,0000,0000,0000,,说车话\N{\fn微软雅黑\fs15}Use your words.
+Dialogue: 0,0:44:30.16,0:44:31.52,*Default,NTP,0000,0000,0000,,他的喷粉器\N{\fn微软雅黑\fs15}His sprayer.
+Dialogue: 0,0:44:31.68,0:44:33.44,*Default,NTP,0000,0000,0000,,没错! 喷粉器\N{\fn微软雅黑\fs15}Right! Sprayer.
+Dialogue: 0,0:44:33.52,0:44:35.09,*Default,NTP,0000,0000,0000,,达斯迪 明天可是个长赛段啊\N{\fn微软雅黑\fs15}Dusty, you got a big leg tomorrow.
+Dialogue: 0,0:44:35.24,0:44:37.08,*Default,NTP,0000,0000,0000,,- 是啊  - 你觉得怎么样?\N{\fn微软雅黑\fs15}- Yeah.  - How you feeling?
+Dialogue: 0,0:44:37.24,0:44:39.48,*Default,NTP,0000,0000,0000,,难以置信啊 伟大的喜马拉雅山脉\N{\fn微软雅黑\fs15}I can't believe it. The mighty Himalayas.
+Dialogue: 0,0:44:39.64,0:44:41.60,*Default,NTP,0000,0000,0000,,达斯迪 那里的山脉\N{\fn微软雅黑\fs15}Dusty, that vertical wind shear
+Dialogue: 0,0:44:41.76,0:44:44.20,*Default,NTP,0000,0000,0000,,四处都是致命的垂直涡流\N{\fn微软雅黑\fs15}is going to be wicked over those mountains.
+Dialogue: 0,0:44:44.28,0:44:46.20,*Default,NTP,0000,0000,0000,,其实 身处那种海拔的好处是\N{\fn微软雅黑\fs15}Well, the good thing about being that high up,
+Dialogue: 0,0:44:46.28,0:44:48.00,*Default,NTP,0000,0000,0000,,那边氧气不充足\N{\fn微软雅黑\fs15}you see, there's not a lot of oxygen.
+Dialogue: 0,0:44:48.20,0:44:49.92,*Default,NTP,0000,0000,0000,,所以如果你坠机的话 也不会爆炸什么的\N{\fn微软雅黑\fs15}So, if you crash, no explosion.
+Dialogue: 0,0:44:50.12,0:44:51.20,*Default,NTP,0000,0000,0000,,好极了 楚格\N{\fn微软雅黑\fs15}Great, Chug.
+Dialogue: 0,0:44:51.28,0:44:53.04,*Default,NTP,0000,0000,0000,,当然啦 你可也能死于低温症\N{\fn微软雅黑\fs15}Of course, you could die of hypothermia
+Dialogue: 0,0:44:53.12,0:44:54.77,*Default,NTP,0000,0000,0000,,雪崩也可能让你丧命的\N{\fn微软雅黑\fs15}or an avalanche could get you.
+Dialogue: 0,0:44:54.96,0:44:56.76,*Default,NTP,0000,0000,0000,,当然啦 还有肺炎甚至冻伤\N{\fn微软雅黑\fs15}Then, of course, there's pneumonia, or even frostbite.
+Dialogue: 0,0:44:56.96,0:44:58.32,*Default,NTP,0000,0000,0000,,楚格 楚格 我知道了\N{\fn微软雅黑\fs15}Chug, Chug, I got it.
+Dialogue: 0,0:44:58.48,0:45:00.56,*Default,NTP,0000,0000,0000,,斯基普 如果我想穿过山脉\N{\fn微软雅黑\fs15}Skip, what if a guy wanted to fly
+Dialogue: 0,0:45:00.64,0:45:02.29,*Default,NTP,0000,0000,0000,,而不是飞跃山脉呢?\N{\fn微软雅黑\fs15}through the mountains instead of over them?
+Dialogue: 0,0:45:02.36,0:45:05.28,*Default,NTP,0000,0000,0000,,坏点子 我们中队在支援昆明战役中\N{\fn微软雅黑\fs15}Bad idea. The Wrenches flew through terrain like that
+Dialogue: 0,0:45:05.44,0:45:07.56,*Default,NTP,0000,0000,0000,,曾经走过那条路 多蒂没说错\N{\fn微软雅黑\fs15}in the Assault of Kunming. And Dottie is right.
+Dialogue: 0,0:45:08.64,0:45:09.64,*Default,NTP,0000,0000,0000,,气流爬升过山顶之后 会产生涡流扰动\N{\fn微软雅黑\fs15}Wind coming over the peaks can stir up rotors
+Dialogue: 0,0:45:09.72,0:45:10.96,*Default,NTP,0000,0000,0000,,扰动会让你一落千丈的\N{\fn微软雅黑\fs15}that'll drag you right down.
+Dialogue: 0,0:45:11.12,0:45:13.48,*Default,NTP,0000,0000,0000,,如果问我的话 那就蒙着脑子往上飞\N{\fn微软雅黑\fs15}If you ask me, it's time to lug-nut up.
+Dialogue: 0,0:45:13.64,0:45:16.68,*Default,NTP,0000,0000,0000,,其实你比你想象的要飞得高\N{\fn微软雅黑\fs15}You can fly a whole lot higher than you think.
+Dialogue: 0,0:45:16.84,0:45:18.88,*Default,NTP,0000,0000,0000,,- 明白了  - 你好 心上人\N{\fn微软雅黑\fs15}- Roger that.  - Hola, corazón.
+Dialogue: 0,0:45:18.96,0:45:20.72,*Default,NTP,0000,0000,0000,,- 你累了吗?  - 什么?\N{\fn微软雅黑\fs15}- Are you tired?  - What?
+Dialogue: 0,0:45:20.80,0:45:24.77,*Default,NTP,0000,0000,0000,,因为你在我脑子里 已经飞了一整天了 从未停过\N{\fn微软雅黑\fs15}Because you have been flying through my mind, nonstop.
+Dialogue: 0,0:45:25.20,0:45:30.33,*Default,NTP,0000,0000,0000,,嘛 就这么小的地方 我怎么会累呢?\N{\fn微软雅黑\fs15}Hmm. And why would I be tired flying through such a teeny, tiny space, huh?
+Dialogue: 0,0:45:31.64,0:45:34.24,*Default,NTP,0000,0000,0000,,你别装啦 其实你喜欢我\N{\fn微软雅黑\fs15}You can only pretend for so long.
+Dialogue: 0,0:45:34.64,0:45:37.96,*Default,NTP,0000,0000,0000,,嘿 卓帕 到底怎么了?\N{\fn微软雅黑\fs15}Hey, El Chu, what's the problem?
+Dialogue: 0,0:45:38.56,0:45:42.20,*Default,NTP,0000,0000,0000,,她就像灯火 而就是扑火的飞蛾\N{\fn微软雅黑\fs15}I am Icarus and she is the sun.
+Dialogue: 0,0:45:42.40,0:45:45.48,*Default,NTP,0000,0000,0000,,我飞向她的怀抱 却燃烧了我自己\N{\fn微软雅黑\fs15}I fly too close and I melt.
+Dialogue: 0,0:45:45.64,0:45:47.08,*Default,NTP,0000,0000,0000,,也许是因为你做的太过了\N{\fn微软雅黑\fs15}Maybe you're trying too hard.
+Dialogue: 0,0:45:47.24,0:45:51.16,*Default,NTP,0000,0000,0000,,也许 你要做的就是 走过去 说声...\N{\fn微软雅黑\fs15}Look, all you got to do is go over, open your mouth and say...
+Dialogue: 0,0:45:51.32,0:45:52.60,*Default,NTP,0000,0000,0000,,你好\N{\fn微软雅黑\fs15}Hello.
+Dialogue: 0,0:45:55.00,0:45:56.00,*Default,NTP,0000,0000,0000,,哇... 啊...\N{\fn微软雅黑\fs15}Wha... Uh...
+Dialogue: 0,0:45:58.52,0:45:59.52,*Default,NTP,0000,0000,0000,,哇哦\N{\fn微软雅黑\fs15}Whoa.
+Dialogue: 0,0:46:01.84,0:46:03.00,*Default,NTP,0000,0000,0000,,卓帕卡布拉!\N{\fn微软雅黑\fs15}El Chupacabra!
+Dialogue: 0,0:46:03.08,0:46:05.52,*Default,NTP,0000,0000,0000,,好像有人叫我 我先走一步了\N{\fn微软雅黑\fs15}I think someone is calling me. I have to go.
+Dialogue: 0,0:46:06.20,0:46:08.93,*Default,NTP,0000,0000,0000,,我恭喜你所获得的成就 达斯迪\N{\fn微软雅黑\fs15}I wanted to compliment you on your success, Dusty.
+Dialogue: 0,0:46:09.08,0:46:12.12,*Default,NTP,0000,0000,0000,,你第一次比赛做的很好\N{\fn微软雅黑\fs15}You're doing very well for your first race.
+Dialogue: 0,0:46:12.44,0:46:13.77,*Default,NTP,0000,0000,0000,,啊 从你嘴里说出来 的确意义重大\N{\fn微软雅黑\fs15}Aw, that means a lot, coming from you.
+Dialogue: 0,0:46:13.84,0:46:15.20,*Default,NTP,0000,0000,0000,,而且 毕竟\N{\fn微软雅黑\fs15}I mean, come on,
+Dialogue: 0,0:46:15.36,0:46:18.56,*Default,NTP,0000,0000,0000,,空体画报称你为世上最符合空气动力学的飞机啊\N{\fn微软雅黑\fs15}you were named most aerodynamic racer by Air Sports Illustrated.
+Dialogue: 0,0:46:18.64,0:46:22.00,*Default,NTP,0000,0000,0000,,要我说的话 你真是太随风舞动了\N{\fn微软雅黑\fs15}And let me just say, you are so aerodynamic.
+Dialogue: 0,0:46:22.08,0:46:23.68,*Default,NTP,0000,0000,0000,,达斯迪\N{\fn微软雅黑\fs15}Dusty.
+Dialogue: 0,0:46:26.92,0:46:28.72,*Default,NTP,0000,0000,0000,,为什么这里这么多拖拉机啊?\N{\fn微软雅黑\fs15}What's with all the tractors around here?
+Dialogue: 0,0:46:28.96,0:46:30.20,*Default,NTP,0000,0000,0000,,他们是神圣的动物(印度侍牛为神物)\N{\fn微软雅黑\fs15}They're sacred.
+Dialogue: 0,0:46:30.28,0:46:33.28,*Default,NTP,0000,0000,0000,,很多人相信 我们来生会成为拖拉机\N{\fn微软雅黑\fs15}Many believe that we will be recycled as tractors.
+Dialogue: 0,0:46:33.36,0:46:36.48,*Default,NTP,0000,0000,0000,,哦 我很相信来生的\N{\fn微软雅黑\fs15}Oh. Well, I believe in recycling.
+Dialogue: 0,0:46:37.72,0:46:39.72,*Default,NTP,0000,0000,0000,,你有看过泰姬玛哈陵吗?\N{\fn微软雅黑\fs15}Have you ever been to the Taj Mahal?
+Dialogue: 0,0:46:39.96,0:46:41.88,*Default,NTP,0000,0000,0000,,没有 我还没去过\N{\fn微软雅黑\fs15}No. No, I haven't.
+Dialogue: 0,0:46:41.96,0:46:43.72,*Default,NTP,0000,0000,0000,,快点 我们一起去吧\N{\fn微软雅黑\fs15}Come on. Let's go.
+Dialogue: 0,0:46:56.40,0:46:58.16,*Default,NTP,0000,0000,0000,,在家的感觉肯定很好\N{\fn微软雅黑\fs15}It must be nice to be back home.
+Dialogue: 0,0:46:58.32,0:47:01.88,*Default,NTP,0000,0000,0000,,其实 心里还蛮复杂的 我有上百万的粉丝\N{\fn微软雅黑\fs15}Well, it's complicated. I have a billion fans.
+Dialogue: 0,0:47:02.08,0:47:03.96,*Default,NTP,0000,0000,0000,,而且他们都希望我能赢\N{\fn微软雅黑\fs15}And they're all expecting me to win.
+Dialogue: 0,0:47:04.08,0:47:06.28,*Default,NTP,0000,0000,0000,,也许这次冠军就是你啊\N{\fn微软雅黑\fs15}Maybe this time, you will.
+Dialogue: 0,0:47:31.44,0:47:32.44,*Default,NTP,0000,0000,0000,,哇哦\N{\fn微软雅黑\fs15}Wow.
+Dialogue: 0,0:47:32.80,0:47:34.80,*Default,NTP,0000,0000,0000,,这地方太漂亮了\N{\fn微软雅黑\fs15}This place is amazing.
+Dialogue: 0,0:47:34.96,0:47:36.29,*Default,NTP,0000,0000,0000,,的确啊\N{\fn微软雅黑\fs15}It really is.
+Dialogue: 0,0:47:36.44,0:47:40.36,*Default,NTP,0000,0000,0000,,等明天 你就会飞跃那宏伟的喜马拉雅山脉了\N{\fn微软雅黑\fs15}And tomorrow, you'll fly over the magnificent Himalayas.
+Dialogue: 0,0:47:40.52,0:47:42.96,*Default,NTP,0000,0000,0000,,那些小山? 是啊... 小事一件啦\N{\fn微软雅黑\fs15}Those little hills? Yeah, well... No big deal.
+Dialogue: 0,0:47:43.12,0:47:45.28,*Default,NTP,0000,0000,0000,,你喜欢低飞 不是吗?\N{\fn微软雅黑\fs15}You like to fly low, don't you?
+Dialogue: 0,0:47:45.44,0:47:47.96,*Default,NTP,0000,0000,0000,,哦 哦? 那是 啊 那是我的策略\N{\fn微软雅黑\fs15}Oh. Oh, that? Uh, that's strategic.
+Dialogue: 0,0:47:48.28,0:47:50.36,*Default,NTP,0000,0000,0000,,空气密度啊 引擎燃烧率啊...\N{\fn微软雅黑\fs15}Air density and, uh, combustion...
+Dialogue: 0,0:47:50.56,0:47:54.32,*Default,NTP,0000,0000,0000,,你知道吗 你可以贴着铁指针飞的\N{\fn微软雅黑\fs15}You know, you could follow the Iron Compass, instead.
+Dialogue: 0,0:47:54.52,0:47:57.33,*Default,NTP,0000,0000,0000,,- 铁指针?  - 是啊 那是火车轨道\N{\fn微软雅黑\fs15}- Iron Compass?  - Yeah, rail road tracks.
+Dialogue: 0,0:47:57.44,0:48:00.64,*Default,NTP,0000,0000,0000,,穿越山脉和峡谷 你可以一直低飞前行\N{\fn微软雅黑\fs15}Through a valley in the mountains, so you can still fly low.
+Dialogue: 0,0:48:00.80,0:48:02.29,*Default,NTP,0000,0000,0000,,真的?\N{\fn微软雅黑\fs15}Really?
+Dialogue: 0,0:48:03.40,0:48:05.05,*Default,NTP,0000,0000,0000,,谢谢了 伊莎妮\N{\fn微软雅黑\fs15}Thanks, Ishani.
+Dialogue: 0,0:48:05.20,0:48:06.64,*Default,NTP,0000,0000,0000,,不用谢\N{\fn微软雅黑\fs15}Anytime.
+Dialogue: 0,0:48:08.48,0:48:11.96,*Default,NTP,0000,0000,0000,,{\an8}第4赛段 印度-尼泊尔
+Dialogue: 0,0:48:08.48,0:48:11.96,*Default,NTP,0000,0000,0000,,所有选手的噩梦就是飞跃喜马拉雅山脉\N{\fn微软雅黑\fs15}Every racer's nightmare is scaling the Himalayas.
+Dialogue: 0,0:48:12.04,0:48:15.20,*Default,NTP,0000,0000,0000,,前方虽然是短途赛段 但是极度的危险\N{\fn微软雅黑\fs15}It's a short leg ahead, but extremely treacherous.
+Dialogue: 0,0:48:46.00,0:48:47.16,*Default,NTP,0000,0000,0000,,不\N{\fn微软雅黑\fs15}No.
+Dialogue: 0,0:49:05.64,0:49:08.04,*Default,NTP,0000,0000,0000,,哦! 啊!\N{\fn微软雅黑\fs15}OW! Ah!
+Dialogue: 0,0:49:09.72,0:49:11.00,*Default,NTP,0000,0000,0000,,哇哦!\N{\fn微软雅黑\fs15}Whoa!
+Dialogue: 0,0:49:22.16,0:49:23.28,*Default,NTP,0000,0000,0000,,哇哦!\N{\fn微软雅黑\fs15}Whoa!
+Dialogue: 0,0:49:53.52,0:49:54.52,*Default,NTP,0000,0000,0000,,哦...\N{\fn微软雅黑\fs15}Uh...
+Dialogue: 0,0:49:54.60,0:49:56.44,*Default,NTP,0000,0000,0000,,有人吗?\N{\fn微软雅黑\fs15}Hello?
+Dialogue: 0,0:50:01.80,0:50:04.53,*Default,NTP,0000,0000,0000,,这是我该来的地方吗?\N{\fn微软雅黑\fs15}Is this where I'm supposed to be?
+Dialogue: 0,0:50:05.52,0:50:09.68,*Default,NTP,0000,0000,0000,,这也是生命的重要命题之一啊\N{\fn微软雅黑\fs15}That is one of life's great questions.
+Dialogue: 0,0:50:11.52,0:50:13.12,*Default,NTP,0000,0000,0000,,我死了!\N{\fn微软雅黑\fs15}I'm dead!
+Dialogue: 0,0:50:13.32,0:50:14.44,*Default,NTP,0000,0000,0000,,农田守望者先生\N{\fn微软雅黑\fs15}Mr. Crophopper.
+Dialogue: 0,0:50:15.48,0:50:17.40,*Default,NTP,0000,0000,0000,,欢迎来尼泊尔\N{\fn微软雅黑\fs15}Welcome to Nepal.
+Dialogue: 0,0:50:17.60,0:50:20.12,*Default,NTP,0000,0000,0000,,我不明白 其他人都走了吗?\N{\fn微软雅黑\fs15}I don't understand. Have the others left already?
+Dialogue: 0,0:50:20.28,0:50:22.44,*Default,NTP,0000,0000,0000,,实际上 还没有人抵达呢\N{\fn微软雅黑\fs15}Actually, no one else is here yet.
+Dialogue: 0,0:50:22.52,0:50:24.92,*Default,NTP,0000,0000,0000,,你是第一个到达的\N{\fn微软雅黑\fs15}You're in first place.
+Dialogue: 0,0:50:25.12,0:50:26.16,*Default,NTP,0000,0000,0000,,真的?\N{\fn微软雅黑\fs15}Really?
+Dialogue: 0,0:50:26.52,0:50:28.40,*Default,NTP,0000,0000,0000,,他穿过了一个什么?!\N{\fn微软雅黑\fs15}He flew through a what?!
+Dialogue: 0,0:50:29.80,0:50:30.80,*Default,NTP,0000,0000,0000,,- 隧道?  - 太疯狂了!\N{\fn微软雅黑\fs15}- A tunnel?  - That is crazy!
+Dialogue: 0,0:50:30.92,0:50:33.44,*Default,NTP,0000,0000,0000,,是啊 比火狐还疯狂\N{\fn微软雅黑\fs15}Si, crazy like a Firefox.
+Dialogue: 0,0:50:35.36,0:50:37.20,*Default,NTP,0000,0000,0000,,达斯迪 获得第一有什么感想吗?\N{\fn微软雅黑\fs15}Dusty, how does it feel to be in First place?
+Dialogue: 0,0:50:37.28,0:50:38.44,*Default,NTP,0000,0000,0000,,感觉不错\N{\fn微软雅黑\fs15}It feels great.
+Dialogue: 0,0:50:38.60,0:50:41.64,*Default,NTP,0000,0000,0000,,但最重要的是 我真高兴我低空穿越了隧道\N{\fn微软雅黑\fs15}But more than anything, I'm just happy I fit through that tunnel.
+Dialogue: 0,0:50:42.64,0:50:45.16,*Default,NTP,0000,0000,0000,,朋友们 我想说 如果你陷入困境了就...\N{\fn微软雅黑\fs15}Guys, I gotta tell you, if you're ever in a tight squeeze just...
+Dialogue: 0,0:50:48.12,0:50:49.64,*Default,NTP,0000,0000,0000,,朋友们 借过下\N{\fn微软雅黑\fs15}Excuse me, guys.
+Dialogue: 0,0:50:52.52,0:50:54.36,*Default,NTP,0000,0000,0000,,疯狂的一天 对吧\N{\fn微软雅黑\fs15}Crazy day today, huh?
+Dialogue: 0,0:50:55.04,0:50:58.96,*Default,NTP,0000,0000,0000,,哦 是 今天你赢得漂亮\N{\fn微软雅黑\fs15}Oh. Yeah, a very exciting win for you today.
+Dialogue: 0,0:50:59.12,0:51:01.32,*Default,NTP,0000,0000,0000,,你真是冒了一个挺大的险\N{\fn微软雅黑\fs15}Quite a risk you took.
+Dialogue: 0,0:51:01.48,0:51:04.40,*Default,NTP,0000,0000,0000,,确实 确实 对了 你的螺旋桨 是新的么\N{\fn微软雅黑\fs15}Yeah, yeah. Hey, your propeller, is it new?
+Dialogue: 0,0:51:04.48,0:51:06.64,*Default,NTP,0000,0000,0000,,哦 是啊\N{\fn微软雅黑\fs15}Oh. I suppose it is.
+Dialogue: 0,0:51:06.92,0:51:08.57,*Default,NTP,0000,0000,0000,,裂天者5号 对吧?\N{\fn微软雅黑\fs15}Sky Slycer Mark Five, right?
+Dialogue: 0,0:51:08.64,0:51:11.64,*Default,NTP,0000,0000,0000,,里普斯林杰竞技队的专用螺旋桨是不?\N{\fn微软雅黑\fs15}Aren't those made exclusively for Ripslinger's race team?
+Dialogue: 0,0:51:11.80,0:51:14.53,*Default,NTP,0000,0000,0000,,- 是么?  - 是 是 确实是\N{\fn微软雅黑\fs15}- Are they?  - Yeah. Yeah, they are.
+Dialogue: 0,0:51:14.68,0:51:16.20,*Default,NTP,0000,0000,0000,,达斯迪...\N{\fn微软雅黑\fs15}Dusty...
+Dialogue: 0,0:51:16.44,0:51:18.92,*Default,NTP,0000,0000,0000,,- 你陷害我  - 真的 我真心不想伤害你的\N{\fn微软雅黑\fs15}- You set me up.  - Look, I didn't ever want to hurt you.
+Dialogue: 0,0:51:19.08,0:51:22.08,*Default,NTP,0000,0000,0000,,- 为什么这样?  - 情况很复杂 真的?\N{\fn微软雅黑\fs15}- Why?  - it's complicated, okay?
+Dialogue: 0,0:51:22.16,0:51:23.73,*Default,NTP,0000,0000,0000,,你今天差点害我死翘了\N{\fn微软雅黑\fs15}You could have gotten me killed out there today.
+Dialogue: 0,0:51:23.80,0:51:26.32,*Default,NTP,0000,0000,0000,,我但是真以为你会掉头\N{\fn微软雅黑\fs15}I really thought that you'd just turn around.
+Dialogue: 0,0:51:26.52,0:51:28.60,*Default,NTP,0000,0000,0000,,哼 你以为错了\N{\fn微软雅黑\fs15}Well, you were wrong.
+Dialogue: 0,0:51:28.68,0:51:30.44,*Default,NTP,0000,0000,0000,,我看错你了\N{\fn微软雅黑\fs15}And I was wrong about you.
+Dialogue: 0,0:51:32.68,0:51:35.36,*Default,NTP,0000,0000,0000,,哎 里普 谢你让我赢了\N{\fn微软雅黑\fs15}Hey, Rip. Thanks for first place.
+Dialogue: 0,0:51:38.52,0:51:39.68,*Default,NTP,0000,0000,0000,,凭着低空快飞的\N{\fn微软雅黑\fs15}Flying low and quick,
+Dialogue: 0,0:51:39.76,0:51:42.76,*Default,NTP,0000,0000,0000,,农田守望者达斯迪始终位居榜首\N{\fn微软雅黑\fs15}Dusty Crophopper is managing to hold on to the top spot.
+Dialogue: 0,0:51:43.00,0:51:46.24,*Default,NTP,0000,0000,0000,,卫冕冠军里普斯林杰紧随其后\N{\fn微软雅黑\fs15}But current reigning champ, Ripslinger, is just seconds behind him.
+Dialogue: 0,0:51:46.44,0:51:48.20,*Default,NTP,0000,0000,0000,,这场精彩的冠军比赛\N{\fn微软雅黑\fs15}This surprise battle for first place
+Dialogue: 0,0:51:46.59,0:51:48.69,*Default,NTP,0000,0000,0000,,{\an8}第五赛段 尼泊尔-中国
+Dialogue: 0,0:51:48.36,0:51:50.36,*Default,NTP,0000,0000,0000,,让农田守望者达斯迪成为聚焦点\N{\fn微软雅黑\fs15}has made Dusty Crophopper the one to watch.
+Dialogue: 0,0:51:50.72,0:51:54.08,*Default,NTP,0000,0000,0000,,他成为了全世界的平民英雄\N{\fn微软雅黑\fs15}He's become a working-class hero around the globe.
+Dialogue: 0,0:52:09.32,0:52:10.73,*Default,NTP,0000,0000,0000,,哇\N{\fn微软雅黑\fs15}Whoa!
+Dialogue: 0,0:52:10.88,0:52:13.56,*Default,NTP,0000,0000,0000,,我说过他做得到\N{\fn微软雅黑\fs15}I told you he could do it.
+Dialogue: 0,0:52:19.72,0:52:21.37,*Default,NTP,0000,0000,0000,,- 够了  - 啊 别!\N{\fn微软雅黑\fs15}- That's it.  - Wha. .. Aw!
+Dialogue: 0,0:52:21.44,0:52:23.44,*Default,NTP,0000,0000,0000,,我的skypad 老兄\N{\fn微软雅黑\fs15}That was my skyPad, man.
+Dialogue: 0,0:52:23.60,0:52:25.76,*Default,NTP,0000,0000,0000,,再过两周就出新款了\N{\fn微软雅黑\fs15}A new one's coming out in two weeks.
+Dialogue: 0,0:52:28.00,0:52:31.98,*Default,NTP,0000,0000,0000,,{\an8}中国 上海
+Dialogue: 0,0:52:30.24,0:52:32.28,*Default,NTP,0000,0000,0000,,你让他们见识了一流赛手的手段啊?\N{\fn微软雅黑\fs15}You're really showing them big-time racers a thing or two, huh?
+Dialogue: 0,0:52:32.36,0:52:35.25,*Default,NTP,0000,0000,0000,,是啊 斯基普 明天我们要飞太平洋了\N{\fn微软雅黑\fs15}Yeah. We head out across the Pacific tomorrow, Skip.
+Dialogue: 0,0:52:35.32,0:52:37.04,*Default,NTP,0000,0000,0000,,你在那待过一段时间 对吧\N{\fn微软雅黑\fs15}You were stationed there for a while, right?
+Dialogue: 0,0:52:37.12,0:52:39.20,*Default,NTP,0000,0000,0000,,- 对  - 给点什么建议?\N{\fn微软雅黑\fs15}- Yeah.  - Got any advice?
+Dialogue: 0,0:52:39.28,0:52:42.28,*Default,NTP,0000,0000,0000,,回想41年的威克岛之战\N{\fn微软雅黑\fs15}Back in '41, during the Battle over Wake Island
+Dialogue: 0,0:52:42.52,0:52:44.96,*Default,NTP,0000,0000,0000,,我们当时遭遇了强烈的季风\N{\fn微软雅黑\fs15}the Wrenches ran into serious monsoons
+Dialogue: 0,0:52:45.04,0:52:47.88,*Default,NTP,0000,0000,0000,,其强度直接可以瞬间折断你的机翼\N{\fn微软雅黑\fs15}with embedded CBs that could tear your wings right off.
+Dialogue: 0,0:52:47.96,0:52:50.40,*Default,NTP,0000,0000,0000,,小心的 还有一件事...\N{\fn微软雅黑\fs15}Be careful. And one more thing...
+Dialogue: 0,0:52:51.68,0:52:53.04,*Default,NTP,0000,0000,0000,,我为你感到骄傲 达斯迪\N{\fn微软雅黑\fs15}I'm proud of you, Dusty.
+Dialogue: 0,0:52:54.04,0:52:56.32,*Default,NTP,0000,0000,0000,,谢谢 僚机\N{\fn微软雅黑\fs15}Thanks, Wingman.
+Dialogue: 0,0:52:56.52,0:52:59.25,*Default,NTP,0000,0000,0000,,嗨 达斯迪 给你个惊喜\N{\fn微软雅黑\fs15}Hey, Dusty, we have a surprise for you.
+Dialogue: 0,0:52:59.44,0:53:00.48,*Default,NTP,0000,0000,0000,,哦 哦 哦! 让我告诉他\N{\fn微软雅黑\fs15}Oh, oh, oh! You have to let me tell him.
+Dialogue: 0,0:53:00.56,0:53:02.36,*Default,NTP,0000,0000,0000,,你说 楚格\N{\fn微软雅黑\fs15}Go ahead, Chug.
+Dialogue: 0,0:53:02.44,0:53:06.24,*Default,NTP,0000,0000,0000,,额... 哦 我知道了 就是... 就要说出口了\N{\fn微软雅黑\fs15}Uh... Oh, I know it. It's... It's on the tip of my tongue.
+Dialogue: 0,0:53:06.44,0:53:07.44,*Default,NTP,0000,0000,0000,,我想想\N{\fn微软雅黑\fs15}I'll remember.
+Dialogue: 0,0:53:07.52,0:53:09.09,*Default,NTP,0000,0000,0000,,我们打算...\N{\fn微软雅黑\fs15}We're going...
+Dialogue: 0,0:53:09.40,0:53:11.08,*Default,NTP,0000,0000,0000,,打算...\N{\fn微软雅黑\fs15}We're going...
+Dialogue: 0,0:53:11.16,0:53:13.08,*Default,NTP,0000,0000,0000,,- 去...  - 去...\N{\fn微软雅黑\fs15}- to...  - to...
+Dialogue: 0,0:53:13.52,0:53:15.48,*Default,NTP,0000,0000,0000,,- 嗯...  - 马来...\N{\fn微软雅黑\fs15}- Mmm...  - Malays...
+Dialogue: 0,0:53:15.56,0:53:17.72,*Default,NTP,0000,0000,0000,,- 墨西哥  - 墨西哥! 就这个!\N{\fn微软雅黑\fs15}- Mexico.  - Mexico! That's it!
+Dialogue: 0,0:53:17.80,0:53:20.53,*Default,NTP,0000,0000,0000,,- 我们在墨西哥相见  - 真的?\N{\fn微软雅黑\fs15}- We're going to meet you in Mexico.  - Really?
+Dialogue: 0,0:53:20.72,0:53:22.64,*Default,NTP,0000,0000,0000,,对 斯帕奇和我花钱买了票\N{\fn微软雅黑\fs15}Yep. Tickets are on Sparky and me.
+Dialogue: 0,0:53:22.80,0:53:27.01,*Default,NTP,0000,0000,0000,,我们卖了326个你的小公仔 142个天线球\N{\fn微软雅黑\fs15}We sold 326 Dusty bobbleheads, 143 antenna balls,
+Dialogue: 0,0:53:27.16,0:53:29.00,*Default,NTP,0000,0000,0000,,203个旋杯...\N{\fn微软雅黑\fs15}203 spinner mugs...
+Dialogue: 0,0:53:29.16,0:53:34.16,*Default,NTP,0000,0000,0000,,还有1000个口哨 加油 达斯迪汉子队! 冠军! 耶!\N{\fn微软雅黑\fs15}And 1,000 whistles. Go, Team Dusterino! The winner! Yeah!
+Dialogue: 0,0:53:34.60,0:53:36.09,*Default,NTP,0000,0000,0000,,你确定你也要来吗 斯基珀?\N{\fn微软雅黑\fs15}You sure you're up for it, Skipper?
+Dialogue: 0,0:53:36.36,0:53:38.76,*Default,NTP,0000,0000,0000,,当然啦 反正不是我自己飞\N{\fn微软雅黑\fs15}You bet. Somebody else is doing the flying.
+Dialogue: 0,0:53:38.96,0:53:41.20,*Default,NTP,0000,0000,0000,,兄弟们 真是个好消息 墨西哥不见不散\N{\fn微软雅黑\fs15}That's great news, guys. I'll see you in Mexico.
+Dialogue: 0,0:53:41.32,0:53:42.32,*Default,NTP,0000,0000,0000,,晚安!\N{\fn微软雅黑\fs15}Buenas noches!
+Dialogue: 0,0:53:42.40,0:53:44.12,*Default,NTP,0000,0000,0000,,我要买辣茄酱! 喔喔!\N{\fn微软雅黑\fs15}I'll bring the Salsa! Whoo-hoo!
+Dialogue: 0,0:53:46.80,0:53:48.96,*Default,NTP,0000,0000,0000,,嗨 卓帕 哪起火了?\N{\fn微软雅黑\fs15}Hey, El Chu, where's the fire?
+Dialogue: 0,0:53:49.16,0:53:51.08,*Default,NTP,0000,0000,0000,,在我的灵魂里\N{\fn微软雅黑\fs15}It is in my soul.
+Dialogue: 0,0:53:51.24,0:53:54.36,*Default,NTP,0000,0000,0000,,今晚 我要赢得\N{\fn微软雅黑\fs15}Tonight, I shall win the heart
+Dialogue: 0,0:53:54.52,0:53:57.60,*Default,NTP,0000,0000,0000,,瑞谢尔小姐的欢心\N{\fn微软雅黑\fs15}of Miss Rochelle.
+Dialogue: 0,0:54:03.48,0:54:05.44,*Default,NTP,0000,0000,0000,,啊!\N{\fn微软雅黑\fs15}Ugh!
+Dialogue: 0,0:54:13.16,0:54:16.00,*Default,NTP,0000,0000,0000,,悲剧 悲剧 悲剧 千年悲剧\N{\fn微软雅黑\fs15}No, no, no. A thousand no's.
+Dialogue: 0,0:54:31.40,0:54:33.52,*Default,NTP,0000,0000,0000,,达斯迪 你在干嘛?\N{\fn微软雅黑\fs15}Dusty, what are you doing?
+Dialogue: 0,0:54:44.40,0:54:46.68,*Default,NTP,0000,0000,0000,,要循序渐进\N{\fn微软雅黑\fs15}Low and slow.
+Dialogue: 0,0:54:46.95,0:54:48.21,*Default,NTP,0000,0000,0000,,{\an6}怎么循序渐进
+Dialogue: 0,0:54:49.80,0:54:51.20,*Default,NTP,0000,0000,0000,,{\an6}要温文尔雅
+Dialogue: 0,0:54:51.28,0:54:53.40,*Default,NTP,0000,0000,0000,,哦...\N{\fn微软雅黑\fs15}Oh...
+Dialogue: 0,0:56:04.92,0:56:06.57,*Default,NTP,0000,0000,0000,,啥意思?\N{\fn微软雅黑\fs15}What does that mean?
+Dialogue: 0,0:56:06.72,0:56:12.12,*Default,NTP,0000,0000,0000,,没听懂 但是加拿大法语在魁北克是爱的语言\N{\fn微软雅黑\fs15}No idea, but French-Canadian is the language of love in Quebec.
+Dialogue: 0,0:56:12.28,0:56:13.48,*Default,NTP,0000,0000,0000,,所以 还不错的节奏\N{\fn微软雅黑\fs15}So, it's got to be good.
+Dialogue: 0,0:56:13.68,0:56:15.25,*Default,NTP,0000,0000,0000,,哥们 我欠你一人情\N{\fn微软雅黑\fs15}I'm in your debt, compadre.
+Dialogue: 0,0:56:15.40,0:56:18.37,*Default,NTP,0000,0000,0000,,如果需要我 随传随到\N{\fn微软雅黑\fs15}If ever you need me, I shall be there.
+Dialogue: 0,0:56:18.56,0:56:21.64,*Default,NTP,0000,0000,0000,,哥们 这个我喜欢\N{\fn微软雅黑\fs15}Compadre. I like that.
+Dialogue: 0,0:56:22.56,0:56:23.89,*Default,NTP,0000,0000,0000,,欢迎收看\N{\fn微软雅黑\fs15}You are looking live
+Dialogue: 0,0:56:23.96,0:56:26.69,*Default,NTP,0000,0000,0000,,上海浦东国际机场现场直播\N{\fn微软雅黑\fs15}at Pudong Shanghai International Airport...
+Dialogue: 0,0:56:27.36,0:56:31.60,*Default,NTP,0000,0000,0000,,看吧 榜首对一个乡巴佬来说感觉不错\N{\fn微软雅黑\fs15}Yep. first place. Not too bad for a farm boy.
+Dialogue: 0,0:56:33.28,0:56:34.28,*Default,NTP,0000,0000,0000,,哦 是么?\N{\fn微软雅黑\fs15}Oh. yeah?
+Dialogue: 0,0:56:34.36,0:56:36.20,*Default,NTP,0000,0000,0000,,榜首是失败者之地\N{\fn微软雅黑\fs15}Well, First place is for losers.
+Dialogue: 0,0:56:36.36,0:56:38.08,*Default,NTP,0000,0000,0000,,说不够了 笨蛋!\N{\fn微软雅黑\fs15}Can it, moron!
+Dialogue: 0,0:56:38.20,0:56:39.20,*Default,NTP,0000,0000,0000,,嗷!\N{\fn微软雅黑\fs15}Ow!
+Dialogue: 0,0:56:39.36,0:56:42.60,*Default,NTP,0000,0000,0000,,现在 听着 现在该你们有用武之地的时候了\N{\fn微软雅黑\fs15}Now, listen up. It's time to make yourselves useful.
+Dialogue: 0,0:56:45.08,0:56:46.32,*Default,NTP,0000,0000,0000,,你怎么了?\N{\fn微软雅黑\fs15}What happened to you?
+Dialogue: 0,0:56:46.48,0:56:49.45,*Default,NTP,0000,0000,0000,,就那首歌 威力太猛了\N{\fn微软雅黑\fs15}That song. It flipped a switch.
+Dialogue: 0,0:56:49.60,0:56:52.72,*Default,NTP,0000,0000,0000,,哦 小坏蛋 过来嘛\N{\fn微软雅黑\fs15}Oh, my little monster. Come here.
+Dialogue: 0,0:56:52.88,0:56:54.16,*Default,NTP,0000,0000,0000,,慢点! 不!\N{\fn微软雅黑\fs15}Please! No!
+Dialogue: 0,0:56:56.28,0:56:58.80,*Default,NTP,0000,0000,0000,,她现在就跟母豹一样\N{\fn微软雅黑\fs15}She is like a jaguar now.
+Dialogue: 0,0:56:58.96,0:57:00.32,*Default,NTP,0000,0000,0000,,哦 小甜心\N{\fn微软雅黑\fs15}Oh, my little burrito.
+Dialogue: 0,0:57:00.52,0:57:01.64,*Default,NTP,0000,0000,0000,,温柔点!\N{\fn微软雅黑\fs15}Be gentle with me!
+Dialogue: 0,0:57:01.80,0:57:04.92,*Default,NTP,0000,0000,0000,,启动引擎\N{\fn微软雅黑\fs15}Start your engines.
+Dialogue: 0,0:57:09.92,0:57:12.28,*Default,NTP,0000,0000,0000,,这是我们第六场也是赛程最长的一场比赛\N{\fn微软雅黑\fs15}This is our sixth and longest leg.
+Dialogue: 0,0:57:12.44,0:57:15.04,*Default,NTP,0000,0000,0000,,因为这里与墨西哥横跨一个大洋\N{\fn微软雅黑\fs15}These racers will need to follow their GPS antennas
+Dialogue: 0,0:57:13.89,0:57:18.29,*Default,NTP,0000,0000,0000,,{\an8}第六赛段 中国-墨西哥
+Dialogue: 0,0:57:15.20,0:57:18.92,*Default,NTP,0000,0000,0000,,主要考验赛手们的导航能力\N{\fn微软雅黑\fs15}because there's a big ocean between here and Mexico.
+Dialogue: 0,0:57:31.12,0:57:32.12,*Default,NTP,0000,0000,0000,,啊!\N{\fn微软雅黑\fs15}Ah!
+Dialogue: 0,0:57:32.92,0:57:34.12,*Default,NTP,0000,0000,0000,,我的天线!\N{\fn微软雅黑\fs15}My antenna!
+Dialogue: 0,0:57:35.96,0:57:38.04,*Default,NTP,0000,0000,0000,,哦 不! 不! 不!\N{\fn微软雅黑\fs15}Oh, no! No! No!
+Dialogue: 0,0:57:40.32,0:57:42.00,*Default,NTP,0000,0000,0000,,我该怎么办?\N{\fn微软雅黑\fs15}What am I going to do?
+Dialogue: 0,0:57:43.56,0:57:45.05,*Default,NTP,0000,0000,0000,,最后的已知坐标\N{\fn微软雅黑\fs15}Last known coordinates,
+Dialogue: 0,0:57:45.20,0:57:47.08,*Default,NTP,0000,0000,0000,,26度 31分\N{\fn微软雅黑\fs15}26 degrees, 31 minutes.
+Dialogue: 0,0:57:47.28,0:57:48.69,*Default,NTP,0000,0000,0000,,呼叫夏威夷?\N{\fn微软雅黑\fs15}Hawaii, are you there?
+Dialogue: 0,0:57:48.96,0:57:52.80,*Default,NTP,0000,0000,0000,,收到没? 我燃料不足\N{\fn微软雅黑\fs15}Do you read? I am low on fuel.
+Dialogue: 0,0:57:52.88,0:57:55.12,*Default,NTP,0000,0000,0000,,哦 不!\N{\fn微软雅黑\fs15}Oh, no!
+Dialogue: 0,0:57:55.68,0:57:56.72,*Default,NTP,0000,0000,0000,,哦 天啊\N{\fn微软雅黑\fs15}Oh, boy.
+Dialogue: 0,0:57:59.44,0:58:00.88,*Default,NTP,0000,0000,0000,,喔 喔 喔 喔 喔\N{\fn微软雅黑\fs15}Whoa, whoa, whoa, whoa, whoa.
+Dialogue: 0,0:58:01.20,0:58:04.64,*Default,NTP,0000,0000,0000,,未知飞机 未知飞机 你进入受限领空\N{\fn微软雅黑\fs15}Unknown rider, unknown rider. You have entered restricted airspace.
+Dialogue: 0,0:58:04.88,0:58:06.53,*Default,NTP,0000,0000,0000,,为什么不回应无线电呼叫?\N{\fn微软雅黑\fs15}Why haven't you responded to radio contact?
+Dialogue: 0,0:58:06.68,0:58:08.09,*Default,NTP,0000,0000,0000,,有人撞断了我的天线\N{\fn微软雅黑\fs15}Somebody cut off my antenna.
+Dialogue: 0,0:58:08.24,0:58:10.68,*Default,NTP,0000,0000,0000,,- 请表明身份  - 我是农田守望者达斯迪\N{\fn微软雅黑\fs15}- Identify yourself.  - I'm Dusty Crophopper.
+Dialogue: 0,0:58:10.88,0:58:11.88,*Default,NTP,0000,0000,0000,,收到\N{\fn微软雅黑\fs15}Roger that.
+Dialogue: 0,0:58:12.12,0:58:13.56,*Default,NTP,0000,0000,0000,,闯入者名为农田守望者7号\N{\fn微软雅黑\fs15}Bogey has been identified as Crophopper Seven.
+Dialogue: 0,0:58:13.68,0:58:15.80,*Default,NTP,0000,0000,0000,,我已经在烧油气了 我需要降落\N{\fn微软雅黑\fs15}I'm running on vapors. I need to land.
+Dialogue: 0,0:58:15.96,0:58:17.84,*Default,NTP,0000,0000,0000,,你空油飞行做什么?\N{\fn微软雅黑\fs15}What are you doing out here with an empty tank?
+Dialogue: 0,0:58:18.00,0:58:19.65,*Default,NTP,0000,0000,0000,,我本打算去夏威夷加油 但是...\N{\fn微软雅黑\fs15}I thought I'd refuel in Hawaii, but...
+Dialogue: 0,0:58:19.80,0:58:22.37,*Default,NTP,0000,0000,0000,,夏威夷在离这里375英里的西南方\N{\fn微软雅黑\fs15}Hawaii is 375 miles southwest of here.
+Dialogue: 0,0:58:22.44,0:58:23.44,*Default,NTP,0000,0000,0000,,- 什么?  - 听着 农田守望者\N{\fn微软雅黑\fs15}- What?  - Listen, Crophopper.
+Dialogue: 0,0:58:23.56,0:58:24.89,*Default,NTP,0000,0000,0000,,你最好跟我们到船上去\N{\fn微软雅黑\fs15}You better follow us to the boat.
+Dialogue: 0,0:58:25.08,0:58:26.36,*Default,NTP,0000,0000,0000,,附近可没酒吧\N{\fn微软雅黑\fs15}No Bingo fields around here.
+Dialogue: 0,0:58:26.48,0:58:28.88,*Default,NTP,0000,0000,0000,,- "酒吧"?  - 降落的地方\N{\fn微软雅黑\fs15}- "Bingo fields"?  - Places to land.
+Dialogue: 0,0:58:28.96,0:58:31.96,*Default,NTP,0000,0000,0000,,- 船?  - 美国海军飞森豪威尔号航空母舰\N{\fn微软雅黑\fs15}- The boat?  - The USS Dwight D. Flysenhower.
+Dialogue: 0,0:58:33.44,0:58:35.68,*Default,NTP,0000,0000,0000,,B组 返回成员增加一位 确认\N{\fn微软雅黑\fs15}Bravo, checking in as frag plus one. Check.
+Dialogue: 0,0:58:35.76,0:58:37.28,*Default,NTP,0000,0000,0000,,- 二  - 允许着陆 B组\N{\fn微软雅黑\fs15}- Two.  - Go ahead, Bravo.
+Dialogue: 0,0:58:37.44,0:58:39.20,*Default,NTP,0000,0000,0000,,闯入者是平民 需要紧急燃料\N{\fn微软雅黑\fs15}Bogey is civilian. Needs emergency fuel.
+Dialogue: 0,0:58:39.28,0:58:41.32,*Default,NTP,0000,0000,0000,,- 收到  - 大点声!\N{\fn微软雅黑\fs15}- Copy that.  - For flying out loud!
+Dialogue: 0,0:58:41.40,0:58:44.08,*Default,NTP,0000,0000,0000,,真糟糕 一个平民就要在我的甲板上爆炸了\N{\fn微软雅黑\fs15}That's all I need, a civilian exploding on my deck.
+Dialogue: 0,0:58:44.24,0:58:45.81,*Default,NTP,0000,0000,0000,,长官 我们可以设路障\N{\fn微软雅黑\fs15}We could rig the barricade, sir.
+Dialogue: 0,0:58:46.00,0:58:47.20,*Default,NTP,0000,0000,0000,,所有引擎 全速向前\N{\fn微软雅黑\fs15}All engines, ahead flank.
+Dialogue: 0,0:58:47.36,0:58:50.40,*Default,NTP,0000,0000,0000,,所有引擎 全速向前\N{\fn微软雅黑\fs15}Aye, Captain. All engines ahead flank.
+Dialogue: 0,0:58:50.72,0:58:52.56,*Default,NTP,0000,0000,0000,,- 设路障  - 收到\N{\fn微软雅黑\fs15}- Rig the barricade.  - Copy that.
+Dialogue: 0,0:58:52.64,0:58:55.16,*Default,NTP,0000,0000,0000,,设路障! 快点 快点\N{\fn微软雅黑\fs15}Rig the barricade! Chop-chop. Hubba-hubba.
+Dialogue: 0,0:58:55.32,0:58:56.97,*Default,NTP,0000,0000,0000,,我们带你飞向路障\N{\fn微软雅黑\fs15}Let's line you up for the barricade.
+Dialogue: 0,0:58:57.12,0:58:59.96,*Default,NTP,0000,0000,0000,,你要做的就是收油 降落\N{\fn微软雅黑\fs15}All you have to do is throttle on back and call the ball
+Dialogue: 0,0:59:00.04,0:59:01.80,*Default,NTP,0000,0000,0000,,然后祈祷那些面条能拉得住你\N{\fn微软雅黑\fs15}and hopefully end up in the Spaghetti.
+Dialogue: 0,0:59:02.00,0:59:03.08,*Default,NTP,0000,0000,0000,,什么? 等一下 不 等一下! 等一下!\N{\fn微软雅黑\fs15}What? Wait, no, wait! Wait a second!
+Dialogue: 0,0:59:03.84,0:59:05.84,*Default,NTP,0000,0000,0000,,大哥 我不一定做得到啊\N{\fn微软雅黑\fs15}Guys, I'm not sure I can do this.
+Dialogue: 0,0:59:06.00,0:59:07.36,*Default,NTP,0000,0000,0000,,我看你别无选择\N{\fn微软雅黑\fs15}I don't see how you have a choice.
+Dialogue: 0,0:59:07.56,0:59:08.84,*Default,NTP,0000,0000,0000,,好吧 但是跑道还在移动\N{\fn微软雅黑\fs15}Okay. But that runway is moving.
+Dialogue: 0,0:59:09.00,0:59:10.16,*Default,NTP,0000,0000,0000,,我们会带你飞上滑行道的\N{\fn微软雅黑\fs15}We'll set you up on the glide path.
+Dialogue: 0,0:59:10.24,0:59:11.60,*Default,NTP,0000,0000,0000,,跑道怎么能动呢\N{\fn微软雅黑\fs15}Runways are not supposed to move.
+Dialogue: 0,0:59:11.80,0:59:13.52,*Default,NTP,0000,0000,0000,,行 我还行 我会没事的\N{\fn微软雅黑\fs15}Okay. I'm okay. I'm going to be fine.
+Dialogue: 0,0:59:13.60,0:59:15.04,*Default,NTP,0000,0000,0000,,- 放轻松  - 移动跑道 移动跑道\N{\fn微软雅黑\fs15}- Take it easy.  - Moving runway, moving runway.
+Dialogue: 0,0:59:15.32,0:59:16.97,*Default,NTP,0000,0000,0000,,- 就这样 来吧  - 收油门\N{\fn微软雅黑\fs15}- There it is. Here we go.  - Throttle on back.
+Dialogue: 0,0:59:17.16,0:59:18.16,*Default,NTP,0000,0000,0000,,或许我要重新来一次\N{\fn微软雅黑\fs15}Maybe if I just came around again.
+Dialogue: 0,0:59:18.40,0:59:20.28,*Default,NTP,0000,0000,0000,,- 平衡你的机翼  - 放轻松\N{\fn微软雅黑\fs15}- Level your wings.  - Easy with it.
+Dialogue: 0,0:59:20.64,0:59:22.13,*Default,NTP,0000,0000,0000,,停 停 停!\N{\fn微软雅黑\fs15}Cut, cut, cut!
+Dialogue: 0,0:59:24.12,0:59:25.45,*Default,NTP,0000,0000,0000,,停!\N{\fn微软雅黑\fs15}Stop!
+Dialogue: 0,0:59:35.32,0:59:38.16,*Default,NTP,0000,0000,0000,,没事了 农田守望者\N{\fn微软雅黑\fs15}We've got you, Crophopper.
+Dialogue: 0,0:59:39.12,0:59:41.56,*Default,NTP,0000,0000,0000,,来吧 来修理一下 加个油 再重回赛场\N{\fn微软雅黑\fs15}Come on, let's get you fixed up, refueled and back in the race.
+Dialogue: 0,0:59:42.24,0:59:43.57,*Default,NTP,0000,0000,0000,,你现在落后了\N{\fn微软雅黑\fs15}You are way behind.
+Dialogue: 0,0:59:43.68,0:59:45.48,*Default,NTP,0000,0000,0000,,谢了 哥们 你救了我\N{\fn微软雅黑\fs15}Thanks, guys. You saved my tail out there.
+Dialogue: 0,0:59:45.68,0:59:47.36,*Default,NTP,0000,0000,0000,,- 胜利  - 胜利\N{\fn微软雅黑\fs15}- Victory.  - Victory.
+Dialogue: 0,0:59:48.60,0:59:50.01,*Default,NTP,0000,0000,0000,,嗨 那是什么?\N{\fn微软雅黑\fs15}Hey, what is that?
+Dialogue: 0,0:59:50.12,0:59:52.64,*Default,NTP,0000,0000,0000,,那是乔利扳手中队名人墙\N{\fn微软雅黑\fs15}That's the Jolly Wrenches Wall of Fame.
+Dialogue: 0,0:59:52.84,0:59:54.17,*Default,NTP,0000,0000,0000,,每一位飞行者 每一个使命\N{\fn微软雅黑\fs15}Every flyer, every mission.
+Dialogue: 0,0:59:55.08,0:59:57.32,*Default,NTP,0000,0000,0000,,嗯... 斯基珀... 斯基珀...\N{\fn微软雅黑\fs15}Mmm... Skipper... Skipper...
+Dialogue: 0,0:59:57.48,0:59:59.32,*Default,NTP,0000,0000,0000,,哦 哈哈! 在这\N{\fn微软雅黑\fs15}Oh. Ha-ha! There he is.
+Dialogue: 0,1:00:01.12,1:00:04.64,*Default,NTP,0000,0000,0000,,等一下 我不明白了 为什么只有一个任务?\N{\fn微软雅黑\fs15}Wait. I don't understand. Why is there only one mission?
+Dialogue: 0,1:00:06.36,1:00:07.88,*Default,NTP,0000,0000,0000,,楚格 那都是些什么啊?\N{\fn微软雅黑\fs15}Chug, what's all that?
+Dialogue: 0,1:00:07.96,1:00:10.77,*Default,NTP,0000,0000,0000,,我从来没出过国 你知道 我还带着腹泻药\N{\fn微软雅黑\fs15}Well, I've never been out of the country. You know, I brought the Commodium.
+Dialogue: 0,1:00:10.84,1:00:13.04,*Default,NTP,0000,0000,0000,,不管你做什么 别乱喝汽油\N{\fn微软雅黑\fs15}Whatever you do, don't drink the petrol.
+Dialogue: 0,1:00:13.20,1:00:14.61,*Default,NTP,0000,0000,0000,,我们就去两天\N{\fn微软雅黑\fs15}We're only going for two days.
+Dialogue: 0,1:00:14.68,1:00:16.28,*Default,NTP,0000,0000,0000,,好好准备 对吧\N{\fn微软雅黑\fs15}Got to be prepared, right?
+Dialogue: 0,1:00:16.44,1:00:18.40,*Default,NTP,0000,0000,0000,,还有海滩装 晚礼服 内衣\N{\fn微软雅黑\fs15}Got beachwear, dinner wear, underwear...
+Dialogue: 0,1:00:18.56,1:00:20.72,*Default,NTP,0000,0000,0000,,达斯迪呼叫斯基珀? 请回话 斯基珀\N{\fn微软雅黑\fs15}Dusty Skipper? Come in, Skipper.
+Dialogue: 0,1:00:20.88,1:00:23.40,*Default,NTP,0000,0000,0000,,达斯迪 我们现在去墨西哥\N{\fn微软雅黑\fs15}Dusty! We're heading off to Mexico right now.
+Dialogue: 0,1:00:23.52,1:00:24.80,*Default,NTP,0000,0000,0000,,幸好你没事\N{\fn微软雅黑\fs15}Glad you got there safe.
+Dialogue: 0,1:00:24.88,1:00:27.61,*Default,NTP,0000,0000,0000,,天气预报说那边有一场大暴雨\N{\fn微软雅黑\fs15}Weather report says a major storm is brewing out there.
+Dialogue: 0,1:00:27.76,1:00:30.57,*Default,NTP,0000,0000,0000,,我不在墨西哥 我和乔利中队在一起\N{\fn微软雅黑\fs15}I'm not in Mexico. I'm with the Jolly Wrenches.
+Dialogue: 0,1:00:30.84,1:00:32.96,*Default,NTP,0000,0000,0000,,你在飞森豪威尔号上?\N{\fn微软雅黑\fs15}You're on the Flysenhower?
+Dialogue: 0,1:00:33.20,1:00:36.76,*Default,NTP,0000,0000,0000,,哎 我看到那个名人墙了 那个榜单上你就有一个任务\N{\fn微软雅黑\fs15}Hey, I saw the Wall of Fame. They only list one mission for you.
+Dialogue: 0,1:00:36.92,1:00:39.00,*Default,NTP,0000,0000,0000,,达斯迪 如果你没有躲过风暴 你就要...\N{\fn微软雅黑\fs15}Dusty, if you're not past that storm yet, you need...
+Dialogue: 0,1:00:39.16,1:00:41.04,*Default,NTP,0000,0000,0000,,不对 那个肯定错了\N{\fn微软雅黑\fs15}That can't be right. it must be a mistake.
+Dialogue: 0,1:00:41.24,1:00:42.76,*Default,NTP,0000,0000,0000,,听着 你一定要逃出来\N{\fn微软雅黑\fs15}Look, you have to get out of there.
+Dialogue: 0,1:00:42.84,1:00:44.52,*Default,NTP,0000,0000,0000,,你一定要飞高点\N{\fn微软雅黑\fs15}You're going to have to fly high.
+Dialogue: 0,1:00:44.68,1:00:45.68,*Default,NTP,0000,0000,0000,,是真的么?\N{\fn微软雅黑\fs15}Is it true?
+Dialogue: 0,1:00:45.76,1:00:46.84,*Default,NTP,0000,0000,0000,,听我说 要在风暴上空飞!\N{\fn微软雅黑\fs15}Listen to me, get above the storm!
+Dialogue: 0,1:00:47.00,1:00:48.80,*Default,NTP,0000,0000,0000,,- 斯基珀 是真的么?  - 是真的!\N{\fn微软雅黑\fs15}- Skipper, is it true?  - It's true!
+Dialogue: 0,1:00:52.52,1:00:54.60,*Default,NTP,0000,0000,0000,,是真的\N{\fn微软雅黑\fs15}It's true.
+Dialogue: 0,1:00:54.76,1:00:57.16,*Default,NTP,0000,0000,0000,,我只飞了一个任务\N{\fn微软雅黑\fs15}I only flew one mission.
+Dialogue: 0,1:00:58.08,1:01:00.12,*Default,NTP,0000,0000,0000,,但之前那些故事呢?\N{\fn微软雅黑\fs15}But all those stories?
+Dialogue: 0,1:01:00.28,1:01:02.32,*Default,NTP,0000,0000,0000,,农田守望者 天气系统运行很快\N{\fn微软雅黑\fs15}Crophopper, we got weather moving in fast.
+Dialogue: 0,1:01:02.48,1:01:04.16,*Default,NTP,0000,0000,0000,,尽快起飞 否则来不及了\N{\fn微软雅黑\fs15}You've got to take off before it's too late.
+Dialogue: 0,1:01:04.32,1:01:05.40,*Default,NTP,0000,0000,0000,,给我点时间\N{\fn微软雅黑\fs15}I just need a second here.
+Dialogue: 0,1:01:05.56,1:01:06.64,*Default,NTP,0000,0000,0000,,这样不好 孩子\N{\fn微软雅黑\fs15}That's a negative, son.
+Dialogue: 0,1:01:06.72,1:01:08.52,*Default,NTP,0000,0000,0000,,现在不走 就再也走不了了\N{\fn微软雅黑\fs15}You don't go now, you don't go at all.
+Dialogue: 0,1:01:08.76,1:01:12.12,*Default,NTP,0000,0000,0000,,警报 天气中心发出警告\N{\fn微软雅黑\fs15}Be advised, the JTWC has issued a tropical cyclone formation alert
+Dialogue: 0,1:01:12.20,1:01:13.80,*Default,NTP,0000,0000,0000,,东北太平洋形成热带气旋\N{\fn微软雅黑\fs15}for the northeast Pacific ocean.
+Dialogue: 0,1:01:13.88,1:01:16.45,*Default,NTP,0000,0000,0000,,主要影响区域为\N{\fn微软雅黑\fs15}Area of convection is located 500 nautical miles
+Dialogue: 0,1:01:16.52,1:01:18.01,*Default,NTP,0000,0000,0000,,夏威夷东北方五百英里\N{\fn微软雅黑\fs15}east-northeast of Hawaii.
+Dialogue: 0,1:01:18.20,1:01:20.56,*Default,NTP,0000,0000,0000,,最高持续风速 目前估计...\N{\fn微软雅黑\fs15}Maximum sustained surface winds are currently estimated at...
+Dialogue: 0,1:01:21.04,1:01:23.52,*Default,NTP,0000,0000,0000,,到2号发射台报到\N{\fn微软雅黑\fs15}Report to catapult two.
+Dialogue: 0,1:01:23.60,1:01:26.68,*Default,NTP,0000,0000,0000,,"小猫"可以让你在2秒内速度由零提高到160节\N{\fn微软雅黑\fs15}The CAT will take you from zero to 160 knots in two seconds.
+Dialogue: 0,1:01:24.18,1:01:28.44,*Default,NTP,0000,0000,0000,,{\an8}小猫(CAT 蒸汽弹射系统)
+Dialogue: 0,1:01:26.92,1:01:27.92,*Default,NTP,0000,0000,0000,,两秒?\N{\fn微软雅黑\fs15}Two seconds?
+Dialogue: 0,1:01:28.00,1:01:29.76,*Default,NTP,0000,0000,0000,,我们要给你称重再设置一下蒸汽压力\N{\fn微软雅黑\fs15}We're going to check your weight and set the steam pressure.
+Dialogue: 0,1:01:29.84,1:01:31.96,*Default,NTP,0000,0000,0000,,记住 一旦起飞就直线上升\N{\fn微软雅黑\fs15}Remember, climb straight ahead once you get airborne.
+Dialogue: 0,1:01:32.16,1:01:34.48,*Default,NTP,0000,0000,0000,,- 直线上升  - 飞行至风暴之上\N{\fn微软雅黑\fs15}- Climb straight ahead.  - Get above the storm.
+Dialogue: 0,1:01:35.84,1:01:39.68,*Default,NTP,0000,0000,0000,,好 马力全开 准备就绪就点头示意发射员\N{\fn微软雅黑\fs15}Okay, engine full throttle. Nod to the shooter when you're set.
+Dialogue: 0,1:01:40.60,1:01:42.09,*Default,NTP,0000,0000,0000,,达斯迪 为扳手中队而战\N{\fn微软雅黑\fs15}Go win it for the Wrenches, Dusty.
+Dialogue: 0,1:01:42.16,1:01:44.28,*Default,NTP,0000,0000,0000,,为真理而飞行!\N{\fn微软雅黑\fs15}Volo Pro Veritas!
+Dialogue: 0,1:01:46.12,1:01:48.28,*Default,NTP,0000,0000,0000,,顶风正常 压力正常\N{\fn微软雅黑\fs15}Head Wind's good. Pressure's good.
+Dialogue: 0,1:01:49.72,1:01:51.00,*Default,NTP,0000,0000,0000,,二号发射台 走你\N{\fn微软雅黑\fs15}Go on CAT two.
+Dialogue: 0,1:02:00.12,1:02:01.77,*Default,NTP,0000,0000,0000,,里普斯林杰先生 关于农田守望者达斯迪失踪一事\N{\fn微软雅黑\fs15}Se?or Ripslinger, any comment
+Dialogue: 0,1:02:00.94,1:02:05.25,*Default,NTP,0000,0000,0000,,{\an8}墨西哥 墨西哥城
+Dialogue: 0,1:02:01.84,1:02:03.44,*Default,NTP,0000,0000,0000,,请谈几句吧?\N{\fn微软雅黑\fs15}on the disappearance of Dusty Crophopper?
+Dialogue: 0,1:02:03.60,1:02:07.73,*Default,NTP,0000,0000,0000,,达斯迪是个好人 他毫不畏惧\N{\fn微软雅黑\fs15}Dusty was a nice guy who flew the challenge
+Dialogue: 0,1:02:07.88,1:02:10.04,*Default,NTP,0000,0000,0000,,挑战自我 直击长空\N{\fn微软雅黑\fs15}and pierced the clouds of mediocrity.
+Dialogue: 0,1:02:10.28,1:02:13.56,*Default,NTP,0000,0000,0000,,我们都会想他的 让一下\N{\fn微软雅黑\fs15}We're all going to miss him. Excuse me.
+Dialogue: 0,1:02:13.76,1:02:16.16,*Default,NTP,0000,0000,0000,,希望他下辈子投胎做船而不是飞机\N{\fn微软雅黑\fs15}Let's just hope he makes a better boat than a plane.
+Dialogue: 0,1:02:16.32,1:02:17.65,*Default,NTP,0000,0000,0000,,说得好 老板\N{\fn微软雅黑\fs15}That's a good one, boss.
+Dialogue: 0,1:02:17.72,1:02:19.92,*Default,NTP,0000,0000,0000,,哦 是 挺好的\N{\fn微软雅黑\fs15}Oh, yeah, that was pretty good.
+Dialogue: 0,1:02:22.64,1:02:27.24,*Default,NTP,0000,0000,0000,,达斯迪比你快10倍\N{\fn微软雅黑\fs15}Se?or Dusty has 10 times the engine you do.
+Dialogue: 0,1:02:27.40,1:02:29.00,*Default,NTP,0000,0000,0000,,比你正直10倍\N{\fn微软雅黑\fs15}And 10 times the integrity.
+Dialogue: 0,1:02:29.16,1:02:31.68,*Default,NTP,0000,0000,0000,,你装着我们崭新的螺旋桨对我说这些\N{\fn微软雅黑\fs15}Said the plane with the shiny new propeller.
+Dialogue: 0,1:02:31.96,1:02:34.80,*Default,NTP,0000,0000,0000,,为那玩意你付出了多少正直啊 亲爱的?\N{\fn微软雅黑\fs15}How much integrity did that one cost you, sweetheart?
+Dialogue: 0,1:02:35.56,1:02:37.80,*Default,NTP,0000,0000,0000,,付出的太多了\N{\fn微软雅黑\fs15}Too much.
+Dialogue: 0,1:02:37.96,1:02:40.80,*Default,NTP,0000,0000,0000,,你过去是个多棒的冠军\N{\fn微软雅黑\fs15}You used to be a great champion.
+Dialogue: 0,1:02:40.96,1:02:43.24,*Default,NTP,0000,0000,0000,,如今你都堕落成这般\N{\fn微软雅黑\fs15}How the mighty have fallen.
+Dialogue: 0,1:02:46.28,1:02:50.25,*Default,NTP,0000,0000,0000,,你被扇披风都不够资格\N{\fn微软雅黑\fs15}You are not even worthy of a cape swish.
+Dialogue: 0,1:02:51.84,1:02:53.44,*Default,NTP,0000,0000,0000,,是吗?\N{\fn微软雅黑\fs15}Really?
+Dialogue: 0,1:02:55.08,1:02:56.84,*Default,NTP,0000,0000,0000,,怎么可能就只完成了一件任务?\N{\fn微软雅黑\fs15}How can it be only one mission?
+Dialogue: 0,1:02:56.92,1:02:58.08,*Default,NTP,0000,0000,0000,,航空线之争\N{\fn微软雅黑\fs15}The Battle of Airway.
+Dialogue: 0,1:02:58.16,1:02:59.84,*Default,NTP,0000,0000,0000,,图洪加港突袭 阿留申群岛\N{\fn微软雅黑\fs15}The raid in Tujunga Harbor. The Aleutians.
+Dialogue: 0,1:03:00.04,1:03:02.88,*Default,NTP,0000,0000,0000,,威克岛战役 支援昆明\N{\fn微软雅黑\fs15}The Battle of Wake Island. The Assault on Kunming.
+Dialogue: 0,1:03:03.20,1:03:05.60,*Default,NTP,0000,0000,0000,,我得飞到风暴上面去!\N{\fn微软雅黑\fs15}I gotta get above the storm!
+Dialogue: 0,1:03:10.20,1:03:11.20,*Default,NTP,0000,0000,0000,,哇!\N{\fn微软雅黑\fs15}Whoa!
+Dialogue: 0,1:03:23.56,1:03:26.08,*Default,NTP,0000,0000,0000,,求救! 求救! 我要坠落了!\N{\fn微软雅黑\fs15}Mayday! Mayday! I'm going down!
+Dialogue: 0,1:03:26.28,1:03:28.93,*Default,NTP,0000,0000,0000,,北纬18度6分 119...\N{\fn微软雅黑\fs15}18 degrees north, six minutes, 119...
+Dialogue: 0,1:03:45.08,1:03:46.73,*Default,NTP,0000,0000,0000,,救命!\N{\fn微软雅黑\fs15}Help!
+Dialogue: 0,1:04:14.88,1:04:16.12,*Default,NTP,0000,0000,0000,,- 达斯迪!  - 我的朋友!\N{\fn微软雅黑\fs15}- Dusty!  - Mi amigo!
+Dialogue: 0,1:04:16.20,1:04:17.77,*Default,NTP,0000,0000,0000,,快 到机库去\N{\fn微软雅黑\fs15}Quick, to the hangar.
+Dialogue: 0,1:04:19.04,1:04:23.25,*Default,NTP,0000,0000,0000,,翼肋折断 齿轮扭曲 支柱弯曲\N{\fn微软雅黑\fs15}Broken wing ribs, twisted gear, bent prop,
+Dialogue: 0,1:04:24.04,1:04:28.25,*Default,NTP,0000,0000,0000,,主翼梁严重损坏\N{\fn微软雅黑\fs15}and your main spar is cracked bad.
+Dialogue: 0,1:04:31.16,1:04:33.08,*Default,NTP,0000,0000,0000,,结束了\N{\fn微软雅黑\fs15}It's over.
+Dialogue: 0,1:04:34.12,1:04:36.12,*Default,NTP,0000,0000,0000,,就一个?\N{\fn微软雅黑\fs15}One mission?
+Dialogue: 0,1:04:36.32,1:04:38.56,*Default,NTP,0000,0000,0000,,还说什么为真理而飞行\N{\fn微软雅黑\fs15}So much for Volo Pro Veritas.
+Dialogue: 0,1:04:42.36,1:04:45.44,*Default,NTP,0000,0000,0000,,我们能单独待一会么?\N{\fn微软雅黑\fs15}Can we get a minute alone, please?
+Dialogue: 0,1:04:49.40,1:04:51.76,*Default,NTP,0000,0000,0000,,你也去吧 斯帕奇\N{\fn微软雅黑\fs15}You, too, Sparky.
+Dialogue: 0,1:05:01.00,1:05:05.48,*Default,NTP,0000,0000,0000,,我在乔利扳手中队第一次巡航任务是在格兰戴尔运河\N{\fn微软雅黑\fs15}My first patrol as a Jolly Wrench was at Glendal Canal.
+Dialogue: 0,1:05:05.72,1:05:09.08,*Default,NTP,0000,0000,0000,,我的小队里全是新兵 都是崭新的\N{\fn微软雅黑\fs15}My squadron was all rookies. All razor sharp.
+Dialogue: 0,1:05:09.68,1:05:10.72,*Default,NTP,0000,0000,0000,,我本该小心的\N{\fn微软雅黑\fs15}I should know.
+Dialogue: 0,1:05:10.84,1:05:13.36,*Default,NTP,0000,0000,0000,,他们每一个都是由我训练出来的\N{\fn微软雅黑\fs15}I trained every single one of them.
+Dialogue: 0,1:05:13.52,1:05:17.08,*Default,NTP,0000,0000,0000,,本来是一次例行巡航 非常简单\N{\fn微软雅黑\fs15}It was supposed to be a routine patrol. A milk run.
+Dialogue: 0,1:05:17.24,1:05:20.36,*Default,NTP,0000,0000,0000,,看 斯基珀 两点钟方向 两英里处有敌舰\N{\fn微软雅黑\fs15}Look, Skipper, enemy ship two o'clock low, two miles.
+Dialogue: 0,1:05:20.44,1:05:23.33,*Default,NTP,0000,0000,0000,,- 轻松干一票 你说呢?  - 不行 线锯二号\N{\fn微软雅黑\fs15}- Easy pickings. What do you say?  - Negative, Jigsaw Two.
+Dialogue: 0,1:05:23.40,1:05:26.48,*Default,NTP,0000,0000,0000,,我们的命令是侦查和回报\N{\fn微软雅黑\fs15}Our orders are to recon and report back.
+Dialogue: 0,1:05:26.68,1:05:28.64,*Default,NTP,0000,0000,0000,,行了 斯基珀 速战速决\N{\fn微软雅黑\fs15}Come on, Skip, it will be a turkey shoot.
+Dialogue: 0,1:05:28.84,1:05:30.88,*Default,NTP,0000,0000,0000,,- 干吧 斯基珀  - 是啊 干吧!\N{\fn微软雅黑\fs15}- Let's do it, Skipper.  - Yeah, come on!
+Dialogue: 0,1:05:30.96,1:05:33.12,*Default,NTP,0000,0000,0000,,好吧 我们离近点看看\N{\fn微软雅黑\fs15}All right. Let's go in for a closer look.
+Dialogue: 0,1:05:33.60,1:05:35.52,*Default,NTP,0000,0000,0000,,不过要保持距离\N{\fn微软雅黑\fs15}But keep your distance.
+Dialogue: 0,1:05:40.44,1:05:42.56,*Default,NTP,0000,0000,0000,,天呐! 这是整支舰队!\N{\fn微软雅黑\fs15}Holy Cow! It's the whole enemy fleet!
+Dialogue: 0,1:05:42.84,1:05:44.28,*Default,NTP,0000,0000,0000,,再想爬升已经来不及了\N{\fn微软雅黑\fs15}It was too late to pull up.
+Dialogue: 0,1:05:46.44,1:05:48.28,*Default,NTP,0000,0000,0000,,躲开 卢卡斯!\N{\fn微软雅黑\fs15}Get out of there, Lucas!
+Dialogue: 0,1:06:22.64,1:06:24.88,*Default,NTP,0000,0000,0000,,我的整个小队\N{\fn微软雅黑\fs15}My whole squadron.
+Dialogue: 0,1:06:26.32,1:06:28.64,*Default,NTP,0000,0000,0000,,在我的指挥下\N{\fn微软雅黑\fs15}Under my command.
+Dialogue: 0,1:06:30.72,1:06:35.93,*Default,NTP,0000,0000,0000,,从那之后 我就再也不能飞了\N{\fn微软雅黑\fs15}After that, I just couldn't bring myself to fly again.
+Dialogue: 0,1:06:37.76,1:06:39.84,*Default,NTP,0000,0000,0000,,我问你个问题吧 达斯迪\N{\fn微软雅黑\fs15}Let me ask you something, Dusty.
+Dialogue: 0,1:06:40.00,1:06:43.40,*Default,NTP,0000,0000,0000,,如果你知道我过去的真相\N{\fn微软雅黑\fs15}If you knew the truth about my past,
+Dialogue: 0,1:06:43.60,1:06:46.49,*Default,NTP,0000,0000,0000,,你还会找我来训练你吗?\N{\fn微软雅黑\fs15}would you have asked me to train you?
+Dialogue: 0,1:06:50.20,1:06:51.80,*Default,NTP,0000,0000,0000,,不会\N{\fn微软雅黑\fs15}No.
+Dialogue: 0,1:06:58.60,1:07:00.76,*Default,NTP,0000,0000,0000,,抱歉 达斯迪\N{\fn微软雅黑\fs15}I'm sorry, Dusty.
+Dialogue: 0,1:07:02.00,1:07:05.99,*Default,NTP,0000,0000,0000,,{\an8}医疗救护站
+Dialogue: 0,1:07:17.24,1:07:18.76,*Default,NTP,0000,0000,0000,,达斯迪?\N{\fn微软雅黑\fs15}Dusty?
+Dialogue: 0,1:07:20.04,1:07:21.88,*Default,NTP,0000,0000,0000,,你相信吗?\N{\fn微软雅黑\fs15}Can you believe it?
+Dialogue: 0,1:07:21.96,1:07:24.96,*Default,NTP,0000,0000,0000,,他一直把我蒙在鼓里\N{\fn微软雅黑\fs15}He hasn't been straight with me this whole time.
+Dialogue: 0,1:07:25.12,1:07:27.28,*Default,NTP,0000,0000,0000,,至少你还是诚实的\N{\fn微软雅黑\fs15}At least you were honest.
+Dialogue: 0,1:07:27.44,1:07:29.64,*Default,NTP,0000,0000,0000,,你说我不是这块料\N{\fn微软雅黑\fs15}You said I wasn't built for this.
+Dialogue: 0,1:07:29.80,1:07:31.72,*Default,NTP,0000,0000,0000,,我真该听你的\N{\fn微软雅黑\fs15}I guess I should have listened to you.
+Dialogue: 0,1:07:31.80,1:07:36.60,*Default,NTP,0000,0000,0000,,达斯迪 你要是听了我的我肯定不会原谅自己\N{\fn微软雅黑\fs15}Dusty, if you had listened to me I would never ever forgive myself.
+Dialogue: 0,1:07:36.80,1:07:40.56,*Default,NTP,0000,0000,0000,,是这样 斯基珀的做法可能是有点问题\N{\fn微软雅黑\fs15}Look, the Skipper may have been wrong for what he did,
+Dialogue: 0,1:07:42.32,1:07:44.16,*Default,NTP,0000,0000,0000,,不过他看你看的很准\N{\fn微软雅黑\fs15}but he was right about you.
+Dialogue: 0,1:07:44.28,1:07:47.44,*Default,NTP,0000,0000,0000,,你不是架农用飞机 你是个赛手\N{\fn微软雅黑\fs15}You're not a crop duster. You're a racer.
+Dialogue: 0,1:07:47.60,1:07:48.88,*Default,NTP,0000,0000,0000,,而现在\N{\fn微软雅黑\fs15}And now,
+Dialogue: 0,1:07:49.20,1:07:52.01,*Default,NTP,0000,0000,0000,,全世界都知道了\N{\fn微软雅黑\fs15}the whole world knows it.
+Dialogue: 0,1:08:01.88,1:08:04.00,*Default,NTP,0000,0000,0000,,谢谢 多蒂\N{\fn微软雅黑\fs15}Thanks, Dottie.
+Dialogue: 0,1:08:04.32,1:08:06.36,*Default,NTP,0000,0000,0000,,这对我很重要\N{\fn微软雅黑\fs15}That means a lot.
+Dialogue: 0,1:08:06.80,1:08:11.32,*Default,NTP,0000,0000,0000,,我已经飞了很远了 我完蛋了 看看我\N{\fn微软雅黑\fs15}I've gone as far as I can go. I'm busted up, look at me.
+Dialogue: 0,1:08:11.52,1:08:13.72,*Default,NTP,0000,0000,0000,,是啊 看看你\N{\fn微软雅黑\fs15}Yes, look at you.
+Dialogue: 0,1:08:20.40,1:08:24.29,*Default,NTP,0000,0000,0000,,达斯迪 我无法忍受比赛里没有你\N{\fn微软雅黑\fs15}Dusty, I cannot bear the thought of competing without you.
+Dialogue: 0,1:08:24.44,1:08:28.08,*Default,NTP,0000,0000,0000,,嘿 这可是T-33 天狐的机翼\N{\fn微软雅黑\fs15}Hey, that's the wing of a T-33 Shooting Star.
+Dialogue: 0,1:08:28.24,1:08:31.16,*Default,NTP,0000,0000,0000,,当伟大的墨西哥空军需要援助的时候\N{\fn微软雅黑\fs15}When the great Mexican Air Force needed help,
+Dialogue: 0,1:08:31.36,1:08:35.72,*Default,NTP,0000,0000,0000,,美国的天狐来了 他们没有提条件\N{\fn微软雅黑\fs15}American T-33s came. They did not ask questions.
+Dialogue: 0,1:08:35.88,1:08:38.80,*Default,NTP,0000,0000,0000,,也丝毫没有犹豫 他们就来了\N{\fn微软雅黑\fs15}They did not hesitate. They were there.
+Dialogue: 0,1:08:38.96,1:08:42.24,*Default,NTP,0000,0000,0000,,因为朋友就是干这个的\N{\fn微软雅黑\fs15}Because that is what compadres do.
+Dialogue: 0,1:08:42.40,1:08:43.52,*Default,NTP,0000,0000,0000,,那个呢?\N{\fn微软雅黑\fs15}And what's that?
+Dialogue: 0,1:08:43.72,1:08:45.29,*Default,NTP,0000,0000,0000,,那个是我的午餐 别动呦\N{\fn微软雅黑\fs15}That is my lunch. Don't touch.
+Dialogue: 0,1:08:45.44,1:08:48.17,*Default,NTP,0000,0000,0000,,不过机翼是给你的\N{\fn微软雅黑\fs15}But the wings are yours.
+Dialogue: 0,1:08:48.44,1:08:50.28,*Default,NTP,0000,0000,0000,,卓帕 我很感激...\N{\fn微软雅黑\fs15}El Chu, I really appreciate...
+Dialogue: 0,1:08:50.52,1:08:51.52,*Default,NTP,0000,0000,0000,,不用说了\N{\fn微软雅黑\fs15}Silencio.
+Dialogue: 0,1:08:51.72,1:08:55.69,*Default,NTP,0000,0000,0000,,毕竟 你帮我赢得了芳心\N{\fn微软雅黑\fs15}After all, you helped me with my pursuits of the heart.
+Dialogue: 0,1:08:55.84,1:08:57.49,*Default,NTP,0000,0000,0000,,现在我们来帮你了\N{\fn微软雅黑\fs15}Now we are here to help you.
+Dialogue: 0,1:08:58.52,1:08:59.85,*Default,NTP,0000,0000,0000,,- 我们?  - 是啊\N{\fn微软雅黑\fs15}- We?  - Oui.
+Dialogue: 0,1:09:01.12,1:09:06.25,*Default,NTP,0000,0000,0000,,祝你明天好运 达斯迪 我为跟你同场竞技而自豪\N{\fn微软雅黑\fs15}Good luck tomorrow, Dusty. I am so proud to compete with you.
+Dialogue: 0,1:09:06.40,1:09:10.45,*Default,NTP,0000,0000,0000,,你很不错 达斯迪 看 这是个卫星导航器\N{\fn微软雅黑\fs15}You're a good egg, Dusty. Look, here's a sat-nav device.
+Dialogue: 0,1:09:10.60,1:09:11.88,*Default,NTP,0000,0000,0000,,防止...\N{\fn微软雅黑\fs15}Just in case...
+Dialogue: 0,1:09:12.00,1:09:15.44,*Default,NTP,0000,0000,0000,,防止你迷失了航向 其实 没有...\N{\fn微软雅黑\fs15}In case you ever find yourself lost, you know, without a...
+Dialogue: 0,1:09:15.76,1:09:18.65,*Default,NTP,0000,0000,0000,,没有朋友帮你的话\N{\fn微软雅黑\fs15}Without a friend to help you through it.
+Dialogue: 0,1:09:19.08,1:09:20.36,*Default,NTP,0000,0000,0000,,谢谢 牛头犬\N{\fn微软雅黑\fs15}Thank you, Bulldog.
+Dialogue: 0,1:09:20.52,1:09:23.33,*Default,NTP,0000,0000,0000,,送你个流量控制阀门\N{\fn微软雅黑\fs15}Here's a flow control valve for you.
+Dialogue: 0,1:09:24.80,1:09:27.45,*Default,NTP,0000,0000,0000,,来个发动机吧?\N{\fn微软雅黑\fs15}How about a starter generator?
+Dialogue: 0,1:09:27.64,1:09:30.08,*Default,NTP,0000,0000,0000,,很荣幸与你同飞\N{\fn微软雅黑\fs15}It is honor to fly beside you.
+Dialogue: 0,1:09:30.40,1:09:31.64,*Default,NTP,0000,0000,0000,,谢谢 大家 真的很感谢\N{\fn微软雅黑\fs15}Thanks, everyone. Really.
+Dialogue: 0,1:09:32.64,1:09:34.68,*Default,NTP,0000,0000,0000,,太棒了\N{\fn微软雅黑\fs15}This is fantastic.
+Dialogue: 0,1:09:34.84,1:09:36.08,*Default,NTP,0000,0000,0000,,看起来你现在需要的就是个...\N{\fn微软雅黑\fs15}Looks like all you need now is a...
+Dialogue: 0,1:09:36.24,1:09:37.60,*Default,NTP,0000,0000,0000,,新的螺旋桨了吧?\N{\fn微软雅黑\fs15}A new propeller?
+Dialogue: 0,1:09:37.76,1:09:40.49,*Default,NTP,0000,0000,0000,,来个裂天者五型的怎么样?\N{\fn微软雅黑\fs15}How about a Sky Slycer Mark Five?
+Dialogue: 0,1:09:42.52,1:09:46.00,*Default,NTP,0000,0000,0000,,等等 那是你的螺旋桨 你还是可以赢得比赛的\N{\fn微软雅黑\fs15}Wait, that's your propeller. You could still win the race.
+Dialogue: 0,1:09:46.28,1:09:49.64,*Default,NTP,0000,0000,0000,,哦 我是想赢 不过要用我自己的老螺旋桨来赢\N{\fn微软雅黑\fs15}Oh, I intend to, but with my old propeller.
+Dialogue: 0,1:09:49.80,1:09:52.84,*Default,NTP,0000,0000,0000,,这个真的不适合我\N{\fn微软雅黑\fs15}This one didn't really suit me.
+Dialogue: 0,1:09:53.04,1:09:56.52,*Default,NTP,0000,0000,0000,,不过我估计你用上会很不错的\N{\fn微软雅黑\fs15}But I think you will have a lot better luck with it.
+Dialogue: 0,1:09:57.28,1:09:58.93,*Default,NTP,0000,0000,0000,,谢谢 伊莎妮\N{\fn微软雅黑\fs15}Thanks, lshani.
+Dialogue: 0,1:09:59.60,1:10:01.40,*Default,NTP,0000,0000,0000,,多蒂 你能修好我吗?\N{\fn微软雅黑\fs15}Dottie, can you fix me?
+Dialogue: 0,1:10:01.48,1:10:05.28,*Default,NTP,0000,0000,0000,,PT6涡桨发动机带多级压缩机吗?\N{\fn微软雅黑\fs15}Does a PT6A have a multi-stage compressor?
+Dialogue: 0,1:10:06.72,1:10:08.05,*Default,NTP,0000,0000,0000,,呃...\N{\fn微软雅黑\fs15}Uh...
+Dialogue: 0,1:10:08.20,1:10:09.92,*Default,NTP,0000,0000,0000,,能! 当然能\N{\fn微软雅黑\fs15}Yes! Yes it does.
+Dialogue: 0,1:10:10.12,1:10:12.56,*Default,NTP,0000,0000,0000,,好了 伙计们 我们给他准备比赛吧\N{\fn微软雅黑\fs15}All right, you guys, let's get him ready to race.
+Dialogue: 0,1:10:23.68,1:10:24.92,*Default,NTP,0000,0000,0000,,这个是...\N{\fn微软雅黑\fs15}This one's...
+Dialogue: 0,1:10:28.04,1:10:29.04,*Default,NTP,0000,0000,0000,,什么?\N{\fn微软雅黑\fs15}What?
+Dialogue: 0,1:10:29.80,1:10:30.80,*Default,NTP,0000,0000,0000,,嗯\N{\fn微软雅黑\fs15}Hmm.
+Dialogue: 0,1:10:36.16,1:10:39.56,*Default,NTP,0000,0000,0000,,我们在墨西哥为您现场直播 他们来了\N{\fn微软雅黑\fs15}We are live from Mexico. And here they come.
+Dialogue: 0,1:10:40.00,1:10:42.92,*Default,NTP,0000,0000,0000,,好了 观众朋友们 最后一段飞回纽约的比赛\N{\fn微软雅黑\fs15}This is it, race fans. The final leg back to New York.
+Dialogue: 0,1:10:44.88,1:10:47.20,*Default,NTP,0000,0000,0000,,喔 伙计!\N{\fn微软雅黑\fs15}VVhoa, dude!
+Dialogue: 0,1:10:55.40,1:10:57.76,*Default,NTP,0000,0000,0000,,- 我们纽约再见  - 谢谢 伙计们\N{\fn微软雅黑\fs15}- We'll see you in New York.  - Thanks, guys.
+Dialogue: 0,1:10:58.96,1:11:00.32,*Default,NTP,0000,0000,0000,,达斯迪大展身手!\N{\fn微软雅黑\fs15}It's dustin' time!
+Dialogue: 0,1:11:00.52,1:11:01.85,*Default,NTP,0000,0000,0000,,达斯迪 宝贝!\N{\fn微软雅黑\fs15}Dusty Ia vista, baby!
+Dialogue: 0,1:11:02.00,1:11:04.65,*Default,NTP,0000,0000,0000,,你该给他的 他没有放弃\N{\fn微软雅黑\fs15}You gotta hand it to him. He never gives up.
+Dialogue: 0,1:11:04.80,1:11:06.68,*Default,NTP,0000,0000,0000,,行了 楚格 我们还要赶飞机\N{\fn微软雅黑\fs15}Come on, Chug, we have a jet to catch.
+Dialogue: 0,1:11:06.84,1:11:09.84,*Default,NTP,0000,0000,0000,,纽约 终点线 我们来了!\N{\fn微软雅黑\fs15}New York City. Finish line, here we come!
+Dialogue: 0,1:11:10.00,1:11:12.16,*Default,NTP,0000,0000,0000,,嘿 那么你准备好了吗 斯基珀?\N{\fn微软雅黑\fs15}Hey. So are you ready to go, Skip?
+Dialogue: 0,1:11:13.92,1:11:16.73,*Default,NTP,0000,0000,0000,,也许没准备好更好一些\N{\fn微软雅黑\fs15}Probably best if I don't.
+Dialogue: 0,1:11:16.80,1:11:17.80,*Default,NTP,0000,0000,0000,,什么...\N{\fn微软雅黑\fs15}What...
+Dialogue: 0,1:11:18.52,1:11:20.44,*Default,NTP,0000,0000,0000,,哦 好吧\N{\fn微软雅黑\fs15}Oh. Okay.
+Dialogue: 0,1:11:20.52,1:11:22.52,*Default,NTP,0000,0000,0000,,你确定?\N{\fn微软雅黑\fs15}Are you sure?
+Dialogue: 0,1:11:23.60,1:11:25.20,*Default,NTP,0000,0000,0000,,是的\N{\fn微软雅黑\fs15}Yeah.
+Dialogue: 0,1:11:32.12,1:11:34.00,*Default,NTP,0000,0000,0000,,- 达斯迪!  - 他回来了\N{\fn微软雅黑\fs15}- Dusty!  - He's back.
+Dialogue: 0,1:11:36.92,1:11:39.20,*Default,NTP,0000,0000,0000,,你逗我的吧\N{\fn微软雅黑\fs15}You got to be kidding me.
+Dialogue: 0,1:11:39.40,1:11:41.20,*Default,NTP,0000,0000,0000,,- 那个是谁?  - 是那架农用飞机\N{\fn微软雅黑\fs15}- Who's that guy?  - It's the crop duster.
+Dialogue: 0,1:11:41.44,1:11:43.96,*Default,NTP,0000,0000,0000,,- 又来一架?  - 还是那架 憨货\N{\fn微软雅黑\fs15}- Another one?  - It's the same one, Knucklehead.
+Dialogue: 0,1:11:44.04,1:11:45.24,*Default,NTP,0000,0000,0000,,躲开 白痴们\N{\fn微软雅黑\fs15}Move aside, idiots.
+Dialogue: 0,1:11:47.56,1:11:51.84,*Default,NTP,0000,0000,0000,,装几个新零件改变不了你本身\N{\fn微软雅黑\fs15}Bolting on a few new parts doesn't change who you are.
+Dialogue: 0,1:11:51.92,1:11:54.52,*Default,NTP,0000,0000,0000,,我仍然能闻到你身上的农场味道\N{\fn微软雅黑\fs15}I can still smell the farm on you.
+Dialogue: 0,1:11:57.20,1:12:00.09,*Default,NTP,0000,0000,0000,,其实呢 我终于明白了\N{\fn微软雅黑\fs15}You know what? I finally get it.
+Dialogue: 0,1:12:00.32,1:12:04.21,*Default,NTP,0000,0000,0000,,你是害怕被一架农用飞机打败\N{\fn微软雅黑\fs15}You're afraid of getting beat by a crop duster.
+Dialogue: 0,1:12:05.20,1:12:09.25,*Default,NTP,0000,0000,0000,,哦 注意身后 我会赶上来的\N{\fn微软雅黑\fs15}Well, check six, because I'm coming.
+Dialogue: 0,1:12:10.52,1:12:11.93,*Default,NTP,0000,0000,0000,,你们这些小鬼看什么呢?\N{\fn微软雅黑\fs15}And what are you punks looking at?
+Dialogue: 0,1:12:12.08,1:12:13.57,*Default,NTP,0000,0000,0000,,- 没什么 没什么  - 抱歉\N{\fn微软雅黑\fs15}- Nothing. Nothing.  - Sorry.
+Dialogue: 0,1:12:15.76,1:12:19.89,*Default,NTP,0000,0000,0000,,我们要了结这一切 彻底了结\N{\fn微软雅黑\fs15}We are going to end this, once and for all.
+Dialogue: 0,1:12:20.08,1:12:22.16,*Default,NTP,0000,0000,0000,,- 是的 老大  - 会很有意思的\N{\fn微软雅黑\fs15}- Yeah, man.  - This is going to be fun.
+Dialogue: 0,1:12:27.32,1:12:30.32,*Default,NTP,0000,0000,0000,,这一赛段全部重点就在于速度和拼尽全力的决心\N{\fn微软雅黑\fs15}This one's all about speed and the willingness to give it all.
+Dialogue: 0,1:12:27.55,1:12:34.10,*Default,NTP,0000,0000,0000,,{\an8}第七赛段 墨西哥-纽约
+Dialogue: 0,1:12:30.40,1:12:35.24,*Default,NTP,0000,0000,0000,,第一个冲破纽约终点线将获得桂冠和荣誉\N{\fn微软雅黑\fs15}First to cut the ribbon in New York takes home the trophy and the glory.
+Dialogue: 0,1:12:35.84,1:12:36.84,*Default,NTP,0000,0000,0000,,耶!\N{\fn微软雅黑\fs15}Ya!
+Dialogue: 0,1:12:37.28,1:12:39.72,*Default,NTP,0000,0000,0000,,我们等第一批起飞后出发\N{\fn微软雅黑\fs15}And we're off as the first flyers take to the air.
+Dialogue: 0,1:12:42.00,1:12:44.28,*Default,NTP,0000,0000,0000,,我会在终点线等你的 美人\N{\fn微软雅黑\fs15}I will wait for you at the finish line, hermosa.
+Dialogue: 0,1:12:44.44,1:12:47.01,*Default,NTP,0000,0000,0000,,不 不 不 是我等你\N{\fn微软雅黑\fs15}No, no, no. I will be waiting for you.
+Dialogue: 0,1:12:54.80,1:12:56.52,*Default,NTP,0000,0000,0000,,耶!\N{\fn微软雅黑\fs15}Ya!
+Dialogue: 0,1:13:00.28,1:13:02.64,*Default,NTP,0000,0000,0000,,其余选手陆续起飞\N{\fn微软雅黑\fs15}The rest of the field is now off and running.
+Dialogue: 0,1:13:02.80,1:13:05.12,*Default,NTP,0000,0000,0000,,虽然农田守望者没有完成上一赛段的比赛\N{\fn微软雅黑\fs15}And though Crophopper did not complete the previous leg,
+Dialogue: 0,1:13:05.28,1:13:08.48,*Default,NTP,0000,0000,0000,,比赛官方判定是因为他的无线电受损\N{\fn微软雅黑\fs15}race officials ruled his radio had been tampered with.
+Dialogue: 0,1:13:08.64,1:13:09.80,*Default,NTP,0000,0000,0000,,所以允许他继续参赛\N{\fn微软雅黑\fs15}So he'll be allowed to compete.
+Dialogue: 0,1:13:10.28,1:13:12.68,*Default,NTP,0000,0000,0000,,不过要被罚扣时间\N{\fn微软雅黑\fs15}But with a severe time penalty.
+Dialogue: 0,1:13:28.48,1:13:32.32,*Default,NTP,0000,0000,0000,,我从来没有见过有人从如此落后的位置追上来过\N{\fn微软雅黑\fs15}I've never seen someone come back from this far behind.
+Dialogue: 0,1:13:32.48,1:13:34.96,*Default,NTP,0000,0000,0000,,为了获得机会即需要马力\N{\fn微软雅黑\fs15}It's going to take both horsepower and willpower,
+Dialogue: 0,1:13:35.04,1:13:36.28,*Default,NTP,0000,0000,0000,,又需要动力\N{\fn微软雅黑\fs15}to even have a chance.
+Dialogue: 0,1:13:51.00,1:13:53.16,*Default,NTP,0000,0000,0000,,干得漂亮 达斯迪\N{\fn微软雅黑\fs15}Good show, Dusty.
+Dialogue: 0,1:14:14.52,1:14:16.52,*Default,NTP,0000,0000,0000,,- 呃 老大?  - 怎么了?\N{\fn微软雅黑\fs15}- Um, boss?  - What?
+Dialogue: 0,1:14:16.88,1:14:18.04,*Default,NTP,0000,0000,0000,,他来了\N{\fn微软雅黑\fs15}He's here.
+Dialogue: 0,1:14:20.24,1:14:22.08,*Default,NTP,0000,0000,0000,,好的 我们已经脱离监控范围了\N{\fn微软雅黑\fs15}Okay, we're out of camera range.
+Dialogue: 0,1:14:22.28,1:14:24.00,*Default,NTP,0000,0000,0000,,你们知道该怎么做\N{\fn微软雅黑\fs15}You know what to do.
+Dialogue: 0,1:14:33.56,1:14:35.84,*Default,NTP,0000,0000,0000,,- 嘿 乡巴佬  - 你该下去耕地了\N{\fn微软雅黑\fs15}- Hey, farmer.  - Time to plow the fields.
+Dialogue: 0,1:14:36.40,1:14:38.92,*Default,NTP,0000,0000,0000,,看来你没有高度了 农田守望者\N{\fn微软雅黑\fs15}Looks like you've run out of airspace, Crophopper.
+Dialogue: 0,1:14:45.08,1:14:46.12,*Default,NTP,0000,0000,0000,,嘿!\N{\fn微软雅黑\fs15}Hey!
+Dialogue: 0,1:14:46.24,1:14:47.28,*Default,NTP,0000,0000,0000,,- 斯基珀? 喔!  - 达斯迪 爬升!\N{\fn微软雅黑\fs15}- Skipper? Whoa!  - Dusty, pull up!
+Dialogue: 0,1:14:51.40,1:14:53.36,*Default,NTP,0000,0000,0000,,斯基珀? 你飞起来了!\N{\fn微软雅黑\fs15}Skipper? You're flying!
+Dialogue: 0,1:14:53.52,1:14:54.52,*Default,NTP,0000,0000,0000,,哦 被你发现了\N{\fn微软雅黑\fs15}Oh, you noticed.
+Dialogue: 0,1:14:54.68,1:14:56.84,*Default,NTP,0000,0000,0000,,听着 里普交给我 剩下两个你自己搞定\N{\fn微软雅黑\fs15}Listen, I got Rip. You take care of the other two.
+Dialogue: 0,1:14:56.92,1:14:57.92,*Default,NTP,0000,0000,0000,,收到\N{\fn微软雅黑\fs15}Got it.
+Dialogue: 0,1:15:07.12,1:15:09.44,*Default,NTP,0000,0000,0000,,他们咬在你六点钟方向 甩掉他们\N{\fn微软雅黑\fs15}They're on your six, kid. You gotta lose them.
+Dialogue: 0,1:15:09.60,1:15:10.88,*Default,NTP,0000,0000,0000,,我在努力\N{\fn微软雅黑\fs15}I'm trying.
+Dialogue: 0,1:15:13.12,1:15:14.77,*Default,NTP,0000,0000,0000,,斯基珀 我甩不掉\N{\fn微软雅黑\fs15}Skip, I can't shake them.
+Dialogue: 0,1:15:14.96,1:15:17.12,*Default,NTP,0000,0000,0000,,右急弯 我去左边赶走里里普\N{\fn微软雅黑\fs15}Pull hard right. I'll break left and take out Rip.
+Dialogue: 0,1:15:17.24,1:15:19.52,*Default,NTP,0000,0000,0000,,- 利用那些山岩  - 明白了!\N{\fn微软雅黑\fs15}- Use the rocks.  - Roger that!
+Dialogue: 0,1:15:23.80,1:15:25.37,*Default,NTP,0000,0000,0000,,喔 喔 喔 喔!\N{\fn微软雅黑\fs15}Whoa, whoa, whoa, whoa!
+Dialogue: 0,1:15:27.00,1:15:28.28,*Default,NTP,0000,0000,0000,,对了!\N{\fn微软雅黑\fs15}Yeah!
+Dialogue: 0,1:15:28.56,1:15:30.76,*Default,NTP,0000,0000,0000,,哦 这样会留疤的\N{\fn微软雅黑\fs15}Oh, that's going to leave a mark.
+Dialogue: 0,1:15:39.72,1:15:41.24,*Default,NTP,0000,0000,0000,,什么?\N{\fn微软雅黑\fs15}What?
+Dialogue: 0,1:15:42.00,1:15:44.65,*Default,NTP,0000,0000,0000,,跟华沙风车打个招呼\N{\fn微软雅黑\fs15}Say hello to the Warsaw Windmill.
+Dialogue: 0,1:15:44.80,1:15:47.00,*Default,NTP,0000,0000,0000,,- 喔! 你个疯子!  - 这就对了\N{\fn微软雅黑\fs15}- Whoa! You're crazy!  - That's right.
+Dialogue: 0,1:15:47.52,1:15:50.96,*Default,NTP,0000,0000,0000,,- 达斯迪! 你没事吧?  - 嗯 没事 我没事\N{\fn微软雅黑\fs15}- Dusty! Are you okay?  - Yeah. Yeah, I'm fine.
+Dialogue: 0,1:15:51.16,1:15:53.00,*Default,NTP,0000,0000,0000,,作为农用机来说很不错\N{\fn微软雅黑\fs15}That was pretty good for a crop duster.
+Dialogue: 0,1:15:53.48,1:15:56.76,*Default,NTP,0000,0000,0000,,作为不能飞的古董来说你也很不错\N{\fn微软雅黑\fs15}And not bad for an old-timer who doesn't fly.
+Dialogue: 0,1:15:57.00,1:16:01.64,*Default,NTP,0000,0000,0000,,哦 是吗? 哦 我是老 不过至少我不恐高\N{\fn微软雅黑\fs15}Oh, yeah? Well, I may be old, but at least I ain't afraid of heights.
+Dialogue: 0,1:16:01.80,1:16:03.16,*Default,NTP,0000,0000,0000,,来吧 好了\N{\fn微软雅黑\fs15}Come on, okay.
+Dialogue: 0,1:16:05.72,1:16:06.72,*Default,NTP,0000,0000,0000,,不!\N{\fn微软雅黑\fs15}No!
+Dialogue: 0,1:16:07.64,1:16:10.45,*Default,NTP,0000,0000,0000,,知道什么叫裂天者了吧!\N{\fn微软雅黑\fs15}That's why they call them Sky Slycers!
+Dialogue: 0,1:16:14.00,1:16:17.04,*Default,NTP,0000,0000,0000,,哦 不 斯基珀 你没事吧?\N{\fn微软雅黑\fs15}Oh, no. Skipper, are you okay?
+Dialogue: 0,1:16:17.16,1:16:18.84,*Default,NTP,0000,0000,0000,,你逗我么? 我好得很\N{\fn微软雅黑\fs15}Are you kidding? I'm great.
+Dialogue: 0,1:16:19.00,1:16:22.16,*Default,NTP,0000,0000,0000,,- 可是你的尾翼怎么办?  - 我没事的 去干掉他们!\N{\fn微软雅黑\fs15}- But what about your tail?  - I'll live. Go get them!
+Dialogue: 0,1:16:22.24,1:16:23.73,*Default,NTP,0000,0000,0000,,快去!\N{\fn微软雅黑\fs15}Go!
+Dialogue: 0,1:16:28.32,1:16:31.21,*Default,NTP,0000,0000,0000,,大家好 比赛已经进入最终冲刺阶段了\N{\fn微软雅黑\fs15}We're closing in on the final stretch, folks.
+Dialogue: 0,1:16:31.68,1:16:32.76,*Default,NTP,0000,0000,0000,,就是这样 科林\N{\fn微软雅黑\fs15}That's right, Colin.
+Dialogue: 0,1:16:32.84,1:16:34.68,*Default,NTP,0000,0000,0000,,自从他们从戴斯迪克沙漠出现之后\N{\fn微软雅黑\fs15}And ever since they emerged from Deadstick Desert,
+Dialogue: 0,1:16:35.00,1:16:38.48,*Default,NTP,0000,0000,0000,,里普斯林杰一直保持着领先\N{\fn微软雅黑\fs15}Ripslinger has maintained a lead.
+Dialogue: 0,1:16:43.12,1:16:44.53,*Default,NTP,0000,0000,0000,,看到他们了吗?\N{\fn微软雅黑\fs15}Any sign of them?
+Dialogue: 0,1:16:45.20,1:16:46.20,*Default,NTP,0000,0000,0000,,还没有\N{\fn微软雅黑\fs15}Nothing yet.
+Dialogue: 0,1:17:00.96,1:17:03.20,*Default,NTP,0000,0000,0000,,- 什么?  - 嗨\N{\fn微软雅黑\fs15}- What?  - Hi.
+Dialogue: 0,1:17:11.96,1:17:13.48,*Default,NTP,0000,0000,0000,,提速 提速 提速\N{\fn微软雅黑\fs15}Come on, come on, come on.
+Dialogue: 0,1:17:13.64,1:17:15.00,*Default,NTP,0000,0000,0000,,别不行啊! 别不行啊!\N{\fn微软雅黑\fs15}Not now! Not now!
+Dialogue: 0,1:17:15.20,1:17:16.77,*Default,NTP,0000,0000,0000,,提速 提速 提速\N{\fn微软雅黑\fs15}Come on, come on, come on.
+Dialogue: 0,1:17:16.88,1:17:18.45,*Default,NTP,0000,0000,0000,,不!\N{\fn微软雅黑\fs15}No!
+Dialogue: 0,1:17:22.72,1:17:25.20,*Default,NTP,0000,0000,0000,,逐风而行是无可比拟的体验\N{\fn微软雅黑\fs15}Tailwinds like nothing you've ever flown.
+Dialogue: 0,1:17:26.08,1:17:27.73,*Default,NTP,0000,0000,0000,,明白了 斯基珀\N{\fn微软雅黑\fs15}Roger that, Skip.
+Dialogue: 0,1:17:34.44,1:17:38.20,*Default,NTP,0000,0000,0000,,别往下看 别往下看\N{\fn微软雅黑\fs15}Don't look down. Don't look down.
+Dialogue: 0,1:18:00.92,1:18:02.57,*Default,NTP,0000,0000,0000,,哦 耶!\N{\fn微软雅黑\fs15}Oh. yeah!
+Dialogue: 0,1:18:22.80,1:18:27.28,*Default,NTP,0000,0000,0000,,好了 该给你看我屁股了\N{\fn微软雅黑\fs15}Okay, time to eat my dust.
+Dialogue: 0,1:18:29.92,1:18:32.40,*Default,NTP,0000,0000,0000,,看来里普斯林杰的下一个胜利近在咫尺了...\N{\fn微软雅黑\fs15}With another win for Ripslinger seeming inevitable...
+Dialogue: 0,1:18:32.60,1:18:34.01,*Default,NTP,0000,0000,0000,,等等 是农田守望者达斯迪!\N{\fn微软雅黑\fs15}Wait a second, it's Dusty Crophopper!
+Dialogue: 0,1:18:34.16,1:18:35.81,*Default,NTP,0000,0000,0000,,- 耶!  - 快去!\N{\fn微软雅黑\fs15}- Yes!  - Go!
+Dialogue: 0,1:18:38.64,1:18:40.48,*Default,NTP,0000,0000,0000,,他们来了 冲进了赛道\N{\fn微软雅黑\fs15}And here they come, down the stretch.
+Dialogue: 0,1:18:41.16,1:18:43.04,*Default,NTP,0000,0000,0000,,快到了 都有机会\N{\fn微软雅黑\fs15}It's going to be close, it's anyone's race.
+Dialogue: 0,1:18:43.32,1:18:45.60,*Default,NTP,0000,0000,0000,,好了 拍我最好看的侧面 伙计们\N{\fn微软雅黑\fs15}All right, get my good side, fellas.
+Dialogue: 0,1:18:56.00,1:18:57.00,*Default,NTP,0000,0000,0000,,什么?\N{\fn微软雅黑\fs15}What?
+Dialogue: 0,1:18:57.28,1:18:59.00,*Default,NTP,0000,0000,0000,,耶!\N{\fn微软雅黑\fs15}Yes!
+Dialogue: 0,1:19:00.32,1:19:02.32,*Default,NTP,0000,0000,0000,,他成功了! 他成功了\N{\fn微软雅黑\fs15}He's done it! He's done it.
+Dialogue: 0,1:19:02.60,1:19:04.48,*Default,NTP,0000,0000,0000,,农田守望者!\N{\fn微软雅黑\fs15}Crophopper!
+Dialogue: 0,1:19:04.68,1:19:05.92,*Default,NTP,0000,0000,0000,,不!\N{\fn微软雅黑\fs15}No!
+Dialogue: 0,1:19:06.24,1:19:07.24,*Default,NTP,0000,0000,0000,,什么?\N{\fn微软雅黑\fs15}What?
+Dialogue: 0,1:19:08.76,1:19:10.68,*Default,NTP,0000,0000,0000,,惊天逆转\N{\fn微软雅黑\fs15}From last to first.
+Dialogue: 0,1:19:10.84,1:19:12.41,*Default,NTP,0000,0000,0000,,从默默无闻到一鸣惊人\N{\fn微软雅黑\fs15}From obscurity to immortality,
+Dialogue: 0,1:19:12.52,1:19:14.96,*Default,NTP,0000,0000,0000,,赛场永远不会忘记今天\N{\fn微软雅黑\fs15}the racing world will never forget this day.
+Dialogue: 0,1:19:15.04,1:19:16.88,*Default,NTP,0000,0000,0000,,史上第一次 一架作物喷粉机\N{\fn微软雅黑\fs15}For the first time, a crop duster,
+Dialogue: 0,1:19:16.96,1:19:19.00,*Default,NTP,0000,0000,0000,,赢得了环球之翼飞行大赛!\N{\fn微软雅黑\fs15}has won the Wings Around the Globe Rally!
+Dialogue: 0,1:19:19.36,1:19:20.85,*Default,NTP,0000,0000,0000,,太好了 达斯迪! 哈... 哈!\N{\fn微软雅黑\fs15}Yes, Dusty! Ha... ha!
+Dialogue: 0,1:19:24.56,1:19:26.80,*Default,NTP,0000,0000,0000,,太棒了 达斯迪!\N{\fn微软雅黑\fs15}Magnifique, Dusty!
+Dialogue: 0,1:19:26.96,1:19:29.36,*Default,NTP,0000,0000,0000,,你真把他干掉了 伙计!\N{\fn微软雅黑\fs15}You really kicked his bottom, lad!
+Dialogue: 0,1:19:30.00,1:19:33.52,*Default,NTP,0000,0000,0000,,好啊 是! 就是这样!\N{\fn微软雅黑\fs15}All right. Yeah! Now that's how to pass!
+Dialogue: 0,1:19:33.68,1:19:34.76,*Default,NTP,0000,0000,0000,,你成功了!\N{\fn微软雅黑\fs15}You did it!
+Dialogue: 0,1:19:34.92,1:19:36.64,*Default,NTP,0000,0000,0000,,要是没有你我不会成功 多蒂\N{\fn微软雅黑\fs15}I couldn't have done it without you, Dottie.
+Dialogue: 0,1:19:36.84,1:19:39.00,*Default,NTP,0000,0000,0000,,是 我知道\N{\fn微软雅黑\fs15}Yeah, I know.
+Dialogue: 0,1:19:39.20,1:19:42.68,*Default,NTP,0000,0000,0000,,里普斯林杰喜欢对镜头耍帅的细节很重要 谢谢 楚格\N{\fn微软雅黑\fs15}Hey, buddy, great tip about Ripslinger leaning to the cameras. Thanks, Chug.
+Dialogue: 0,1:19:42.88,1:19:44.60,*Default,NTP,0000,0000,0000,,嘿 为了我兄弟\N{\fn微软雅黑\fs15}Hey, anything for my pal.
+Dialogue: 0,1:19:44.72,1:19:49.20,*Default,NTP,0000,0000,0000,,干得好 达斯迪 世界上又多了一个新的冠军\N{\fn微软雅黑\fs15}Well done, Dusty. The world has a new champion.
+Dialogue: 0,1:19:49.36,1:19:50.85,*Default,NTP,0000,0000,0000,,我心里也多了一个\N{\fn微软雅黑\fs15}And so do I.
+Dialogue: 0,1:19:51.12,1:19:53.77,*Default,NTP,0000,0000,0000,,谢谢 伊莎妮 谢你为我做的一切\N{\fn微软雅黑\fs15}Thanks, lshani. For everything.
+Dialogue: 0,1:19:54.24,1:19:55.81,*Default,NTP,0000,0000,0000,,- 达斯迪先生!  - 弗兰茨?\N{\fn微软雅黑\fs15}- Herr Dusty!  - Franz?
+Dialogue: 0,1:19:55.88,1:19:57.12,*Default,NTP,0000,0000,0000,,- 万岁!  - 你来干什么?\N{\fn微软雅黑\fs15}- Hoorah!  - What are you doing here?
+Dialogue: 0,1:19:57.20,1:20:01.04,*Default,NTP,0000,0000,0000,,我们来看你比赛 你对我们大家是一个鼓励\N{\fn微软雅黑\fs15}We came to watch you win the race. You are an inspiration to all of us.
+Dialogue: 0,1:20:01.24,1:20:02.28,*Default,NTP,0000,0000,0000,,"大家"?\N{\fn微软雅黑\fs15}"All Of us"?
+Dialogue: 0,1:20:03.56,1:20:07.20,*Default,NTP,0000,0000,0000,,对 对我们所有这些不甘于出身的人\N{\fn微软雅黑\fs15}Yeah. All of us who want to do more than just what we were built for.
+Dialogue: 0,1:20:09.68,1:20:11.96,*Default,NTP,0000,0000,0000,,喔! 谢谢 朋友们!\N{\fn微软雅黑\fs15}Whoa! Thanks, guys!
+Dialogue: 0,1:20:12.20,1:20:13.20,*Default,NTP,0000,0000,0000,,喔耶!\N{\fn微软雅黑\fs15}Whoo-wee!
+Dialogue: 0,1:20:13.40,1:20:16.68,*Default,NTP,0000,0000,0000,,里普屎林杰 真恰当 你的名字 超声波臭酱啊\N{\fn微软雅黑\fs15}Ripstinker. Yeah, that's your name. That's some supersonic sewer sauce.
+Dialogue: 0,1:20:17.20,1:20:18.72,*Default,NTP,0000,0000,0000,,伙计 我还以为维它肥够臭的了\N{\fn微软雅黑\fs15}Man, I thought Vita-stink-a-bunch was bad.
+Dialogue: 0,1:20:19.08,1:20:20.80,*Default,NTP,0000,0000,0000,,跟你比差远了\N{\fn微软雅黑\fs15}That's got nothing on you.
+Dialogue: 0,1:20:21.24,1:20:23.68,*Default,NTP,0000,0000,0000,,哦! 你真是恶心 恶心极了\N{\fn微软雅黑\fs15}Ooh! You're just nasty. Nastilicious.
+Dialogue: 0,1:20:23.88,1:20:25.56,*Default,NTP,0000,0000,0000,,你该回家洗刷洗刷了\N{\fn微软雅黑\fs15}You need to go home and wash up.
+Dialogue: 0,1:20:25.72,1:20:27.13,*Default,NTP,0000,0000,0000,,洗两次呦\N{\fn微软雅黑\fs15}Twice.
+Dialogue: 0,1:20:27.24,1:20:29.52,*Default,NTP,0000,0000,0000,,喔!\N{\fn微软雅黑\fs15}Whoa!
+Dialogue: 0,1:20:29.60,1:20:31.56,*Default,NTP,0000,0000,0000,,那个是谁?\N{\fn微软雅黑\fs15}Who's that guy?
+Dialogue: 0,1:21:00.60,1:21:01.88,*Default,NTP,0000,0000,0000,,谢谢 斯基珀\N{\fn微软雅黑\fs15}Thanks, Skip.
+Dialogue: 0,1:21:02.00,1:21:03.16,*Default,NTP,0000,0000,0000,,别谢我了\N{\fn微软雅黑\fs15}Don't thank me.
+Dialogue: 0,1:21:04.12,1:21:08.28,*Default,NTP,0000,0000,0000,,我从你身上学的比我教你的要多\N{\fn微软雅黑\fs15}I learned a lot more from you than you ever learned from me.
+Dialogue: 0,1:21:27.00,1:21:30.99,*Default,NTP,0000,0000,0000,,北太平洋某处 尼米兹级航母 飞森豪威尔号
+Dialogue: 0,1:21:38.48,1:21:41.24,*Default,NTP,0000,0000,0000,,全体立正 胜利!\N{\fn微软雅黑\fs15}Attention on deck. Victory!
+Dialogue: 0,1:21:41.36,1:21:42.48,*Default,NTP,0000,0000,0000,,胜利!\N{\fn微软雅黑\fs15}Victory!
+Dialogue: 0,1:21:44.80,1:21:47.12,*Default,NTP,0000,0000,0000,,很荣幸能来这里\N{\fn微软雅黑\fs15}It's an honor to be here.
+Dialogue: 0,1:21:49.24,1:21:50.24,*Default,NTP,0000,0000,0000,,给他们挂钩\N{\fn微软雅黑\fs15}Hook them up.
+Dialogue: 0,1:21:59.20,1:22:02.17,*Default,NTP,0000,0000,0000,,- 你准备好了吗 僚机?  - 收到\N{\fn微软雅黑\fs15}- You ready, wingman?  - Roger that.
+Dialogue: 0,1:22:02.84,1:22:05.36,*Default,NTP,0000,0000,0000,,一位光荣的乔利扳手中队成员 感觉如何 达斯迪?\N{\fn微软雅黑\fs15}An honorary Jolly Wrench. How's that feel, Dusty?
+Dialogue: 0,1:22:05.52,1:22:06.52,*Default,NTP,0000,0000,0000,,感觉很棒!\N{\fn微软雅黑\fs15}It feels great!
+Dialogue: 0,1:22:06.72,1:22:09.20,*Default,NTP,0000,0000,0000,,又回到岗位了 是吧 斯基珀?\N{\fn微软雅黑\fs15}Back in the saddle again, eh, Skipper?
+Dialogue: 0,1:22:09.44,1:22:12.12,*Default,NTP,0000,0000,0000,,哦 我上次在的时候还没有这么好的装备\N{\fn微软雅黑\fs15}Well, they didn't have these fancy toys the last time I did this.
+Dialogue: 0,1:22:12.20,1:22:13.44,*Default,NTP,0000,0000,0000,,比不了哈\N{\fn微软雅黑\fs15}Nothing to it.
+Dialogue: 0,1:22:13.52,1:22:16.00,*Default,NTP,0000,0000,0000,,他们给你们挂钩 你们向那边的发射员示意\N{\fn微软雅黑\fs15}They hook you up, you nod to the shooter over there,
+Dialogue: 0,1:22:16.20,1:22:17.24,*Default,NTP,0000,0000,0000,,准备好!\N{\fn微软雅黑\fs15}and hang on!
+Dialogue: 0,1:22:22.84,1:22:24.52,*Default,NTP,0000,0000,0000,,耶!\N{\fn微软雅黑\fs15}Yeah!
+Dialogue: 0,1:22:36.56,1:22:38.36,*Default,NTP,0000,0000,0000,,最后一个回到普罗普沃什的请客!\N{\fn微软雅黑\fs15}Last one back to Propwash buys!
+Dialogue: 0,1:22:38.44,1:22:39.77,*Default,NTP,0000,0000,0000,,哈... 哈! 来吧!\N{\fn微软雅黑\fs15}Ha... ha! You're on!
+Dialogue: 0,0:00:00.00,0:00:00.00,*Default,NTP,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:00.00,*Default,NTP,0000,0000,0000,,

@@ -1,0 +1,6343 @@
+1
+00:00:30,460 --> 00:00:33,460
+{\fnSTXingkai\fs20\1c&H000000&\3c&HC0C0C0&}波西・杰克逊与魔兽之海
+
+2
+00:00:34,000 --> 00:00:36,760
+{\fnYouYuan\fs20\1c&HFF9D3C&}波西・杰克逊与海怪
+
+3
+00:00:38,460 --> 00:00:41,060
+{\fnYouYuan\fs20\1c&HFF9D3C&}波西・杰克逊与妖魔之海(台)
+
+4
+00:01:09,800 --> 00:01:12,180
+{\fnSTXihei\fs20\1c&HC0C0C0&}一开始我也不相信{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}At first, I didn't believe it either.{\r}
+
+5
+00:01:12,370 --> 00:01:14,870
+{\fnSTXihei\fs20\1c&HC0C0C0&}但奥林匹斯诸神的确存在{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}But the gods of Olympus are real.{\r}
+
+6
+00:01:15,070 --> 00:01:18,380
+{\fnSTXihei\fs20\1c&HC0C0C0&}有时诸神会跟凡人结合{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And sometimes, these gods have children with humans{\r}
+
+7
+00:01:18,570 --> 00:01:20,380
+{\fnSTXihei\fs20\1c&HC0C0C0&}他们的孩子被叫做混血儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}called half-bloods.{\r}
+
+8
+00:01:20,570 --> 00:01:21,950
+{\fnSTXihei\fs20\1c&HC0C0C0&}我就是其中一个{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm one of them.{\r}
+
+9
+00:01:22,140 --> 00:01:25,790
+{\fnSTXihei\fs20\1c&HC0C0C0&}我是波西・杰克逊  海神波塞顿之子{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm Percy Jackson. Son of Poseidon, god of the sea.{\r}
+
+10
+00:01:25,840 --> 00:01:32,380
+{\fnMicrosoft YaHei\fs36\1c&H795200&}波西杰克逊与魔兽之海
+
+11
+00:01:34,660 --> 00:01:40,010
+{\fnSTXihei\fs20\1c&HC0C0C0&}七年前  四名混血儿结伴前往{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Seven years ago,four of these children were headed to Camp Half-Blood{\r}
+
+12
+00:01:40,190 --> 00:01:43,740
+{\fnSTXihei\fs20\1c&HC0C0C0&}混血儿在凡间唯一的避风港-混血营{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}the only place on Earth that is safe for our kind.{\r}
+
+13
+00:01:44,700 --> 00:01:46,510
+{\fnSTXihei\fs20\1c&HC0C0C0&}但只有三个成功抵达{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Only three of them made it.{\r}
+
+14
+00:01:53,870 --> 00:01:55,380
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们快到混血营了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We're almost at camp!{\r}
+
+15
+00:01:59,450 --> 00:02:00,650
+{\fnSTXihei\fs20\1c&HC0C0C0&}小心{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Look out!{\r}
+
+16
+00:02:03,050 --> 00:02:04,760
+{\fnSTXihei\fs20\1c&HC0C0C0&}格罗弗  卢克  帮帮他{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Grover! Luke, help him!{\r}
+
+17
+00:02:04,950 --> 00:02:06,020
+{\fnSTXihei\fs20\1c&HC0C0C0&}格罗弗  你没事吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Grover, are you okay?{\r}
+
+18
+00:02:06,120 --> 00:02:08,190
+{\fnSTXihei\fs20\1c&HC0C0C0&}我的腿卡住了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}My leg. it's stuck.{\r}
+
+19
+00:02:12,730 --> 00:02:14,140
+{\fnSTXihei\fs20\1c&HC0C0C0&}快起来  我扶着你{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Come on. I got you.{\r}
+
+20
+00:02:14,230 --> 00:02:15,800
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们先走  我来拖住他们{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Keep going. I'll hold them off.{\r}
+
+21
+00:02:15,900 --> 00:02:19,010
+{\fnSTXihei\fs20\1c&HC0C0C0&}不行  塔利亚（牧歌女神 司美三女神之一） 他们会杀了你的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No, Thalia. They'll kill you.{\r}
+
+22
+00:02:25,770 --> 00:02:28,020
+{\fnSTXihei\fs20\1c&HC0C0C0&}卢克  快走  我随后就来{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Go, Luke. I'll be right behind you.{\r}
+
+23
+00:02:29,380 --> 00:02:31,020
+{\fnSTXihei\fs20\1c&HC0C0C0&}我在这儿呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Over here!{\r}
+
+24
+00:02:32,110 --> 00:02:33,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}安娜贝丝  快点{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Annabeth, come on!{\r}
+
+25
+00:02:36,220 --> 00:02:37,290
+{\fnSTXihei\fs20\1c&HC0C0C0&}退后{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Stay back.{\r}
+
+26
+00:02:46,260 --> 00:02:47,570
+{\fnSTXihei\fs20\1c&HC0C0C0&}塔利亚  赶快过来{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thalia, come on!{\r}
+
+27
+00:02:50,770 --> 00:02:53,610
+{\fnSTXihei\fs20\1c&HC0C0C0&}不  塔利亚{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No! Thalia!{\r}
+
+28
+00:02:57,840 --> 00:03:03,020
+{\fnSTXihei\fs20\1c&HC0C0C0&}她叫塔利亚 为救其他三个人牺牲了性命{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Her name was Thalia, and she gave her life to save three.{\r}
+
+29
+00:03:07,850 --> 00:03:11,360
+{\fnSTXihei\fs20\1c&HC0C0C0&}在塔利亚弥留之际...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And so, as Thalia lay dying...{\r}
+
+30
+00:03:11,550 --> 00:03:15,800
+{\fnSTXihei\fs20\1c&HC0C0C0&}她的父亲宙斯找到了另一种让她活下去的方法{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}her father Zeus found another way for her to live.{\r}
+
+31
+00:03:28,540 --> 00:03:31,210
+{\fnSTXihei\fs20\1c&HC0C0C0&}一个可以让所有混血儿都能存活下来的方法{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}A way for all half-bloods to live.{\r}
+
+32
+00:03:31,410 --> 00:03:37,260
+{\fnSTXihei\fs20\1c&HC0C0C0&}这件礼物确保了混血营里不会再出现这样的牺牲{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}A gift to ensure no one in Camp Half-Blood would die the same way.{\r}
+
+33
+00:03:39,020 --> 00:03:44,090
+{\fnSTXihei\fs20\1c&HC0C0C0&}这道壁障能保护他们所有人不受敌人的威胁{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The barrier, to protect them from those who lived for their death.{\r}
+
+34
+00:03:45,820 --> 00:03:47,230
+{\fnSTXihei\fs20\1c&HC0C0C0&}快走吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Let's go!{\r}
+
+35
+00:03:51,030 --> 00:03:55,310
+{\fnSTXihei\fs20\1c&HC0C0C0&}每一天  塔利亚的英勇事迹都激励着我{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Every day, the story of Thalia's bra very inspires me.{\r}
+
+36
+00:03:57,170 --> 00:04:00,810
+{\fnSTXihei\fs20\1c&HC0C0C0&}她化作的树保护着我的家园{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And her tree protects my home.{\r}
+
+37
+00:04:02,610 --> 00:04:05,490
+{\fnSTXihei\fs20\1c&HC0C0C0&}但不会总保证得了我安全{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}But not always my head.{\r}
+
+38
+00:04:13,920 --> 00:04:17,060
+{\fnSTXihei\fs20\1c&HC0C0C0&}你人真好  还特地跑来看我拨得头筹{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}How nice of you to show up just to watch me win.{\r}
+
+39
+00:04:17,250 --> 00:04:20,030
+{\fnSTXihei\fs20\1c&HC0C0C0&}你并不像他们说的那样  克拉丽丝{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Everything they say about you is wrong, Clarisse.{\r}
+
+40
+00:04:20,220 --> 00:04:22,500
+{\fnSTXihei\fs20\1c&HC0C0C0&}其实你挺有幽默感的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You actually do have a sense of humor.{\r}
+
+41
+00:04:31,070 --> 00:04:33,780
+{\fnSTXihei\fs20\1c&HC0C0C0&}又挂了一个  波西  加油啊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}There goes another one. Go, Percy!{\r}
+
+42
+00:04:34,570 --> 00:04:37,750
+{\fnSTXihei\fs20\1c&HC0C0C0&}加油啊  波西  我在你身上押了五十个金币呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Come on, Percy! I got 50 drachma on you!{\r}
+
+43
+00:04:38,780 --> 00:04:40,120
+{\fnSTXihei\fs20\1c&HC0C0C0&}你拿波西下赌注了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You bet on this?{\r}
+
+44
+00:04:40,310 --> 00:04:41,950
+{\fnSTXihei\fs20\1c&HC0C0C0&}干嘛  你有意见吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What, is that wrong?{\r}
+
+45
+00:04:47,220 --> 00:04:49,960
+{\fnSTXihei\fs20\1c&HC0C0C0&}九七年产的黑芙蓉（希腊北部名葡萄酒） 想尝尝吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}'97 Xinomavro. Would you like a taste?{\r}
+
+46
+00:04:50,150 --> 00:04:53,730
+{\fnSTXihei\fs20\1c&HC0C0C0&}你何苦折磨自己呢  狄俄尼索斯（酒神）{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Why do you torture yourself, Dionysus?{\r}
+
+47
+00:04:56,660 --> 00:04:58,610
+{\fnSTXihei\fs20\1c&HC0C0C0&}我不就做错一件事{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It was one transgression, one.{\r}
+
+48
+00:04:58,800 --> 00:05:01,280
+{\fnSTXihei\fs20\1c&HC0C0C0&}不就是个山湖仙女  还不是为了奥林匹斯才做的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And with a naiad, for the sake of Olympus.{\r}
+
+49
+00:05:01,460 --> 00:05:03,470
+{\fnSTXihei\fs20\1c&HC0C0C0&}我哪里知道宙斯中意她{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}How was I to know that Zeus had a thing for her?{\r}
+
+50
+00:05:03,570 --> 00:05:06,880
+{\fnSTXihei\fs20\1c&HC0C0C0&}更不会知道他居然会记恨这么久{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Or that he could hold a grudge for so long?{\r}
+
+51
+00:05:12,110 --> 00:05:13,820
+{\fnSTXihei\fs20\1c&HC0C0C0&}既然宙斯永生不死{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I think the fact that Zeus is immortal...{\r}
+
+52
+00:05:13,910 --> 00:05:17,050
+{\fnSTXihei\fs20\1c&HC0C0C0&}那他想记恨你多久都行{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}means there's no limit to how long he can hold a grudge.{\r}
+
+53
+00:05:17,250 --> 00:05:20,160
+{\fnSTXihei\fs20\1c&HC0C0C0&}基督教有个家伙可以把水变成酒{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The Christians have a guy who can do this trick in reverse.{\r}
+
+54
+00:05:20,250 --> 00:05:21,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}那样才算神呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Now, that's a god.{\r}
+
+55
+00:05:24,920 --> 00:05:27,370
+{\fnSTXihei\fs20\1c&HC0C0C0&}你还没输够吗  杰克逊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Aren't you tired of getting beat, Jackson?{\r}
+
+56
+00:05:44,680 --> 00:05:46,950
+{\fnSTXihei\fs20\1c&HC0C0C0&}克拉丽丝{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Clarissa!{\r}
+
+57
+00:05:51,550 --> 00:05:53,360
+{\fnSTXihei\fs20\1c&HC0C0C0&}救我  救救我{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Help! Help me!{\r}
+
+58
+00:06:09,030 --> 00:06:10,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}蒂留斯 抓住我的手{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Tereus, grab my hand!{\r}
+
+59
+00:06:11,440 --> 00:06:13,350
+{\fnSTXihei\fs20\1c&HC0C0C0&}祝你好运吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Good luck with that.{\r}
+
+60
+00:06:14,840 --> 00:06:15,910
+{\fnSTXihei\fs20\1c&HC0C0C0&}我抓住你了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I got you.{\r}
+
+61
+00:06:23,550 --> 00:06:24,720
+{\fnSTXihei\fs20\1c&HC0C0C0&}谢谢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thank you!{\r}
+
+62
+00:06:26,080 --> 00:06:27,060
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Percy!{\r}
+
+63
+00:06:37,930 --> 00:06:40,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}克拉丽丝  克拉丽丝  克拉丽丝{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Clarissa! Clarissa! Clarissa!{\r}
+
+64
+00:06:47,910 --> 00:06:51,050
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西  我很好奇...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}So, what I'm wondering is, Percy...{\r}
+
+65
+00:06:51,240 --> 00:06:55,190
+{\fnSTXihei\fs20\1c&HC0C0C0&}你的首次任务肯定是侥幸过关  对吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}that first quest you went on, beginner's luck, wasn't it?{\r}
+
+66
+00:06:55,950 --> 00:06:59,900
+{\fnSTXihei\fs20\1c&HC0C0C0&}克拉丽丝  是他救了奥林匹斯  光是这点就比你强一百倍{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Clarisse, he saved Olympus. That's more than you've ever done.{\r}
+
+67
+00:07:02,050 --> 00:07:03,120
+{\fnSTXihei\fs20\1c&HC0C0C0&}管你们怎么说呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Whatever.{\r}
+
+68
+00:07:03,320 --> 00:07:05,500
+{\fnSTXihei\fs20\1c&HC0C0C0&}虽然她是战神之女  但只是虚有其名{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Even for the daughter of the god of war, that girl's a mythic bi...{\r}
+
+69
+00:07:05,590 --> 00:07:06,800
+{\fnSTXihei\fs20\1c&HC0C0C0&}别理她说的话  波西{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Don't listen to her, Percy.{\r}
+
+70
+00:07:06,890 --> 00:07:08,600
+{\fnSTXihei\fs20\1c&HC0C0C0&}可是我已经都听了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You know, it's too late.{\r}
+
+71
+00:07:08,790 --> 00:07:10,970
+{\fnSTXihei\fs20\1c&HC0C0C0&}何况她说得还挺在理的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Besides, she has a point.{\r}
+
+72
+00:07:11,160 --> 00:07:12,730
+{\fnSTXihei\fs20\1c&HC0C0C0&}你说什么呢  老兄{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Dude, what are you talking about?Man.{\r}
+
+73
+00:07:12,830 --> 00:07:14,900
+{\fnSTXihei\fs20\1c&HC0C0C0&}你不只是首战告捷而已{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You're more than a one-quest wonder.{\r}
+
+74
+00:07:15,000 --> 00:07:17,070
+{\fnSTXihei\fs20\1c&HC0C0C0&}你还找回了阿瑞斯被偷的战车{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You recovered Ares' stolen chariot.{\r}
+
+75
+00:07:17,170 --> 00:07:19,450
+{\fnSTXihei\fs20\1c&HC0C0C0&}不  事实上  那是克拉丽丝找回来的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No, actually, that was Clarissa.{\r}
+
+76
+00:07:19,640 --> 00:07:22,920
+{\fnSTXihei\fs20\1c&HC0C0C0&}好吧  那还有秋日竞赛 你可是技压群雄呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Okay, what about the Fall Tournament? You owned that sucker.{\r}
+
+77
+00:07:23,080 --> 00:07:24,080
+{\fnSTXihei\fs20\1c&HC0C0C0&}也是克拉丽丝吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Clarissa?{\r}
+
+78
+00:07:25,240 --> 00:07:28,130
+{\fnSTXihei\fs20\1c&HC0C0C0&}好吧  那至日比赛呢  还有寻访青铜龙呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Okay, the Solstice Games? The Bronze Dragon's Quest?{\r}
+
+79
+00:07:32,650 --> 00:07:35,070
+{\fnSTXihei\fs20\1c&HC0C0C0&}谢谢你为我打气{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thank you for trying to cheer me up.{\r}
+
+80
+00:07:35,590 --> 00:07:37,000
+{\fnSTXihei\fs20\1c&HC0C0C0&}我宁愿去舔蹄子  也不想让你{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I would lick a pair of cloven hooves...{\r}
+
+81
+00:07:37,090 --> 00:07:39,040
+{\fnSTXihei\fs20\1c&HC0C0C0&}去听克拉丽丝而不是我们的话{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}before I let you listen to Clarisse instead of us.{\r}
+
+82
+00:07:39,120 --> 00:07:40,130
+{\fnSTXihei\fs20\1c&HC0C0C0&}无意冒犯  格罗弗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No offense, Grover.{\r}
+
+83
+00:07:40,230 --> 00:07:42,040
+{\fnSTXihei\fs20\1c&HC0C0C0&}没关系  你是在暗示你想舔我蹄子吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}None taken. Is that an offer?{\r}
+
+84
+00:07:42,130 --> 00:07:44,440
+{\fnSTXihei\fs20\1c&HC0C0C0&}听着  克拉丽丝做过什么并不重要{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Listen, it doesn't matter what Clarissa has done.{\r}
+
+85
+00:07:44,530 --> 00:07:46,910
+{\fnSTXihei\fs20\1c&HC0C0C0&}对奇戎（人首马身怪）和狄俄尼索斯老师来说你永远是最棒的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}To Chiron and Mr. D, you're still the rock star.{\r}
+
+86
+00:07:47,000 --> 00:07:48,740
+{\fnSTXihei\fs20\1c&HC0C0C0&}派瑞（梨酒）・约翰逊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Perry Johnson!{\r}
+
+87
+00:07:49,200 --> 00:07:51,310
+{\fnSTXihei\fs20\1c&HC0C0C0&}我其实是叫波西・杰克逊  老师{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Actually, it's Percy Jackson, sir.{\r}
+
+88
+00:07:51,500 --> 00:07:52,480
+{\fnSTXihei\fs20\1c&HC0C0C0&}差不多啦{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Whatever.{\r}
+
+89
+00:07:52,670 --> 00:07:55,310
+{\fnSTXihei\fs20\1c&HC0C0C0&}我有件非常重要的事要交给你办{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I have a very important task to entrust you with.{\r}
+
+90
+00:07:55,410 --> 00:07:56,440
+{\fnSTXihei\fs20\1c&HC0C0C0&}是吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You do?{\r}
+
+91
+00:07:56,540 --> 00:07:59,530
+{\fnSTXihei\fs20\1c&HC0C0C0&}没错  这件任务非常重要  也很棘手{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yes, it's a critical assignment. And it's very taxing.{\r}
+
+92
+00:07:59,610 --> 00:08:00,850
+{\fnSTXihei\fs20\1c&HC0C0C0&}我可以信任你吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Can I trust you?{\r}
+
+93
+00:08:00,950 --> 00:08:01,950
+{\fnSTXihei\fs20\1c&HC0C0C0&}当然可以{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Of course.{\r}
+
+94
+00:08:02,050 --> 00:08:04,090
+{\fnSTXihei\fs20\1c&HC0C0C0&}很好  那你需要用这个{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Good. You'll need this.{\r}
+
+95
+00:08:06,350 --> 00:08:10,600
+{\fnSTXihei\fs20\1c&HC0C0C0&}有时候这种活动会把地上弄得乱糟糟的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Sometimes these events get a little messy.{\r}
+
+96
+00:08:19,430 --> 00:08:21,140
+{\fnSTXihei\fs20\1c&HC0C0C0&}或许克拉丽丝说得对{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Maybe Clarissa was right.{\r}
+
+97
+00:08:23,670 --> 00:08:26,020
+{\fnSTXihei\fs20\1c&HC0C0C0&}或许我能阻止卢克摧毁奥林匹斯{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Maybe I only stopped Luke from destroying Olympus...{\r}
+
+98
+00:08:26,110 --> 00:08:29,150
+{\fnSTXihei\fs20\1c&HC0C0C0&}是因为我有安娜贝丝跟格罗弗帮我  对吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}because I had Annabeth and Grover helping me, right?{\r}
+
+99
+00:08:31,910 --> 00:08:33,260
+{\fnSTXihei\fs20\1c&HC0C0C0&}老爸{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Dad?{\r}
+
+100
+00:08:34,450 --> 00:08:36,190
+{\fnSTXihei\fs20\1c&HC0C0C0&}波塞顿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Poseidon?{\r}
+
+101
+00:08:43,760 --> 00:08:48,610
+{\fnSTXihei\fs20\1c&HC0C0C0&}你有没有觉得你所做过的一切{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Have you ever felt like everything you've ever done...{\r}
+
+102
+00:08:48,790 --> 00:08:50,780
+{\fnSTXihei\fs20\1c&HC0C0C0&}或许根本不是你自己的功劳呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}maybe you didn't really do it?{\r}
+
+103
+00:08:51,930 --> 00:08:54,070
+{\fnSTXihei\fs20\1c&HC0C0C0&}只是运气好而已{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It was all just luck or something?{\r}
+
+104
+00:08:56,870 --> 00:08:58,870
+{\fnSTXihei\fs20\1c&HC0C0C0&}不  你当然不会这么觉得{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No, of course not.{\r}
+
+105
+00:08:59,070 --> 00:09:00,580
+{\fnSTXihei\fs20\1c&HC0C0C0&}你是神{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You're a god.{\r}
+
+106
+00:09:02,210 --> 00:09:06,860
+{\fnSTXihei\fs20\1c&HC0C0C0&}对凡人来说 这种感觉太难受了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Speaking as someone who's not, it sucks.{\r}
+
+107
+00:09:09,450 --> 00:09:13,090
+{\fnSTXihei\fs20\1c&HC0C0C0&}它会让你怀疑自己到底有没有那么厉害{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It makes you question whether you were all that good to begin with.{\r}
+
+108
+00:09:18,260 --> 00:09:22,270
+{\fnSTXihei\fs20\1c&HC0C0C0&}好吧  很高兴又一次{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Okay. Good not talking to you.{\r}
+
+109
+00:09:22,900 --> 00:09:23,930
+{\fnSTXihei\fs20\1c&HC0C0C0&}跟你单方面聊天{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Again.{\r}
+
+110
+00:09:35,140 --> 00:09:36,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}他就直接走进来了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}So, he just walked right in?{\r}
+
+111
+00:09:36,680 --> 00:09:38,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}他径直就走进混血营了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}He just walked straight into camp?{\r}
+
+112
+00:09:38,680 --> 00:09:40,660
+{\fnSTXihei\fs20\1c&HC0C0C0&}事实上  他走得非常缓慢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It seems he lumbered, actually.{\r}
+
+113
+00:09:40,850 --> 00:09:42,830
+{\fnSTXihei\fs20\1c&HC0C0C0&}他就是大摇大摆走进来我也管不着{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I don't care if he sashayed!{\r}
+
+114
+00:09:43,020 --> 00:09:46,560
+{\fnSTXihei\fs20\1c&HC0C0C0&}要是谁都能进来  那这个神之壁障还有什么用{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What's the point of having this mystical protective barrier if any thing can just...{\r}
+
+115
+00:09:46,650 --> 00:09:49,470
+{\fnSTXihei\fs20\1c&HC0C0C0&}别动那瓶酒好吗  那可是珍贵的格连纳什葡萄酒{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Could you not touch that, please? That's a very precious Grenache.{\r}
+
+116
+00:09:49,560 --> 00:09:50,560
+{\fnSTXihei\fs20\1c&HC0C0C0&}我觉得重点是{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I think the point is...{\r}
+
+117
+00:09:50,660 --> 00:09:53,770
+{\fnSTXihei\fs20\1c&HC0C0C0&}既然他能直接通过塔利亚树的屏障{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}since he did pass right through the barrier from Thalia's tree...{\r}
+
+118
+00:09:53,860 --> 00:09:57,400
+{\fnSTXihei\fs20\1c&HC0C0C0&}- 不许再说了  - 那就说明他也是神裔{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}- Don't say it. - It means he's most likely a god-spawn.{\r}
+
+119
+00:09:59,870 --> 00:10:02,180
+{\fnSTXihei\fs20\1c&HC0C0C0&}好吧  但他到底是哪个神的后裔{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah, but the spawn of which god?{\r}
+
+120
+00:10:02,370 --> 00:10:04,080
+{\fnSTXihei\fs20\1c&HC0C0C0&}我知道{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I know.{\r}
+
+121
+00:10:08,110 --> 00:10:09,650
+{\fnSTXihei\fs20\1c&HC0C0C0&}是波塞顿的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Poseidon.{\r}
+
+122
+00:10:22,320 --> 00:10:25,030
+{\fnSTXihei\fs20\1c&HC0C0C0&}狄俄尼索斯老师找你干嘛  别他叫过去肯定没什么好事{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}So, why did Mr. D summon you? It's not good to get summoned.{\r}
+
+123
+00:10:25,130 --> 00:10:26,200
+{\fnSTXihei\fs20\1c&HC0C0C0&}肯定没事儿的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm sure it's fine.{\r}
+
+124
+00:10:26,290 --> 00:10:27,330
+{\fnSTXihei\fs20\1c&HC0C0C0&}我敢肯定你要是没犯事儿的话{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm sure you don't get summoned{\r}
+
+125
+00:10:27,430 --> 00:10:29,310
+{\fnSTXihei\fs20\1c&HC0C0C0&}是肯定不会被叫到大厅去的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}to the Big House without a major-league screw-up.{\r}
+
+126
+00:10:29,400 --> 00:10:30,570
+{\fnSTXihei\fs20\1c&HC0C0C0&}我才没犯什么事儿呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I didn't screw up.{\r}
+
+127
+00:10:30,670 --> 00:10:33,080
+{\fnSTXihei\fs20\1c&HC0C0C0&}我打扫了整个体育馆  还用吸尘器吸了一遍{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I cleaned the entire coliseum. And vacuumed.{\r}
+
+128
+00:10:33,170 --> 00:10:35,150
+{\fnSTXihei\fs20\1c&HC0C0C0&}别听他瞎扯淡  好吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Don't let him get into your head, okay?{\r}
+
+129
+00:10:35,240 --> 00:10:38,120
+{\fnSTXihei\fs20\1c&HC0C0C0&}有人死定了  有人要死定了  就我旁边那个{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We have a dead camper walking. Dead camper walking, here.{\r}
+
+130
+00:10:38,210 --> 00:10:40,020
+{\fnSTXihei\fs20\1c&HC0C0C0&}谢了  还真是患难见真情呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thanks. This is friendship.{\r}
+
+131
+00:10:40,210 --> 00:10:42,050
+{\fnSTXihei\fs20\1c&HC0C0C0&}我就开个小玩笑  跟你闹着玩的呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm just playing, just trying to have a little fun.{\r}
+
+132
+00:10:42,140 --> 00:10:43,390
+{\fnSTXihei\fs20\1c&HC0C0C0&}没关系{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's all right.{\r}
+
+133
+00:10:43,580 --> 00:10:45,620
+{\fnSTXihei\fs20\1c&HC0C0C0&}要是你被踢出去了  你的小屋可以归我吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}So, it's okay if I get your cabin when you get kicked out?{\r}
+
+134
+00:10:45,710 --> 00:10:48,090
+{\fnSTXihei\fs20\1c&HC0C0C0&}别担心  就狄俄尼索斯老师而已{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Seriously, don't worry. it's just Mr. D.{\r}
+
+135
+00:10:48,180 --> 00:10:51,360
+{\fnSTXihei\fs20\1c&HC0C0C0&}又不是奇戎老师找你  他找你才...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I mean, if Chiron had summoned you, then...{\r}
+
+136
+00:10:55,890 --> 00:10:58,170
+{\fnSTXihei\fs20\1c&HC0C0C0&}好吧  你这回真死定了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You are so massively screwed.{\r}
+
+137
+00:10:59,930 --> 00:11:02,910
+{\fnSTXihei\fs20\1c&HC0C0C0&}不管你怀疑什么是我干的  我绝对没有干{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Whatever it is you think I did, I didn't do it.{\r}
+
+138
+00:11:03,100 --> 00:11:04,600
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西  你没做错什么事{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You've done nothing, Percy.{\r}
+
+139
+00:11:04,700 --> 00:11:05,870
+{\fnSTXihei\fs20\1c&HC0C0C0&}没错{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Exactly.{\r}
+
+140
+00:11:06,070 --> 00:11:10,490
+{\fnSTXihei\fs20\1c&HC0C0C0&}大家都认为你是波塞顿唯一的继承人{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}As you know, you are believed to be Poseidon's only heir.{\r}
+
+141
+00:11:11,170 --> 00:11:12,380
+{\fnSTXihei\fs20\1c&HC0C0C0&}是这样没错  那又如何{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah, so?{\r}
+
+142
+00:11:12,570 --> 00:11:16,690
+{\fnSTXihei\fs20\1c&HC0C0C0&}貌似现在这个观点不太正确{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}So, it would seem that belief has been held in error.{\r}
+
+143
+00:11:16,950 --> 00:11:18,950
+{\fnSTXihei\fs20\1c&HC0C0C0&}等等  你是说波西有个兄弟吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hold on. You're saying Percy has a brother?{\r}
+
+144
+00:11:19,050 --> 00:11:20,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}或者是姐妹{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Or a sister.{\r}
+
+145
+00:11:23,290 --> 00:11:26,360
+{\fnSTXihei\fs20\1c&HC0C0C0&}不是吧  波塞顿又多了个混血儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Holy Styx. Another Poseidon half-blood.{\r}
+
+146
+00:11:27,760 --> 00:11:29,170
+{\fnSTXihei\fs20\1c&HC0C0C0&}也不完全算是这样{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Not exactly.{\r}
+
+147
+00:11:30,360 --> 00:11:32,860
+{\fnSTXihei\fs20\1c&HC0C0C0&}严格说来  泰森算不上是个混血儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Technically, Tyson is not a half-blood.{\r}
+
+148
+00:11:33,060 --> 00:11:35,300
+{\fnSTXihei\fs20\1c&HC0C0C0&}因为混血儿有一半血统是人{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Half-bloods are half-human, hence the name.{\r}
+
+149
+00:11:35,400 --> 00:11:36,600
+{\fnSTXihei\fs20\1c&HC0C0C0&}我不懂你的意思{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I don't get it.{\r}
+
+150
+00:11:36,700 --> 00:11:40,010
+{\fnSTXihei\fs20\1c&HC0C0C0&}如果新来那小子另一半不是人  那他另一半是是什么{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}If this new kid is not half-human, then what other half is he?{\r}
+
+151
+00:11:40,100 --> 00:11:42,280
+{\fnSTXihei\fs20\1c&HC0C0C0&}宁芙（希腊神话中精灵一族）  海宁芙{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Nymph. Sea nymph.{\r}
+
+152
+00:11:42,470 --> 00:11:44,650
+{\fnSTXihei\fs20\1c&HC0C0C0&}神一旦跟宁芙结合  便会生出...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And when you cross a deity with a nymph, you get...{\r}
+
+153
+00:11:44,740 --> 00:11:47,350
+{\fnSTXihei\fs20\1c&HC0C0C0&}别碰这个  这可是琼瑶浆（葡萄酒的一种）{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Don't touch. it's a Gewurztraminer.{\r}
+
+154
+00:11:47,540 --> 00:11:48,780
+{\fnSTXihei\fs20\1c&HC0C0C0&}嗨{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hi.{\r}
+
+155
+00:11:50,380 --> 00:11:51,880
+{\fnSTXihei\fs20\1c&HC0C0C0&}你好  哥哥{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hi, Brother.{\r}
+
+156
+00:12:13,300 --> 00:12:16,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}你是这里的大人物  对吧  你拯救了世界之类的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}So, you're the big shot here, right? You saved the world and stuff.{\r}
+
+157
+00:12:16,640 --> 00:12:18,750
+{\fnSTXihei\fs20\1c&HC0C0C0&}对  没错{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah. Yeah.{\r}
+
+158
+00:12:20,580 --> 00:12:22,750
+{\fnSTXihei\fs20\1c&HC0C0C0&}他们在你的饭里洒了胡椒{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey. they put peppers in yours.{\r}
+
+159
+00:12:23,250 --> 00:12:24,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}你还吃吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Are you gonna eat that?{\r}
+
+160
+00:12:25,880 --> 00:12:27,290
+{\fnSTXihei\fs20\1c&HC0C0C0&}你吃吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Go ahead.{\r}
+
+161
+00:12:31,250 --> 00:12:33,030
+{\fnSTXihei\fs20\1c&HC0C0C0&}他在耍我吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Is he messing with me?{\r}
+
+162
+00:12:33,220 --> 00:12:34,500
+{\fnSTXihei\fs20\1c&HC0C0C0&}我觉得他是饿极了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I think he's hungry.{\r}
+
+163
+00:12:34,590 --> 00:12:36,630
+{\fnSTXihei\fs20\1c&HC0C0C0&}不是说他  我是说波塞顿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No, not him. I meant Poseidon.{\r}
+
+164
+00:12:36,830 --> 00:12:38,700
+{\fnSTXihei\fs20\1c&HC0C0C0&}他是在跟我开玩笑吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Is this supposed to be some kind of joke?{\r}
+
+165
+00:12:38,790 --> 00:12:42,080
+{\fnSTXihei\fs20\1c&HC0C0C0&}一个同父异母弟弟  独眼巨人  别扯淡了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}A half-brother? A Cyclops? Come on.{\r}
+
+166
+00:12:43,970 --> 00:12:47,210
+{\fnSTXihei\fs20\1c&HC0C0C0&}我觉得官方用语应该称之为"眼部受损"{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I think the politically correct term is "ocularly impaired."{\r}
+
+167
+00:12:47,400 --> 00:12:48,880
+{\fnSTXihei\fs20\1c&HC0C0C0&}有个同父异母的弟弟总比什么都没有强{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And a half-brother is better than nothing.{\r}
+
+168
+00:12:48,970 --> 00:12:50,380
+{\fnSTXihei\fs20\1c&HC0C0C0&}我喜欢有个兄弟{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I like having a brother.{\r}
+
+169
+00:12:50,470 --> 00:12:52,080
+{\fnSTXihei\fs20\1c&HC0C0C0&}老爸带我来的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Dad was cool to bring me here.{\r}
+
+170
+00:12:52,180 --> 00:12:53,880
+{\fnSTXihei\fs20\1c&HC0C0C0&}老爸吗  老爸带你过来的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Dad? Dad brought you here?{\r}
+
+171
+00:12:54,740 --> 00:12:56,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}我当时在北部的森林里{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I was upstate, in the woods.{\r}
+
+172
+00:12:56,650 --> 00:13:00,830
+{\fnSTXihei\fs20\1c&HC0C0C0&}突然有一天  我的头顶上出现三叉戟  然后它又开始向南移{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}One day, this trident shows up over my head,and then it started moving south.{\r}
+
+173
+00:13:00,920 --> 00:13:04,460
+{\fnSTXihei\fs20\1c&HC0C0C0&}于是你就跟着它  一直跟到这里{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And you followed it. You followed it here.{\r}
+
+174
+00:13:05,020 --> 00:13:06,430
+{\fnSTXihei\fs20\1c&HC0C0C0&}它发着光呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It glowed.{\r}
+
+175
+00:13:06,620 --> 00:13:09,660
+{\fnSTXihei\fs20\1c&HC0C0C0&}看来有人有新兄弟了哦{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Well, somebody has got a new brother.{\r}
+
+176
+00:13:10,290 --> 00:13:13,070
+{\fnSTXihei\fs20\1c&HC0C0C0&}他的双眼长得挺像他老爸的嘛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And I can see he's got his daddy's eyes.{\r}
+
+177
+00:13:13,260 --> 00:13:14,240
+{\fnSTXihei\fs20\1c&HC0C0C0&}不对{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Well...{\r}
+
+178
+00:13:14,960 --> 00:13:15,940
+{\fnSTXihei\fs20\1c&HC0C0C0&}应该是独眼才对{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}"Eye."{\r}
+
+179
+00:13:17,270 --> 00:13:19,880
+{\fnSTXihei\fs20\1c&HC0C0C0&}你真该替他弄点喷雾过来{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You should really get him some sprayable mist.{\r}
+
+180
+00:13:20,040 --> 00:13:23,680
+{\fnSTXihei\fs20\1c&HC0C0C0&}不管怎么说  这个点还挺有意思的  你说呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Anyway, it is kind of interesting timing, don't you think?{\r}
+
+181
+00:13:23,870 --> 00:13:28,790
+{\fnSTXihei\fs20\1c&HC0C0C0&}或许波塞顿决定再要一个儿子是想...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Maybe Poseidon decided he needed another son to, you know...{\r}
+
+182
+00:13:28,980 --> 00:13:30,080
+{\fnSTXihei\fs20\1c&HC0C0C0&}来代表他{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}represent.{\r}
+
+183
+00:13:30,280 --> 00:13:31,620
+{\fnSTXihei\fs20\1c&HC0C0C0&}荒谬（公牛）{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Bull.{\r}
+
+184
+00:13:32,020 --> 00:13:33,260
+{\fnSTXihei\fs20\1c&HC0C0C0&}你说什么{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Excuse me?{\r}
+
+185
+00:13:33,450 --> 00:13:34,790
+{\fnSTXihei\fs20\1c&HC0C0C0&}有公牛的味道{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Smells like bull.{\r}
+
+186
+00:13:45,400 --> 00:13:46,970
+{\fnSTXihei\fs20\1c&HC0C0C0&}壁障那儿出事儿了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We got barrier action.{\r}
+
+187
+00:13:48,700 --> 00:13:50,300
+{\fnSTXihei\fs20\1c&HC0C0C0&}克里斯  你不去吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey, Chris, you coming?{\r}
+
+188
+00:13:50,500 --> 00:13:52,680
+{\fnSTXihei\fs20\1c&HC0C0C0&}算了  我不想去{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No, I'm good.{\r}
+
+189
+00:14:03,510 --> 00:14:05,150
+{\fnSTXihei\fs20\1c&HC0C0C0&}太壮观了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}That is so awesome.{\r}
+
+190
+00:14:07,150 --> 00:14:09,900
+{\fnSTXihei\fs20\1c&HC0C0C0&}没事的  壁障挺得住{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's chill. The barrier is holding.{\r}
+
+191
+00:14:18,930 --> 00:14:20,070
+{\fnSTXihei\fs20\1c&HC0C0C0&}科尔基斯公牛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}A Colchis bull.{\r}
+
+192
+00:14:20,160 --> 00:14:21,370
+{\fnSTXihei\fs20\1c&HC0C0C0&}快跑{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Run!{\r}
+
+193
+00:14:34,450 --> 00:14:35,420
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Percy!{\r}
+
+194
+00:14:36,580 --> 00:14:37,580
+{\fnSTXihei\fs20\1c&HC0C0C0&}快起来{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Come on!{\r}
+
+195
+00:15:05,380 --> 00:15:07,290
+{\fnSTXihei\fs20\1c&HC0C0C0&}- 我们得找到它的弱点  - 它有弱点吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}- We have to find its weak spot. - Does it have one?{\r}
+
+196
+00:15:07,380 --> 00:15:09,380
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西  你去引开它{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Percy, distract it for me.{\r}
+
+197
+00:15:50,990 --> 00:15:52,600
+{\fnSTXihei\fs20\1c&HC0C0C0&}我来搞定你{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I got this.{\r}
+
+198
+00:16:35,900 --> 00:16:36,900
+{\fnSTXihei\fs20\1c&HC0C0C0&}坏牛儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Bad bull.{\r}
+
+199
+00:16:38,840 --> 00:16:40,180
+{\fnSTXihei\fs20\1c&HC0C0C0&}看招  你这堆破铜烂铁{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey, rust bucket!{\r}
+
+200
+00:17:59,450 --> 00:18:01,490
+{\fnSTXihei\fs20\1c&HC0C0C0&}可恶  杰克逊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Damn it, Jackson.{\r}
+
+201
+00:18:03,990 --> 00:18:08,500
+{\fnSTXihei\fs20\1c&HC0C0C0&}你知道科尔基斯公牛有多难找吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Do you have any idea how hard Colchis bulls are to come by?{\r}
+
+202
+00:18:09,630 --> 00:18:12,140
+{\fnSTXihei\fs20\1c&HC0C0C0&}或许下一次想溺死别人的时候{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Maybe next time you try to drown someone...{\r}
+
+203
+00:18:13,270 --> 00:18:18,120
+{\fnSTXihei\fs20\1c&HC0C0C0&}得先确定那个人是否是会游泳的半人半神{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}you'll first make sure he's not a demigod who can swim.{\r}
+
+204
+00:18:23,480 --> 00:18:24,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}卢克{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Luke?{\r}
+
+205
+00:18:24,650 --> 00:18:28,150
+{\fnSTXihei\fs20\1c&HC0C0C0&}事实证明  你不是唯一一个杀不死的混血儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Turns out, you're not the only half-blood who's hard to kill.{\r}
+
+206
+00:18:30,850 --> 00:18:32,920
+{\fnSTXihei\fs20\1c&HC0C0C0&}预言嘛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You know, prophecy.{\r}
+
+207
+00:18:34,560 --> 00:18:37,200
+{\fnSTXihei\fs20\1c&HC0C0C0&}什么预言  你在说些什么{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What prophecy? What are you talking about?{\r}
+
+208
+00:18:37,390 --> 00:18:38,870
+{\fnSTXihei\fs20\1c&HC0C0C0&}你还不知道吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You don't know?{\r}
+
+209
+00:18:39,660 --> 00:18:40,660
+{\fnSTXihei\fs20\1c&HC0C0C0&}是吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Huh.{\r}
+
+210
+00:18:41,330 --> 00:18:45,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}奇戎对你隐瞒的事看样子又多了一条{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Add that to the long list of things your buddy Chiron hasn't shared with you.{\r}
+
+211
+00:18:46,700 --> 00:18:49,840
+{\fnSTXihei\fs20\1c&HC0C0C0&}奇戎  狄俄尼索斯  还有其他人{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Chiron, Mr. D, all the rest...{\r}
+
+212
+00:18:50,840 --> 00:18:52,980
+{\fnSTXihei\fs20\1c&HC0C0C0&}他们根本就不在乎我们{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}they don't care about us.{\r}
+
+213
+00:18:53,510 --> 00:18:56,290
+{\fnSTXihei\fs20\1c&HC0C0C0&}对他们来说  我们只是乳臭未干的小子{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}To them, we're just kids.{\r}
+
+214
+00:18:56,480 --> 00:18:59,760
+{\fnSTXihei\fs20\1c&HC0C0C0&}一堆随意使唤随便欺负的小卒而已{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}A bunch of pawns meant to be pushed around, told what to do.{\r}
+
+215
+00:19:00,150 --> 00:19:02,600
+{\fnSTXihei\fs20\1c&HC0C0C0&}我不是唯一一个有这种想法的混血儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm not the only half-blood who thinks so.{\r}
+
+216
+00:19:05,550 --> 00:19:06,800
+{\fnSTXihei\fs20\1c&HC0C0C0&}仔细想想吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Think about it.{\r}
+
+217
+00:19:20,330 --> 00:19:21,580
+{\fnSTXihei\fs20\1c&HC0C0C0&}我错过什么了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What did I miss?{\r}
+
+218
+00:19:21,670 --> 00:19:22,880
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Where's Percy?{\r}
+
+219
+00:19:22,970 --> 00:19:26,080
+{\fnSTXihei\fs20\1c&HC0C0C0&}我最后一次看到他时  他正被科尔基斯公牛拖着走{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Last time I saw him, he was getting dragged by a Colchis bull.{\r}
+
+220
+00:19:26,170 --> 00:19:28,050
+{\fnSTXihei\fs20\1c&HC0C0C0&}喂 叫你呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey, you.{\r}
+
+221
+00:19:28,480 --> 00:19:29,820
+{\fnSTXihei\fs20\1c&HC0C0C0&}你怎么没被烤熟{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}How come you aren't barbecued?{\r}
+
+222
+00:19:29,910 --> 00:19:31,480
+{\fnSTXihei\fs20\1c&HC0C0C0&}独眼巨人是不怕火的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Cyclopes are fireproof.{\r}
+
+223
+00:19:31,580 --> 00:19:34,030
+{\fnSTXihei\fs20\1c&HC0C0C0&}那头牛是怎么穿过壁障的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}How did the bull get through the barrier?{\r}
+
+224
+00:19:35,520 --> 00:19:37,330
+{\fnSTXihei\fs20\1c&HC0C0C0&}天呐{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Oh, my gods.{\r}
+
+225
+00:20:00,180 --> 00:20:01,480
+{\fnSTXihei\fs20\1c&HC0C0C0&}中毒了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Poisoned.{\r}
+
+226
+00:20:01,680 --> 00:20:03,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}那她...这棵树死了吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Is she... ls the tree dead?{\r}
+
+227
+00:20:03,780 --> 00:20:05,350
+{\fnSTXihei\fs20\1c&HC0C0C0&}暂时没有  但离死也不远了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No, but dying.{\r}
+
+228
+00:20:08,650 --> 00:20:11,760
+{\fnSTXihei\fs20\1c&HC0C0C0&}大家很快就会适应这种状况的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}A condition we're about to become all too familiar with.{\r}
+
+229
+00:20:12,290 --> 00:20:16,260
+{\fnSTXihei\fs20\1c&HC0C0C0&}各位 我们需要守卫轮班巡逻营区{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Everybody,we're going to need a guard detail to patrol the perimeter.{\r}
+
+230
+00:20:16,460 --> 00:20:19,340
+{\fnSTXihei\fs20\1c&HC0C0C0&}感觉就像她又死了一回一样{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It feels like she's dying all over again.{\r}
+
+231
+00:20:20,460 --> 00:20:22,500
+{\fnSTXihei\fs20\1c&HC0C0C0&}谁会做得出这种事儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Who would do this?{\r}
+
+232
+00:20:23,530 --> 00:20:25,240
+{\fnSTXihei\fs20\1c&HC0C0C0&}是卢克  是他下的毒{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Luke poisoned the tree.{\r}
+
+233
+00:20:26,100 --> 00:20:27,340
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Percy!{\r}
+
+234
+00:20:27,700 --> 00:20:29,480
+{\fnSTXihei\fs20\1c&HC0C0C0&}太好了 你还没死呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yay, you're alive.{\r}
+
+235
+00:20:30,210 --> 00:20:32,410
+{\fnSTXihei\fs20\1c&HC0C0C0&}对  不只是我没死{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah, I'm not the only one.{\r}
+
+236
+00:20:33,040 --> 00:20:34,520
+{\fnSTXihei\fs20\1c&HC0C0C0&}卢克放那头牛进来的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Luke let the bull in.{\r}
+
+237
+00:20:34,710 --> 00:20:36,120
+{\fnSTXihei\fs20\1c&HC0C0C0&}没了树形成的壁障{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Without the tree's barrier...{\r}
+
+238
+00:20:36,210 --> 00:20:38,020
+{\fnSTXihei\fs20\1c&HC0C0C0&}他就觉得外面有足够的半泰坦{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}he probably figures there's enough{\r}
+
+239
+00:20:38,110 --> 00:20:39,790
+{\fnSTXihei\fs20\1c&HC0C0C0&}能帮他达成所愿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}demi-Titans out there to get him what he wants.{\r}
+
+240
+00:20:39,880 --> 00:20:42,090
+{\fnSTXihei\fs20\1c&HC0C0C0&}那他到底想要什么{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And that would be what, exactly?{\r}
+
+241
+00:20:42,790 --> 00:20:45,500
+{\fnSTXihei\fs20\1c&HC0C0C0&}歼灭我们所有人  拉吕小姐{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Our annihilation, Ms. La Rue.{\r}
+
+242
+00:20:45,990 --> 00:20:48,130
+{\fnSTXihei\fs20\1c&HC0C0C0&}歼灭所有混血儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Our annihilation.{\r}
+
+243
+00:20:56,370 --> 00:20:57,740
+{\fnSTXihei\fs20\1c&HC0C0C0&}解药药效如何{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}How's the antidote coming?{\r}
+
+244
+00:20:57,830 --> 00:20:59,110
+{\fnSTXihei\fs20\1c&HC0C0C0&}非常缓慢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Slowly.{\r}
+
+245
+00:21:00,470 --> 00:21:02,950
+{\fnSTXihei\fs20\1c&HC0C0C0&}我知道现在或许时机不对{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I know this probably isn't the best time...{\r}
+
+246
+00:21:05,310 --> 00:21:06,750
+{\fnSTXihei\fs20\1c&HC0C0C0&}但我必须要问你一件事{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}but there's something I have to ask you.{\r}
+
+247
+00:21:06,840 --> 00:21:08,190
+{\fnSTXihei\fs20\1c&HC0C0C0&}什么事{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What is it?{\r}
+
+248
+00:21:10,180 --> 00:21:12,790
+{\fnSTXihei\fs20\1c&HC0C0C0&}卢克说有一个预言{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It was something Luke said about a prophecy...{\r}
+
+249
+00:21:12,980 --> 00:21:14,960
+{\fnSTXihei\fs20\1c&HC0C0C0&}而且预言里提及到我{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}how I'm mentioned in it.{\r}
+
+250
+00:21:15,750 --> 00:21:17,820
+{\fnSTXihei\fs20\1c&HC0C0C0&}你知道这件事吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Do you know anything about this?{\r}
+
+251
+00:21:19,690 --> 00:21:22,370
+{\fnSTXihei\fs20\1c&HC0C0C0&}知识不见得就是力量  波西{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Knowledge isn't always power, Percy.{\r}
+
+252
+00:21:23,160 --> 00:21:25,160
+{\fnSTXihei\fs20\1c&HC0C0C0&}有时候  知识是一种负担{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Sometimes, it's a burden.{\r}
+
+253
+00:21:25,830 --> 00:21:27,370
+{\fnSTXihei\fs20\1c&HC0C0C0&}这我知道{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I know that.{\r}
+
+254
+00:21:28,360 --> 00:21:31,410
+{\fnSTXihei\fs20\1c&HC0C0C0&}但正如你所说  最近我的状态不怎么佳{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}But like you said, I've been pretty unexceptional lately.{\r}
+
+255
+00:21:31,500 --> 00:21:35,610
+{\fnSTXihei\fs20\1c&HC0C0C0&}这让我很疑惑我到底能不能实现预言{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's got me wondering if I'm prophecy-worthy.{\r}
+
+256
+00:21:35,810 --> 00:21:38,120
+{\fnSTXihei\fs20\1c&HC0C0C0&}人说  若是诸神想要折磨我们{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}They say that when the gods wish to torture us...{\r}
+
+257
+00:21:38,210 --> 00:21:39,990
+{\fnSTXihei\fs20\1c&HC0C0C0&}便会回应我们的祈祷{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}they answer our prayers.{\r}
+
+258
+00:21:40,180 --> 00:21:43,790
+{\fnSTXihei\fs20\1c&HC0C0C0&}哈耳摩尼亚之项链  赫拉克勒斯之弓  金苹果{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Necklace of Harmonia, Hercules' bow, Golden Apple of Discord.{\r}
+
+259
+00:21:44,210 --> 00:21:45,790
+{\fnSTXihei\fs20\1c&HC0C0C0&}三千年来神与半人半神的智慧都不能...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Three millennia of gods and demigods...{\r}
+
+260
+00:21:45,880 --> 00:21:48,960
+{\fnSTXihei\fs20\1c&HC0C0C0&}你还以为有谁能想出办法治好塔利亚之树{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}you'd think that someone would have come up with a cure for Thalia's tree.{\r}
+
+261
+00:21:49,050 --> 00:21:52,730
+{\fnSTXihei\fs20\1c&HC0C0C0&}波尔赛弗捏（冥王哈迪斯之妻）提出用美乐棵（园艺品牌） 或许我们能试试{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Persephone did come up with Miracle-Gro. Maybe we can try that.{\r}
+
+262
+00:21:52,920 --> 00:21:54,200
+{\fnSTXihei\fs20\1c&HC0C0C0&}就是这个{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}That's it.{\r}
+
+263
+00:21:55,430 --> 00:21:56,740
+{\fnSTXihei\fs20\1c&HC0C0C0&}这个{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Right here.{\r}
+
+264
+00:21:58,060 --> 00:22:01,270
+{\fnSTXihei\fs20\1c&HC0C0C0&}那个治不好塔利亚之树  反而只会害死大家{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}That is not gonna cure Thalia's tree so much as get us all killed.{\r}
+
+265
+00:22:01,360 --> 00:22:02,570
+{\fnSTXihei\fs20\1c&HC0C0C0&}尤其是我{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Me, in particular.{\r}
+
+266
+00:22:02,670 --> 00:22:05,510
+{\fnSTXihei\fs20\1c&HC0C0C0&}这个正是我们需要的  绝对能行得通{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's perfect. it's exactly what we need.{\r}
+
+267
+00:22:07,000 --> 00:22:08,480
+{\fnSTXihei\fs20\1c&HC0C0C0&}我要拿给狄俄尼索斯老师看{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm taking this to Mr. D.{\r}
+
+268
+00:22:08,570 --> 00:22:09,640
+{\fnSTXihei\fs20\1c&HC0C0C0&}不行{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No.{\r}
+
+269
+00:22:15,510 --> 00:22:19,290
+{\fnSTXihei\fs20\1c&HC0C0C0&}我本来想再多帮你兜一会儿这重担  但既然你都知道了  那就进去吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I was hoping to spare you this onus a little while longer, but go inside.{\r}
+
+270
+00:22:19,380 --> 00:22:20,860
+{\fnSTXihei\fs20\1c&HC0C0C0&}去楼上的阁楼{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Upstairs, to the attic.{\r}
+
+271
+00:22:20,950 --> 00:22:23,460
+{\fnSTXihei\fs20\1c&HC0C0C0&}你下来之后  我们再谈其他的事儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And when you come back down, we'll talk some more.{\r}
+
+272
+00:22:23,550 --> 00:22:26,270
+{\fnSTXihei\fs20\1c&HC0C0C0&}当然前提是你还没疯的话{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Assuming you're still sane, that is.{\r}
+
+273
+00:22:59,290 --> 00:23:01,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}我是德尔菲（希腊古都）之灵{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I am the spirit of Delphi...{\r}
+
+274
+00:23:01,890 --> 00:23:04,740
+{\fnSTXihei\fs20\1c&HC0C0C0&}腓尼基・阿波罗预言的先知{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}speaker of the prophecies of Phoebus Apollo...{\r}
+
+275
+00:23:04,930 --> 00:23:07,210
+{\fnSTXihei\fs20\1c&HC0C0C0&}巨蟒之屠夫{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}slayer of the mighty Python.{\r}
+
+276
+00:23:07,400 --> 00:23:11,040
+{\fnSTXihei\fs20\1c&HC0C0C0&}过来吧  探求者  说出你的问题吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Approach, seeker, and ask.{\r}
+
+277
+00:23:13,440 --> 00:23:15,850
+{\fnSTXihei\fs20\1c&HC0C0C0&}听说有一个关于我的预言{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I heard there was a prophecy about me.{\r}
+
+278
+00:23:16,040 --> 00:23:17,420
+{\fnSTXihei\fs20\1c&HC0C0C0&}是的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Aye.{\r}
+
+279
+00:23:17,610 --> 00:23:22,390
+{\fnSTXihei\fs20\1c&HC0C0C0&}但在你知晓未来前  得先了解过去{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}But before you learn the future, know first the past.{\r}
+
+280
+00:23:24,320 --> 00:23:27,730
+{\fnSTXihei\fs20\1c&HC0C0C0&}很久很久以前  在此时代之前{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Long ago, before our time...{\r}
+
+281
+00:23:27,920 --> 00:23:29,960
+{\fnSTXihei\fs20\1c&HC0C0C0&}在奥林匹斯与诸神出现之前{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}before Olympus and the gods...{\r}
+
+282
+00:23:30,150 --> 00:23:33,440
+{\fnSTXihei\fs20\1c&HC0C0C0&}以克隆那斯为首泰坦{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Titans ruled the world.{\r}
+
+283
+00:23:33,990 --> 00:23:35,700
+{\fnSTXihei\fs20\1c&HC0C0C0&}统治着当时的世界{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Led by Kronos...{\r}
+
+284
+00:23:35,890 --> 00:23:40,310
+{\fnSTXihei\fs20\1c&HC0C0C0&}他是一股非常邪恶的势力  吞食了自己的子女{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}a force so evil, he devoured his own children.{\r}
+
+285
+00:23:40,500 --> 00:23:42,980
+{\fnSTXihei\fs20\1c&HC0C0C0&}但他其中三个儿子逃过一劫{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}But three of his sons escaped.{\r}
+
+286
+00:23:43,170 --> 00:23:46,450
+{\fnSTXihei\fs20\1c&HC0C0C0&}也就是后来的宙斯  哈迪斯以及波塞顿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Zeus, Hades and Poseidon.{\r}
+
+287
+00:23:51,440 --> 00:23:53,050
+{\fnSTXihei\fs20\1c&HC0C0C0&}他们消灭了克隆那斯{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}They destroyed Kronos...{\r}
+
+288
+00:23:53,150 --> 00:23:57,720
+{\fnSTXihei\fs20\1c&HC0C0C0&}并将他的遗体放逐至冥界至深至暗之深渊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}and banished his remains to the depths of Tartarus.{\r}
+
+289
+00:23:58,480 --> 00:24:02,630
+{\fnSTXihei\fs20\1c&HC0C0C0&}但克隆那斯注定将会再度归来{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}But Kronos is fated to rise again...{\r}
+
+290
+00:24:02,820 --> 00:24:07,540
+{\fnSTXihei\fs20\1c&HC0C0C0&}并对奥林匹斯与世界进行复仇{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}to exact his vengeance on Olympus, and the world.{\r}
+
+291
+00:24:09,360 --> 00:24:14,650
+{\fnSTXihei\fs20\1c&HC0C0C0&}只有三大主神的一个混血后裔才能打败他{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Only one half-blood child of the three eldest gods can defeat him.{\r}
+
+292
+00:24:14,830 --> 00:24:18,050
+{\fnSTXihei\fs20\1c&HC0C0C0&}这个孩子能成为我们的救世主{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}This child shall be our salvation...{\r}
+
+293
+00:24:18,240 --> 00:24:21,380
+{\fnSTXihei\fs20\1c&HC0C0C0&}但也可能会导致我们灭亡{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}or the cause of our destruction.{\r}
+
+294
+00:24:24,140 --> 00:24:28,620
+{\fnSTXihei\fs20\1c&HC0C0C0&}这一切都源于两个相互争夺金羊毛的表亲{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It all begins when two cousins grapple for a fleece...{\r}
+
+295
+00:24:29,050 --> 00:24:32,030
+{\fnSTXihei\fs20\1c&HC0C0C0&}海神之子与盗火之人{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}the son of the sea and the lightning thief.{\r}
+
+296
+00:24:32,890 --> 00:24:33,960
+{\fnSTXihei\fs20\1c&HC0C0C0&}是卢克{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Luke.{\r}
+
+297
+00:24:34,150 --> 00:24:36,660
+{\fnSTXihei\fs20\1c&HC0C0C0&}而那个三大主神的混血后裔{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And that half-blood of the eldest gods...{\r}
+
+298
+00:24:36,860 --> 00:24:39,810
+{\fnSTXihei\fs20\1c&HC0C0C0&}会冲破一切阻碍活到二十岁{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}shall reach 20 against all odds.{\r}
+
+299
+00:24:39,990 --> 00:24:43,240
+{\fnSTXihei\fs20\1c&HC0C0C0&}“目睹世界陷入无尽沉睡”{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}"And see the world in endless sleep...{\r}
+
+300
+00:24:43,430 --> 00:24:47,210
+{\fnSTXihei\fs20\1c&HC0C0C0&}“诅咒之剑将会夺取邪恶之灵”{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}"the evil soul, cursed blade shall reap.{\r}
+
+301
+00:24:47,400 --> 00:24:49,250
+{\fnSTXihei\fs20\1c&HC0C0C0&}“唯一的抉择将会终结他的使命”{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}"A single choice shall end his days...{\r}
+
+302
+00:24:49,340 --> 00:24:52,720
+{\fnSTXihei\fs20\1c&HC0C0C0&}“并决定奥林匹斯的存亡”{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}"Olympus to preserve or raze."{\r}
+
+303
+00:24:52,910 --> 00:24:56,360
+{\fnSTXihei\fs20\1c&HC0C0C0&}那个亡字是毁灭的意思{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And that is "raze" with a as in "destroy."{\r}
+
+304
+00:24:56,880 --> 00:24:58,360
+{\fnSTXihei\fs20\1c&HC0C0C0&}我问过了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}l asked.{\r}
+
+305
+00:25:00,850 --> 00:25:04,730
+{\fnSTXihei\fs20\1c&HC0C0C0&}有没有一丝丝可能{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Is there any chance, any chance at all...{\r}
+
+306
+00:25:04,920 --> 00:25:08,160
+{\fnSTXihei\fs20\1c&HC0C0C0&}或许我不是预言所提及之人{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}that I might not be the guy in the prophecy?{\r}
+
+307
+00:25:08,350 --> 00:25:11,200
+{\fnSTXihei\fs20\1c&HC0C0C0&}神谕提到的是一个三大主神的混血后裔{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The Oracle references a half-blood of the eldest gods.{\r}
+
+308
+00:25:11,290 --> 00:25:16,400
+{\fnSTXihei\fs20\1c&HC0C0C0&}而你是宙斯  哈迪斯以及波塞顿三神仅存的混血子嗣{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You are the only living half-blood heir of Zeus, Hades or Poseidon.{\r}
+
+309
+00:25:16,600 --> 00:25:18,910
+{\fnSTXihei\fs20\1c&HC0C0C0&}预言所指的只可能是你{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The prophecy could refer only to you.{\r}
+
+310
+00:25:19,100 --> 00:25:22,670
+{\fnSTXihei\fs20\1c&HC0C0C0&}要是因我能力不足没能拯救得了奥林匹斯{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What if I destroy Olympus...{\r}
+
+311
+00:25:22,870 --> 00:25:26,010
+{\fnSTXihei\fs20\1c&HC0C0C0&}反而导致了其灭亡该怎么办{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}by not being good enough to save it?{\r}
+
+312
+00:25:27,110 --> 00:25:29,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}问题就出在这儿  不是吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}That seems to be the question, doesn't it?{\r}
+
+313
+00:25:31,040 --> 00:25:32,290
+{\fnSTXihei\fs20\1c&HC0C0C0&}绝对不行{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's absolutely out of the question.{\r}
+
+314
+00:25:32,380 --> 00:25:34,360
+{\fnSTXihei\fs20\1c&HC0C0C0&}要是你能听我哪怕说一刻都行{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}If you could just listen to me for one moment...{\r}
+
+315
+00:25:34,450 --> 00:25:36,400
+{\fnSTXihei\fs20\1c&HC0C0C0&}我是在听你说的啊  你想出去执行任务{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I am listening. You want to go on a quest.{\r}
+
+316
+00:25:36,480 --> 00:25:37,790
+{\fnSTXihei\fs20\1c&HC0C0C0&}今天一定到礼拜四了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It must be Thursday.{\r}
+
+317
+00:25:37,880 --> 00:25:41,030
+{\fnSTXihei\fs20\1c&HC0C0C0&}我是认真的  我敢肯定这方法能行的通{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm serious. I'm absolutely sure that this is gonna work.{\r}
+
+318
+00:25:43,120 --> 00:25:44,800
+{\fnSTXihei\fs20\1c&HC0C0C0&}这酒存的年份恰到好处{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It was such a good year.{\r}
+
+319
+00:25:44,990 --> 00:25:47,600
+{\fnSTXihei\fs20\1c&HC0C0C0&}金羊毛能治愈任何活的生物{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The Golden Fleece can heal any living person or thing...{\r}
+
+320
+00:25:47,690 --> 00:25:50,010
+{\fnSTXihei\fs20\1c&HC0C0C0&}其中就包括塔利亚之树{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}including Thalia's tree.{\r}
+
+321
+00:25:50,200 --> 00:25:53,340
+{\fnSTXihei\fs20\1c&HC0C0C0&}治好了树的话  我们的壁障也能够恢复{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We heal the tree, we restore the barrier around camp.{\r}
+
+322
+00:25:54,300 --> 00:25:56,720
+{\fnSTXihei\fs20\1c&HC0C0C0&}我很惊讶你居然想跟她一起去  安德雪特（衬衣）先生{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm surprised you want to go along with her on this, Mr. Undershirt.{\r}
+
+323
+00:25:56,800 --> 00:25:57,780
+{\fnSTXihei\fs20\1c&HC0C0C0&}是安德伍德{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Underwood.{\r}
+
+324
+00:25:57,870 --> 00:25:59,010
+{\fnSTXihei\fs20\1c&HC0C0C0&}随便啦{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Whatever.{\r}
+
+325
+00:25:59,440 --> 00:26:02,860
+{\fnSTXihei\fs20\1c&HC0C0C0&}去寻找金羊毛的羊男没一个能活命的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Every satyr who has ever gone after the Fleece has died.{\r}
+
+326
+00:26:03,040 --> 00:26:05,530
+{\fnSTXihei\fs20\1c&HC0C0C0&}对吧  我早就跟她说过了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Right? I mentioned that to her.{\r}
+
+327
+00:26:06,350 --> 00:26:10,160
+{\fnSTXihei\fs20\1c&HC0C0C0&}但为了混血营  我甘愿冒险{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}But it's a risk I'm willing to take for the good of the camp.{\r}
+
+328
+00:26:10,850 --> 00:26:13,160
+{\fnSTXihei\fs20\1c&HC0C0C0&}听着  我最后一次听说{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Look, the last I heard...{\r}
+
+329
+00:26:13,350 --> 00:26:16,030
+{\fnSTXihei\fs20\1c&HC0C0C0&}金羊毛时  它在魔兽之海{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}the Golden Fleece was in the Sea of Monsters...{\r}
+
+330
+00:26:16,120 --> 00:26:18,200
+{\fnSTXihei\fs20\1c&HC0C0C0&}凡人将其称之为百慕大三角{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}what the humans call the Bermuda Triangle.{\r}
+
+331
+00:26:18,290 --> 00:26:20,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}那是个不仅是羊男该害怕的地方{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}A place not only a satyr should be afraid of.{\r}
+
+332
+00:26:20,790 --> 00:26:24,540
+{\fnSTXihei\fs20\1c&HC0C0C0&}所以我的答复是“不行” 绝对不行  抱歉  安娜贝儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}So, the answer is no. No. I'm sorry, Annabelle.{\r}
+
+333
+00:26:24,660 --> 00:26:25,640
+{\fnSTXihei\fs20\1c&HC0C0C0&}是安娜贝丝{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Annabeth.{\r}
+
+334
+00:26:25,730 --> 00:26:28,810
+{\fnSTXihei\fs20\1c&HC0C0C0&}管它呢  这主意烂透了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Whatever. it's a terrible idea.{\r}
+
+335
+00:26:29,000 --> 00:26:31,450
+{\fnSTXihei\fs20\1c&HC0C0C0&}我有个很棒的主意{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I've had a grand idea.{\r}
+
+336
+00:26:33,310 --> 00:26:35,720
+{\fnSTXihei\fs20\1c&HC0C0C0&}除非塔利亚之树能被治好{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Unless Thalia's tree can be cured...{\r}
+
+337
+00:26:35,910 --> 00:26:40,060
+{\fnSTXihei\fs20\1c&HC0C0C0&}营区的壁障能被恢复{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}and the protective barrier around our camp restored...{\r}
+
+338
+00:26:40,250 --> 00:26:43,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}否则每个半人半神  半人马  羊男  还有宁芙{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}then every demigod, centaur, satyr and nymph...{\r}
+
+339
+00:26:44,420 --> 00:26:46,800
+{\fnSTXihei\fs20\1c&HC0C0C0&}都会在数日内被杀死  甚至会更快{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}will be killed within days, if not sooner.{\r}
+
+340
+00:26:46,890 --> 00:26:48,560
+{\fnSTXihei\fs20\1c&HC0C0C0&}你还好吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey, you okay?{\r}
+
+341
+00:26:49,220 --> 00:26:51,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}别担心  混血营不会有事的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Don't worry, camp will be okay.{\r}
+
+342
+00:26:52,330 --> 00:26:54,170
+{\fnSTXihei\fs20\1c&HC0C0C0&}你得有信心  好吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You have to have faith, right?{\r}
+
+343
+00:26:54,260 --> 00:26:56,870
+{\fnSTXihei\fs20\1c&HC0C0C0&}幸好  我已经考虑过这件事了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}But fortunately, I have considered the matter.{\r}
+
+344
+00:26:57,670 --> 00:26:58,640
+{\fnSTXihei\fs20\1c&HC0C0C0&}在经过非常努力的钻研之后{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And after great study...{\r}
+
+345
+00:26:58,730 --> 00:27:02,080
+{\fnSTXihei\fs20\1c&HC0C0C0&}我发现了唯一能够解救塔利亚之树{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I have determined that the only thing that has the power to save Thalia's tree...{\r}
+
+346
+00:27:02,170 --> 00:27:03,880
+{\fnSTXihei\fs20\1c&HC0C0C0&}从而解救我们家园的方法{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}and therefore our home...{\r}
+
+347
+00:27:04,000 --> 00:27:06,010
+{\fnSTXihei\fs20\1c&HC0C0C0&}就是是传说中的金羊毛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}is the Golden Fleece of myth...{\r}
+
+348
+00:27:08,410 --> 00:27:09,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}什么{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What?{\r}
+
+349
+00:27:10,240 --> 00:27:11,520
+{\fnSTXihei\fs20\1c&HC0C0C0&}只要它轻轻一碰{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}...whose touch...{\r}
+
+350
+00:27:14,580 --> 00:27:17,570
+{\fnSTXihei\fs20\1c&HC0C0C0&}所以的生物都能顷刻被治愈{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}...can heal every person and every thing.{\r}
+
+351
+00:27:19,120 --> 00:27:23,160
+{\fnSTXihei\fs20\1c&HC0C0C0&}所以  我们来一场仁慈的任务  当然前提是你们自愿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}So, a quest, a mission of mercy, if you will...{\r}
+
+352
+00:27:23,360 --> 00:27:25,770
+{\fnSTXihei\fs20\1c&HC0C0C0&}进入未知而致命的水域{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}into uncharted and deadly waters...{\r}
+
+353
+00:27:26,160 --> 00:27:29,200
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们的生存就是最大的赌注{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}with nothing less at stake than our own survival.{\r}
+
+354
+00:27:29,830 --> 00:27:35,480
+{\fnSTXihei\fs20\1c&HC0C0C0&}众所周知  羊男会自然受到金羊毛力量的吸引{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Now, a satyr is naturally drawn, as you know, to the power of the Fleece.{\r}
+
+355
+00:27:35,670 --> 00:27:39,750
+{\fnSTXihei\fs20\1c&HC0C0C0&}因此  这场任务一定要由一个羊男来指引混血儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And therefore, it must be a satyr who will guide a half-blood on this quest.{\r}
+
+356
+00:27:40,110 --> 00:27:41,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}真是感激不尽啊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thanks a lot.{\r}
+
+357
+00:27:42,240 --> 00:27:43,310
+{\fnSTXihei\fs20\1c&HC0C0C0&}伊克那提{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Ichneutae!{\r}
+
+358
+00:27:43,910 --> 00:27:45,920
+{\fnSTXihei\fs20\1c&HC0C0C0&}你愿意指引我们的勇士吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Will you guide the champion?{\r}
+
+359
+00:27:46,110 --> 00:27:47,790
+{\fnSTXihei\fs20\1c&HC0C0C0&}当然行{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Oh, yeah.{\r}
+
+360
+00:27:47,980 --> 00:27:50,800
+{\fnSTXihei\fs20\1c&HC0C0C0&}很好  非常好  太棒了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Good. Great! That's great!{\r}
+
+361
+00:27:52,190 --> 00:27:53,170
+{\fnSTXihei\fs20\1c&HC0C0C0&}好~{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah!{\r}
+
+362
+00:27:56,160 --> 00:28:01,170
+{\fnSTXihei\fs20\1c&HC0C0C0&}至于勇士  在这困境中当然需要最厉害的英雄{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}As to who that champion might be, our plight calls for only our finest hero.{\r}
+
+363
+00:28:01,830 --> 00:28:06,080
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们当中最优秀  最坚强同时也是最勇敢之人{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The best of us, the strongest and the bravest.{\r}
+
+364
+00:28:06,270 --> 00:28:09,740
+{\fnSTXihei\fs20\1c&HC0C0C0&}战神的后裔{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The scion of the god of war...{\r}
+
+365
+00:28:09,940 --> 00:28:10,940
+{\fnSTXihei\fs20\1c&HC0C0C0&}克拉丽丝{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Clarissa!{\r}
+
+366
+00:28:11,570 --> 00:28:12,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}太好了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yes!{\r}
+
+367
+00:28:16,310 --> 00:28:17,380
+{\fnSTXihei\fs20\1c&HC0C0C0&}多谢大家{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thank you.{\r}
+
+368
+00:28:19,010 --> 00:28:20,690
+{\fnSTXihei\fs20\1c&HC0C0C0&}她的名字他倒是没念错{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Her name, he gets right.{\r}
+
+369
+00:28:25,320 --> 00:28:27,430
+{\fnSTXihei\fs20\1c&HC0C0C0&}嘿  克拉丽丝  克拉丽丝{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey, Clarissa. Clarissa!{\r}
+
+370
+00:28:27,620 --> 00:28:28,600
+{\fnSTXihei\fs20\1c&HC0C0C0&}干嘛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What?{\r}
+
+371
+00:28:29,430 --> 00:28:31,840
+{\fnSTXihei\fs20\1c&HC0C0C0&}你别老是杞人忧天  杰克逊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Don't worry about always coming in second, Jackson.{\r}
+
+372
+00:28:31,930 --> 00:28:33,500
+{\fnSTXihei\fs20\1c&HC0C0C0&}会养成习惯的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You do get used to it.{\r}
+
+373
+00:28:33,600 --> 00:28:35,600
+{\fnSTXihei\fs20\1c&HC0C0C0&}对吧  很明显我是不会知道啦{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I think, right? Obviously, I wouldn't know.{\r}
+
+374
+00:28:35,700 --> 00:28:36,910
+{\fnSTXihei\fs20\1c&HC0C0C0&}听我说  卢克还在外面{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Listen, Luke is still out there.{\r}
+
+375
+00:28:37,000 --> 00:28:39,380
+{\fnSTXihei\fs20\1c&HC0C0C0&}不知怎么回事  他也卷进金羊毛的事了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}He's involved with the Fleece somehow...{\r}
+
+376
+00:28:39,700 --> 00:28:42,240
+{\fnSTXihei\fs20\1c&HC0C0C0&}我有预感他绝对不会罢手{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}and I've got a feeling that he's not done yet.{\r}
+
+377
+00:28:42,340 --> 00:28:43,320
+{\fnSTXihei\fs20\1c&HC0C0C0&}是吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Really?{\r}
+
+378
+00:28:43,470 --> 00:28:46,180
+{\fnSTXihei\fs20\1c&HC0C0C0&}因为我可是觉得我貌似一点也不关心{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Because I've got a feeling that I don't really care.{\r}
+
+379
+00:28:46,280 --> 00:28:48,090
+{\fnSTXihei\fs20\1c&HC0C0C0&}天呐  别总装出一副受伤的模样{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Gosh, don't look so wounded.{\r}
+
+380
+00:28:49,310 --> 00:28:51,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}听着  有的人生来就是将军命  而某些人只有一辈子当小卒的份{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Listen, there are generals, and there are foot soldiers.{\r}
+
+381
+00:28:51,680 --> 00:28:54,860
+{\fnSTXihei\fs20\1c&HC0C0C0&}你能进得了军队就已经是万幸了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And you should feel lucky that you even made it into the army at all.{\r}
+
+382
+00:28:54,950 --> 00:28:58,490
+{\fnSTXihei\fs20\1c&HC0C0C0&}别在我不在的时候添乱子就行  好吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Just try not to screw up anything too badly while I'm gone. Okay?{\r}
+
+383
+00:28:59,690 --> 00:29:00,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}走吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Let's go.{\r}
+
+384
+00:29:10,500 --> 00:29:13,180
+{\fnSTXihei\fs20\1c&HC0C0C0&}“诅咒之剑将会夺取”{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}"Cursed blade shall reap."{\r}
+
+385
+00:29:14,800 --> 00:29:16,880
+{\fnSTXihei\fs20\1c&HC0C0C0&}“诅咒之剑将会夺取”{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}"Cursed blade shall reap."{\r}
+
+386
+00:29:18,210 --> 00:29:21,990
+{\fnSTXihei\fs20\1c&HC0C0C0&}预言要是让人搞不懂的话还有什么用{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What good is a prophecy if you can't even understand it?{\r}
+
+387
+00:29:25,310 --> 00:29:28,160
+{\fnSTXihei\fs20\1c&HC0C0C0&}我猜你肯定也没有答案  老爸{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I guess you don't have any answers either, Dad.{\r}
+
+388
+00:29:29,650 --> 00:29:31,290
+{\fnSTXihei\fs20\1c&HC0C0C0&}这是你的剑{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}This was your sword.{\r}
+
+389
+00:29:43,670 --> 00:29:44,650
+{\fnSTXihei\fs20\1c&HC0C0C0&}这主意烂透了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}This is a bad idea.{\r}
+
+390
+00:29:44,730 --> 00:29:46,010
+{\fnSTXihei\fs20\1c&HC0C0C0&}你都不知道我到底要说什么{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You don't even know what I was gonna say.{\r}
+
+391
+00:29:46,100 --> 00:29:48,610
+{\fnSTXihei\fs20\1c&HC0C0C0&}你肯定要说你要去找金羊毛来解救混血营{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You were going to say that you're going after the Fleece to save the camp.{\r}
+
+392
+00:29:48,710 --> 00:29:51,190
+{\fnSTXihei\fs20\1c&HC0C0C0&}事实上  他是要说“我们”一起去找金羊毛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Actually, he was gonna say "we" were.{\r}
+
+393
+00:29:52,380 --> 00:29:54,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}听着  我知道你到底要干嘛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Look, I get what you're doing here.{\r}
+
+394
+00:29:54,740 --> 00:29:56,280
+{\fnSTXihei\fs20\1c&HC0C0C0&}你在担心你你首战告捷是侥幸的事儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You're worried about the one-quest wonder thing...{\r}
+
+395
+00:29:56,380 --> 00:29:58,090
+{\fnSTXihei\fs20\1c&HC0C0C0&}你想证明自己的实力{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}and you want to make your bones.{\r}
+
+396
+00:29:58,180 --> 00:30:00,320
+{\fnSTXihei\fs20\1c&HC0C0C0&}可是伊克那提跟克拉丽丝已经出发去找金羊毛了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}But lchneutae and Clarisse are already going after the Fleece...{\r}
+
+397
+00:30:00,420 --> 00:30:02,800
+{\fnSTXihei\fs20\1c&HC0C0C0&}扰乱别人的任务可不是君子所为{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}and it's not cool to bogart on someone else's quest.{\r}
+
+398
+00:30:02,890 --> 00:30:04,660
+{\fnSTXihei\fs20\1c&HC0C0C0&}我认为这也是我的任务{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I think this is my quest, too.{\r}
+
+399
+00:30:04,750 --> 00:30:06,530
+{\fnSTXihei\fs20\1c&HC0C0C0&}神谕说他跟卢克要竞争金羊毛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The Oracle says he wrestles Luke for the Fleece.{\r}
+
+400
+00:30:06,620 --> 00:30:09,900
+{\fnSTXihei\fs20\1c&HC0C0C0&}是争夺  而且她还说{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}"Grapples." But she also said...{\r}
+
+401
+00:30:10,960 --> 00:30:14,070
+{\fnSTXihei\fs20\1c&HC0C0C0&}我注定了要么摧毁奥林匹斯  要么拯救它{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}that I'm destined to destroy Olympus, or save it.{\r}
+
+402
+00:30:17,270 --> 00:30:19,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}显然拯救更好咯{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Saving is better, obviously.{\r}
+
+403
+00:30:19,740 --> 00:30:21,150
+{\fnSTXihei\fs20\1c&HC0C0C0&}对啊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah.{\r}
+
+404
+00:30:22,070 --> 00:30:25,520
+{\fnSTXihei\fs20\1c&HC0C0C0&}让我收拾下行李  在确定下我买好保险没有{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Let me pack a bag and make sure my health insurance is paid up.{\r}
+
+405
+00:30:41,290 --> 00:30:43,270
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们要怎么绕过他们而不被发现{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}How are we gonna get past them?{\r}
+
+406
+00:30:43,460 --> 00:30:45,370
+{\fnSTXihei\fs20\1c&HC0C0C0&}我想他们要找的是想进来的威胁{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I think they're looking for threats trying to come in...{\r}
+
+407
+00:30:45,460 --> 00:30:47,840
+{\fnSTXihei\fs20\1c&HC0C0C0&}而不是想溜出去的家伙{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}not people trying to sneak out...{\r}
+
+408
+00:30:48,030 --> 00:30:50,740
+{\fnSTXihei\fs20\1c&HC0C0C0&}所以我们只要行事轻一点就行了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}so, I think we're cool as long as we stay quiet.{\r}
+
+409
+00:30:53,070 --> 00:30:54,050
+{\fnSTXihei\fs20\1c&HC0C0C0&}抱歉{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Sorry!{\r}
+
+410
+00:30:58,410 --> 00:30:59,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We're...{\r}
+
+411
+00:31:00,810 --> 00:31:02,420
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们也在看守{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We're guarding, too.{\r}
+
+412
+00:31:03,810 --> 00:31:04,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们丢下我就跑了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You left without me.{\r}
+
+413
+00:31:04,980 --> 00:31:07,730
+{\fnSTXihei\fs20\1c&HC0C0C0&}泰森  我们要去的地方十分危险{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Tyson, where we're going, it's very dangerous.{\r}
+
+414
+00:31:07,920 --> 00:31:09,300
+{\fnSTXihei\fs20\1c&HC0C0C0&}我知道   我又不笨{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I know. I'm not stupid.{\r}
+
+415
+00:31:09,390 --> 00:31:10,700
+{\fnSTXihei\fs20\1c&HC0C0C0&}对  你只是蠢而已{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No,just dumb.{\r}
+
+416
+00:31:10,990 --> 00:31:12,300
+{\fnSTXihei\fs20\1c&HC0C0C0&}我想帮忙{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I want to help.{\r}
+
+417
+00:31:13,790 --> 00:31:15,240
+{\fnSTXihei\fs20\1c&HC0C0C0&}换做你的话你也会帮我的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You'd do it for me.{\r}
+
+418
+00:31:15,430 --> 00:31:16,930
+{\fnSTXihei\fs20\1c&HC0C0C0&}我很感激你...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I appreciate that...{\r}
+
+419
+00:31:17,130 --> 00:31:20,980
+{\fnSTXihei\fs20\1c&HC0C0C0&}但我觉得你不了解其中的危险性{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}but I don't think you understand exactly how dangerous this is going to be.{\r}
+
+420
+00:31:21,070 --> 00:31:22,200
+{\fnSTXihei\fs20\1c&HC0C0C0&}我了解{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I do.{\r}
+
+421
+00:31:22,400 --> 00:31:24,580
+{\fnSTXihei\fs20\1c&HC0C0C0&}金羊毛被波吕斐摩斯（独眼巨人）看守着{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The Fleece is guarded by Polyphemus.{\r}
+
+422
+00:31:24,870 --> 00:31:25,850
+{\fnSTXihei\fs20\1c&HC0C0C0&}你说谁{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Who?{\r}
+
+423
+00:31:25,940 --> 00:31:27,080
+{\fnSTXihei\fs20\1c&HC0C0C0&}波吕斐摩斯{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Polyphemus.{\r}
+
+424
+00:31:27,270 --> 00:31:29,910
+{\fnSTXihei\fs20\1c&HC0C0C0&}他算是比较知名的独眼巨人了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Closest thing Cyclopes have got to someone famous.{\r}
+
+425
+00:31:30,010 --> 00:31:33,290
+{\fnSTXihei\fs20\1c&HC0C0C0&}他抓走过奥德修斯（《奥德赛》一书中主角） 住在赛西兰{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Captured Odysseus. Lives in Circeland.{\r}
+
+426
+00:31:33,480 --> 00:31:34,960
+{\fnSTXihei\fs20\1c&HC0C0C0&}等等  赛西兰吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Wait, Circeland?{\r}
+
+427
+00:31:35,150 --> 00:31:36,560
+{\fnSTXihei\fs20\1c&HC0C0C0&}就修在他的岛上{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Built on his island.{\r}
+
+428
+00:31:36,650 --> 00:31:38,060
+{\fnSTXihei\fs20\1c&HC0C0C0&}说来话长了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Long story.{\r}
+
+429
+00:31:38,250 --> 00:31:40,420
+{\fnSTXihei\fs20\1c&HC0C0C0&}关键是  我说不定能跟他沟通沟通{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Point is, maybe I can talk to him.{\r}
+
+430
+00:31:40,620 --> 00:31:42,600
+{\fnSTXihei\fs20\1c&HC0C0C0&}就独眼巨人间的对话{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You know, Cyclops to Cyclops.{\r}
+
+431
+00:31:42,790 --> 00:31:45,670
+{\fnSTXihei\fs20\1c&HC0C0C0&}不行  因为我不想跟独眼巨人一起去{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No, you can't, because I'm not going with a Cyclops.{\r}
+
+432
+00:31:47,190 --> 00:31:50,330
+{\fnSTXihei\fs20\1c&HC0C0C0&}那就难办了  要是没有独眼巨人我也不去{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Then we got a problem, because I'm not going without one.{\r}
+
+433
+00:31:50,660 --> 00:31:54,880
+{\fnSTXihei\fs20\1c&HC0C0C0&}波吕斐摩斯杀死了近乎所有接近金羊毛的羊男{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}This Polyphemus is probably what killed every satyr that's gone near the Fleece.{\r}
+
+434
+00:31:54,970 --> 00:31:56,910
+{\fnSTXihei\fs20\1c&HC0C0C0&}你要我带你去找一个独眼巨人  这没问题{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You want me to lead you to a Cyclops? Fine.{\r}
+
+435
+00:31:57,000 --> 00:32:00,280
+{\fnSTXihei\fs20\1c&HC0C0C0&}但我得自己多带一个人作保护{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}But I'm bringing along one of my own, for protection.{\r}
+
+436
+00:32:00,970 --> 00:32:02,180
+{\fnSTXihei\fs20\1c&HC0C0C0&}门都没有{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No way.{\r}
+
+437
+00:32:02,870 --> 00:32:03,850
+{\fnSTXihei\fs20\1c&HC0C0C0&}不行{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No.{\r}
+
+438
+00:32:11,620 --> 00:32:13,560
+{\fnSTXihei\fs20\1c&HC0C0C0&}你觉得哪个会更引人注意{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What do you think's gonna attract more attention...{\r}
+
+439
+00:32:13,650 --> 00:32:15,190
+{\fnSTXihei\fs20\1c&HC0C0C0&}是噪音还是独眼{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}all the noise or the one eye?{\r}
+
+440
+00:32:15,290 --> 00:32:17,270
+{\fnSTXihei\fs20\1c&HC0C0C0&}放过他吧  好吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Just give the guy a break, okay?{\r}
+
+441
+00:32:18,890 --> 00:32:19,960
+{\fnSTXihei\fs20\1c&HC0C0C0&}好吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Okay, fine.{\r}
+
+442
+00:32:20,060 --> 00:32:21,060
+{\fnSTXihei\fs20\1c&HC0C0C0&}小声一点{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Keep it down.{\r}
+
+443
+00:32:21,160 --> 00:32:23,370
+{\fnSTXihei\fs20\1c&HC0C0C0&}这玩意儿超难搞到的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}This is crazy hard to come by...{\r}
+
+444
+00:32:23,560 --> 00:32:25,540
+{\fnSTXihei\fs20\1c&HC0C0C0&}我可是为了以防紧急状况才带来的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}and I only brought it along in case of an emergency...{\r}
+
+445
+00:32:25,630 --> 00:32:29,880
+{\fnSTXihei\fs20\1c&HC0C0C0&}我想这就是所谓的紧急状况  所以... 这个给你{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}which I guess this is an emergency, so... here.{\r}
+
+446
+00:32:32,470 --> 00:32:33,510
+{\fnSTXihei\fs20\1c&HC0C0C0&}喷雾{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Mist?{\r}
+
+447
+00:32:33,710 --> 00:32:35,740
+{\fnSTXihei\fs20\1c&HC0C0C0&}它可以让你这样的家伙看起来正常点{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It makes the mystical look normal.{\r}
+
+448
+00:32:35,840 --> 00:32:37,480
+{\fnSTXihei\fs20\1c&HC0C0C0&}“副作用可能包括英俊  头痛”{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}"Side effects may include handsomeness,{\r}
+
+449
+00:32:37,580 --> 00:32:39,960
+{\fnSTXihei\fs20\1c&HC0C0C0&}“有自尊心跟自尊低落”{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}headache, self-esteem and low self-esteem."{\r}
+
+450
+00:32:40,050 --> 00:32:41,960
+{\fnSTXihei\fs20\1c&HC0C0C0&}你要知道要不是混血营有危险{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And just know that if the camp wasn't in danger...{\r}
+
+451
+00:32:42,050 --> 00:32:43,390
+{\fnSTXihei\fs20\1c&HC0C0C0&}我才不会浪费在你身上{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I wouldn't be wasting this on you.{\r}
+
+452
+00:32:43,480 --> 00:32:44,860
+{\fnSTXihei\fs20\1c&HC0C0C0&}浪费什么{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Wasting what?{\r}
+
+453
+00:32:46,990 --> 00:32:50,330
+{\fnSTXihei\fs20\1c&HC0C0C0&}效果不怎么持久  所以你得随时准备好再喷{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's not gonna last forever. You're gonna have to reapply it.{\r}
+
+454
+00:32:59,160 --> 00:33:00,770
+{\fnSTXihei\fs20\1c&HC0C0C0&}彻底改头换面了哦{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Extreme makeover alert.{\r}
+
+455
+00:33:04,300 --> 00:33:05,610
+{\fnSTXihei\fs20\1c&HC0C0C0&}我看起来如何{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}How do I look?{\r}
+
+456
+00:33:06,810 --> 00:33:09,350
+{\fnSTXihei\fs20\1c&HC0C0C0&}长得还真跟老爸就几分像{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}A bit like Dad, actually.{\r}
+
+457
+00:33:09,540 --> 00:33:11,520
+{\fnSTXihei\fs20\1c&HC0C0C0&}他仍然还是个独眼巨人{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}He's still a Cyclops.{\r}
+
+458
+00:33:12,950 --> 00:33:16,420
+{\fnSTXihei\fs20\1c&HC0C0C0&}格罗弗  我们要往哪走  你闻到什么了吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Grover, where are we going? What does your nose say?{\r}
+
+459
+00:33:17,320 --> 00:33:20,030
+{\fnSTXihei\fs20\1c&HC0C0C0&}佛罗里达沿岸某处  朝南走{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Somewhere off the coast of Florida. South.{\r}
+
+460
+00:33:22,120 --> 00:33:23,260
+{\fnSTXihei\fs20\1c&HC0C0C0&}在这里{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Over here.{\r}
+
+461
+00:33:23,460 --> 00:33:24,900
+{\fnSTXihei\fs20\1c&HC0C0C0&}安妮  嘿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Annie! Hey!{\r}
+
+462
+00:33:38,870 --> 00:33:40,940
+{\fnSTXihei\fs20\1c&HC0C0C0&}这是地狱战车{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's the Chariot of Damnation.{\r}
+
+463
+00:33:41,140 --> 00:33:43,250
+{\fnSTXihei\fs20\1c&HC0C0C0&}看来像纽约的出租车{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Looks like a New York City cab.{\r}
+
+464
+00:33:43,440 --> 00:33:44,790
+{\fnSTXihei\fs20\1c&HC0C0C0&}确实没什么区别{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Same difference.{\r}
+
+465
+00:33:46,910 --> 00:33:49,790
+{\fnSTXihei\fs20\1c&HC0C0C0&}不收现金  不收信用卡  只接受德拉克马（古希腊银币名）{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No dollars, no credit cards. Drachmas only.{\r}
+
+466
+00:33:49,980 --> 00:33:51,760
+{\fnSTXihei\fs20\1c&HC0C0C0&}准备好零钱{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Exact... Change... Please.{\r}
+
+467
+00:33:51,950 --> 00:33:53,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}快点  快递  快上车{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Chop, chop! Get in the cab.{\r}
+
+468
+00:33:53,690 --> 00:33:56,570
+{\fnSTXihei\fs20\1c&HC0C0C0&}为了保护乘客的健康  车子消毒过了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We just had this cab sanitized for your protection.{\r}
+
+469
+00:33:56,760 --> 00:33:58,070
+{\fnSTXihei\fs20\1c&HC0C0C0&}不过不是今年做的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It wasn't this year, though.{\r}
+
+470
+00:33:58,160 --> 00:34:00,610
+{\fnSTXihei\fs20\1c&HC0C0C0&}不好意思  我们想去佛罗里达{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Excuse me, we're trying to get to Florida.{\r}
+
+471
+00:34:00,960 --> 00:34:03,410
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们就喜欢这种路费  有赚头{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Our kind of fare. Pricey.{\r}
+
+472
+00:34:08,300 --> 00:34:11,080
+{\fnSTXihei\fs20\1c&HC0C0C0&}大家好  我是该尼墨德  宙斯的司酒人{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey, there. This is Ganymede, cupbearer to Zeus.{\r}
+
+473
+00:34:11,270 --> 00:34:13,620
+{\fnSTXihei\fs20\1c&HC0C0C0&}每当我出门替天神买酒时{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And when I'm out buying wine for the lord of the skies...{\r}
+
+474
+00:34:13,710 --> 00:34:15,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}一定会记得系好安全带{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I always remember to buckle up.{\r}
+
+475
+00:34:15,680 --> 00:34:17,950
+{\fnSTXihei\fs20\1c&HC0C0C0&}或许我们应该搭飞机去{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Maybe we should have flown commercial.{\r}
+
+476
+00:34:20,380 --> 00:34:21,450
+{\fnSTXihei\fs20\1c&HC0C0C0&}小心{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Look out!{\r}
+
+477
+00:34:24,550 --> 00:34:26,730
+{\fnSTXihei\fs20\1c&HC0C0C0&}冷静点  要是我们不清楚自己在做什么{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Calm down. If we didn't know what we were doing...{\r}
+
+478
+00:34:26,820 --> 00:34:28,460
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们就拿不到驾照的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We wouldn't be licensed.{\r}
+
+479
+00:34:31,390 --> 00:34:32,900
+{\fnSTXihei\fs20\1c&HC0C0C0&}她们没有眼睛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}They don't have eyes.{\r}
+
+480
+00:34:33,890 --> 00:34:35,140
+{\fnSTXihei\fs20\1c&HC0C0C0&}对啊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah.{\r}
+
+481
+00:34:36,760 --> 00:34:38,840
+{\fnSTXihei\fs20\1c&HC0C0C0&}我知道  照片拍得很丑  头发也很丑{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I know, awful picture. Bad hair day.{\r}
+
+482
+00:34:38,930 --> 00:34:40,280
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们三人其实是有一只眼睛的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We do so have an eye.{\r}
+
+483
+00:34:40,370 --> 00:34:42,040
+{\fnSTXihei\fs20\1c&HC0C0C0&}肯定就在这儿附近{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's around here somewhere.{\r}
+
+484
+00:34:42,140 --> 00:34:44,780
+{\fnSTXihei\fs20\1c&HC0C0C0&}我最后一次看到时  你放在杂物箱里  愤怒婆{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The last time I saw it, you put it in the glove compartment, Anger.{\r}
+
+485
+00:34:44,910 --> 00:34:46,320
+{\fnSTXihei\fs20\1c&HC0C0C0&}不许用那种口气叫我名字{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Don't use that tone with my name.{\r}
+
+486
+00:34:46,410 --> 00:34:48,180
+{\fnSTXihei\fs20\1c&HC0C0C0&}这次她没放在那儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's not there this time.{\r}
+
+487
+00:34:50,580 --> 00:34:52,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}胡蜂婆总爱把眼睛跟钥匙摆在一起{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Wasp always puts it with the keys.{\r}
+
+488
+00:34:53,550 --> 00:34:56,260
+{\fnSTXihei\fs20\1c&HC0C0C0&}- 这只眼睛视力可是达到2.0呢  - 我的也是{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}- And it's 20,20. - So is mine!{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}买高清电影、电视剧我只到CSHD（超神高清）{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}＝＝＝＝全球高清第①家＝＝＝＝{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}目录下载：http://13811115888.ys168.com{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}QQ：56491534  手机：13811115888{\r}
+
+489
+00:34:56,450 --> 00:34:58,520
+{\fnSTXihei\fs20\1c&HC0C0C0&}眼睛难道不该给开车的人吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Shouldn't the driver get the eye?{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}买高清电影、电视剧我只到CSHD（超神高清）{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}＝＝＝＝全球高清第①家＝＝＝＝{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}目录下载：http://13811115888.ys168.com{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}QQ：56491534  手机：13811115888{\r}
+
+490
+00:34:59,520 --> 00:35:01,260
+{\fnSTXihei\fs20\1c&HC0C0C0&}她用不着啦{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}She'll be fine.{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}买高清电影、电视剧我只到CSHD（超神高清）{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}＝＝＝＝全球高清第①家＝＝＝＝{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}目录下载：http://13811115888.ys168.com{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}QQ：56491534  手机：13811115888{\r}
+
+491
+00:35:05,530 --> 00:35:06,900
+{\fnSTXihei\fs20\1c&HC0C0C0&}暴风婆  快把车分开{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Tempest, split!{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}买高清电影、电视剧我只到CSHD（超神高清）{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}＝＝＝＝全球高清第①家＝＝＝＝{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}目录下载：http://13811115888.ys168.com{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}QQ：56491534  手机：13811115888{\r}
+
+492
+00:35:12,870 --> 00:35:13,850
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Percy!{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}买高清电影、电视剧我只到CSHD（超神高清）{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}＝＝＝＝全球高清第①家＝＝＝＝{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}目录下载：http://13811115888.ys168.com{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}QQ：56491534  手机：13811115888{\r}
+
+493
+00:35:16,740 --> 00:35:18,650
+{\fnSTXihei\fs20\1c&HC0C0C0&}这个功能可是可是需要多付费的哦{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We paid extra for that option.{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}买高清电影、电视剧我只到CSHD（超神高清）{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}＝＝＝＝全球高清第①家＝＝＝＝{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}目录下载：http://13811115888.ys168.com{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}QQ：56491534  手机：13811115888{\r}
+
+494
+00:35:23,240 --> 00:35:25,850
+{\fnSTXihei\fs20\1c&HC0C0C0&}那小子说的对  眼睛应该交给司机才对{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The kid is right. The driver should have the eyeball.{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}买高清电影、电视剧我只到CSHD（超神高清）{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}＝＝＝＝全球高清第①家＝＝＝＝{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}目录下载：http://13811115888.ys168.com{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}QQ：56491534  手机：13811115888{\r}
+
+495
+00:35:25,950 --> 00:35:27,150
+{\fnSTXihei\fs20\1c&HC0C0C0&}他真他娘的是个天才{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}He's a freaking genius!{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}买高清电影、电视剧我只到CSHD（超神高清）{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}＝＝＝＝全球高清第①家＝＝＝＝{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}目录下载：http://13811115888.ys168.com{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}QQ：56491534  手机：13811115888{\r}
+
+496
+00:35:27,250 --> 00:35:28,690
+{\fnSTXihei\fs20\1c&HC0C0C0&}把它塞进帽檐的人可是你{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You're the one that put it in the visor.{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}买高清电影、电视剧我只到CSHD（超神高清）{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}＝＝＝＝全球高清第①家＝＝＝＝{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}目录下载：http://13811115888.ys168.com{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}QQ：56491534  手机：13811115888{\r}
+
+497
+00:35:28,780 --> 00:35:32,320
+{\fnSTXihei\fs20\1c&HC0C0C0&}说到这  很久没轮到我戴眼睛了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}While it's on the table, I haven't had a turn in quite some time.{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}买高清电影、电视剧我只到CSHD（超神高清）{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}＝＝＝＝全球高清第①家＝＝＝＝{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}目录下载：http://13811115888.ys168.com{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}QQ：56491534  手机：13811115888{\r}
+
+498
+00:35:33,450 --> 00:35:35,200
+{\fnSTXihei\fs20\1c&HC0C0C0&}你故意的对吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Oh, no, you didn't!{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}买高清电影、电视剧我只到CSHD（超神高清）{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}＝＝＝＝全球高清第①家＝＝＝＝{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}目录下载：http://13811115888.ys168.com{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}QQ：56491534  手机：13811115888{\r}
+
+499
+00:35:35,390 --> 00:35:36,530
+{\fnSTXihei\fs20\1c&HC0C0C0&}对  我就故意的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yes, I did.{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}买高清电影、电视剧我只到CSHD（超神高清）{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}＝＝＝＝全球高清第①家＝＝＝＝{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}目录下载：http://13811115888.ys168.com{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}QQ：56491534  手机：13811115888{\r}
+
+500
+00:35:39,630 --> 00:35:41,200
+{\fnSTXihei\fs20\1c&HC0C0C0&}至少要扶着方向盘  好吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hands on the wheel at least, okay?{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}买高清电影、电视剧我只到CSHD（超神高清）{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}＝＝＝＝全球高清第①家＝＝＝＝{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}目录下载：http://13811115888.ys168.com{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}QQ：56491534  手机：13811115888{\r}
+
+501
+00:35:45,270 --> 00:35:46,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}- 我们全死定了  - 安静{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}- We're all gonna die! - Pipe down.{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}买高清电影、电视剧我只到CSHD（超神高清）{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}＝＝＝＝全球高清第①家＝＝＝＝{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}目录下载：http://13811115888.ys168.com{\r}
+{\fnSTXihei\fs20\1c&HC0C0C0&}QQ：56491534  手机：13811115888{\r}
+
+502
+00:35:46,800 --> 00:35:50,150
+{\fnSTXihei\fs20\1c&HC0C0C0&}预言不是说你至少会活到二十吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Didn't that prophecy say you're gonna make it till at least 20?{\r}
+
+
+503
+00:35:50,240 --> 00:35:51,310
+{\fnSTXihei\fs20\1c&HC0C0C0&}你知道预言的事{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You know about the prophecy?{\r}
+
+504
+00:35:51,410 --> 00:35:53,150
+{\fnSTXihei\fs20\1c&HC0C0C0&}当然  神谕是我们的朋友{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Sure. The Oracle is a friend.{\r}
+
+505
+00:35:53,240 --> 00:35:55,090
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们是死党  永远的好朋友{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We're besties. B-F-F!{\r}
+
+506
+00:35:56,710 --> 00:35:57,920
+{\fnSTXihei\fs20\1c&HC0C0C0&}眼睛  眼睛  眼睛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}EVE! Eye! Eye!{\r}
+
+507
+00:35:58,110 --> 00:35:59,990
+{\fnSTXihei\fs20\1c&HC0C0C0&}好恶心  快拿开{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Gross! Get it off me!{\r}
+
+508
+00:36:02,980 --> 00:36:05,160
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们对预言的事儿了解有多少{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What do you know about the prophecy?{\r}
+
+509
+00:36:07,160 --> 00:36:08,130
+{\fnSTXihei\fs20\1c&HC0C0C0&}不要{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No!{\r}
+
+510
+00:36:11,460 --> 00:36:12,570
+{\fnSTXihei\fs20\1c&HC0C0C0&}好吧  好吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Okay, okay.{\r}
+
+511
+00:36:13,860 --> 00:36:19,610
+{\fnSTXihei\fs20\1c&HC0C0C0&}三十  三十一  七十五  十二{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}30. 31, 75,12.{\r}
+
+512
+00:36:19,800 --> 00:36:20,780
+{\fnSTXihei\fs20\1c&HC0C0C0&}什么{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What?{\r}
+
+513
+00:36:22,070 --> 00:36:23,610
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西  你得到你想要的答案了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Percy, you got your answer!{\r}
+
+514
+00:36:23,710 --> 00:36:25,280
+{\fnSTXihei\fs20\1c&HC0C0C0&}我只听到一堆数字{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}All I got were numbers.{\r}
+
+515
+00:36:25,370 --> 00:36:26,820
+{\fnSTXihei\fs20\1c&HC0C0C0&}对  到时候{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yes. You'll know...{\r}
+
+516
+00:36:27,010 --> 00:36:28,650
+{\fnSTXihei\fs20\1c&HC0C0C0&}你自然会知道的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}When it matters.{\r}
+
+517
+00:36:31,850 --> 00:36:33,660
+{\fnSTXihei\fs20\1c&HC0C0C0&}我觉得我们的钱好像不太够诶{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I think we're a little short on drachmas.{\r}
+
+518
+00:36:33,750 --> 00:36:34,730
+{\fnSTXihei\fs20\1c&HC0C0C0&}什么{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What?{\r}
+
+519
+00:36:47,260 --> 00:36:48,670
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们认为我们做的是什么{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What do you... think we're... running here?{\r}
+
+520
+00:36:48,760 --> 00:36:49,670
+{\fnSTXihei\fs20\1c&HC0C0C0&}慈善吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}A charity?{\r}
+
+521
+00:36:49,770 --> 00:36:51,640
+{\fnSTXihei\fs20\1c&HC0C0C0&}给我下车{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Get your cheap butts... Out!{\r}
+
+522
+00:37:01,780 --> 00:37:02,850
+{\fnSTXihei\fs20\1c&HC0C0C0&}刚刚实在是太...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}That was...{\r}
+
+523
+00:37:03,050 --> 00:37:04,250
+{\fnSTXihei\fs20\1c&HC0C0C0&}我知道{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I know.{\r}
+
+524
+00:37:04,950 --> 00:37:07,730
+{\fnSTXihei\fs20\1c&HC0C0C0&}太赞了  我们能再坐一次吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Awesome! Can we go again?{\r}
+
+525
+00:37:07,920 --> 00:37:10,020
+{\fnSTXihei\fs20\1c&HC0C0C0&}这里绝对不是佛罗里达{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We're definitely not in Florida.{\r}
+
+526
+00:37:11,020 --> 00:37:13,560
+{\fnSTXihei\fs20\1c&HC0C0C0&}我觉得我们在奥林匹斯{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I think we're in Olympus.{\r}
+
+527
+00:37:14,220 --> 00:37:17,500
+{\fnSTXihei\fs20\1c&HC0C0C0&}向伟大的宙斯致敬  请原谅我们擅自闯入奥林匹斯{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hail to you, great Zeus! Forgive our trespass on Olympus.{\r}
+
+528
+00:37:17,690 --> 00:37:20,340
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们在找交通工具去佛罗里达{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We're seeking transport to Florida.{\r}
+
+529
+00:37:21,130 --> 00:37:22,110
+{\fnSTXihei\fs20\1c&HC0C0C0&}宙斯{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Zeus?{\r}
+
+530
+00:37:22,770 --> 00:37:23,740
+{\fnSTXihei\fs20\1c&HC0C0C0&}宙斯{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Zeus?{\r}
+
+531
+00:37:24,300 --> 00:37:25,280
+{\fnSTXihei\fs20\1c&HC0C0C0&}宙斯{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Zeus?{\r}
+
+532
+00:37:25,470 --> 00:37:28,480
+{\fnSTXihei\fs20\1c&HC0C0C0&}别喊了  快停下  这里不是奥林匹斯 好吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Whoa, stop it, stop it, stop it! This isn't Olympus, okay?{\r}
+
+533
+00:37:28,570 --> 00:37:30,210
+{\fnSTXihei\fs20\1c&HC0C0C0&}这是国会大厦{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}This is the Capitol building.{\r}
+
+534
+00:37:30,310 --> 00:37:33,120
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们在华盛顿呢  好吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We're in Washington, D.C. Okay?{\r}
+
+535
+00:37:35,380 --> 00:37:36,520
+{\fnSTXihei\fs20\1c&HC0C0C0&}看起来真像奥林匹斯{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It looks like Olympus.{\r}
+
+536
+00:37:36,610 --> 00:37:39,530
+{\fnSTXihei\fs20\1c&HC0C0C0&}这些有权有势的家伙也只关心自己而已{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Right down to the dudes with power who only care about themselves.{\r}
+
+537
+00:37:39,620 --> 00:37:41,490
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们得找个汽车站{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We need to find a bus station.{\r}
+
+538
+00:37:41,580 --> 00:37:43,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们还是先弄点钱吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}First we need to get some money.{\r}
+
+539
+00:37:48,820 --> 00:37:51,240
+{\fnSTXihei\fs20\1c&HC0C0C0&}你好  混血儿帐户贵宾{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey,there, valued half-blood account holder!{\r}
+
+540
+00:37:51,330 --> 00:37:54,330
+{\fnSTXihei\fs20\1c&HC0C0C0&}申请新的阿佛洛狄忒（美神）专用信用卡  你就能...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Sign up for our new Aphrodite Express credit card, and you can...{\r}
+
+541
+00:37:54,430 --> 00:37:58,470
+{\fnSTXihei\fs20\1c&HC0C0C0&}请给我四杯大拿铁  咖啡因减半  不加奶泡{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Can I get four venti half-caf no-whip lattes?{\r}
+
+542
+00:37:58,670 --> 00:38:01,410
+{\fnSTXihei\fs20\1c&HC0C0C0&}多加一份花蜜{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And an extra shot of nectar.{\r}
+
+543
+00:38:07,710 --> 00:38:08,690
+{\fnSTXihei\fs20\1c&HC0C0C0&}花蜜{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Nectar?{\r}
+
+544
+00:38:08,780 --> 00:38:11,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}你要是没试过这种喝法就算是妄在世上走一遭了  老兄{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}If you haven't had, then you haven't lived, buddy.{\r}
+
+545
+00:38:17,990 --> 00:38:19,630
+{\fnSTXihei\fs20\1c&HC0C0C0&}赫拉顿希尔{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hecatonshire.{\r}
+
+546
+00:38:19,820 --> 00:38:20,800
+{\fnSTXihei\fs20\1c&HC0C0C0&}嘿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey.{\r}
+
+547
+00:38:21,930 --> 00:38:24,070
+{\fnSTXihei\fs20\1c&HC0C0C0&}看得出你现在很忙{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I see you got your hands full.{\r}
+
+548
+00:38:26,860 --> 00:38:28,140
+{\fnSTXihei\fs20\1c&HC0C0C0&}加奶油吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Room for cream?{\r}
+
+549
+00:38:28,260 --> 00:38:31,340
+{\fnSTXihei\fs20\1c&HC0C0C0&}加花蜜  双份{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Nectar. Double shot.{\r}
+
+550
+00:38:39,840 --> 00:38:41,450
+{\fnSTXihei\fs20\1c&HC0C0C0&}这辈子值了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I've lived.{\r}
+
+551
+00:38:42,310 --> 00:38:44,730
+{\fnSTXihei\fs20\1c&HC0C0C0&}我从没这么开心过{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}This might be the most fun I've ever had.{\r}
+
+552
+00:38:44,920 --> 00:38:46,050
+{\fnSTXihei\fs20\1c&HC0C0C0&}从来没有{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Ever.{\r}
+
+553
+00:38:46,250 --> 00:38:49,790
+{\fnSTXihei\fs20\1c&HC0C0C0&}当然  怎么都比住在森林里好吧  对吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah, anything's gotta be better than living in the woods, right?{\r}
+
+554
+00:38:49,990 --> 00:38:52,470
+{\fnSTXihei\fs20\1c&HC0C0C0&}要是你也跟我一起的话都还好啦{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Living in the woods would have been fine if you were there.{\r}
+
+555
+00:38:52,560 --> 00:38:54,700
+{\fnSTXihei\fs20\1c&HC0C0C0&}有个兄弟什么事儿都好起来的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Everything's better with a brother.{\r}
+
+556
+00:38:55,630 --> 00:38:58,300
+{\fnSTXihei\fs20\1c&HC0C0C0&}严格说来  我们的妈妈不是同一人{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You know, technically, we don't have the same mom.{\r}
+
+557
+00:38:58,400 --> 00:39:01,970
+{\fnSTXihei\fs20\1c&HC0C0C0&}但我们却依然还是兄弟  这样多酷啊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}So we're still brothers! I know! How cool is that?{\r}
+
+558
+00:39:02,170 --> 00:39:03,540
+{\fnSTXihei\fs20\1c&HC0C0C0&}就跟北极一样{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Arctic.{\r}
+
+559
+00:39:05,300 --> 00:39:06,650
+{\fnSTXihei\fs20\1c&HC0C0C0&}你不觉得太甜了吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's too sweet, don't you think?{\r}
+
+560
+00:39:06,740 --> 00:39:09,050
+{\fnSTXihei\fs20\1c&HC0C0C0&}不会  花蜜永远都不嫌甜{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No, nectar's never too sweet.{\r}
+
+561
+00:39:13,640 --> 00:39:15,130
+{\fnSTXihei\fs20\1c&HC0C0C0&}放开我{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Get off me!{\r}
+
+562
+00:39:15,580 --> 00:39:17,390
+{\fnSTXihei\fs20\1c&HC0C0C0&}- 放开我  - 格罗弗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}- Get off me! - Grover!{\r}
+
+563
+00:39:28,660 --> 00:39:29,660
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Percy!{\r}
+
+564
+00:39:32,600 --> 00:39:34,700
+{\fnSTXihei\fs20\1c&HC0C0C0&}- 可恶  - 那是克里斯・罗德里格斯吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}- Damn! - Was that Chris Rodriguez?{\r}
+
+565
+00:39:34,900 --> 00:39:36,640
+{\fnSTXihei\fs20\1c&HC0C0C0&}他们怎么做到的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}How did they do that?{\r}
+
+566
+00:39:38,040 --> 00:39:41,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}在混血营里卢克曾经说过有其他混血儿叛变了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Back at camp, Luke said that there were other half-bloods who turned.{\r}
+
+567
+00:39:41,810 --> 00:39:43,580
+{\fnSTXihei\fs20\1c&HC0C0C0&}你说叛变是什么意思{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What do you mean, "turned"?{\r}
+
+568
+00:39:44,180 --> 00:39:45,780
+{\fnSTXihei\fs20\1c&HC0C0C0&}倒戈相向了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}To his side.{\r}
+
+569
+00:39:47,680 --> 00:39:48,990
+{\fnSTXihei\fs20\1c&HC0C0C0&}卢克现在手上有格罗弗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Luke has Grover.{\r}
+
+570
+00:39:50,210 --> 00:39:51,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}神谕是对的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The Oracle was right.{\r}
+
+571
+00:39:52,080 --> 00:39:55,360
+{\fnSTXihei\fs20\1c&HC0C0C0&}卢克要去找金羊毛  所以他才需要一个羊男{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Luke is going after the Fleece. That's why he needs a satyr.{\r}
+
+572
+00:39:55,850 --> 00:39:57,490
+{\fnSTXihei\fs20\1c&HC0C0C0&}可是卢克要金羊毛干嘛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}But what does Luke want with the Fleece anyway?{\r}
+
+573
+00:39:57,590 --> 00:39:58,660
+{\fnSTXihei\fs20\1c&HC0C0C0&}我也不清楚{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I don't know.{\r}
+
+574
+00:39:58,760 --> 00:40:00,930
+{\fnSTXihei\fs20\1c&HC0C0C0&}如果我们想把格罗弗找回来  就得先找到卢克{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}But if we're gonna get Grover back, we need to find Luke.{\r}
+
+575
+00:40:01,030 --> 00:40:02,940
+{\fnSTXihei\fs20\1c&HC0C0C0&}可是我们不知道他在哪儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}But we don't know where he is.{\r}
+
+576
+00:40:07,330 --> 00:40:10,040
+{\fnSTXihei\fs20\1c&HC0C0C0&}我知道谁知道了  快点  走了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I know someone who does. Come on.{\r}
+
+577
+00:40:17,010 --> 00:40:20,480
+{\fnSTXihei\fs20\1c&HC0C0C0&}什么  你想把我们自己连夜快递到魔兽之海吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What, are we shipping ourselves overnight express to the Sea of Monsters?{\r}
+
+578
+00:40:20,580 --> 00:40:23,720
+{\fnSTXihei\fs20\1c&HC0C0C0&}你不是想找卢克吗  他老爹肯定知道他的下落{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You want to find Luke? His dad will know where he is.{\r}
+
+579
+00:40:30,760 --> 00:40:33,400
+{\fnSTXihei\fs20\1c&HC0C0C0&}这里是奥林匹斯包裹服务 快点{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Olympic Parcel Service. Come on.{\r}
+
+580
+00:40:33,590 --> 00:40:34,940
+{\fnSTXihei\fs20\1c&HC0C0C0&}岂止喜欢  他会爱死它的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Like it? He'll love it.{\r}
+
+581
+00:40:35,030 --> 00:40:38,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}没错  赫菲斯托斯（铁匠之神）的工作质量很高的  现在的人完全比不了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yes, Hephaestus does do quality work. Everyone else these days, hacks.{\r}
+
+582
+00:40:38,800 --> 00:40:40,510
+{\fnSTXihei\fs20\1c&HC0C0C0&}不好意思  我们想找赫尔墨斯{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Excuse me, we're looking for Hermes.{\r}
+
+583
+00:40:40,600 --> 00:40:43,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}作为明显之神我很抱歉  但是我现在有客人{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm sorry to be the god of obviousness, but I'm with a customer.{\r}
+
+584
+00:40:43,640 --> 00:40:47,280
+{\fnSTXihei\fs20\1c&HC0C0C0&}你想明天一早就送到哈迪斯手上需要两百五十德拉克马{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You want an overnight shipment to Hades, that will be 250 drachmas.{\r}
+
+585
+00:40:47,910 --> 00:40:49,950
+{\fnSTXihei\fs20\1c&HC0C0C0&}非常好  谢谢惠顾{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Perfect. Thank you, sweetness.{\r}
+
+586
+00:40:50,140 --> 00:40:53,490
+{\fnSTXihei\fs20\1c&HC0C0C0&}我会帮你留意的  下周见{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I will take care of that for you, and I'll see you next week.{\r}
+
+587
+00:40:53,880 --> 00:40:55,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}好了 各位{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Now, you.{\r}
+
+588
+00:40:55,780 --> 00:40:57,350
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们要找赫尔墨斯吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You are here about Hermes?{\r}
+
+589
+00:40:57,450 --> 00:40:59,330
+{\fnSTXihei\fs20\1c&HC0C0C0&}其实我们是找他儿子来着   事态紧急{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}His son, actually. It's kind of important.{\r}
+
+590
+00:40:59,420 --> 00:41:02,230
+{\fnSTXihei\fs20\1c&HC0C0C0&}看你风风火火闯进来的样子我就知道{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah, I could tell the way you burst in here, all rude-like.{\r}
+
+591
+00:41:02,320 --> 00:41:04,390
+{\fnSTXihei\fs20\1c&HC0C0C0&}他儿子名叫卢克・卡斯特兰{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}His son's name is Luke Castellan.{\r}
+
+592
+00:41:07,430 --> 00:41:10,970
+{\fnSTXihei\fs20\1c&HC0C0C0&}我那任性的儿子又惹什么事了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What has that wayward boy of mine gotten himself into now?{\r}
+
+593
+00:41:11,500 --> 00:41:13,310
+{\fnSTXihei\fs20\1c&HC0C0C0&}等等  你是...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Wait, you're...{\r}
+
+594
+00:41:13,400 --> 00:41:14,400
+{\fnSTXihei\fs20\1c&HC0C0C0&}赫尔墨斯{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hermes.{\r}
+
+595
+00:41:14,600 --> 00:41:16,810
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们没认出我来真是太侮辱人了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Little insulted you didn't recognize me.{\r}
+
+596
+00:41:16,900 --> 00:41:20,220
+{\fnSTXihei\fs20\1c&HC0C0C0&}要不是我这人还算自信  我可能会因此心灵受伤的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}My feelings might have even been hurt if I wasn't such a self-confident individual.{\r}
+
+597
+00:41:20,310 --> 00:41:22,350
+{\fnSTXihei\fs20\1c&HC0C0C0&}不知道你们有没有注意到  我可是短裤万搭型男{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I don't know if you noticed, but I'm killing these shorts.{\r}
+
+598
+00:41:22,440 --> 00:41:23,510
+{\fnSTXihei\fs20\1c&HC0C0C0&}先生  我们在找卢克{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Sir, we're looking for Luke...{\r}
+
+599
+00:41:23,610 --> 00:41:25,750
+{\fnSTXihei\fs20\1c&HC0C0C0&}他攻击了混血营  还绑走我们的朋友{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}because he attacked Camp Half-Blood and kidnapped our friend.{\r}
+
+600
+00:41:25,840 --> 00:41:28,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们需要你帮忙  我们已经为时不多了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And we really need your help, and we don't have a lot of time.{\r}
+
+601
+00:41:28,680 --> 00:41:31,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们为彼此接话这点煞是可爱呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}That's really cute, how you finish each other's sentences.{\r}
+
+602
+00:41:33,150 --> 00:41:34,220
+{\fnSTXihei\fs20\1c&HC0C0C0&}跟我来{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Follow.{\r}
+
+603
+00:41:35,950 --> 00:41:39,130
+{\fnSTXihei\fs20\1c&HC0C0C0&}喜欢这条领带吗  我刚买的  当然是爱马仕的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You like this tie? I just bought it. Herms, of course.{\r}
+
+604
+00:41:39,660 --> 00:41:40,730
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们看{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Check it out.{\r}
+
+605
+00:41:40,830 --> 00:41:43,400
+{\fnSTXihei\fs20\1c&HC0C0C0&}高科技分类  处理与包裹包装设施{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}State-of-the-art sorting, processing and packaging facility.{\r}
+
+606
+00:41:43,500 --> 00:41:46,240
+{\fnSTXihei\fs20\1c&HC0C0C0&}只要装得了的  我们就能以我一样快的速度{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}If you can box it, we can ship it at the speed of...{\r}
+
+607
+00:41:46,330 --> 00:41:47,900
+{\fnSTXihei\fs20\1c&HC0C0C0&}给送出去{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Well, me.{\r}
+
+608
+00:41:48,100 --> 00:41:51,180
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们计划明年要扩厂  现在生产空间实在不足{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We have plans to expand next year. We're finding we have some space issues.{\r}
+
+609
+00:41:51,270 --> 00:41:53,050
+{\fnSTXihei\fs20\1c&HC0C0C0&}想像一下这幅场景  再加以扩大就行{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}So picture this, only bigger.{\r}
+
+610
+00:41:53,140 --> 00:41:54,240
+{\fnSTXihei\fs20\1c&HC0C0C0&}别碰那个{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Don't touch that.{\r}
+
+611
+00:41:54,340 --> 00:41:56,410
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们是奥林匹斯发展最快的企业{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We're the fastest-growing Olympian industry.{\r}
+
+612
+00:41:56,510 --> 00:41:59,120
+{\fnSTXihei\fs20\1c&HC0C0C0&}虽然花了不少时间才走上正轨  但罗马可不是一天造成的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It took a while to get up and running,but Rome wasn't built in a day.{\r}
+
+613
+00:41:59,210 --> 00:42:00,520
+{\fnSTXihei\fs20\1c&HC0C0C0&}相信我   我可是亲眼目睹的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Trust me, I was there.{\r}
+
+614
+00:42:00,610 --> 00:42:02,930
+{\fnSTXihei\fs20\1c&HC0C0C0&}不好意思   先生  我们现在非常急{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Excuse me, sir, we're in a bit of a hurry.{\r}
+
+615
+00:42:03,020 --> 00:42:04,760
+{\fnSTXihei\fs20\1c&HC0C0C0&}放轻松  小朋友  慢慢来嘛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Relax, my friend. Take it slow.{\r}
+
+616
+00:42:04,850 --> 00:42:07,130
+{\fnSTXihei\fs20\1c&HC0C0C0&}拜托  饶了我吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Come on! Give me a break!{\r}
+
+617
+00:42:07,320 --> 00:42:10,000
+{\fnSTXihei\fs20\1c&HC0C0C0&}你说得倒轻松  阁下{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Easy for you to say, Your Eminence.{\r}
+
+618
+00:42:10,190 --> 00:42:14,040
+{\fnSTXihei\fs20\1c&HC0C0C0&}玛莎  他可一点都不轻松  他可是快速之神{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Actually, Martha, it's not easy for him. He's the god of freaking speed.{\r}
+
+619
+00:42:14,130 --> 00:42:18,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}只不过他的屁股不用一辈子都黏在银棍子上{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Except he's not the one whose butt is stuck to a big silver stick forever!{\r}
+
+620
+00:42:18,900 --> 00:42:21,380
+{\fnSTXihei\fs20\1c&HC0C0C0&}嘿  你们两个  我是怎么跟你们说的来着{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey, guys, what did I say?{\r}
+
+621
+00:42:21,570 --> 00:42:24,750
+{\fnSTXihei\fs20\1c&HC0C0C0&}见到新朋友时要发出你们“嘶嘶”的声音  这样才比较有戏剧性{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}When we meet new people, protract your S's. it's more dramatic.{\r}
+
+622
+00:42:24,840 --> 00:42:26,280
+{\fnSTXihei\fs20\1c&HC0C0C0&}给人家留下个好印象{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Makes an impression.{\r}
+
+623
+00:42:26,910 --> 00:42:29,480
+{\fnSTXihei\fs20\1c&HC0C0C0&}你这是在侮辱我  蛇才不这样“嘶嘶”地讲话{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm personally insulted. Snakes don't talk like that.{\r}
+
+624
+00:42:29,580 --> 00:42:31,850
+{\fnSTXihei\fs20\1c&HC0C0C0&}这是老一套的思想  令人很不爽{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It is a stereotype and it's offensive.{\r}
+
+625
+00:42:31,980 --> 00:42:34,290
+{\fnSTXihei\fs20\1c&HC0C0C0&}同类中有些术不正的家伙总是跟梅杜莎鬼混{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Bad enough some of our relatives are hanging out with Medusa...{\r}
+
+626
+00:42:34,380 --> 00:42:35,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}没事儿总爱把人变成石头就已经够丢人的了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}turning people to stone.{\r}
+
+627
+00:42:35,650 --> 00:42:36,630
+{\fnSTXihei\fs20\1c&HC0C0C0&}好吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}All right.{\r}
+
+628
+00:42:36,720 --> 00:42:38,930
+{\fnSTXihei\fs20\1c&HC0C0C0&}我喜欢你的发型  要是我的头发也能像这样就好了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I love your hair. I wish my hair would do that.{\r}
+
+629
+00:42:39,020 --> 00:42:40,230
+{\fnSTXihei\fs20\1c&HC0C0C0&}对  这倒是有可能{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah, that will happen.{\r}
+
+630
+00:42:40,320 --> 00:42:42,730
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们何不多做些有用处的事儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Why don't you guys make yourselves useful?{\r}
+
+631
+00:42:42,820 --> 00:42:45,100
+{\fnSTXihei\fs20\1c&HC0C0C0&}用神用谷歌一下卢克  这些孩子在找他呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Demi-Google Luke for me. These kids are looking for him.{\r}
+
+632
+00:42:45,190 --> 00:42:46,930
+{\fnSTXihei\fs20\1c&HC0C0C0&}为什么  他们想找死吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Why? Do they have a death wish?{\r}
+
+633
+00:42:47,030 --> 00:42:48,740
+{\fnSTXihei\fs20\1c&HC0C0C0&}这不管你们的事儿  只管...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It doesn't matter. Just...{\r}
+
+634
+00:42:48,860 --> 00:42:49,970
+{\fnSTXihei\fs20\1c&HC0C0C0&}他连个请字都没对我们说{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Didn't even say "please."{\r}
+
+635
+00:42:50,060 --> 00:42:52,380
+{\fnSTXihei\fs20\1c&HC0C0C0&}早就告诉过你了吧  我们本该去帮赫拉克勒斯效力的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Told you! We should have taken that job with Hercules.{\r}
+
+636
+00:42:52,470 --> 00:42:54,210
+{\fnSTXihei\fs20\1c&HC0C0C0&}它俩习惯这样了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}They're an acquired taste.{\r}
+
+637
+00:42:54,830 --> 00:42:56,610
+{\fnSTXihei\fs20\1c&HC0C0C0&}卢克  我不知道该拿他怎么办了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Luke. I don't know what to do about him.{\r}
+
+638
+00:42:56,700 --> 00:42:59,810
+{\fnSTXihei\fs20\1c&HC0C0C0&}我曾试着跟他沟通  但那孩子怨念太深  总是愤世嫉俗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I've tried reaching out, but the kid's angry. He's resentful.{\r}
+
+639
+00:42:59,910 --> 00:43:01,620
+{\fnSTXihei\fs20\1c&HC0C0C0&}一记起仇来就六亲不认{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And he holds a grudge like nobody's business.{\r}
+
+640
+00:43:01,710 --> 00:43:03,210
+{\fnSTXihei\fs20\1c&HC0C0C0&}想起来还真是跟她母亲一个模子里刻出来的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Just like his mother, come to think of it.{\r}
+
+641
+00:43:03,310 --> 00:43:05,160
+{\fnSTXihei\fs20\1c&HC0C0C0&}对  他对我也没什么好感{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah, he's not my biggest fan either.{\r}
+
+642
+00:43:05,250 --> 00:43:09,130
+{\fnSTXihei\fs20\1c&HC0C0C0&}要是你们碰到了  虽然宙斯明令禁止了 但一旦你们打起来{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}If you're gonna cross paths or, Zeus forbid, swords with him...{\r}
+
+643
+00:43:09,320 --> 00:43:13,230
+{\fnSTXihei\fs20\1c&HC0C0C0&}有一两件法宝来帮你们也不算什么么坏事{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}it wouldn't be the worst thing in the world to have a thing or two to help you out.{\r}
+
+644
+00:43:13,320 --> 00:43:15,320
+{\fnSTXihei\fs20\1c&HC0C0C0&}这可是独家收藏  保存得完好无缺呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Collector's item, mint condition.{\r}
+
+645
+00:43:15,420 --> 00:43:17,910
+{\fnSTXihei\fs20\1c&HC0C0C0&}来自“赫拉克勒斯撞破头”第一季{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}From Hercules Busts Heads, Season One.{\r}
+
+646
+00:43:18,090 --> 00:43:19,570
+{\fnSTXihei\fs20\1c&HC0C0C0&}“赫拉克勒斯撞破头”{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hercules Busts Heads?{\r}
+
+647
+00:43:19,760 --> 00:43:21,140
+{\fnSTXihei\fs20\1c&HC0C0C0&}有史以来最棒的电视剧了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Best TV show ever.{\r}
+
+648
+00:43:21,260 --> 00:43:24,210
+{\fnSTXihei\fs20\1c&HC0C0C0&}所以当然也就再没了后续{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}So, of course, cancelled.{\r}
+
+649
+00:43:24,830 --> 00:43:26,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}我从诸神淘宝上面买来的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Got this off Deity-Bay.{\r}
+
+650
+00:43:26,900 --> 00:43:29,980
+{\fnSTXihei\fs20\1c&HC0C0C0&}盖子一扭就会释出四面八方的风{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You twist the cap off this,you release the winds from the four corners of the Earth.{\r}
+
+651
+00:43:30,070 --> 00:43:32,210
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们说这个酷不酷{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Now, you tell me that isn't cool.{\r}
+
+652
+00:43:32,410 --> 00:43:33,980
+{\fnSTXihei\fs20\1c&HC0C0C0&}哇~ 别别  不能在这里打开{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Whoa! No, not in here!{\r}
+
+653
+00:43:34,680 --> 00:43:35,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}这里可不行{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Not in here.{\r}
+
+654
+00:43:35,810 --> 00:43:39,190
+{\fnSTXihei\fs20\1c&HC0C0C0&}天呐  乔治说的真没错  你们确实是想找死{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}By the gods, George was right. You do have a death wish.{\r}
+
+655
+00:43:40,050 --> 00:43:41,490
+{\fnSTXihei\fs20\1c&HC0C0C0&}好了  你们还...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Now, you're also...{\r}
+
+656
+00:43:42,950 --> 00:43:45,130
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们也会用得到这玩意儿的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You're also gonna want one of these.{\r}
+
+657
+00:43:50,960 --> 00:43:52,270
+{\fnSTXihei\fs20\1c&HC0C0C0&}多谢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thanks.{\r}
+
+658
+00:43:52,460 --> 00:43:54,370
+{\fnSTXihei\fs20\1c&HC0C0C0&}神用封箱胶带吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Mythical box sealer?{\r}
+
+659
+00:43:54,560 --> 00:43:57,270
+{\fnSTXihei\fs20\1c&HC0C0C0&}你伤了我的心   真的  我真受伤了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You wound me. Truly, I am wounded.{\r}
+
+660
+00:43:57,470 --> 00:44:00,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}我手上拿的是物件消除器  商标还未决定好{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I hold in my hands a Matter Eliminator. Trademark pending.{\r}
+
+661
+00:44:00,900 --> 00:44:02,540
+{\fnSTXihei\fs20\1c&HC0C0C0&}只要你用它画出某个东西的轮廓{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Anything you outline with this...{\r}
+
+662
+00:44:02,640 --> 00:44:03,780
+{\fnSTXihei\fs20\1c&HC0C0C0&}不许在这里用{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Not in here.{\r}
+
+663
+00:44:04,240 --> 00:44:05,580
+{\fnSTXihei\fs20\1c&HC0C0C0&}那它立马就会不见{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}...will disappear.{\r}
+
+664
+00:44:06,270 --> 00:44:07,650
+{\fnSTXihei\fs20\1c&HC0C0C0&}消失掉  立刻就形成一个洞{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Gone. Instant hole.{\r}
+
+665
+00:44:07,740 --> 00:44:09,020
+{\fnSTXihei\fs20\1c&HC0C0C0&}他是说用神用谷歌搜一下卢克吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}"Demi-Google Luke," he said.{\r}
+
+666
+00:44:09,110 --> 00:44:11,180
+{\fnSTXihei\fs20\1c&HC0C0C0&}我没有手指要怎么敲键盘{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Except, how am I supposed to type without fingers?{\r}
+
+667
+00:44:11,280 --> 00:44:12,820
+{\fnSTXihei\fs20\1c&HC0C0C0&}你该用鼠标的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You were supposed to use the mouse!{\r}
+
+668
+00:44:12,910 --> 00:44:14,330
+{\fnSTXihei\fs20\1c&HC0C0C0&}我可是蛇  老鼠是拿来吃的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm a snake. I eat mice.{\r}
+
+669
+00:44:14,420 --> 00:44:16,230
+{\fnSTXihei\fs20\1c&HC0C0C0&}好吧  谢谢 找到卢克了吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}All right, thank you. Have you found Luke?{\r}
+
+670
+00:44:16,320 --> 00:44:17,520
+{\fnSTXihei\fs20\1c&HC0C0C0&}他刚刚说了谢谢吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Did he just say "thank you"?{\r}
+
+671
+00:44:17,620 --> 00:44:19,190
+{\fnSTXihei\fs20\1c&HC0C0C0&}他肯定是口误{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm sure it was just a lapse.{\r}
+
+672
+00:44:19,290 --> 00:44:20,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}卢克在安德洛墨达（仙女座）号快艇上面{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Luke's on a yacht called the Andromeda.{\r}
+
+673
+00:44:20,990 --> 00:44:23,400
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们说话这会儿  快艇正通往切萨皮克海湾{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's passing by Chesapeake Beach as we speak.{\r}
+
+674
+00:44:23,490 --> 00:44:24,490
+{\fnSTXihei\fs20\1c&HC0C0C0&}多谢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thank you.{\r}
+
+675
+00:44:24,590 --> 00:44:26,340
+{\fnSTXihei\fs20\1c&HC0C0C0&}你太~太客气了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You're so welcome.{\r}
+
+676
+00:44:26,430 --> 00:44:27,770
+{\fnSTXihei\fs20\1c&HC0C0C0&}好了  你满意了吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}There, you happy?{\r}
+
+677
+00:44:28,430 --> 00:44:29,410
+{\fnSTXihei\fs20\1c&HC0C0C0&}闭嘴{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hush.{\r}
+
+678
+00:44:30,600 --> 00:44:32,010
+{\fnSTXihei\fs20\1c&HC0C0C0&}多谢了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thank you very much.{\r}
+
+679
+00:44:32,100 --> 00:44:33,580
+{\fnSTXihei\fs20\1c&HC0C0C0&}听着{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey, listen...{\r}
+
+680
+00:44:36,400 --> 00:44:37,980
+{\fnSTXihei\fs20\1c&HC0C0C0&}如果你见到卢克的话{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}If you see Luke...{\r}
+
+681
+00:44:38,170 --> 00:44:41,420
+{\fnSTXihei\fs20\1c&HC0C0C0&}请转告他{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}please explain to him for me...{\r}
+
+682
+00:44:42,480 --> 00:44:45,760
+{\fnSTXihei\fs20\1c&HC0C0C0&}做父母的有时候也会犯错{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}that parents, we make mistakes sometimes.{\r}
+
+683
+00:44:46,150 --> 00:44:48,990
+{\fnSTXihei\fs20\1c&HC0C0C0&}他绝对有权利生我的气{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}He has every right to be angry at me.{\r}
+
+684
+00:44:49,180 --> 00:44:51,670
+{\fnSTXihei\fs20\1c&HC0C0C0&}但别因此就愤世嫉俗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Just, please tell him not to be angry with the world.{\r}
+
+685
+00:44:51,750 --> 00:44:55,800
+{\fnSTXihei\fs20\1c&HC0C0C0&}我不确定我说的话对他管不管用{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm not sure if there's anything that I can say that will change him.{\r}
+
+686
+00:44:55,990 --> 00:44:57,230
+{\fnSTXihei\fs20\1c&HC0C0C0&}试试无妨{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Try.{\r}
+
+687
+00:44:57,860 --> 00:44:59,840
+{\fnSTXihei\fs20\1c&HC0C0C0&}我这三千年来要说学到了什么{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}If it's one thing I've learned in 3000 years...{\r}
+
+688
+00:44:59,930 --> 00:45:02,280
+{\fnSTXihei\fs20\1c&HC0C0C0&}那就是绝不能放弃家人{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}it's you can't give up on family.{\r}
+
+689
+00:45:09,540 --> 00:45:11,080
+{\fnSTXihei\fs20\1c&HC0C0C0&}再次感谢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thanks again.{\r}
+
+690
+00:45:12,940 --> 00:45:14,480
+{\fnSTXihei\fs20\1c&HC0C0C0&}他不会成功的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}He'll never make it.{\r}
+
+691
+00:45:15,380 --> 00:45:16,480
+{\fnSTXihei\fs20\1c&HC0C0C0&}开饭了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}That's lunch!{\r}
+
+692
+00:45:25,650 --> 00:45:27,860
+{\fnSTXihei\fs20\1c&HC0C0C0&}就是那个  那就是卢克的快艇{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}That's it. That's Luke's yacht.{\r}
+
+693
+00:45:28,060 --> 00:45:29,630
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们该怎么办  游过去吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What do we do? Swim?{\r}
+
+694
+00:45:29,830 --> 00:45:31,310
+{\fnSTXihei\fs20\1c&HC0C0C0&}这可是水{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}But it's water.{\r}
+
+695
+00:45:32,490 --> 00:45:33,980
+{\fnSTXihei\fs20\1c&HC0C0C0&}老爸会帮忙的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Dad will help.{\r}
+
+696
+00:45:38,000 --> 00:45:38,980
+{\fnSTXihei\fs20\1c&HC0C0C0&}嘿  老爸{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey, Dad.{\r}
+
+697
+00:45:39,170 --> 00:45:42,310
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们想救混血营跟羊男格罗弗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We're trying to save Camp Half-Blood and rescue a satyr named Grover.{\r}
+
+698
+00:45:42,400 --> 00:45:45,950
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们需要你把我们送到那艘快艇那里{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And we could really use your help getting to that ship out there.{\r}
+
+699
+00:45:47,480 --> 00:45:48,680
+{\fnSTXihei\fs20\1c&HC0C0C0&}波塞顿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Poseidon?{\r}
+
+700
+00:45:49,380 --> 00:45:50,360
+{\fnSTXihei\fs20\1c&HC0C0C0&}老爸{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Dad?{\r}
+
+701
+00:45:50,680 --> 00:45:52,060
+{\fnSTXihei\fs20\1c&HC0C0C0&}不错的尝试  大块头{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It was a nice try, big guy...{\r}
+
+702
+00:45:52,150 --> 00:45:54,960
+{\fnSTXihei\fs20\1c&HC0C0C0&}他就算不理会你也不必...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}but don't be upset when he doesn't...{\r}
+
+703
+00:46:01,560 --> 00:46:03,060
+{\fnSTXihei\fs20\1c&HC0C0C0&}沮丧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}...answer.{\r}
+
+704
+00:46:09,730 --> 00:46:11,610
+{\fnSTXihei\fs20\1c&HC0C0C0&}是马头鱼尾兽{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's a hippocampus.{\r}
+
+705
+00:46:23,910 --> 00:46:25,120
+{\fnSTXihei\fs20\1c&HC0C0C0&}嗨  美女{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hi, girl.{\r}
+
+706
+00:46:27,080 --> 00:46:28,220
+{\fnSTXihei\fs20\1c&HC0C0C0&}那叫你帅哥吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Boy-{\r}
+
+707
+00:46:31,490 --> 00:46:32,760
+{\fnSTXihei\fs20\1c&HC0C0C0&}乖啊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Come here.{\r}
+
+708
+00:46:37,160 --> 00:46:39,800
+{\fnSTXihei\fs20\1c&HC0C0C0&}有些时候  你只需要开口就行{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Sometimes, you just gotta ask.{\r}
+
+709
+00:46:40,460 --> 00:46:42,910
+{\fnSTXihei\fs20\1c&HC0C0C0&}我一直都是那么做的啊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}All I've been doing is asking.{\r}
+
+710
+00:46:58,450 --> 00:46:59,720
+{\fnSTXihei\fs20\1c&HC0C0C0&}你上来吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Are you coming?{\r}
+
+711
+00:47:00,680 --> 00:47:01,660
+{\fnSTXihei\fs20\1c&HC0C0C0&}当然{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah.{\r}
+
+712
+00:47:05,360 --> 00:47:06,630
+{\fnSTXihei\fs20\1c&HC0C0C0&}准备好了吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Are you ready?{\r}
+
+713
+00:47:06,820 --> 00:47:07,960
+{\fnSTXihei\fs20\1c&HC0C0C0&}好了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah.{\r}
+
+714
+00:47:08,160 --> 00:47:09,400
+{\fnSTXihei\fs20\1c&HC0C0C0&}驾{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Giddy up!{\r}
+
+715
+00:48:16,060 --> 00:48:17,200
+{\fnSTXihei\fs20\1c&HC0C0C0&}退后一点{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Back up!{\r}
+
+716
+00:48:17,830 --> 00:48:18,970
+{\fnSTXihei\fs20\1c&HC0C0C0&}退后{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Back up.{\r}
+
+717
+00:48:29,440 --> 00:48:30,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}多谢  老友{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thank you, friend.{\r}
+
+718
+00:48:31,210 --> 00:48:32,450
+{\fnSTXihei\fs20\1c&HC0C0C0&}泰森{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Tyson.{\r}
+
+719
+00:48:32,880 --> 00:48:34,690
+{\fnSTXihei\fs20\1c&HC0C0C0&}快点儿  我们得走了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Come on, buddy. We gotta go.{\r}
+
+720
+00:48:39,420 --> 00:48:40,860
+{\fnSTXihei\fs20\1c&HC0C0C0&}你想吃糖吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You want some sugar?{\r}
+
+721
+00:48:50,900 --> 00:48:52,340
+{\fnSTXihei\fs20\1c&HC0C0C0&}- 你看到了吗   - 没有  老兄{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}- Have you seen it? - No, man.{\r}
+
+722
+00:48:52,430 --> 00:48:53,410
+{\fnSTXihei\fs20\1c&HC0C0C0&}卢克给你看过了吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Did he show it to you?{\r}
+
+723
+00:48:53,500 --> 00:48:54,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}你看了到时候就知道了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Wait until you see it.{\r}
+
+724
+00:48:54,800 --> 00:48:56,940
+{\fnSTXihei\fs20\1c&HC0C0C0&}他花了很长时间才找到它{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It took him long enough to find it.{\r}
+
+725
+00:48:59,440 --> 00:49:02,350
+{\fnSTXihei\fs20\1c&HC0C0C0&}那是克里斯・罗德里格斯  伊桑・中村跟莎娜・博勒加德{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}That's Chris Rodriguez, Ethan Nakamura, and Shana Beauregard.{\r}
+
+726
+00:49:02,440 --> 00:49:04,050
+{\fnSTXihei\fs20\1c&HC0C0C0&}卢克在召集人手{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Luke's been recruiting.{\r}
+
+727
+00:49:06,980 --> 00:49:08,820
+{\fnSTXihei\fs20\1c&HC0C0C0&}这艘船很棒诶{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}This is a nice boat.{\r}
+
+728
+00:49:09,010 --> 00:49:10,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们要怎么找格罗弗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}How are we gonna find Grover?{\r}
+
+729
+00:49:11,650 --> 00:49:14,830
+{\fnSTXihei\fs20\1c&HC0C0C0&}卢克可能把他关在甲板下面某一个地方了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Luke is probably keeping him below deck somewhere.{\r}
+
+730
+00:49:15,020 --> 00:49:16,360
+{\fnSTXihei\fs20\1c&HC0C0C0&}比如说  监狱之类的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Like, in a brig.{\r}
+
+731
+00:49:16,490 --> 00:49:18,830
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西  我不觉得快艇会有监狱{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I don't think yachts have brigs, Percy.{\r}
+
+732
+00:49:20,360 --> 00:49:21,770
+{\fnSTXihei\fs20\1c&HC0C0C0&}跟我来{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Follow me.{\r}
+
+733
+00:49:26,470 --> 00:49:29,350
+{\fnSTXihei\fs20\1c&HC0C0C0&}大家小心了  他说要跟他保持距离{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Be careful, you guys. He said keep your distance.{\r}
+
+734
+00:49:29,870 --> 00:49:32,510
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们到底还要在船上待多久{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}How much longer are we gonna be on this boat, anyway?{\r}
+
+735
+00:49:32,600 --> 00:49:34,520
+{\fnSTXihei\fs20\1c&HC0C0C0&}管它呢  小心就对了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Doesn't matter, just watch it.{\r}
+
+736
+00:49:45,180 --> 00:49:47,190
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们是时候该闪人了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's so time to go.{\r}
+
+737
+00:49:47,550 --> 00:49:49,660
+{\fnSTXihei\fs20\1c&HC0C0C0&}嘿  波西  波西{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey. Percy. Percy!{\r}
+
+738
+00:49:54,230 --> 00:49:55,940
+{\fnSTXihei\fs20\1c&HC0C0C0&}泰森  你一定要搞那么大动静吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Tyson, do you have to make so much noise?{\r}
+
+739
+00:49:56,030 --> 00:49:57,340
+{\fnSTXihei\fs20\1c&HC0C0C0&}对不起{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Sorry!{\r}
+
+740
+00:50:13,950 --> 00:50:14,930
+{\fnSTXihei\fs20\1c&HC0C0C0&}克里斯{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Chris?{\r}
+
+741
+00:50:15,010 --> 00:50:16,150
+{\fnSTXihei\fs20\1c&HC0C0C0&}嘿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey.{\r}
+
+742
+00:50:16,520 --> 00:50:18,460
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们把格罗弗怎么了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What have you done with Grover?{\r}
+
+743
+00:50:19,080 --> 00:50:20,390
+{\fnSTXihei\fs20\1c&HC0C0C0&}格罗弗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Grover?{\r}
+
+744
+00:50:20,890 --> 00:50:23,030
+{\fnSTXihei\fs20\1c&HC0C0C0&}你最不该操心的就是格罗弗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Grover's the least of your worries.{\r}
+
+745
+00:50:24,820 --> 00:50:26,170
+{\fnSTXihei\fs20\1c&HC0C0C0&}猜猜谁来了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Guess who's here.{\r}
+
+746
+00:50:35,200 --> 00:50:38,810
+{\fnSTXihei\fs20\1c&HC0C0C0&}天大的惊喜啊  这不是我最爱的两位表亲吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What a surprise. If it isn't my two favorite cousins.{\r}
+
+747
+00:50:39,010 --> 00:50:40,180
+{\fnSTXihei\fs20\1c&HC0C0C0&}是三个{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Three.{\r}
+
+748
+00:50:40,370 --> 00:50:42,150
+{\fnSTXihei\fs20\1c&HC0C0C0&}我也是波塞顿的儿子{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm a son of Poseidon, too.{\r}
+
+749
+00:50:42,840 --> 00:50:46,620
+{\fnSTXihei\fs20\1c&HC0C0C0&}那就搞笑了  因为波塞顿没别的混血儿子{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}That's funny, because Poseidon doesn't have any other half-blood sons.{\r}
+
+750
+00:50:46,750 --> 00:50:48,490
+{\fnSTXihei\fs20\1c&HC0C0C0&}我是独眼巨人{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm a Cyclops.{\r}
+
+751
+00:50:51,080 --> 00:50:52,160
+{\fnSTXihei\fs20\1c&HC0C0C0&}我用了喷雾{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Mist.{\r}
+
+752
+00:50:52,350 --> 00:50:53,990
+{\fnSTXihei\fs20\1c&HC0C0C0&}不是吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You don't say.{\r}
+
+753
+00:50:57,920 --> 00:50:59,700
+{\fnSTXihei\fs20\1c&HC0C0C0&}好久不见{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's been a long time.{\r}
+
+754
+00:51:01,360 --> 00:51:03,240
+{\fnSTXihei\fs20\1c&HC0C0C0&}气色不错嘛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You look good.{\r}
+
+755
+00:51:04,770 --> 00:51:06,110
+{\fnSTXihei\fs20\1c&HC0C0C0&}格罗弗在哪儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Where's Grover?{\r}
+
+756
+00:51:06,300 --> 00:51:08,080
+{\fnSTXihei\fs20\1c&HC0C0C0&}格罗弗  格罗弗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Grover, Grover.{\r}
+
+757
+00:51:10,700 --> 00:51:13,210
+{\fnSTXihei\fs20\1c&HC0C0C0&}他现在应该抵达魔兽之海了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}He should be in the Sea of Monsters right about now.{\r}
+
+758
+00:51:13,310 --> 00:51:16,880
+{\fnSTXihei\fs20\1c&HC0C0C0&}我派他跟几个朋友先过去了  我们的时间挺紧的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I sent him on ahead with some friends. We're kind of on the clock.{\r}
+
+759
+00:51:17,540 --> 00:51:18,960
+{\fnSTXihei\fs20\1c&HC0C0C0&}等等  你不...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Wait, you're not...{\r}
+
+760
+00:51:19,450 --> 00:51:22,330
+{\fnSTXihei\fs20\1c&HC0C0C0&}你不只阻止我们拿到金羊毛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You're not just trying to stop us from getting the Fleece.{\r}
+
+761
+00:51:22,420 --> 00:51:23,860
+{\fnSTXihei\fs20\1c&HC0C0C0&}我也需要金羊毛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I need it, too.{\r}
+
+762
+00:51:25,420 --> 00:51:28,230
+{\fnSTXihei\fs20\1c&HC0C0C0&}有个东西只有靠金羊毛才能救活{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I got something only the Fleece can revive.{\r}
+
+763
+00:51:28,420 --> 00:51:30,300
+{\fnSTXihei\fs20\1c&HC0C0C0&}那可不只是一棵树{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And it's not a tree.{\r}
+
+764
+00:51:32,430 --> 00:51:33,740
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们想看看吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Wanna see it?{\r}
+
+765
+00:51:38,100 --> 00:51:40,380
+{\fnSTXihei\fs20\1c&HC0C0C0&}这东西可不好找{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It wasn't easy to find.{\r}
+
+766
+00:51:40,730 --> 00:51:43,880
+{\fnSTXihei\fs20\1c&HC0C0C0&}我得亲自爬过冥界至深至暗的深渊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I had to crawl through the depths of Tartarus itself.{\r}
+
+767
+00:51:44,770 --> 00:51:46,810
+{\fnSTXihei\fs20\1c&HC0C0C0&}还要去克利夫兰市{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And then Cleveland.{\r}
+
+768
+00:51:47,640 --> 00:51:49,920
+{\fnSTXihei\fs20\1c&HC0C0C0&}这是克隆那斯的遗体{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The remains of Kronos.{\r}
+
+769
+00:51:50,110 --> 00:51:53,120
+{\fnSTXihei\fs20\1c&HC0C0C0&}泰坦的始祖  奥林匹亚山十二神之父{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The original Titan, father to the Olympians.{\r}
+
+770
+00:51:53,310 --> 00:51:56,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}有了金羊毛的帮助  他就会摧毁奥林匹斯{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And with the Fleece's help, destroyer of Olympus.{\r}
+
+771
+00:51:57,080 --> 00:51:58,560
+{\fnSTXihei\fs20\1c&HC0C0C0&}同时也会摧毁世界{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And the world.{\r}
+
+772
+00:51:59,190 --> 00:52:02,900
+{\fnSTXihei\fs20\1c&HC0C0C0&}为了报复你老爸  你甚至不惜摧毁全世界吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You'd destroy the whole world just to get back at your dad?{\r}
+
+773
+00:52:03,390 --> 00:52:05,930
+{\fnSTXihei\fs20\1c&HC0C0C0&}诸神打倒他们的父母{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The Olympians overthrew their parents.{\r}
+
+774
+00:52:06,460 --> 00:52:08,070
+{\fnSTXihei\fs20\1c&HC0C0C0&}现在轮到我们了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's just our turn.{\r}
+
+775
+00:52:08,400 --> 00:52:09,840
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们见过你老爸{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We met your father.{\r}
+
+776
+00:52:10,200 --> 00:52:13,110
+{\fnSTXihei\fs20\1c&HC0C0C0&}他说他知道自己犯了错{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}He said that he knows that he made mistakes.{\r}
+
+777
+00:52:13,300 --> 00:52:15,940
+{\fnSTXihei\fs20\1c&HC0C0C0&}他让我们转告你别这么愤怒{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}He told us to tell you to not be so angry.{\r}
+
+778
+00:52:16,340 --> 00:52:17,320
+{\fnSTXihei\fs20\1c&HC0C0C0&}真的吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Really?{\r}
+
+779
+00:52:19,270 --> 00:52:21,520
+{\fnSTXihei\fs20\1c&HC0C0C0&}他甚至都不敢亲口告诉我吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And he couldn't even tell me himself.{\r}
+
+780
+00:52:22,180 --> 00:52:23,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}听起来二耳熟吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Does that sound familiar?{\r}
+
+781
+00:52:25,480 --> 00:52:27,050
+{\fnSTXihei\fs20\1c&HC0C0C0&}把他们带去监狱{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Take them to the brig.{\r}
+
+782
+00:52:27,150 --> 00:52:28,460
+{\fnSTXihei\fs20\1c&HC0C0C0&}走吧  快点{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Let's go. Come on.{\r}
+
+783
+00:52:28,550 --> 00:52:31,690
+{\fnSTXihei\fs20\1c&HC0C0C0&}塔利亚是你的朋友  她为你牺牲了自己{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thalia was your friend! She sacrificed herself for you.{\r}
+
+784
+00:52:32,490 --> 00:52:36,800
+{\fnSTXihei\fs20\1c&HC0C0C0&}你跟泰森搞在一起  还敢拿塔利亚的事跟我说教{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You're gonna lecture me about Thalia when you're hanging around with him?{\r}
+
+785
+00:52:38,360 --> 00:52:40,670
+{\fnSTXihei\fs20\1c&HC0C0C0&}最让我失望的就是你{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You disappoint me the most.{\r}
+
+786
+00:53:15,400 --> 00:53:18,540
+{\fnSTXihei\fs20\1c&HC0C0C0&}我跟你说他有监狱吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I told you he had a brig.{\r}
+
+787
+00:53:24,110 --> 00:53:25,450
+{\fnSTXihei\fs20\1c&HC0C0C0&}你怎么能信任泰森{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}How can you trust him?{\r}
+
+788
+00:53:25,540 --> 00:53:27,180
+{\fnSTXihei\fs20\1c&HC0C0C0&}他可能是故意弄那么大动静的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}He was probably making all that noise on purpose.{\r}
+
+789
+00:53:27,280 --> 00:53:29,050
+{\fnSTXihei\fs20\1c&HC0C0C0&}他想让卢克抓到我们{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}He wanted Luke to catch us.{\r}
+
+790
+00:53:29,240 --> 00:53:31,520
+{\fnSTXihei\fs20\1c&HC0C0C0&}你为什么总针对泰森{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What do you have against Tyson anyway?{\r}
+
+791
+00:53:31,610 --> 00:53:33,220
+{\fnSTXihei\fs20\1c&HC0C0C0&}他可是独眼巨人{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}He's a Cyclops.{\r}
+
+792
+00:53:33,420 --> 00:53:36,300
+{\fnSTXihei\fs20\1c&HC0C0C0&}我想官方用语称之为是“眼部受损”{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I think the politically correct term is "ocularly impaired."{\r}
+
+793
+00:53:36,380 --> 00:53:39,160
+{\fnSTXihei\fs20\1c&HC0C0C0&}管他们叫什么  他们又邪恶又危险{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Who cares? They're vicious and they're dangerous.{\r}
+
+794
+00:53:45,030 --> 00:53:47,370
+{\fnSTXihei\fs20\1c&HC0C0C0&}对啊  真是太邪恶了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah, vicious.{\r}
+
+795
+00:54:07,380 --> 00:54:09,370
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们得离开这儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We have to get out of here.{\r}
+
+796
+00:54:09,550 --> 00:54:10,960
+{\fnSTXihei\fs20\1c&HC0C0C0&}要怎么做{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}How?{\r}
+
+797
+00:54:16,990 --> 00:54:18,980
+{\fnSTXihei\fs20\1c&HC0C0C0&}找个东西抓稳了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Just hang on to something.{\r}
+
+798
+00:54:49,990 --> 00:54:51,770
+{\fnSTXihei\fs20\1c&HC0C0C0&}好吧  我要来拿你了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}All right, here we go.{\r}
+
+799
+00:54:55,730 --> 00:54:57,440
+{\fnSTXihei\fs20\1c&HC0C0C0&}拜托  拜托  拜托{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Come on, come on, come on!{\r}
+
+800
+00:55:07,480 --> 00:55:08,820
+{\fnSTXihei\fs20\1c&HC0C0C0&}怎么回事{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What's going on?{\r}
+
+801
+00:55:14,180 --> 00:55:16,060
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西想害死我们{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Percy's trying to kill us.{\r}
+
+802
+00:55:18,260 --> 00:55:19,760
+{\fnSTXihei\fs20\1c&HC0C0C0&}我想他快成功了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I think it's working.{\r}
+
+803
+00:55:31,830 --> 00:55:32,940
+{\fnSTXihei\fs20\1c&HC0C0C0&}你拿到了吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You got it?{\r}
+
+804
+00:55:33,140 --> 00:55:35,140
+{\fnSTXihei\fs20\1c&HC0C0C0&}易如反掌{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Piece of cake.{\r}
+
+805
+00:55:35,340 --> 00:55:37,340
+{\fnSTXihei\fs20\1c&HC0C0C0&}我觉得我要吐了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I think I'm gonna vomit.{\r}
+
+806
+00:55:37,980 --> 00:55:38,950
+{\fnSTXihei\fs20\1c&HC0C0C0&}这要吐了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yep.{\r}
+
+807
+00:55:40,610 --> 00:55:42,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}这东西要怎么用{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}So, how does this work?{\r}
+
+808
+00:55:42,780 --> 00:55:46,420
+{\fnSTXihei\fs20\1c&HC0C0C0&}我也不知道  这是我第一次使用神用封箱胶带{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I don't know. It's my first mythical tape gun.{\r}
+
+809
+00:56:05,600 --> 00:56:07,680
+{\fnSTXihei\fs20\1c&HC0C0C0&}就跟赫尔墨斯说的那样{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Just like Hermes said...{\r}
+
+810
+00:56:08,470 --> 00:56:09,750
+{\fnSTXihei\fs20\1c&HC0C0C0&}立马就会形成了一个洞{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}"instant hole."{\r}
+
+811
+00:56:39,800 --> 00:56:41,310
+{\fnSTXihei\fs20\1c&HC0C0C0&}快到救生艇那里去{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Go to the lifeboat.{\r}
+
+812
+00:56:51,550 --> 00:56:53,260
+{\fnSTXihei\fs20\1c&HC0C0C0&}把引擎关掉{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Kill the engines.{\r}
+
+813
+00:56:58,790 --> 00:57:00,770
+{\fnSTXihei\fs20\1c&HC0C0C0&}这一记是替格罗弗打的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}That was for Grover.{\r}
+
+814
+00:57:11,340 --> 00:57:12,820
+{\fnSTXihei\fs20\1c&HC0C0C0&}抓住他{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Grab him!{\r}
+
+815
+00:57:36,500 --> 00:57:37,840
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们逮到他了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We got him!{\r}
+
+816
+00:57:46,410 --> 00:57:47,850
+{\fnSTXihei\fs20\1c&HC0C0C0&}你在干嘛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What are you doing?{\r}
+
+817
+00:57:48,440 --> 00:57:50,010
+{\fnSTXihei\fs20\1c&HC0C0C0&}别在我的屋顶走来走去{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Don't walk on my roof.{\r}
+
+818
+00:57:55,850 --> 00:57:57,490
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西  加入我的队伍吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Join me, Percy.{\r}
+
+819
+00:57:57,680 --> 00:58:01,360
+{\fnSTXihei\fs20\1c&HC0C0C0&}这是你命中注定的  你摆脱不了预言{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's what you were meant to do. You can't escape that prophecy.{\r}
+
+820
+00:58:02,290 --> 00:58:04,270
+{\fnSTXihei\fs20\1c&HC0C0C0&}让我们一起干一番大事给老爸们看看吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Let's show both of our fathers.{\r}
+
+821
+00:58:04,860 --> 00:58:06,270
+{\fnSTXihei\fs20\1c&HC0C0C0&}你说得很吸引人{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's tempting.{\r}
+
+822
+00:58:10,800 --> 00:58:13,250
+{\fnSTXihei\fs20\1c&HC0C0C0&}你还真是个天才啊  真的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}That's genius. Really.{\r}
+
+823
+00:58:13,970 --> 00:58:15,540
+{\fnSTXihei\fs20\1c&HC0C0C0&}但我想还是算了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}But I think I'll pass.{\r}
+
+824
+00:58:32,280 --> 00:58:33,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}别又这样{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Not this again.{\r}
+
+825
+00:58:36,360 --> 00:58:37,330
+{\fnSTXihei\fs20\1c&HC0C0C0&}快走{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Go!{\r}
+
+826
+00:58:37,420 --> 00:58:39,930
+{\fnSTXihei\fs20\1c&HC0C0C0&}- 你要留下来吗  - 我随后就到{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}- Are you staying? - I'll be right behind you.{\r}
+
+827
+00:58:44,160 --> 00:58:45,470
+{\fnSTXihei\fs20\1c&HC0C0C0&}也来试试你吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}May as well.{\r}
+
+828
+00:59:20,200 --> 00:59:21,610
+{\fnSTXihei\fs20\1c&HC0C0C0&}杰克逊  够了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Jackson, enough.{\r}
+
+829
+00:59:26,210 --> 00:59:28,420
+{\fnSTXihei\fs20\1c&HC0C0C0&}你现在处在劣势{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You're on the losing side.{\r}
+
+830
+00:59:29,110 --> 00:59:30,820
+{\fnSTXihei\fs20\1c&HC0C0C0&}在我看来可不是这样{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Not from where I stand.{\r}
+
+831
+00:59:48,860 --> 00:59:50,370
+{\fnSTXihei\fs20\1c&HC0C0C0&}挺聪明的嘛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Smart.{\r}
+
+832
+00:59:50,560 --> 00:59:53,310
+{\fnSTXihei\fs20\1c&HC0C0C0&}我是智慧女神之女  不记得吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Goddess of wisdom's daughter, remember?{\r}
+
+833
+00:59:54,170 --> 00:59:55,770
+{\fnSTXihei\fs20\1c&HC0C0C0&}我记得呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I remember.{\r}
+
+834
+01:00:04,010 --> 01:00:07,900
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们的同盟跟羊男在寻找金羊毛方面还是领先于他们{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Our allies and the satyr still have a head start on the Fleece.{\r}
+
+835
+01:00:09,520 --> 01:00:11,900
+{\fnSTXihei\fs20\1c&HC0C0C0&}克隆那斯大人  我们一定会让你复活的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We will resurrect you, Lord Kronos.{\r}
+
+836
+01:00:12,650 --> 01:00:14,690
+{\fnSTXihei\fs20\1c&HC0C0C0&}你会尝到复仇的滋味的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You will know vengeance.{\r}
+
+837
+01:00:15,990 --> 01:00:19,460
+{\fnSTXihei\fs20\1c&HC0C0C0&}那些轻视我们的十二主神一定会尝到死亡的滋味{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And the Olympians who scorned us will know death.{\r}
+
+838
+01:00:38,610 --> 01:00:41,030
+{\fnSTXihei\fs20\1c&HC0C0C0&}你该补一下喷雾了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Maybe you should reapply.{\r}
+
+839
+01:00:43,420 --> 01:00:44,730
+{\fnSTXihei\fs20\1c&HC0C0C0&}喷雾退了吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It wore off?{\r}
+
+840
+01:00:46,290 --> 01:00:47,270
+{\fnSTXihei\fs20\1c&HC0C0C0&}对{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah.{\r}
+
+841
+01:01:00,530 --> 01:01:01,740
+{\fnSTXihei\fs20\1c&HC0C0C0&}拜托{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Come on.{\r}
+
+842
+01:01:03,570 --> 01:01:04,850
+{\fnSTXihei\fs20\1c&HC0C0C0&}别啊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Oh, no.{\r}
+
+843
+01:01:10,580 --> 01:01:11,580
+{\fnSTXihei\fs20\1c&HC0C0C0&}嘿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey.{\r}
+
+844
+01:01:12,450 --> 01:01:14,520
+{\fnSTXihei\fs20\1c&HC0C0C0&}你想掌舵吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Do you want to steer for a while?{\r}
+
+845
+01:01:16,750 --> 01:01:18,060
+{\fnSTXihei\fs20\1c&HC0C0C0&}谢谢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thank you.{\r}
+
+846
+01:01:19,520 --> 01:01:22,030
+{\fnSTXihei\fs20\1c&HC0C0C0&}从来没人愿意信任我做任何事{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Nobody's ever trusted me with anything before.{\r}
+
+847
+01:01:22,120 --> 01:01:25,110
+{\fnSTXihei\fs20\1c&HC0C0C0&}是因为你没办法判断景深吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Is that because of your lack of depth perception?{\r}
+
+848
+01:01:26,500 --> 01:01:28,670
+{\fnSTXihei\fs20\1c&HC0C0C0&}是因为大家怕你吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Is it because they're scared of you?{\r}
+
+849
+01:01:32,670 --> 01:01:34,770
+{\fnSTXihei\fs20\1c&HC0C0C0&}有一天  我当时在山里{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I was in the mountains one day...{\r}
+
+850
+01:01:35,500 --> 01:01:40,510
+{\fnSTXihei\fs20\1c&HC0C0C0&}后来来了几个露营的童子军{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}and some campers, Boy Scouts, showed up.{\r}
+
+851
+01:01:43,280 --> 01:01:46,920
+{\fnSTXihei\fs20\1c&HC0C0C0&}他们看到我之后下的大声尖叫{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And when they saw me, they screamed.{\r}
+
+852
+01:01:48,480 --> 01:01:49,960
+{\fnSTXihei\fs20\1c&HC0C0C0&}四处逃窜{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}They ran.{\r}
+
+853
+01:01:51,690 --> 01:01:54,000
+{\fnSTXihei\fs20\1c&HC0C0C0&}我很确定我当时是微笑着的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And I'm pretty sure I smiled.{\r}
+
+854
+01:01:56,790 --> 01:01:59,670
+{\fnSTXihei\fs20\1c&HC0C0C0&}但大家看到我都把我当成怪物{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}People look at me, and they see a monster.{\r}
+
+855
+01:02:00,400 --> 01:02:02,740
+{\fnSTXihei\fs20\1c&HC0C0C0&}有时候  我在想  或许他们是对的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Sometimes, I think maybe they're right.{\r}
+
+856
+01:02:05,370 --> 01:02:09,010
+{\fnSTXihei\fs20\1c&HC0C0C0&}你不是怪物  别对自己那么残忍{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You're not a monster. Don't be so hard on yourself.{\r}
+
+857
+01:02:11,470 --> 01:02:12,950
+{\fnSTXihei\fs20\1c&HC0C0C0&}你当然说起来很轻松{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Easy for you to say.{\r}
+
+858
+01:02:13,140 --> 01:02:14,450
+{\fnSTXihei\fs20\1c&HC0C0C0&}什么意思{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What do you mean?{\r}
+
+859
+01:02:14,540 --> 01:02:17,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}你从来没怀疑过或看不起过自己{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You never doubt yourself or think you're less than you are.{\r}
+
+860
+01:02:21,880 --> 01:02:23,990
+{\fnSTXihei\fs20\1c&HC0C0C0&}谢谢你  哥哥{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thank you, brother.{\r}
+
+861
+01:02:24,520 --> 01:02:27,230
+{\fnSTXihei\fs20\1c&HC0C0C0&}到这边来  慢慢打开{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Come here. Open it slowly.{\r}
+
+862
+01:02:27,420 --> 01:02:28,630
+{\fnSTXihei\fs20\1c&HC0C0C0&}慢一点{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Slowly.{\r}
+
+863
+01:02:30,490 --> 01:02:34,470
+{\fnSTXihei\fs20\1c&HC0C0C0&}速度放慢一点  好吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey, just take it slow. Slow, okay?{\r}
+
+864
+01:02:40,700 --> 01:02:43,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}我连一般的保温瓶都不敢交付给他{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I wouldn't have trusted him with a normal thermos.{\r}
+
+865
+01:02:44,040 --> 01:02:45,990
+{\fnSTXihei\fs20\1c&HC0C0C0&}他做得还行啊  我是说{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}He seems okay.I mean...{\r}
+
+866
+01:02:46,170 --> 01:02:48,950
+{\fnSTXihei\fs20\1c&HC0C0C0&}我实在搞不懂你对他有什么偏见{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I really don't get what your problem with him is.{\r}
+
+867
+01:02:51,710 --> 01:02:54,320
+{\fnSTXihei\fs20\1c&HC0C0C0&}因为你不了解我对他们有什么了解{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Because you don't know what I know about them.{\r}
+
+868
+01:02:54,880 --> 01:02:55,990
+{\fnSTXihei\fs20\1c&HC0C0C0&}塔利亚{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thalia!{\r}
+
+869
+01:03:03,590 --> 01:03:05,870
+{\fnSTXihei\fs20\1c&HC0C0C0&}是一个独眼巨人杀了她{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}A Cyclops killed her.{\r}
+
+870
+01:03:07,200 --> 01:03:09,510
+{\fnSTXihei\fs20\1c&HC0C0C0&}他的同类杀了塔利亚{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}His kind killed Thalia.{\r}
+
+871
+01:03:11,030 --> 01:03:12,510
+{\fnSTXihei\fs20\1c&HC0C0C0&}对不起{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm sorry.{\r}
+
+872
+01:03:13,940 --> 01:03:15,420
+{\fnSTXihei\fs20\1c&HC0C0C0&}我之前一直不知道{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I never knew.{\r}
+
+873
+01:03:15,610 --> 01:03:18,180
+{\fnSTXihei\fs20\1c&HC0C0C0&}我也不喜欢谈这个话题{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Well, it's not something I like talking about.{\r}
+
+874
+01:03:19,310 --> 01:03:21,920
+{\fnSTXihei\fs20\1c&HC0C0C0&}不管如何  那是很久之前的事了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And anyway, it was a long time ago.{\r}
+
+875
+01:03:31,760 --> 01:03:33,100
+{\fnSTXihei\fs20\1c&HC0C0C0&}那是什么{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What is that?{\r}
+
+876
+01:03:34,290 --> 01:03:36,030
+{\fnSTXihei\fs20\1c&HC0C0C0&}魔兽之海{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's the Sea of Monsters.{\r}
+
+877
+01:03:42,470 --> 01:03:44,040
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们干嘛停下来{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Why are we stopping?{\r}
+
+878
+01:03:47,670 --> 01:03:49,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}我应该用两只手来的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I should have used two hands.{\r}
+
+879
+01:03:49,640 --> 01:03:50,980
+{\fnSTXihei\fs20\1c&HC0C0C0&}那你觉得该用几只手{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You think?{\r}
+
+880
+01:03:52,010 --> 01:03:53,320
+{\fnSTXihei\fs20\1c&HC0C0C0&}你在生我的气吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Are you mad at me?{\r}
+
+881
+01:03:53,410 --> 01:03:55,320
+{\fnSTXihei\fs20\1c&HC0C0C0&}没有  我不是生你的气{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No, not at you.{\r}
+
+882
+01:04:12,530 --> 01:04:14,340
+{\fnSTXihei\fs20\1c&HC0C0C0&}告诉我那些不是鲨鱼{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Tell me those aren't sharks.{\r}
+
+883
+01:04:17,500 --> 01:04:19,180
+{\fnSTXihei\fs20\1c&HC0C0C0&}那些不是鲨鱼{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Those aren't sharks.{\r}
+
+884
+01:04:20,100 --> 01:04:22,250
+{\fnSTXihei\fs20\1c&HC0C0C0&}快划  快点划{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Paddle! Paddle!{\r}
+
+885
+01:04:27,340 --> 01:04:29,220
+{\fnSTXihei\fs20\1c&HC0C0C0&}对  是鲨鱼还反而还好了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah, sharks would be better.{\r}
+
+886
+01:04:43,800 --> 01:04:45,610
+{\fnSTXihei\fs20\1c&HC0C0C0&}是卡律布迪斯（波塞顿与盖亚的女儿）{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's Charybdis.{\r}
+
+887
+01:04:45,800 --> 01:04:47,070
+{\fnSTXihei\fs20\1c&HC0C0C0&}卡律布... 什么{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Charyb... What?{\r}
+
+888
+01:04:47,160 --> 01:04:49,150
+{\fnSTXihei\fs20\1c&HC0C0C0&}她负责镇守魔兽之海{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}She guards the Sea of Monsters.{\r}
+
+889
+01:04:55,040 --> 01:04:56,180
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Percy!{\r}
+
+890
+01:05:03,650 --> 01:05:05,190
+{\fnSTXihei\fs20\1c&HC0C0C0&}我的能力不管用了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's not working!{\r}
+
+891
+01:05:06,150 --> 01:05:09,160
+{\fnSTXihei\fs20\1c&HC0C0C0&}魔兽之海可能不归波塞顿管{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The Sea of Monsters might not be in Poseidon's domain.{\r}
+
+892
+01:05:12,720 --> 01:05:13,700
+{\fnSTXihei\fs20\1c&HC0C0C0&}抓稳了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hold on!{\r}
+
+893
+01:05:52,970 --> 01:05:54,500
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们在哪儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Where are we?{\r}
+
+894
+01:05:56,800 --> 01:05:58,480
+{\fnSTXihei\fs20\1c&HC0C0C0&}闻起来像胃的味道{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Smells like the stomach.{\r}
+
+895
+01:06:08,910 --> 01:06:10,790
+{\fnSTXihei\fs20\1c&HC0C0C0&}小心脚下{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Watch your step.{\r}
+
+896
+01:06:16,960 --> 01:06:18,600
+{\fnSTXihei\fs20\1c&HC0C0C0&}这是什么东西{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What is this stuff?{\r}
+
+897
+01:06:19,390 --> 01:06:21,370
+{\fnSTXihei\fs20\1c&HC0C0C0&}我觉得你不会想知道的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I don't think you want to know.{\r}
+
+898
+01:06:22,290 --> 01:06:24,780
+{\fnSTXihei\fs20\1c&HC0C0C0&}肯定没有比这更糟的死法了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}This has to be the worst way to die, ever.{\r}
+
+899
+01:06:24,960 --> 01:06:28,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}对  所有在百慕大三角消失的东西{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah, everything that disappears in the Bermuda Triangle...{\r}
+
+900
+01:06:28,900 --> 01:06:30,970
+{\fnSTXihei\fs20\1c&HC0C0C0&}最终都会来到这里{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}this is where they end up.{\r}
+
+901
+01:06:31,840 --> 01:06:33,320
+{\fnSTXihei\fs20\1c&HC0C0C0&}拜托{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Come on!{\r}
+
+902
+01:06:34,310 --> 01:06:35,750
+{\fnSTXihei\fs20\1c&HC0C0C0&}听起来好像是克拉丽丝{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}That sounded like Clarissa.{\r}
+
+903
+01:06:35,840 --> 01:06:37,620
+{\fnSTXihei\fs20\1c&HC0C0C0&}不  不可能是她{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No, it couldn't be her.{\r}
+
+904
+01:06:37,810 --> 01:06:40,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们这群愚蠢的大笨蛋{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You ridiculously stupid morons.{\r}
+
+905
+01:06:40,780 --> 01:06:42,660
+{\fnSTXihei\fs20\1c&HC0C0C0&}是她没错  就是她{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No, it's her. -It's her.{\r}
+
+906
+01:06:47,250 --> 01:06:48,230
+{\fnSTXihei\fs20\1c&HC0C0C0&}你这个白痴{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You idiot!{\r}
+
+907
+01:06:48,320 --> 01:06:51,600
+{\fnSTXihei\fs20\1c&HC0C0C0&}你最好让我的电网正常运作  否则我就把你的头塞进去{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Better keep my electric grid up and running, or I'll plug your head into it!{\r}
+
+908
+01:06:51,690 --> 01:06:53,600
+{\fnSTXihei\fs20\1c&HC0C0C0&}克拉丽丝  嘿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Clarissa! Hey!{\r}
+
+909
+01:06:56,430 --> 01:06:59,470
+{\fnSTXihei\fs20\1c&HC0C0C0&}杰克逊  你来这里干嘛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Jackson? What are you doing here?{\r}
+
+910
+01:06:59,670 --> 01:07:01,770
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们跟你们一样被吞了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We got swallowed up, just like you.{\r}
+
+911
+01:07:01,970 --> 01:07:03,040
+{\fnSTXihei\fs20\1c&HC0C0C0&}好棒的船啊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Nice ship.{\r}
+
+912
+01:07:03,140 --> 01:07:06,250
+{\fnSTXihei\fs20\1c&HC0C0C0&}我老爸作战留了一大堆这样的船下来{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}My dad's got tons of this stuff left over from wars throughout history.{\r}
+
+913
+01:07:06,340 --> 01:07:10,820
+{\fnSTXihei\fs20\1c&HC0C0C0&}不开船就得开越战留下直升机  我觉得船比较实用{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It was either this or a Huey from Vietnam. I figured a boat would be more practical.{\r}
+
+914
+01:07:13,380 --> 01:07:14,690
+{\fnSTXihei\fs20\1c&HC0C0C0&}怎么回事{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What's going on?{\r}
+
+915
+01:07:14,780 --> 01:07:18,230
+{\fnSTXihei\fs20\1c&HC0C0C0&}你认为在胃里面还会有什么事{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Pretty much exactly what you think goes on inside of a stomach.{\r}
+
+916
+01:07:31,460 --> 01:07:32,810
+{\fnSTXihei\fs20\1c&HC0C0C0&}你说的对{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You're right.{\r}
+
+917
+01:07:33,000 --> 01:07:34,910
+{\fnSTXihei\fs20\1c&HC0C0C0&}这真的是最糟的死法{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}That really is the worst way to die.{\r}
+
+918
+01:07:35,000 --> 01:07:36,000
+{\fnSTXihei\fs20\1c&HC0C0C0&}里尔登{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Reardon!{\r}
+
+919
+01:07:36,100 --> 01:07:38,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}我的引擎他娘的是怎么回事  弄好了吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What in Hades is going on with my engine? Is it ready yet?{\r}
+
+920
+01:07:38,670 --> 01:07:41,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}小姐  快好了 他们正在努力{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Almost, ma'am. They're working on it.{\r}
+
+921
+01:07:41,740 --> 01:07:44,350
+{\fnSTXihei\fs20\1c&HC0C0C0&}等等  你的船员是僵尸吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Wait, your crew is zombies?{\r}
+
+922
+01:07:46,880 --> 01:07:48,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}他们是“已故南方联盟的水手”{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}They prefer "dead Confederate sailors{\r}
+
+923
+01:07:48,680 --> 01:07:50,630
+{\fnSTXihei\fs20\1c&HC0C0C0&}“向阿瑞斯致敬奉献了生命”{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}whose lives have been given in tribute to Ares."{\r}
+
+924
+01:07:50,720 --> 01:07:53,170
+{\fnSTXihei\fs20\1c&HC0C0C0&}不过叫僵尸也无所谓啦{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}But "zombies" is fine.{\r}
+
+925
+01:08:08,000 --> 01:08:10,540
+{\fnSTXihei\fs20\1c&HC0C0C0&}里尔登  枪准备好了吗  快点  我马上就要{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Reardon! Gun! Faster! Now!{\r}
+
+926
+01:08:10,740 --> 01:08:12,690
+{\fnSTXihei\fs20\1c&HC0C0C0&}船长  枪已备妥上膛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Gun is hot, Cap'n. Locked and loaded.{\r}
+
+927
+01:08:12,770 --> 01:08:14,750
+{\fnSTXihei\fs20\1c&HC0C0C0&}瞄准那个绞肉机{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Aim it at that meat grinder.{\r}
+
+928
+01:08:14,940 --> 01:08:17,190
+{\fnSTXihei\fs20\1c&HC0C0C0&}等等... 你想用枪来打它吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Wait, wait. You want to shoot that thing with this?{\r}
+
+929
+01:08:17,280 --> 01:08:20,420
+{\fnSTXihei\fs20\1c&HC0C0C0&}你还有更好的主意吗  有的话就快说{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Do you have a better idea? Because now would be the time.{\r}
+
+930
+01:08:23,920 --> 01:08:25,190
+{\fnSTXihei\fs20\1c&HC0C0C0&}嘿  克拉丽丝{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey, Clarissa.{\r}
+
+931
+01:08:25,950 --> 01:08:26,990
+{\fnSTXihei\fs20\1c&HC0C0C0&}干嘛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What?{\r}
+
+932
+01:08:27,190 --> 01:08:28,430
+{\fnSTXihei\fs20\1c&HC0C0C0&}你会开船吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Can you steer the ship?{\r}
+
+933
+01:08:28,520 --> 01:08:31,340
+{\fnSTXihei\fs20\1c&HC0C0C0&}不会  我才刚接受完驾驶员课程教育  废话  我当然会开船{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No. I just finished driver's ed. Yes, of course, I can steer a ship.{\r}
+
+934
+01:08:31,430 --> 01:08:32,840
+{\fnSTXihei\fs20\1c&HC0C0C0&}这个嘛...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Well...{\r}
+
+935
+01:08:33,290 --> 01:08:34,800
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们何不让它胃痛一下{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}why don't we give her a stomach ache?{\r}
+
+936
+01:08:34,900 --> 01:08:36,770
+{\fnSTXihei\fs20\1c&HC0C0C0&}然后我们司机从肠子逃走{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We'll escape through the gut.{\r}
+
+937
+01:08:37,360 --> 01:08:39,310
+{\fnSTXihei\fs20\1c&HC0C0C0&}要是没先被它给弄死  这招可能会管用{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It just might work if it doesn't kill us first.{\r}
+
+938
+01:08:39,400 --> 01:08:41,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}你负责驾驶  我来负责开枪{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You steer, I'll shoot.{\r}
+
+939
+01:08:42,800 --> 01:08:44,440
+{\fnSTXihei\fs20\1c&HC0C0C0&}所有人员到甲板下去{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}All hands below deck!{\r}
+
+940
+01:08:46,870 --> 01:08:48,580
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西  祝你好运{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Good luck, Percy.{\r}
+
+941
+01:08:53,480 --> 01:08:55,930
+{\fnSTXihei\fs20\1c&HC0C0C0&}所有人员到甲板底下  这不是演习{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}All hands below deck. This is not a drill!{\r}
+
+942
+01:08:56,050 --> 01:08:58,030
+{\fnSTXihei\fs20\1c&HC0C0C0&}快点  兄弟们  快进去{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Come on, boys. Get in there.{\r}
+
+943
+01:09:02,320 --> 01:09:03,930
+{\fnSTXihei\fs20\1c&HC0C0C0&}这还是我的任务{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}This is still my quest.{\r}
+
+944
+01:09:04,120 --> 01:09:06,370
+{\fnSTXihei\fs20\1c&HC0C0C0&}不准把我的任务搞砸了  杰克逊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Do not screw this up for me, Jackson.{\r}
+
+945
+01:09:26,010 --> 01:09:27,930
+{\fnSTXihei\fs20\1c&HC0C0C0&}你应该对自己吃的食物多留点神{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You should watch what you eat.{\r}
+
+946
+01:09:43,930 --> 01:09:44,910
+{\fnSTXihei\fs20\1c&HC0C0C0&}快走{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Go!{\r}
+
+947
+01:09:45,100 --> 01:09:46,670
+{\fnSTXihei\fs20\1c&HC0C0C0&}这个不是在开玩笑{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No kidding, genius.{\r}
+
+948
+01:09:58,850 --> 01:10:00,660
+{\fnSTXihei\fs20\1c&HC0C0C0&}最好能管用{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I hope this works.{\r}
+
+949
+01:10:02,880 --> 01:10:05,260
+{\fnSTXihei\fs20\1c&HC0C0C0&}- 别忘了  - 别忘了什么{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}- Just don't forget. - Forget what?{\r}
+
+950
+01:10:07,790 --> 01:10:09,790
+{\fnSTXihei\fs20\1c&HC0C0C0&}这可全都是你的主意{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}This is all your idea.{\r}
+
+951
+01:10:24,810 --> 01:10:26,180
+{\fnSTXihei\fs20\1c&HC0C0C0&}拜托  拜托{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Come on, come on.{\r}
+
+952
+01:10:38,990 --> 01:10:41,160
+{\fnSTXihei\fs20\1c&HC0C0C0&}- 我们成功了  - 我成功了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}- We did it! - I did it!{\r}
+
+953
+01:10:42,720 --> 01:10:44,870
+{\fnSTXihei\fs20\1c&HC0C0C0&}听好  全速前进{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Listen up. Full power to the screws.{\r}
+
+954
+01:10:45,060 --> 01:10:46,410
+{\fnSTXihei\fs20\1c&HC0C0C0&}嘿  你们还好吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey. are you guys all right?{\r}
+
+955
+01:10:46,500 --> 01:10:47,840
+{\fnSTXihei\fs20\1c&HC0C0C0&}你简直太棒了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}That was amazing.{\r}
+
+956
+01:10:51,940 --> 01:10:53,510
+{\fnSTXihei\fs20\1c&HC0C0C0&}你得有信心 知道吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You have to have faith, right?{\r}
+
+957
+01:10:53,600 --> 01:10:56,090
+{\fnSTXihei\fs20\1c&HC0C0C0&}再加一座大炮  我们一定会找到格罗弗的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And a cannon. We'll find Grover.{\r}
+
+958
+01:10:58,010 --> 01:10:59,420
+{\fnSTXihei\fs20\1c&HC0C0C0&}伊克那提呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Where is lchneutae?{\r}
+
+959
+01:10:59,510 --> 01:11:01,080
+{\fnSTXihei\fs20\1c&HC0C0C0&}你现在想起伊克那提了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Now you miss lchneutae?{\r}
+
+960
+01:11:01,180 --> 01:11:04,220
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们碰到希拉那个长着九个头的女妖{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We ran into Scylla, that multi-headed Hydra thing.{\r}
+
+961
+01:11:04,410 --> 01:11:06,020
+{\fnSTXihei\fs20\1c&HC0C0C0&}他就说“我来搞定它”{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}He said, "I got this."{\r}
+
+962
+01:11:06,220 --> 01:11:07,660
+{\fnSTXihei\fs20\1c&HC0C0C0&}也算是有名的遗言{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Famous last words.{\r}
+
+963
+01:11:07,850 --> 01:11:09,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}船长  动力系统全部恢复了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We've restored full power, Cap'n.{\r}
+
+964
+01:11:10,290 --> 01:11:12,000
+{\fnSTXihei\fs20\1c&HC0C0C0&}- 朝哪个方向前进  - 西北方{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}- Heading? - Northwest.{\r}
+
+965
+01:11:19,860 --> 01:11:21,500
+{\fnSTXihei\fs20\1c&HC0C0C0&}你确定吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Are you sure about that?{\r}
+
+966
+01:11:21,600 --> 01:11:24,910
+{\fnSTXihei\fs20\1c&HC0C0C0&}对  我确定  怎么  你有什么疑问吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yes, I'm sure about that. Why, do you have a problem?{\r}
+
+967
+01:11:25,100 --> 01:11:26,780
+{\fnSTXihei\fs20\1c&HC0C0C0&}对啊  你有什么疑问吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah, you got a problem?{\r}
+
+968
+01:11:28,200 --> 01:11:33,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}我认为你的南方邦联战舰现在正在朝往佛罗里达西棕榈滩走{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I think your Confederate warship is heading to West Palm Beach, Florida.{\r}
+
+969
+01:11:35,140 --> 01:11:36,120
+{\fnSTXihei\fs20\1c&HC0C0C0&}怎么了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What is it?{\r}
+
+970
+01:11:36,210 --> 01:11:39,720
+{\fnSTXihei\fs20\1c&HC0C0C0&}我知道这听起来很夸张  但这有点像我的阅读困难症{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I know this sounds insane, but it's kind of like my dyslexia.{\r}
+
+971
+01:11:39,920 --> 01:11:44,100
+{\fnSTXihei\fs20\1c&HC0C0C0&}我看不懂希腊文  却看得懂地图上的经纬线{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}But instead of being able to read Greek, I can see map lines.{\r}
+
+972
+01:11:44,450 --> 01:11:47,370
+{\fnSTXihei\fs20\1c&HC0C0C0&}三十  三十一  七十五  十二{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}30. 31, 75,12.{\r}
+
+973
+01:11:48,790 --> 01:11:51,100
+{\fnSTXihei\fs20\1c&HC0C0C0&}等等  这些数字是...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Wait, that's the numbers from the...{\r}
+
+974
+01:11:51,290 --> 01:11:54,940
+{\fnSTXihei\fs20\1c&HC0C0C0&}是那些没眼睛的神经病司机说的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}From the crazy, eyeless taxi drivers.{\r}
+
+975
+01:11:55,130 --> 01:11:56,610
+{\fnSTXihei\fs20\1c&HC0C0C0&}这些是座标{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}They're coordinates.{\r}
+
+976
+01:11:57,070 --> 01:11:58,510
+{\fnSTXihei\fs20\1c&HC0C0C0&}水小子总算搞清楚了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Waterboy figured it out.{\r}
+
+977
+01:11:58,600 --> 01:11:59,740
+{\fnSTXihei\fs20\1c&HC0C0C0&}他叫你神经病呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And he called you crazy.{\r}
+
+978
+01:11:59,840 --> 01:12:01,010
+{\fnSTXihei\fs20\1c&HC0C0C0&}事实上  他是在叫你神经病{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Actually, he called you crazy.{\r}
+
+979
+01:12:01,100 --> 01:12:02,910
+{\fnSTXihei\fs20\1c&HC0C0C0&}嘿  眼睛看着路{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey, eye on the road.{\r}
+
+980
+01:12:03,470 --> 01:12:05,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}北纬三十  三十一度{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}30, 31 degrees north...{\r}
+
+981
+01:12:06,110 --> 01:12:08,220
+{\fnSTXihei\fs20\1c&HC0C0C0&}西经七十五 十二度{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}75,12 degrees west.{\r}
+
+982
+01:12:08,410 --> 01:12:10,860
+{\fnSTXihei\fs20\1c&HC0C0C0&}波吕斐摩斯跟金羊毛就在那里{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}That's where Polyphemus and the Fleece are.{\r}
+
+983
+01:12:10,950 --> 01:12:13,290
+{\fnSTXihei\fs20\1c&HC0C0C0&}改变航道   朝西南方前进{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Change course. Southwest.{\r}
+
+984
+01:12:13,480 --> 01:12:14,830
+{\fnSTXihei\fs20\1c&HC0C0C0&}遵~命{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Aye.{\r}
+
+985
+01:12:15,190 --> 01:12:16,430
+{\fnSTXihei\fs20\1c&HC0C0C0&}抱歉{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Sorry.{\r}
+
+986
+01:12:39,280 --> 01:12:40,760
+{\fnSTXihei\fs20\1c&HC0C0C0&}发现陆地了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Land ho!{\r}
+
+987
+01:12:44,520 --> 01:12:47,160
+{\fnSTXihei\fs20\1c&HC0C0C0&}波吕斐摩斯住在游乐场里面吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Polyphemus lives in an amusement park?{\r}
+
+988
+01:12:47,350 --> 01:12:49,130
+{\fnSTXihei\fs20\1c&HC0C0C0&}不  他住在一个岛上{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No, he lives on an island.{\r}
+
+989
+01:12:49,320 --> 01:12:50,800
+{\fnSTXihei\fs20\1c&HC0C0C0&}但女妖锡西觉得{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}But the goddess Circe thought building{\r}
+
+990
+01:12:50,890 --> 01:12:53,390
+{\fnSTXihei\fs20\1c&HC0C0C0&}在岛上盖游乐场是个不错的主意{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}an amusement park on top of it was a good idea.{\r}
+
+991
+01:12:53,490 --> 01:12:54,730
+{\fnSTXihei\fs20\1c&HC0C0C0&}其实根本不是{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It really wasn't.{\r}
+
+992
+01:12:54,830 --> 01:12:56,070
+{\fnSTXihei\fs20\1c&HC0C0C0&}发生什么事了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What happened?{\r}
+
+993
+01:12:56,660 --> 01:12:57,900
+{\fnSTXihei\fs20\1c&HC0C0C0&}剪彩那天...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Opening day...{\r}
+
+994
+01:12:58,000 --> 01:13:02,180
+{\fnSTXihei\fs20\1c&HC0C0C0&}来了一堆可口的混血儿  跟一个饿极了的独眼巨人{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}long lines of savory half-bloods and one hungry Cyclops.{\r}
+
+995
+01:13:03,000 --> 01:13:04,380
+{\fnSTXihei\fs20\1c&HC0C0C0&}这可对生意影响不好{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Bad for business.{\r}
+
+996
+01:13:05,140 --> 01:13:06,950
+{\fnSTXihei\fs20\1c&HC0C0C0&}我马上就掉头{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'll just turn us right around then.{\r}
+
+997
+01:13:07,040 --> 01:13:08,950
+{\fnSTXihei\fs20\1c&HC0C0C0&}找个地方停船{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Find us a place to dock.{\r}
+
+998
+01:13:10,210 --> 01:13:12,380
+{\fnSTXihei\fs20\1c&HC0C0C0&}我就怕她要这么说{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I was afraid she was gonna say that.{\r}
+
+999
+01:13:31,160 --> 01:13:34,150
+{\fnSTXihei\fs20\1c&HC0C0C0&}我想独眼巨人确实是会影响生意{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I guess the Cyclops was bad for business.{\r}
+
+1000
+01:13:34,330 --> 01:13:35,540
+{\fnSTXihei\fs20\1c&HC0C0C0&}当初谁知道啊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Who knew?{\r}
+
+1001
+01:13:37,670 --> 01:13:40,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们没时间搜查整个游乐场{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We don't have time to search this whole place.{\r}
+
+1002
+01:13:42,910 --> 01:13:44,580
+{\fnSTXihei\fs20\1c&HC0C0C0&}我觉得没有必要{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I don't think we have to.{\r}
+
+1003
+01:13:47,010 --> 01:13:49,220
+{\fnSTXihei\fs20\1c&HC0C0C0&}“直坠死亡”{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}"Plummet of Death"?{\r}
+
+1004
+01:13:50,010 --> 01:13:51,490
+{\fnSTXihei\fs20\1c&HC0C0C0&}还真是含蓄{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}That's subtle.{\r}
+
+1005
+01:13:52,280 --> 01:13:55,290
+{\fnSTXihei\fs20\1c&HC0C0C0&}看来是有只庞然大物从这里通过啊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It looks like something really big went through there.{\r}
+
+1006
+01:13:56,520 --> 01:13:59,560
+{\fnSTXihei\fs20\1c&HC0C0C0&}不知道  我觉得看起来不像是独眼巨人{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I don't know. It doesn't really scream "Cyclops" to me.{\r}
+
+1007
+01:14:03,800 --> 01:14:05,640
+{\fnSTXihei\fs20\1c&HC0C0C0&}至少不用排队{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}At least there's no line.{\r}
+
+1008
+01:14:11,540 --> 01:14:13,110
+{\fnSTXihei\fs20\1c&HC0C0C0&}看着挺好玩的嘛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Sweet ride.{\r}
+
+1009
+01:14:16,210 --> 01:14:17,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}可能需要推一把{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Might need a push.{\r}
+
+1010
+01:14:24,480 --> 01:14:25,990
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们走吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Here we go.{\r}
+
+1011
+01:14:28,120 --> 01:14:30,230
+{\fnSTXihei\fs20\1c&HC0C0C0&}泰森  放开我的手{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Tyson? Let go of my hand.{\r}
+
+1012
+01:14:30,420 --> 01:14:31,560
+{\fnSTXihei\fs20\1c&HC0C0C0&}对不起{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Sorry.{\r}
+
+1013
+01:14:34,030 --> 01:14:37,770
+{\fnSTXihei\fs20\1c&HC0C0C0&}世界真小啊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's a small world after all{\r}
+
+1014
+01:14:37,960 --> 01:14:41,410
+{\fnSTXihei\fs20\1c&HC0C0C0&}世界真小啊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's a small world after all{\r}
+
+1015
+01:14:41,600 --> 01:14:43,950
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们两个闭嘴行吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Could you two just shut up?{\r}
+
+1016
+01:14:48,040 --> 01:14:49,020
+{\fnSTXihei\fs20\1c&HC0C0C0&}坐稳了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hold on!{\r}
+
+1017
+01:14:51,540 --> 01:14:52,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}大家没事吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Is everybody okay?{\r}
+
+1018
+01:14:52,980 --> 01:14:55,050
+{\fnSTXihei\fs20\1c&HC0C0C0&}我还以为会更好玩的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I thought that would be more fun.{\r}
+
+1019
+01:15:00,620 --> 01:15:03,330
+{\fnSTXihei\fs20\1c&HC0C0C0&}我想我懂了格罗弗之前为什么会那么担心了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I think I get what Grover was so worried about.{\r}
+
+1020
+01:15:04,990 --> 01:15:07,300
+{\fnSTXihei\fs20\1c&HC0C0C0&}这一定是波吕斐摩斯在奥德修斯从特洛伊战争归来时{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}This must be the boulder Polyphemus used to trap Odysseus...{\r}
+
+1021
+01:15:07,390 --> 01:15:09,930
+{\fnSTXihei\fs20\1c&HC0C0C0&}用来困住他的那块大石头{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}when he was returning from the Trojan War.{\r}
+
+1022
+01:15:10,530 --> 01:15:12,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}没错   我也知道这事儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah, that's right. I know stuff.{\r}
+
+1023
+01:15:28,680 --> 01:15:29,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}格罗弗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Grover!{\r}
+
+1024
+01:15:32,150 --> 01:15:33,690
+{\fnSTXihei\fs20\1c&HC0C0C0&}够了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Enough!{\r}
+
+1025
+01:15:35,390 --> 01:15:37,500
+{\fnSTXihei\fs20\1c&HC0C0C0&}我再也受不了了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I can't take this anymore.{\r}
+
+1026
+01:15:45,830 --> 01:15:47,250
+{\fnSTXihei\fs20\1c&HC0C0C0&}这都已经两天了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's been two days!{\r}
+
+1027
+01:15:47,330 --> 01:15:49,680
+{\fnSTXihei\fs20\1c&HC0C0C0&}控制住你的情绪  控制情绪{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Calm your temper! Calm your temper!{\r}
+
+1028
+01:15:50,540 --> 01:15:54,150
+{\fnSTXihei\fs20\1c&HC0C0C0&}自从你带来那几个混血人之后  我就再也没吃过一顿像样的饭了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I haven't had a decent meal since those half-bloods you brought!{\r}
+
+1029
+01:15:54,340 --> 01:15:57,090
+{\fnSTXihei\fs20\1c&HC0C0C0&}这根蠢毛应该能把羊男吸引过来才对{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And this stupid fleece is supposed to lure satyrs!{\r}
+
+1030
+01:15:57,180 --> 01:15:59,280
+{\fnSTXihei\fs20\1c&HC0C0C0&}你有在这里看到任何羊男吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Do you see any satyrs around here?{\r}
+
+1031
+01:16:00,680 --> 01:16:03,630
+{\fnSTXihei\fs20\1c&HC0C0C0&}我饿得眼睛都花了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}This hunger is making my eyesight worse.{\r}
+
+1032
+01:16:03,820 --> 01:16:05,530
+{\fnSTXihei\fs20\1c&HC0C0C0&}要是你不是独眼巨人的话{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I could just eat you.{\r}
+
+1033
+01:16:07,890 --> 01:16:10,630
+{\fnSTXihei\fs20\1c&HC0C0C0&}我就把你给吃了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}If you weren't a Cyclops.{\r}
+
+1034
+01:16:12,860 --> 01:16:13,840
+{\fnSTXihei\fs20\1c&HC0C0C0&}格罗弗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Grover!{\r}
+
+1035
+01:16:15,160 --> 01:16:16,140
+{\fnSTXihei\fs20\1c&HC0C0C0&}格罗弗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Grover!{\r}
+
+1036
+01:16:16,660 --> 01:16:17,730
+{\fnSTXihei\fs20\1c&HC0C0C0&}嘿  到这儿来{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey! Come here!{\r}
+
+1037
+01:16:17,830 --> 01:16:18,810
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Percy?{\r}
+
+1038
+01:16:21,370 --> 01:16:22,350
+{\fnSTXihei\fs20\1c&HC0C0C0&}嘿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey!{\r}
+
+1039
+01:16:24,240 --> 01:16:25,980
+{\fnSTXihei\fs20\1c&HC0C0C0&}你干嘛穿裙子{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Why are you wearing a dress?{\r}
+
+1040
+01:16:26,070 --> 01:16:28,350
+{\fnSTXihei\fs20\1c&HC0C0C0&}我现在日子过得真的很惨{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm having a really bad day!{\r}
+
+1041
+01:16:28,540 --> 01:16:30,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}嘿嘿嘿  不许放到网上{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey, hey, hey! Do not let that go viral!{\r}
+
+1042
+01:16:31,080 --> 01:16:33,490
+{\fnSTXihei\fs20\1c&HC0C0C0&}抱歉  要是不这样做没人会信我的话{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Sorry, there's no way the other kids would believe me otherwise.{\r}
+
+1043
+01:16:33,580 --> 01:16:34,990
+{\fnSTXihei\fs20\1c&HC0C0C0&}这是伪装啦{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}This is a disguise.{\r}
+
+1044
+01:16:35,080 --> 01:16:37,660
+{\fnSTXihei\fs20\1c&HC0C0C0&}他有点瞎  以为我是独眼巨人女佣{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The guy's half-blind. He thinks I'm a Cyclops chambermaid.{\r}
+
+1045
+01:16:37,750 --> 01:16:39,290
+{\fnSTXihei\fs20\1c&HC0C0C0&}我可是在这儿展现疯狂的生存技巧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm showing mad survival skills, here.{\r}
+
+1046
+01:16:39,390 --> 01:16:40,800
+{\fnSTXihei\fs20\1c&HC0C0C0&}你还大秀美腿呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And not a small amount of leg.{\r}
+
+1047
+01:16:40,890 --> 01:16:41,870
+{\fnSTXihei\fs20\1c&HC0C0C0&}一点都不好笑{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Funny.{\r}
+
+1048
+01:16:41,960 --> 01:16:45,430
+{\fnSTXihei\fs20\1c&HC0C0C0&}我在尽量想办法拖延时间  好从他那儿把金羊毛给偷过来{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I was trying to stay uneaten long enough to figure out how to get the Fleece off of him.{\r}
+
+1049
+01:16:45,530 --> 01:16:46,900
+{\fnSTXihei\fs20\1c&HC0C0C0&}那你成功了吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}So, did you?{\r}
+
+1050
+01:16:47,630 --> 01:16:50,010
+{\fnSTXihei\fs20\1c&HC0C0C0&}你觉得我成功了的话还会穿成这样吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Do you think I'd still be dressed like this if I did?{\r}
+
+1051
+01:16:50,100 --> 01:16:51,740
+{\fnSTXihei\fs20\1c&HC0C0C0&}你很漂亮啊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's a good look.{\r}
+
+1052
+01:16:51,930 --> 01:16:52,930
+{\fnSTXihei\fs20\1c&HC0C0C0&}谢了  泰森{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thanks, Tyson.{\r}
+
+1053
+01:16:54,800 --> 01:17:00,160
+{\fnSTXihei\fs20\1c&HC0C0C0&}小独独  我给你弄点喝的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Clopsies, how about I cook you something to drink...{\r}
+
+1054
+01:17:00,340 --> 01:17:02,220
+{\fnSTXihei\fs20\1c&HC0C0C0&}消消火如何{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}to calm your nerves?{\r}
+
+1055
+01:17:04,280 --> 01:17:06,350
+{\fnSTXihei\fs20\1c&HC0C0C0&}我都不知道该做什么了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I don't know what to do anymore.{\r}
+
+1056
+01:17:07,180 --> 01:17:08,490
+{\fnSTXihei\fs20\1c&HC0C0C0&}走  快走{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Go! Go!{\r}
+
+1057
+01:17:08,680 --> 01:17:11,430
+{\fnSTXihei\fs20\1c&HC0C0C0&}金羊毛以前天天都会吸引大把羊男过来{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}This fleece used to lure satyrs every day.{\r}
+
+1058
+01:17:14,290 --> 01:17:18,040
+{\fnSTXihei\fs20\1c&HC0C0C0&}现在居然沦落到得吃自己的羊了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Now things are so bad, I even had to eat my own sheep.{\r}
+
+1059
+01:17:18,790 --> 01:17:20,240
+{\fnSTXihei\fs20\1c&HC0C0C0&}整群都吃光了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The whole flock!{\r}
+
+1060
+01:17:21,430 --> 01:17:23,140
+{\fnSTXihei\fs20\1c&HC0C0C0&}不过它们的肉还是非常鲜美的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}They were tender, though.{\r}
+
+1061
+01:17:24,630 --> 01:17:27,670
+{\fnSTXihei\fs20\1c&HC0C0C0&}你要是让我掉下了  我保证跟会你没完{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Drop me, and I promise you'll never hear the end of it.{\r}
+
+1062
+01:17:30,740 --> 01:17:32,340
+{\fnSTXihei\fs20\1c&HC0C0C0&}你有闻到什么味道吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Do you smell something?{\r}
+
+1063
+01:17:32,710 --> 01:17:34,950
+{\fnSTXihei\fs20\1c&HC0C0C0&}像是混血儿的味道{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Smells like half-bloods!{\r}
+
+1064
+01:17:40,150 --> 01:17:41,150
+{\fnSTXihei\fs20\1c&HC0C0C0&}混血儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Half-bloods!{\r}
+
+1065
+01:17:41,250 --> 01:17:43,030
+{\fnSTXihei\fs20\1c&HC0C0C0&}快起来  快点  我猜对了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Get up, quick! I was right!{\r}
+
+1066
+01:17:43,120 --> 01:17:44,620
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们给我待在那而别动{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You stay right there!{\r}
+
+1067
+01:17:44,720 --> 01:17:46,390
+{\fnSTXihei\fs20\1c&HC0C0C0&}女佣  快去生火{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Woman, get a fire going!{\r}
+
+1068
+01:17:46,590 --> 01:17:47,860
+{\fnSTXihei\fs20\1c&HC0C0C0&}这可不妙{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}That's not good!{\r}
+
+1069
+01:17:47,960 --> 01:17:49,400
+{\fnSTXihei\fs20\1c&HC0C0C0&}仔细想了想...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}On second thought...{\r}
+
+1070
+01:17:50,120 --> 01:17:52,070
+{\fnSTXihei\fs20\1c&HC0C0C0&}还是生吃你们的好{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'll just eat you raw!{\r}
+
+1071
+01:17:52,260 --> 01:17:53,240
+{\fnSTXihei\fs20\1c&HC0C0C0&}嘿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey!{\r}
+
+1072
+01:17:55,460 --> 01:17:56,940
+{\fnSTXihei\fs20\1c&HC0C0C0&}你好{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hi ya!{\r}
+
+1073
+01:17:57,130 --> 01:17:59,010
+{\fnSTXihei\fs20\1c&HC0C0C0&}我叫泰森  你好吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}My name's Tyson. How are you?{\r}
+
+1074
+01:17:59,400 --> 01:18:01,210
+{\fnSTXihei\fs20\1c&HC0C0C0&}他们是我的朋友{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}These guys are my friends...{\r}
+
+1075
+01:18:01,500 --> 01:18:03,350
+{\fnSTXihei\fs20\1c&HC0C0C0&}我希望能跟你聊聊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}so I was hoping, maybe, we could talk.{\r}
+
+1076
+01:18:03,440 --> 01:18:05,820
+{\fnSTXihei\fs20\1c&HC0C0C0&}独眼巨人之间打对话{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You know, Cyclops to Cyclops.{\r}
+
+1077
+01:18:06,010 --> 01:18:07,920
+{\fnSTXihei\fs20\1c&HC0C0C0&}你这个独眼小家伙{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You pissant with one eye!{\r}
+
+1078
+01:18:08,110 --> 01:18:09,610
+{\fnSTXihei\fs20\1c&HC0C0C0&}嘿  你这样讲真是太不友好了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey! Not nice!{\r}
+
+1079
+01:18:09,810 --> 01:18:11,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}你才不是独眼巨人呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You're no Cyclops!{\r}
+
+1080
+01:18:11,780 --> 01:18:14,090
+{\fnSTXihei\fs20\1c&HC0C0C0&}你背叛了同类{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You're a traitor to your kind!{\r}
+
+1081
+01:18:14,280 --> 01:18:15,560
+{\fnSTXihei\fs20\1c&HC0C0C0&}说实话...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}To be honest...{\r}
+
+1082
+01:18:16,750 --> 01:18:17,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}什么{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Huh? What?{\r}
+
+1083
+01:18:18,820 --> 01:18:20,030
+{\fnSTXihei\fs20\1c&HC0C0C0&}他才跟我是同类{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}He's my kind.{\r}
+
+1084
+01:18:20,120 --> 01:18:22,070
+{\fnSTXihei\fs20\1c&HC0C0C0&}你真让让我作呕{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You disgust me.{\r}
+
+1085
+01:18:27,500 --> 01:18:28,840
+{\fnSTXihei\fs20\1c&HC0C0C0&}想跑哪去{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Going somewhere?{\r}
+
+1086
+01:18:33,300 --> 01:18:35,980
+{\fnSTXihei\fs20\1c&HC0C0C0&}我觉得你貌似拿了我的东西{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I think you've got something of mine.{\r}
+
+1087
+01:18:36,970 --> 01:18:38,150
+{\fnSTXihei\fs20\1c&HC0C0C0&}安娜贝丝{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Annabeth!{\r}
+
+1088
+01:18:43,550 --> 01:18:44,750
+{\fnSTXihei\fs20\1c&HC0C0C0&}克拉丽丝{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Clarissa!{\r}
+
+1089
+01:18:56,560 --> 01:18:58,340
+{\fnSTXihei\fs20\1c&HC0C0C0&}给我回来  你这个小流氓{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Get back here, you punk!{\r}
+
+1090
+01:18:58,530 --> 01:18:59,940
+{\fnSTXihei\fs20\1c&HC0C0C0&}呦  小独独{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yo, Clopsies!{\r}
+
+1091
+01:19:02,030 --> 01:19:03,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}我不干了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}'Quit!{\r}
+
+1092
+01:19:04,700 --> 01:19:06,880
+{\fnSTXihei\fs20\1c&HC0C0C0&}等一下  你是男的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Wait, you're a dude?{\r}
+
+1093
+01:19:07,070 --> 01:19:08,780
+{\fnSTXihei\fs20\1c&HC0C0C0&}那就说得通了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Well, that explains a lot.{\r}
+
+1094
+01:19:09,170 --> 01:19:11,620
+{\fnSTXihei\fs20\1c&HC0C0C0&}- 跟他说再见吧  - 好吧 再见{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}-say goodbye. - Okay. Goodbye!{\r}
+
+1095
+01:19:11,810 --> 01:19:15,020
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们这群乳臭未干的毛头小子  我一定要把你们大卸八块{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You deceitful little brats! I'll tear off your flesh!{\r}
+
+1096
+01:19:15,510 --> 01:19:17,620
+{\fnSTXihei\fs20\1c&HC0C0C0&}快点  走  快走{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Come on! Go, go!{\r}
+
+1097
+01:19:18,310 --> 01:19:19,820
+{\fnSTXihei\fs20\1c&HC0C0C0&}把金羊毛还给我{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Give me that fleece!{\r}
+
+1098
+01:19:29,330 --> 01:19:30,460
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们死定了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You're dead!{\r}
+
+1099
+01:19:30,590 --> 01:19:32,300
+{\fnSTXihei\fs20\1c&HC0C0C0&}我要把你们全都给杀光{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm gonna kill all of you!{\r}
+
+1100
+01:19:32,660 --> 01:19:34,510
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们听到了吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Do you hear me?{\r}
+
+1101
+01:19:37,930 --> 01:19:39,570
+{\fnSTXihei\fs20\1c&HC0C0C0&}快给我回来{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Get back here!{\r}
+
+1102
+01:19:45,840 --> 01:19:47,290
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们的任务很成功{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We rocked that quest.{\r}
+
+1103
+01:19:47,380 --> 01:19:49,020
+{\fnSTXihei\fs20\1c&HC0C0C0&}对  绝对的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah, we totally did.{\r}
+
+1104
+01:19:49,210 --> 01:19:51,460
+{\fnSTXihei\fs20\1c&HC0C0C0&}我不晓得你们有这么强呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I didn't know you guys had it in you!{\r}
+
+1105
+01:19:51,780 --> 01:19:52,850
+{\fnSTXihei\fs20\1c&HC0C0C0&}没错{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yes.{\r}
+
+1106
+01:19:53,280 --> 01:19:54,560
+{\fnSTXihei\fs20\1c&HC0C0C0&}干得不错{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Well done.{\r}
+
+1107
+01:19:58,390 --> 01:20:00,730
+{\fnSTXihei\fs20\1c&HC0C0C0&}干得好  我很感激你们的行为{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's nice work. I really appreciate it.{\r}
+
+1108
+01:20:02,490 --> 01:20:03,770
+{\fnSTXihei\fs20\1c&HC0C0C0&}东西我就收下了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'll take that.{\r}
+
+1109
+01:20:07,600 --> 01:20:08,940
+{\fnSTXihei\fs20\1c&HC0C0C0&}妄想{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I don't think so.{\r}
+
+1110
+01:20:10,630 --> 01:20:11,880
+{\fnSTXihei\fs20\1c&HC0C0C0&}随你便吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Suit yourself.{\r}
+
+1111
+01:20:29,020 --> 01:20:30,730
+{\fnSTXihei\fs20\1c&HC0C0C0&}换做你的话也会这么做的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You'd do it for me.{\r}
+
+1112
+01:20:32,290 --> 01:20:33,500
+{\fnSTXihei\fs20\1c&HC0C0C0&}不~{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No!{\r}
+
+1113
+01:20:57,650 --> 01:20:59,630
+{\fnSTXihei\fs20\1c&HC0C0C0&}记住...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Just remember...{\r}
+
+1114
+01:20:59,820 --> 01:21:01,820
+{\fnSTXihei\fs20\1c&HC0C0C0&}本来不必闹得如此下场的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}it didn't have to end this way.{\r}
+
+1115
+01:21:03,190 --> 01:21:05,030
+{\fnSTXihei\fs20\1c&HC0C0C0&}这全都怪你{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}This one's on you.{\r}
+
+1116
+01:21:11,460 --> 01:21:12,770
+{\fnSTXihei\fs20\1c&HC0C0C0&}退下  小家伙{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Down, boy!{\r}
+
+1117
+01:21:20,200 --> 01:21:22,450
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们应该觉得自己幸运{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You should consider yourselves lucky.{\r}
+
+1118
+01:21:23,040 --> 01:21:25,350
+{\fnSTXihei\fs20\1c&HC0C0C0&}这可是酝酿了几千年之久{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}This has been millennia in the making.{\r}
+
+1119
+01:21:26,180 --> 01:21:27,950
+{\fnSTXihei\fs20\1c&HC0C0C0&}你们全部能有幸亲眼目睹{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And you all get to see it.{\r}
+
+1120
+01:21:28,580 --> 01:21:30,560
+{\fnSTXihei\fs20\1c&HC0C0C0&}你以前是我们这一边的人{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You used to be one of us!{\r}
+
+1121
+01:21:32,380 --> 01:21:34,020
+{\fnSTXihei\fs20\1c&HC0C0C0&}可我之后醒悟了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And then I woke up.{\r}
+
+1122
+01:21:38,690 --> 01:21:42,370
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西  克隆那斯复活的话  世界就完蛋了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Percy, if Kronos comes back, that's it. Game over.{\r}
+
+1123
+01:21:44,530 --> 01:21:45,800
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Percy.{\r}
+
+1124
+01:21:47,370 --> 01:21:49,240
+{\fnSTXihei\fs20\1c&HC0C0C0&}我从没叫过他一声弟弟{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I never called him "brother."{\r}
+
+1125
+01:21:51,270 --> 01:21:53,680
+{\fnSTXihei\fs20\1c&HC0C0C0&}他只想做我的弟弟而已{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}All he ever wanted was a brother...{\r}
+
+1126
+01:21:55,010 --> 01:21:57,580
+{\fnSTXihei\fs20\1c&HC0C0C0&}但我只顾着我自己{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}but I was too wrapped up in myself.{\r}
+
+1127
+01:21:59,510 --> 01:22:02,150
+{\fnSTXihei\fs20\1c&HC0C0C0&}这下好了  金羊毛落到卢克手上{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}And now Luke has the Fleece...{\r}
+
+1128
+01:22:02,350 --> 01:22:04,490
+{\fnSTXihei\fs20\1c&HC0C0C0&}因为我拱手让给了他{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}because I gave it to him.{\r}
+
+1129
+01:22:06,180 --> 01:22:10,400
+{\fnSTXihei\fs20\1c&HC0C0C0&}正如神谕所说的那样  我毁了奥林匹斯{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I destroy Olympus, just like the Oracle said.{\r}
+
+1130
+01:22:12,420 --> 01:22:13,800
+{\fnSTXihei\fs20\1c&HC0C0C0&}别管什么神谕了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Forget the Oracle.{\r}
+
+1131
+01:22:15,460 --> 01:22:18,570
+{\fnSTXihei\fs20\1c&HC0C0C0&}你担心自己的命运  那就自己去创造一个新的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You're worried about your destiny? Then write a new one.{\r}
+
+1132
+01:22:19,630 --> 01:22:23,640
+{\fnSTXihei\fs20\1c&HC0C0C0&}你生气波塞顿不理你  那就做给他看  用行动告诉他错了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You're angry at Poseidon for ignoring you? Then show him why he shouldn't.{\r}
+
+1133
+01:22:24,170 --> 01:22:26,150
+{\fnSTXihei\fs20\1c&HC0C0C0&}泰森的事情让你难过{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You're upset about Tyson?{\r}
+
+1134
+01:22:27,770 --> 01:22:29,760
+{\fnSTXihei\fs20\1c&HC0C0C0&}那就别让他白白送死{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Then make sure he didn't die for nothing.{\r}
+
+1135
+01:22:29,840 --> 01:22:31,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}她说的对{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}She's right.{\r}
+
+1136
+01:22:34,080 --> 01:22:35,220
+{\fnSTXihei\fs20\1c&HC0C0C0&}什么{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What?{\r}
+
+1137
+01:22:35,410 --> 01:22:38,120
+{\fnSTXihei\fs20\1c&HC0C0C0&}好话不说两遍{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}There's no way you're getting me to repeat that.{\r}
+
+1138
+01:22:39,650 --> 01:22:41,690
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西  俺安娜贝丝是说{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What Annabeth is saying, Perce...{\r}
+
+1139
+01:22:41,790 --> 01:22:44,070
+{\fnSTXihei\fs20\1c&HC0C0C0&}你还有我们{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}is that we're with you.{\r}
+
+1140
+01:22:44,260 --> 01:22:45,960
+{\fnSTXihei\fs20\1c&HC0C0C0&}有事尽管开口就好{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Just give the word.{\r}
+
+1141
+01:22:46,360 --> 01:22:47,770
+{\fnSTXihei\fs20\1c&HC0C0C0&}为什么是我{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Why me?{\r}
+
+1142
+01:22:48,360 --> 01:22:50,170
+{\fnSTXihei\fs20\1c&HC0C0C0&}是谁选我当领队的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I mean, who voted me leader?{\r}
+
+1143
+01:23:03,940 --> 01:23:07,860
+{\fnSTXihei\fs20\1c&HC0C0C0&}被亲生儿子背叛的克隆那斯当然{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Lord Kronos, he who was betrayed by his sons...{\r}
+
+1144
+01:23:08,050 --> 01:23:10,960
+{\fnSTXihei\fs20\1c&HC0C0C0&}请听被父亲背叛的人一言{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}hear now the words of one betrayed by his father.{\r}
+
+1145
+01:23:11,150 --> 01:23:13,760
+{\fnSTXihei\fs20\1c&HC0C0C0&}我恳请你... 复活吧{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I bid you... rise.{\r}
+
+1146
+01:23:52,490 --> 01:23:53,470
+{\fnSTXihei\fs20\1c&HC0C0C0&}格罗弗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Grover!{\r}
+
+1147
+01:23:55,260 --> 01:23:56,240
+{\fnSTXihei\fs20\1c&HC0C0C0&}手给我{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hands.{\r}
+
+1148
+01:23:56,730 --> 01:23:59,980
+{\fnSTXihei\fs20\1c&HC0C0C0&}尽量别砍掉了  我对它们可是有感情的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Try not to cut them off. I'm pretty attached to them.{\r}
+
+1149
+01:24:19,390 --> 01:24:21,300
+{\fnSTXihei\fs20\1c&HC0C0C0&}我得去拿回金羊毛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I have to get to the Fleece.{\r}
+
+1150
+01:24:21,490 --> 01:24:23,470
+{\fnSTXihei\fs20\1c&HC0C0C0&}那我们该怎么做{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}So, what are we supposed to do?{\r}
+
+1151
+01:24:25,430 --> 01:24:26,800
+{\fnSTXihei\fs20\1c&HC0C0C0&}对啊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Right.{\r}
+
+1152
+01:24:55,390 --> 01:24:57,890
+{\fnSTXihei\fs20\1c&HC0C0C0&}杰克逊  我知道你在水里能呼吸{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I know you can breathe under water, Jackson.{\r}
+
+1153
+01:24:58,030 --> 01:24:59,940
+{\fnSTXihei\fs20\1c&HC0C0C0&}可是你这样还能再呼吸吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}But can you breathe like this?{\r}
+
+1154
+01:25:10,440 --> 01:25:11,580
+{\fnSTXihei\fs20\1c&HC0C0C0&}嗨 哥哥{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hi, Brother!{\r}
+
+1155
+01:25:25,150 --> 01:25:26,190
+{\fnSTXihei\fs20\1c&HC0C0C0&}到底怎么...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What the...?{\r}
+
+1156
+01:25:26,290 --> 01:25:27,460
+{\fnSTXihei\fs20\1c&HC0C0C0&}水的缘故{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The water.{\r}
+
+1157
+01:25:28,990 --> 01:25:30,440
+{\fnSTXihei\fs20\1c&HC0C0C0&}水把我治好了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It healed me.{\r}
+
+1158
+01:25:32,560 --> 01:25:34,410
+{\fnSTXihei\fs20\1c&HC0C0C0&}我可是波塞顿之子{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Son of Poseidon.{\r}
+
+1159
+01:25:39,300 --> 01:25:40,580
+{\fnSTXihei\fs20\1c&HC0C0C0&}谢谢你{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thank you...{\r}
+
+1160
+01:25:42,270 --> 01:25:43,650
+{\fnSTXihei\fs20\1c&HC0C0C0&}弟弟{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Brother.{\r}
+
+1161
+01:26:07,660 --> 01:26:08,970
+{\fnSTXihei\fs20\1c&HC0C0C0&}他复活了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}He rises.{\r}
+
+1162
+01:26:26,310 --> 01:26:27,590
+{\fnSTXihei\fs20\1c&HC0C0C0&}主人{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Master!{\r}
+
+1163
+01:26:27,780 --> 01:26:29,390
+{\fnSTXihei\fs20\1c&HC0C0C0&}是我让你复活的{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I brought you back!{\r}
+
+1164
+01:26:38,530 --> 01:26:40,300
+{\fnSTXihei\fs20\1c&HC0C0C0&}主人{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}My Lord!{\r}
+
+1165
+01:26:40,500 --> 01:26:41,570
+{\fnSTXihei\fs20\1c&HC0C0C0&}我是卢克{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's Luke!{\r}
+
+1166
+01:26:42,130 --> 01:26:43,630
+{\fnSTXihei\fs20\1c&HC0C0C0&}卢克・卡斯特兰{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Luke Castellan!{\r}
+
+1167
+01:26:44,370 --> 01:26:46,470
+{\fnSTXihei\fs20\1c&HC0C0C0&}您的曾孙{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Your great-grandson!{\r}
+
+1168
+01:26:47,700 --> 01:26:49,310
+{\fnSTXihei\fs20\1c&HC0C0C0&}我的最爱{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}My favorite.{\r}
+
+1169
+01:27:36,150 --> 01:27:37,320
+{\fnSTXihei\fs20\1c&HC0C0C0&}格罗弗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Grover!{\r}
+
+1170
+01:28:12,760 --> 01:28:14,630
+{\fnSTXihei\fs20\1c&HC0C0C0&}这是诅咒之剑{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It's the cursed blade!{\r}
+
+1171
+01:28:16,330 --> 01:28:18,210
+{\fnSTXihei\fs20\1c&HC0C0C0&}“诅咒之剑将会夺取”{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}"...cursed blade shall reap."{\r}
+
+1172
+01:28:45,420 --> 01:28:47,870
+{\fnSTXihei\fs20\1c&HC0C0C0&}想知道是谁给我的这把剑吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You want to know who gave me this sword?{\r}
+
+1173
+01:28:48,960 --> 01:28:51,970
+{\fnSTXihei\fs20\1c&HC0C0C0&}就是原本用这把剑杀掉你的神{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}The god that killed you with it in the first place!{\r}
+
+1174
+01:28:55,270 --> 01:28:56,610
+{\fnSTXihei\fs20\1c&HC0C0C0&}我的父亲{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}My father.{\r}
+
+1175
+01:28:57,770 --> 01:28:59,310
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西・杰克逊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Percy Jackson...{\r}
+
+1176
+01:28:59,500 --> 01:29:02,110
+{\fnSTXihei\fs20\1c&HC0C0C0&}你的命运早已注定{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}your destiny was written long ago.{\r}
+
+1177
+01:29:04,470 --> 01:29:05,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}不~{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No!{\r}
+
+1178
+01:29:08,780 --> 01:29:10,920
+{\fnSTXihei\fs20\1c&HC0C0C0&}我的命运要靠自己来编写{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I make my own destiny.{\r}
+
+1179
+01:29:47,520 --> 01:29:48,690
+{\fnSTXihei\fs20\1c&HC0C0C0&}混血儿{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Half-blood!{\r}
+
+1180
+01:29:49,650 --> 01:29:52,030
+{\fnSTXihei\fs20\1c&HC0C0C0&}你刚好赶上我的晚餐时间{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Just in time for dinner.{\r}
+
+1181
+01:30:16,810 --> 01:30:18,020
+{\fnSTXihei\fs20\1c&HC0C0C0&}谢了 老爸{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thanks, Dad.{\r}
+
+1182
+01:30:20,650 --> 01:30:21,960
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Percy.{\r}
+
+1183
+01:30:29,730 --> 01:30:31,070
+{\fnSTXihei\fs20\1c&HC0C0C0&}安娜贝丝{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Annabeth!{\r}
+
+1184
+01:30:34,600 --> 01:30:35,580
+{\fnSTXihei\fs20\1c&HC0C0C0&}格罗弗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Grover!{\r}
+
+1185
+01:30:58,960 --> 01:31:00,100
+{\fnSTXihei\fs20\1c&HC0C0C0&}安娜贝丝{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Annabeth!{\r}
+
+1186
+01:31:02,930 --> 01:31:04,170
+{\fnSTXihei\fs20\1c&HC0C0C0&}不  不要{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No, no!{\r}
+
+1187
+01:31:04,530 --> 01:31:07,170
+{\fnSTXihei\fs20\1c&HC0C0C0&}至少我可以跟塔利亚相聚了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}At least I'll be with Thalia in Elysium.{\r}
+
+1188
+01:31:07,630 --> 01:31:09,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}过来  快把金羊毛给我{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Come here. Give me the Fleece!{\r}
+
+1189
+01:31:09,800 --> 01:31:11,150
+{\fnSTXihei\fs20\1c&HC0C0C0&}快点...快点{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Come on! Come on.{\r}
+
+1190
+01:31:11,300 --> 01:31:12,280
+{\fnSTXihei\fs20\1c&HC0C0C0&}快点{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Come on.{\r}
+
+1191
+01:31:14,470 --> 01:31:18,390
+{\fnSTXihei\fs20\1c&HC0C0C0&}我们要创造自己的命运   不是吗  那就做给我看呐{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}We make our own destinies, right? So show me.{\r}
+
+1192
+01:31:18,580 --> 01:31:20,060
+{\fnSTXihei\fs20\1c&HC0C0C0&}我对你有信心{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I have faith in you.{\r}
+
+1193
+01:31:23,620 --> 01:31:26,460
+{\fnSTXihei\fs20\1c&HC0C0C0&}不不不  拜托  做给我看啊{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No, no. Come on, show me.{\r}
+
+1194
+01:31:27,390 --> 01:31:28,630
+{\fnSTXihei\fs20\1c&HC0C0C0&}给我看呐{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Show me.{\r}
+
+1195
+01:31:30,290 --> 01:31:31,600
+{\fnSTXihei\fs20\1c&HC0C0C0&}拜托{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Come on.{\r}
+
+1196
+01:32:07,290 --> 01:32:08,330
+{\fnSTXihei\fs20\1c&HC0C0C0&}安妮{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Annie.{\r}
+
+1197
+01:32:13,870 --> 01:32:15,180
+{\fnSTXihei\fs20\1c&HC0C0C0&}发生什么事了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What happened?{\r}
+
+1198
+01:32:15,970 --> 01:32:17,070
+{\fnSTXihei\fs20\1c&HC0C0C0&}没事了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Don't worry about it.{\r}
+
+1199
+01:32:17,170 --> 01:32:19,580
+{\fnSTXihei\fs20\1c&HC0C0C0&}如果今晚还有人想死的话{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}If anyone else wants to die tonight...{\r}
+
+1200
+01:32:19,770 --> 01:32:21,810
+{\fnSTXihei\fs20\1c&HC0C0C0&}至少我们有这个{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}at least we have this.{\r}
+
+1201
+01:32:23,440 --> 01:32:25,820
+{\fnSTXihei\fs20\1c&HC0C0C0&}嘿  你还活着{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Hey. You're alive.{\r}
+
+1202
+01:32:26,680 --> 01:32:28,090
+{\fnSTXihei\fs20\1c&HC0C0C0&}对{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah.{\r}
+
+1203
+01:32:28,850 --> 01:32:31,160
+{\fnSTXihei\fs20\1c&HC0C0C0&}你为波西所做的事  真的是...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What you did for Percy,that was um...{\r}
+
+1204
+01:32:32,720 --> 01:32:35,000
+{\fnSTXihei\fs20\1c&HC0C0C0&}一点都不邪恶一点都不危险{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}that was not so vicious and dangerous.{\r}
+
+1205
+01:32:37,320 --> 01:32:38,800
+{\fnSTXihei\fs20\1c&HC0C0C0&}谢了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thanks.{\r}
+
+1206
+01:32:39,560 --> 01:32:40,540
+{\fnSTXihei\fs20\1c&HC0C0C0&}不{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}No.{\r}
+
+1207
+01:32:41,190 --> 01:32:42,470
+{\fnSTXihei\fs20\1c&HC0C0C0&}该谢谢你才对{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Thank you.{\r}
+
+1208
+01:32:53,710 --> 01:32:54,690
+{\fnSTXihei\fs20\1c&HC0C0C0&}你知道吗  泰森{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You know what, Tyson?{\r}
+
+1209
+01:32:54,770 --> 01:32:57,450
+{\fnSTXihei\fs20\1c&HC0C0C0&}营区里有很多两只眼睛的人都做不到你之前所做的事{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I know a lot of campers with two eyes who couldn't do what you did.{\r}
+
+1210
+01:32:57,540 --> 01:32:59,580
+{\fnSTXihei\fs20\1c&HC0C0C0&}- 嘿  克拉丽丝  - 干嘛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}- Hey, Clarissa. - What?{\r}
+
+1211
+01:32:59,780 --> 01:33:02,190
+{\fnSTXihei\fs20\1c&HC0C0C0&}走吧  大块头  等我们回到营区  我请你喝花蜜咖啡{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Come on, big guy. We get back to camp, the nectar's on me.{\r}
+
+1212
+01:33:02,280 --> 01:33:03,960
+{\fnSTXihei\fs20\1c&HC0C0C0&}你遇见过宁芙吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Have you met the nymphs?{\r}
+
+1213
+01:33:04,690 --> 01:33:06,170
+{\fnSTXihei\fs20\1c&HC0C0C0&}这是你的任务{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}This was your quest.{\r}
+
+1214
+01:33:07,220 --> 01:33:10,830
+{\fnSTXihei\fs20\1c&HC0C0C0&}没有你我根本做不到{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I couldn't have done it without you.{\r}
+
+1215
+01:33:11,020 --> 01:33:13,230
+{\fnSTXihei\fs20\1c&HC0C0C0&}我认为你才是该有幸{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I think you should be the one who gets to...{\r}
+
+1216
+01:33:13,330 --> 01:33:15,000
+{\fnSTXihei\fs20\1c&HC0C0C0&}将这份金羊毛带回营地{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}...do the honors.{\r}
+
+1217
+01:33:31,350 --> 01:33:33,450
+{\fnSTXihei\fs20\1c&HC0C0C0&}回来吧  塔利亚{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Here you go, Thalia.{\r}
+
+1218
+01:34:46,350 --> 01:34:49,930
+{\fnSTXihei\fs20\1c&HC0C0C0&}克拉丽丝  克拉丽丝 克拉丽丝{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Clarissa! Clarissa! Clarissa!{\r}
+
+1219
+01:34:55,560 --> 01:34:56,840
+{\fnSTXihei\fs20\1c&HC0C0C0&}要花蜜咖啡吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Nectar?{\r}
+
+1220
+01:34:58,830 --> 01:34:59,870
+{\fnSTXihei\fs20\1c&HC0C0C0&}如果你没喝过...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}If you haven't had...{\r}
+
+1221
+01:34:59,970 --> 01:35:01,470
+{\fnSTXihei\fs20\1c&HC0C0C0&}就算是枉在世上走一遭了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}...you haven't lived.{\r}
+
+1222
+01:35:06,670 --> 01:35:07,920
+{\fnSTXihei\fs20\1c&HC0C0C0&}你知道吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You know what?{\r}
+
+1223
+01:35:09,310 --> 01:35:11,350
+{\fnSTXihei\fs20\1c&HC0C0C0&}你再也不需要墨镜了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You don't need these anymore.{\r}
+
+1224
+01:35:12,980 --> 01:35:14,480
+{\fnSTXihei\fs20\1c&HC0C0C0&}好了  这样就好多了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}There, that's better.{\r}
+
+1225
+01:35:29,030 --> 01:35:30,310
+{\fnSTXihei\fs20\1c&HC0C0C0&}你看起来很开心嘛{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You seem happy.{\r}
+
+1226
+01:35:30,830 --> 01:35:34,550
+{\fnSTXihei\fs20\1c&HC0C0C0&}我只是庆幸能够放下预言的重担了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm just relieved to have that whole prophecy thing off my shoulders.{\r}
+
+1227
+01:35:34,740 --> 01:35:37,340
+{\fnSTXihei\fs20\1c&HC0C0C0&}我不感完全断定  不行{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm not altogether sure it is, Percy.{\r}
+
+1228
+01:35:37,540 --> 01:35:41,620
+{\fnSTXihei\fs20\1c&HC0C0C0&}你表现得非常棒  但你依然还是...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}You've done wonderfully, but you are still the only living human child...{\r}
+
+1229
+01:35:41,810 --> 01:35:44,090
+{\fnSTXihei\fs20\1c&HC0C0C0&}波塞顿  哈迪斯跟宙斯仅存的人类后代{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}of Poseidon, Hades, or Zeus.{\r}
+
+1230
+01:35:44,280 --> 01:35:45,690
+{\fnSTXihei\fs20\1c&HC0C0C0&}更何况...{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Besides...{\r}
+
+1231
+01:35:45,880 --> 01:35:48,160
+{\fnSTXihei\fs20\1c&HC0C0C0&}神谕指的很有可能并不是{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}it's quite possible the Oracle wasn't referring{\r}
+
+1232
+01:35:48,250 --> 01:35:50,930
+{\fnSTXihei\fs20\1c&HC0C0C0&}波吕斐摩斯岛上会发生的事{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}to what would unfold on Polyphemus' island.{\r}
+
+1233
+01:35:51,120 --> 01:35:54,040
+{\fnSTXihei\fs20\1c&HC0C0C0&}我是说  在你满二十岁生日之前  还可能会发生很多事情{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm just saying, a lot can happen between now and your 20th birthday.{\r}
+
+1234
+01:35:54,120 --> 01:35:56,100
+{\fnSTXihei\fs20\1c&HC0C0C0&}我不是那个意思{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}That's not really what I meant.{\r}
+
+1235
+01:35:56,230 --> 01:35:59,870
+{\fnSTXihei\fs20\1c&HC0C0C0&}我是说发现我的命运{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What I meant was finding out you have a destiny...{\r}
+
+1236
+01:36:00,060 --> 01:36:03,640
+{\fnSTXihei\fs20\1c&HC0C0C0&}就跟发现自己有个同父异母的独眼巨人弟弟一样{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}is a lot like finding out you have a half-brother who's a Cyclops.{\r}
+
+1237
+01:36:04,030 --> 01:36:06,280
+{\fnSTXihei\fs20\1c&HC0C0C0&}可能并不如我之前想的那么糟{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It might not be as bad as you think.{\r}
+
+1238
+01:36:19,220 --> 01:36:21,820
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西  波西{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Percy! Percy!{\r}
+
+1239
+01:36:22,950 --> 01:36:24,260
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Percy!{\r}
+
+1240
+01:36:24,620 --> 01:36:27,400
+{\fnSTXihei\fs20\1c&HC0C0C0&}安娜贝丝昨晚守护树的时候{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Annabeth was guarding the tree last night...{\r}
+
+1241
+01:36:27,590 --> 01:36:29,200
+{\fnSTXihei\fs20\1c&HC0C0C0&}发生了一件事{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}and something happened.{\r}
+
+1242
+01:36:31,360 --> 01:36:32,430
+{\fnSTXihei\fs20\1c&HC0C0C0&}波西{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Percy.{\r}
+
+1243
+01:36:33,060 --> 01:36:34,700
+{\fnSTXihei\fs20\1c&HC0C0C0&}- 金羊毛...  - 发生什么事了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}- The Fleece! - What happened?{\r}
+
+1244
+01:36:34,800 --> 01:36:37,370
+{\fnSTXihei\fs20\1c&HC0C0C0&}它比我们想的作用还要强大{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}It was even more powerful than we thought.{\r}
+
+1245
+01:36:57,090 --> 01:36:58,470
+{\fnSTXihei\fs20\1c&HC0C0C0&}快点  帮帮她{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Come on, help her.{\r}
+
+1246
+01:37:00,290 --> 01:37:01,460
+{\fnSTXihei\fs20\1c&HC0C0C0&}你是谁{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Who are you?{\r}
+
+1247
+01:37:02,460 --> 01:37:04,810
+{\fnSTXihei\fs20\1c&HC0C0C0&}我是波西   没事了  一切都没事儿了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Percy. Everything's all right, it's okay.{\r}
+
+1248
+01:37:05,230 --> 01:37:06,670
+{\fnSTXihei\fs20\1c&HC0C0C0&}我做了个非常奇怪的梦{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I had the strangest dream.{\r}
+
+1249
+01:37:06,760 --> 01:37:07,740
+{\fnSTXihei\fs20\1c&HC0C0C0&}是吗{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Yeah?{\r}
+
+1250
+01:37:07,830 --> 01:37:09,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}就好像快要死了{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Like I was dying.{\r}
+
+1251
+01:37:10,100 --> 01:37:11,440
+{\fnSTXihei\fs20\1c&HC0C0C0&}你叫什么名字{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}What's your name?{\r}
+
+1252
+01:37:12,570 --> 01:37:15,710
+{\fnSTXihei\fs20\1c&HC0C0C0&}我是塔利亚  宙斯之女{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}I'm Thalia, daughter of Zeus.{\r}
+
+1253
+01:37:18,440 --> 01:37:21,430
+{\fnSTXihei\fs20\1c&HC0C0C0&}又有一个三大主神的后裔存活{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Another living child of the eldest gods.{\r}
+
+1254
+01:37:24,280 --> 01:37:26,490
+{\fnSTXihei\fs20\1c&HC0C0C0&}或许那不是我{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Maybe it wasn't me.{\r}
+
+1255
+01:37:26,680 --> 01:37:29,500
+{\fnSTXihei\fs20\1c&HC0C0C0&}或许神谕一开始所指指的就是塔利亚{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Maybe the Oracle meant Thalia all along.{\r}
+
+1256
+01:37:30,950 --> 01:37:33,300
+{\fnSTXihei\fs20\1c&HC0C0C0&}她会是我们的救世主{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Could she be our salvation?{\r}
+
+1257
+01:37:33,690 --> 01:37:36,110
+{\fnSTXihei\fs20\1c&HC0C0C0&}还是会导致我们的毁灭呢{\r}
+{\fnSTXihei\fs20\1c&HF4A97B&}Or the cause of our destruction?{\r}
+
+1258
+01:37:36,170 --> 01:37:39,960
+{\fnSimHei\fs20\1c&HF589A7&}谢谢观赏 
+Thanks for watching!
+

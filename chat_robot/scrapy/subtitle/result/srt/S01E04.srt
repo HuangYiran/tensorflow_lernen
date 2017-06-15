@@ -1,0 +1,3500 @@
+1
+00:00:10,301 --> 00:00:11,010
+情况如何 ?
+How we doing?
+
+2
+00:00:11,010 --> 00:00:13,012
+我想我们能擦边过去
+Okay Ltd. I think I've got it lined up pretty close.
+
+3
+00:00:13,012 --> 00:00:14,013
+不能靠得太近
+No such thing as close.
+
+4
+00:00:14,013 --> 00:00:15,598
+- 要不就穿过去, 要不就是死
+- 好吧
+You thread the needle, or we're dead.
+- Right.
+
+5
+00:00:15,598 --> 00:00:17,391
+就这么办吧, 照你说的做
+It's ok, you can do it
+
+6
+00:00:17,391 --> 00:00:18,518
+慢点, 别紧张
+Nice and easy
+
+7
+00:00:18,518 --> 00:00:20,686
+Ok, 我想现在已经可以叫他们开门了
+Ok, I think we're close enough to dial the gate
+
+8
+00:00:20,686 --> 00:00:23,606
+太好了, 快点吧, 我想赶紧回去!
+yes, yes, hurry up and get us back!
+
+9
+00:00:30,488 --> 00:00:32,281
+把这该死的东西拿掉!
+Get this damn thing off me!
+
+10
+00:00:32,281 --> 00:00:33,783
+我们实在摘不下来
+We can't.
+
+11
+00:00:35,201 --> 00:00:36,285
+那就切掉
+Cut it off.
+
+12
+00:00:36,285 --> 00:00:40,289
+信号一接通赶紧告诉他们有人受伤了
+As soon as we establish a connection,
+radio back that we've got a medical emergency.
+
+13
+00:00:40,414 --> 00:00:42,500
+我们或许有什么办法帮她
+There must be something we can do for him
+
+14
+00:00:42,500 --> 00:00:45,795
+去驾驶座旁边把急救箱拿来
+There's a emergency first aid kit
+behind the pilot seat, get it
+
+15
+00:00:48,005 --> 00:00:50,466
+少校, 我们试着取下这东西
+你只会更疼
+Major, everything we do try to remove
+just make the pain not worth trying.
+
+16
+00:00:50,508 --> 00:00:52,093
+现在还不如尽量保持这样
+Now try and be still
+
+17
+00:00:53,803 --> 00:00:55,304
+不能再快点了吗?
+Is there no way to go faster?
+
+18
+00:00:55,304 --> 00:00:57,598
+他正在想办法让我们同时回去
+He's just trying to get us back in one piece.
+
+19
+00:01:06,190 --> 00:01:08,192
+基地控制台, 我是Ford
+Atlantis base, this is Ford.
+
+20
+00:01:08,192 --> 00:01:10,611
+探险者1号准备着陆
+我们这里有伤员
+Jumper 1 is inbound with
+a medical emergency
+
+21
+00:01:10,611 --> 00:01:12,113
+请回答
+Please, respond
+
+22
+00:01:21,789 --> 00:01:22,790
+怎么了?
+What's going on?
+
+23
+00:01:22,790 --> 00:01:25,501
+探险队说他们有人受伤了
+The reconaissance team is reporting
+a medical emergency.
+
+24
+00:01:25,501 --> 00:01:27,920
+我叫了Becket博士,
+他正赶过来
+I have alerted doctor Becket,
+he's on his way.
+
+25
+00:01:27,920 --> 00:01:29,297
+叫Sheppard少校讲话
+Put on major Sheppard.
+
+26
+00:01:29,297 --> 00:01:30,798
+就是他受伤了
+He's the one who's injured.
+
+27
+00:01:36,387 --> 00:01:38,389
+真希望能找到什么东西把它除掉
+How am I expected to find anything
+that's gonna get rid of that thing.
+
+28
+00:01:38,389 --> 00:01:39,599
+能止疼就行!
+Something for the pain!
+
+29
+00:01:39,599 --> 00:01:41,601
+我想外行干不了这个,
+我们需要医生!
+I don't think that the tylenol is gonna do it,
+we need a doctor!
+
+30
+00:01:41,601 --> 00:01:42,518
+还要多久?
+how much longer?
+
+31
+00:01:42,518 --> 00:01:44,020
+快了
+Almost there.
+
+32
+00:01:44,020 --> 00:01:46,731
+基地, 探险者1号最后校对航道
+Flight, Jumper one on final approach.
+
+33
+00:01:47,190 --> 00:01:50,193
+我是Weir, Sheppard少校的伤势怎么样了?
+This is Weir, what's the nature of
+Major Sheppard's injury?
+
+34
+00:01:50,193 --> 00:01:53,112
+几只外星虫子
+附着在少校的脖子上了
+Some sort of funky alien bug,
+attached itself to his neck.
+
+35
+00:01:53,112 --> 00:01:55,281
+<i>他不能走动了</i>
+<i>he's completely immobile</i>
+
+36
+00:01:55,281 --> 00:01:56,490
+那些虫子做了什么?
+What is it doing to him?
+
+37
+00:01:56,490 --> 00:01:58,492
+<i>我们也不知道
+我们那不下来,</i>
+<i>We don't know but we can't get it off him,</i>
+
+38
+00:01:58,492 --> 00:02:00,786
+<i>什么办法都试了就是不行</i>
+<i>and we tried everything</i>
+
+39
+00:02:00,786 --> 00:02:03,414
+把那些东西带回飞船是很危险的
+You understand the risk of bringing
+something like that, back to Atlantis.
+
+40
+00:02:03,414 --> 00:02:06,000
+长官我知道. 但是我们没有别的办法
+Yes, ma'am I do. But we really
+don't have a choice in the matter
+
+41
+00:02:06,000 --> 00:02:08,085
+好吧, Lieutenant
+我知道了
+Understood Lieutenant.
+
+42
+00:02:08,085 --> 00:02:09,587
+祝你好运
+Good luck.
+
+43
+00:02:11,297 --> 00:02:13,090
+对探险者进行隔离检查
+Quarantine the jumper bay.
+
+44
+00:02:23,309 --> 00:02:25,895
+现在开始是自动导航了
+It is all automatic from here.
+
+45
+00:02:25,895 --> 00:02:27,396
+我们到家了
+Here we go.
+
+46
+00:03:48,005 --> 00:03:53,940
+星际之门之亚特兰蒂斯
+第一季 第4集
+Season 1
+Episode 4 : 38 minutes
+
+47
+00:04:10,583 --> 00:04:12,210
+他们呢?
+Where are they?
+
+48
+00:04:12,210 --> 00:04:13,085
+我也不知道,
+I don't know,
+
+49
+00:04:13,085 --> 00:04:14,504
+通道还敞开着
+the gate's still active.
+
+50
+00:04:14,504 --> 00:04:17,006
+所有指示灯显示他们正在穿过通道
+All indications read they should
+be through by then.
+
+51
+00:04:41,280 --> 00:04:42,740
+晕 不是吧!
+Oh no!
+
+52
+00:04:42,782 --> 00:04:44,283
+出什么事了?
+What happened?
+
+53
+00:04:44,992 --> 00:04:46,452
+我们被卡在这了,
+The drive pod,
+
+54
+00:04:46,494 --> 00:04:48,788
+当飞行的时候飞船的两翼是展开的,
+我想刚刚没有完全收回
+The wing things that stick out when we fly,
+must have failed to retract.
+
+55
+00:04:48,829 --> 00:04:50,206
+我猜是这个原因
+That's all I can think it could be.
+
+56
+00:04:50,248 --> 00:04:53,084
+应该是这个原因, 要不然就是通道关闭了,
+我怀疑有这个可能
+Of course that, or the Stargate's down,
+which I highly doubt.
+
+57
+00:04:53,125 --> 00:04:55,503
+这回麻烦大了
+But this is a big problem
+
+58
+00:04:55,545 --> 00:04:56,963
+我们怎么办?
+What can we do?
+
+59
+00:04:57,004 --> 00:04:58,297
+我们没什么可做的了,
+I don't think there's a thing we can do,
+
+60
+00:04:58,339 --> 00:05:02,301
+这回真他妈的麻烦大了
+this is a-a very, very big problem.
+
+61
+00:05:05,513 --> 00:05:06,931
+帮个忙
+Gimme a hand.
+
+62
+00:05:10,685 --> 00:05:12,186
+这他妈怎么回事?
+What the hell was that?
+
+63
+00:05:13,813 --> 00:05:14,397
+太奇怪了
+That's strange.
+
+64
+00:05:14,438 --> 00:05:15,898
+是啊
+Yes it is.
+
+65
+00:05:16,315 --> 00:05:17,567
+这是...
+That is the...
+
+66
+00:05:17,608 --> 00:05:19,110
+对, 没错
+Yes it is.
+
+67
+00:05:20,903 --> 00:05:22,613
+有麻烦了
+That's creepy sir.
+
+68
+00:05:22,655 --> 00:05:23,781
+我们被卡在这里了
+We're stuck.
+
+69
+00:05:23,823 --> 00:05:24,866
+没错
+Yes, we are.
+
+70
+00:05:24,907 --> 00:05:27,201
+显然机翼没有及时收回
+Apparently the engine pods failed
+to retract in time.
+
+71
+00:05:27,243 --> 00:05:29,871
+一头大一头小,
+所以卡在门这了
+Square peg, round hole.
+
+72
+00:05:29,912 --> 00:05:31,163
+我们能把Markham和Stackhouse拉出来吗?
+Can we pull Markham and Stackhouse out?
+
+73
+00:05:31,205 --> 00:05:34,709
+一穿过这门我们的手臂马上消失
+Our hands and arms would dematerialize
+as soon as we crossed the event horizon.
+
+74
+00:05:34,750 --> 00:05:36,419
+没办法摸到他们
+There's no way to reach for them.
+
+75
+00:05:40,381 --> 00:05:41,382
+少校
+Major
+
+76
+00:05:42,091 --> 00:05:44,594
+他应该是在受撞击的时候晕过去了
+He must have been knocked unconscious
+by the impact
+
+77
+00:05:44,635 --> 00:05:46,512
+<i>探险者1号, 我是Weir</i>
+<i>Jumper One, this is Weir</i>
+
+78
+00:05:46,554 --> 00:05:47,138
+<i>你们那里怎么样了?</i>
+<i>What's your status?</i>
+
+79
+00:05:47,180 --> 00:05:49,140
+我是Ford, 能和你联系上太好了
+This is Ford, good to hear your voice
+
+80
+00:05:49,182 --> 00:05:51,058
+我们有4个人还在这
+但是...
+The four of us are still here but...
+
+81
+00:05:51,100 --> 00:05:55,104
+<i>但是Markham和Stackhouse在里面</i>
+<i>在通道里面</i>
+<i>but Markham and Stackhouse are inside</i>
+<i>the event horizon.</i>
+
+82
+00:05:55,313 --> 00:05:57,064
+再说一遍
+Say again
+
+83
+00:05:57,106 --> 00:06:01,110
+长官, 探险者1号被卡在时空门了
+Ma'am, Jumper one is lodged in the stargate.
+
+84
+00:06:01,485 --> 00:06:05,114
+Teyla, McKay博士, 我还有少校
+在飞船后半截
+Teyla, doctor McKay and myself
+are in the rear compartment with the major.
+
+85
+00:06:05,156 --> 00:06:06,616
+少校情况不妙
+He's in bad shape
+
+86
+00:06:07,283 --> 00:06:10,286
+Mark和Stockhouse在飞船前半截
+Mark and Stockhouse are in the foward section
+
+87
+00:06:10,328 --> 00:06:11,913
+怎么会这样?
+How did that happen?
+
+88
+00:06:11,954 --> 00:06:13,164
+机器卡住了
+Engine pods
+
+89
+00:06:13,206 --> 00:06:16,501
+我们估计有一个推进器没有完全收回
+We think, it was one of the engine pods
+
+90
+00:06:16,542 --> 00:06:18,127
+但是我们没法子确定
+But there's no way to be sure
+
+91
+00:06:18,169 --> 00:06:19,670
+但那是唯一的可能性
+It is the only viable possibility
+
+92
+00:06:19,712 --> 00:06:22,965
+如果我没听错的话
+是不是你们的控制台没有了
+If I understand you correctly,
+you won't have acces of the flight controls
+
+93
+00:06:23,007 --> 00:06:24,967
+没错Elizabeth, 推测得很好
+Yes Elizabeth, It's an extremely
+intriguing conundrum,
+
+94
+00:06:25,009 --> 00:06:27,261
+而且我还有一件事想说,
+and one that I would love
+to discuss with you in detail,
+
+95
+00:06:27,345 --> 00:06:29,680
+当时空门关闭的时候飞船就两半了!
+until the stargate shuts down and
+the ship is cut in two!
+
+96
+00:06:29,722 --> 00:06:31,307
+Rodney, 冷静
+Rodney!
+Rodney, calm down.
+Rodney!
+
+97
+00:06:32,099 --> 00:06:35,603
+我要赶紧想办法抓住你们的飞船
+If I'm going to be any help to you at all,
+I need to catch up.
+
+98
+00:06:35,603 --> 00:06:37,396
+让Ford和我说
+Lt Ford, back it up for me.
+
+99
+00:06:41,192 --> 00:06:43,736
+我们在宇宙空间里无法识别幽灵的基地,
+We couldn't ID the Wraith base of
+operations from space,
+
+100
+00:06:43,778 --> 00:06:45,446
+就像上次我们到那一样
+like we did the last time we were there.
+
+101
+00:06:45,821 --> 00:06:49,492
+我们着陆在附近为了看的更清楚些
+So we went to the same landing co-ordinates
+as before, to get a closer look.
+
+102
+00:07:11,681 --> 00:07:13,182
+没了
+It's gone.
+
+103
+00:07:13,182 --> 00:07:13,891
+什么?
+What?
+
+104
+00:07:13,891 --> 00:07:15,810
+那里应该是座山
+This is in the mountain side.
+
+105
+00:07:15,810 --> 00:07:17,186
+原来是
+It was.
+
+106
+00:07:17,186 --> 00:07:18,688
+我们曾经在那山里
+We were inside it.
+
+107
+00:07:21,482 --> 00:07:22,984
+过去看看
+Let's move.
+
+108
+00:07:42,420 --> 00:07:44,088
+就是以前那个地方
+This was the spot.
+
+109
+00:07:44,088 --> 00:07:46,007
+这个坑比以前那座山还大
+That's more a hole than a moutain really.
+
+110
+00:07:46,007 --> 00:07:48,384
+山被摧毁了?
+Could have it been destroyed?
+
+111
+00:07:48,384 --> 00:07:49,886
+这肯定不是被炸的
+This is definitely not a blaster.
+
+112
+00:07:49,886 --> 00:07:51,220
+嗯 不是
+No.
+
+113
+00:07:51,220 --> 00:07:53,598
+我猜他们走了
+I think they picked up and left.
+
+114
+00:07:53,598 --> 00:07:54,807
+以前是个飞船?
+Was a ship?
+
+115
+00:07:54,807 --> 00:07:57,685
+我不理解, 长官, 整座山都被树覆盖着
+I don't know, sir, the mountain was
+covered of trees
+
+116
+00:07:57,685 --> 00:08:00,396
+没错, 但是幽灵冬眠几个世纪, 对吗?
+Yeah, but the Wraith's hibernate for centuries, right?
+
+117
+00:08:00,813 --> 00:08:03,399
+所以有足够时间长出很多树
+So a lot of tree's could have
+overgrown in that time.
+
+118
+00:08:03,399 --> 00:08:07,403
+而我们被囚禁在其中一个大飞船里
+就是我在图上给你指出来的那个
+Then we were held prisoner inside one of
+the great ships I showed you in the drawings.
+
+119
+00:08:08,196 --> 00:08:10,698
+他们走了, 开始屠戮整个世界
+They've left, to begin culling worlds.
+
+120
+00:08:15,161 --> 00:08:16,746
+那边有动静
+There's movement down there.
+
+121
+00:08:18,915 --> 00:08:19,916
+快跑!
+Go!
+
+122
+00:08:29,008 --> 00:08:31,010
+她不会明白的
+She hardly mean't, begin at the beginning.
+
+123
+00:08:31,010 --> 00:08:33,012
+这些事她应该知道
+This is intel, she needs to know
+
+124
+00:08:33,012 --> 00:08:34,889
+我们现在还有不到38分钟
+And we have less than 38 minutes
+
+125
+00:08:34,889 --> 00:08:36,599
+等会儿, 为什么只有38分钟?
+Hold on, why 38 minutes?
+
+126
+00:08:36,599 --> 00:08:40,520
+因为在非活动状态下
+时空门最多保持38分钟开启状态
+Because that's the maximum amount of time a Stargate
+remain open in non-relativistic conditions
+
+127
+00:08:40,520 --> 00:08:43,105
+这是热力物理学定义之一,
+It is one of the more immutable laws
+of the worm holes physics,
+
+128
+00:08:43,105 --> 00:08:46,817
+而且天啊, 看看表,
+最多还有35分钟. 你吸住我们的飞船了吗?
+and oh my, look at the time,
+it's more like 35 minutes. Are we all caught up?
+
+129
+00:08:46,817 --> 00:08:47,902
+我知道了
+I get it
+
+130
+00:08:47,902 --> 00:08:48,819
+你需要什么?
+What do you need?
+
+131
+00:08:48,819 --> 00:08:49,779
+帮忙
+Help
+
+132
+00:08:49,779 --> 00:08:50,613
+好啦!
+All right!
+
+133
+00:08:50,613 --> 00:08:54,617
+叫Cavenaugh, Groden和Simpson来这里
+看看他们有什么主意
+Let me put Cavenaugh, Groden and Simpson in a room.
+See what they come up with.
+
+134
+00:08:54,659 --> 00:08:57,245
+很好, Czech, Czech,
+别忘了叫Czech
+That's good, and the Czech, Czech,
+the Czech with name i cant remember
+
+135
+00:08:57,286 --> 00:08:58,120
+Zelenka博士?
+Doctor Zelenka?
+
+136
+00:08:58,120 --> 00:08:59,580
+就是他们. 这是我们一起研究的
+That's it. We'll work it at our end.
+
+137
+00:08:59,580 --> 00:09:00,373
+还有谁?
+What else?
+
+138
+00:09:00,373 --> 00:09:02,083
+我们再联系, 谢了
+We call you, thank you
+
+139
+00:09:05,586 --> 00:09:06,629
+病人在哪?
+Where is my patient?
+
+140
+00:09:06,629 --> 00:09:08,089
+-有点麻烦. 去会议室
+-哦, 不是吧...
+-There's been a problem. Conference room.
+-Oh, no...
+
+141
+00:09:08,089 --> 00:09:10,007
+保持和他们联系
+Keep a channel open with them all the times
+
+142
+00:09:10,007 --> 00:09:11,592
+把报警器关了!
+And turn that alarm off!
+
+143
+00:09:26,190 --> 00:09:27,483
+Hi Teyla!
+Hi Teyla!
+
+144
+00:09:32,280 --> 00:09:33,573
+你没事吧?
+Are you allright?
+
+145
+00:09:34,282 --> 00:09:35,491
+我没事
+I am fine
+
+146
+00:09:36,701 --> 00:09:39,996
+看起来我们还没回基地
+Something tells me, we haven't
+made it to Atlantis yet.
+
+147
+00:09:39,996 --> 00:09:40,997
+没有
+No
+
+148
+00:09:49,088 --> 00:09:50,298
+Ford?
+Ford?
+
+149
+00:09:54,802 --> 00:09:56,220
+那是什么玩意儿?
+What is that?
+
+150
+00:09:56,304 --> 00:09:57,305
+长官, 我们卡住了
+We stucks, Sir
+
+151
+00:09:57,305 --> 00:09:58,514
+我们在哪?
+We're what?
+
+152
+00:09:58,514 --> 00:10:00,224
+在时空门中间
+In a gate
+
+153
+00:10:00,933 --> 00:10:03,227
+也就是说我们快玩儿完了
+You mean my day just got worse.
+
+154
+00:10:07,982 --> 00:10:10,693
+据我们推测
+应该有1,2个推进器没有收回
+We're going with the assumption,
+that it was one or both of the drive pods.
+
+155
+00:10:10,693 --> 00:10:11,986
+我不知道是不是机器出了故障
+I don't know if it was mechanical failure.
+
+156
+00:10:11,986 --> 00:10:14,071
+要不就是当咱们起飞的时候机器被击中了
+Or was damaged as we try to take off.
+
+157
+00:10:19,702 --> 00:10:21,787
+不要停
+Taking fire.
+
+158
+00:10:23,206 --> 00:10:24,457
+要不我们就完蛋了!
+It's a melt to do!
+
+159
+00:10:24,457 --> 00:10:25,666
+我在劲力!
+I try Sir!
+
+160
+00:10:28,419 --> 00:10:30,087
+没有办法证实
+Is no way of knowing, really
+
+161
+00:10:30,087 --> 00:10:34,091
+但是如果有懂一些机械常识 ...
+But, if you know some way of mannually
+crack the mechanism ...
+
+162
+00:10:34,383 --> 00:10:36,219
+Cokpit跟过来了
+Cokpit on their left
+
+163
+00:10:36,219 --> 00:10:39,430
+cokpit在那个时候分子化了,
+但是...
+the cokpit is regretably demolecularize,
+at the moment, but...
+
+164
+00:10:39,472 --> 00:10:40,890
+你发现什么了吗?
+Loose someone back here?
+
+165
+00:10:43,100 --> 00:10:44,602
+- 没有
+- 应该没有
+- No
+- No, I dont think so
+
+166
+00:10:44,602 --> 00:10:48,397
+如果你不介意, 我在这里读点东西
+Well if you'll excuse me, I'll be a foot and a half
+over there, taking some readings.
+
+167
+00:10:48,397 --> 00:10:50,191
+你们慢慢聊吧
+Feel free to talk amongst yourselves.
+
+168
+00:11:02,495 --> 00:11:05,581
+你们了解大致情况了吧
+我们还有不到半个小时
+Alright, you've all been briefed.
+We have less than half an hour.
+
+169
+00:11:05,581 --> 00:11:06,582
+Zelenka博士呢?
+Where this doctor Zelenka?
+
+170
+00:11:06,582 --> 00:11:08,668
+他在做2号小型模拟飞机
+He's working up a simulation
+in the Puddle-Jumper Two
+
+171
+00:11:08,709 --> 00:11:10,294
+- 那个模拟机可以直接到找到他们
+- 太好了
+- It was direct toward there
+- That is good
+
+172
+00:11:10,336 --> 00:11:11,963
+前提是要有足够的时间
+If there was time it would be
+
+173
+00:11:12,004 --> 00:11:13,506
+博士, 现在不是讨论它的功能的时候
+It is not a matter that features yet, doctor.
+
+174
+00:11:13,548 --> 00:11:15,383
+飞船上有6个人
+There's 6 people on a ship
+
+175
+00:11:15,424 --> 00:11:18,886
+我只是个医疗博士,
+所以请原谅我问一个愚蠢的问题
+I'm just a medical doctor here,
+so forgive me if this is a stupid question
+
+176
+00:11:18,928 --> 00:11:21,097
+如果他们走进时空门
+If they just step to the event horizon
+
+177
+00:11:21,138 --> 00:11:23,516
+当门关闭的时候,
+他们不能回到飞船控制台吗?
+wouldn't they come through to the front
+part of the ship, when the gate shuts down?
+
+178
+00:11:23,558 --> 00:11:25,810
+飞船前面一段不能被重组
+The front half won't rematerialise on this side.
+
+179
+00:11:25,852 --> 00:11:28,604
+时空门只能传送完整物体
+The Stargate transmits the matter in discreet units
+
+180
+00:11:28,646 --> 00:11:31,190
+飞船前面一段不能被重组,
+The front half of the ship cannot rematerialise,
+
+181
+00:11:31,232 --> 00:11:34,110
+除非整个飞船都通过时空门
+Until the whole ship has crossed
+into the event horizon
+
+182
+00:11:34,151 --> 00:11:36,821
+时空门只能接受没有中断的介质
+The Stargate is a century waiting for
+the contiguous components
+
+183
+00:11:36,863 --> 00:11:38,781
+也就是说飞船和里面所有的东西
+Meaning the jumper and everyone inside
+
+184
+00:11:38,823 --> 00:11:41,284
+在我们传送他们之前,
+必须都通过了时空门
+To enter completely,
+before we can transport them
+
+185
+00:11:42,702 --> 00:11:45,204
+他的意思是说时空门只能传送一阵个物体
+He say's, the gate only sends
+things through in one piece.
+
+186
+00:11:45,246 --> 00:11:46,080
+我听明白了
+Yeah, sorry
+
+187
+00:11:46,122 --> 00:11:49,792
+很不幸, 直到分子重组完成之前
+Unfortunately, the upgoing Stargate
+won't transmit the matter stream
+
+188
+00:11:49,834 --> 00:11:52,211
+上传的时空门是不会传送任何流状介质的
+until the demolecularization is completed
+
+189
+00:11:52,253 --> 00:11:53,504
+当门关闭的时候
+When he shuts down
+
+190
+00:11:53,546 --> 00:11:57,508
+整个飞船前身, 还有里面所有的人都会消失
+entire forward section, along with
+the men inside will cease to exist
+
+191
+00:11:57,800 --> 00:11:59,010
+其他人呢?
+And what about the others?
+
+192
+00:11:59,051 --> 00:12:02,305
+飞船会在瞬间沿着时空门被切割
+The ship will be severed instantaneously
+along the event horizon
+
+193
+00:12:02,346 --> 00:12:04,807
+他们将被抛向真空宇宙,
+They'll be exposed to hard vacuum,
+
+194
+00:12:04,849 --> 00:12:06,309
+现在还有29分钟
+In 29 minutes
+
+195
+00:12:09,687 --> 00:12:11,480
+他们如果关闭后舱门呢?
+What if they close the bulkhead door?
+
+196
+00:12:12,607 --> 00:12:15,902
+整个飞船后部会是密闭的,
+起到了一个救生艇的作用
+The rear portion of the ship,
+will remain pressurised. Become a sort of lifeboat.
+
+197
+00:12:15,943 --> 00:12:17,403
+他们很快就没有氧气了
+It will lose atmosphere very quickly
+
+198
+00:12:17,445 --> 00:12:19,405
+那么我们就有时间派另一个飞船去接他们了
+It could buy enough time to send
+a second Jumper.
+
+199
+00:12:19,447 --> 00:12:20,114
+那又怎么样?
+And do what?
+
+200
+00:12:20,156 --> 00:12:20,990
+有办法了!
+Figure it out!
+
+201
+00:12:21,032 --> 00:12:23,492
+和探险者1号取得联系
+告诉他们这个建议
+Contact Jumper One and made recommendation
+
+202
+00:12:42,845 --> 00:12:44,388
+你干什么?
+What are you doing?
+
+203
+00:12:44,430 --> 00:12:46,098
+对不起
+Sorry, here
+
+204
+00:12:46,140 --> 00:12:48,684
+探险者1号, 我是基地
+Jumper One, this is Atlantis
+
+205
+00:12:48,726 --> 00:12:49,602
+我听到了
+We're still here.
+
+206
+00:12:49,644 --> 00:12:51,521
+<i>我们建议你们关闭后舱门</i>
+<i>We recommend closing the bulkhead door.</i>
+
+207
+00:12:51,562 --> 00:12:53,481
+哦... 好主意
+Oh... Good thinking
+
+208
+00:12:53,523 --> 00:12:54,899
+然后呢?
+What else?
+
+209
+00:12:54,941 --> 00:12:57,610
+我们还在想办法
+再和你联系
+We are still working on the problem.
+We'll get back to you.
+
+210
+00:12:57,652 --> 00:12:58,819
+完毕
+Atlantis base out.
+
+211
+00:12:58,861 --> 00:13:00,321
+谢谢你和我们联系!
+Thanks for calling!
+
+212
+00:13:03,199 --> 00:13:05,493
+除了我还有人怕黑吗?
+Somebody else is claustrophobic
+or is it just me?
+
+213
+00:13:05,535 --> 00:13:06,702
+为什么关闭舱门?
+Why did you close the doors?
+
+214
+00:13:06,744 --> 00:13:08,788
+当时空门关闭,
+飞船前部被割断的时候,
+So that when the Stargate is close down,
+and the forward section is severed,
+
+215
+00:13:08,829 --> 00:13:10,706
+我们就不会被抛向外太空了
+we're not directly exposed to space
+
+216
+00:13:10,748 --> 00:13:11,499
+这门结实吗?
+Will it hold?
+
+217
+00:13:11,541 --> 00:13:13,876
+用潜水艇材质做的,
+我想可以...
+Like a screen door in a submarine,
+I just prefer apoxia...
+
+218
+00:13:13,918 --> 00:13:14,919
+...起到减压的作用
+...to decompression.
+
+219
+00:13:14,961 --> 00:13:16,420
+这... 这只是个人想法
+It is... it is a personal thing
+
+220
+00:13:16,462 --> 00:13:18,548
+快没空气了
+我看你还是冷静点吧
+The air's gonna get thin in here.
+Your really do have to calm down.
+
+221
+00:13:18,589 --> 00:13:20,216
+- 哦, 如果不这么做27分钟以后你就知道什么是缺氧了
+- McKay
+- Oh, you wait and see how thin it get's in 27 minutes.
+- McKay
+
+222
+00:13:20,258 --> 00:13:22,301
+真空的宇宙. 那才叫缺氧
+Vacuum. That's thin.
+
+223
+00:13:22,343 --> 00:13:23,302
+把门打开
+Knock it off
+
+224
+00:13:23,344 --> 00:13:26,389
+哦, 我觉得只有我认识到了我们现在处境多危险!
+Oh, I apologise for being the only person
+who truly comprehends how screwed we are!
+
+225
+00:13:26,430 --> 00:13:29,392
+别和我谈危险!
+Don't talk to me about screwed!
+
+226
+00:13:37,191 --> 00:13:40,278
+我们不应该放弃Markham和Stackhouse
+And let's not give up on
+Markham and Stackhouse, either.
+
+227
+00:13:41,904 --> 00:13:43,698
+我们还有很多时间想办法,
+There's plenty of time to solve this thing,
+
+228
+00:13:43,739 --> 00:13:47,702
+首先你最好闭上嘴,
+好好动动脑子
+but you've gotta stop using your mouth,
+and start using your brain.
+
+229
+00:13:50,413 --> 00:13:53,207
+对不起...我只是...
+I'm sorry...I'm just...
+
+230
+00:13:53,249 --> 00:13:57,211
+这是人到生死关头的正常反映
+我知道这样不对..
+I react to certain doom, in a certain way.
+It's a bad habit and..
+
+231
+00:13:57,920 --> 00:14:00,089
+也许有办法手动让推进器收回
+Maybe there is a way to manually
+retract the mechanism.
+
+232
+00:14:00,131 --> 00:14:01,591
+我想应该可以
+Yeah maybe there is.
+
+233
+00:14:07,597 --> 00:14:09,098
+给你这个
+Here
+
+234
+00:14:12,685 --> 00:14:14,020
+你很坚强
+You seem stronger
+
+235
+00:14:14,061 --> 00:14:16,314
+不. 只是现在不那么疼了
+No.it's just the pains not so bad now.
+
+236
+00:14:16,355 --> 00:14:17,315
+很好
+That's good
+
+237
+00:14:17,356 --> 00:14:18,900
+不, 我不觉得
+No, It isn't
+
+238
+00:14:18,941 --> 00:14:20,401
+因为我的腿没知觉了
+I can't feel my legs
+
+239
+00:14:21,986 --> 00:14:23,487
+手和胳膊都是麻的
+The hands and the arms are numb
+
+240
+00:14:23,529 --> 00:14:25,281
+我基本不能动了
+I can barely move them.
+
+241
+00:14:25,615 --> 00:14:28,117
+我快失去知觉了. 少尉
+feelings creeping me out. Look lieutenant
+
+242
+00:14:29,118 --> 00:14:31,120
+我只想告诉你
+What I'm trying to say
+
+243
+00:14:31,120 --> 00:14:33,623
+如果我不能把这东西取下去
+is if you don't get this damn thing off me.
+
+244
+00:14:34,707 --> 00:14:37,001
+我会比你先死
+I have even less time than you do.
+
+245
+00:14:56,521 --> 00:14:57,730
+Zelenka博士
+Doctor Zelenka
+
+246
+00:14:58,814 --> 00:15:01,609
+对不起我没有参加会议,
+Weir博士, 我实在没有时间
+Apologise to not attending a breefing,
+Dr Weir, there was not time.
+
+247
+00:15:01,609 --> 00:15:03,694
+我不想妨碍你
+但是我想知道你在做什么
+I don't want to slow you down but
+I need to know what you're working on
+
+248
+00:15:03,736 --> 00:15:05,738
+这样我可以告诉探险者1号
+so I can communicate it to the team
+on Jumper one.
+
+249
+00:15:05,738 --> 00:15:08,616
+我们正在努力 ...
+We are attempting to retract the ...
+
+250
+00:15:10,284 --> 00:15:14,080
+把推进器收回到飞船后舱
+the drive pod back into the fuse lodge
+from inside the rear compartment
+
+251
+00:15:14,080 --> 00:15:15,206
+有什么进展了吗?
+Anything yet?
+
+252
+00:15:15,206 --> 00:15:17,583
+远古科技很复杂
+There is much redundancy
+in the ancient technology.
+
+253
+00:15:17,583 --> 00:15:20,920
+所以我先在这里做个试验
+Making it dangerous for them
+to experiment with it in this way.
+
+254
+00:15:20,920 --> 00:15:24,090
+也就是说飞船后门有可能打开
+他们就被抛向外太空
+So they might accidentally open the rear
+hatch or shut life support off entirely.
+
+255
+00:15:24,090 --> 00:15:25,591
+是的, 是的, 没错
+Yes, yes, yes
+
+256
+00:15:25,591 --> 00:15:29,595
+这就是为什么我要先做个试验
+It's just why we're attempting to isolate
+the correct control pathway.
+
+257
+00:15:29,887 --> 00:15:31,597
+明白了. 我有什么能帮上忙的?
+Understood. What can I do to help?
+
+258
+00:15:32,181 --> 00:15:33,975
+别和我聊天就行了
+Stop talking, please.
+
+259
+00:15:42,191 --> 00:15:43,401
+少尉,
+Lieutenant,
+
+260
+00:15:43,901 --> 00:15:46,028
+拿刀把这东西切开
+get your knife out and cut this damn thing off.
+
+261
+00:15:46,112 --> 00:15:48,072
+这回他不能在怎么伤到我了
+It can't hurt as much as it did last time.
+
+262
+00:15:48,114 --> 00:15:49,991
+上次你差点死了
+The last time, we almost lost you
+
+263
+00:15:49,991 --> 00:15:51,784
+算了, 我怎么样都会死的
+Ah well.you're going to lose me anyway
+
+264
+00:15:51,784 --> 00:15:52,994
+长官
+Sir
+
+265
+00:15:53,286 --> 00:15:55,913
+我们回到飞船上的时候已经试过切掉它了
+We tried to cut it off when
+we were back on the planet
+
+266
+00:15:55,913 --> 00:15:58,082
+各种方法都试了
+We tried everything
+
+267
+00:15:58,082 --> 00:15:59,584
+长官你能坚持吧?
+You're right sir?
+
+268
+00:16:01,502 --> 00:16:03,004
+准备好了
+Here we go.
+
+269
+00:16:11,304 --> 00:16:13,097
+任何办法只会让能更难受
+Everything we did just seemed to hurt you more.
+
+270
+00:16:13,097 --> 00:16:14,974
+我想它可以自我治疗
+I think it just heals itself.
+
+271
+00:16:16,100 --> 00:16:18,394
+它吸收你的能量, 就像那些幽灵
+it feeds on your strengh, like the Wraith
+
+272
+00:16:18,394 --> 00:16:20,396
+你和我说过了
+You had to say that.
+
+273
+00:16:20,396 --> 00:16:23,858
+我父亲给我讲过许多关于这种生物的故事
+My father often told stories about
+creatures such like this.
+
+274
+00:16:23,900 --> 00:16:27,904
+我一直以为他想让我们这些孩子呆在营地
+I always thought he was just trying to keep
+the children from straying far from our camp.
+
+275
+00:16:28,321 --> 00:16:31,407
+很好, 他告诉过你怎么杀了他们吗?
+Great, and did he
+tell you how to kill it?
+
+276
+00:16:31,407 --> 00:16:33,409
+我不知道,
+我确信我们杀不了它
+I don't know sir,
+I'm sure we can't.
+
+277
+00:16:33,409 --> 00:16:35,703
+我想到了另一个办法
+I could use a second opinion
+
+278
+00:16:35,703 --> 00:16:37,496
+和基地取得联系
+Get back on the radio
+
+279
+00:16:39,790 --> 00:16:41,292
+收到
+Affirmative
+
+280
+00:16:41,292 --> 00:16:43,377
+过来吧长官, 接通了
+Come here Sir, this micro is open.
+
+281
+00:16:45,087 --> 00:16:47,089
+我是Beckett医生, 伤员怎么样?
+This is doctor Beckett, how is our patient?
+
+282
+00:16:47,089 --> 00:16:50,384
+<i>我是Ford. Sheppard少校苏醒了</i>
+<i>但是那个生物还在他身上</i>
+<i>This if ford. Major Sheppard is conscious</i>
+<i>but the creature is still latched on to him.</i>
+
+283
+00:16:50,384 --> 00:16:52,595
+大夫能不能来就诊啊?
+How do you feel about house calls doc?
+
+284
+00:16:52,595 --> 00:16:56,390
+我也想
+但是你实在太远了
+Would if I could major Sheppard but
+you'll have to settle for long distance.
+
+285
+00:16:56,390 --> 00:16:58,809
+我听说有东西附在你身上了
+I'm told you have something of a cling-on
+
+286
+00:17:02,104 --> 00:17:03,981
+很可笑吧
+It's funny
+
+287
+00:17:03,981 --> 00:17:07,109
+是你见过最丑陋的东西了
+It's like the ugliest damn thing you've ever seen.
+
+288
+00:17:07,109 --> 00:17:09,403
+它怎么攻击到你的?
+How did it attack yourself ?
+
+289
+00:17:09,403 --> 00:17:11,489
+我们在回飞船的路上
+Well, we returned toward the Jumper
+
+290
+00:17:12,698 --> 00:17:14,492
+幽灵们向我们开枪
+The Wraith were shooting us
+
+291
+00:17:16,619 --> 00:17:18,913
+我掩护你
+你去告诉Marco准备起飞
+Go tell Marco to get ready for
+take off I'll cover you.
+
+292
+00:17:18,913 --> 00:17:19,580
+你怎么办?
+What about you?
+
+293
+00:17:19,580 --> 00:17:21,374
+我这就回去, 快走!
+I'll be there in a minute, GO!
+
+294
+00:17:52,697 --> 00:17:55,199
+<i>少校回飞船的路被截住了</i>
+<i>Major we're cut off from the jumper</i>
+
+295
+00:17:56,117 --> 00:17:56,909
+不行
+Negative
+
+296
+00:17:56,909 --> 00:17:59,412
+有一个在你3点钟位置
+另外两个被我引过来了
+They're should be one at your three o'clock
+I drew the other two this way
+
+297
+00:17:59,412 --> 00:18:01,414
+<i>我们被包围了
+他们从哪出来的?</i>
+<i>They're all around us where'd they come from?</i>
+
+298
+00:18:01,414 --> 00:18:04,083
+少尉你应该知道他们能够隐身的,
+Ltd you know how they can make you
+see things that aren't there,
+
+299
+00:18:04,083 --> 00:18:07,086
+你前面现在没有人, 赶紧跑!
+The path in front of you is cleared, now move!
+
+300
+00:18:14,010 --> 00:18:15,303
+你能描述一下吗?
+Can you describe it to me?
+
+301
+00:18:15,303 --> 00:18:16,387
+好的
+Yes sir.
+
+302
+00:18:16,387 --> 00:18:20,391
+包括尾巴它一共2英尺长,
+还有点什么东西在他胳膊下面
+It's about two feet in length including the tail,
+there's rough stuff under his arm picks
+
+303
+00:18:20,892 --> 00:18:24,687
+有两个带刺的东西在少校脖子上
+靠近颈动脉
+It's got two sharp spiny things in his neck
+near the Major's carotid artery
+
+304
+00:18:24,687 --> 00:18:26,189
+描述的再细致点
+I need more than that, son
+
+305
+00:18:27,190 --> 00:18:29,192
+4条像腿的东西
+Four legs, if you can call them that
+
+306
+00:18:29,192 --> 00:18:32,486
+紧紧的包住了少校的喉咙
+They're wrapped around the Major's throat.
+
+307
+00:18:32,486 --> 00:18:34,488
+找不到眼睛
+I can't see any eyes
+
+308
+00:18:35,615 --> 00:18:39,202
+有很坚硬的外壳, 但是肚子下面很松软
+It's got a real hard shell, but there's
+a soft meaty part underneath.
+
+309
+00:18:39,202 --> 00:18:41,787
+少校, 你有什么感觉?
+Major, what are your physical symptoms?
+
+310
+00:18:41,787 --> 00:18:44,290
+就好像用刀刺我的眼
+Well, first it was as a knife in the eye
+
+311
+00:18:44,290 --> 00:18:47,502
+因为我现在没有什么知觉了
+Since I have lost all the feelings
+in my extremities
+
+312
+00:18:47,502 --> 00:18:49,212
+我不能动
+I can't move
+
+313
+00:18:49,212 --> 00:18:53,216
+这么说初期感到疼痛
+So it incapacitates first with pain and prophases.
+
+314
+00:18:53,508 --> 00:18:56,719
+我想去帮McKay检查机器故障
+I need to be able to move around
+and help McKay with mechanical problem.
+
+315
+00:18:56,719 --> 00:19:00,097
+如果不想办法
+Marco和Stackhouse会死的
+Marco and Stackhouse are dead if I don't.
+
+316
+00:19:00,097 --> 00:19:01,516
+你们都试过什么办法了?
+What have you tryed?
+
+317
+00:19:01,516 --> 00:19:05,019
+试过用刀切, 用火烧,
+我甚至用枪打它
+I've tried to cut it off, I've tried to burn it off,
+I've even tried to shoot it off.
+
+318
+00:19:05,019 --> 00:19:07,396
+很近的点射
+9 mil point blank.
+
+319
+00:19:07,396 --> 00:19:09,982
+除了差点杀了少校以外,
+没有任何效果
+Not much worse I can do without
+killing the Major along with it.
+
+320
+00:19:09,982 --> 00:19:13,319
+我相信这个生物属于那些幽灵
+I believe the creature is related
+in some way to the Wraith
+
+321
+00:19:13,319 --> 00:19:13,986
+真的?
+really ?
+
+322
+00:19:13,986 --> 00:19:14,820
+为什么这么说?
+How so?
+
+323
+00:19:14,820 --> 00:19:18,783
+它不断吸Sheppard少校的血来维持生命
+it feeds itself after each intent to remove him
+by sucking life from Major Sheppard
+
+324
+00:19:19,200 --> 00:19:20,910
+和那些幽灵一样
+Just as the Wraith would.
+
+325
+00:19:22,203 --> 00:19:23,788
+我估计是幽灵放出了什么东西
+Well, I suppose the Wraith has
+to have evolved of something
+
+326
+00:19:23,788 --> 00:19:26,582
+我估计是一种...
+史前的某种东西
+I suppose that it is a sort of a...
+prehistoric cousin.
+
+327
+00:19:29,293 --> 00:19:30,920
+大夫听着, 少校不能这样下去
+Listen Doctor, the Major can't be worse
+
+328
+00:19:30,920 --> 00:19:32,713
+我们要想点办法
+We gonna do something right now
+
+329
+00:19:33,714 --> 00:19:37,718
+你刚刚说这个生物的腹部很软而且他还吸血
+You said that the creature had a underside
+an exposed  soft tissue like a leech
+
+330
+00:19:38,094 --> 00:19:39,595
+我试过把它割开
+I tried to cut into it.
+
+331
+00:19:39,595 --> 00:19:41,514
+那东西差点杀死少校
+the thing practically strangled him to death
+
+332
+00:19:41,514 --> 00:19:45,518
+你不要切掉它
+在它身上洒点盐
+Son you don't cut leeches off.
+You pour salt on to them.
+
+333
+00:19:46,018 --> 00:19:48,312
+如果你启动磁场他们都会死
+If you activate the field they'll die.
+
+334
+00:19:48,312 --> 00:19:50,565
+如果他们解决了这个问题
+我们可以一起打开磁场
+We can always open it together
+if they fix the problem
+
+335
+00:19:50,606 --> 00:19:51,607
+他们没有时间了
+Well they may not have time.
+
+336
+00:19:51,607 --> 00:19:53,693
+如果不这么做他们会毁掉这个设备
+If they don't, we could destroy this facility.
+
+337
+00:19:53,693 --> 00:19:56,487
+我是想让你们想个解决方法
+It's supposed we're working on solutions.
+
+338
+00:19:59,282 --> 00:20:03,202
+我们估计飞船一开始就损坏了
+We think the Jumper must be damaged
+for this to have happened in the first place.
+
+339
+00:20:03,202 --> 00:20:06,581
+把远古系统提速是个驾驶错误
+Ancient systems are too advanced
+for this to be pilot error.
+
+340
+00:20:06,581 --> 00:20:07,290
+那么怎么样?
+So ?
+
+341
+00:20:07,290 --> 00:20:08,791
+那么就取决于损坏程度有多大
+So depending on the extend of the damage
+
+342
+00:20:08,791 --> 00:20:11,919
+我们不能保证因此而产生的能量不反馈到别的地方
+we can't rule out a catastrophic power
+feed back in the drive manifolds.
+
+343
+00:20:11,919 --> 00:20:13,212
+请不要用术语
+Without the techno babble please.
+
+344
+00:20:13,254 --> 00:20:16,174
+Cavenaugh博士, 只是想说,
+有一点可能性,
+Doctor Cavenaugh, was pointing out,
+that there's a very slim chance,
+
+345
+00:20:16,215 --> 00:20:19,135
+飞船没有控制台,
+推进器又受损,
+that with the cockpit controls interrupted,
+and with the pod damaged,
+
+346
+00:20:19,260 --> 00:20:21,262
+飞船有可能超载
+the main drive could overload.
+
+347
+00:20:21,304 --> 00:20:23,097
+她的意思是爆炸
+She means to say explode.
+
+348
+00:20:23,973 --> 00:20:27,310
+特别是当McKay开始检查线路,
+Especially if McKay starts nosing around
+inside the control conduits,
+
+349
+00:20:27,393 --> 00:20:28,936
+尝试整修推进器的时候
+to attract the drive pod manually.
+
+350
+00:20:29,020 --> 00:20:31,230
+他肯定会的. 我知道我会这么做
+And he will. I know I would.
+
+351
+00:20:31,272 --> 00:20:34,233
+Zelenka正在想办法
+我刚刚从那里回来
+Zelenka's working on simulations.
+I just came from there.
+
+352
+00:20:34,317 --> 00:20:36,360
+如果超负荷
+If there is a catastrophic overload.
+
+353
+00:20:36,444 --> 00:20:39,322
+爆炸会毁掉整个飞船,
+The full force of the explosion
+will break up the Jumper,
+
+354
+00:20:39,405 --> 00:20:42,783
+碎片会顺着时空门飞进来
+就像个炸弹
+follow the burning fragments through
+the Stargate, like a bomb.
+
+355
+00:20:46,454 --> 00:20:49,165
+你们认为这种危险性很小么?
+You think the risk of
+this happening is minimal?
+
+356
+00:20:50,333 --> 00:20:53,085
+我觉得很小
+In my opinion. Yes.
+
+357
+00:20:55,796 --> 00:20:57,298
+你们都同意?
+You all agree?
+
+358
+00:20:59,008 --> 00:21:00,676
+那么就试试吧
+Then we take the chance.
+
+359
+00:21:04,013 --> 00:21:06,098
+我认为说清楚这种危险性很重要
+I thought it was important
+to point out the risk.
+
+360
+00:21:06,098 --> 00:21:07,517
+没错, 你说清楚了
+Fine, you did.
+
+361
+00:21:07,558 --> 00:21:13,231
+现在请多想想他们的生命,
+不要总想着你自己....
+Now please worry a little bit more about
+their  lives, and less about your own ass....
+
+362
+00:21:16,984 --> 00:21:18,486
+还有23分钟
+23 minutes.
+
+363
+00:21:23,991 --> 00:21:25,076
+Weir博士?
+Doctor Weir?
+
+364
+00:21:25,159 --> 00:21:26,369
+对不起, 我现在没有时间
+I'm sorry, I don't have time right now.
+
+365
+00:21:26,452 --> 00:21:29,038
+这些人不是想拿回这艘飞船
+Neither do those people that are trapped
+aboard the ship of the ancestors.
+
+366
+00:21:29,914 --> 00:21:31,332
+消息传得真快
+News travels fast.
+
+367
+00:21:31,666 --> 00:21:34,502
+当你们探险队员呼救的时候
+我和她谈了
+I was speaking with one of your expedition
+members, when she was called in to help.
+
+368
+00:21:34,627 --> 00:21:37,171
+好吧, 我应该知道我们没有时间了
+Well then, you are aware that
+we are very short on time.
+
+369
+00:21:37,296 --> 00:21:39,006
+我知道
+I am.
+
+370
+00:21:40,007 --> 00:21:42,009
+但还是很重要
+Still, this is important.
+
+371
+00:21:43,594 --> 00:21:44,554
+好吧
+Ok
+
+372
+00:21:45,513 --> 00:21:47,849
+你不知道一件事
+但是在我们中间,
+You do not know this.
+But among our people,
+
+373
+00:21:48,266 --> 00:21:52,478
+有一个仪式祷告者刚刚说
+死亡临近他们了
+there is a ritual prayer that is said,
+when one knows that death is upon them.
+
+374
+00:21:52,562 --> 00:21:53,813
+我们不这么认为
+We don't know that it is.
+
+375
+00:21:53,896 --> 00:21:55,273
+有人告诉我这是不可避免的
+I'm told that it is all but inevitable.
+
+376
+00:21:55,398 --> 00:21:56,107
+谁说的?
+By who?
+
+377
+00:21:56,607 --> 00:21:57,817
+那不重要
+It is not important.
+
+378
+00:21:58,359 --> 00:22:01,445
+重要的是, Teyla已经准备好死了
+What is important, is that Teyla
+be allowed to prepare for death.
+
+379
+00:22:01,612 --> 00:22:07,034
+要知道一个人死亡的时间和地点,
+对于我们来说是很珍贵的
+Knowing the time and place of one's end,
+is a very rare thing among our people.
+
+380
+00:22:07,118 --> 00:22:10,746
+只是个简单的仪式, 只需要一点时间....
+It is a simple rite, but will not take more
+than a few moments to....
+
+381
+00:22:10,830 --> 00:22:15,877
+Hollan? 我们要劲我们全力来就他们
+Hollan? We need to concentrate all of
+our efforts on saving them.
+
+382
+00:22:15,960 --> 00:22:18,045
+此时此刻Teyla自己的信念是什么?
+At the risk of forsaking Teyla's own beliefs?
+
+383
+00:22:18,087 --> 00:22:21,716
+重要的是我们要用我们现有很少的时间
+尽我们最大的努力....
+It is important that we use what
+little time we have, to try everything....
+
+384
+00:22:21,757 --> 00:22:24,635
+这件事上,
+不用你告诉我什么重要什么不重要
+I would ask you not to tell me what is important,
+and what is not, in this case.
+
+385
+00:22:25,636 --> 00:22:28,139
+- 对不起, 现在我没有时间聊天
+- 为什么不行?
+- I'm sorry, I can't have this conversation right now.
+- Why not?
+
+386
+00:22:28,306 --> 00:22:29,807
+因为我们在浪费时间
+Because we are wasting time.
+
+387
+00:22:29,891 --> 00:22:31,517
+这一时刻Teyla早就准备好了
+This is time that Teyla can use to prepare.
+
+388
+00:22:31,601 --> 00:22:33,895
+好了, 你认为死亡是必然的
+Alright, you perceive death
+a certain way.
+
+389
+00:22:34,020 --> 00:22:36,647
+我也承认. I事实上, 我也尊重你们的想法
+I accept that. In fact, I respect that.
+
+390
+00:22:36,939 --> 00:22:41,652
+但是我们没有准备去死
+我们必须尽力去避免死亡
+But we do not prepare for death.
+We do everything we can to stave it off.
+
+391
+00:22:41,777 --> 00:22:42,987
+这才是我们应该做的
+That is who we are.
+
+392
+00:22:43,070 --> 00:22:45,114
+我并不想中止你的工作
+I'm not asking you to suspend your efforts.
+
+393
+00:22:45,198 --> 00:22:48,034
+你想让我告诉这飞船上所有人,
+No. You want me to tell
+everyone on that ship,
+
+394
+00:22:48,075 --> 00:22:49,535
+他们最好还是安心等死?
+that they should expect to die?
+
+395
+00:22:50,203 --> 00:22:51,913
+我不会说的
+I will not send them that message.
+
+396
+00:22:51,996 --> 00:22:57,001
+并且如果你觉得这样侵犯了Teyla的权利,
+我向你道歉
+And if you feel that, that violates
+Teyla's rights, I apologise.
+
+397
+00:22:57,168 --> 00:23:01,839
+我会道歉的. 但是现在不是时候
+我必须走了
+I truly do. But there's nothing I can do
+about that right now. I have to go.
+
+398
+00:23:15,269 --> 00:23:19,106
+<i>很好. 现在我们手头上</i>
+<i>有了所有探险者1号人员名单</i>
+<i>Alright. We've got everything to</i>
+<i>the Jumper manifest, already laid out here.</i>
+
+399
+00:23:19,190 --> 00:23:20,900
+<i>你那里有什么可以利用的工具</i>
+<i>What's your personal inventory.</i>
+
+400
+00:23:20,983 --> 00:23:24,362
+我这有把瑞士军刀
+Alright, from the vest,
+we got a swiss army knife.
+
+401
+00:23:24,737 --> 00:23:30,451
+一些巧克力, 还有点水
+火柴, 急救包
+Some chocolate, some water.
+Matches, emergency kit.
+
+402
+00:23:30,952 --> 00:23:34,914
+还有些酒精, 碘酒, 止疼片
+We have alcohol, iodine, pain killers
+
+403
+00:23:35,039 --> 00:23:36,165
+这是什么?
+What is this?
+
+404
+00:23:37,166 --> 00:23:39,627
+Teyla在飞船储藏室找到一个心脏起搏器
+Teyla found a portable difibrillator
+in the ships storage.
+
+405
+00:23:39,752 --> 00:23:43,256
+我在想. 如果Sheppard少校被电击,
+那生物有可能杀了他
+I thought of that. If Major Sheppard received
+the same electric shock, it would likely kill him.
+
+406
+00:23:43,256 --> 00:23:44,173
+没错
+Right
+
+407
+00:23:44,173 --> 00:23:46,342
+什么都试试. 每次试一样
+Try everything. One item at a time.
+
+408
+00:23:53,683 --> 00:23:54,433
+Weir博士!
+Dr Weir!
+
+409
+00:23:54,851 --> 00:23:56,727
+Cavenaugh, 你是不是有什么新发现
+Cavenaugh, I hope you've got
+something to tell me.
+
+410
+00:23:56,853 --> 00:23:58,062
+是的
+Yes, I do.
+
+411
+00:23:58,813 --> 00:24:00,314
+他妈的怎么回事?
+What the hell was that?
+
+412
+00:24:00,982 --> 00:24:02,024
+你说什么?
+Excuse me?
+
+413
+00:24:02,316 --> 00:24:06,362
+我很高兴离开SGC, 因为我,
+因为我可以参军了,
+I happily left the SGC, because I had,
+had it up to here, with the military running things,
+
+414
+00:24:06,404 --> 00:24:08,406
+你却不让我参与秘密研究
+and you just busted me like a private.
+
+415
+00:24:08,531 --> 00:24:11,659
+别总胡思乱想, 这没什么秘密
+Don't be so dramatic, besides
+the Air Force doesn't have privates.
+
+416
+00:24:12,034 --> 00:24:16,956
+不止是我. 你撤掉了我整个研究小组的职务
+Neither do I. You just cut them off.
+Right in front of my research team.
+
+417
+00:24:17,039 --> 00:24:19,000
+就为了这事? 你有什么不满吗?
+That's what this is about? You're embarrassed?
+
+418
+00:24:19,083 --> 00:24:20,960
+我承认确实有点丢人
+Well humiliated would be a little more accurate.
+
+419
+00:24:21,002 --> 00:24:23,254
+我顾及不到任何人的颜面
+I haven't worked up to humiliation yet.
+
+420
+00:24:23,337 --> 00:24:28,384
+我只是做了个假设,
+只是做了一个普通市民应该做的
+I just assumed, that with a civilian in charge of
+the expedition, there would be a little bit more.
+
+421
+00:24:28,467 --> 00:24:31,929
+我们已经不再是一个市民,
+我们和地球隔绝了
+A civilian is in charge,
+and we are cut off from Earth.
+
+422
+00:24:31,971 --> 00:24:34,599
+整个基地就好像一个大移民
+Which makes Atlantis,
+almost like a colony.
+
+423
+00:24:34,682 --> 00:24:35,766
+我明白这点
+I suppose.
+
+424
+00:24:35,850 --> 00:24:37,518
+那好,
+我是这里的主管
+Well I'm governor of that colony.
+
+425
+00:24:37,643 --> 00:24:39,020
+说得真好
+Well that's all very well and good.
+
+426
+00:24:39,103 --> 00:24:40,688
+你有什么异议吗?
+Do you have a problem with that?
+
+427
+00:24:41,606 --> 00:24:42,732
+你没明白我的意思
+You're missing my point.
+
+428
+00:24:42,815 --> 00:24:44,275
+不是, 是你没明白我的意思
+No, you're missing mine.
+
+429
+00:24:44,984 --> 00:24:47,320
+如果你再因为你的自私
+If you waste one more minute,
+which could be used
+
+430
+00:24:47,361 --> 00:24:51,485
+浪费救出他们的宝贵的每1分钟,
+to help the people trapped
+on that ship, because of your ego?
+
+431
+00:24:51,490 --> 00:24:54,869
+我保证我会把你送到一个孤星上,
+I promise you, I will dial the co-ordinates
+of a very lonely planet,
+
+432
+00:24:54,869 --> 00:24:57,496
+在那里你永远是最主要的
+where you can be as self important
+as you wanna be.
+
+433
+00:25:00,499 --> 00:25:02,210
+你认为我在开玩笑?
+You think I'm kidding?
+
+434
+00:25:03,544 --> 00:25:04,795
+你不会这么做的
+You wouldn't do that.
+
+435
+00:25:04,879 --> 00:25:08,132
+Cavenaugh? 回去工作
+Cavenaugh? Get back in there.
+
+436
+00:25:10,301 --> 00:25:11,552
+这件事我们以后再谈
+We'll talk about this later.
+
+437
+00:25:11,677 --> 00:25:14,514
+没有下一次了. 滚!
+Never again. Go!
+
+438
+00:25:16,807 --> 00:25:17,725
+滚!
+Go!
+
+439
+00:25:39,637 --> 00:25:41,347
+Zalinka博士, 请接控制室
+Dr Zalinka to control room.
+
+440
+00:25:42,140 --> 00:25:44,934
+我有新发现了
+I think I have something
+
+441
+00:25:47,520 --> 00:25:48,855
+我们在接受信号
+We're receiving.
+
+442
+00:25:50,398 --> 00:25:51,983
+探险者1号, 我是Weir
+Jumper One, this is Weir.
+
+443
+00:25:52,150 --> 00:25:53,860
+Zelenka博士有新发现
+Doctor Zelenka's come up with something.
+
+444
+00:25:53,985 --> 00:25:55,570
+Zelenka. 为什么我总忘不掉你?
+Zelenka. Why can I never
+remember that name?
+
+445
+00:25:55,653 --> 00:25:59,616
+<i>他已经找到了</i>
+<i>飞船推进器的主控系统</i>
+<i>He's positively identified the control systems in the</i>
+<i> port side of the Jumper, that retract the drive pod.</i>
+
+446
+00:25:59,741 --> 00:26:01,701
+我正在用同样方法控制你的系统
+I'm relaying the schematics to your data pad.
+
+447
+00:26:01,993 --> 00:26:03,912
+太好了, 我们有救了
+Thank you, now we're getting somewhere.
+
+448
+00:26:04,037 --> 00:26:04,579
+什么?
+What?
+
+449
+00:26:04,662 --> 00:26:07,081
+Zelenka找出了推进器的控制系统
+Zelenka's identified the control pathways
+to the engine pod,
+
+450
+00:26:07,165 --> 00:26:11,753
+也就是说现在修好机器的比率从万分之一
+上升到了千分之一
+which means that's increasing my chances of fixing this,
+from one in a million, to one in a thousand.
+
+451
+00:26:11,836 --> 00:26:16,132
+但是, 有件事. Elizabeth
+But, it's something. Elizabeth.
+
+452
+00:26:16,299 --> 00:26:17,008
+什么事?
+Yes?
+
+453
+00:26:17,175 --> 00:26:21,846
+如果机器超负荷我只有7-9秒通知你,
+I'll only have 7 to 9 seconds to warn you if I
+accidentally do a catastrophic overload,
+
+454
+00:26:21,888 --> 00:26:25,600
+所以我让你开启防御系统的时候
+你不要犹豫
+so if I tell you to raise the shields.
+Don't hesitate.
+
+455
+00:26:26,059 --> 00:26:29,270
+我们知道危险性
+你尽力吧
+We're aware of the risk Rodney.
+Do your best.
+
+456
+00:26:40,240 --> 00:26:41,699
+先试试碘酒
+Starting with iodine.
+
+457
+00:26:58,842 --> 00:27:00,134
+碘酒被吸收了
+Scratch iodine.
+
+458
+00:27:00,301 --> 00:27:01,886
+你那还有什么?
+What else have you got there?
+
+459
+00:27:02,679 --> 00:27:04,347
+对啊, 你还有什么? 有什么吃的吗?
+Yes, what have you got there? Any food?
+
+460
+00:27:04,430 --> 00:27:05,348
+你开玩笑
+You're kidding.
+
+461
+00:27:05,431 --> 00:27:09,686
+我只有不到20分钟来救咱们 ,
+而我现在都快低血糖了, 所以....
+I have less than 20 minutes to save our lives,
+and I am teetering on the brink of a
+hypoglycemic reaction, so....
+
+462
+00:27:12,605 --> 00:27:13,606
+谢谢
+Thank you
+
+463
+00:27:24,325 --> 00:27:26,035
+我现在试酒精
+I'm gonna try alcohol now.
+
+464
+00:27:26,035 --> 00:27:28,705
+放一点到它的肚皮上,
+看看有神么反映
+Place a few drops on the soft tissue,
+to see how it reacts.
+
+465
+00:27:29,414 --> 00:27:30,665
+给我留点
+Save some for me.
+
+466
+00:27:31,291 --> 00:27:32,750
+这酒精不能喝
+Wrong type of alcohol sir.
+
+467
+00:27:33,209 --> 00:27:34,377
+这种有什么好处?
+What's the good of that?
+
+468
+00:27:39,841 --> 00:27:41,134
+没什么
+Not much sir.
+
+469
+00:27:43,636 --> 00:27:45,138
+还是没有反映
+No reaction to alcohol.
+
+470
+00:27:46,264 --> 00:27:47,515
+好吧, 下一个是什么?
+Right, What next?
+
+471
+00:27:49,767 --> 00:27:52,228
+医生没说洒点盐在这生物上吗?
+Did the Doctor not say to pour salt
+on the creature?
+
+472
+00:27:52,562 --> 00:27:57,150
+我想这不用说. 你就试试所有的东西吧
+I think that was a metaphor. But it doesn't matter.
+Just try everything.
+
+473
+00:28:21,299 --> 00:28:23,801
+水. 给我点水
+Water. Give me water.
+
+474
+00:28:42,153 --> 00:28:44,531
+长官.长官.你没事吧. 长官? 少校?
+Sir.Sir.Sir are you alright. Sir? Major?
+
+475
+00:28:48,159 --> 00:28:51,120
+你没事吧. 长官? 少校?
+Sir are you alright? Sir? Major?
+
+476
+00:28:51,621 --> 00:28:53,331
+少校怎么了?
+Major What's happening?
+
+477
+00:29:02,382 --> 00:29:04,050
+到底怎么了
+What's happening
+
+478
+00:29:16,729 --> 00:29:18,898
+那东西对水或者是盐产生了反映
+It reacted to either the salt or the water.
+
+479
+00:29:18,940 --> 00:29:20,275
+或者是两个一起的反映
+Or a combination of both.
+
+480
+00:29:20,400 --> 00:29:21,901
+它掉下来了吗?
+Did it lose it's hold on Major Sheppard?
+
+481
+00:29:22,026 --> 00:29:22,610
+没有
+Negative
+
+482
+00:29:22,735 --> 00:29:24,154
+它抓得更紧了
+If anything, it dug in more.
+
+483
+00:29:24,571 --> 00:29:25,864
+别试了
+Please don't do that again.
+
+484
+00:29:26,030 --> 00:29:27,031
+我不会了, 对不起长官
+I won't sir, sorry.
+
+485
+00:29:27,157 --> 00:29:30,076
+好像它对盐水有种抵抗
+Looks like they have a primitive
+defence to salt water.
+
+486
+00:29:30,994 --> 00:29:34,372
+它动了
+当你把他推向电路板的时候,
+It moved.
+When you threw him across the circuits,
+
+487
+00:29:34,455 --> 00:29:36,624
+我感到引擎启动了一下,
+但是很快又停了
+I think the engine fired for a microsecond,
+but it stopped.
+
+488
+00:29:40,170 --> 00:29:41,379
+哦 不是吧
+Oh no.
+
+489
+00:29:41,629 --> 00:29:42,630
+怎么了?
+What?
+
+490
+00:29:44,632 --> 00:29:45,633
+怎么了?
+What?
+
+491
+00:29:47,635 --> 00:29:49,345
+可以实行A计划了
+So much for plan A.
+
+492
+00:29:49,512 --> 00:29:50,847
+怎么了?
+What?
+
+493
+00:29:52,765 --> 00:29:54,601
+当时空门关闭的时候
+When the Stargate closes now,
+
+494
+00:29:54,642 --> 00:30:00,023
+这里所有的分子的运动,
+都会导致这里的冲击
+every molecule of air in this compartment,
+is gonna out rush out through there.
+
+495
+00:30:01,483 --> 00:30:03,443
+我们向前滑动了一点
+We slid in further.
+
+496
+00:30:09,365 --> 00:30:11,075
+还有15分钟
+15 minutes.
+
+497
+00:30:19,667 --> 00:30:20,960
+Ford, 你那里怎么样了?
+Ford, what can you tell me?
+
+498
+00:30:21,127 --> 00:30:23,046
+<i>我们的飞船移动了一点</i>
+<i>The Puddle Jumper has shifted slightly.</i>
+
+499
+00:30:23,505 --> 00:30:25,840
+现在飞船后端暴露在时空门前面了
+The rear compartment has now
+breached the event horizon.
+
+500
+00:30:26,049 --> 00:30:29,260
+McKay博士
+Dr McKay.
+
+501
+00:30:32,138 --> 00:30:35,141
+McKay博士, 还是希望我们能及时收回推进器
+Dr McKay, is still hopeful we can retract
+the drive pod in time.
+
+502
+00:30:43,733 --> 00:30:44,901
+明白了
+Understood.
+
+503
+00:30:47,028 --> 00:30:49,989
+我们现在没有任何新进展
+但是时间不多了
+We haven't come up with anything yet.
+But there's still time.
+
+504
+00:30:50,448 --> 00:30:51,783
+明白
+Yes ma'am.
+
+505
+00:30:52,534 --> 00:30:53,910
+Sheppard少校怎么样了?
+How is Major Sheppard?
+
+506
+00:30:54,077 --> 00:30:55,370
+我还活着
+I'm still here.
+
+507
+00:30:56,496 --> 00:30:59,833
+<i>坚持住</i>
+<i>我们还在研究</i>
+<i>Hang in there Major. </i>
+<i>We're working on the problem.</i>
+
+508
+00:30:59,833 --> 00:31:01,251
+我知道你们在努力
+I know you are.
+
+509
+00:31:03,419 --> 00:31:08,550
+听着, 我想在我还能说话的时候说几句想说的
+Listen, I'd like to say something,
+while I still can.
+
+510
+00:31:08,716 --> 00:31:11,344
+不要! 你会没事的
+Don't! You're gonna get through this.
+
+511
+00:31:15,932 --> 00:31:21,187
+他不会让我死的
+If I was. He wouldn't have let me go.
+
+512
+00:31:21,771 --> 00:31:23,439
+谁不会让你死?
+Who wouldn't have let you go?
+
+513
+00:31:26,442 --> 00:31:28,319
+幽灵们
+The Wraith.
+
+514
+00:31:52,135 --> 00:31:56,055
+我才他没有杀我,
+是因为在他眼里我这样比死了更好
+I guess he saw me as good as dead,
+cos he just walked away.
+
+515
+00:31:56,598 --> 00:31:59,726
+所以, 我想说的是....
+So, what I wanted to say was....
+
+516
+00:31:59,767 --> 00:32:02,187
+留着力气等回来和我说
+Save your strength John.
+And tell me in person.
+
+517
+00:32:02,645 --> 00:32:04,147
+这很重要
+This is important.
+
+518
+00:32:07,233 --> 00:32:08,651
+我在听
+I'm listening.
+
+519
+00:32:10,904 --> 00:32:12,655
+我们能把他送回基地
+We should sent him through the event horizon.
+
+520
+00:32:13,072 --> 00:32:16,659
+如果McKay博士及时解决了问题,
+我们就让少校赶紧回去
+If Doctor McKay figures it out in time,
+we can fix the Major up on the other side.
+
+521
+00:32:16,743 --> 00:32:18,286
+如果他不行了, 我们也都死
+If he doesn't, we're all dead anyway.
+
+522
+00:32:18,328 --> 00:32:19,496
+不要给我压力
+No pressure.
+
+523
+00:32:21,498 --> 00:32:24,250
+Sheppard少校不要那么急躁
+Major Sheppard would effectively be in suspended
+animation for the entire time.
+
+524
+00:32:24,375 --> 00:32:26,002
+- 我们不能冒这个险
+- 为什么不行?
+- We can't risk that.
+- Why not?
+
+525
+00:32:26,085 --> 00:32:28,421
+如果这个生物对水有反映,
+If the creature reacted that violently
+to drops of water,
+
+526
+00:32:28,546 --> 00:32:30,507
+谁也不知道它对时空门有没有什么反映
+who knows how it would react
+to Stargate travel.
+
+527
+00:32:30,798 --> 00:32:33,718
+你的意思是说,
+只要教授身上有这东西他就不能过时空门?
+Are you telling me Major Sheppard can't come
+through the gate, while that thing is on him?
+
+528
+00:32:33,927 --> 00:32:35,803
+那么我们现在必须抓紧了!
+Then we must do something now!
+
+529
+00:32:44,896 --> 00:32:46,981
+用起搏器杀了我
+Hit me with the defibrillator.
+
+530
+00:32:52,111 --> 00:32:54,072
+少校你一定是想到什么了
+You may be onto something Major.
+
+531
+00:32:54,322 --> 00:32:56,199
+你说过他可能会死的
+You said that might kill him.
+
+532
+00:32:56,658 --> 00:32:58,284
+我们就是这么想的
+That's the idea.
+
+533
+00:32:58,409 --> 00:32:59,619
+我不明白
+I don't understand.
+
+534
+00:32:59,744 --> 00:33:02,956
+Teyla. 你说过这生物和幽灵差不多
+Teyla. You said this creature was like a Wraith.
+
+535
+00:33:03,081 --> 00:33:03,790
+是的
+Yes.
+
+536
+00:33:03,832 --> 00:33:06,459
+那么你试想一下
+如果上帝让少校死, 他们会怎么做,
+Then how do you think it would respond,
+if God forbit,
+
+537
+00:33:06,584 --> 00:33:08,628
+Sheppard少校那上死掉, 那么...
+Major Sheppard were to die right now, then.
+
+538
+00:33:11,881 --> 00:33:13,591
+它就不再附着少校了
+It would stop feeding.
+
+539
+00:33:13,758 --> 00:33:15,260
+没错. 幽灵就会这样
+Exactly. Just as a Wraith would.
+
+540
+00:33:15,510 --> 00:33:16,886
+你们到底是怎么想的?
+How is that an idea?
+
+541
+00:33:17,053 --> 00:33:20,014
+我们只是想欺骗这个生物
+它的寄生体已经死了
+I'm suggesting that we fool the creature into
+thinking that its prey's dead,
+
+542
+00:33:20,056 --> 00:33:21,636
+所以我们必须让少校停止心跳
+by stopping the Major's heart.
+
+543
+00:33:21,641 --> 00:33:24,060
+如果想法没错. 它会离开少校的
+If I'm right. It should let him go.
+
+544
+00:33:24,060 --> 00:33:26,646
+一旦生物离开
+我们就再击一次让少校苏醒
+If that thing let's go.
+We give him another jolt.
+
+545
+00:33:26,938 --> 00:33:29,858
+试一下. 如果不行,
+就把他扔进时空门
+Give it a try. If it doesn't work,
+send him through the event horizon.
+
+546
+00:33:30,066 --> 00:33:32,026
+他会暂时呆在那
+He'll keep there,
+as good as the deep freeze.
+
+547
+00:33:38,783 --> 00:33:40,869
+John, 你确定你要这么做么?
+John, are you sure you wanna do this?
+
+548
+00:33:41,286 --> 00:33:43,037
+我真的很想把这该死的东西除掉
+I want this damn thing off me.
+
+549
+00:33:45,415 --> 00:33:47,125
+准备对探险者1号进行急救
+Be prepared for a code blue in the Jumper bay.
+
+550
+00:33:47,292 --> 00:33:49,294
+Ford少尉, 你知道怎么做吧?
+Lt Ford, do you know how to do this?
+
+551
+00:33:49,586 --> 00:33:52,130
+- 是的. 把他衣服割开
+- 什么?
+- Yes sir. Cut his shirt off.
+- What?
+
+552
+00:33:52,213 --> 00:33:54,090
+把他衣服割开!
+Cut his shirt off!
+
+553
+00:34:01,181 --> 00:34:02,557
+200幅. 把他的饰物那开
+Charging 200. Move his tags.
+
+554
+00:34:04,058 --> 00:34:05,727
+- 什么?
+- 那开里面的胸牌
+- What?
+- Move his chain, inside.
+
+555
+00:34:05,768 --> 00:34:07,562
+在表面擦点油
+Place the lubrication,right on the paddles.
+
+556
+00:34:07,937 --> 00:34:10,023
+准备好了
+Ready to go.
+
+557
+00:34:13,359 --> 00:34:17,280
+一旦这虫子掉下来我一定杀了它
+Once the bug falls off, I'm gonna have to kill it.
+
+558
+00:34:17,780 --> 00:34:19,949
+准备下一次,
+然后我们再帮你苏醒
+Ready to charge up again,
+and we'll hit it with another jolt.
+
+559
+00:34:20,116 --> 00:34:24,662
+McKay, 如果我们第一下不成功,
+我们必须再次打开那舱门.
+McKay, if we can't restart his heart on the first try,
+we'll need that bulkhead door open again.
+
+560
+00:34:25,538 --> 00:34:26,706
+好的
+Done.
+
+561
+00:34:28,208 --> 00:34:29,959
+我们其中一个必须带他过去
+One of us is gonna have to get him through.
+
+562
+00:34:30,001 --> 00:34:31,252
+我来
+I will.
+
+563
+00:34:41,221 --> 00:34:42,680
+开始吧!
+Do it!
+
+564
+00:34:48,645 --> 00:34:49,938
+没有心跳!
+No pulse!
+
+565
+00:34:56,027 --> 00:34:57,320
+下不来
+It won't come off.
+
+566
+00:34:57,946 --> 00:35:02,116
+冷静. 也许需要一段时间
+Settle. It may take a moment.
+
+567
+00:35:06,704 --> 00:35:07,872
+少尉?
+Lieutenant?
+
+568
+00:35:45,869 --> 00:35:47,203
+没反映?
+Nothing?
+
+569
+00:35:47,829 --> 00:35:49,622
+没反映! 快带他过去
+Nothing! Let's get him through.
+
+570
+00:35:59,632 --> 00:36:02,135
+- 好了?
+- 是的
+- Got him?
+- Yes.
+
+571
+00:36:05,680 --> 00:36:09,267
+我是Ford少尉. 那个生物已经取下来了
+This is Lt Ford. The creature has been
+sucessfully removed from Major Sheppard,
+
+572
+00:36:09,309 --> 00:36:14,022
+但是我们无法让他苏醒. 他和Teyla,
+现在在时空门的另一端
+but we were unable to revive him. Both he and Teyla,
+are now on the other side of the event horizon.
+
+573
+00:36:16,149 --> 00:36:21,070
+谢谢你Rodney少尉, 你们还有7分钟
+Thank you Lt. Rodney, you have seven minutes.
+
+574
+00:36:45,386 --> 00:36:48,389
+我只解决了一部分,
+但是我们快没时间了. 我们可能做不到了
+I'm only halfway through the possible circuit pathways,
+and times almost up. We're not gonna make it.
+
+575
+00:36:48,431 --> 00:36:49,933
+你就做吧. 现在还有时间
+Just keep on it. There's still time.
+
+576
+00:36:50,016 --> 00:36:51,851
+你应该进时空门里面
+You should consider stepping
+into the event horizon.
+
+577
+00:36:51,851 --> 00:36:52,894
+我是认真的
+I'm serious.
+
+578
+00:36:52,977 --> 00:36:55,522
+我会坚持到最后的, 但是给你个选择,
+最好还是离开
+I'll keep trying till the end, but given your choices,
+that's a far better way to go.
+
+579
+00:36:56,022 --> 00:36:58,233
+把你一个人留在这个危险的地方?
+Leave you here alone with that thing
+wrapped up in my jacket?
+
+580
+00:36:58,441 --> 00:37:00,193
+你确定那东西死了
+- 肯定死了
+You did check to make sure it was dead.
+- It's dead.
+
+581
+00:37:00,276 --> 00:37:02,821
+很好, 因为爆炸性减压, 然后窒息死亡, 是很有可能....
+Good, because explosive decompression, and death
+by suffocation with that thing, is possibly....
+
+582
+00:37:02,946 --> 00:37:04,447
+- 干你的活!
+- 对不起
+- Work!
+- I'm sorry
+
+583
+00:37:09,452 --> 00:37:10,411
+还有多久?
+Time?
+
+584
+00:37:10,703 --> 00:37:12,163
+2分20秒
+2 minutes 20 seconds.
+
+585
+00:37:12,372 --> 00:37:13,998
+Rodney, 又过了2分钟
+Rodney, we're down to 2 minutes
+
+586
+00:37:14,165 --> 00:37:16,793
+我知道时间. 我现在还有2打线路没有试
+I know the time. I've still got over two dozen
+circuits I haven't tried.
+
+587
+00:37:17,710 --> 00:37:19,629
+不用按照顺序来. 随意试哪一个
+Don't be so methodical. Just pick one at random.
+
+588
+00:37:19,754 --> 00:37:22,048
+如果那么做, 那样的话我就同时运行了2个系统
+If I do that, I run the risk of attempting to
+activate the same circuit twice.
+
+589
+00:37:22,048 --> 00:37:22,924
+试试吧!
+Just try!
+
+590
+00:37:23,091 --> 00:37:24,592
+我告诉你, 那根本不可能....
+I'm telling you, there's no way I could....
+
+591
+00:37:27,637 --> 00:37:28,721
+等等
+Wait.
+
+592
+00:37:38,231 --> 00:37:39,649
+我想我成功了
+I think I did it.
+
+593
+00:37:44,237 --> 00:37:47,448
+Elizabeth?
+我估计推进器收回了
+Elizabeth?
+I think the engine pods retracted.
+
+594
+00:37:59,252 --> 00:38:00,753
+为什么还是看不到你们?
+Why haven't you shown up?
+
+595
+00:38:05,925 --> 00:38:07,635
+对啊. 为什么我们还是不动?
+She's right. Why aren't we moving?
+
+596
+00:38:09,429 --> 00:38:12,098
+是惯性. 飞船是靠惯性穿过时空门的
+It's inertia. The drive shift end went
+through the Stargate.
+
+597
+00:38:12,223 --> 00:38:13,850
+我们有没有任何前进的动力了
+We've shed all our forward momentum.
+
+598
+00:38:17,979 --> 00:38:21,274
+你再浪费时间. 任何一个力,
+都会给予一个相同的反力
+You're wasting your time. For every action,
+there is an equal and opposite reaction.
+
+599
+00:38:22,650 --> 00:38:24,152
+那么我们该怎么办?
+Then what are we gonna do?
+
+600
+00:38:31,701 --> 00:38:33,203
+还有一分钟
+One minute.
+
+601
+00:38:36,206 --> 00:38:39,501
+后舱. 让后舱爆炸
+The rear hatch. Blow the rear hatch.
+
+602
+00:38:39,667 --> 00:38:41,544
+那么就有足够的力让怎么穿过去了
+It should give you enough thrust
+to make it through.
+
+603
+00:38:41,753 --> 00:38:44,088
+可以这么做. 但是只有一个机器可以引爆
+I can do it. But the only mechanism
+to blow the hatch is back here.
+
+604
+00:38:51,054 --> 00:38:55,141
+我来. 没时间了. 快走!
+I'll do it. There's no time. Just go!
+
+605
+00:38:57,644 --> 00:38:58,937
+30秒
+30 seconds.
+
+606
+00:39:51,281 --> 00:39:52,740
+我去通道
+I'll be in the Jumper bay.
+
+607
+00:40:01,374 --> 00:40:02,625
+再来一次!
+Again!
+
+608
+00:40:10,800 --> 00:40:12,177
+他会没事的
+He's gonna be fine.
+
+609
+00:40:33,406 --> 00:40:34,782
+干得不错Rodney
+Well done Rodney.
+
+610
+00:40:34,949 --> 00:40:35,783
+看着吧
+We'll see.
+
+611
+00:40:39,120 --> 00:40:40,455
+有脉搏了
+We've got a pulse.
+
+612
+00:40:47,420 --> 00:40:48,922
+心跳越来越强了
+It's getting stronger.
+
+613
+00:40:55,220 --> 00:40:56,596
+他很快就没事了
+He's going to be ok.
+
+614
+00:41:36,135 --> 00:41:37,053
+感觉如何?
+How are you feeling?
+
+615
+00:41:37,178 --> 00:41:38,096
+饿
+Starving.
+
+616
+00:41:38,429 --> 00:41:42,600
+他可弄了不少吻痕, 但是Beckett医生说
+他几天就好
+He's got quite the hickey, but Dr Beckett says
+he'll be fine in a few days.
+
+617
+00:41:43,518 --> 00:41:44,686
+你需要休息
+We should let you rest.
+
+618
+00:41:44,727 --> 00:41:45,979
+不, 你应该给我点吃的
+No, you should get me food.
+
+619
+00:41:46,062 --> 00:41:47,647
+我想可以安排
+I think we can arrange that.
+
+620
+00:41:47,814 --> 00:41:49,149
+早日康复
+Welcome back sir.
+
+621
+00:41:49,232 --> 00:41:51,526
+这真是个奇迹
+I must admit, it is a pleasant surprise.
+
+622
+00:41:51,985 --> 00:41:54,779
+顺便说一下. 你上次想说什么?
+By the way. What were you gonna say?
+
+623
+00:41:55,155 --> 00:41:55,864
+什么时候?
+When?
+
+624
+00:41:56,030 --> 00:41:59,617
+在你认为... 你知道的
+Before, when you thought... ou know
+
+625
+00:42:01,119 --> 00:42:02,162
+哦 那件事啊
+Oh that.
+
+626
+00:42:02,162 --> 00:42:06,082
+那时候我没让你说
+但是现在我想知道
+I didn't want you to say at the time.
+But now I'm curious.
+
+627
+00:42:07,125 --> 00:42:08,418
+我那时候想说...
+I was gonna say...
+
+628
+00:42:15,425 --> 00:42:17,093
+你们大家要互相照顾
+Take care of each other.
+
+629
+00:42:19,512 --> 00:42:20,638
+不错
+That's nice.
+
+630
+00:42:21,472 --> 00:42:24,142
+我们也是这么做的
+And indeed we did.
+
+631
+00:42:24,184 --> 00:42:27,770
+是的你做到了. 再次感谢
+Yes you did. Thank you, again.
+
+632
+00:42:27,770 --> 00:42:28,980
+没什么
+You're welcome.
+
+633
+00:42:29,147 --> 00:42:30,231
+晚安
+Goodnight.
+
+634
+00:42:36,654 --> 00:42:39,407
+你一定不是想说那句话,
+对吧?
+You weren't really gonna say that,
+were you?
+
+635
+00:42:40,283 --> 00:42:42,911
+我不知道你想说什么
+I have no idea what you're talking about.
+
+636
+00:42:43,953 --> 00:42:45,663
+你一定知道
+
+
+I didn't think so.
+

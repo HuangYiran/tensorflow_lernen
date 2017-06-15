@@ -1,0 +1,3183 @@
+﻿1
+00:00:00,300 --> 00:00:03,160
+我叫Oliver Queen
+My name is oliver queen.
+
+2
+00:00:03,260 --> 00:00:06,260
+经历岛上地狱般的五年后
+After five years on a hellish island,
+
+3
+00:00:06,260 --> 00:00:08,300
+我回来了 心怀一个目标...
+I have come home with only one goal...
+
+4
+00:00:09,500 --> 00:00:11,260
+拯救这座城市
+To save my city.
+
+5
+00:00:11,260 --> 00:00:16,330
+但为此我不能再像以前一样杀戮
+But to do so, I can't be the killer I once was.
+
+6
+00:00:16,330 --> 00:00:18,330
+为了祭奠我的好友
+To honor my friend's memory,
+
+7
+00:00:18,330 --> 00:00:21,330
+我必须重塑自己
+I must be someone else.
+
+8
+00:00:21,330 --> 00:00:24,760
+我必须伪装自身
+I must be something else.
+
+9
+00:00:26,800 --> 00:00:28,060
+"绿箭侠" 前情提要...
+Previously on "Arrow"...
+
+10
+00:00:28,060 --> 00:00:30,300
+尽管我也想让这座城市更安全
+As much as I would love to make this city safer,
+
+11
+00:00:30,300 --> 00:00:33,400
+我的首要使命就是Queen公司
+my first obligation is to Queen consolidated
+
+12
+00:00:33,400 --> 00:00:34,800
+你也一样
+And yours is, too.
+
+13
+00:00:34,800 --> 00:00:35,930
+我读了一些关于英国Lawton的资料
+I did some reading up on Lawton.
+
+14
+00:00:35,930 --> 00:00:37,200
+Lyla 听着...
+Lyla, listen...
+
+15
+00:00:37,200 --> 00:00:38,330
+你是真的认为我查不出
+Did you really think I wouldn't find out
+
+16
+00:00:38,330 --> 00:00:39,500
+他杀了你哥哥?
+that he killed your brother?
+
+17
+00:00:39,500 --> 00:00:40,860
+你以为我不知道你在利用我?
+That you were using me?
+
+18
+00:00:40,860 --> 00:00:42,500
+我死要见尸
+I need to see this guy in a bag.
+
+19
+00:00:42,500 --> 00:00:44,060
+你 还有所有人都该明白
+You, of all people, should get that.
+
+20
+00:00:44,060 --> 00:00:45,860
+这么久
+Long time
+
+21
+00:00:45,860 --> 00:00:48,130
+尤其是对Bratva队长来说
+particularly for Bratva captain.
+
+22
+00:00:48,130 --> 00:00:49,730
+Queen先生
+Mr. Queen.
+
+23
+00:00:49,730 --> 00:00:51,400
+Anatoly Knyazev这个人
+Anatoly Knyazev,
+
+24
+00:00:51,400 --> 00:00:53,360
+对你评价很高
+he speaks very highly of you.
+
+25
+00:00:53,360 --> 00:00:55,300
+应该如此 我救过他的命
+He should. I saved his life.
+
+26
+00:00:55,360 --> 00:00:57,300
+-=圣城家园SCG字幕组 http://hd.cnscg.com/=-
+仅供翻译交流使用, 禁止用于商业用途
+
+27
+00:00:57,360 --> 00:00:59,300
+-=圣城家园SCG字幕组 http://hd.cnscg.com/=-
+协调: 影子
+时间轴: pisces夜
+翻译: 西皮jo 伊娃 初见 酱油影
+校对: 潇妹纸
+
+28
+00:01:10,400 --> 00:01:12,260
+这份报告
+You were supposed to sign this report
+
+29
+00:01:12,260 --> 00:01:14,460
+昨晚开董事会的时候就该签了 为何没签?
+at last night's board meeting. You know why you didn't?
+
+30
+00:01:14,460 --> 00:01:17,300
+可能因为我没参加昨晚的董事会
+Probably because I didn't attend last night's board meeting.
+
+31
+00:01:17,300 --> 00:01:18,860
+你去哪了?
+Where were you?
+
+32
+00:01:18,860 --> 00:01:20,100
+我在忙些公司之外的其他事
+I have other interests outside of this company.
+
+33
+00:01:20,100 --> 00:01:22,260
+- 我不相信  - Queen先生...
+- I don't.  - Mr. Queen...
+
+34
+00:01:22,260 --> 00:01:23,400
+你说我们是搭档
+I thought you were serious
+
+35
+00:01:23,400 --> 00:01:25,130
+不是闹着玩的吧
+when you said we were partners.
+
+36
+00:01:25,130 --> 00:01:26,900
+Isabel 我不过没参加一次会议而已
+Isabel, I missed one meeting.
+
+37
+00:01:26,900 --> 00:01:28,400
+是这周一次
+This week.
+
+38
+00:01:28,400 --> 00:01:29,600
+加上上周 就两次会议了
+Last week, it was two meetings.
+
+39
+00:01:29,600 --> 00:01:30,760
+Queen先生
+Mr. Queen.
+
+40
+00:01:31,315 --> 00:01:33,660
+自从我俩接手公司后
+Company wide revenue is at double digits
+
+41
+00:01:33,660 --> 00:01:34,630
+公司收入就一直在两位数
+since you and I took over.
+
+42
+00:01:34,630 --> 00:01:35,860
+- Oliver!  - 干嘛?
+- Oliver!  - Yes?
+
+43
+00:01:35,860 --> 00:01:39,100
+抱歉打断你们...
+I'm sorry to interrupt your...
+
+44
+00:01:39,100 --> 00:01:40,100
+呃!
+Grr!
+
+45
+00:01:40,100 --> 00:01:41,630
+我想和你谈谈
+Um, I need to talk to you
+
+46
+00:01:41,630 --> 00:01:44,400
+你今晚的安排
+about your plans for this evening.
+
+47
+00:01:44,400 --> 00:01:45,930
+和Harper先生的约定
+With Mr Harper?
+
+48
+00:01:49,160 --> 00:01:50,700
+我要失陪了
+You'll have to excuse me.
+
+49
+00:01:50,700 --> 00:01:52,060
+我们还有工作要做
+We have work to do.
+
+50
+00:01:52,060 --> 00:01:53,030
+工作很重要
+It's important.
+
+51
+00:01:53,030 --> 00:01:55,930
+我今晚的计划也很重要
+So are my evening plans.
+
+52
+00:01:55,930 --> 00:01:57,930
+对不起
+I'm sorry.
+
+53
+00:01:57,930 --> 00:02:00,500
+得将计就计了
+We are going to have to work on your excuses.
+
+54
+00:02:00,500 --> 00:02:02,060
+你说得对
+You're right.
+
+55
+00:02:18,360 --> 00:02:20,600
+你太不小心了
+You should be more careful.
+
+56
+00:02:20,600 --> 00:02:22,600
+你都完全暴露了
+You're completely exposed.
+
+57
+00:02:23,900 --> 00:02:25,400
+我知道你在
+I knew you were there.
+
+58
+00:02:25,400 --> 00:02:26,900
+怎么 你想等这些人交易的时候
+What, you wanted me to tell you
+
+59
+00:02:26,900 --> 00:02:28,760
+再让我通知你吗?
+when the funny money guys were ready to make a sale?
+
+60
+00:02:28,760 --> 00:02:30,300
+我们开始吧
+Here we go.
+
+61
+00:02:30,300 --> 00:02:32,600
+不是"我们" 快回家
+Not "we." go home.
+
+62
+00:02:32,600 --> 00:02:34,300
+我有帮手了
+I already have help.
+
+63
+00:02:35,860 --> 00:02:38,630
+这是假币
+Here's the fake.
+
+64
+00:02:42,300 --> 00:02:44,030
+给我们看看真钞
+Let's see the real.
+
+65
+00:03:06,530 --> 00:03:08,530
+右上方有两个人
+You got two right above you.
+
+66
+00:03:12,230 --> 00:03:14,400
+现在只有六个人了
+Now they're just six.
+
+67
+00:03:22,500 --> 00:03:24,260
+待在原地 不许动!
+Stay where you are, don't move!
+
+68
+00:03:24,260 --> 00:03:26,560
+我依法逮捕你 不许动
+I want to make a citizen's arrest. Don't move.
+
+69
+00:03:28,830 --> 00:03:31,530
+好了 我搞定了
+That's it. I'm clear.
+
+70
+00:03:33,630 --> 00:03:36,260
+啊
+Aah!
+
+71
+00:03:37,430 --> 00:03:39,130
+知更鸟 X小队报告
+Task Force x to mockingbird.
+
+72
+00:03:39,130 --> 00:03:41,360
+人已到手 准备归巢
+We have the prize, we're coming home.
+
+73
+00:03:43,130 --> 00:03:47,360
+绿箭侠 第二季第六集
+
+74
+00:04:03,800 --> 00:04:05,800
+你们是什么人?
+Who are you people?
+
+75
+00:04:05,800 --> 00:04:07,360
+国家安全局? 中央情报局?
+NSA? CIA?
+
+76
+00:04:07,360 --> 00:04:11,100
+我是Amanda Waller
+My name is Amanda Waller.
+
+77
+00:04:12,430 --> 00:04:14,400
+我以为阿格斯的人会更诡秘一些
+I thought you ARGUS guys were supposed to be more subtle.
+
+78
+00:04:14,400 --> 00:04:16,330
+对于我们而言 这已经很诡秘了
+For us, this was subtle.
+
+79
+00:04:16,330 --> 00:04:18,460
+- 我要见Lyla Michaels  - 我也一样
+- Then I want to see Lyla Michaels.  - So do I.
+
+80
+00:04:18,460 --> 00:04:20,030
+Michaels探员已经下落不明了
+Agent Michaels has gone dark.
+
+81
+00:04:20,030 --> 00:04:22,160
+Lyla失踪了?
+Lyla's missing?
+
+82
+00:04:22,160 --> 00:04:24,060
+发生了什么事?
+What happened?
+
+83
+00:04:24,060 --> 00:04:26,300
+她之前去莫斯科追查线索
+She was running down a lead in Moscow.
+
+84
+00:04:26,300 --> 00:04:29,060
+原定两次电话汇报她都错过了
+She's missed two of her scheduled call-ins.
+
+85
+00:04:29,060 --> 00:04:30,200
+那你这是在干吗?
+Well, what are you doing about it?
+
+86
+00:04:30,200 --> 00:04:31,730
+在跟你说话
+Speaking to you.
+
+87
+00:04:31,730 --> 00:04:34,130
+即使我们知道Lyla在俄罗斯的位置
+Even if we knew where in Russia Lyla is,
+
+88
+00:04:34,130 --> 00:04:36,300
+我上司认为派营救小队过去
+my superiors believe sending in an extraction team
+
+89
+00:04:36,300 --> 00:04:38,230
+可能会引发国际问题
+could cause an international incident.
+
+90
+00:04:38,230 --> 00:04:39,560
+在他们看来
+As far as they're concerned,
+
+91
+00:04:39,560 --> 00:04:40,760
+她已经成了照片墙上
+she's already a framed picture
+
+92
+00:04:40,760 --> 00:04:43,230
+相框里的人
+on our lobby wall.
+
+93
+00:04:43,230 --> 00:04:46,730
+为什么你要告诉我这些?
+Why are you telling me all this?
+
+94
+00:04:48,660 --> 00:04:53,360
+因为我知道你和Oliver Queen夜晚的行动
+Because I know how you and Oliver Queen spend your nights.
+
+95
+00:04:53,360 --> 00:04:57,230
+我还知道你的护照是最新的
+And I know your passport is up to date.
+
+96
+00:04:57,230 --> 00:05:00,130
+这样有助于接手Lyla
+It would help to start with what Lyla was doing in Moscow
+
+97
+00:05:00,130 --> 00:05:03,730
+在莫斯科做的事 她追踪的线索是什么?
+in the first place. What was this lead she was tracking down?
+
+98
+00:05:03,730 --> 00:05:06,860
+关于Floyd Lawton下落的一行字
+A line on the whereabouts of Floyd Lawton.
+
+99
+00:05:06,860 --> 00:05:09,600
+是致命一枪
+Deadshot.
+
+100
+00:05:09,600 --> 00:05:13,560
+Lyla为了我才去的俄罗斯
+Lyla was in Russia for me,
+
+101
+00:05:13,560 --> 00:05:17,460
+Michaels探员的位置无人替代
+Agent Michaels is an asset I can't easily replace.
+
+102
+00:05:18,730 --> 00:05:22,230
+我知道对你而言 她同样不可替代
+I know you find her similarly irreplaceable.
+
+103
+00:05:22,230 --> 00:05:24,730
+Diggle先生 把她带回来
+Bring her home, Mr Diggle.
+
+104
+00:05:35,760 --> 00:05:37,860
+谢谢
+Thanks.
+
+105
+00:05:37,860 --> 00:05:39,860
+上次抓你是好久之前的事了
+It's been a while since I arrested you.
+
+106
+00:05:39,860 --> 00:05:41,760
+差点忘了这有多爽
+I'd forgotten how good it feels.
+
+107
+00:05:41,760 --> 00:05:45,800
+我是... 他手下
+I was working for... him.
+
+108
+00:05:45,800 --> 00:05:47,560
+他是谁?
+Him who?
+
+109
+00:05:47,560 --> 00:05:49,630
+那个保护你的人
+The guy who cost you your shield.
+
+110
+00:05:49,630 --> 00:05:54,400
+我是跟着他的 你也是
+I'm on his team. You are, too.
+
+111
+00:05:54,400 --> 00:05:57,130
+还有谁看着比较眼熟?
+Anybody else having serious deja vu?
+
+112
+00:05:58,960 --> 00:06:02,360
+就这样 我们放了他
+That's all right, we're letting him go.
+
+113
+00:06:02,360 --> 00:06:05,600
+我们抓错了
+Our mistake.
+
+114
+00:06:09,560 --> 00:06:12,730
+他在错的时间出现在错的地方
+He was just in the wrong place at the wrong time.
+
+115
+00:06:12,730 --> 00:06:15,560
+好 趁着都还没改变主意
+Ok, uh, let's just get out of here
+
+116
+00:06:15,560 --> 00:06:18,660
+咱赶紧离开这儿吧
+before anyone changes their mind.
+
+117
+00:06:24,460 --> 00:06:26,000
+启动这个机器
+The potentially catastrophic risk
+
+118
+00:06:26,000 --> 00:06:27,700
+潜在的灾难性风险
+of turning on this machine
+
+119
+00:06:27,700 --> 00:06:30,200
+远远超过它可能带来的科学利益
+far outweigh any scientific gain that might come from it.
+
+120
+00:06:30,200 --> 00:06:32,530
+大家需要了解
+The people need to understand just how dangerous
+
+121
+00:06:32,530 --> 00:06:34,460
+这种高科技有多危险
+technology like this is.
+
+122
+00:06:34,460 --> 00:06:38,400
+还有发生灾难性事件的真实可能性
+And the very real possibility of a cataclysmic event.
+
+123
+00:06:40,630 --> 00:06:44,200
+你去哪了? 一切顺利吗?
+Where'd you go? Is everything ok?
+
+124
+00:06:44,200 --> 00:06:47,760
+嗯 需要几天去办私事
+Yeah. Just need a few personal days.
+
+125
+00:06:47,760 --> 00:06:50,360
+- 怎么了?  - 帮一个朋友
+- What's going on?  - Have to help a friend.
+
+126
+00:06:50,360 --> 00:06:52,900
+谁?
+Who?
+
+127
+00:06:52,900 --> 00:06:54,530
+帮Lyla Michaels
+Lyla Michaels.
+
+128
+00:06:54,530 --> 00:06:56,700
+就是他在阿格斯的特工女朋友
+It's his spy girlfriend that works for ARGUS.
+
+129
+00:06:56,700 --> 00:06:59,500
+她为了我去俄罗斯
+She went to Russia looking for deadshot,
+
+130
+00:06:59,500 --> 00:07:02,700
+找致命一枪 现在失踪了
+for me. Now she's missing.
+
+131
+00:07:02,700 --> 00:07:04,360
+Felicity啊...
+Felicity...
+
+132
+00:07:04,360 --> 00:07:07,330
+咱们去参观Queen实业集团
+I think it's time we visited our Queen Consolidated
+
+133
+00:07:07,330 --> 00:07:10,430
+- 在莫斯科的分公司  - 好
+- subsidiary in Moscow.  - Yeah.
+
+134
+00:07:10,430 --> 00:07:12,500
+Oliver 你要干嘛?
+Oliver, what are you doing?
+
+135
+00:07:12,500 --> 00:07:13,830
+帮个朋友而已
+Just need to help a friend.
+
+136
+00:07:13,830 --> 00:07:15,100
+我不能要求你这么做
+I can't ask you to do that.
+
+137
+00:07:15,100 --> 00:07:17,030
+不用要求
+You didn't.
+
+138
+00:07:29,000 --> 00:07:31,060
+Sara啊...
+Sara...
+
+139
+00:07:31,060 --> 00:07:33,630
+我是Ivo
+My name's Ivo.
+
+140
+00:07:33,630 --> 00:07:36,530
+你呢?
+What's your name?
+
+141
+00:07:37,730 --> 00:07:39,300
+我叫Tommy
+Tommy.
+
+142
+00:07:39,300 --> 00:07:41,660
+那么
+So.
+
+143
+00:07:41,660 --> 00:07:43,730
+Tommy 你是怎么到岛上来的?
+How did you come to be on this island, Tommy?
+
+144
+00:07:43,730 --> 00:07:46,130
+我猜不是自己想来的吧
+I assume it wasn't by choice.
+
+145
+00:07:47,400 --> 00:07:49,860
+我 呃...
+My, uh...
+
+146
+00:07:49,860 --> 00:07:52,760
+船在这沉没了
+Boat was shipwrecked here.
+
+147
+00:07:52,760 --> 00:07:55,700
+我是唯一的生还者
+And I was the only survivor.
+
+148
+00:07:55,700 --> 00:07:58,360
+我很遗憾听到这些
+Well, I'm sorry to hear that.
+
+149
+00:07:58,360 --> 00:08:01,800
+你仔细探索过这座岛屿吗?
+Did you explore the Island much?
+
+150
+00:08:01,800 --> 00:08:03,760
+探索了一部分
+Some of it.
+
+151
+00:08:03,760 --> 00:08:05,860
+干嘛?
+Why?
+
+152
+00:08:05,860 --> 00:08:08,130
+你之前有没遇到过
+You didn't happen to run across
+
+153
+00:08:08,130 --> 00:08:11,930
+一艘日本海军潜艇?
+a Japanese Imperial Navy submarine, did you?
+
+154
+00:08:13,560 --> 00:08:16,600
+二战期间
+During World War II,
+
+155
+00:08:16,600 --> 00:08:20,360
+每个国家都在研发最先进的武器
+Every country was trying to develop the ultimate weapon.
+
+156
+00:08:20,360 --> 00:08:23,000
+美国有曼哈顿计划
+The United States had the Manhattan project, of course;
+
+157
+00:08:23,000 --> 00:08:25,230
+纳粹有核能计划
+the Nazis had Das Uranverein.
+
+158
+00:08:25,230 --> 00:08:27,800
+还有日本
+And the Japanese, well,
+
+159
+00:08:27,800 --> 00:08:30,260
+他们有Mirakuru计划
+they had Mirakuru.
+
+160
+00:08:30,260 --> 00:08:31,800
+是干细胞治疗和基因治疗研究
+Stem cell and genetic therapies,
+
+161
+00:08:31,800 --> 00:08:34,460
+比其他国家超前几十年
+decades ahead of their time.
+
+162
+00:08:34,460 --> 00:08:36,130
+每一场战争
+Every war
+
+163
+00:08:36,130 --> 00:08:38,900
+都会令科学大业蓬勃发展
+advances the cause of science.
+
+164
+00:08:38,900 --> 00:08:42,630
+日本人就提取出了血清
+And the Japanese, they had developed a serum
+
+165
+00:08:42,630 --> 00:08:44,930
+来增强人体力量
+that caused increased strength.
+
+166
+00:08:44,930 --> 00:08:47,400
+细胞快速再生
+Rapid cell regeneration.
+
+167
+00:08:47,400 --> 00:08:50,330
+- 称之为Mirakuru  - 也就是"奇迹"的意思
+- They called it Mirakuru.  - "Miracle."
+
+168
+00:08:52,100 --> 00:08:55,930
+他们以为自己能建立一个超级战士军团
+Thought they could create an army of super soldiers.
+
+169
+00:08:55,930 --> 00:09:00,300
+他们通过潜艇运送唯一的供给时
+They were transporting their only supply via submarine
+
+170
+00:09:00,300 --> 00:09:04,930
+遭到盟军的沉重火力攻击
+when that sub came under heavy fire by the allied forces.
+
+171
+00:09:04,930 --> 00:09:07,960
+接着在这个岛链上搁浅了
+And it ran aground in this chain of islands.
+
+172
+00:09:07,960 --> 00:09:11,030
+多亏了你...
+Thanks to you...
+
+173
+00:09:11,030 --> 00:09:15,030
+我们现在知道正是这座岛屿
+We now know it's this island.
+
+174
+00:09:18,000 --> 00:09:21,630
+你杀了我朋友
+You killed my friends.
+
+175
+00:09:21,630 --> 00:09:24,630
+也就意味着只能由你...
+Which means it's up to you...
+
+176
+00:09:24,630 --> 00:09:27,560
+来帮我们找到潜艇
+to help us find that sub.
+
+177
+00:09:50,660 --> 00:09:52,160
+你是不是忘了什么?
+Are you forgetting something?
+
+178
+00:09:58,430 --> 00:10:01,030
+你去哪儿?
+Where do you think you're going?
+
+179
+00:10:01,030 --> 00:10:02,760
+塔西提岛
+Tahiti.
+
+180
+00:10:02,760 --> 00:10:04,700
+有意思
+That's funny.
+
+181
+00:10:04,700 --> 00:10:07,000
+飞机旅客名单显示你要去莫斯科
+The flight manifest says you're going to Moscow.
+
+182
+00:10:07,000 --> 00:10:09,000
+我们终点是莫斯科
+Well, we're going to stop by there,
+
+183
+00:10:09,000 --> 00:10:10,730
+先去塔西提岛
+you know, after Tahiti.
+
+184
+00:10:10,730 --> 00:10:12,960
+背着我这个合伙人
+What kind of partner decides to interact
+
+185
+00:10:12,960 --> 00:10:15,160
+和海外子公司联系 你是何居心?
+with our overseas holdings behind the other one's back?
+
+186
+00:10:15,160 --> 00:10:16,960
+一时疏忽 忘了告诉你
+It was an oversight.
+
+187
+00:10:16,960 --> 00:10:18,700
+哦
+Oh.
+
+188
+00:10:18,700 --> 00:10:20,430
+我们的伙伴关系真该庆幸
+Well, lucky for our partnership,
+
+189
+00:10:20,430 --> 00:10:22,700
+我收拾行李超快
+I'm a fast packer.
+
+190
+00:10:24,000 --> 00:10:27,360
+Oliver 她跟着不利于我们解决问题
+Oliver, her tagging along does not help matters any.
+
+191
+00:10:27,360 --> 00:10:29,960
+John 我会看好她
+I will take care of her. John.
+
+192
+00:10:29,960 --> 00:10:33,100
+我们要把Lyla带回来
+We're going to bring Lyla back.
+
+193
+00:10:33,100 --> 00:10:36,130
+不管她身在何处
+Wherever she is.
+
+194
+00:10:57,000 --> 00:10:58,930
+我安排明天早上十点
+I've arranged a meeting with the Chief Operating Officer
+
+195
+00:10:58,930 --> 00:11:01,830
+与莫斯科分公司的首席运营官会面
+of our Moscow subsidiary tomorrow at 10:00 a.m.
+
+196
+00:11:01,830 --> 00:11:03,930
+千万不要缺席
+Try your hardest not to miss this one.
+
+197
+00:11:03,930 --> 00:11:05,930
+我不是你想的那种人
+You know, I'm not this person that you seem to think I am.
+
+198
+00:11:05,930 --> 00:11:07,830
+- 这要看情况  - 看什么情况?
+- That depends.  - On what?
+
+199
+00:11:07,830 --> 00:11:09,530
+要看你是不是利用公司飞机
+On if I think you use the corporate Jet
+
+200
+00:11:09,530 --> 00:11:11,330
+带着助理玩乐一周
+for a weekend of fun with your assistant.
+
+201
+00:11:11,330 --> 00:11:13,060
+什么?
+Excuse me?
+
+202
+00:11:13,060 --> 00:11:15,000
+金发IT女孩突然升职
+A blonde IT Girl all of a sudden gets promoted
+
+203
+00:11:15,000 --> 00:11:16,800
+成为公司首席执行官的助理?
+to be assistant to the CEO?
+
+204
+00:11:16,800 --> 00:11:19,330
+只有两种解释 一个是裙带关系
+There are only two ways that happens. One is nepotism,
+
+205
+00:11:19,330 --> 00:11:20,800
+可她又不像你的表妹
+and she doesn't look like your cousin.
+
+206
+00:11:20,800 --> 00:11:23,700
+那... 是... 绝对不可能的
+That... is... absolutely not happening.
+
+207
+00:11:23,700 --> 00:11:24,930
+那她有什么资格?
+What were her qualifications?
+
+208
+00:11:24,930 --> 00:11:27,300
+除了一堆短裙
+Aside from an abundance of short skirts.
+
+209
+00:11:27,300 --> 00:11:30,230
+她裙子也没有... 那么短
+Her skirts aren't that... short.
+
+210
+00:11:31,560 --> 00:11:33,700
+- 怎么了?  - 没事
+- What was that about?  - Nothing.
+
+211
+00:11:33,700 --> 00:11:35,000
+跟Knyazev都安排妥当了
+Everything with Knyazev is set.
+
+212
+00:11:35,000 --> 00:11:36,400
+你在俄罗斯黑手党也有朋友?
+You have friends in the Russian Mafia?
+
+213
+00:11:36,400 --> 00:11:38,000
+我怎么能不惊讶
+Color me at not at all surprised.
+
+214
+00:11:38,000 --> 00:11:39,700
+你们坐出租车直接去酒店吧
+You're going straight to the hotel in a cab.
+
+215
+00:11:39,700 --> 00:11:40,900
+不是吧 你留下我和她独处?!
+No, you're leaving me with her?!
+
+216
+00:11:40,900 --> 00:11:43,700
+Dig和我要出去喝酒
+Dig and I need to get a drink.
+
+217
+00:11:43,700 --> 00:11:47,030
+额... 我... 也不介意喝一杯
+Well... I... wouldn't mind a drink.
+
+218
+00:11:51,000 --> 00:11:52,700
+Loring女士 没想到你
+Ms. Loring. Didn't take you
+
+219
+00:11:52,700 --> 00:11:54,330
+也泡吧
+for the club-hopping type.
+
+220
+00:11:54,330 --> 00:11:55,716
+我是来做正经事的
+Well, I'm here on business.
+
+221
+00:11:55,787 --> 00:11:57,386
+我妈妈一切还好吧?
+Is everything ok with my Mom?
+
+222
+00:11:57,389 --> 00:11:59,629
+我们得讨论下这个案件
+We need to discuss something about this case.
+
+223
+00:11:59,629 --> 00:12:01,929
+你男朋友Roy昨晚被捕了
+Your boyfriend Roy was arrested last night.
+
+224
+00:12:01,929 --> 00:12:03,759
+我知道 但那其实只是个误会
+I know, but it was actually a misunderstanding.
+
+225
+00:12:03,759 --> 00:12:05,129
+他被释放了
+He got released.
+
+226
+00:12:05,129 --> 00:12:07,059
+有几个记者听到风声
+Well, a few reporters got hold of the story
+
+227
+00:12:07,059 --> 00:12:09,629
+现在他们知道你在和一个臭名昭著的重犯约会
+and they now know you're dating a known felon.
+
+228
+00:12:09,629 --> 00:12:12,059
+Thea啊 你妈妈在受审呢
+Thea, your mother is on trial for her life.
+
+229
+00:12:12,059 --> 00:12:14,189
+她的整个辩护点就是作为一个慈爱的母亲
+Her whole defense pivots on being seen as a loving mother
+
+230
+00:12:14,189 --> 00:12:16,459
+出于本能保护自己的孩子们
+who did what she had to do to protect her children
+
+231
+00:12:16,459 --> 00:12:18,629
+她多伟大啊
+What kind of parent she was.
+
+232
+00:12:18,629 --> 00:12:22,459
+我们得让人们知道 她培养的你能做出正确抉择
+We need the people to know that she raised you to make good decisions.
+
+233
+00:12:22,459 --> 00:12:24,929
+所以如果你在乎你妈妈
+So if you care about your mom,
+
+234
+00:12:24,929 --> 00:12:28,559
+就马上结束这段关系吧
+you're going to have to end this relationship immediately.
+
+235
+00:12:42,560 --> 00:12:44,830
+Oliver Queen? 哈!
+Oliver Queen? Ha!
+
+236
+00:12:44,830 --> 00:12:48,000
+我最爱的美国人!
+My favorite American!
+
+237
+00:12:49,960 --> 00:12:51,430
+欢迎你
+Dabro pazhalavat.
+
+238
+00:12:51,430 --> 00:12:52,730
+好久不见
+It has been too long.
+
+239
+00:12:52,730 --> 00:12:55,460
+John Diggle 这是Anatoly Knyazev先生
+John Diggle, this is Anatoly Knyazev.
+
+240
+00:12:55,460 --> 00:12:57,060
+谢谢接见我们
+Thank you for meeting us.
+
+241
+00:12:57,060 --> 00:12:59,760
+如果Oliver为你打包票的话
+If Oliver vouches for you,
+
+242
+00:12:59,760 --> 00:13:03,030
+你就是我第二最爱的美国人
+you're my second favorite American. 
+
+243
+00:13:03,030 --> 00:13:06,700
+先敬一杯
+First, a toast.
+
+244
+00:13:08,530 --> 00:13:10,630
+我不了 谢谢
+None for me, thanks.
+
+245
+00:13:16,100 --> 00:13:17,930
+干杯
+Prochnost.
+
+246
+00:13:17,930 --> 00:13:19,330
+为力量而干杯
+To strength.
+
+247
+00:13:22,130 --> 00:13:25,760
+说正事
+Now. Business.
+
+248
+00:13:25,760 --> 00:13:28,360
+这就是你在找的女人 对吧?
+This is woman you look for, yes?
+
+249
+00:13:28,360 --> 00:13:31,500
+这张照片是两天前拍的 来自古拉格...
+Picture is from two days ago, from Gulag...
+
+250
+00:13:31,500 --> 00:13:33,930
+- 监狱  - Lyla被捕了?
+- Prison.  - Lyla was arrested?
+
+251
+00:13:33,930 --> 00:13:37,830
+也不全是 我听说她想闯入监狱
+Not quite. From what I hear, she was trying to break in.
+
+252
+00:13:37,830 --> 00:13:40,930
+- 为什么?  - 我不知道
+- Why?  - I do not know.
+
+253
+00:13:40,930 --> 00:13:43,730
+但很明显她出不来了
+But clearly she had issues breaking back out.
+
+254
+00:13:43,730 --> 00:13:47,160
+古拉格是俄罗斯最差劲的监狱
+Gulag, worst in Russia.
+
+255
+00:13:47,160 --> 00:13:49,830
+大家叫它地狱
+It's called koshmar.
+
+256
+00:13:49,830 --> 00:13:51,300
+噩梦
+The nightmare.
+
+257
+00:13:51,300 --> 00:13:54,030
+那里聚集了暴力的心理变态狂
+It's full of violent psychopaths
+
+258
+00:13:54,030 --> 00:13:55,900
+和杀手
+and killers.
+
+259
+00:13:55,900 --> 00:13:57,460
+而这不过是守卫而已
+And that's just the guards.
+
+260
+00:13:57,460 --> 00:14:00,430
+Anatoly 我们要想办法进古拉格救她出来
+Anatoly, we need a way into the Gulag to extract her.
+
+261
+00:14:00,430 --> 00:14:03,360
+你进去之后 还没出来就被毙了
+You get in, you get shot before you get out.
+
+262
+00:14:03,360 --> 00:14:05,360
+或者像你朋友那样被囚禁
+Or end up like your friend.
+
+263
+00:14:05,360 --> 00:14:07,300
+所以不可能
+Mmm, it's impossible.
+
+264
+00:14:07,300 --> 00:14:08,800
+唯一不可能的
+The only thing that's impossible
+
+265
+00:14:08,800 --> 00:14:10,060
+就是我们救不出她 空手而归
+is us leaving this country without this woman.
+
+266
+00:14:12,400 --> 00:14:14,400
+我欣赏这家伙
+I like this guy.
+
+267
+00:14:14,400 --> 00:14:18,830
+在俄文里 我们没有"乐观主义者"这个词
+We have no word for "optimist" in Russian.
+
+268
+00:14:20,260 --> 00:14:22,500
+进去地狱的唯一办法
+The only way in to koshmar
+
+269
+00:14:22,500 --> 00:14:24,730
+就是做囚犯
+is as prisoner.
+
+270
+00:14:24,730 --> 00:14:27,430
+那里有个守卫欠我人情 
+Now, I have guard there, owes me favor.
+
+271
+00:14:27,430 --> 00:14:31,230
+可能行得通 我会帮你们试试
+It could work. I'll give you one shot in twenty.
+
+272
+00:14:31,230 --> 00:14:33,330
+- 安排一下 我去  - 不行
+- Set it up. I'll go.  - No.
+
+273
+00:14:33,330 --> 00:14:34,830
+必须由我去
+It has to be me.
+
+274
+00:14:34,830 --> 00:14:37,030
+不行
+No.
+
+275
+00:14:37,030 --> 00:14:39,030
+Oliver 如果你在里面出事了怎么办?
+Oliver, what if something happens to you in there?
+
+276
+00:14:39,030 --> 00:14:42,160
+我 Felicity或者Isabel怎么办? 
+What happens to me, Felicity, or Isabel, for that matter?
+
+277
+00:14:42,160 --> 00:14:45,430
+你必须在外面行动
+You have to be on the outside making the moves.
+
+278
+00:14:45,430 --> 00:14:47,530
+我进去
+I'll go inside.
+
+279
+00:14:47,530 --> 00:14:49,560
+我能搞定
+I've got this.
+
+280
+00:15:01,730 --> 00:15:04,760
+这毒品可真不少啊
+Now that is a lot of drugs.
+
+281
+00:15:04,760 --> 00:15:07,600
+承蒙Knyazev的好意
+Courtesy of Knyazev.
+
+282
+00:15:07,600 --> 00:15:09,400
+分量足够送我进地狱了
+About enough weight to land me in the koshmar.
+
+283
+00:15:11,530 --> 00:15:14,800
+他们检查你时 你要穿着这个
+You need to be wearing this when they process you.
+
+284
+00:15:14,800 --> 00:15:18,930
+守卫会拿走它 那就如我们所愿了
+Guards will take it, but that's the point.
+
+285
+00:15:18,930 --> 00:15:20,630
+这...
+This...
+
+286
+00:15:20,630 --> 00:15:23,330
+是Knyazev在监狱的线人
+is Knyazev's man inside the prison.
+
+287
+00:15:23,330 --> 00:15:25,200
+一个守卫
+A guard.
+
+288
+00:15:25,200 --> 00:15:27,930
+他知道Lyla被关在哪
+He'll know where in the gulag Lyla is being held.
+
+289
+00:15:27,930 --> 00:15:30,000
+等到处一片混乱时
+When all hell breaks loose,
+
+290
+00:15:30,000 --> 00:15:32,860
+你就要带着Lyla到汇合点与我们碰头 否则...
+you need to meet us at the rendezvous point with Lyla, or...
+
+291
+00:15:32,860 --> 00:15:35,230
+否则我就永远待在俄罗斯了
+Or I am a permanent Russian.
+
+292
+00:15:36,630 --> 00:15:39,330
+我有话直说...
+Just thinking out loud...
+
+293
+00:15:39,330 --> 00:15:42,860
+我们就只能想出这样的方案吗?
+but, are we sure this is the best plan we can come up with?
+
+294
+00:15:42,860 --> 00:15:44,530
+我知道Lyla是你的朋友 但...
+I know Lyla's your friend, but...
+
+295
+00:15:44,530 --> 00:15:48,260
+Felicity Lyla不是我朋友
+Felicity, Lyla isn't my friend.
+
+296
+00:15:48,260 --> 00:15:50,000
+她是我前妻
+She was my wife.
+
+297
+00:15:50,000 --> 00:15:51,800
+你解释下
+Explain that sentence.
+
+298
+00:15:51,800 --> 00:15:55,130
+Lyla和我是在阿富汗军队里认识的
+Lyla and I met in the army back in Afghanistan.
+
+299
+00:15:55,130 --> 00:15:59,000
+但是回到美国就离婚了
+But we didn't stay married long once we got stateside.
+
+300
+00:16:00,860 --> 00:16:04,930
+没有仗要打 婚姻就无法维持了
+Couldn't figure out a way to stay married without a war to fight.
+
+301
+00:16:04,930 --> 00:16:08,260
+后来她加入了阿格斯
+So she joined A.R.G.U.S.,
+
+302
+00:16:08,260 --> 00:16:12,100
+而我就回部队第三次服役
+and I circled back for my third tour.
+
+303
+00:16:12,100 --> 00:16:15,560
+Felicity 我不能把她扔在这不管
+I can't leave here without her, Felicity.
+
+304
+00:16:15,560 --> 00:16:18,630
+不能
+Just can't. 
+
+305
+00:16:22,030 --> 00:16:23,630
+还有两分钟
+Two minute warning.
+
+306
+00:16:31,300 --> 00:16:33,700
+祝你好运 John
+Good luck, John.
+
+307
+00:17:11,700 --> 00:17:14,230
+他们抓住他了
+They have him.
+
+308
+00:17:19,340 --> 00:17:20,400
+按计划行事
+Clock's running.
+
+309
+00:17:37,460 --> 00:17:38,800
+进去 进去
+Zhivey, zhivey.
+
+310
+00:17:38,800 --> 00:17:41,000
+快点
+Hurry up.
+
+311
+00:17:53,830 --> 00:17:56,800
+东西没收
+Khoroshaya Kurtka.
+
+312
+00:18:23,760 --> 00:18:26,760
+你犯了什么罪啊?
+What, uh, crime fits your punishment?
+
+313
+00:18:26,760 --> 00:18:29,030
+贩毒 你呢?
+Drugs. And you?
+
+314
+00:18:29,030 --> 00:18:32,590
+我做演讲啊 揭露政府腐败
+I gave speech. About government corruption.
+
+315
+00:18:32,590 --> 00:18:35,030
+哦
+Right.
+
+316
+00:18:35,030 --> 00:18:39,390
+在地狱很少见到你这样的人
+It is rare to see one of your people in koshmar.
+
+317
+00:18:39,390 --> 00:18:41,790
+- 什么 美国人吗?  - 黑人
+- What, American?  - Chernokozhiy.
+
+318
+00:18:41,790 --> 00:18:43,430
+呃...
+Ehh... 
+
+319
+00:18:43,430 --> 00:18:46,590
+黑人在这不受欢迎
+Chernokozhiy not popular here.
+
+320
+00:18:46,590 --> 00:18:49,590
+真吓人
+Shocker.
+
+321
+00:18:56,630 --> 00:18:59,360
+你觉得Dig应该没事吧?
+You think Dig's ok?
+
+322
+00:18:59,360 --> 00:19:01,630
+我觉得在你五分钟前问我的时候
+I think he's doing the same as he was
+
+323
+00:19:01,630 --> 00:19:03,630
+他还是老样子
+when you asked me five minutes ago.
+
+324
+00:19:03,630 --> 00:19:05,290
+他们来了
+They're coming.
+
+325
+00:19:05,290 --> 00:19:08,430
+他们廉价卖俄式警车给我们
+They sell us Russian police truck for cheap.
+
+326
+00:19:23,720 --> 00:19:25,780
+这是您需要的车
+Vot mashina, kotoraya vam nuzhna.
+
+327
+00:19:25,780 --> 00:19:29,620
+一百五十万
+Sto pyatisot tysyach rubley.
+
+328
+00:20:03,520 --> 00:20:06,150
+你说什么了?
+What'd you say?
+
+329
+00:20:07,480 --> 00:20:10,650
+请啊
+Please.
+
+330
+00:20:13,080 --> 00:20:18,210
+在俄罗斯有个古拉格
+You know, in Russia, there is Gulag.
+
+331
+00:20:18,210 --> 00:20:20,870
+和这里一样恐怖
+Almost as bad as this.
+
+332
+00:20:28,140 --> 00:20:31,440
+- Sara...  - 别叫出我的名字 
+- Sara...  - Don't say my name.
+
+333
+00:20:31,440 --> 00:20:34,640
+如果他们知道我们互相认识 会将我们一起杀掉
+If they find out we know each other, they'll kill us both.
+
+334
+00:20:39,010 --> 00:20:42,210
+我以为你被水淹了
+I thought you drowned.
+
+335
+00:20:42,210 --> 00:20:45,370
+我醒来时 船已经不在了
+When I came up, the boat was gone.
+
+336
+00:20:45,370 --> 00:20:47,110
+我以为你也被水淹了
+And I thought you were, too.
+
+337
+00:20:47,110 --> 00:20:51,170
+我漂了一段时间 直到这艘船...
+And I was floating out there for days when this ship...
+
+338
+00:20:51,170 --> 00:20:55,140
+他们发现我 然后救了我
+They found me. And they saved me.
+
+339
+00:20:55,140 --> 00:20:57,240
+所以你就帮他们吗?
+Is that why you're helping them?
+
+340
+00:20:57,240 --> 00:20:59,810
+我没得选了
+I don't have a choice.
+
+341
+00:20:59,810 --> 00:21:02,610
+我要提醒我的朋友们
+I need to warn my friends.
+
+342
+00:21:02,610 --> 00:21:04,510
+你之前说他们死了
+You said they were dead.
+
+343
+00:21:04,510 --> 00:21:07,370
+他们没那么容易死的
+They're not that easy to kill.
+
+344
+00:21:17,110 --> 00:21:19,440
+别动
+Try not to move.
+
+345
+00:21:21,870 --> 00:21:24,360
+闻起来想吐!
+It smells like puke!
+
+346
+00:21:24,360 --> 00:21:27,000
+它可以治好你的伤口
+It'll heal your wounds.
+
+347
+00:21:27,000 --> 00:21:29,530
+你走吧
+You have to go.
+
+348
+00:21:29,530 --> 00:21:31,430
+离开这
+Get out of here.
+
+349
+00:21:31,430 --> 00:21:33,730
+去高一点的地方
+Get to higher ground.
+
+350
+00:21:33,730 --> 00:21:35,260
+我不会离开你的
+I'm not leaving you.
+
+351
+00:21:35,260 --> 00:21:38,700
+我不想你为了我
+I will not be the reason
+
+352
+00:21:38,700 --> 00:21:40,860
+出事
+something happens to you.
+
+353
+00:21:40,860 --> 00:21:42,860
+那咱们就没什么可说的了
+Then we're in agreement.
+
+354
+00:21:42,860 --> 00:21:45,130
+因为我也做了自己的选择
+Because I make my own choices.
+
+355
+00:21:45,130 --> 00:21:48,860
+你真是一个坚强的女人
+You are a strong woman.
+
+356
+00:21:48,860 --> 00:21:52,230
+为了在乎的人 我什么事都会做
+When I care about someone, there's nothing I won't do for them.
+
+357
+00:21:52,230 --> 00:21:55,730
+这是我们的另一个
+Another thing...
+
+358
+00:21:55,730 --> 00:21:58,360
+共同点
+We have in common.
+
+359
+00:22:02,600 --> 00:22:06,560
+这些烧伤让你的体温不断下降
+The burns, they're lowering your body temperature.
+
+360
+00:22:06,560 --> 00:22:09,830
+这样
+Here.
+
+361
+00:22:13,800 --> 00:22:16,100
+你晚上去哪里了?
+Where you been all night?
+
+362
+00:22:16,100 --> 00:22:18,100
+- 去工作了  - 哦
+- Working.  - Oh.
+
+363
+00:22:18,100 --> 00:22:22,130
+你该好好休息一下了
+Well, you deserve a break.
+
+364
+00:22:22,130 --> 00:22:25,600
+呃 我最近在想
+Um, actually, I've been thinking.
+
+365
+00:22:25,600 --> 00:22:27,960
+我们应该给彼此一点空间
+Maybe we should take some space.
+
+366
+00:22:27,960 --> 00:22:30,960
+我们住在一起 还在一起工作
+I mean, we work together and live together.
+
+367
+00:22:30,960 --> 00:22:33,420
+有点让人喘不过来气
+It's kind of getting hard to breathe.
+
+368
+00:22:33,420 --> 00:22:35,850
+从什么时候开始这么想的?
+Since when?
+
+369
+00:22:35,850 --> 00:22:38,320
+哦 这是不是和前几天来的那个女律师有关?
+Oh, wait, does this have to with that lawyer lady dropping by?
+
+370
+00:22:38,320 --> 00:22:39,950
+不 这只和上个月
+No, this has to do with the fact
+
+371
+00:22:39,950 --> 00:22:41,750
+你被抓进去两次有关
+that you've been arrested twice in the last month.
+
+372
+00:22:41,750 --> 00:22:44,020
+别这样 我已经在努力不惹麻烦
+Come on. I've been trying to stay out of trouble.
+
+373
+00:22:44,020 --> 00:22:46,220
+我都好几个星期没运动运动了
+My body hasn't had a scratch on it in weeks.
+
+374
+00:22:46,220 --> 00:22:48,820
+除了你知道的那次
+Well, I mean, excluding the ones that you put there.
+
+375
+00:22:48,820 --> 00:22:50,820
+那前天晚上怎么回事?
+And the other night?
+
+376
+00:22:50,820 --> 00:22:52,950
+那是个误会
+Was a misunderstanding.
+
+377
+00:22:52,950 --> 00:22:55,850
+Roy啊...
+Roy...
+
+378
+00:22:55,850 --> 00:22:59,450
+这样下去不行 明白吗?
+this just isn't working, ok?
+
+379
+00:22:59,450 --> 00:23:01,820
+我觉得不行
+Not for me.
+
+380
+00:23:01,820 --> 00:23:04,120
+Thea 你不是认真的吧
+Thea, you can't mean that.
+
+381
+00:23:04,120 --> 00:23:05,950
+我是
+I do.
+
+382
+00:23:05,950 --> 00:23:08,150
+很抱歉
+I'm sorry.
+
+383
+00:23:40,480 --> 00:23:42,010
+那些人...
+Those men...
+
+384
+00:23:42,010 --> 00:23:46,010
+他们是Vory帮 这里的地头蛇
+they are Vory. They are in charge.
+
+385
+00:23:46,010 --> 00:23:48,680
+最好离他们远点
+It's best to stay away.
+
+386
+00:23:48,680 --> 00:23:51,080
+明白了
+Got it.
+
+387
+00:23:51,080 --> 00:23:55,040
+我要找一个守卫 他叫Sergei Pavelski
+Listen, I'm looking for a guard named Sergei Pavelski.
+
+388
+00:24:03,540 --> 00:24:07,480
+美国佬... 你有麻烦了
+American... you are suka now.
+
+389
+00:24:08,640 --> 00:24:12,410
+确定要这样吗?
+Are we seriously going to do this?
+
+390
+00:24:12,410 --> 00:24:13,980
+没错
+Guess so.
+
+391
+00:24:24,740 --> 00:24:28,680
+这里严禁打架
+Fighting strictly prohibited.
+
+392
+00:24:34,910 --> 00:24:39,410
+你好 我来见Vodki
+Vodki, pozhaluysta.
+
+393
+00:24:39,410 --> 00:24:42,180
+你错过了展览
+You missed the tour.
+
+394
+00:24:42,180 --> 00:24:43,980
+为什么?
+What happened to you?
+
+395
+00:24:43,980 --> 00:24:47,800
+我看到一辆十分喜欢的俄罗斯汽车
+I saw a Russian vehicle that I simply had to have.
+
+396
+00:24:47,800 --> 00:24:50,200
+你来俄罗斯就为了买车?
+Is that why you came to Russia? Car shopping?
+
+397
+00:24:50,200 --> 00:24:53,430
+哦 我只点了一杯
+Oh, I just ordered one.
+
+398
+00:24:53,430 --> 00:24:57,700
+另一杯是我的 再来一杯
+One's for me. 
+
+399
+00:25:00,130 --> 00:25:03,100
+这里很冷
+This cold room.
+
+400
+00:25:10,600 --> 00:25:13,400
+关你六个小时的禁闭
+Six hours for you.
+
+401
+00:25:13,400 --> 00:25:15,730
+六个小时? 你不能把我关在这里那么久
+Six hours? You can't keep me in here that long.
+
+402
+00:25:15,730 --> 00:25:18,730
+那就七个小时吧
+Now seven hours.
+
+403
+00:25:22,730 --> 00:25:25,430
+你真是傻得可以...
+Well, that was pretty stupid...
+
+404
+00:25:27,700 --> 00:25:31,170
+这次也一样
+then again, you never really were
+
+405
+00:25:31,170 --> 00:25:32,930
+你又做了一次傻事
+one of the brightest guys.
+
+406
+00:25:33,930 --> 00:25:34,930
+致命一枪?
+Deadshot?
+
+407
+00:25:43,670 --> 00:25:45,770
+你的骨头冻透了吗?
+Your spine frozen through yet?
+
+408
+00:25:45,770 --> 00:25:50,140
+相信我 冷不是问题
+Trust me. My problem here isn't with the cold.
+
+409
+00:25:50,140 --> 00:25:53,600
+你还记恨着我开枪杀了你哥哥?
+What, you still haven't forgiven me for shooting your brother?
+
+410
+00:25:53,600 --> 00:25:55,540
+你可真记仇
+Man, you really hold a grudge.
+
+411
+00:25:57,700 --> 00:25:59,800
+我知道你怎么找来的
+I know why you're here.
+
+412
+00:25:59,800 --> 00:26:03,670
+因为那个阿格斯的女孩
+That girl. From A.R.G.U.S.
+
+413
+00:26:03,670 --> 00:26:06,470
+Lyla找到的不是线索
+Lyla didn't find a lead on you.
+
+414
+00:26:06,470 --> 00:26:10,000
+而直接找到了你
+She found you.
+
+415
+00:26:11,470 --> 00:26:12,900
+你们真的以为
+Does everyone really think
+
+416
+00:26:12,900 --> 00:26:14,700
+- Felicity和我...  - 不
+- that Felicity and I are...  - No.
+
+417
+00:26:14,700 --> 00:26:16,700
+只有Queen实业的员工才那么想
+Just everyone who works at Queen Consolidated.
+
+418
+00:26:18,800 --> 00:26:20,840
+我们是纯洁的友谊关系
+She's just a friend.
+
+419
+00:26:20,840 --> 00:26:23,500
+你看起来可不像和女性只做朋友
+You don't seem like the kind of man who has female friends.
+
+420
+00:26:23,500 --> 00:26:25,200
+我能问你个私人问题吗?
+Can I ask you a personal question?
+
+421
+00:26:25,200 --> 00:26:28,230
+既然我喝了点伏特加 那你就问吧
+With some vodka in me, I just might answer.
+
+422
+00:26:28,230 --> 00:26:32,060
+为什么拯救我的家族企业
+Why does saving my family's company
+
+423
+00:26:32,060 --> 00:26:33,930
+对你来说那么重要?
+mean so much to you?
+
+424
+00:26:35,460 --> 00:26:38,530
+不管雪莉·桑德伯格说得多好听...
+Despite what Sheryl Sandberg might say...
+
+425
+00:26:35,460 --> 00:26:38,530
+{\an8}Facebook的副总裁
+
+426
+00:26:40,430 --> 00:26:43,660
+女人想在商界站住脚仍然不那么容易
+it still isn't that easy to make it as a woman in business.
+
+427
+00:26:43,660 --> 00:26:46,860
+我... 牺牲了很多
+I've... given up a lot.
+
+428
+00:26:46,860 --> 00:26:48,530
+所以我如果不力求完美
+Which means if I don't succeed at everything,
+
+429
+00:26:48,530 --> 00:26:50,830
+那些牺牲还有什么用?
+then what was the point?
+
+430
+00:26:50,830 --> 00:26:52,490
+嗯
+Hmm.
+
+431
+00:26:52,490 --> 00:26:55,060
+我能问你一个私人问题吗?
+May I ask you a personal question?
+
+432
+00:26:55,060 --> 00:26:57,260
+你可以试试
+Others have tried and failed.
+
+433
+00:26:57,260 --> 00:26:59,960
+为什么你要绞尽脑汁让我相信你是个大笨蛋?
+Why do you try so hard to make me think that you're a lazy idiot?
+
+434
+00:26:59,960 --> 00:27:01,990
+我知道你不是
+I know you're not.
+
+435
+00:27:01,990 --> 00:27:05,690
+你的那些小花招唬不了我
+Underneath that swagger, I see you pretty clearly.
+
+436
+00:27:05,690 --> 00:27:07,830
+是吗?
+Really?
+
+437
+00:27:07,830 --> 00:27:09,890
+那你说我是什么样的人?
+And what do you see?
+
+438
+00:27:09,890 --> 00:27:12,090
+你很聪明
+You're intelligent.
+
+439
+00:27:12,090 --> 00:27:15,460
+有上进心
+Driven.
+
+440
+00:27:15,460 --> 00:27:18,030
+还很寂寞
+And lonely.
+
+441
+00:27:18,030 --> 00:27:21,030
+你怎么知道的?
+How do you see that?
+
+442
+00:27:21,030 --> 00:27:24,760
+因为我照镜子的时候 看到的也是这样的面容
+Because it's what I see when I look in the mirror.
+
+443
+00:27:33,330 --> 00:27:36,920
+时间紧迫
+We don't have much time.
+
+444
+00:27:37,920 --> 00:27:40,120
+好了
+There you go.
+
+445
+00:27:40,120 --> 00:27:41,950
+我们走
+Let's go, let's go.
+
+446
+00:27:43,280 --> 00:27:45,650
+很高兴见到你 John
+Nice seeing you, John.
+
+447
+00:27:45,650 --> 00:27:47,940
+还需要什么吗?
+
+448
+00:27:47,940 --> 00:27:50,290
+我觉得还是不要再喝了吧?
+
+449
+00:27:51,150 --> 00:27:52,750
+你会说俄语
+You speak Russian.
+
+450
+00:27:52,750 --> 00:27:54,260
+只在朋友面前
+
+451
+00:27:54,920 --> 00:27:57,050
+九岁以前我生活在莫斯科
+I was raised in Moscow until I was nine.
+
+452
+00:27:57,050 --> 00:28:00,080
+然后我被收养了 他们带我来到了美国
+And then adopted by a family that took me to America.
+
+453
+00:28:00,080 --> 00:28:02,680
+过了很长时间我才改掉口音
+Took me years to get rid of my accent.
+
+454
+00:28:02,680 --> 00:28:07,020
+说话像娜塔莎那样 在学校里可交不到朋友
+It isn't easy making friends in grade school when you sound like Natasha.
+
+455
+00:28:09,370 --> 00:28:15,870
+看来你已经寂寞很久了
+
+456
+00:28:17,490 --> 00:28:19,120
+想知道多久吗?
+
+457
+00:28:22,470 --> 00:28:25,340
+我... 我等下还有事情
+I... don't have a lot of time.
+
+458
+00:28:25,340 --> 00:28:27,740
+很快的
+I'll be quick.
+
+459
+00:28:27,740 --> 00:28:29,770
+还有五分钟 我们快点
+Five minutes. Must hurry.
+
+460
+00:28:29,770 --> 00:28:31,870
+提醒我事情办完了别忘给你送一大包烟
+Remind me to get you a pack of cigarettes when this is all over.
+
+461
+00:28:31,870 --> 00:28:34,870
+我不抽烟
+I don't smoke.
+
+462
+00:28:42,940 --> 00:28:45,360
+你才不会扔下我自己走了 是吧?
+You weren't going to leave without me, were you?
+
+463
+00:28:45,360 --> 00:28:46,970
+我要杀了你!
+I should kill you right now!
+
+464
+00:28:46,970 --> 00:28:49,370
+不会的
+You won't.
+
+465
+00:28:49,370 --> 00:28:51,570
+- 为什么?  - 因为
+- Why?  - Because
+
+466
+00:28:51,570 --> 00:28:54,770
+只有我知道你的小女朋友在哪
+I'm the only one who knows where your little girlfriend is.
+
+467
+00:28:54,770 --> 00:28:57,370
+你不傻
+You're not stupid.
+
+468
+00:28:57,370 --> 00:29:00,940
+你不会不给自己留好退路的
+You wouldn't put yourself in here without an exit strategy.
+
+469
+00:29:00,940 --> 00:29:02,640
+我带你去找她...
+I take you to the girl...
+
+470
+00:29:02,640 --> 00:29:05,870
+你带我出去
+you take me out.
+
+471
+00:29:09,770 --> 00:29:12,070
+Isabel 我得走了
+Isabel, I have to go.
+
+472
+00:29:12,070 --> 00:29:14,270
+不好意思
+Sorry.
+
+473
+00:29:14,270 --> 00:29:17,170
+你觉得我还用你吻别?
+Do I strike you as someone who needs to cuddle?
+
+474
+00:29:21,270 --> 00:29:23,440
+嗨
+Hi.
+
+475
+00:29:23,440 --> 00:29:24,470
+嗨
+Hi.
+
+476
+00:29:24,470 --> 00:29:26,070
+时间到了 准备好了吗?
+It's time. Ready?
+
+477
+00:29:26,070 --> 00:29:27,510
+嗯 我...
+Yeah, I...
+
+478
+00:29:27,510 --> 00:29:31,150
+你可以让她今天晚上放假 对吧?
+I think she can take the night off. Don't you?
+
+479
+00:29:31,350 --> 00:29:34,346
+- 哦  - Felicity...
+- Ohh.  - Felicity...
+
+480
+00:29:34,404 --> 00:29:39,580
+哦... 在俄罗斯发生的事情就留在俄罗斯吧
+It... what happens in Russia stays in Russia.
+
+481
+00:29:39,580 --> 00:29:42,980
+虽然这么说也没什么意义
+Even when it makes no sense whatsoever.
+
+482
+00:29:58,000 --> 00:30:01,670
+我猜 你想留着它吧
+Guessin', uh, you want to hold on to that.
+
+483
+00:30:01,670 --> 00:30:03,870
+这边走
+This way.
+
+484
+00:30:05,670 --> 00:30:07,380
+你是怎么想的?
+What were you thinking?
+
+485
+00:30:07,380 --> 00:30:08,780
+什么?
+What?
+
+486
+00:30:08,780 --> 00:30:10,250
+俄罗斯有六千四百万成年女性
+Over 64 million women over the age of consent
+
+487
+00:30:10,250 --> 00:30:13,250
+而你和她睡了
+in Russia and you sleep with her.
+
+488
+00:30:13,250 --> 00:30:16,850
+不是说"在俄罗斯发生的事情
+So we're not doing the "what happens in Russia
+
+489
+00:30:16,850 --> 00:30:20,180
+- 就留在俄罗斯"吗?  - 我们还没离开俄罗斯
+- Stays in Russia?"  - We're still in Russia.
+
+490
+00:30:23,410 --> 00:30:27,180
+在这个国家 只要有钱没什么办不到
+There is nothing money cannot buy in this country.
+
+491
+00:30:27,180 --> 00:30:29,980
+Diggle马上就要把Lyla带出来了
+Diggle should be heading out Lyla in two minutes.
+
+492
+00:30:29,980 --> 00:30:33,050
+越狱可不是看起来那么容易
+Well, breaking out of prison is harder than it looks.
+
+493
+00:30:33,050 --> 00:30:35,650
+你们应该知道
+You of all people should know that.
+
+494
+00:30:53,720 --> 00:30:54,890
+别说话
+Stay quiet.
+
+495
+00:30:54,890 --> 00:30:57,320
+跟我走
+Follow me.
+
+496
+00:31:00,950 --> 00:31:03,310
+你要记着回来救我们...
+You'll remember the rest of us...
+
+497
+00:31:05,010 --> 00:31:06,350
+好吗?
+Yes?
+
+498
+00:31:06,350 --> 00:31:08,050
+我答应你
+I promise.
+
+499
+00:31:08,050 --> 00:31:10,950
+一定会回来的
+I'll come back.
+
+500
+00:31:12,150 --> 00:31:14,980
+走吧
+Come on.
+
+501
+00:31:20,680 --> 00:31:22,210
+我们要游出去吗?
+Are we making a swim for it?
+
+502
+00:31:22,210 --> 00:31:26,660
+不 我们一下水就会被乱枪打死
+No. They'd shoot us the second we hit the water.
+
+503
+00:31:26,660 --> 00:31:29,660
+你说过你朋友们有一个
+You said your friends, they have one
+
+504
+00:31:29,660 --> 00:31:31,660
+船上的无线电话 是吧?
+of the radios from the ship, right?
+
+505
+00:31:31,660 --> 00:31:33,860
+嗯
+Yeah.
+
+506
+00:31:33,860 --> 00:31:36,760
+你看起来很专业
+You look like you know what you're doing there.
+
+507
+00:31:36,760 --> 00:31:39,160
+过去这几年我学到了不少本领
+In the past year, I've learned a lot of things I never expected to.
+
+508
+00:31:39,160 --> 00:31:40,920
+我也是
+You and me both.
+
+509
+00:31:44,490 --> 00:31:47,660
+只有听到你的声音 他们才会回答
+They won't respond unless they hear your voice.
+
+510
+00:31:56,690 --> 00:31:58,490
+Shado啊
+Shado.
+
+511
+00:31:58,490 --> 00:32:01,190
+你能听到我吗?
+Ni neng ting dao wo ma?
+
+512
+00:32:05,620 --> 00:32:08,260
+嘿 Slade
+Slade.
+
+513
+00:32:08,260 --> 00:32:09,390
+能听到吗?
+Can you hear me?
+
+514
+00:32:11,620 --> 00:32:14,420
+谢天谢地 你还活着
+Thank god you're alive.
+
+515
+00:32:14,420 --> 00:32:17,290
+没错 我在货船...
+Yeah, I'm on the freighter...
+
+516
+00:32:17,290 --> 00:32:19,860
+Sara 你在做什么?
+Sara, what are you doing?
+
+517
+00:32:19,860 --> 00:32:21,690
+只有两个人
+There's only two of them.
+
+518
+00:32:21,690 --> 00:32:25,460
+他们没有离开迫击炮袭击的地方
+They haven't moved from the location of the mortar attack.
+
+519
+00:32:25,460 --> 00:32:27,120
+这到底是什么情况?
+What the hell is going on here?
+
+520
+00:32:27,120 --> 00:32:29,590
+你刚刚确认了你朋友还活着
+You just confirmed that your friends are alive.
+
+521
+00:32:29,590 --> 00:32:32,120
+这就意味着他们依旧是威胁
+Which means they're still a threat.
+
+522
+00:32:32,120 --> 00:32:34,060
+所以我们还是得杀了他们
+You know, until we kill them.
+
+523
+00:32:50,790 --> 00:32:52,790
+如果我说她就在里面
+If I say she's in there,
+
+524
+00:32:52,790 --> 00:32:54,320
+你为什么不杀了我?
+what's keeping you from shooting me?
+
+525
+00:32:56,700 --> 00:32:59,630
+为了荣誉
+Honor.
+
+526
+00:32:59,630 --> 00:33:02,730
+你也该试试
+You should try it some time.
+
+527
+00:33:05,830 --> 00:33:08,560
+嘿 Lyla!
+Lyla!
+
+528
+00:33:09,760 --> 00:33:12,260
+是Johnny?
+Johnny?
+
+529
+00:33:12,260 --> 00:33:13,690
+准备好回家了吗?
+Ready to go home?
+
+530
+00:33:13,690 --> 00:33:16,190
+你来救我了
+You came for me.
+
+531
+00:33:16,190 --> 00:33:19,250
+无论何时 我都会救你
+I always have. Always will.
+
+532
+00:33:19,250 --> 00:33:20,590
+"致命一枪"在这里
+Deadshot's here.
+
+533
+00:33:20,590 --> 00:33:22,750
+就在监狱里
+In the prison.
+
+534
+00:33:22,750 --> 00:33:25,150
+我知道
+I know.
+
+535
+00:33:25,150 --> 00:33:27,620
+你有什么撤离计划?
+What's your extraction plan?
+
+536
+00:33:27,620 --> 00:33:30,250
+要看情况 几点了?
+Depends. What time is it?
+
+537
+00:33:33,520 --> 00:33:35,350
+我穿着怎么样?
+
+538
+00:33:41,930 --> 00:33:45,200
+我们走 快 快!
+Let's go, go, go, move, move, move!
+
+539
+00:33:59,400 --> 00:34:01,300
+这边走
+This way.
+
+540
+00:34:02,430 --> 00:34:04,860
+好了
+Got it.
+
+541
+00:34:04,860 --> 00:34:07,430
+我把电话线断了 看守就没法叫增援了
+I shut down the phones. The guards can't call for help.
+
+542
+00:34:07,430 --> 00:34:10,060
+如果你的朋友和救的女人还没来
+Your friend and that woman are not here by now,
+
+543
+00:34:10,060 --> 00:34:11,730
+那就是逃不出来了
+they will not be here at all.
+
+544
+00:34:17,640 --> 00:34:18,860
+好多了
+Much better.
+
+545
+00:34:19,260 --> 00:34:20,760
+全都趴到地上
+
+546
+00:34:34,323 --> 00:34:35,728
+Oliver 蹲下!
+Oliver, get down!
+
+547
+00:34:41,460 --> 00:34:43,160
+跟我来! 快!
+Follow me! Move!
+
+548
+00:35:00,140 --> 00:35:03,470
+安全了
+We're clear.
+
+549
+00:35:04,940 --> 00:35:07,770
+停车
+Stop the truck.
+
+550
+00:35:07,770 --> 00:35:09,310
+下车
+Get out.
+
+551
+00:35:09,310 --> 00:35:12,110
+下车!
+Get out!
+
+552
+00:35:15,170 --> 00:35:17,640
+往前走
+Move.
+
+553
+00:35:36,310 --> 00:35:39,670
+这就是重视荣誉的坏处 John
+That's the thing about honor, John.
+
+554
+00:35:39,670 --> 00:35:42,410
+你没法自己控制
+You can't turn it on and off.
+
+555
+00:35:45,140 --> 00:35:48,510
+我只是好奇
+I'm just curious.
+
+556
+00:35:48,510 --> 00:35:51,710
+你觉得你哥哥是怎么死的?
+How is it you think your brother ended up dead?
+
+557
+00:35:51,710 --> 00:35:55,240
+你开枪要杀Andy正在保护的客户
+You shot a client that Andy was protecting,
+
+558
+00:35:55,240 --> 00:35:56,870
+结果失手了
+and you missed.
+
+559
+00:35:56,870 --> 00:36:01,010
+我没失手
+I don't miss.
+
+560
+00:36:01,010 --> 00:36:03,210
+你哥哥本来就是我的目标
+Your brother was the contract.
+
+561
+00:36:03,210 --> 00:36:05,870
+谁会想杀Andy?
+Who would want to kill Andy?
+
+562
+00:36:05,870 --> 00:36:09,440
+我不知道具体名字 只有个代号
+I don't know the names, just an alias.
+
+563
+00:36:10,740 --> 00:36:12,670
+叫Hive
+Hive.
+
+564
+00:36:13,770 --> 00:36:17,580
+好好想想 John
+Food for thought, John.
+
+565
+00:36:17,580 --> 00:36:20,320
+好好想想
+Food for thought.
+
+566
+00:36:52,490 --> 00:36:55,430
+我们要不要谈谈昨晚的事?
+Are we going to discuss what happened last night?
+
+567
+00:36:55,430 --> 00:36:57,390
+为什么要谈?
+Why would we?
+
+568
+00:36:57,890 --> 00:36:59,390
+没什么理由
+No reason.
+
+569
+00:36:59,390 --> 00:37:01,730
+明天办公室见
+I'll see you in the office tomorrow.
+
+570
+00:37:14,730 --> 00:37:17,170
+谢谢
+Thank you.
+
+571
+00:37:17,170 --> 00:37:19,340
+你帮了我
+You had my back.
+
+572
+00:37:19,340 --> 00:37:22,540
+现在你也知道有人帮的感觉了
+And now you know what it feels like.
+
+573
+00:37:30,170 --> 00:37:33,600
+你... 你来这里做什么?
+Wh... what are you... What are you doing here?
+
+574
+00:37:33,600 --> 00:37:35,470
+问得好
+Good question.
+
+575
+00:37:35,470 --> 00:37:37,670
+我接到过很多监狱打来的电话
+I've gotten a lot of calls from prison,
+
+576
+00:37:37,670 --> 00:37:39,130
+但从来没接过女友妈妈打来的
+but never from my girlfriend's mother.
+
+577
+00:37:39,130 --> 00:37:41,160
+我突然想到 我从来都没机会
+It occurred to me that I've never been given
+
+578
+00:37:41,160 --> 00:37:43,890
+见见你的这位男朋友
+the opportunity to meet the man in your life.
+
+579
+00:37:43,890 --> 00:37:45,960
+我不知道她告没告诉你
+I don't know if she told you,
+
+580
+00:37:45,960 --> 00:37:47,690
+但你女儿把我甩了
+but your daughter kind of dumped me.
+
+581
+00:37:47,690 --> 00:37:50,130
+那你应该知道 她这么做是为了我
+And what you should know is that she did it for me.
+
+582
+00:37:50,130 --> 00:37:53,190
+Jean跟我说她去见过你了
+Jean told me she came to see you.
+
+583
+00:37:53,190 --> 00:37:54,990
+我跟她说她不该这么做
+I told her she shouldn't have.
+
+584
+00:37:54,990 --> 00:37:57,690
+你为什么不跟我实话实说?
+Why didn't you just tell me the truth?
+
+585
+00:37:57,690 --> 00:38:00,200
+如果我们接着交往...
+Us being together...
+
+586
+00:38:00,200 --> 00:38:02,300
+对她的审判不利
+it can hurt her case.
+
+587
+00:38:02,300 --> 00:38:04,370
+Thea 听着...
+Thea...
+
+588
+00:38:04,370 --> 00:38:08,540
+你的私生活不会成为左右我审判结果的关键因素
+your social life is not going to be the determining factor in my trial.
+
+589
+00:38:08,540 --> 00:38:11,540
+宝贝 你在这一年里经历的事情
+Sweetheart, what you've had to endure this last year
+
+590
+00:38:11,540 --> 00:38:15,100
+比别人两辈子经历的都多
+is more than most people go through in two lifetimes.
+
+591
+00:38:15,100 --> 00:38:18,270
+但你不仅撑过来了 还活得很好
+But you've not only survived, you've flourished.
+
+592
+00:38:18,270 --> 00:38:20,440
+我想很大一部分得归功于Roy
+I think a lot of that has to do with Roy.
+
+593
+00:38:20,440 --> 00:38:25,200
+作为你妈妈 我不允许你不见他
+So, as your mother, I forbid you not to see him.
+
+594
+00:38:25,200 --> 00:38:28,440
+谢谢
+Thank you.
+
+595
+00:38:32,670 --> 00:38:35,240
+我得承认
+I have to admit,
+
+596
+00:38:35,240 --> 00:38:38,280
+我没预料到我的俄国之旅会这样结束
+this is not how I anticipated my trip to Russia ending.
+
+597
+00:38:38,280 --> 00:38:41,810
+我们能活着逃出来可真是幸运
+I just feel lucky we made it out of there alive.
+
+598
+00:38:42,910 --> 00:38:44,480
+谢谢
+Thank you.
+
+599
+00:38:44,480 --> 00:38:46,540
+并不只是谢你救了我
+Not just for coming for me.
+
+600
+00:38:46,540 --> 00:38:49,240
+而是谢你为我做了牺牲
+For doing what you had to once you did.
+
+601
+00:38:49,240 --> 00:38:52,100
+你是说和"致命一枪"合作的事
+You mean working with Deadshot.
+
+602
+00:38:54,100 --> 00:38:57,600
+要知道 我和Carly分手就是因为我做不到爱着她
+You know, me and Carly broke up because I couldn't love her
+
+603
+00:38:57,600 --> 00:39:00,140
+还恨着"致命一枪"
+and hate him at the same time.
+
+604
+00:39:00,140 --> 00:39:03,270
+我很荣幸能成为这例外
+I'm honored to be the exception.
+
+605
+00:39:03,270 --> 00:39:06,770
+Lyla 你永远是例外
+Lyla, you're always the exception.
+
+606
+00:39:15,970 --> 00:39:18,850
+我8点要去阿格斯做任务报告
+I have a debrief with A.R.G.U.S. at 0800.
+
+607
+00:39:18,850 --> 00:39:21,180
+别去了 让Waller操心去
+No, no, let Waller stew.
+
+608
+00:39:21,180 --> 00:39:24,580
+留下来吃早饭
+Stay for breakfast.
+
+609
+00:39:24,580 --> 00:39:28,310
+要是你给我做蓝莓煎饼 我就考虑留下来
+Throw in your blueberry pancakes and you may be able to convince me.
+
+610
+00:40:00,110 --> 00:40:03,310
+你能把这个送到Isabel的办公室吗?
+Can you deliver this to Isabel's office, please?
+
+611
+00:40:03,310 --> 00:40:05,810
+为什么是她?
+Why her?
+
+612
+00:40:05,810 --> 00:40:09,580
+我是说 除了她...
+I mean, besides the...
+
+613
+00:40:09,580 --> 00:40:11,410
+有长腿模特身材这理由之外
+obvious leggy model reason.
+
+614
+00:40:11,410 --> 00:40:13,710
+就这么发生了
+It just kind of happened.
+
+615
+00:40:13,710 --> 00:40:16,550
+这并不意味着什么
+It didn't mean anything.
+
+616
+00:40:16,550 --> 00:40:19,280
+嘿
+Hey.
+
+617
+00:40:21,580 --> 00:40:24,980
+因为我的这种生活...
+Because of the life that I lead...
+
+618
+00:40:24,980 --> 00:40:29,980
+我只是觉得 最好还是不要...
+I just think that it's better to not...
+
+619
+00:40:29,980 --> 00:40:33,580
+和我真正关心的人在一起会比较好
+be with someone that I could really care about.
+
+620
+00:40:45,620 --> 00:40:48,220
+好吧 但我觉得...
+Well, I think...
+
+621
+00:40:52,390 --> 00:40:55,990
+你应该找个比她更好的
+I think you deserve better than her.
+
+622
+00:41:02,610 --> 00:41:05,380
+找到他们的位置了
+We have their location.
+
+623
+00:41:05,380 --> 00:41:07,350
+这个现在对我们没用了
+This one's no longer of use to us.
+
+624
+00:41:07,350 --> 00:41:09,580
+我们来看看你从脑袋里...
+Let's see how good you are...
+
+625
+00:41:09,580 --> 00:41:12,410
+拔子弹的技术有多好
+at removing a bullet from your head.
+
+626
+00:41:12,410 --> 00:41:14,780
+等等!
+Wait!
+
+627
+00:41:14,780 --> 00:41:18,450
+他可能还有用
+He could still be useful.
+
+628
+00:41:18,450 --> 00:41:21,590
+她说得对
+She's right.
+
+629
+00:41:21,590 --> 00:41:23,890
+等我们杀了他的朋友
+Once we get rid of his friends,
+
+630
+00:41:23,890 --> 00:41:26,620
+还需要他带我们去坟墓
+we'll need him to lead us to the graves.
+
+631
+00:41:28,620 --> 00:41:32,290
+我有时候很疑惑 到底谁来发号施令
+Sometimes I wonder who gives the orders here.
+
+632
+00:41:32,290 --> 00:41:34,020
+是你...
+You...
+
+633
+00:41:34,020 --> 00:41:36,260
+还是这个金发小妞
+or your little bouzin.
+
+634
+00:41:48,460 --> 00:41:53,220
+你要回岛上去
+You're going back to the island.
+
+635
+00:41:53,220 --> 00:41:55,820
+叫Oliver对吧
+Oliver.
+
+636
+00:41:55,820 --> 00:41:57,820
+-=圣城家园SCG字幕组 http://hd.cnscg.com/=-
+仅供翻译交流使用, 禁止用于商业用途
+
+637
+00:41:57,820 --> 00:41:59,820
+-=圣城家园SCG字幕组 http://hd.cnscg.com/=-
+协调: 影子
+时间轴: pisces夜
+翻译: 西皮jo 伊娃 初见 酱油影
+校对: 潇妹纸
+
+

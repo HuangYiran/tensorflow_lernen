@@ -1,0 +1,4019 @@
+1
+00:00:04,920 --> 00:00:20,920
+{\fad(500,500)\fn华文楷体\fs16\1c&H3CF1F3&\b0}更多佳片尽在 shop.paipai.com/1610169789{\r}
+
+2
+00:02:04,920 --> 00:02:07,180
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hello, fence.
+
+3
+00:02:16,130 --> 00:02:18,620
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hello, leaves.
+
+4
+00:02:22,170 --> 00:02:24,260
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hello, sky.
+
+5
+00:03:28,900 --> 00:03:30,700
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Get off my lawn!
+
+6
+00:03:32,610 --> 00:03:34,580
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Trespasser.
+
+7
+00:03:34,780 --> 00:03:36,900
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Do you want to be eaten alive?
+
+8
+00:03:37,450 --> 00:03:39,850
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No.  Then get out of here!
+
+9
+00:03:44,320 --> 00:03:45,790
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}My trike.
+
+10
+00:03:51,860 --> 00:03:54,660
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Stay away from my house!
+
+11
+00:04:17,320 --> 00:04:19,010
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}DJ!  We're gonna be late.
+
+12
+00:04:19,220 --> 00:04:21,090
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah, Mom, I'm coming. I'm coming.
+
+13
+00:04:22,620 --> 00:04:25,060
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}October 30th: Another tricycle.
+
+14
+00:04:25,260 --> 00:04:26,990
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm coming.
+
+15
+00:04:31,870 --> 00:04:33,300
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Mom.
+
+16
+00:04:33,500 --> 00:04:36,600
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Mom, he did it again. He took another tricycle.
+
+17
+00:04:36,800 --> 00:04:39,070
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Okay, honey, we've talked about this.
+
+18
+00:04:39,270 --> 00:04:41,830
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You cannot stay up in your room all day...
+
+19
+00:04:42,040 --> 00:04:44,310
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...staring at an old man through a telescope.
+
+20
+00:04:44,510 --> 00:04:46,670
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}But, Mom, there's something wrong with that house.
+
+21
+00:04:46,880 --> 00:04:48,110
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm serious.
+
+22
+00:04:48,320 --> 00:04:50,150
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What was that?
+
+23
+00:04:52,020 --> 00:04:53,510
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm serious.
+
+24
+00:04:54,190 --> 00:04:56,120
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}His voice sounds funny.
+
+25
+00:04:56,320 --> 00:04:58,720
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Someone is hitting puberty.
+
+26
+00:04:58,930 --> 00:05:02,050
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}"What's happening to my body?" Right, buddy?
+
+27
+00:05:02,260 --> 00:05:03,750
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Maybe you should come with us.
+
+28
+00:05:03,960 --> 00:05:06,930
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, the boy's too busy. He's got his spying to do.
+
+29
+00:05:07,130 --> 00:05:09,130
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm not spying.
+
+30
+00:05:09,570 --> 00:05:10,900
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Well...
+
+31
+00:05:11,110 --> 00:05:14,170
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}"Well..." That's okay, buddy.
+
+32
+00:05:14,380 --> 00:05:16,610
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}When I was your age, I did exactly the same thing.
+
+33
+00:05:16,810 --> 00:05:20,340
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Of course, it was with binoculars and involved the lovely Jensen twins.
+
+34
+00:05:20,550 --> 00:05:23,570
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Neither of which was as lovely as your beautiful mother.
+
+35
+00:05:23,780 --> 00:05:26,220
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Will you be an angel and help me bring out the incisor?
+
+36
+00:05:26,420 --> 00:05:27,610
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}The incisor.  Hold this.
+
+37
+00:05:27,820 --> 00:05:30,020
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah, you don't wanna forget that.
+
+38
+00:05:37,900 --> 00:05:39,890
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Elizabeth will be here in a few hours.
+
+39
+00:05:40,100 --> 00:05:42,330
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}If anything happens, call the police and hide.
+
+40
+00:05:42,540 --> 00:05:44,000
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}He knows that.
+
+41
+00:05:44,210 --> 00:05:46,610
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}See you tomorrow night.
+
+42
+00:05:46,810 --> 00:05:49,780
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What have you done?  Just let me drive this thing, will you?
+
+43
+00:05:49,980 --> 00:05:51,540
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Where is DJ? Where's DJ?  I'm fine.
+
+44
+00:05:51,750 --> 00:05:55,480
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You would be so happy if he was under the car, wouldn't you?
+
+45
+00:05:55,680 --> 00:05:59,880
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Sorry. It's hard to see with the mask on.
+
+46
+00:06:00,090 --> 00:06:02,580
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Then why don't you keep it off, Chowder?
+
+47
+00:06:02,790 --> 00:06:04,620
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Why did you put up your window?
+
+48
+00:06:04,830 --> 00:06:06,590
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder.  It's aerodynamic.
+
+49
+00:06:06,790 --> 00:06:08,260
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hi, DJ.  We've got to make time.
+
+50
+00:06:08,460 --> 00:06:09,900
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}The children. The children.
+
+51
+00:06:10,100 --> 00:06:11,860
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What children?  Bye-bye, baby.
+
+52
+00:06:12,070 --> 00:06:14,400
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Tell him you love him, dear.  He knows that.
+
+53
+00:06:14,600 --> 00:06:17,130
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Tell your son you love him.  I don't wanna tell him.
+
+54
+00:06:17,340 --> 00:06:18,900
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}He knows I love him.  He's your son.
+
+55
+00:06:19,110 --> 00:06:22,300
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You have to say it. Roll it down.  We're gonna be late.
+
+56
+00:06:23,110 --> 00:06:24,670
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We both love you.
+
+57
+00:06:24,880 --> 00:06:27,250
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}That includes your dad.  That's right.
+
+58
+00:06:29,680 --> 00:06:31,480
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}He's had enough kisses.  Blow him a kiss.
+
+59
+00:06:31,690 --> 00:06:33,520
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Blow him a kiss.  Goodbye.
+
+60
+00:06:37,620 --> 00:06:40,180
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Cheer up. It's almost Halloween.
+
+61
+00:06:40,390 --> 00:06:43,520
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}In one day and three hours, it's candy time.
+
+62
+00:06:44,600 --> 00:06:46,070
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Okay?
+
+63
+00:06:47,130 --> 00:06:50,330
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Check it out, I got a new ball.  Cool.
+
+64
+00:06:52,370 --> 00:06:54,530
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, speaking of which, have you decided?
+
+65
+00:06:54,740 --> 00:06:58,110
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Skullzor or Crypt Keeper?
+
+66
+00:06:59,310 --> 00:07:00,800
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder.
+
+67
+00:07:02,580 --> 00:07:05,020
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I don't think I'm going trick-or-treating this year.
+
+68
+00:07:05,220 --> 00:07:06,580
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What?
+
+69
+00:07:06,790 --> 00:07:09,260
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come on, you're gonna break a six-year streak.
+
+70
+00:07:09,460 --> 00:07:12,120
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah, six years of being jumped and egged.
+
+71
+00:07:12,690 --> 00:07:14,790
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Maybe I'm getting too grown-up.
+
+72
+00:07:24,600 --> 00:07:26,500
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Three seconds on the clock.
+
+73
+00:07:26,710 --> 00:07:28,540
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm playing basketball.
+
+74
+00:07:32,750 --> 00:07:36,010
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It's time for an in-your-face disgrace.
+
+75
+00:07:39,750 --> 00:07:42,220
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Are you okay?  My nose is in my brains.
+
+76
+00:07:42,420 --> 00:07:44,190
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Let me see. Oh, my God.
+
+77
+00:07:44,390 --> 00:07:46,830
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What?  You're a dork.
+
+78
+00:07:47,890 --> 00:07:49,090
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Where's my ball?
+
+79
+00:07:54,170 --> 00:07:55,600
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, no.
+
+80
+00:08:12,520 --> 00:08:16,010
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Sorry, man.  Wait, wait. DJ.
+
+81
+00:08:16,220 --> 00:08:18,520
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You're a grownup now, you go get it.
+
+82
+00:08:18,730 --> 00:08:21,920
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder, your ball just landed on Nebbercracker's lawn.
+
+83
+00:08:22,130 --> 00:08:24,460
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It doesn't exist anymore.
+
+84
+00:08:29,170 --> 00:08:32,070
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I paid $28 for that ball.
+
+85
+00:08:32,310 --> 00:08:36,610
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I raked 10 yards and asked my mom for a dollar 26 times.
+
+86
+00:08:37,110 --> 00:08:39,810
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I never worked that hard in my life...
+
+87
+00:08:41,450 --> 00:08:43,350
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Nebbercracker hasn't come out yet.
+
+88
+00:08:43,680 --> 00:08:47,120
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}So?  So maybe he's sleeping.
+
+89
+00:08:49,290 --> 00:08:50,880
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}All right, I'll do it.
+
+90
+00:08:51,360 --> 00:08:54,090
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'll never forget this. Hurry, though.
+
+91
+00:08:59,470 --> 00:09:00,830
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Go.
+
+92
+00:09:10,410 --> 00:09:11,400
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You.
+
+93
+00:09:11,650 --> 00:09:13,340
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No.  DJ, run!
+
+94
+00:09:16,020 --> 00:09:17,750
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Get the ball and run!
+
+95
+00:09:20,450 --> 00:09:22,390
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You're so close.
+
+96
+00:09:22,590 --> 00:09:24,080
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What have you done?
+
+97
+00:09:24,290 --> 00:09:26,090
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Just nudge it over here.  I'm so sorry.
+
+98
+00:09:26,290 --> 00:09:28,850
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, I'm so, so, so sorry. I didn't mean...
+
+99
+00:09:29,060 --> 00:09:30,620
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You are dead.
+
+100
+00:09:30,830 --> 00:09:32,700
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}DJ, come on, come on!
+
+101
+00:09:34,400 --> 00:09:35,890
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder.  Come on, DJ.
+
+102
+00:09:36,100 --> 00:09:37,760
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Help. Chowder.
+
+103
+00:09:37,970 --> 00:09:39,700
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Help. Help.
+
+104
+00:09:40,910 --> 00:09:44,600
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You think you can terrorize my lawn?  No, I'm sorry.
+
+105
+00:09:44,810 --> 00:09:46,940
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You wanna be a dead person?  No. I love life.
+
+106
+00:09:47,150 --> 00:09:50,170
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}This place is not a playground for children.
+
+107
+00:09:50,380 --> 00:09:53,220
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Got it from now on.  This is my house!
+
+108
+00:09:53,420 --> 00:09:55,120
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Why can't you respect that?
+
+109
+00:09:55,320 --> 00:09:59,020
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Why can't you just stay away from?
+
+110
+00:11:20,010 --> 00:11:21,630
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Push.
+
+111
+00:11:49,570 --> 00:11:53,100
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No siren. Never a good sign.
+
+112
+00:12:03,150 --> 00:12:04,580
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm a murderer.
+
+113
+00:12:04,920 --> 00:12:07,390
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No, you're not.  I'm not?
+
+114
+00:12:07,590 --> 00:12:10,520
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}When it's an accident, they call it manslaughter.
+
+115
+00:12:11,020 --> 00:12:13,220
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I think I'm gonna throw up.
+
+116
+00:12:16,330 --> 00:12:18,160
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Great. Babysitter's here.
+
+117
+00:12:18,360 --> 00:12:20,630
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}See you, DJ.
+
+118
+00:12:21,170 --> 00:12:22,930
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Perfect.
+
+119
+00:12:25,540 --> 00:12:26,700
+
+
+120
+00:12:26,910 --> 00:12:28,200
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}DJ.
+
+121
+00:12:28,410 --> 00:12:32,370
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hey, DJ, I just saw an ambulance. Did I miss anything interesting?
+
+122
+00:12:35,210 --> 00:12:36,740
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hello?
+
+123
+00:12:38,220 --> 00:12:39,450
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Elizabeth...
+
+124
+00:12:40,350 --> 00:12:41,910
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...can I talk to you about something?
+
+125
+00:12:42,120 --> 00:12:45,090
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, yeah, of course you can, cantaloupe.
+
+126
+00:12:45,290 --> 00:12:48,090
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We are gonna have the bestest time.
+
+127
+00:12:48,290 --> 00:12:51,590
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Got tons of neat activities planned.  They already left.
+
+128
+00:12:51,800 --> 00:12:54,430
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}They did? They're gone?  Yes, and I need to talk to you.
+
+129
+00:12:54,630 --> 00:12:57,470
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}So the usual deal: Indoors by 9, in your room by 11.
+
+130
+00:12:57,670 --> 00:12:59,330
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Lights out, your call.  Elizabeth.
+
+131
+00:12:59,540 --> 00:13:01,800
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}And it's Zee.  "Zee"?
+
+132
+00:13:02,010 --> 00:13:05,670
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Now, listen up. I control the TV, the stereo and the phone.
+
+133
+00:13:05,880 --> 00:13:09,110
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I don't do board games, Shrinky Dinks or tuck-ins.
+
+134
+00:13:09,310 --> 00:13:11,510
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm not your mother. I'm not your friend.
+
+135
+00:13:11,720 --> 00:13:15,850
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Don't talk to me like I'm a baby, okay? I am practically a grownup.
+
+136
+00:13:16,050 --> 00:13:18,680
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I don't even need you here, Elizabeth.
+
+137
+00:13:27,570 --> 00:13:31,090
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Gosh, DJ, why'd you break that?  But I didn't.
+
+138
+00:13:31,300 --> 00:13:34,000
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah, let me ask you something. Who are they gonna believe?
+
+139
+00:13:34,210 --> 00:13:36,140
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Go to your room.  Fine.
+
+140
+00:13:39,980 --> 00:13:41,470
+
+
+141
+00:15:18,540 --> 00:15:19,910
+
+
+142
+00:15:26,850 --> 00:15:28,510
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hello?
+
+143
+00:15:30,220 --> 00:15:31,690
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hello?
+
+144
+00:15:35,730 --> 00:15:37,320
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hello?
+
+145
+00:15:37,530 --> 00:15:40,120
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah, very funny. See how you like it.
+
+146
+00:16:17,670 --> 00:16:20,370
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Happy Halloween, doofus.
+
+147
+00:16:21,370 --> 00:16:22,840
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Nice one, Bones.
+
+148
+00:16:23,040 --> 00:16:25,510
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Look at his face. That's funny.
+
+149
+00:16:26,440 --> 00:16:29,680
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You're not supposed to have friends over. Who's this?
+
+150
+00:16:29,880 --> 00:16:31,280
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}This is Bones.  What's up?
+
+151
+00:16:31,480 --> 00:16:33,040
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}He's in a band.  That's right.
+
+152
+00:16:33,250 --> 00:16:37,380
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}And, anyway, cantaloupe, let's not open up the rulebook, okay?
+
+153
+00:16:37,590 --> 00:16:39,960
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Since you're up way past your bedtime.
+
+154
+00:16:40,160 --> 00:16:43,060
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No, no, no, this is different. Listen.
+
+155
+00:16:51,300 --> 00:16:54,500
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You called the neighbors. Good for you.
+
+156
+00:16:54,710 --> 00:16:56,370
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I used star-69. He called me.
+
+157
+00:16:56,570 --> 00:16:58,300
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Who called you?  Nebbercracker.
+
+158
+00:16:58,740 --> 00:17:00,870
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}P.S., he died today.
+
+159
+00:17:01,080 --> 00:17:02,380
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You lie.  Do not.
+
+160
+00:17:02,580 --> 00:17:05,280
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}He died, and now I'm getting phone calls from his house.
+
+161
+00:17:06,820 --> 00:17:09,910
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}A phone call from beyond the grave.
+
+162
+00:17:14,490 --> 00:17:17,830
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Guys, come on. I'm serious.
+
+163
+00:17:18,030 --> 00:17:20,020
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, he's serious. Did you know he was serious?
+
+164
+00:17:20,230 --> 00:17:24,400
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come on, man, give her back.  Oh, "her"? You mind?
+
+165
+00:17:24,600 --> 00:17:26,500
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, come on. Gross.
+
+166
+00:17:26,700 --> 00:17:29,400
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come on, Bones.  Wait, hold on, dude. I th...
+
+167
+00:17:29,610 --> 00:17:32,740
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}She's having trouble breathing. Might have something in her throat.
+
+168
+00:17:32,940 --> 00:17:34,240
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}All right, I'll look into it.
+
+169
+00:17:34,450 --> 00:17:36,710
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No. Elizabeth. No.  Okay, Bones, knock it off.
+
+170
+00:17:36,910 --> 00:17:39,710
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Downstairs, now.
+
+171
+00:17:40,180 --> 00:17:43,380
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Sorry, kid, can't play anymore.
+
+172
+00:17:45,360 --> 00:17:47,550
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You are so funny.
+
+173
+00:17:47,760 --> 00:17:50,690
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I know. It's like I don't even try and it just happens.
+
+174
+00:18:14,390 --> 00:18:16,790
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}God, stop doing this.
+
+175
+00:18:19,160 --> 00:18:21,750
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, yeah? What you gonna do?
+
+176
+00:18:23,530 --> 00:18:26,660
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Homicide.  Chowder, where are your parents?
+
+177
+00:18:26,860 --> 00:18:28,130
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}My dad's at the pharmacy...
+
+178
+00:18:28,330 --> 00:18:30,860
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...and my mom's at the movies with her personal trainer.
+
+179
+00:18:31,070 --> 00:18:34,440
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Meet me at the Danger Zone now.  Fine.
+
+180
+00:18:35,470 --> 00:18:40,670
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Bones, I said, knock it off.  Come on, man.
+
+181
+00:18:40,880 --> 00:18:43,070
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No, I'm creeped out.
+
+182
+00:18:44,380 --> 00:18:46,850
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You know, I saw an ambulance here today.
+
+183
+00:18:47,050 --> 00:18:48,020
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}So?
+
+184
+00:18:48,220 --> 00:18:52,180
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}So maybe Nebbercracker really did die.
+
+185
+00:18:52,390 --> 00:18:55,590
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We should be so lucky. The guy is evil.
+
+186
+00:18:55,790 --> 00:18:58,190
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No, he's just a crotchety old dude.
+
+187
+00:18:58,400 --> 00:19:01,230
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, really, Zee?
+
+188
+00:19:01,630 --> 00:19:07,300
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}When I was 10 years old, I had a kite. Awesome kite.
+
+189
+00:19:07,510 --> 00:19:10,960
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I could fly it so high you couldn't see it.
+
+190
+00:19:11,180 --> 00:19:14,700
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}One day, it crashed down.
+
+191
+00:19:14,910 --> 00:19:19,870
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I followed the string and it ended right over there...
+
+192
+00:19:20,080 --> 00:19:22,610
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...across the street, right at the edge of his lawn.
+
+193
+00:19:29,990 --> 00:19:31,720
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Did he take your kite?
+
+194
+00:19:31,930 --> 00:19:35,230
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah, he takes whatever lands on his lawn.
+
+195
+00:19:35,430 --> 00:19:37,400
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}But that's not the point.
+
+196
+00:19:37,600 --> 00:19:42,200
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}The point is, is that I saw him talking to his house...
+
+197
+00:19:42,410 --> 00:19:45,570
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...and kissing it.
+
+198
+00:19:46,910 --> 00:19:48,170
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Besides...
+
+199
+00:19:48,680 --> 00:19:50,610
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...everybody knows what he did to his wife.
+
+200
+00:19:50,820 --> 00:19:53,220
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Why? What? What did he do to her?
+
+201
+00:19:53,620 --> 00:19:58,150
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}He ate her.  Bones. Get off. Stop it!
+
+202
+00:19:59,260 --> 00:20:01,620
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Bones, enough.  Come on, Zee.
+
+203
+00:20:01,830 --> 00:20:03,620
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Bones, I'm so sick of you.
+
+204
+00:20:03,830 --> 00:20:06,390
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I was just...  You have no respect for women.
+
+205
+00:20:06,600 --> 00:20:08,160
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What? What does that mean?
+
+206
+00:20:08,370 --> 00:20:09,660
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Get out.
+
+207
+00:20:10,770 --> 00:20:11,960
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Fine.
+
+208
+00:20:16,770 --> 00:20:18,170
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Prude.
+
+209
+00:20:25,680 --> 00:20:27,840
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What are you looking at?
+
+210
+00:20:29,290 --> 00:20:31,810
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Nebbercracker.
+
+211
+00:20:51,640 --> 00:20:53,870
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You really are dead, aren't you?
+
+212
+00:20:59,780 --> 00:21:02,580
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm on your lawn, Nebbercracker.
+
+213
+00:21:03,220 --> 00:21:06,620
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What are you gonna do about it, Nebbercracker?
+
+214
+00:21:07,990 --> 00:21:11,860
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Nebber-snapper-flipper-dipper...
+
+215
+00:21:23,970 --> 00:21:25,940
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}My awesome kite.
+
+216
+00:22:16,760 --> 00:22:18,520
+
+
+217
+00:22:18,760 --> 00:22:21,230
+
+
+218
+00:22:27,940 --> 00:22:29,000
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder.
+
+219
+00:22:30,910 --> 00:22:31,970
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder.
+
+220
+00:22:37,510 --> 00:22:39,110
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder?
+
+221
+00:22:40,180 --> 00:22:41,740
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder.
+
+222
+00:22:53,100 --> 00:22:54,260
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Heat seeker.
+
+223
+00:22:54,470 --> 00:22:56,370
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder, what are you doing?
+
+224
+00:22:57,900 --> 00:22:58,890
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Shut up.
+
+225
+00:22:59,200 --> 00:23:00,190
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What?
+
+226
+00:23:00,640 --> 00:23:02,800
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Nebbercracker's back from the dead.
+
+227
+00:23:03,010 --> 00:23:05,800
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No way.  Yeah.
+
+228
+00:23:06,010 --> 00:23:09,570
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}They leave the keys in here. You dare me?
+
+229
+00:23:09,780 --> 00:23:12,440
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder, you're not listening to me.
+
+230
+00:23:12,650 --> 00:23:15,740
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Nebbercracker's haunting me, all right? His blood is on my hands.
+
+231
+00:23:16,120 --> 00:23:18,680
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}And now he's coming back for revenge.
+
+232
+00:23:18,890 --> 00:23:21,620
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You're really crazy right now. Have you noticed that?
+
+233
+00:23:22,260 --> 00:23:25,660
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I think you're just freaking out because you killed a guy today.
+
+234
+00:23:25,860 --> 00:23:27,760
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Life goes on.
+
+235
+00:23:28,270 --> 00:23:30,260
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}For you.
+
+236
+00:23:30,470 --> 00:23:34,130
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Try and relax. Be cool, like me.
+
+237
+00:23:35,370 --> 00:23:37,270
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder, what are you doing?
+
+238
+00:23:37,470 --> 00:23:38,740
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Make it stop.
+
+239
+00:23:39,640 --> 00:23:42,240
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Quit screwing around.
+
+240
+00:23:42,650 --> 00:23:44,440
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I need your help.
+
+241
+00:23:44,650 --> 00:23:45,880
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Fine.
+
+242
+00:23:46,350 --> 00:23:47,680
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You want my help?
+
+243
+00:23:47,890 --> 00:23:50,380
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah.  I got three words for you:
+
+244
+00:23:50,590 --> 00:23:54,110
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}"Trick or treat."
+
+245
+00:23:56,390 --> 00:23:59,560
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Okay. Whatever. Let's go.
+
+246
+00:24:03,700 --> 00:24:05,220
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hold on.
+
+247
+00:24:09,540 --> 00:24:11,130
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder, come on.
+
+248
+00:24:18,510 --> 00:24:20,510
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}The haunting is subtle...
+
+249
+00:24:21,080 --> 00:24:22,450
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...yet really, really boring.
+
+250
+00:24:22,650 --> 00:24:24,620
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Can I go home now?  Chowder, he'll hear you.
+
+251
+00:24:24,820 --> 00:24:26,220
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}DJ...
+
+252
+00:24:27,320 --> 00:24:30,990
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...this is why nobody will sit next to us at lunch.
+
+253
+00:24:31,190 --> 00:24:35,030
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'll go Ding Dong Ditch the house and you'll see. No ghost.
+
+254
+00:24:35,230 --> 00:24:36,890
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder, stop, please.
+
+255
+00:24:37,100 --> 00:24:38,120
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder, I'm serious.
+
+256
+00:24:38,700 --> 00:24:41,070
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder, come back. Come back here, please, Chowder.
+
+257
+00:24:41,270 --> 00:24:42,760
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come on.
+
+258
+00:24:50,080 --> 00:24:52,340
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder. Come back.
+
+259
+00:24:57,850 --> 00:25:01,620
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, no. A bottle.  Chowder, put that down.
+
+260
+00:25:01,820 --> 00:25:04,320
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come back, please.  Bottle.
+
+261
+00:25:23,880 --> 00:25:25,540
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hey, DJ, who am I?
+
+262
+00:25:25,920 --> 00:25:28,180
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Get off my lawn.
+
+263
+00:25:28,550 --> 00:25:29,920
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Don't. Come on.
+
+264
+00:26:05,990 --> 00:26:08,250
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Run. Chowder, get out of there.
+
+265
+00:26:08,460 --> 00:26:09,950
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder, come here.  Mommy.
+
+266
+00:26:10,160 --> 00:26:11,250
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}This way. This way.
+
+267
+00:26:11,460 --> 00:26:12,590
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Help.
+
+268
+00:26:12,800 --> 00:26:15,060
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come on, Chowder! Chowder, this way!
+
+269
+00:26:23,910 --> 00:26:25,600
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Don't look back.
+
+270
+00:26:27,940 --> 00:26:29,880
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I looked back.
+
+271
+00:26:44,190 --> 00:26:45,890
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Bones?
+
+272
+00:26:46,090 --> 00:26:47,580
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Coming.
+
+273
+00:26:48,700 --> 00:26:52,220
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Don't even think about crawling back here...
+
+274
+00:26:54,240 --> 00:26:56,260
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Trick or treat.
+
+275
+00:27:03,680 --> 00:27:04,670
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What?
+
+276
+00:27:06,110 --> 00:27:07,170
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Good morning, ma'am.
+
+277
+00:27:07,380 --> 00:27:10,010
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You witnessed a simulation of what you'll face this evening.
+
+278
+00:27:10,220 --> 00:27:12,910
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Studies show that households that run out of candy...
+
+279
+00:27:13,120 --> 00:27:16,110
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...are 55 percent more likely to be TP'd.
+
+280
+00:27:16,320 --> 00:27:17,920
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}To help avert this tragedy...
+
+281
+00:27:18,130 --> 00:27:21,430
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...l'm here selling Halloween candy for my school, Westbrook Prep.
+
+282
+00:27:21,630 --> 00:27:25,000
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Good school. I got kicked out of there.
+
+283
+00:27:25,200 --> 00:27:27,360
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Now, what do you want?
+
+284
+00:27:27,600 --> 00:27:31,600
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Just trying to get a head start on life and secure a successful future.
+
+285
+00:27:31,910 --> 00:27:34,400
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You want a successful future?
+
+286
+00:27:34,610 --> 00:27:37,080
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}When a guy with tattoos comes up to the drive-through...
+
+287
+00:27:37,280 --> 00:27:40,980
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...give him his burger, not your phone number.
+
+288
+00:27:41,350 --> 00:27:44,150
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Thank you for the advice. I'll be sure to make a note of it.
+
+289
+00:27:44,350 --> 00:27:49,310
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}But back to business. Eggs, shaving cream, toilet paper.
+
+290
+00:27:49,660 --> 00:27:53,720
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Without candy, I'm afraid your house is a bull's-eye with shingles.
+
+291
+00:27:53,930 --> 00:27:57,300
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Nice try. It's not my house.
+
+292
+00:27:57,500 --> 00:27:58,520
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Babysitter?
+
+293
+00:27:59,970 --> 00:28:01,400
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Okay, let's cut the crap.
+
+294
+00:28:01,600 --> 00:28:05,900
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Maybe the parents you work for left you $40 in emergency money.
+
+295
+00:28:06,110 --> 00:28:08,040
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Maybe they left me 30.
+
+296
+00:28:08,510 --> 00:28:12,950
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Maybe you give me 20, I write a receipt for 30 and you pocket 10.
+
+297
+00:28:13,150 --> 00:28:14,140
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Maybe.
+
+298
+00:28:14,350 --> 00:28:18,480
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}And I want two extra bags of peanut clusters.
+
+299
+00:28:18,690 --> 00:28:22,590
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}One bag and I'll toss in a licorice whip.
+
+300
+00:28:23,660 --> 00:28:24,650
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You're good.
+
+301
+00:28:36,340 --> 00:28:38,970
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Eight a.m. No detectable movement.
+
+302
+00:28:39,170 --> 00:28:40,870
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No detectable movement.
+
+303
+00:28:41,810 --> 00:28:44,800
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hey, DJ, I brought you some chocolate.
+
+304
+00:28:47,980 --> 00:28:49,350
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Cover blown?
+
+305
+00:28:57,060 --> 00:28:58,720
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No detectable movement.
+
+306
+00:28:58,930 --> 00:29:01,050
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What are you two weirdoes up to?
+
+307
+00:29:01,260 --> 00:29:02,560
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, nothing.
+
+308
+00:29:02,760 --> 00:29:05,730
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Just something in the house across the street just tried to eat us.
+
+309
+00:29:05,930 --> 00:29:09,430
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah. We've been watching all night. We haven't even left this room once.
+
+310
+00:29:09,640 --> 00:29:12,270
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Not even to go to the bathroom. Don't drink that.
+
+311
+00:29:12,470 --> 00:29:14,840
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, gross.
+
+312
+00:29:15,040 --> 00:29:17,140
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Whatever disease you guys have...
+
+313
+00:29:17,350 --> 00:29:20,370
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...l'm sure it's got letters and that they make pills for it.
+
+314
+00:29:20,580 --> 00:29:24,250
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Zee, it's true. There's something evil going on across the street.
+
+315
+00:29:24,450 --> 00:29:26,780
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}That's excellent. I'm really happy for you.
+
+316
+00:29:26,990 --> 00:29:32,220
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Anyway, have you two astronomers seen Bones?
+
+317
+00:29:32,430 --> 00:29:34,900
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}He left last night unexpectedly...
+
+318
+00:29:36,330 --> 00:29:38,490
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...and he never came back.
+
+319
+00:29:38,700 --> 00:29:39,930
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Never came back?
+
+320
+00:29:42,070 --> 00:29:44,600
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Bottle.  Of course.
+
+321
+00:29:44,810 --> 00:29:47,970
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, okay, you know what? I don't have time for this.
+
+322
+00:29:48,180 --> 00:29:50,800
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Listen, Zee, I don't know how to tell you this...
+
+323
+00:29:51,010 --> 00:29:53,450
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Your boyfriend has most likely been eaten alive.
+
+324
+00:29:55,050 --> 00:29:57,420
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Sherry Klausen.
+
+325
+00:29:57,790 --> 00:29:58,840
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I gotta go.
+
+326
+00:29:59,050 --> 00:30:00,250
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Breakfast.
+
+327
+00:30:00,460 --> 00:30:02,750
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Happy Halloween, losers.
+
+328
+00:30:26,210 --> 00:30:27,880
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hello.
+
+329
+00:30:28,080 --> 00:30:29,110
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What?
+
+330
+00:30:29,680 --> 00:30:30,710
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What is it?
+
+331
+00:30:30,920 --> 00:30:32,150
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, nothing.
+
+332
+00:30:32,350 --> 00:30:33,820
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Let me see.
+
+333
+00:30:47,070 --> 00:30:48,040
+
+
+334
+00:30:53,540 --> 00:30:55,480
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, no.  Oh, no.
+
+335
+00:30:55,680 --> 00:30:58,300
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No. No. Hey.  Hey, wait. Hey.
+
+336
+00:30:58,510 --> 00:31:00,540
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}DJ, that's your phone.
+
+337
+00:31:00,750 --> 00:31:02,810
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No, stop.  Girl. Hey.
+
+338
+00:31:03,020 --> 00:31:04,880
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Don't go in there.  Hold it.
+
+339
+00:31:05,090 --> 00:31:06,080
+
+
+340
+00:31:06,290 --> 00:31:07,350
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Don't go any further.
+
+341
+00:31:07,720 --> 00:31:09,990
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come here.  Yes, over here.
+
+342
+00:31:11,530 --> 00:31:14,190
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Are you guys mentally challenged?
+
+343
+00:31:14,400 --> 00:31:17,890
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}If you are, I'm certified to teach you baseball.
+
+344
+00:31:18,830 --> 00:31:20,820
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Detectable movement.
+
+345
+00:31:30,580 --> 00:31:33,170
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What do we do? What do we do?  Come on.
+
+346
+00:31:36,080 --> 00:31:37,610
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Guys.
+
+347
+00:31:38,590 --> 00:31:40,250
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Run, Chowder.  I'm running.
+
+348
+00:31:41,820 --> 00:31:43,620
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Help, please.
+
+349
+00:31:45,890 --> 00:31:47,450
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Got her.  No, I got her.
+
+350
+00:31:49,460 --> 00:31:51,230
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hello?
+
+351
+00:31:56,870 --> 00:31:58,810
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hey.  Oh, my God.
+
+352
+00:31:59,010 --> 00:32:03,470
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}There's an angry dad on the phone looking for the one called Chowder.
+
+353
+00:32:05,910 --> 00:32:07,040
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hello?
+
+354
+00:32:07,250 --> 00:32:09,580
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Losers, I'm talking to you.
+
+355
+00:32:13,620 --> 00:32:15,450
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}He's worried about you.
+
+356
+00:32:15,660 --> 00:32:17,490
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}He should be.
+
+357
+00:32:18,030 --> 00:32:21,520
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Start explaining.  All right, the house, it tried to eat us.
+
+358
+00:32:21,730 --> 00:32:24,820
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Stop explaining, I've had enough.  Wait, wait, where are you going?
+
+359
+00:32:25,030 --> 00:32:27,590
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}To see what's happening with that stupid house of yours.
+
+360
+00:32:27,800 --> 00:32:30,400
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No, no, no. You can't.  What is your problem?
+
+361
+00:32:32,010 --> 00:32:35,270
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Puberty. Yeah, I'm having lots and lots of puberty.
+
+362
+00:32:38,650 --> 00:32:40,810
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No more Mountain Dew.  Right.
+
+363
+00:32:41,020 --> 00:32:42,110
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm going to find Bones.
+
+364
+00:32:42,320 --> 00:32:44,980
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}All right, you have fun. Don't worry about us, we'll be fine.
+
+365
+00:32:45,190 --> 00:32:48,250
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}And you tell him I said hey, okay? Safe driving.
+
+366
+00:32:48,590 --> 00:32:50,220
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}See you.
+
+367
+00:32:53,690 --> 00:32:54,850
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, hi.
+
+368
+00:32:55,060 --> 00:32:56,830
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You wanna tell me what's going on?
+
+369
+00:32:57,030 --> 00:32:59,300
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, yeah. I made the whole puberty thing up.
+
+370
+00:33:00,800 --> 00:33:03,500
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hi, I'm JD. DJ.
+
+371
+00:33:05,810 --> 00:33:09,210
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yes, Dad, I meant to call you, but I forgot.
+
+372
+00:33:09,410 --> 00:33:12,070
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Okay, I'm sorry.
+
+373
+00:33:12,280 --> 00:33:14,180
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Okay.
+
+374
+00:33:14,380 --> 00:33:16,210
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Absolutely.
+
+375
+00:33:16,420 --> 00:33:17,780
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Affirmative.
+
+376
+00:33:17,990 --> 00:33:19,380
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Okay, love you. Bye.  Yeah.
+
+377
+00:33:19,590 --> 00:33:24,520
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}And this is our little observation post...
+
+378
+00:33:25,230 --> 00:33:27,490
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...such as it were.
+
+379
+00:33:28,030 --> 00:33:29,660
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah, posters are stupid.
+
+380
+00:33:29,860 --> 00:33:32,330
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I was gonna tear them down and put up some art.
+
+381
+00:33:32,530 --> 00:33:35,660
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Well, Dad, why don't you kiss my hairy butt?
+
+382
+00:33:35,870 --> 00:33:38,030
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hey, DJ, you got any beer?
+
+383
+00:33:38,540 --> 00:33:40,060
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Well, hello there.
+
+384
+00:33:40,270 --> 00:33:41,430
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}This is Chowder.
+
+385
+00:33:41,640 --> 00:33:42,900
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Charles, to the ladies.
+
+386
+00:33:43,110 --> 00:33:44,580
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Jenny Bennett.
+
+387
+00:33:44,780 --> 00:33:46,910
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Two-term class president at Westbrook Prep.
+
+388
+00:33:47,110 --> 00:33:50,610
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}That's a tough school to get into.  Yeah, I got in, but decided not to go.
+
+389
+00:33:51,080 --> 00:33:53,450
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It's a girls' school.
+
+390
+00:33:55,590 --> 00:33:58,220
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Which is why I didn't.
+
+391
+00:33:59,030 --> 00:34:02,050
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You know, there's a... There's a great taco stand near there.
+
+392
+00:34:02,260 --> 00:34:03,230
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I hate Mexican food.
+
+393
+00:34:03,430 --> 00:34:04,900
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Me too.  Me too.
+
+394
+00:34:10,570 --> 00:34:12,900
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Fascinating, isn't it?
+
+395
+00:34:13,110 --> 00:34:15,600
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Just sits there waiting...
+
+396
+00:34:16,710 --> 00:34:19,240
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...mocking us with its...
+
+397
+00:34:20,750 --> 00:34:22,040
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...houseness.
+
+398
+00:34:22,350 --> 00:34:24,340
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}May I please use your phone?  Yeah, sure.
+
+399
+00:34:24,550 --> 00:34:25,610
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Here. Who you calling?
+
+400
+00:34:25,820 --> 00:34:26,910
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}My mother.  Rude.
+
+401
+00:34:27,120 --> 00:34:28,680
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}She's probably not gonna believe you.
+
+402
+00:34:28,890 --> 00:34:30,950
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It's too much for the adult mind to comprehend.
+
+403
+00:34:32,860 --> 00:34:37,460
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Is this pee? Because if it is, that's really gross.
+
+404
+00:34:38,030 --> 00:34:40,230
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It's...  DJ?
+
+405
+00:34:40,430 --> 00:34:42,270
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You pee in bottles?
+
+406
+00:34:42,470 --> 00:34:44,600
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What are you talking about? That one's your pee.
+
+407
+00:34:44,810 --> 00:34:45,790
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It's yours.  It's his.
+
+408
+00:34:46,010 --> 00:34:47,700
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}May I speak with Allison?  Unsanitary.
+
+409
+00:34:47,910 --> 00:34:49,810
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Her daughter. Thank you.  It's his pee.
+
+410
+00:34:50,010 --> 00:34:51,070
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Excuse me.
+
+411
+00:34:51,280 --> 00:34:55,980
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I was selling chocolates in Mayville, and, well, it's kind of confusing.
+
+412
+00:34:58,120 --> 00:35:01,280
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}So you hate Mexican food, huh?
+
+413
+00:35:01,490 --> 00:35:02,850
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah. You too, huh?
+
+414
+00:35:03,220 --> 00:35:06,390
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah, in fact, you might say I started hating it first.
+
+415
+00:35:06,590 --> 00:35:09,290
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Outside in front of the house?
+
+416
+00:35:09,660 --> 00:35:12,530
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Fine. Let's get technical.  Okay.
+
+417
+00:35:12,730 --> 00:35:14,670
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I started hating it through the telescope.
+
+418
+00:35:14,870 --> 00:35:16,860
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Can't call dibs on a girl through a telescope.
+
+419
+00:35:17,070 --> 00:35:18,560
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You can't call dibs on a girl.
+
+420
+00:35:18,770 --> 00:35:20,300
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Just did.  Me too.
+
+421
+00:35:20,510 --> 00:35:21,740
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}She didn't believe me.
+
+422
+00:35:21,940 --> 00:35:24,540
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Authority can be so:
+
+423
+00:35:30,950 --> 00:35:34,440
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Okay. Normally I don't spend time with guys like you.
+
+424
+00:35:34,890 --> 00:35:39,350
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}But a house just tried to eat me, so you've got one hour.
+
+425
+00:35:44,460 --> 00:35:46,960
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, a puppy.
+
+426
+00:35:54,140 --> 00:35:55,970
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Didn't see that coming.
+
+427
+00:35:56,580 --> 00:35:58,200
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Okay...
+
+428
+00:35:58,880 --> 00:36:01,070
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...I think it's time to call the police.
+
+429
+00:36:09,120 --> 00:36:11,750
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Do you realize what's gonna happen tonight?
+
+430
+00:36:11,960 --> 00:36:14,820
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hundreds of kids walking right up to that house.
+
+431
+00:36:15,030 --> 00:36:18,000
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Wait, wait, wait. Come on. Guys, I think we're overreacting.
+
+432
+00:36:18,200 --> 00:36:19,160
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Think about it.
+
+433
+00:36:19,370 --> 00:36:23,670
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Only a total moron would walk up to old man Nebbercracker's house.
+
+434
+00:36:29,340 --> 00:36:30,330
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hey, my ball.  Chowder.
+
+435
+00:36:30,540 --> 00:36:31,740
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No.
+
+436
+00:36:38,880 --> 00:36:40,880
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It's gonna be a bloodbath.
+
+437
+00:36:43,320 --> 00:36:44,980
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Good news. The cops are here.
+
+438
+00:36:45,730 --> 00:36:47,490
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}All right, kids, this better be good.
+
+439
+00:36:47,690 --> 00:36:51,360
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I was in the forest wrestling with a bear claw when we got the call.
+
+440
+00:36:55,630 --> 00:36:57,230
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I was eating a doughnut.
+
+441
+00:36:57,970 --> 00:37:01,030
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}All three of you, step to the car now.
+
+442
+00:37:01,240 --> 00:37:02,870
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}My ears.  They're at the car.
+
+443
+00:37:03,080 --> 00:37:05,700
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}He's a rookie. First week on the job.
+
+444
+00:37:05,910 --> 00:37:07,470
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Officer, we have reason to believe...
+
+445
+00:37:07,680 --> 00:37:09,840
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...there's a dangerous creature inside that house.
+
+446
+00:37:10,050 --> 00:37:11,910
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It may have killed a man.  And a dog.
+
+447
+00:37:12,120 --> 00:37:14,710
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Doggy down? We've got a situation.
+
+448
+00:37:14,920 --> 00:37:17,410
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We've got a situation.  What are you doing?
+
+449
+00:37:17,620 --> 00:37:19,590
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Calling for backup. Didn't you hear the kid?
+
+450
+00:37:19,790 --> 00:37:21,820
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}There's a dangerous creature inside that house.
+
+451
+00:37:22,030 --> 00:37:25,830
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We don't have backup. It's just Judy at the station.
+
+452
+00:37:26,170 --> 00:37:27,260
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}And this is no situation.
+
+453
+00:37:27,470 --> 00:37:30,490
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It's just a couple Tater Tots hopped up on too many Pixy Stix.
+
+454
+00:37:30,700 --> 00:37:32,730
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I bet you the dead dog would beg to differ.
+
+455
+00:37:32,940 --> 00:37:34,340
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What was that?
+
+456
+00:37:34,540 --> 00:37:35,870
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Nothing.
+
+457
+00:37:37,140 --> 00:37:38,440
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}All right. Time's up, peewees.
+
+458
+00:37:38,640 --> 00:37:41,910
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It's Halloween. We got things to do.  We do?
+
+459
+00:37:42,110 --> 00:37:45,710
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No, wait, you can't. All right, this thing, it has a mouth...
+
+460
+00:37:45,920 --> 00:37:49,220
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...and it comes out and grabs things and pulls them in and eats them.
+
+461
+00:37:49,420 --> 00:37:50,480
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah, like this:
+
+462
+00:37:50,690 --> 00:37:54,920
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Okay, okay, okay. The thing is...
+
+463
+00:37:55,130 --> 00:37:58,890
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...we're trying to make this sound more real than it normally would.
+
+464
+00:37:59,230 --> 00:38:01,760
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Problem is it sounds kind of not real.
+
+465
+00:38:01,970 --> 00:38:04,130
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}So we'll see you later.  No.
+
+466
+00:38:04,340 --> 00:38:08,430
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}All right. I'll show you. But if things get out of hand...
+
+467
+00:38:08,640 --> 00:38:10,470
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We'll aim for Bigfoot.
+
+468
+00:38:11,410 --> 00:38:12,670
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}That's loaded.
+
+469
+00:38:20,990 --> 00:38:22,450
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}He's hopping.
+
+470
+00:38:28,960 --> 00:38:30,430
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Smart house.
+
+471
+00:38:32,700 --> 00:38:33,860
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hey.
+
+472
+00:38:34,070 --> 00:38:36,930
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You... Both of you. Come here.
+
+473
+00:38:37,140 --> 00:38:38,330
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Bring it to the car.
+
+474
+00:38:38,540 --> 00:38:39,800
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come on.
+
+475
+00:38:40,010 --> 00:38:43,440
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm gonna forget you throwing that rock because that dance was pretty funny.
+
+476
+00:38:43,640 --> 00:38:46,040
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}But next time any of you mess with this guy's house...
+
+477
+00:38:46,250 --> 00:38:48,680
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...all three of you are going in the hole, you got it?
+
+478
+00:38:48,880 --> 00:38:50,610
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Now, I'll give you 10 seconds to march.
+
+479
+00:38:50,820 --> 00:38:52,180
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}But we need your help.
+
+480
+00:38:52,380 --> 00:38:54,380
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It's your job to help us.
+
+481
+00:38:54,590 --> 00:38:56,020
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}One.  Come on.
+
+482
+00:38:56,220 --> 00:38:57,750
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Two.
+
+483
+00:38:57,960 --> 00:38:59,120
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Three.
+
+484
+00:38:59,330 --> 00:39:00,380
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Four.
+
+485
+00:39:00,590 --> 00:39:02,030
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Five.
+
+486
+00:39:02,800 --> 00:39:03,850
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}That's tender.
+
+487
+00:39:04,060 --> 00:39:06,160
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}My house is right over there.
+
+488
+00:39:07,930 --> 00:39:10,090
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}So much for relying on the government.
+
+489
+00:39:10,300 --> 00:39:11,960
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah, I know. I hate the government.
+
+490
+00:39:12,170 --> 00:39:14,610
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Dude, we're screwed.  No, we're not.
+
+491
+00:39:14,810 --> 00:39:17,240
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We'll go to an expert.
+
+492
+00:39:19,380 --> 00:39:21,970
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You're looking at the three-time, tri-state...
+
+493
+00:39:22,180 --> 00:39:25,550
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...over-14 "Thou Art Dead" champion.
+
+494
+00:39:25,750 --> 00:39:29,190
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}His name is Reginald Skulinski. But they call him Skull.
+
+495
+00:39:29,390 --> 00:39:31,360
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Who's "they"?  Me and DJ.
+
+496
+00:39:31,560 --> 00:39:34,390
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah.  He's the smartest guy on earth.
+
+497
+00:39:34,760 --> 00:39:36,090
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}So let's go talk to him.
+
+498
+00:39:36,290 --> 00:39:38,820
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hey, Jenny, Jenny.  Hey, Jenny, Jenny, hold on. Hold up.
+
+499
+00:39:39,030 --> 00:39:41,000
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Skull is in the game zone right now.
+
+500
+00:39:41,200 --> 00:39:43,690
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You don't wanna mess with him when he's in the game zone.
+
+501
+00:39:44,040 --> 00:39:47,000
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Fine, so how long is he gonna be playing?
+
+502
+00:39:47,210 --> 00:39:48,930
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Die. Die.
+
+503
+00:39:50,040 --> 00:39:54,030
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Who knows? He once played for four days straight...
+
+504
+00:39:54,250 --> 00:39:58,340
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...on one quarter, a gallon of chocolate milk and an adult diaper.
+
+505
+00:39:58,550 --> 00:40:00,380
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}The man's a legend.
+
+506
+00:40:00,590 --> 00:40:03,680
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Well, if he's not coming out of the game zone, then we are going in.
+
+507
+00:40:03,890 --> 00:40:06,220
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What? Hey, what are you?  What? Jenny, no.
+
+508
+00:40:08,790 --> 00:40:11,350
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It's like you're not gonna... You're not gonna do it. Like...
+
+509
+00:40:11,560 --> 00:40:13,620
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You're gonna die. You're gonna die.
+
+510
+00:40:13,830 --> 00:40:14,920
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Watch out.
+
+511
+00:40:15,130 --> 00:40:17,430
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Did you see that? I just chopped off your head again.
+
+512
+00:40:17,640 --> 00:40:20,540
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Your head's rolling. You can't see it, your eyes are on your head.
+
+513
+00:40:20,740 --> 00:40:22,540
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Sir?  What?
+
+514
+00:40:22,740 --> 00:40:26,340
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm busy playing a video game without even looking at the screen.
+
+515
+00:40:26,680 --> 00:40:28,170
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What?
+
+516
+00:40:28,380 --> 00:40:30,280
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Old man Nebbercracker's house is possessed.
+
+517
+00:40:30,480 --> 00:40:33,040
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I need to know how to destroy it before it kills people.
+
+518
+00:40:33,250 --> 00:40:37,280
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Calm down. You make me wanna throw up in some tinfoil and eat it.
+
+519
+00:40:37,490 --> 00:40:40,080
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, you like the steel of my blade? It's so cold.
+
+520
+00:40:44,060 --> 00:40:46,460
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Possessed house, you say?
+
+521
+00:40:48,800 --> 00:40:52,600
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}In my travels to the video store and comic-book conventions...
+
+522
+00:40:52,800 --> 00:40:55,570
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...I've seen many strange and wondrous things.
+
+523
+00:40:55,770 --> 00:40:58,330
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}And I've heard tell of man-made structures...
+
+524
+00:40:58,540 --> 00:41:01,710
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...becoming possessed by a human soul...
+
+525
+00:41:01,950 --> 00:41:05,510
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...so that the spirit becomes merged with wood and brick...
+
+526
+00:41:05,720 --> 00:41:08,810
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...creating a rare form of monster...
+
+527
+00:41:09,020 --> 00:41:13,860
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...known as Domus mactabilis.
+
+528
+00:41:17,560 --> 00:41:20,190
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}The house is Mr. Nebbercracker.
+
+529
+00:41:20,400 --> 00:41:21,920
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We're its murderous enemies.
+
+530
+00:41:23,370 --> 00:41:25,300
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Have fun getting killed.
+
+531
+00:41:25,500 --> 00:41:27,600
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Run, coward.
+
+532
+00:41:28,410 --> 00:41:31,030
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Look at that blood.
+
+533
+00:41:31,440 --> 00:41:34,000
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}So how do we kill it?
+
+534
+00:41:34,210 --> 00:41:37,700
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You've gotta strike at the source of life: The heart.
+
+535
+00:41:38,850 --> 00:41:40,110
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}But houses don't have hearts.
+
+536
+00:41:40,320 --> 00:41:41,910
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yes!
+
+537
+00:41:43,760 --> 00:41:45,020
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, yeah.
+
+538
+00:41:45,220 --> 00:41:47,950
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah. You might be right about that.
+
+539
+00:41:50,030 --> 00:41:53,860
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Sorry, children, but I've got some very important business to take care of.
+
+540
+00:41:55,270 --> 00:41:57,530
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I won't be seeing you later.
+
+541
+00:42:05,880 --> 00:42:07,850
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Thou art dead.
+
+542
+00:42:08,050 --> 00:42:10,040
+
+
+543
+00:42:10,280 --> 00:42:12,010
+
+
+544
+00:42:17,160 --> 00:42:18,710
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}So we need to strike at the heart.
+
+545
+00:42:18,920 --> 00:42:22,590
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah, but where are we gonna find a heart inside a house?
+
+546
+00:42:25,300 --> 00:42:27,160
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Ever since Nebbercracker died...
+
+547
+00:42:27,370 --> 00:42:29,990
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...there's been smoke coming out of that chimney.
+
+548
+00:42:34,570 --> 00:42:37,170
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}The furnace. The furnace is the heart.
+
+549
+00:42:38,310 --> 00:42:41,370
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}If we wanna put out the fire, we're gonna have to go inside.
+
+550
+00:42:41,580 --> 00:42:43,980
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Without getting chewed to pieces.
+
+551
+00:42:44,180 --> 00:42:45,910
+
+
+552
+00:42:46,120 --> 00:42:48,020
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Dummy.  Hey, I was just doodling.
+
+553
+00:42:48,220 --> 00:42:50,880
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No, Chowder, this is it. First, we build a dummy.
+
+554
+00:42:51,090 --> 00:42:53,580
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We fill the dummy with a few gallons of cold medicine.
+
+555
+00:42:53,790 --> 00:42:56,320
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Borrow it from your dad's pharmacy.  Say what?
+
+556
+00:42:56,530 --> 00:42:59,520
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Feed the dummy to the house, house eats the medicine, goes to sleep.
+
+557
+00:42:59,730 --> 00:43:02,700
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Look at this.  We get in, douse the fire and get out.
+
+558
+00:43:06,640 --> 00:43:09,270
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Questions?  Yes, are you nuts?
+
+559
+00:43:09,470 --> 00:43:11,340
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I don't wanna steal drugs from my father...
+
+560
+00:43:11,540 --> 00:43:14,140
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...I don't wanna go inside a monster and I don't wanna die.
+
+561
+00:43:14,350 --> 00:43:17,210
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I say it's worth a shot.  Yes, I agree, let's do it.
+
+562
+00:43:17,420 --> 00:43:18,940
+
+
+563
+00:43:47,510 --> 00:43:50,610
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hey, but I wanted that one.
+
+564
+00:43:50,820 --> 00:43:53,080
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You've gotta be kidding me.  Yes.
+
+565
+00:44:22,050 --> 00:44:25,380
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder. Quiet.  Sorry.
+
+566
+00:44:31,860 --> 00:44:33,260
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Go.
+
+567
+00:44:42,300 --> 00:44:44,490
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Whoopsie-daisy.
+
+568
+00:44:52,580 --> 00:44:56,840
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}All right, little vacuum-cleaner dummy, I'm gonna move you into position.
+
+569
+00:44:58,020 --> 00:45:00,380
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You don't be scared.
+
+570
+00:45:00,580 --> 00:45:02,450
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}That's not how I trained you.
+
+571
+00:45:02,650 --> 00:45:04,350
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I love you, vacuum-cleaner dummy.
+
+572
+00:45:05,720 --> 00:45:07,350
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder, come on.
+
+573
+00:45:15,530 --> 00:45:17,020
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Okay.
+
+574
+00:45:26,210 --> 00:45:27,730
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yes.
+
+575
+00:45:29,950 --> 00:45:31,940
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Trick or treat.
+
+576
+00:45:33,250 --> 00:45:34,440
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Plug it in.
+
+577
+00:46:19,000 --> 00:46:20,900
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}So close.
+
+578
+00:46:25,470 --> 00:46:29,060
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Littering, loitering, vandalism, vagrancy...
+
+579
+00:46:29,270 --> 00:46:30,900
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}And treason.  No, not treason.
+
+580
+00:46:31,110 --> 00:46:32,970
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You sure? Because in the book...  I'm sure.
+
+581
+00:46:33,180 --> 00:46:35,340
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}All right, kids, out of the trash cans. Let's go.
+
+582
+00:46:35,550 --> 00:46:39,410
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come on. You heard the big guy. You see the light. Walk towards it.
+
+583
+00:46:40,380 --> 00:46:41,440
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come on, keep it moving.
+
+584
+00:46:41,650 --> 00:46:44,450
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}All right, drop your weapons.
+
+585
+00:46:44,650 --> 00:46:46,990
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Pass them to me. Come on.
+
+586
+00:46:48,890 --> 00:46:53,560
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I will shoot you.  Well, lookie we got here.
+
+587
+00:46:56,900 --> 00:46:58,990
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You stay here, I'm checking this out.
+
+588
+00:46:59,770 --> 00:47:02,800
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I am on it.
+
+589
+00:47:17,150 --> 00:47:20,680
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Y'all think something's funny? You testing me? Huh, tough girl?
+
+590
+00:47:20,890 --> 00:47:22,150
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You disrespecting the badge?
+
+591
+00:47:22,360 --> 00:47:25,690
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You don't want none of this. I'm telling you. Test me. Please.
+
+592
+00:47:25,900 --> 00:47:28,060
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Y'all wanna test me?
+
+593
+00:47:28,260 --> 00:47:29,790
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I am the police.
+
+594
+00:47:31,700 --> 00:47:34,190
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I know you're a thug. Them brown eyes...
+
+595
+00:47:34,400 --> 00:47:35,530
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I see it in your eyes.
+
+596
+00:47:35,740 --> 00:47:38,210
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}That's it. That is it.
+
+597
+00:47:38,410 --> 00:47:40,840
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You got something to say, Porky, huh?
+
+598
+00:47:41,040 --> 00:47:44,310
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}That's it, we're taking them in.  That's what I'm talking about.
+
+599
+00:47:44,510 --> 00:47:46,680
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Where we taking them?  To jail. Let's go.
+
+600
+00:47:46,880 --> 00:47:50,250
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You hear that? You guys are going to jail.
+
+601
+00:47:50,450 --> 00:47:52,440
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}But, officer, you've gotta believe us.
+
+602
+00:47:52,660 --> 00:47:54,820
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah, 2-percent, you got the right to shut up.
+
+603
+00:47:55,020 --> 00:47:58,430
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Okay, the house is a monster.  And to think I believed you.
+
+604
+00:47:58,630 --> 00:48:02,330
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hey, listen, I'm with you guys. My cousin's a cop in Milwaukee.
+
+605
+00:48:02,530 --> 00:48:05,160
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I mean, kind of a cop. He has a gun.
+
+606
+00:48:05,370 --> 00:48:08,270
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah. They're gonna love you downtown, Jughead.
+
+607
+00:48:11,170 --> 00:48:12,870
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We are supercops.
+
+608
+00:48:13,080 --> 00:48:15,340
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah. That's why I live in a condo.
+
+609
+00:48:15,550 --> 00:48:18,070
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Supercop. Super-duper-duper-cop. Super...
+
+610
+00:48:19,880 --> 00:48:22,480
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You hear that?  That's my stomach. I'm starving.
+
+611
+00:48:22,690 --> 00:48:26,350
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No, no. That sounds like the dangerous creature.
+
+612
+00:48:26,560 --> 00:48:29,860
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm gonna go check it out.  Oh, my gosh.
+
+613
+00:48:30,060 --> 00:48:33,290
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}This is like trying to wrangle a puppy. All right, I'll be back.
+
+614
+00:48:33,500 --> 00:48:34,760
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You guys, stop.  Hey, guys.
+
+615
+00:48:34,960 --> 00:48:37,590
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No. Get out of there.  No, don't go in there.
+
+616
+00:48:48,810 --> 00:48:50,180
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What?
+
+617
+00:48:52,580 --> 00:48:56,040
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I tell you. Super-roll.
+
+618
+00:48:57,620 --> 00:49:00,210
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Stop. Stop.  Hey. Hey. Come on.
+
+619
+00:49:00,420 --> 00:49:02,250
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You don't know what's up with that house.
+
+620
+00:49:06,500 --> 00:49:09,330
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Where you at, spooky creature?
+
+621
+00:49:09,530 --> 00:49:11,260
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm gonna find you.
+
+622
+00:49:16,270 --> 00:49:17,300
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Freeze...
+
+623
+00:49:17,540 --> 00:49:19,130
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...tree.
+
+624
+00:49:21,340 --> 00:49:23,780
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hey, what you doing? You can't do that.
+
+625
+00:49:23,980 --> 00:49:27,610
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Not to an officer, brother. That is illegal.
+
+626
+00:49:29,690 --> 00:49:32,620
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm coming, buddy.  Put me down!
+
+627
+00:49:32,820 --> 00:49:36,310
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm gonna go get backup.  I thought there was no backup.
+
+628
+00:49:36,530 --> 00:49:37,990
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm getting Judy.
+
+629
+00:49:40,330 --> 00:49:42,960
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Judy!
+
+630
+00:49:43,630 --> 00:49:45,660
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Help!
+
+631
+00:49:45,870 --> 00:49:47,270
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Mama!
+
+632
+00:49:51,510 --> 00:49:54,070
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, my God, oh, my God, oh, my God.
+
+633
+00:49:54,280 --> 00:49:57,510
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I think I'm having a stroke.  Just try to stay calm, okay?
+
+634
+00:49:57,710 --> 00:50:00,510
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We'll be all right if we just stay calm.
+
+635
+00:50:13,430 --> 00:50:15,450
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm too young to die!
+
+636
+00:50:24,570 --> 00:50:27,470
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Jenny. I've always loved you.
+
+637
+00:50:28,580 --> 00:50:30,550
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder!  Sorry.
+
+638
+00:50:30,950 --> 00:50:32,810
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Mama!
+
+639
+00:50:33,280 --> 00:50:35,250
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I can't look.
+
+640
+00:50:41,560 --> 00:50:43,960
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Guys, come on. Let's go.
+
+641
+00:51:25,830 --> 00:51:29,670
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We're dead. You've killed us and now we're dead.
+
+642
+00:51:29,870 --> 00:51:32,840
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I don't think the house knows that we're in here.
+
+643
+00:51:33,040 --> 00:51:35,530
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I bet it thinks we're still in the car.
+
+644
+00:51:35,740 --> 00:51:37,230
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Listen.
+
+645
+00:51:37,450 --> 00:51:39,680
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It sounds like it's sleeping.
+
+646
+00:51:40,050 --> 00:51:42,570
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}The only way that we're gonna get out of here alive...
+
+647
+00:51:42,780 --> 00:51:45,340
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...is if we find the heart, we put out the fire.
+
+648
+00:51:45,550 --> 00:51:47,890
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Maybe we should examine our other options.
+
+649
+00:51:48,090 --> 00:51:50,110
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Sure. Other option:
+
+650
+00:51:50,330 --> 00:51:53,620
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We wait here and do nothing until it wakes up and eats us.
+
+651
+00:51:54,600 --> 00:51:57,720
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Find the heart, put out the fire. Got it.
+
+652
+00:52:09,280 --> 00:52:12,440
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Explosives. That's so cool.
+
+653
+00:52:30,300 --> 00:52:32,820
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}He was watching me.  DJ.
+
+654
+00:52:34,670 --> 00:52:36,190
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Did you ever see a wife?
+
+655
+00:52:37,240 --> 00:52:39,710
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}People used to say he had one...
+
+656
+00:52:40,810 --> 00:52:43,240
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...but he fattened her up...
+
+657
+00:52:43,780 --> 00:52:45,750
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...and he ate her.
+
+658
+00:52:52,590 --> 00:52:55,390
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}"Demolition squad."
+
+659
+00:52:59,560 --> 00:53:01,390
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Sorry.
+
+660
+00:53:01,800 --> 00:53:03,320
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come on.
+
+661
+00:53:06,800 --> 00:53:08,000
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Be quiet.
+
+662
+00:53:08,200 --> 00:53:10,930
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Don't worry, I have a very light step.
+
+663
+00:53:19,450 --> 00:53:20,850
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}There. Right there. Shoot it.
+
+664
+00:54:01,690 --> 00:54:03,550
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What? I thought if I shot the heart, that...
+
+665
+00:54:03,760 --> 00:54:05,950
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}That's not the heart.  Then what is it?
+
+666
+00:54:06,160 --> 00:54:10,290
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Well, if those are the teeth and that's the tongue...
+
+667
+00:54:10,500 --> 00:54:12,800
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...then that must be the uvula.
+
+668
+00:54:16,040 --> 00:54:18,100
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}So it's a girl house.
+
+669
+00:54:18,310 --> 00:54:20,240
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What? No.
+
+670
+00:54:20,440 --> 00:54:24,000
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It stimulates the gag reflex. Everyone has a uvula.
+
+671
+00:54:24,210 --> 00:54:25,410
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Not me.
+
+672
+00:54:42,360 --> 00:54:43,920
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No.
+
+673
+00:54:48,240 --> 00:54:50,930
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Okay. Let's move.
+
+674
+00:54:56,210 --> 00:54:58,680
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We need to move quickly and quietly.
+
+675
+00:54:58,880 --> 00:55:00,310
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Don't touch anything.
+
+676
+00:55:00,510 --> 00:55:02,880
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}And stay together...
+
+677
+00:55:03,080 --> 00:55:04,950
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}DJ!  Wait.
+
+678
+00:55:05,150 --> 00:55:06,710
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}DJ.
+
+679
+00:55:11,990 --> 00:55:14,090
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'll save you.
+
+680
+00:55:27,880 --> 00:55:29,740
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder, knock it off.
+
+681
+00:55:29,940 --> 00:55:33,040
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Sorry. I thought you were... DJ!
+
+682
+00:55:33,250 --> 00:55:35,610
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder, it's a toy.  Oh, yeah.
+
+683
+00:55:35,820 --> 00:55:37,750
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Where's DJ?
+
+684
+00:55:37,950 --> 00:55:40,820
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}DJ.  Over here.
+
+685
+00:55:44,290 --> 00:55:46,820
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Look at all these toys.
+
+686
+00:55:48,460 --> 00:55:51,800
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}This must be where Nebbercracker kept his stash.
+
+687
+00:55:52,630 --> 00:55:54,400
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}"Stash."
+
+688
+00:55:55,740 --> 00:55:57,970
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I think you guys should have a look at this.
+
+689
+00:56:02,140 --> 00:56:06,370
+
+
+690
+00:56:17,120 --> 00:56:19,790
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}The key.  Come on, we don't have time for this.
+
+691
+00:56:19,990 --> 00:56:21,760
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah, we've gotta find a way out of here.
+
+692
+00:56:29,340 --> 00:56:31,330
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What are you doing?
+
+693
+00:56:40,550 --> 00:56:43,740
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We have a Ping-Pong table in our basement.
+
+694
+00:56:49,690 --> 00:56:50,850
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Constance.
+
+695
+00:56:51,060 --> 00:56:54,580
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Holy moly. He really did eat her.
+
+696
+00:56:54,790 --> 00:56:56,520
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Couldn't have.
+
+697
+00:56:56,730 --> 00:57:00,560
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Her whole body is buried in cement.
+
+698
+00:57:08,210 --> 00:57:10,300
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Look at all this stuff.
+
+699
+00:57:11,540 --> 00:57:15,340
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Why would he build her a shrine if he murdered her?
+
+700
+00:57:15,550 --> 00:57:20,140
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Maybe he just felt guilty or something. DJ, can we please get out of here?
+
+701
+00:57:23,490 --> 00:57:27,430
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I always knew you were hiding something, Mr. Nebbercracker.
+
+702
+00:57:30,960 --> 00:57:32,730
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}DJ.
+
+703
+00:57:35,370 --> 00:57:37,670
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Way to go, big nose.
+
+704
+00:57:48,720 --> 00:57:51,380
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It's awake.  Run!
+
+705
+00:57:58,790 --> 00:57:59,990
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hide.
+
+706
+00:58:19,680 --> 00:58:22,880
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hey, I know that sound.
+
+707
+00:58:26,490 --> 00:58:28,390
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}My ball.
+
+708
+00:58:28,590 --> 00:58:31,520
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Where are you going? Come here.
+
+709
+00:58:31,730 --> 00:58:35,420
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder, come back.  You get back here.
+
+710
+00:58:37,960 --> 00:58:39,160
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Gotcha.
+
+711
+00:58:42,540 --> 00:58:44,730
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Killer Slinkys!
+
+712
+00:58:46,270 --> 00:58:49,470
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder.  Leave me alone!
+
+713
+00:58:58,250 --> 00:59:01,710
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}DJ! Help!
+
+714
+00:59:04,660 --> 00:59:06,150
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, no.
+
+715
+00:59:13,530 --> 00:59:14,520
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Get off.
+
+716
+00:59:27,380 --> 00:59:28,940
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Jenny.
+
+717
+00:59:29,520 --> 00:59:30,540
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder.
+
+718
+00:59:34,520 --> 00:59:36,750
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come on, Chowder, grab on.
+
+719
+00:59:38,060 --> 00:59:39,620
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Gotcha.
+
+720
+00:59:41,460 --> 00:59:43,020
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}DJ, look out!
+
+721
+00:59:47,800 --> 00:59:49,270
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No!
+
+722
+00:59:49,970 --> 00:59:52,130
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}The uvula.
+
+723
+01:00:08,820 --> 01:00:11,520
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}DJ...  Chowder.
+
+724
+01:00:11,830 --> 01:00:13,730
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Mommy!
+
+725
+01:00:28,010 --> 01:00:29,740
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Gross.
+
+726
+01:00:30,510 --> 01:00:32,000
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Did we just get upchucked?
+
+727
+01:00:32,210 --> 01:00:35,410
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}The uvula, nature's emergency exit.
+
+728
+01:00:39,120 --> 01:00:43,080
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}That's it. Another great idea, DJ. Brilliant.
+
+729
+01:00:43,290 --> 01:00:44,720
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What do you want from me, Chowder?
+
+730
+01:00:44,920 --> 01:00:47,260
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I don't see you coming up with any big ideas.
+
+731
+01:00:47,460 --> 01:00:49,950
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, yeah? Yeah? Do you wanna hear my big idea?
+
+732
+01:00:50,160 --> 01:00:54,000
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm going home to make a pretzel sandwich. See you.
+
+733
+01:00:54,400 --> 01:00:57,160
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder, the house is still alive and you're gonna wuss out?
+
+734
+01:00:57,370 --> 01:01:00,170
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I risked my life for you. I stole drugs for you...
+
+735
+01:01:00,370 --> 01:01:02,570
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...and I could've died in there.  Yeah, me too.
+
+736
+01:01:02,780 --> 01:01:05,400
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You're the one that killed Nebbercracker in the first place.
+
+737
+01:01:05,610 --> 01:01:07,170
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Getting your ball back.  You guys.
+
+738
+01:01:07,380 --> 01:01:09,970
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Stop fighting. You're acting like babies.
+
+739
+01:01:10,180 --> 01:01:12,210
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We are babies.
+
+740
+01:01:12,420 --> 01:01:13,820
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What were we thinking?
+
+741
+01:01:14,020 --> 01:01:16,920
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We tried to put a house to sleep with cold medicine.
+
+742
+01:01:17,120 --> 01:01:20,060
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}How lame can you get?  Where are you going?
+
+743
+01:01:20,260 --> 01:01:23,060
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm going home. I suck.
+
+744
+01:01:25,870 --> 01:01:27,660
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}DJ.
+
+745
+01:01:28,400 --> 01:01:31,230
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}At least it's an ambulance.
+
+746
+01:01:34,310 --> 01:01:36,000
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}DJ?
+
+747
+01:01:54,690 --> 01:01:56,690
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It's a ghost.
+
+748
+01:01:57,860 --> 01:01:59,850
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Begone. Fie.
+
+749
+01:02:00,070 --> 01:02:03,830
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Begone yourself. Get away.
+
+750
+01:02:05,040 --> 01:02:06,700
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}He's not a ghost.
+
+751
+01:02:06,910 --> 01:02:09,670
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}He's not dead. I'm not a murderer.
+
+752
+01:02:10,140 --> 01:02:13,630
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Of course I'm not dead. Who said I was dead?
+
+753
+01:02:14,550 --> 01:02:16,450
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You'll be dead if you don't scram.
+
+754
+01:02:16,650 --> 01:02:18,480
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come on, DJ.  Let's hurry.
+
+755
+01:02:18,680 --> 01:02:22,090
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Don't you know what day this is?
+
+756
+01:02:24,620 --> 01:02:27,790
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm running out of time. I'm running out of time.
+
+757
+01:02:31,860 --> 01:02:33,460
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Honey...
+
+758
+01:02:34,830 --> 01:02:36,360
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...l'm home.
+
+759
+01:02:40,670 --> 01:02:42,300
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, look at you, dear.
+
+760
+01:02:43,510 --> 01:02:45,770
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Your shingles are all ruffled...
+
+761
+01:02:46,710 --> 01:02:49,240
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...and your windows are cracked.
+
+762
+01:02:51,820 --> 01:02:55,690
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, but it's no problem, sweetheart. It's no problem at all.
+
+763
+01:02:55,890 --> 01:02:58,950
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It's her. The house is her.
+
+764
+01:02:59,160 --> 01:03:00,920
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}DJ, what are you doing?  Wait. Come on.
+
+765
+01:03:01,130 --> 01:03:02,460
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come back.  Where you going?
+
+766
+01:03:02,660 --> 01:03:04,390
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Nothing paint and varnish can't handle.
+
+767
+01:03:04,600 --> 01:03:06,930
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Mr. Nebbercracker.
+
+768
+01:03:08,500 --> 01:03:09,830
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I know about Constance.
+
+769
+01:03:10,040 --> 01:03:11,560
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You what?
+
+770
+01:03:12,100 --> 01:03:14,500
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What do you know? You don't know anything.
+
+771
+01:03:19,910 --> 01:03:22,310
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You were in my house? You...
+
+772
+01:03:26,450 --> 01:03:28,610
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You didn't kill her, did you?
+
+773
+01:03:33,160 --> 01:03:35,920
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I love her so much.
+
+774
+01:03:44,070 --> 01:03:46,040
+
+
+775
+01:04:04,220 --> 01:04:05,750
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hello?
+
+776
+01:04:08,090 --> 01:04:09,860
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It's okay.
+
+777
+01:04:11,130 --> 01:04:13,390
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I can take you away from here.
+
+778
+01:04:13,600 --> 01:04:15,400
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Would you like that?
+
+779
+01:04:18,970 --> 01:04:20,530
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yes.
+
+780
+01:04:22,270 --> 01:04:24,170
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}There we go.
+
+781
+01:04:24,380 --> 01:04:26,170
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Won't be long now.
+
+782
+01:04:32,120 --> 01:04:33,350
+
+
+783
+01:04:33,550 --> 01:04:35,210
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}All right.
+
+784
+01:04:37,320 --> 01:04:39,310
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Okay, open your eyes.
+
+785
+01:04:40,930 --> 01:04:44,260
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Now, it's not much, I know, but just...  Darling.
+
+786
+01:04:50,300 --> 01:04:52,630
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Get away from my house!
+
+787
+01:04:52,840 --> 01:04:55,930
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm gonna rip them to bits.
+
+788
+01:04:57,210 --> 01:04:58,840
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Help.
+
+789
+01:04:59,040 --> 01:05:00,510
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Constance.  Help. Help.
+
+790
+01:05:00,710 --> 01:05:02,870
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What's wrong? Are you hurt?  Hurt?
+
+791
+01:05:03,080 --> 01:05:06,110
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yes, I'm hurt. Those criminals are attacking our house.
+
+792
+01:05:06,320 --> 01:05:07,510
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Trick or treat.  Now, now...
+
+793
+01:05:07,850 --> 01:05:10,720
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...they're just kids, dear.
+
+794
+01:05:10,920 --> 01:05:12,120
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It's Halloween.  No, no, no.
+
+795
+01:05:12,320 --> 01:05:14,690
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It's my house, and they're hurting me.
+
+796
+01:05:14,890 --> 01:05:18,060
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Constance, look at me. Look at me.
+
+797
+01:05:18,260 --> 01:05:23,030
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}As long as I'm here, I will never let anyone hurt you.
+
+798
+01:05:23,240 --> 01:05:24,430
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Constance.  Sucker.
+
+799
+01:05:24,640 --> 01:05:26,260
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You vandals.
+
+800
+01:05:26,470 --> 01:05:27,960
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Eat this.  You hooligans.
+
+801
+01:05:28,170 --> 01:05:30,640
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'll get you.  Constance, no!
+
+802
+01:05:44,760 --> 01:05:48,120
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}So I finished the house.
+
+803
+01:05:48,330 --> 01:05:51,090
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}She would've wanted that.
+
+804
+01:05:51,760 --> 01:05:55,790
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}She died, but she didn't leave.
+
+805
+01:05:57,170 --> 01:05:59,640
+
+
+806
+01:05:59,840 --> 01:06:01,770
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}And that night...
+
+807
+01:06:01,970 --> 01:06:06,600
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...that one night of every year...
+
+808
+01:06:06,810 --> 01:06:09,010
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...I had to take precautions.
+
+809
+01:06:09,210 --> 01:06:10,980
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Trick or treat.  I had to.
+
+810
+01:06:11,180 --> 01:06:14,670
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Sucker.  I had to.
+
+811
+01:06:17,560 --> 01:06:20,250
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hey! Get a...
+
+812
+01:06:20,460 --> 01:06:24,050
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Stay away from my house!
+
+813
+01:06:24,960 --> 01:06:28,020
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}She attacks anyone who comes near.
+
+814
+01:06:28,230 --> 01:06:29,430
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Go.
+
+815
+01:06:29,630 --> 01:06:32,190
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm coming, dear.
+
+816
+01:06:32,400 --> 01:06:33,890
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Go.
+
+817
+01:06:34,610 --> 01:06:37,300
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No, no, no, wait. I can't let you do this, Mr. Nebbercracker.
+
+818
+01:06:37,510 --> 01:06:40,030
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I know that you've been protecting us all these years.
+
+819
+01:06:40,240 --> 01:06:42,270
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}But now it's our turn to protect you.
+
+820
+01:06:42,480 --> 01:06:44,540
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Let her go.
+
+821
+01:06:49,050 --> 01:06:50,850
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}But if I let her go...
+
+822
+01:06:51,560 --> 01:06:52,990
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...then I'll have no one.
+
+823
+01:06:53,860 --> 01:06:55,490
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}That's not true.
+
+824
+01:07:08,810 --> 01:07:10,330
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Constance, no!
+
+825
+01:07:13,580 --> 01:07:14,700
+
+
+826
+01:07:19,720 --> 01:07:20,980
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come on.
+
+827
+01:07:21,720 --> 01:07:25,180
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}The house is alive!
+
+828
+01:07:32,930 --> 01:07:35,230
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}This way. This way. Come on.
+
+829
+01:07:35,870 --> 01:07:37,730
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You guys, come on.
+
+830
+01:07:43,010 --> 01:07:45,340
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What are you doing?  Trying to slow the house down.
+
+831
+01:07:45,540 --> 01:07:47,700
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Move it, pork chop.
+
+832
+01:07:51,150 --> 01:07:52,780
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come on, come on.
+
+833
+01:08:07,730 --> 01:08:10,130
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come on, Mr. Nebbercracker. Come on.
+
+834
+01:08:11,970 --> 01:08:14,160
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I can't.
+
+835
+01:08:16,810 --> 01:08:18,780
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Mr. Nebbercracker. Hurry.
+
+836
+01:08:19,110 --> 01:08:20,980
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Go on. I'll be all right.
+
+837
+01:08:22,010 --> 01:08:23,640
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, man.
+
+838
+01:08:33,820 --> 01:08:35,260
+
+
+839
+01:08:36,460 --> 01:08:39,120
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What are you waiting for? Come on.
+
+840
+01:09:03,290 --> 01:09:06,650
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You stay away from those children, Constance!
+
+841
+01:09:32,620 --> 01:09:33,810
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Constance.
+
+842
+01:09:35,220 --> 01:09:36,780
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Mr. Nebbercracker.
+
+843
+01:09:39,060 --> 01:09:40,680
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, now...
+
+844
+01:09:42,220 --> 01:09:44,780
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}There, there, girl.
+
+845
+01:09:46,930 --> 01:09:48,860
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}My sweet.
+
+846
+01:09:49,970 --> 01:09:52,490
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You've been a bad girl, haven't you?
+
+847
+01:09:53,370 --> 01:09:55,600
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You've hurt people.
+
+848
+01:09:55,940 --> 01:09:58,200
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, Constance.
+
+849
+01:09:58,940 --> 01:10:03,740
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, we've always known this day would come. Haven't we?
+
+850
+01:10:09,420 --> 01:10:12,290
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I have to make things right.
+
+851
+01:10:15,360 --> 01:10:18,450
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I have to make things right.
+
+852
+01:10:21,430 --> 01:10:23,190
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Constance.
+
+853
+01:10:26,570 --> 01:10:30,060
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I've always done what's best for you, haven't I?
+
+854
+01:10:31,670 --> 01:10:32,940
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Haven't I, girl?
+
+855
+01:10:36,050 --> 01:10:37,640
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come on, let's move.
+
+856
+01:10:38,710 --> 01:10:40,770
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, Constance.
+
+857
+01:10:44,150 --> 01:10:47,590
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Let this be the right thing to do.
+
+858
+01:10:54,260 --> 01:10:55,460
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Leave him alone!
+
+859
+01:10:55,660 --> 01:10:59,030
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah, get your grubby branches off the old man!
+
+860
+01:11:00,900 --> 01:11:02,560
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Take that!
+
+861
+01:11:03,810 --> 01:11:05,800
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}And that!
+
+862
+01:11:08,010 --> 01:11:10,240
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Mr. Nebbercracker.
+
+863
+01:11:12,310 --> 01:11:14,150
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, kid, come here.
+
+864
+01:11:15,780 --> 01:11:17,720
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Take this.  What?
+
+865
+01:11:18,350 --> 01:11:20,250
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You have to help me. Please.
+
+866
+01:11:20,460 --> 01:11:22,720
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I know you can do it.
+
+867
+01:11:24,930 --> 01:11:28,120
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Go on. Go. Hurry.
+
+868
+01:11:29,870 --> 01:11:31,630
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}How do you know how to drive this thing?
+
+869
+01:11:31,830 --> 01:11:33,390
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I don't.
+
+870
+01:11:37,240 --> 01:11:39,900
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}The chimney. The chimney leads to the heart.
+
+871
+01:11:46,150 --> 01:11:47,620
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Jenny!
+
+872
+01:11:59,630 --> 01:12:02,150
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Jenny. Are you all right?
+
+873
+01:12:02,600 --> 01:12:04,460
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm not sure.
+
+874
+01:12:08,470 --> 01:12:11,100
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}DJ, get rid of that thing.
+
+875
+01:12:11,310 --> 01:12:13,330
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm working on it.
+
+876
+01:12:13,540 --> 01:12:16,440
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder, I need you to get the house down under that crane.
+
+877
+01:12:16,750 --> 01:12:18,240
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Think you could do that?
+
+878
+01:12:18,450 --> 01:12:20,350
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Piece of cake.
+
+879
+01:12:21,720 --> 01:12:23,180
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come on.
+
+880
+01:12:29,190 --> 01:12:32,320
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You think you can just mess with my friends?
+
+881
+01:12:38,830 --> 01:12:40,600
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}DJ, look.
+
+882
+01:12:55,720 --> 01:12:57,510
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Mommy.
+
+883
+01:13:03,490 --> 01:13:04,890
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder.
+
+884
+01:13:05,090 --> 01:13:07,150
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come in, Chowder.
+
+885
+01:13:07,360 --> 01:13:09,490
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Chowder, buddy?
+
+886
+01:13:18,240 --> 01:13:19,470
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hey, guys.
+
+887
+01:13:19,670 --> 01:13:23,270
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Look who just won. It's me, the screwup.
+
+888
+01:13:23,480 --> 01:13:26,210
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Way to go, Chowder, you did it!
+
+889
+01:13:26,910 --> 01:13:30,150
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Look at me. Look at Chowder. Oh, yeah.
+
+890
+01:13:30,720 --> 01:13:32,950
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Sorry.  Guys, come on.
+
+891
+01:13:34,050 --> 01:13:36,520
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yes. Look at me.
+
+892
+01:13:41,160 --> 01:13:42,790
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You can't do that.
+
+893
+01:13:43,000 --> 01:13:45,400
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}That's not fair.
+
+894
+01:14:04,120 --> 01:14:06,780
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No. Get on the top. Help!
+
+895
+01:14:10,520 --> 01:14:12,960
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}That's it, Chowder. Keep her coming.
+
+896
+01:14:17,970 --> 01:14:21,560
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You ain't nothing. You're a shack. You're an outhouse.
+
+897
+01:14:28,010 --> 01:14:29,640
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}No!
+
+898
+01:15:17,520 --> 01:15:20,650
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I can't.  Yes, you can.
+
+899
+01:15:23,200 --> 01:15:24,390
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Go.
+
+900
+01:15:24,600 --> 01:15:26,190
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I kissed a girl.
+
+901
+01:15:26,670 --> 01:15:28,500
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I kissed a girl on the lips.
+
+902
+01:15:31,470 --> 01:15:35,370
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Guys. Any time now.
+
+903
+01:15:40,550 --> 01:15:42,210
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Sorry.
+
+904
+01:15:44,280 --> 01:15:46,620
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}DJ, hurry.
+
+905
+01:15:53,930 --> 01:15:55,480
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm flying!
+
+906
+01:15:56,360 --> 01:16:00,030
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}On three, light the dynamite.  Okay, I got it.
+
+907
+01:16:04,270 --> 01:16:06,070
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}One.  Come on, come on, come on.
+
+908
+01:16:06,270 --> 01:16:08,710
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Two.  Yes.
+
+909
+01:16:09,040 --> 01:16:10,600
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Thr...
+
+910
+01:16:11,440 --> 01:16:13,880
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}DJ!
+
+911
+01:16:19,990 --> 01:16:21,920
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Three!
+
+912
+01:17:20,450 --> 01:17:22,380
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Do you guys hear something?
+
+913
+01:17:24,720 --> 01:17:27,310
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It's over there. Come on.
+
+914
+01:17:29,590 --> 01:17:31,750
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, my dear.
+
+915
+01:17:44,300 --> 01:17:46,200
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Goodbye.
+
+916
+01:18:04,820 --> 01:18:09,320
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm sorry, Mr. Nebbercracker, about your house...
+
+917
+01:18:09,730 --> 01:18:13,090
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...and your wife.
+
+918
+01:18:15,730 --> 01:18:17,130
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Your house-wife.
+
+919
+01:18:21,040 --> 01:18:24,530
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Forty-five years.
+
+920
+01:18:25,880 --> 01:18:31,140
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We have been trapped for 45 years.
+
+921
+01:18:31,350 --> 01:18:33,110
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}And now...
+
+922
+01:18:36,120 --> 01:18:38,110
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...we're free.
+
+923
+01:18:40,960 --> 01:18:43,260
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We're free.
+
+924
+01:18:43,590 --> 01:18:45,990
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Thank you, friend.
+
+925
+01:18:47,960 --> 01:18:50,360
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Thank you all.
+
+926
+01:18:50,770 --> 01:18:52,860
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We're free.
+
+927
+01:19:06,180 --> 01:19:07,340
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Thank you.  Thanks.
+
+928
+01:19:07,580 --> 01:19:09,610
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Happy Halloween.
+
+929
+01:19:11,120 --> 01:19:13,320
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Trick or treat.  Trick or treat.
+
+930
+01:19:13,790 --> 01:19:14,810
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Here you go.
+
+931
+01:19:15,060 --> 01:19:16,250
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Thanks.  Thanks.
+
+932
+01:19:16,760 --> 01:19:18,490
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Happy Halloween.
+
+933
+01:19:18,700 --> 01:19:20,290
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Next.
+
+934
+01:19:22,500 --> 01:19:24,470
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What happened to Nebbercracker's house?
+
+935
+01:19:26,400 --> 01:19:29,200
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It turned into a monster, so I blew it up.
+
+936
+01:19:31,040 --> 01:19:32,740
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Trick or treat.
+
+937
+01:19:32,940 --> 01:19:34,270
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We're gonna need a tricycle.
+
+938
+01:19:35,310 --> 01:19:37,780
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}One tricycle, coming up.
+
+939
+01:19:38,620 --> 01:19:40,550
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Tricycle.
+
+940
+01:19:40,750 --> 01:19:42,650
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Tricycle.
+
+941
+01:19:43,120 --> 01:19:45,250
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Tricycle.  Hello, tricycle.
+
+942
+01:19:45,460 --> 01:19:47,320
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I missed you so much.
+
+943
+01:19:47,520 --> 01:19:49,460
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Thank you, mister.  Goodbye, now.
+
+944
+01:19:49,660 --> 01:19:52,220
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Happy Halloween.  Come on.
+
+945
+01:19:52,930 --> 01:19:55,520
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Mom. There's my mom.  Jenny!
+
+946
+01:19:55,730 --> 01:19:57,060
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}One second.  Okay.
+
+947
+01:19:58,400 --> 01:20:00,430
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}So...
+
+948
+01:20:00,640 --> 01:20:02,610
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We should hang out again.
+
+949
+01:20:02,970 --> 01:20:04,070
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Soon.
+
+950
+01:20:05,810 --> 01:20:07,870
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah.  Yeah.
+
+951
+01:20:08,080 --> 01:20:09,640
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}See you.
+
+952
+01:20:14,220 --> 01:20:16,580
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Good luck with the puberty.
+
+953
+01:20:17,620 --> 01:20:20,060
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}She grabbed my butt.
+
+954
+01:20:20,260 --> 01:20:21,950
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}That's nice, Chowder.
+
+955
+01:20:22,160 --> 01:20:24,630
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hey, Mr. Nebbercracker. It's time to go.
+
+956
+01:20:24,830 --> 01:20:28,820
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, you go on. I've got some work to do.
+
+957
+01:20:29,830 --> 01:20:31,960
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}All right. Thanks.
+
+958
+01:20:32,170 --> 01:20:34,000
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'll see you around.  All right. Bye.
+
+959
+01:20:34,200 --> 01:20:35,400
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hey.
+
+960
+01:20:35,910 --> 01:20:38,070
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Stay off my lawn.
+
+961
+01:20:39,110 --> 01:20:41,010
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}I'm just kidding.
+
+962
+01:20:41,210 --> 01:20:44,110
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You think he'll be okay?  Yeah. He'll be fine.
+
+963
+01:20:44,310 --> 01:20:47,680
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}He'll go on vacation, get some color, maybe he'll meet someone new.
+
+964
+01:20:47,880 --> 01:20:50,110
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}This time, maybe a nice beach house.
+
+965
+01:20:51,920 --> 01:20:53,020
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hey, DJ, look who's here.
+
+966
+01:20:53,320 --> 01:20:55,320
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Yes, I can see that, thank you.  No biggie.
+
+967
+01:20:55,690 --> 01:20:57,690
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Hey, boys.  Hey, Dad.
+
+968
+01:21:00,830 --> 01:21:03,830
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What the heck kind? No, don't tell me. Let me guess.
+
+969
+01:21:04,270 --> 01:21:05,670
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It's...
+
+970
+01:21:07,870 --> 01:21:11,640
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Dirty pirates?  That's it. Dirty pirates.
+
+971
+01:21:13,040 --> 01:21:15,640
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Fun, fun. Oh, you look adorable.
+
+972
+01:21:16,310 --> 01:21:18,470
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Have fun tonight.
+
+973
+01:21:33,030 --> 01:21:36,830
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}You know, you were right.
+
+974
+01:21:37,270 --> 01:21:39,900
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We're definitely too old for trick-or-treating.
+
+975
+01:21:40,100 --> 01:21:43,770
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, yeah. No question about it.
+
+976
+01:21:46,740 --> 01:21:48,470
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}On the other hand...
+
+977
+01:21:49,780 --> 01:21:51,810
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...we've been working all night.
+
+978
+01:22:00,620 --> 01:22:01,960
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Candy time?
+
+979
+01:22:02,590 --> 01:22:03,820
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Candy time.
+
+980
+01:22:04,030 --> 01:22:06,220
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We're back. Yes.
+
+981
+01:22:06,430 --> 01:22:08,400
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Candy.
+
+982
+01:23:45,630 --> 01:23:48,960
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Did we just get?  Yeah, yeah, yeah.
+
+983
+01:23:50,330 --> 01:23:52,490
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}It's Halloween, right?
+
+984
+01:23:52,700 --> 01:23:57,260
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}What do you say you and I go out...
+
+985
+01:23:57,470 --> 01:24:01,170
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...and "inspect" some candy, huh?
+
+986
+01:24:03,250 --> 01:24:06,370
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}We should go eat some candy too.
+
+987
+01:24:06,780 --> 01:24:08,010
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}That's a good idea.
+
+988
+01:24:08,220 --> 01:24:12,660
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Okay. All right. Let's go eat some candy.
+
+989
+01:24:12,860 --> 01:24:15,620
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Lots of yummy candy.
+
+990
+01:24:15,830 --> 01:24:17,790
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Like carrots.
+
+991
+01:24:18,960 --> 01:24:20,760
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}All right, where's the car?
+
+992
+01:24:20,960 --> 01:24:23,930
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}And that is how I slayed that mystical dragon.
+
+993
+01:24:24,130 --> 01:24:27,160
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, yeah? That's great.
+
+994
+01:24:27,370 --> 01:24:28,860
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Come on, baby. We're out of here.
+
+995
+01:24:29,110 --> 01:24:30,130
+
+
+996
+01:24:30,340 --> 01:24:32,830
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Not so fast, Bones.
+
+997
+01:24:33,040 --> 01:24:35,200
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Times have changed.
+
+998
+01:24:35,410 --> 01:24:37,140
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Skull's not like you.
+
+999
+01:24:37,350 --> 01:24:39,540
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}He gives me the respect I deserve...
+
+1000
+01:24:39,750 --> 01:24:41,310
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}...and makes time for me.
+
+1001
+01:24:42,090 --> 01:24:43,050
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Whatever.
+
+1002
+01:24:43,250 --> 01:24:44,650
+
+
+1003
+01:24:45,690 --> 01:24:46,710
+{\fnCambria\fs19\bord1\shad1\1c&H45DFEC&\b0\i1}Bones!
+
+1004
+01:24:50,510 --> 01:25:04,510
+{\fad(500,500)\fn华文楷体\fs16\1c&H3CF1F3&\b0}亲，有空的时候可以来交流电影哦 加我QQ：1610169789{\r}
+
+1005
+01:25:04,510 --> 01:25:04,510
+

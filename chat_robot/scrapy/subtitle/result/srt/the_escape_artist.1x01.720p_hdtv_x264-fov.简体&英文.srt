@@ -1,0 +1,3852 @@
+﻿1
+00:00:30,520 --> 00:00:31,600
+出租
+Taxi!
+
+2
+00:00:36,740 --> 00:00:37,980
+能麻烦你载我去这里吗
+Can you take me here, please?
+
+3
+00:00:43,030 --> 00:00:44,020
+对  查尔斯  不好意思
+Right, Charles, sorry about that.
+
+4
+00:00:44,020 --> 00:00:46,790
+我给你讲讲我们的进展
+OK, let me fill you in on where we are.
+
+5
+00:00:46,790 --> 00:00:48,380
+我们在行李箱里装了可卡因
+We had the cocaine in a holdall.
+
+6
+00:00:48,380 --> 00:00:49,960
+然后到了停车场
+We moved into the car park
+
+7
+00:00:49,960 --> 00:00:51,970
+看见斯科特先生拿着杆双管猎枪
+where we saw our friend Mr Scott walking out
+
+8
+00:00:51,980 --> 00:00:55,200
+从他的车后面走出来
+from behind his van holding a double-barrelled shotgun.
+
+9
+00:00:57,190 --> 00:00:59,180
+好  听着  大概一个小时以后见
+OK, listen, see you in about an hour.
+
+10
+00:00:59,400 --> 00:01:00,810
+好好  再见
+OK. OK, bye.
+
+11
+00:01:02,830 --> 00:01:04,430
+不好意思  我是律师
+Sorry about that. I'm a lawyer.
+
+12
+00:01:07,360 --> 00:01:08,400
+真的
+Honestly.
+
+13
+00:01:13,040 --> 00:01:14,540
+这是杰米的爸爸伯顿先生
+Jamie's dad, Mr Burton,
+
+14
+00:01:14,540 --> 00:01:17,700
+他今天来给大家讲讲他的工作
+has come in today to talk about what he does at work.
+
+15
+00:01:17,700 --> 00:01:21,550
+-嗨  -你们知道律师干什么吗  杰米
+- Hi. - Do any of you know what a barrister does? Yes, Jamie?
+
+16
+00:01:21,550 --> 00:01:24,800
+-他让人不用坐牢  -怎么做到的呢
+- He stops people from going to prison. - And how does he do that?
+
+17
+00:01:24,800 --> 00:01:27,410
+他告诉法庭这个人没罪
+He tells a court that someone didn't do a crime.
+
+18
+00:01:27,410 --> 00:01:30,080
+有时候证据不足
+And sometimes the evidence doesn't cut it.
+
+19
+00:01:30,080 --> 00:01:33,650
+然后他说好了放假回来却不能回来
+And sometimes that means he can't come on holiday like he promised.
+
+20
+00:01:33,650 --> 00:01:38,450
+其实我大部分时间都在庭上对法官讲话
+Actually, my job is mostly standing up and talking to a judge in court.
+
+21
+00:01:38,450 --> 00:01:39,350
+你都说些什么
+What do you talk about?
+
+22
+00:01:39,360 --> 00:01:42,350
+如果有人说看见你偷了同学的笔
+If someone said they saw you take your classmate's pen,
+
+23
+00:01:42,350 --> 00:01:43,860
+而你说你没偷
+and you said you didn't take it,
+
+24
+00:01:43,860 --> 00:01:46,730
+我的职责就是证明目击者看错了
+my job would be to show that whoever saw you was mistaken.
+
+25
+00:01:46,730 --> 00:01:49,160
+要是我真的偷了笔呢
+What happens if I did take the pen anyway?
+
+26
+00:01:49,160 --> 00:01:50,540
+那你就有罪
+Well, then you'd be guilty.
+
+27
+00:01:50,540 --> 00:01:52,700
+对  但如果我说我没偷
+Yeah, but what if I said I didn't take it,
+
+28
+00:01:52,700 --> 00:01:55,130
+而看见我偷的人眼神又不好呢
+and the person who saw me has bad eyesight,
+
+29
+00:01:55,130 --> 00:01:56,950
+而你嘴皮子很厉害
+and you're so good at arguing
+
+30
+00:01:56,950 --> 00:01:59,070
+他们也不能确定是我偷了呢
+they can't be sure it was me who took it?
+
+31
+00:01:59,070 --> 00:02:02,160
+这样啊  那就叫合理怀疑
+Ah! Well, then, that's what you call a reasonable doubt.
+
+32
+00:02:02,160 --> 00:02:03,810
+那我能把笔留着了
+So I get to keep the pen?
+
+33
+00:02:03,810 --> 00:02:06,000
+对  那是你侥幸脱罪
+Yes, but then you'd be getting away with it.
+
+34
+00:02:06,000 --> 00:02:08,330
+如果你爸爸站我这边的话
+Only if your dad was on my side.
+
+35
+00:02:32,360 --> 00:02:33,620
+{\pos(195,205)}bei1中央刑事法庭
+
+36
+00:02:38,490 --> 00:02:40,680
+-你好  查尔斯  -威尔
+- Hi, Charles. - Will.
+
+37
+00:02:40,680 --> 00:02:41,560
+准备好了吗
+Are we ready?
+
+38
+00:02:41,570 --> 00:02:42,860
+皇家检察署来电
+Crown called.
+
+39
+00:02:42,860 --> 00:02:44,860
+玛吉·加德纳将是首席庭审律师
+Seems Maggie Gardner's stepping in as lead junior.
+
+40
+00:02:44,860 --> 00:02:45,890
+又是她
+Again?
+
+41
+00:02:45,890 --> 00:02:48,940
+她居然上电视之余还能接手案子
+Surprised she could squeeze in a case between TV appearances.
+
+42
+00:02:48,940 --> 00:02:50,100
+看来是我的荣幸
+Suppose I'm flattered.
+
+43
+00:02:50,100 --> 00:02:53,070
+你们可是针锋相对  法庭应该卖票
+It's like a derby match with you. They should sell tickets.
+
+44
+00:02:53,070 --> 00:02:55,760
+库马因先生手边就这把刀
+It was the only object Mr Kumarin had to hand.
+
+45
+00:02:55,760 --> 00:02:58,020
+猎刀不是防卫性武器
+A hunting knife is not a defensive weapon!
+
+46
+00:02:58,030 --> 00:02:59,480
+听名字就知道
+The clue is in the name.
+
+47
+00:02:59,480 --> 00:03:02,450
+-加德纳女士  -抱歉  法官阁下
+- Miss Gardner. - I apologise, My Lord.
+
+48
+00:03:02,450 --> 00:03:04,860
+即将受到袭击的人不需许可即能自卫
+A man about to be attacked does not have to wait for permission.
+
+49
+00:03:04,860 --> 00:03:07,320
+法律明文规定  适当情况下
+The law tells us that in the right circumstances,
+
+50
+00:03:07,320 --> 00:03:09,140
+先发制人保护自己是完全合乎情理的
+a pre-emptive strike is entirely justified.
+
+51
+00:03:09,140 --> 00:03:13,200
+在此案中  有人用上膛的猎枪指着他的脑袋
+In this case, a loaded shotgun aimed squarely at his head!
+
+52
+00:03:13,200 --> 00:03:15,220
+多亏斯科特先生准头太差
+We only have Mr Scott's appalling aim to thank
+
+53
+00:03:15,220 --> 00:03:16,680
+库马因先生今天才能坐在这里
+that Mr Kumarin is sitting here today
+
+54
+00:03:16,680 --> 00:03:19,270
+而不是被人从夜总会的墙上刮下来
+and not being scraped off the nightclub wall with a trowel.
+
+55
+00:03:21,140 --> 00:03:22,380
+好样的  威尔
+Well done, Will.
+
+56
+00:03:23,570 --> 00:03:25,970
+威尔先生  非常感谢
+Mr Will, thank you very much.
+
+57
+00:03:30,020 --> 00:03:32,020
+-不客气  -谢谢
+- Pleasure. - Thank you.
+
+58
+00:03:32,030 --> 00:03:33,200
+保重
+Take care.
+
+59
+00:04:16,720 --> 00:04:18,800
+"警方在对桑德拉·马伦遭受凶残谋杀
+"Police continue to make headway again
+
+60
+00:04:18,800 --> 00:04:22,320
+一案的调查中又取得了新的进展
+in their investigation into the brutal murder of Sandra Mullen,
+
+61
+00:04:22,320 --> 00:04:26,160
+近日发现的新证据起到了很大作用
+acting on new evidence that has come to light in the past few days.
+
+62
+00:04:26,160 --> 00:04:29,370
+但警探依然请求目击证人
+Detectives however are still calling for witnesses to come forward
+
+63
+00:04:29,370 --> 00:04:31,870
+站出来提供有关马伦女士
+with any additional information they may have
+
+64
+00:04:31,870 --> 00:04:34,620
+遭受宗教式杀害的信息
+concerning the ritualistic slaying of Miss Mullen,
+
+65
+00:04:34,620 --> 00:04:39,480
+马伦女士被害时年25岁  是医学院学生
+whose tortured body was found on heathland by a dog walker last October.
+
+66
+00:04:39,480 --> 00:04:42,280
+尸体于去年十月在石南原被一名遛狗者发现
+Miss Mullen, who was 25 at the time of her death
+
+67
+00:04:42,280 --> 00:04:45,820
+最后一次有人见到马伦女士
+and studying to be a doctor, was last seen leaving a night club
+
+68
+00:04:45,820 --> 00:04:48,080
+是她于周四凌晨离开夜总会"
+in the early hours of Thursday morning."
+
+69
+00:04:51,930 --> 00:04:54,210
+不用了  谢谢  我们有保温层
+No, thank you, we have insulation!
+
+70
+00:04:54,880 --> 00:04:57,960
+我们有搜查令  要搜查此地房屋
+We have a warrant to conduct a search of these premises!
+
+71
+00:04:59,400 --> 00:05:01,500
+早饭以后再来
+Come back after breakfast!
+
+72
+00:05:01,700 --> 00:05:02,980
+福伊尔先生
+Mr Foyle!
+
+73
+00:05:03,750 --> 00:05:05,730
+早饭以后再来
+After breakfast!!
+
+74
+00:05:22,170 --> 00:05:24,060
+-表现很好  -谢谢
+- Well-played. - Thank you.
+
+75
+00:05:24,070 --> 00:05:26,160
+-过得怎么样  -痛并快乐着
+- How's life? - Ah, pleasure and pain.
+
+76
+00:05:26,290 --> 00:05:28,990
+{\an8}大话女人  英国ITV电台午间谈话采访类节目
+
+77
+00:05:26,290 --> 00:05:28,990
+噢  凯特那天在《大话女人》上看到你了
+Oh, Kate saw you on Loose Women the other day.
+
+78
+00:05:30,760 --> 00:05:32,860
+-你倒是挺冷静的  -什么冷静
+- You're playing it very cool. - Cool?
+
+79
+00:05:32,860 --> 00:05:36,120
+就是排行榜这瞎扯淡的玩意儿
+This... This whole Top 40 nonsense.
+
+80
+00:05:36,160 --> 00:05:38,750
+-你在说什么  -你没听说吗
+- What are you talking about? - You haven't heard?
+
+81
+00:05:41,940 --> 00:05:44,420
+你就装谦虚吧
+Oh, false modesty!
+
+82
+00:05:44,750 --> 00:05:46,650
+这很没意思  威尔
+It's so unappealing, Will.
+
+83
+00:05:48,900 --> 00:05:50,370
+我不知道你在说什么
+I don't know what you're talking about.
+
+84
+00:05:57,420 --> 00:05:58,530
+咱们事务所还没人当过第一名
+We've never had a number one.
+
+85
+00:05:58,530 --> 00:06:00,060
+恭喜你
+Congratulations.
+
+86
+00:06:00,980 --> 00:06:02,450
+你已经听说了
+You'd heard already?
+
+87
+00:06:02,450 --> 00:06:06,570
+没  怪不得我在更衣室外被调戏
+Er, no, but that explains the warm welcome outside the robing room.
+
+88
+00:06:06,570 --> 00:06:07,930
+不光是被调戏那么简单呢
+I don't think it's limited to there.
+
+89
+00:06:07,930 --> 00:06:09,510
+好样的  伯顿先生
+Well done, Mr Burton.
+
+90
+00:06:09,510 --> 00:06:11,240
+现在能当皇家法律顾问了吧
+That's silk now for you, surely?
+
+91
+00:06:11,240 --> 00:06:12,610
+你说就是吧  蒙克先生
+If you say so, Mr Monk.
+
+92
+00:06:12,620 --> 00:06:16,570
+你填申请  我给你买邮票怎么样
+You fill out the application, I'll buy a stamp. How's that?
+
+93
+00:06:16,570 --> 00:06:17,700
+别再调戏我啦
+Don't do this to me!
+
+94
+00:06:17,700 --> 00:06:19,280
+你应该考虑下
+You should consider it.
+
+95
+00:06:19,280 --> 00:06:22,230
+总不能一辈子当出庭律师吧
+Don't stay a junior all your life, hm?
+
+96
+00:06:22,920 --> 00:06:25,910
+哈里斯可以  但那对你来说是红砖大学
+Well, Harris can, but that's red brick education for you.
+
+97
+00:06:22,920 --> 00:06:25,910
+{\an8}红砖大学  以英格兰六大重要工业城市命名的英国著名大学
+
+98
+00:06:25,920 --> 00:06:27,050
+我喜欢弄脏手
+I like getting my hands dirty.
+
+99
+00:06:27,050 --> 00:06:30,750
+你与众不同  威尔  你很特别
+Ah, but you're different, Will. So very... special.
+
+100
+00:06:32,600 --> 00:06:35,240
+{\pos(189,240)}玛吉·加德纳
+
+101
+00:06:32,600 --> 00:06:35,240
+{\pos(185,230)}bei1第二名
+
+102
+00:06:43,810 --> 00:06:45,420
+额外奖励  伯顿先生
+Bonus prize Mr Burton.
+
+103
+00:06:45,420 --> 00:06:48,150
+不行  我们周末要去小屋度假呢
+No, we're actually up to the cottage for the weekend.
+
+104
+00:06:48,150 --> 00:06:49,520
+看一下吧  威尔
+Read that, will you, Will?
+
+105
+00:06:49,530 --> 00:06:50,950
+要不了你多长时间
+Knowing you it shouldn't take long.
+
+106
+00:06:50,950 --> 00:06:52,530
+搞不好那里没有手机信号
+Possible we're out of mobile range up there right now.
+
+107
+00:06:52,530 --> 00:06:53,780
+太不幸了  简直悲剧
+So very unfortunate. Tragic, in fact.
+
+108
+00:06:53,780 --> 00:06:56,730
+希姆金斯·布朗钦点了你
+Simkins Brown asked for you. Personally.
+
+109
+00:06:57,530 --> 00:06:59,300
+-是吗  -换做我是你
+- Really? - Although I'd keep that
+
+110
+00:06:59,310 --> 00:07:01,590
+这种似是而非的事就不会到处去说
+particular factoid to yourself if I were you.
+
+111
+00:07:01,590 --> 00:07:03,300
+他们没选皇家律师  选了你
+They asked for you over any of the silks.
+
+112
+00:07:03,300 --> 00:07:04,900
+也难怪他们
+Can't say I blame them.
+
+113
+00:07:04,900 --> 00:07:06,000
+如果我是他们的委托人
+If I was in their client's shoes,
+
+114
+00:07:06,000 --> 00:07:08,350
+肯定也希望找你这样的常胜将军
+I'd want your record on my side.
+
+115
+00:07:08,990 --> 00:07:11,760
+如果你被锁在鲨鱼缸底下的保险箱里
+If you're chained up in this safe at the bottom of a shark tank,
+
+116
+00:07:11,760 --> 00:07:13,780
+你肯定不会找保罗·丹尼尔斯
+you don't call for Paul Daniels.
+
+117
+00:07:11,760 --> 00:07:13,780
+{\an8}保罗·丹尼尔斯  英国魔术师  电视演员
+
+118
+00:07:14,970 --> 00:07:16,650
+肯定找霍迪尼
+You call for Houdini.
+
+119
+00:07:14,970 --> 00:07:16,650
+{\an8}霍迪尼  被称为"现代魔术之父"  擅长逃生术
+
+120
+00:07:29,220 --> 00:07:30,170
+冲啊
+Come on.
+
+121
+00:07:30,960 --> 00:07:34,530
+很好  过得好  加油
+Nice one. Good pass. Good pass! Come on!
+
+122
+00:07:34,710 --> 00:07:37,090
+这样才对嘛
+There we go, now we're talking.
+
+123
+00:07:37,100 --> 00:07:40,190
+加油  注意看球
+Come on. Keep an eye on the ball!
+
+124
+00:07:40,550 --> 00:07:43,980
+走起  搞什么  裁判
+Off we go. Here we... Oh, come on, Referee!
+
+125
+00:07:43,980 --> 00:07:46,170
+天哪  能有点种嘛
+Grow a sac, for God's sake!
+
+126
+00:07:46,170 --> 00:07:49,920
+-土豆  她是说种土豆  -你来了
+- Potatoes, obviously she means sack of potatoes. - You're here!
+
+127
+00:07:52,360 --> 00:07:56,260
+-天哪  -射门  快射门
+- Oh, God... - Shoot! Shoot! Shoot!
+
+128
+00:07:57,000 --> 00:07:58,900
+小家伙
+Oh, wee man.
+
+129
+00:08:04,220 --> 00:08:06,730
+我今早在外套口袋里发现了一个苹果
+I found an apple in my jacket this morning.
+
+130
+00:08:06,730 --> 00:08:10,090
+我借助水果给你传递信息
+I was sending you a message -through the medium of fruit.
+
+131
+00:08:10,090 --> 00:08:12,270
+-什么信息  -吃水果
+- The message being? - Eat fruit.
+
+132
+00:08:12,270 --> 00:08:14,650
+-你觉得我营养摄入不均衡吗  -是的
+- You don't think I'm getting my five a day? - No.
+
+133
+00:08:14,650 --> 00:08:18,070
+你就光吃奶酪
+I don't think you're eating anything that isn't made entirely from cheese.
+
+134
+00:08:33,780 --> 00:08:37,190
+你得先按下按钮吧
+I think you'll find you have to press the button first.
+
+135
+00:08:37,200 --> 00:08:40,500
+我按了  就是按下去这个动作
+I did press it. I used a pressing motion.
+
+136
+00:08:41,180 --> 00:08:42,190
+现在好了
+There now.
+
+137
+00:08:44,960 --> 00:08:47,060
+-我刚刚就是这么做的  -行吧
+- I just did that. - OK.
+
+138
+00:08:49,540 --> 00:08:52,190
+谢谢你的支持  太感谢了
+Thanks for your support. Really appreciate it.
+
+139
+00:08:53,610 --> 00:08:55,060
+好了  出发啦
+Come on, we're going.
+
+140
+00:09:02,490 --> 00:09:03,540
+等等
+Hang on.
+
+141
+00:09:17,270 --> 00:09:19,320
+把你的包从后座拿下来  好吗
+Get your bags off the back seat. OK?
+
+142
+00:09:20,580 --> 00:09:22,320
+-本  -你们好啊
+- Hey, Ben. - All right.
+
+143
+00:10:07,550 --> 00:10:09,880
+你是洗泡泡浴的花衣魔笛手
+You're the Pied Piper of bubble baths.
+
+144
+00:10:07,550 --> 00:10:09,880
+{\an8}花衣魔笛手  德国童话中的人物
+
+145
+00:10:11,960 --> 00:10:15,330
+这里也许还能挤进来一个高大的苏格兰人
+You know, there might be room in here for a large Scotsman.
+
+146
+00:10:15,330 --> 00:10:19,090
+-我还有点事  -随便你吧
+- I've got to catch up on something. - Oh, well, suit yourself.
+
+147
+00:10:19,730 --> 00:10:22,680
+可惜了这儿朦胧的烛光
+It's all candles and twilight in here though.
+
+148
+00:10:23,210 --> 00:10:24,430
+是你的损失哦
+Your loss.
+
+149
+00:10:41,090 --> 00:10:42,380
+别打呼了
+Stop snoring.
+
+150
+00:10:43,510 --> 00:10:45,130
+抱歉  害你睡不着吗
+Sorry, am I keeping you up?
+
+151
+00:10:46,420 --> 00:10:47,830
+真幽默
+Funny guy.
+
+152
+00:10:51,870 --> 00:10:56,280
+杰米说你昨天在学校帅呆了
+You were quite the hit at school yesterday. So Jamie said.
+
+153
+00:10:56,280 --> 00:10:58,000
+他们貌似挺喜欢
+They seemed to enjoy it.
+
+154
+00:10:58,790 --> 00:11:01,650
+他的小伙伴们都想让你做他们的律师了
+All his wee pals want you to be their lawyer now.
+
+155
+00:11:02,270 --> 00:11:03,970
+知道有你撑腰  他们都要有恃无恐
+They're all going to go out and commit GBH safe
+
+156
+00:11:03,970 --> 00:11:05,900
+去犯重罪了
+in the knowledge you'll get them off.
+
+157
+00:11:05,900 --> 00:11:07,630
+还真让人宽心啊
+Well, that's very reassuring.
+
+158
+00:11:10,980 --> 00:11:14,810
+可他们不知道你的大脑里满是洞洞
+Little do they know that that large brain of yours is full of holes.
+
+159
+00:11:15,470 --> 00:11:17,450
+你的硬盘满了
+Your hard drive's full.
+
+160
+00:11:18,930 --> 00:11:20,940
+-这就是你的问题  -我明白了
+- That's your problem. - I see.
+
+161
+00:11:23,350 --> 00:11:25,750
+你需要时不时做个备份
+You just need to back it up now and again.
+
+162
+00:11:27,140 --> 00:11:28,390
+要怎么做呢
+How do I do that?
+
+163
+00:11:43,800 --> 00:11:45,760
+你身上又暖又舒服
+You're so nice and warm.
+
+164
+00:12:26,150 --> 00:12:28,890
+希姆金斯先生  为什么选我去打官司
+Mr Simkins, why did you choose me to lead this?
+
+165
+00:12:29,430 --> 00:12:31,440
+而不选皇家律师呢
+I mean, why me, over a silk?
+
+166
+00:12:31,990 --> 00:12:34,430
+因为我见过太多皇家律师潇洒地接手
+Because I've seen too many silks who try and waltz in
+
+167
+00:12:34,430 --> 00:12:36,440
+草率地应对一桩案子
+and blunderbuss their way through a case
+
+168
+00:12:36,440 --> 00:12:39,050
+他们只在出庭的路上瞥一眼而已
+they've only glanced at on the way to the court.
+
+169
+00:12:39,570 --> 00:12:42,240
+因为像这样的案子  我想要
+Because in a case like this I want someone
+
+170
+00:12:42,240 --> 00:12:45,950
+一个整天埋头研究证据的人
+who spends days elbows deep in the evidence.
+
+171
+00:12:46,370 --> 00:12:50,380
+因为我的委托人如今正站在一块石头
+Because my client stands between a rock
+
+172
+00:12:50,380 --> 00:12:52,450
+和一大坨屎中间
+and a bucket of shit
+
+173
+00:12:52,450 --> 00:12:54,530
+他需要尽可能多的帮助
+and he needs all the help he can get.
+
+174
+00:12:57,650 --> 00:12:58,700
+还有呢
+And?
+
+175
+00:12:59,400 --> 00:13:01,080
+-说实话  -是的
+- Honestly? - Yeah.
+
+176
+00:13:03,240 --> 00:13:04,740
+因为你总能赢
+Because you win.
+
+177
+00:13:26,120 --> 00:13:28,240
+你现在睡这里了吗  伯顿先生
+Are you sleeping here now, Mr Burton?
+
+178
+00:13:28,240 --> 00:13:30,450
+-现在什么时候了  -周二
+- What time is it? - Tuesday.
+
+179
+00:13:32,290 --> 00:13:34,430
+我爱上卡洛斯·特维斯了[阿根廷球员]
+I think I fancy Carlos Tevez.
+
+180
+00:13:35,780 --> 00:13:36,970
+他是队长
+For captain.
+
+181
+00:13:41,610 --> 00:13:43,110
+你看过这些照片吗
+Did you look at these pictures?
+
+182
+00:13:44,780 --> 00:13:47,760
+以前见过这样的情况吗
+You ever seen anything like it? Before?
+
+183
+00:13:48,810 --> 00:13:49,890
+我从没见过
+I've never.
+
+184
+00:13:54,080 --> 00:13:55,990
+大多时候她都没断气
+She was alive for most of it, you know?
+
+185
+00:13:58,180 --> 00:13:59,330
+活着呢
+She was alive.
+
+186
+00:14:24,810 --> 00:14:26,340
+我们步行穿过公园
+"We were walking through the park,
+
+187
+00:14:26,340 --> 00:14:28,730
+听着iPod里面的音乐
+and listening to music on our iPod.
+
+188
+00:14:28,730 --> 00:14:31,320
+回家以后才发现鞋底有血迹
+We did not notice the blood on our shoes until we got home."
+
+189
+00:14:31,320 --> 00:14:34,500
+我们没注意走过了哪些地方
+Because we'd not been paying much attention to where we'd been walking,
+
+190
+00:14:34,500 --> 00:14:36,300
+我们走到了
+and because our walk had taken us through
+
+191
+00:14:36,300 --> 00:14:39,660
+灌木深处  以及很深的草丛中
+areas of deeper undergrowth and high grasses.
+
+192
+00:14:39,660 --> 00:14:42,150
+第一眼看到这血  我们以为
+When we first saw the blood we presumed
+
+193
+00:14:42,150 --> 00:14:43,930
+误踩了动物尸体
+we had stepped in the remains of an animal."
+
+194
+00:14:43,930 --> 00:14:46,990
+-比方说  一只松鼠  -没错
+- A squirrel, for example? - Yes.
+
+195
+00:14:47,560 --> 00:14:50,230
+知道吗  灰松鼠正在杀红松鼠
+Did you know the grey squirrels are killing all the red squirrels?
+
+196
+00:14:52,150 --> 00:14:55,030
+-有耳闻  -可他们最近又发现一种黑松鼠
+- I did, yes. - But now they've discovered a black squirrel.
+
+197
+00:14:55,040 --> 00:14:58,480
+-福伊尔先生  -它们又在杀灰松鼠
+- Mr Foyle. - And that's killing all the greys.
+
+198
+00:14:59,230 --> 00:15:01,210
+早晚会知道  小心没大错
+Goes to show, you can't be too careful.
+
+199
+00:15:01,560 --> 00:15:03,980
+福伊尔先生  可以开始了吗
+Mr Foyle. Can we please get on?
+
+200
+00:15:04,850 --> 00:15:08,190
+福伊尔先生  你通常哪天去洗衣房洗衣
+What day do you take your laundry to be service washed, Mr Foyle?
+
+201
+00:15:08,190 --> 00:15:10,800
+-周二是洗衣日  -能不能解释
+- Tuesday's wash day. - Can you explain why,
+
+202
+00:15:10,800 --> 00:15:12,990
+数月来一直周二洗衣的你
+after months of Tuesdays,
+
+203
+00:15:12,990 --> 00:15:15,080
+为何突然周一去洗衣
+you took your washing in on a Monday?
+
+204
+00:15:16,330 --> 00:15:19,270
+裤子不够穿了  不是吗
+We'd run out of pants, hadn't we?
+
+205
+00:15:19,270 --> 00:15:20,710
+因为没有干净衣服可穿
+We took our laundry to be washed a day early
+
+206
+00:15:20,710 --> 00:15:22,450
+所以提前一天去洗
+because we'd run out of clothing.
+
+207
+00:15:22,450 --> 00:15:25,010
+-是的  -鞋子上的血迹让你更加迫切地
+- Correct. - The fact we found blood on our shoes after our walk
+
+208
+00:15:25,010 --> 00:15:28,490
+-想要提前去洗衣  -事实如此
+- increased our desire to do our washing early. - That's the truth.
+
+209
+00:15:29,150 --> 00:15:31,550
+你的鞋子一般都用洗衣机洗吗
+Do you normally wash your shoes in the washing machine?
+
+210
+00:15:31,560 --> 00:15:33,260
+沾了血的话就用
+I do if they have blood on them.
+
+211
+00:15:35,850 --> 00:15:36,880
+好
+Right.
+
+212
+00:15:38,960 --> 00:15:41,710
+我们必须要谈一下网站的事情
+We're going to have to talk about the websites.
+
+213
+00:15:41,720 --> 00:15:44,180
+对方会试图指控
+The other side are going to try to claim
+
+214
+00:15:44,180 --> 00:15:46,920
+你习惯性地浏览通常被称为
+you habitually view images and video
+
+215
+00:15:46,920 --> 00:15:50,670
+"极端色情"的图片和视频
+that are commonly referred to as "extreme pornography",
+
+216
+00:15:50,670 --> 00:15:52,980
+"极端色情"包含
+an umbrellaterm for filmed acts
+
+217
+00:15:52,980 --> 00:15:56,000
+危及或状似危及人身生命
+which threaten, or appear to threaten, a person's life,
+
+218
+00:15:56,000 --> 00:15:58,500
+造成参与者严重伤害
+result in serious injury to participants
+
+219
+00:15:58,510 --> 00:16:02,400
+或者有殴打  啃噬
+or appear to involve torture, biting,
+
+220
+00:16:02,410 --> 00:16:04,980
+针对人类尸体的性行为等内容
+sexual interference with a human corpse.
+
+221
+00:16:05,570 --> 00:16:08,180
+这与被害者遭受的伤害
+And that this has a link to the nature of the injuries
+
+222
+00:16:08,180 --> 00:16:09,700
+构成一定的联系
+sustained by the victim.
+
+223
+00:16:11,270 --> 00:16:12,900
+我不做那种事情
+I don't do that kind of thing.
+
+224
+00:16:13,780 --> 00:16:16,880
+很遗憾  你的信用卡记录显示的恰恰相反
+Unfortunately, your credit card statements tell a different story.
+
+225
+00:16:16,880 --> 00:16:19,220
+你在数家网站都有消费记录
+They show payments to a number of websites,
+
+226
+00:16:19,220 --> 00:16:23,360
+这些网站被曝光含有
+which have been revealed to distribute this...
+
+227
+00:16:23,360 --> 00:16:24,960
+这种类型的内容
+this kind of material.
+
+228
+00:16:25,210 --> 00:16:26,590
+信用卡撒谎
+The credit cards are lying.
+
+229
+00:16:32,380 --> 00:16:33,400
+好吧
+Right.
+
+230
+00:16:34,510 --> 00:16:38,580
+我必须告诉你  福伊尔先生  形势很严峻
+I have to tell you, Mr Foyle, already this is a huge challenge.
+
+231
+00:16:38,580 --> 00:16:41,520
+你陈述的方式需要仔细琢磨
+We're going to have to work on your presentation style.
+
+232
+00:16:41,520 --> 00:16:42,960
+你所见都是事实
+What you see is what you get.
+
+233
+00:16:43,260 --> 00:16:46,070
+没错  现在这正是问题所在  不是吗
+Yes, well, that's part of the problem, isn't it?
+
+234
+00:16:51,900 --> 00:16:55,100
+-他一定要在这里吗  -是的  必须
+- Does he have to be here? - Yes, he does. Yeah.
+
+235
+00:16:57,350 --> 00:16:59,690
+是这样的  伯顿先生
+Here's the thing, Mr Burton,
+
+236
+00:16:59,700 --> 00:17:02,030
+不知道你有没有注意到
+and I don't know whether you've picked it up
+
+237
+00:17:02,030 --> 00:17:06,660
+或者你的第六感有没有发觉
+or perhaps your sixth sense might have spotted it.
+
+238
+00:17:07,620 --> 00:17:09,560
+我不是特别喜欢人
+I don't like people very much.
+
+239
+00:17:10,770 --> 00:17:12,900
+我就不是那么和善的一个
+I'm just not a very nice person.
+
+240
+00:17:15,200 --> 00:17:18,120
+-我不是来评判你的  -对  归红衣服做
+- I'm not here to judge you. - No, the man in red does that.
+
+241
+00:17:18,120 --> 00:17:21,110
+我来是为你辩护  尽我所能陈述你的案件
+I'm here to defend you and present your case as best as I can.
+
+242
+00:17:21,120 --> 00:17:23,960
+-为此...  -你认为是我做的  对吧
+- In order to do that... - You think I did it, don't you?
+
+243
+00:17:23,960 --> 00:17:25,160
+这就是问题所在
+That's the problem here.
+
+244
+00:17:25,160 --> 00:17:26,320
+我没这么说
+It's not what I was saying.
+
+245
+00:17:26,320 --> 00:17:28,970
+你认为我对那可怜的女人做了那些可怕的事
+You think I did all those awfulthings to that poor woman.
+
+246
+00:17:28,970 --> 00:17:31,140
+-福伊尔先生  请听我说  -我想我不会
+- Mr. Foyle, please listen to me. - I don't think I will.
+
+247
+00:17:31,140 --> 00:17:32,300
+福伊尔先生
+Mr Foyle.
+
+248
+00:17:34,600 --> 00:17:36,630
+我要他出去
+I want him gone.
+
+249
+00:17:37,560 --> 00:17:39,120
+他是你的事务律师
+He's your solicitor.
+
+250
+00:17:39,840 --> 00:17:40,970
+出去
+Gone.
+
+251
+00:17:57,270 --> 00:17:59,210
+他让我紧张
+He was making me nervous.
+
+252
+00:17:59,210 --> 00:18:00,570
+要休息一下吗
+Do you want to take a minute?
+
+253
+00:18:03,010 --> 00:18:04,570
+瞪着我
+Staring at me.
+
+254
+00:18:07,640 --> 00:18:09,770
+-福伊尔先生  -看着我的眼睛
+- Mr Foyle. - Look me in the eye.
+
+255
+00:18:17,060 --> 00:18:18,180
+可以继续了吗
+Shall we get on?
+
+256
+00:18:20,170 --> 00:18:21,840
+要不要来杯热茶
+How about a nice cup of tea?
+
+257
+00:18:24,430 --> 00:18:26,920
+福伊尔先生  我是你的辩护律师
+Mr Foyle, I'm your defence barrister.
+
+258
+00:18:26,930 --> 00:18:30,170
+如果你以任何形式私下向我承认有罪
+If you privately confessed your guilt to me in any way
+
+259
+00:18:30,170 --> 00:18:32,610
+但公开坚称无罪
+but publicly maintained your innocence,
+
+260
+00:18:32,610 --> 00:18:34,500
+我马上跟着希姆金斯先生出去
+I'd be following Mr Simkins there,
+
+261
+00:18:34,510 --> 00:18:38,120
+并且离开时鼓励你承认有罪
+and I would have encouraged you as I left to enter a guilty plea.
+
+262
+00:18:38,120 --> 00:18:39,300
+我没有罪
+I'm not guilty.
+
+263
+00:18:41,680 --> 00:18:42,960
+那么我们可以开始了
+Then this is where we are.
+
+264
+00:18:42,960 --> 00:18:44,820
+你干得很不错
+Well, good job you're here then.
+
+265
+00:18:45,270 --> 00:18:47,210
+-令人振奋  -但愿如此
+- Refreshing. - Let's hope so.
+
+266
+00:18:47,600 --> 00:18:48,710
+你做事的方式
+Your manners.
+
+267
+00:18:51,550 --> 00:18:53,950
+-倒满  -一点点就好
+- Full? - Just a splash.
+
+268
+00:19:01,880 --> 00:19:02,950
+知道吗  说来有趣
+You know, it's funny.
+
+269
+00:19:03,740 --> 00:19:05,710
+和你相处越久
+The more time we spend together,
+
+270
+00:19:07,200 --> 00:19:09,140
+就越觉得我们相似
+the more you remind me of me.
+
+271
+00:19:13,170 --> 00:19:14,190
+好吧
+Right.
+
+272
+00:19:18,850 --> 00:19:20,460
+-伯顿先生  -等一下
+- Mr Burton? - Give me a minute.
+
+273
+00:19:20,460 --> 00:19:22,270
+-你没事吧  -只是需要透透气
+- Are you all right? - I just need some air.
+
+274
+00:19:39,740 --> 00:19:41,870
+-麻烦给我一包万宝路  -好
+- Can I have 20 Marlboro Lights, please? - Yep.
+
+275
+00:19:43,460 --> 00:19:45,660
+-有的话再来一只打火机  -有
+- And a lighter if you have got one. - Sure.
+
+276
+00:20:11,700 --> 00:20:16,090
+她来了  哈洛街57号升起的新星
+Ah, here she is, the rising star at 57 Harlow Street.
+
+277
+00:20:16,170 --> 00:20:19,440
+玛吉  我知道我应该无条件支持你
+Now then, Maggie, I know I should really be rooting for you
+
+278
+00:20:19,440 --> 00:20:21,280
+可是你该明白
+without exception, but you should know
+
+279
+00:20:21,280 --> 00:20:24,910
+第二也没什么丢人的  你看巴兹·奥尔德林
+there is no ignominy in coming second. Just ask Buzz Aldrin.
+
+280
+00:20:25,250 --> 00:20:27,080
+我要求重新计票
+Well, I demand a recount.
+
+281
+00:20:27,080 --> 00:20:29,520
+-仿佛回到了律师学院辩论决赛  -是吗
+- Takes me back to Middle Temple Moot Finals. - Really?
+
+282
+00:20:29,520 --> 00:20:33,030
+是的  你和我  几乎一模一样
+Yeah, you and me. Almost an exact replay.
+
+283
+00:20:34,850 --> 00:20:36,630
+那是很久以前的事情了
+It was a long time ago.
+
+284
+00:20:36,630 --> 00:20:40,350
+听说利亚姆·福伊尔的案子是你对我们朱利安
+I heard you're up against our boy Julian on this Liam Foyle malarkey.
+
+285
+00:20:40,350 --> 00:20:43,290
+-是吗  我们的朱利安  -是  很意外
+- Is that so? Our boy? - Yes. Surprised it's not
+
+286
+00:20:43,290 --> 00:20:46,070
+对手竟然不是你  还真有点不习惯
+you on the other side. Seem to be making a habit out of it.
+
+287
+00:20:46,070 --> 00:20:47,860
+我这不是给你机会挑战下别人吗
+Thought I'd give you a go against someone else for a change.
+
+288
+00:20:47,860 --> 00:20:50,840
+-差不多了吧  -不嫌多
+- Had enough, eh? - Never.
+
+289
+00:20:51,180 --> 00:20:54,400
+我在想是不是多做做辩护
+I am just thinking of transitioning into more defence work.
+
+290
+00:20:54,510 --> 00:20:56,570
+-失陪了  -好的
+- Excuse me. - Sure.
+
+291
+00:21:01,400 --> 00:21:05,800
+福伊尔这个案子对我来说太"犹大"了
+Anyway, this Foyle case is a little too St Jude for my liking.
+
+292
+00:21:06,530 --> 00:21:08,300
+他是败局的守护神
+He's the patron saint of lost causes.
+
+293
+00:21:08,300 --> 00:21:10,660
+是吗  我还不知道
+Oh, I didn't know that.
+
+294
+00:21:11,140 --> 00:21:11,880
+好吧
+Right, well,
+
+295
+00:21:12,040 --> 00:21:14,500
+-我再去找点酒来  -好的  谢谢
+- I'll go and get us some more rubbing alcohol. - Great, thank you.
+
+296
+00:21:18,080 --> 00:21:19,470
+我是认真的  我看过案情摘要
+I'm serious. I've seen the brief.
+
+297
+00:21:19,470 --> 00:21:22,060
+-你为什么接这个案子  -我是律师
+- Why are you doing? - I'm practising law.
+
+298
+00:21:22,060 --> 00:21:26,130
+拜托  这根本是收拾不干净的烂摊子
+Oh, come on. It's almost a no-questions jobbie.
+
+299
+00:21:26,610 --> 00:21:28,150
+你就是想增加曝光度吧
+It might be exposure for all the wrong reasons.
+
+300
+00:21:28,150 --> 00:21:30,520
+我才不是为了曝光度  玛吉
+I don't do things for exposure, Maggie.
+
+301
+00:21:31,020 --> 00:21:32,780
+那为什么接
+Why do you do it?
+
+302
+00:21:33,350 --> 00:21:35,260
+因为每个人都有权申辩
+Because everyone deserves a defence.
+
+303
+00:21:41,740 --> 00:21:43,170
+吹蜡烛吧
+There you go.
+
+304
+00:21:48,670 --> 00:21:51,950
+-许愿吧  -老妈不要再烦我了  -没错
+- Make a wish. - I wish my mum would stop annoying me. - Yes.
+
+305
+00:21:51,950 --> 00:21:54,790
+-谁要吃蛋糕  -我
+- Who wants a piece of cake? - Me!
+
+306
+00:21:54,790 --> 00:21:57,310
+-真的吗  -要吃  要吃
+- Are you sure? - Yes! Yes! Yes!
+
+307
+00:21:59,860 --> 00:22:02,180
+好吧  你是说还要继续调查吗
+OK, so you're saying there's more to find?
+
+308
+00:22:04,430 --> 00:22:07,060
+好的  能把一切都记录在案吗
+Yeah. And would you go on record with that?
+
+309
+00:22:08,750 --> 00:22:12,770
+很好  好的  明天我让事务所的人联系你
+Great. Great, OK. Someone from my office will call you tomorrow
+
+310
+00:22:12,770 --> 00:22:14,160
+我们约个时间
+and set up an appointment.
+
+311
+00:22:14,620 --> 00:22:17,860
+谢谢  明天见  再见
+Thanks. Thank you. Speak soon. Bye-bye.
+
+312
+00:22:18,450 --> 00:22:22,350
+-他是谁  -懂电脑的聪明人
+- Who was that? - That's a clever man who knows about computers.
+
+313
+00:22:22,350 --> 00:22:24,250
+帮你备份大脑吗
+Is he going to back up your brain?
+
+314
+00:22:25,000 --> 00:22:25,920
+不是  工作上的事
+No, it was for my work.
+
+315
+00:22:26,300 --> 00:22:29,520
+-他能帮你胜诉吗  -但愿吧
+- Will he help you win the case? - I hope so.
+
+316
+00:22:37,510 --> 00:22:40,590
+他们来了
+Oh, here they come.
+
+317
+00:23:56,340 --> 00:23:59,390
+-凯特和孩子都好吗  -很好  谢谢
+- How's Kate and the family? - Very well, thank you.
+
+318
+00:23:59,390 --> 00:24:01,310
+玛吉今天应该会来旁听
+I think Maggie's in the gallery today.
+
+319
+00:24:02,080 --> 00:24:05,460
+-为什么  -掂量掂量对手的能耐吧
+- Why's she doing that? - Checking out the competition I expect.
+
+320
+00:24:05,800 --> 00:24:07,100
+当第一名就要有觉悟  威尔
+That's the trouble with being number one, Will.
+
+321
+00:24:07,100 --> 00:24:10,010
+人人都想把你拉下马来
+Everyone wants to knock you off your perch.
+
+322
+00:24:10,660 --> 00:24:15,120
+我听说你上周申请了延期审理
+Now I heard you asked for an adjournment last week.
+
+323
+00:24:15,380 --> 00:24:17,910
+-是的  -遇到麻烦了吗
+- I did indeed. - Trouble at mill?
+
+324
+00:24:18,490 --> 00:24:19,880
+也不是  就是需要更多时间
+Not really. Just needed more time.
+
+325
+00:24:20,120 --> 00:24:22,350
+怕是没时间了  咱们都来了
+Well, here we are, I'm afraid.
+
+326
+00:24:22,390 --> 00:24:24,060
+没错  都来了
+Here we are indeed.
+
+327
+00:24:26,010 --> 00:24:28,560
+我真是喜欢你铁面无私的表情  老兄
+I must say, I do like your game face, old boy.
+
+328
+00:24:28,560 --> 00:24:30,470
+还没到那个时候呢  兄弟
+You haven't seen it yet, old boy.
+
+329
+00:24:33,030 --> 00:24:35,460
+有的罪行恶劣到无以言述
+Some crimes defy description.
+
+330
+00:24:36,730 --> 00:24:39,470
+那是对文明一词的玷污
+They debase our so-called civilisation
+
+331
+00:24:39,470 --> 00:24:43,350
+公然挑衅人性的底线
+and defy every boundary of humanity left to us.
+
+332
+00:24:45,080 --> 00:24:47,340
+杀害桑德拉·马林斯的人
+Now the person who took the life of Sandra Mullins
+
+333
+00:24:47,340 --> 00:24:50,250
+只能被称作卑劣的施虐狂
+can only be described as a malignant sadist,
+
+334
+00:24:50,250 --> 00:24:55,110
+他这种行径是蓄意伤害  恐吓
+who did so with the intent to traumatise, to terrorise,
+
+335
+00:24:55,110 --> 00:24:59,370
+给予受害者非人的痛苦与折磨
+and to inflict the maximum amount of pain and suffering.
+
+336
+00:24:59,650 --> 00:25:01,590
+控方力在证明  毫无疑问
+And we intend to prove, without doubt,
+
+337
+00:25:01,590 --> 00:25:04,590
+这个人就是利亚姆·福伊尔
+that that person was Liam Foyle.
+
+338
+00:25:05,140 --> 00:25:07,560
+脖子周围有严重的瘀伤
+Severe bruising around her neck,
+
+339
+00:25:07,560 --> 00:25:12,120
+甲状软骨和舌骨严重骨折
+her thyroid cartilage and hyoid bone were badly fractured.
+
+340
+00:25:12,500 --> 00:25:14,910
+死因是勒杀
+Cause of death was strangulation.
+
+341
+00:25:15,670 --> 00:25:18,520
+另外还有性侵犯
+Other injuries were sexual in nature,
+
+342
+00:25:18,780 --> 00:25:21,460
+体内体外均造成伤害
+internal and external,
+
+343
+00:25:22,170 --> 00:25:24,000
+未发现双眼眼球
+both eyes were missing,
+
+344
+00:25:24,290 --> 00:25:29,240
+是在死前或者更早时被强行取出的
+removed with force close to the time of death, possibly before.
+
+345
+00:25:29,870 --> 00:25:33,100
+公园的植被覆盖到了东北角
+The park gets overgrown towards the north eastern corner.
+
+346
+00:25:33,430 --> 00:25:36,310
+有很深的草丛  山楂  薰衣草和荨麻
+Long grass, hawthorn, lavender, nettle beds.
+
+347
+00:25:36,680 --> 00:25:38,760
+你早上经过时发现了什么异样吗
+And did you see anything unusual on your morning route?
+
+348
+00:25:39,230 --> 00:25:40,420
+我看到一个男人
+I saw a man.
+
+349
+00:25:40,770 --> 00:25:42,630
+原本躺着  后来起身了
+Getting up from a lying position.
+
+350
+00:25:42,630 --> 00:25:45,530
+休斯先生  依你的职业素养
+Mr Hughes, in your professional capacity,
+
+351
+00:25:45,530 --> 00:25:48,300
+你能确认面前的这份信用卡交易记录
+can you please confirm the credit card statements before you
+
+352
+00:25:48,300 --> 00:25:51,370
+准确说明了这些交易是由你的银行
+are an accurate reflection of payments made by your bank
+
+353
+00:25:51,730 --> 00:25:54,670
+代表账户所有者利亚姆·福伊尔先生做的吗
+on behalf of the account holder, Mr Liam Foyle?
+
+354
+00:25:54,670 --> 00:25:55,690
+是的
+Yes.
+
+355
+00:25:55,690 --> 00:25:58,390
+此卡的这些交易
+And these payments were made by the card
+
+356
+00:25:58,390 --> 00:26:00,860
+都是在今年前三个月进行的  对吗
+over the first three months of this year, is that correct?
+
+357
+00:26:00,970 --> 00:26:01,500
+对
+Yes.
+
+358
+00:26:01,500 --> 00:26:04,010
+并且都是网上在线
+And they were all made online to companies
+
+359
+00:26:04,010 --> 00:26:06,680
+与亚洲和欧洲的公司交易
+across Asia and Europe,
+
+360
+00:26:06,680 --> 00:26:11,570
+这些公司都传播和制作相同的产品
+all of which distribute and produce the same... product,
+
+361
+00:26:12,060 --> 00:26:14,770
+也就是淫秽作品  对吧
+namely pornography, is that correct?
+
+362
+00:26:14,770 --> 00:26:16,790
+据我们所知是这样的
+Yes, that is our understanding.
+
+363
+00:26:17,120 --> 00:26:19,440
+休斯先生  大部分网站
+Mr Hughes, many of these sites,
+
+364
+00:26:19,440 --> 00:26:21,450
+我们为了进行调查
+and I'm afraid we have had to visit them
+
+365
+00:26:21,450 --> 00:26:23,600
+必须对其进行访问
+in the course of this investigation,
+
+366
+00:26:23,600 --> 00:26:26,270
+发现它们都含有极度恶劣的行为
+have shown acts of extreme depravity
+
+367
+00:26:26,270 --> 00:26:28,650
+根据我们对法医报告的研究
+which, we understand from the forensic reports,
+
+368
+00:26:28,650 --> 00:26:31,580
+发现其与桑德拉·马林斯被谋杀前
+show disturbingly accurate similarities to the injuries
+
+369
+00:26:31,580 --> 00:26:34,410
+所受的伤害惊人的一致
+that befell Sandra Mullins before she was murdered.
+
+370
+00:26:34,410 --> 00:26:38,020
+这里我特指身上的咬痕
+I talk specifically in relation to the bite marks
+
+371
+00:26:38,020 --> 00:26:42,400
+-还有对生殖器的损毁  -胡说
+- and the mutilation of genitalia. - Liar!
+
+372
+00:26:42,400 --> 00:26:47,400
+福伊尔先生  我只给你这一次机会
+Mr Foyle! You have one chance with me, and that was it.
+
+373
+00:26:47,830 --> 00:26:50,380
+再违反秩序就算作藐视法庭
+Any more from you and I shall hold you in contempt.
+
+374
+00:26:50,380 --> 00:26:52,870
+-杀人犯  -请安静
+- Murderer! - Silence, please!
+
+375
+00:26:57,860 --> 00:27:00,160
+休斯先生  请回答问题
+Mr Hughes, please answer the question.
+
+376
+00:27:00,880 --> 00:27:02,660
+没错  是这张信用卡
+Yes, it is the same card.
+
+377
+00:27:02,660 --> 00:27:06,210
+谢谢  没有要问的了  法官大人
+Thank you. No further questions, my Lord.
+
+378
+00:27:03,140 --> 00:27:04,860
+{\pos(255,75)}bei1暴民
+
+379
+00:27:08,540 --> 00:27:10,030
+伯顿先生
+Mr Burton?
+
+380
+00:27:16,780 --> 00:27:18,570
+法官阁下  在庭审之前
+My Lord, before this trial began
+
+381
+00:27:18,570 --> 00:27:21,040
+我提交过延期审理的书面申请
+I made a written application for an adjournment.
+
+382
+00:27:21,040 --> 00:27:22,790
+鉴于现在缺少专家证词
+I'm asking you now to reconsider that
+
+383
+00:27:22,790 --> 00:27:25,660
+我希望您能重新考虑下那份申请
+application in the light of the gravity of the expert testimony.
+
+384
+00:27:25,660 --> 00:27:26,880
+-拜托  -伯顿先生
+- Oh, come on. - Mr. Burton.
+
+385
+00:27:26,880 --> 00:27:28,490
+你的请求非常不合时宜
+This is most inappropriate.
+
+386
+00:27:28,490 --> 00:27:31,390
+我认为这期间能发现更多关键证据
+I submit an adjournment will bring vital evidence to light.
+
+387
+00:27:31,390 --> 00:27:33,030
+双方都可以让专家参与
+Let both sides have their expert,
+
+388
+00:27:33,030 --> 00:27:34,090
+再由陪审团做最终判断
+and let the jury decide.
+
+389
+00:27:34,090 --> 00:27:35,380
+伯顿先生
+Mr Burton,
+
+390
+00:27:35,480 --> 00:27:37,370
+公众对这起案件极为关注
+there is huge public interest in having
+
+391
+00:27:37,370 --> 00:27:39,760
+希望能尽快进行审判
+this case heard as soon as possible.
+
+392
+00:27:40,140 --> 00:27:41,050
+你的专家
+The fact your expert
+
+393
+00:27:41,050 --> 00:27:43,100
+未能完成查验证据的工作
+has not mustered himself to the task at hand
+
+394
+00:27:43,100 --> 00:27:44,350
+本庭对此并不关心
+is neither here nor there.
+
+395
+00:27:44,350 --> 00:27:45,350
+不是他效率低
+He's not slow,
+
+396
+00:27:45,350 --> 00:27:47,320
+他正在收集可能的新证据
+it's that he's gathering potentially new evidence.
+
+397
+00:27:47,320 --> 00:27:49,450
+那是同一台电脑
+It's the same computer.
+
+398
+00:27:50,830 --> 00:27:53,540
+双方请的都是电脑取证的专家
+Both of your experts are computer forensic specialists.
+
+399
+00:27:53,540 --> 00:27:55,600
+我不认为两个训练有素的人
+I can hardly see how two trained men
+
+400
+00:27:55,600 --> 00:27:57,030
+检查同一台电脑
+looking at the same equipment
+
+401
+00:27:57,030 --> 00:27:59,410
+会得出截然不同的结论
+could produce so radically different conclusions
+
+402
+00:27:59,410 --> 00:28:00,980
+并对审判结果产生影响
+that it would make a difference.
+
+403
+00:28:01,660 --> 00:28:04,080
+恐怕这是不可能的
+I'm afraid it simply isn't on.
+
+404
+00:28:06,240 --> 00:28:07,960
+如果法官阁下能再仔细考虑...
+I think if My Lord could look a little closer...
+
+405
+00:28:07,960 --> 00:28:12,700
+你的申请被拒了  这个决定不会更改
+Your application was refused and it shall stay refused.
+
+406
+00:28:14,040 --> 00:28:17,150
+我不会因藐视法庭而处罚你
+I will decline from pursuing you on contempt
+
+407
+00:28:17,150 --> 00:28:20,060
+但这是给你的最后一次警告
+but let this be your last and final warning.
+
+408
+00:28:21,200 --> 00:28:22,800
+现在是午餐时间  暂时休庭
+We'll break for lunch now.
+
+409
+00:28:23,550 --> 00:28:26,330
+木已成舟  伯顿先生
+But the train is on the tracks, Mr Burton.
+
+410
+00:28:27,110 --> 00:28:28,650
+为了你的委托人着想
+And for the sake of your client
+
+411
+00:28:28,650 --> 00:28:30,830
+你还是随机应变为好
+I suggest you deal with it.
+
+412
+00:28:31,170 --> 00:28:33,580
+-明白  法官阁下  -起立
+- My Lord. - All rise.
+
+413
+00:29:05,260 --> 00:29:06,480
+威尔
+Will?
+
+414
+00:29:18,240 --> 00:29:19,530
+你要睡会儿觉
+You should try and sleep.
+
+415
+00:29:19,530 --> 00:29:22,310
+-我没事  -我说真的
+ - I'm fine. - I mean it.
+
+416
+00:29:22,860 --> 00:29:25,630
+你认为自己战无不胜  但其实不是这样
+You think you're invincible, and you're not.
+
+417
+00:29:25,630 --> 00:29:27,550
+我们应该给这些窗户换锁
+We should get new locks on these windows.
+
+418
+00:29:27,550 --> 00:29:28,950
+你听到我的话了吗
+Were you even listening to me?
+
+419
+00:29:28,950 --> 00:29:30,960
+换成带钥匙的框架锁
+Frame locks, with keys.
+
+420
+00:29:30,960 --> 00:29:34,060
+我的天  接下来的两个月
+Oh, God. You're going to drive me crazy
+
+421
+00:29:34,060 --> 00:29:36,080
+你是要把我逼疯吗
+for the next two months now, aren't you?
+
+422
+00:29:36,530 --> 00:29:39,020
+我的一位同事刚为一个十二岁男孩辩护
+A colleague of mine just defended a 12-year-old boy
+
+423
+00:29:39,020 --> 00:29:40,240
+他把下水道清洗剂
+who poured drain cleaner
+
+424
+00:29:40,240 --> 00:29:41,770
+灌进了好朋友的喉咙
+down the throat of his best mate
+
+425
+00:29:41,770 --> 00:29:44,330
+就因为他朋友不让他用自己的手机玩游戏
+because he wouldn't let him play a game on his phone.
+
+426
+00:29:54,370 --> 00:29:56,120
+什么世道
+The world is broken.
+
+427
+00:29:59,630 --> 00:30:02,630
+你不该在睡觉前看恐怖电影的
+You shouldn't watch scary movies so close to bedtime.
+
+428
+00:30:08,610 --> 00:30:09,980
+是啊
+Yeah.
+
+429
+00:30:43,090 --> 00:30:45,900
+你的表现可没给我什么信心  威尔
+Not inspiring much confidence up there, Will.
+
+430
+00:30:47,640 --> 00:30:48,920
+我知道我在做什么  福伊尔先生
+I know what I'm doing, Mr. Foyle.
+
+431
+00:30:48,920 --> 00:30:50,730
+我在那儿可没看到
+Not from where I'm sitting.
+
+432
+00:30:51,280 --> 00:30:54,050
+-那就解雇我  -为什么我要那么做
+- So sack me. - Why would I want to do that?
+
+433
+00:30:54,050 --> 00:30:55,560
+你说呢
+You tell me.
+
+434
+00:30:55,560 --> 00:30:57,900
+只要我受雇于你  就为你工作
+I work for you as long as you'll have me.
+
+435
+00:31:01,570 --> 00:31:05,100
+我道歉  威尔  我知道你在尽力帮我
+I apologise, Will. I know you've got my back.
+
+436
+00:31:05,100 --> 00:31:07,320
+很感谢你对我坦诚相待
+I appreciate your honesty very much.
+
+437
+00:31:09,500 --> 00:31:10,890
+我们继续吧
+Shall we get on?
+
+438
+00:31:12,860 --> 00:31:15,440
+-你只有一台电脑  对吗  -没错
+- You only have one computer, is that correct? - Yes.
+
+439
+00:31:15,440 --> 00:31:16,700
+但我不明白这与那女人的遭遇
+But I don't see what that's got to do with
+
+440
+00:31:16,700 --> 00:31:18,550
+有什么关系
+what happened to that woman.
+
+441
+00:31:19,130 --> 00:31:20,430
+你会明白的
+You will.
+
+442
+00:31:22,860 --> 00:31:26,840
+必须有人为桑德拉·马林斯的死付出代价
+Someone must pay for what happened to Sandra Mullins.
+
+443
+00:31:27,550 --> 00:31:29,400
+我们面临的是人性危机
+Our very humanity is at stake,
+
+444
+00:31:29,400 --> 00:31:31,390
+正如我这位渊博的同行所说
+as my learned friend has indicated.
+
+445
+00:31:32,890 --> 00:31:37,890
+如果利亚姆·福伊尔有罪的话
+It would be convenient for everyone here today
+
+446
+00:31:38,000 --> 00:31:39,980
+对今天在座的人而言是顺理成章的
+if Liam Foyle was guilty.
+
+447
+00:31:40,710 --> 00:31:43,010
+戴上手铐后  他将永不能翻身
+The cuffs go on and he's gone forever.
+
+448
+00:31:44,200 --> 00:31:46,180
+看上去似乎是铁证如山
+The evidence seems overwhelming.
+
+449
+00:31:47,670 --> 00:31:49,270
+但事实并非如此
+But it is not.
+
+450
+00:31:51,140 --> 00:31:53,530
+可能福伊尔先生并不招人喜欢
+We may dislike Mr. Foyle.
+
+451
+00:31:54,250 --> 00:31:56,560
+如果我们看到他走过来  可能都要绕道走
+We might cross the street if we saw him coming.
+
+452
+00:31:58,150 --> 00:32:01,100
+但为他辩护并不需要喜欢他
+But we do not have to like him to defend him.
+
+453
+00:32:01,100 --> 00:32:03,700
+因为这里并不是比人气
+Because this is not a popularity contest,
+
+454
+00:32:03,890 --> 00:32:05,690
+也不是搞政治迫害
+this is not a witch-hunt,
+
+455
+00:32:06,710 --> 00:32:08,670
+这里是法庭
+this is a court of law,
+
+456
+00:32:09,750 --> 00:32:12,920
+在这个国度  当你被指控犯罪时
+and in this country, when you're accused of a crime
+
+457
+00:32:12,920 --> 00:32:17,390
+在最终被证明有罪前  都假定你是无辜的
+you are presumed to be innocent until proven guilty.
+
+458
+00:32:17,390 --> 00:32:19,810
+毫无疑问  我这位渊博的同行
+And make no mistake, not a shred of what you've heard from
+
+459
+00:32:19,810 --> 00:32:21,590
+为检方说的每一句话
+my learned friend acting for the Prosecution
+
+460
+00:32:21,590 --> 00:32:24,410
+都是无凭无据的
+has given any proof at all.
+
+461
+00:32:25,020 --> 00:32:27,760
+所展示的是不可靠的证人证词
+I will show you unreliable witnesses,
+
+462
+00:32:28,280 --> 00:32:30,520
+懒惰无能的法医鉴定
+lazy forensic science,
+
+463
+00:32:30,520 --> 00:32:34,600
+以及情感诉求  而不是事实真相
+emotional appeals instead of factual accuracies.
+
+464
+00:32:35,700 --> 00:32:39,270
+就是如此  还妄自断言我的委托人
+Oh, yes, and the casual assertion that my client is
+
+465
+00:32:39,270 --> 00:32:42,370
+是极端色情片的消费者
+a consumer of extreme pornography.
+
+466
+00:32:43,090 --> 00:32:45,940
+首先  我们来谈谈这一点
+First, I think, we will talk about that.
+
+467
+00:32:46,240 --> 00:32:49,010
+我的专业是电脑取证和数据分析
+I am an expert in forensic computer data analysis.
+
+468
+00:32:49,010 --> 00:32:52,860
+克罗博士  你检查过福伊尔先生的
+Dr. Crowe, have you had a chance to examine the hard drive of
+
+469
+00:32:52,860 --> 00:32:54,900
+电脑硬盘吗
+the computer belonging to Mr. Foyle?
+
+470
+00:32:54,900 --> 00:32:56,010
+检查过
+Yes, I have.
+
+471
+00:32:56,010 --> 00:32:57,500
+你是按照这起案件的
+And you did this instructed by
+
+472
+00:32:57,500 --> 00:32:59,340
+检察官的指示去做的  对吗
+the Prosecution in this case, is that correct?
+
+473
+00:32:59,340 --> 00:33:00,370
+是的
+Yes.
+
+474
+00:33:00,370 --> 00:33:03,380
+遗憾的是  为辩方
+And unfortunately Dr. Weeks, the gentleman
+
+475
+00:33:03,380 --> 00:33:05,510
+检查电脑的威克斯博士
+who has helped examine the computer for the Defence
+
+476
+00:33:05,510 --> 00:33:07,830
+还没能完成他的工作
+has not yet finished his work.
+
+477
+00:33:08,120 --> 00:33:10,220
+不过他把到目前为止的记录给了我
+However, he has passed me his notes to date
+
+478
+00:33:10,220 --> 00:33:12,710
+我想就此对你提几个问题
+and I'd like to ask you questions about them.
+
+479
+00:33:13,490 --> 00:33:17,170
+不论你使用电脑上过什么网站
+Wherever you go on the internet, using a computer,
+
+480
+00:33:17,170 --> 00:33:19,280
+都会留下痕迹
+you leave footprints.
+
+481
+00:33:19,280 --> 00:33:20,830
+-对吗  -没错
+- Is that correct? - Yes, it is.
+
+482
+00:33:20,830 --> 00:33:22,790
+即便把文件删除了
+Even if you've deleted a file,
+
+483
+00:33:22,790 --> 00:33:24,210
+像你这样的专家还是能找出痕迹
+someone like you is able to see it.
+
+484
+00:33:24,210 --> 00:33:26,560
+-通常是如此  -你到底想问什么
+- Most of the time. - Where is this going?
+
+485
+00:33:26,560 --> 00:33:28,450
+在我的专家缺席的情况下  法官阁下
+And in the absence of my own expert, My Lord,
+
+486
+00:33:28,450 --> 00:33:29,570
+我这位渊博的同行友好地
+my learned friend has kindly
+
+487
+00:33:29,570 --> 00:33:32,230
+提供检方的专家来参与审理此案
+tendered the Prosecution expert on this matter.
+
+488
+00:33:32,230 --> 00:33:35,470
+我请求跟他探讨一下这一点
+I beg some time to explore this point with him.
+
+489
+00:33:37,160 --> 00:33:38,550
+好吧
+Very well.
+
+490
+00:33:40,930 --> 00:33:46,200
+我渊博的同行断言我的委托人
+My learned friend alleges that my client paid for and viewed,
+
+491
+00:33:46,200 --> 00:33:47,680
+经常购买和观看
+on a regular basis,
+
+492
+00:33:47,680 --> 00:33:51,720
+大量不堪入目的图片  包括
+numerous depraved and abusive images, including...
+
+493
+00:33:52,560 --> 00:33:58,020
+"折磨  损毁  勒杀和奸尸的行为"
+"Acts of torture, mutilation, strangulation, and necrophilia."
+
+494
+00:33:58,520 --> 00:34:00,930
+在你对他的电脑的分析中
+Um, in your analysis of his computer,
+
+495
+00:34:00,930 --> 00:34:03,590
+你有否证实福伊尔先生
+did you establish that Mr Foyle
+
+496
+00:34:03,590 --> 00:34:06,730
+确实访问过那些图片
+had actually visited any of those websites that
+
+497
+00:34:06,730 --> 00:34:08,230
+所属的网站吗
+pertained to those images?
+
+498
+00:34:08,710 --> 00:34:10,170
+-没有  但他的信用卡账单  -谢谢
+- No, but his credit card bills... - Thank you.
+
+499
+00:34:10,170 --> 00:34:14,130
+我渊博的同行声称我的委托人用信用卡
+And my learned friend asserted that my client paid for access
+
+500
+00:34:14,130 --> 00:34:17,480
+购买了那些网站的访问权限
+to many of those websites with his credit card.
+
+501
+00:34:18,940 --> 00:34:20,300
+那么
+Now,
+
+502
+00:34:20,660 --> 00:34:24,700
+如果他没有访问这些网站  为什么要付钱呢
+why would he pay for them if he didn't actually visit them?
+
+503
+00:34:26,340 --> 00:34:27,650
+这话说起来不中听
+It may sound reprehensible
+
+504
+00:34:27,650 --> 00:34:29,550
+但他付的钱没有得到回报  不是吗
+but he's not getting his money's worth, is he?
+
+505
+00:34:30,790 --> 00:34:31,790
+如果他不访问那些网站
+How did he pay for access
+
+506
+00:34:31,790 --> 00:34:34,030
+那又是如何购买权限的呢
+to those sites without actually visiting them?
+
+507
+00:34:34,030 --> 00:34:36,390
+在他的上网记录中  他向许多色情网站
+Many porn sites were on his internet history
+
+508
+00:34:36,390 --> 00:34:38,550
+提供了信用卡的信息
+to which he submitted his credit card details.
+
+509
+00:34:38,550 --> 00:34:42,640
+这样他就能得到一个解锁其他内容的密码
+That's how he received a password to unlock other content elsewhere.
+
+510
+00:34:44,750 --> 00:34:49,750
+他的信用卡信息有没有可能是伪造的呢
+Is it possible that his card details were falsified at that point?
+
+511
+00:34:51,090 --> 00:34:52,240
+你是什么意思
+How do you mean?
+
+512
+00:34:52,240 --> 00:34:54,720
+就是当他向成人网站提供信息时
+That when he submitted his details to the adult site,
+
+513
+00:34:54,720 --> 00:34:56,000
+它们被
+they were taken
+
+514
+00:34:56,230 --> 00:35:00,250
+未知的第三方盗取和利用
+and used by unknown third parties
+
+515
+00:35:00,250 --> 00:35:04,250
+并用来购买和解锁你所说的"其他内容"
+to pay for and unlock this "other content" as you call it.
+
+516
+00:35:04,470 --> 00:35:07,700
+-有那种可能吗  -我觉得有吧  有
+- Is that possible? - I suppose so, yes.
+
+517
+00:35:07,800 --> 00:35:10,860
+考虑到这种可能性  如果我们能证明
+So given this possibility, if we were to prove, in this court,
+
+518
+00:35:10,860 --> 00:35:14,170
+真的发生了信息伪造  那福伊尔先生
+that such falsification occurred, would Mr Foyle be shown to be,
+
+519
+00:35:14,170 --> 00:35:17,160
+是不是就成了身份欺诈的受害者
+in fact, a victim of identity fraud?
+
+520
+00:35:17,160 --> 00:35:20,730
+这不是有关极端色情的庭审
+This is not a trial about extreme pornography,
+
+521
+00:35:20,730 --> 00:35:22,410
+而是审理令人发指的谋杀...
+this is about the horrific murder...
+
+522
+00:35:22,410 --> 00:35:24,450
+我们的专家本来在证实其中的联系
+Our expert was in the process of proving this link.
+
+523
+00:35:24,450 --> 00:35:26,890
+因此我们所提出的延期申请被驳回了
+Hence our application for an adjournment, which was refused.
+
+524
+00:35:26,890 --> 00:35:28,460
+我渊博的同行提出了一系列
+My learned friend brought these hideous
+
+525
+00:35:28,460 --> 00:35:31,960
+耸人听闻的主张  而我再次申请延期
+allegations to bear on this case and I reiterate my request.
+
+526
+00:35:33,790 --> 00:35:36,240
+专家证词对双方都有影响
+The expert testimony cuts both ways.
+
+527
+00:35:43,780 --> 00:35:46,070
+庭警  请带陪审团离开
+Usher, please excuse the jury.
+
+528
+00:35:47,240 --> 00:35:49,420
+刚刚出现了程序问题
+A matter of procedure has just arisen,
+
+529
+00:35:49,420 --> 00:35:51,890
+我需要跟两方都谈一谈
+I need to talk to both sides about it.
+
+530
+00:35:52,440 --> 00:35:54,390
+我们很快就会叫你们回来
+We will call you back presently.
+
+531
+00:35:56,130 --> 00:35:57,970
+去我的办公室
+My room, I think.
+
+532
+00:36:12,120 --> 00:36:12,840
+法官
+Judge.
+
+533
+00:36:12,840 --> 00:36:14,230
+我的委托人被皇家检察院
+My client has been falsely
+
+534
+00:36:14,230 --> 00:36:16,510
+错误地戴上了极端色情爱好者的帽子
+branded an extreme porn enthusiast by the Crown,
+
+535
+00:36:16,510 --> 00:36:18,230
+此事已经泄露到网络社交媒体上
+this has now leaked online to social media,
+
+536
+00:36:18,230 --> 00:36:19,820
+平面媒体也趁势加以报道
+where it's been duly picked up by the print media,
+
+537
+00:36:19,820 --> 00:36:21,780
+给我的委托人贴上了
+which has now tainted my client
+
+538
+00:36:21,780 --> 00:36:25,140
+虐待狂  变态和恋尸癖的标签
+with the label torturer, pervert, necrophiliac,
+
+539
+00:36:25,140 --> 00:36:26,860
+所以这个陪审团必须解散
+so much so this jury must be discharged
+
+540
+00:36:26,860 --> 00:36:29,330
+重新召集  即使有报道限制
+and a new jury called. Even with the reporting restrictions,
+
+541
+00:36:29,330 --> 00:36:32,010
+考虑到本案已经产生的新闻
+given the press this case has already generated,
+
+542
+00:36:32,010 --> 00:36:34,510
+福伊尔先生也得不到公正的审判
+Mr Foyle cannot be given a fair trial.
+
+543
+00:36:35,040 --> 00:36:38,240
+-我申请停止起诉  -太荒唐了
+- The inevitable application is to stay the indictment. - This is absurd.
+
+544
+00:36:38,240 --> 00:36:39,490
+我此时请求是恰当的
+I made the request in good time.
+
+545
+00:36:39,490 --> 00:36:42,540
+-是  我知道  -陪审团对被告的偏见
+- Yes, I know. - The prejudice to the accused
+
+546
+00:36:42,540 --> 00:36:45,350
+在我看来是永久性的
+in the eyes of this jury is, in my view, permanent.
+
+547
+00:36:48,290 --> 00:36:51,610
+我虽不情愿  但这种情况下除了批准申请
+Reluctantly, I feel that I have little option in these circumstances
+
+548
+00:36:51,610 --> 00:36:54,460
+-我别无选择  -法官  拜托
+- but to accede to your application. - Judge, please.
+
+549
+00:36:54,460 --> 00:36:56,250
+我没有办法  朱利安
+I ballsed up, Julian.
+
+550
+00:36:57,620 --> 00:37:01,350
+抱歉  我们去结束这件事吧
+I'm sorry. Let's get this over with.
+
+551
+00:37:02,820 --> 00:37:06,450
+所以  最终结果是  我别无选择
+And so, as a result, I have no alternative
+
+552
+00:37:06,620 --> 00:37:11,070
+只能解散陪审团并释放被告
+but to discharge the jury and release the defendant.
+
+553
+00:37:13,580 --> 00:37:15,370
+全体起立
+All rise.
+
+554
+00:37:39,670 --> 00:37:42,950
+你应该感到羞愧
+You should be ashamed of yourself!
+
+555
+00:37:48,150 --> 00:37:51,220
+-恭喜  干得好  -那是个漏洞
+- Congratulations, well done. - It was a mistake.
+
+556
+00:37:51,220 --> 00:37:52,990
+我只是确保他们付出代价
+I just made sure they paid for it.
+
+557
+00:37:52,990 --> 00:37:54,750
+威尔  好样的
+Will, good man.
+
+558
+00:37:54,750 --> 00:37:57,020
+-这是我的工作  -谢谢你  我的朋友
+- Just doing my job. - Thank you, my friend.
+
+559
+00:38:00,190 --> 00:38:02,160
+不客气  保重
+Pleasure. Take care.
+
+560
+00:38:21,560 --> 00:38:23,010
+-再教我一次  -你自己来
+- So show me again. - You do it.
+
+561
+00:38:23,010 --> 00:38:24,340
+好吧  但是别看着我
+OK. But don't watch me,
+
+562
+00:38:24,340 --> 00:38:26,660
+你看着我就弄不好  我鸭梨山大
+I can't do it if you watch. I'm like a kettle.
+
+563
+00:38:26,730 --> 00:38:28,160
+你鸭梨山大是什么意思
+What do you mean you're like a kettle?
+
+564
+00:38:28,160 --> 00:38:31,000
+-弄好了我再告诉你  去吧  -好吧
+- If I get this right I'll tell you. Go on. - OK.
+
+565
+00:38:39,160 --> 00:38:43,530
+"买衣服的时候要用  想要"
+ "When buying clothing to say what you want, use... Gostaria."
+
+566
+00:38:43,530 --> 00:38:48,260
+-想要  -"我想要一件衬衫"
+- Gostaria. - "I'd like a shirt. Gostaria uma camisa."
+
+567
+00:38:48,260 --> 00:38:50,420
+我想要一件衬衫
+Gostaria uma camisa.
+
+568
+00:38:51,220 --> 00:38:56,220
+"我想要一条裤子  你想要一条裤子吗"
+"I'd like a pair of trousers. Gostaria umas calcas."
+
+569
+00:38:56,720 --> 00:38:57,550
+什么
+What?
+
+570
+00:38:57,550 --> 00:38:58,950
+"要合适的尺码
+"To get the right size,
+
+571
+00:38:58,950 --> 00:39:02,150
+用下面的短语  我是40号"
+use the following phrases. I am a size 40."
+
+572
+00:39:02,150 --> 00:39:04,070
+"我是40号"
+"O meu numero e quarenta."
+
+573
+00:39:04,070 --> 00:39:08,020
+我是4...40号
+O meu numero e qua... quarenta.
+
+574
+00:39:08,020 --> 00:39:10,230
+"如果他们没有合适的颜色
+"If they don't have the right colour,
+
+575
+00:39:10,230 --> 00:39:13,000
+要同样款式的蓝色就这样说
+here is how to ask for the same thing in blue.
+
+576
+00:39:14,130 --> 00:39:16,360
+这个有蓝色的吗"
+Do you have this in blue?"
+
+577
+00:39:28,290 --> 00:39:29,620
+你在冲谁挥手
+Who are you waving at?
+
+578
+00:39:31,230 --> 00:39:32,550
+我不知道
+I don't know.
+
+579
+00:39:34,160 --> 00:39:35,590
+你不知道是什么意思
+What do you mean you don't know?
+
+580
+00:39:36,940 --> 00:39:39,880
+那个男人  是他开始挥手的
+That man. He just started waving.
+
+581
+00:39:40,380 --> 00:39:41,780
+什么男人
+What man?
+
+582
+00:39:42,530 --> 00:39:43,940
+他已经走了
+He's gone now.
+
+583
+00:39:52,280 --> 00:39:55,180
+-进去就是了  -你在尿尿吗
+- Just go in. - Are you peeing?
+
+584
+00:39:56,470 --> 00:40:00,880
+你说呢  听着  深呼吸  推开门
+Possibly. Listen, just take a deep breath and open the door,
+
+585
+00:40:00,880 --> 00:40:02,600
+别扭扭捏捏的
+you big Jessie.
+
+586
+00:40:02,600 --> 00:40:04,460
+我做不到  我有点怕
+I can't. I'm scared.
+
+587
+00:40:04,460 --> 00:40:07,730
+-不就是次聚会吗  -詹妮说她会来
+- It's just a reunion. - Jenny said she'd be here.
+
+588
+00:40:08,310 --> 00:40:10,650
+-我又忘了她是谁来着  -呵呵
+- Who was she again? - Funny.
+
+589
+00:40:11,990 --> 00:40:13,700
+你们总该有些共同点吧
+At least you'll have something in common.
+
+590
+00:40:13,700 --> 00:40:15,910
+我们说好的  现在哪儿都找不见她
+We had a deal. I can't see her anywhere.
+
+591
+00:40:15,910 --> 00:40:17,010
+没事的
+You'll be fine.
+
+592
+00:40:17,200 --> 00:40:20,680
+我应付不来这些人  他们都太...
+No, not these people. These people are all so...
+
+593
+00:40:20,680 --> 00:40:23,600
+-嗨  -你好啊  见到你真好
+- Hi. - Hi, great to see you.
+
+594
+00:40:24,470 --> 00:40:26,490
+-两面三刀  -这么和你说吧
+- Two-faced. - I'll tell you what.
+
+595
+00:40:26,940 --> 00:40:30,200
+如果你到上奶酪的时候还心慌气短
+If you're still hyperventilating by the cheese course,
+
+596
+00:40:30,200 --> 00:40:34,080
+你大可来找我们啊  你知道我们在哪儿的
+you can always come and see us. You know where we are.
+
+597
+00:40:34,240 --> 00:40:36,280
+我们永远欢迎你
+And we're always pleased to see you.
+
+598
+00:40:36,680 --> 00:40:38,640
+行  谢了
+OK. Thanks.
+
+599
+00:40:38,640 --> 00:40:42,250
+我该挂了  拜
+I'd better go. Bye.
+
+600
+00:40:55,740 --> 00:40:57,290
+-妈妈  -什么事
+- Mum. - Yes?
+
+601
+00:40:59,110 --> 00:41:00,370
+你笑什么呢
+What you smiling at?
+
+602
+00:41:00,980 --> 00:41:02,960
+这是意外之喜
+It's a surprise.
+
+603
+00:41:05,560 --> 00:41:07,470
+好大一个惊喜
+A nice surprise.
+
+604
+00:41:09,850 --> 00:41:12,360
+过来  你想问什么
+Come here. What's with the questions?
+
+605
+00:41:12,360 --> 00:41:14,670
+-看你  你总是...  -松手
+- You, you're always... - Get off.
+
+606
+00:41:21,070 --> 00:41:23,430
+-爱丁堡怎么样现在  -还那么疯
+- So how's Edinburgh? - Still mad.
+
+607
+00:41:23,430 --> 00:41:25,280
+不过你还是该回来
+You should come back though.
+
+608
+00:41:25,300 --> 00:41:27,910
+你会有套好房子  孩子的教育也更好
+You get a nicer house, better schools.
+
+609
+00:41:27,910 --> 00:41:29,420
+你有没有考虑过换工作
+Are you considering a career change?
+
+610
+00:41:29,420 --> 00:41:30,920
+我现在挺好的  多谢关心
+I'm doing OK, thanks.
+
+611
+00:41:31,150 --> 00:41:33,260
+我知道  我看报纸了
+I know. I read the papers.
+
+612
+00:41:33,260 --> 00:41:34,920
+让他们等我回来再开始  好吗
+Don't let them start without me, OK?
+
+613
+00:41:52,470 --> 00:41:55,200
+可冬天来临的时候  他...
+And still, when winter came, he...
+
+614
+00:42:48,250 --> 00:42:50,100
+[拉丁语祷词]
+
+615
+00:43:11,230 --> 00:43:12,310
+阿门
+Amen.
+
+616
+00:43:18,790 --> 00:43:19,700
+喂
+Hi.
+
+617
+00:43:19,840 --> 00:43:22,560
+你去哪儿了  我打了好多电话
+Where were you? I've been trying for ages.
+
+618
+00:43:22,560 --> 00:43:25,980
+-发生什么了  -天啊  先前有人在外面
+- What's happened? - God, there was a man outside.
+
+619
+00:43:26,250 --> 00:43:28,310
+我不清楚  但知道有人在外面
+I don't know, but there was somebody outside. 
+
+620
+00:43:28,310 --> 00:43:29,520
+我们在小屋这边
+We are at the cottage.
+
+621
+00:43:29,520 --> 00:43:32,220
+-有人  什么人  -我不知道是谁
+- Man?! What man? - I don't know what man it is!
+
+622
+00:43:32,220 --> 00:43:35,620
+-但肯定有个人  -凯特  深呼吸
+-There was a man, somebody! - Kate. Kate. Breathe.
+
+623
+00:43:35,620 --> 00:43:36,600
+再说一遍
+Tell me again.
+
+624
+00:43:39,110 --> 00:43:43,750
+他...他就在窗外  我当时在洗澡
+He was... He was at the window, and I was in the bath...
+
+625
+00:43:43,750 --> 00:43:46,500
+我洗澡的时候他就一直看着我
+He was looking in at me when I was in the bath.
+
+626
+00:43:46,500 --> 00:43:47,460
+他怎么可能在窗外呢
+How could he be at the window?!
+
+627
+00:43:47,460 --> 00:43:49,990
+我也不知道  但他就在窗外
+I don't know but he was at the window!
+
+628
+00:43:49,990 --> 00:43:52,200
+打电话报警  锁好门窗  呆在卧室里
+Call the police, lock the doors, stay in the bedroom.
+
+629
+00:43:52,200 --> 00:43:52,950
+听到没  不要出去
+OK? Do not go outside.
+
+630
+00:43:52,950 --> 00:43:55,840
+我立马赶回来  我爱你
+I'll be there as soon as I can. I love you, OK?
+
+631
+00:43:55,840 --> 00:43:57,480
+听到我说的了吗  你电话打了吗
+Did you hear me? Are you calling them?
+
+632
+00:43:57,480 --> 00:43:59,700
+我在打
+I'm c-calling.
+
+633
+00:44:21,830 --> 00:44:22,670
+长官
+Guv!
+
+634
+00:44:42,890 --> 00:44:43,670
+{\pos(162,258)}bei1可惜你要走了
+
+635
+00:44:49,910 --> 00:44:54,320
+会不会是你之前的委托人表达什么观点
+Is it possible that one of your ex-clients has a point to prove?
+
+636
+00:44:54,320 --> 00:44:56,940
+可能你败诉了  有过吗
+Someone you failed to defend, perhaps did some time?
+
+637
+00:44:56,940 --> 00:44:59,110
+没有
+Well,... no.
+
+638
+00:44:59,720 --> 00:45:00,850
+你听上去很肯定啊
+You sound very sure.
+
+639
+00:45:00,850 --> 00:45:04,200
+查尔默斯警探  伯顿先生从未输过一场官司
+Detective Chalmers, Mr.Burton has never lost a case.
+
+640
+00:45:05,350 --> 00:45:08,080
+你有没有拒绝过谁的委托
+Have you ever refused to represent someone?
+
+641
+00:45:08,390 --> 00:45:11,280
+-说实话我们没那个权力  -怎么说
+- We're not really allowed to do that. - Allowed?
+
+642
+00:45:11,280 --> 00:45:13,390
+挑拣案子是不允许的
+Cherry-picking is frowned upon.
+
+643
+00:45:30,100 --> 00:45:33,830
+大家都饿了  你们都饿了
+Everybody's hungry. Everybody's hungry.
+
+644
+00:45:49,080 --> 00:45:51,280
+大家都饿了
+Everybody's hungry.
+
+645
+00:46:03,150 --> 00:46:06,390
+皇家法律顾问那边有没有消息
+Any sign of a reply from the QC Selection Panel?
+
+646
+00:46:06,660 --> 00:46:08,440
+这个嘛  是这样的
+Yeah. Look, about that.
+
+647
+00:46:09,150 --> 00:46:10,830
+往后推一推可能比较好
+You might want to delay a little.
+
+648
+00:46:13,790 --> 00:46:17,350
+-什么投诉  -违反职业道德
+- What kind of complaint? - Unprofessional conduct.
+
+649
+00:46:17,350 --> 00:46:18,470
+他怎么没先来找我们
+He didn't come to us first?
+
+650
+00:46:18,470 --> 00:46:20,970
+看来他是想让你更难受些
+Looks like he wanted to cause you maximum discomfort.
+
+651
+00:46:20,970 --> 00:46:24,820
+直接找法律监察员和律师标准委员会  难办
+Went straight to the Legal Ombudsman and the BSB. Both barrels.
+
+652
+00:46:24,820 --> 00:46:27,180
+福伊尔先生声称
+Mr.Foyle asserts that you
+
+653
+00:46:27,180 --> 00:46:29,810
+"根据第301条A1
+"Engaged in conduct which is dishonest
+
+654
+00:46:29,810 --> 00:46:32,890
+你涉嫌非正当的或有损
+or otherwise discreditable to a barrister contrary
+
+655
+00:46:32,890 --> 00:46:35,560
+出庭律师名誉的行为
+to paragraph 301 A1,
+
+656
+00:46:35,560 --> 00:46:37,900
+尤其是你对他的辩词的准确度和
+in particular that you expressed doubts about
+
+657
+00:46:37,900 --> 00:46:40,580
+真实性表达了质疑"
+the validity and honesty of his plea."
+
+658
+00:46:40,580 --> 00:46:41,300
+什么
+What?
+
+659
+00:46:42,030 --> 00:46:43,780
+-这是真的吗  -当然不是
+- Is this true? - Of course not.
+
+660
+00:46:45,670 --> 00:46:48,480
+简直是疯了  我们赢下了这个案子  赢了
+This is insane. We won the bloody case. We won!
+
+661
+00:46:48,480 --> 00:46:50,300
+似乎这还不够
+Looks like it's not enough.
+
+662
+00:46:52,860 --> 00:46:54,020
+他到底是在干什么
+What the hell's he doing?
+
+663
+00:46:54,020 --> 00:46:56,390
+你提交的皇家法律顾问的申请
+I'm afraid your silk application is going to have to wait
+
+664
+00:46:56,390 --> 00:46:57,480
+恐怕要等到此事解决后了
+till this is all sorted out.
+
+665
+00:46:57,480 --> 00:46:59,980
+威尔  我很抱歉  太不走运了
+I'm awfully sorry, Will, it's very bad luck.
+
+666
+00:46:59,980 --> 00:47:02,950
+我们要立马处理这件事  扼杀在摇篮里
+We need to weigh in on this right away, stop it in its tracks.
+
+667
+00:47:02,950 --> 00:47:04,720
+火力够猛的话  应该能行
+Enough firepower, it may well work.
+
+668
+00:47:06,430 --> 00:47:07,650
+丹尼
+Danny!
+
+669
+00:47:08,870 --> 00:47:11,180
+看你还能找到谁回办公室  行吗
+See who you can rope back into the office, will you?
+
+670
+00:47:11,180 --> 00:47:12,790
+这都六点了
+It's six o'clock.
+
+671
+00:47:15,490 --> 00:47:19,130
+我们现在就研究如何处理  怎么样
+We'll thrash out a strategy here and now, all right?
+
+672
+00:47:28,610 --> 00:47:31,180
+工作上出了点事情  这事儿有点诡异
+Yeah, there's been a bit of a thing at work. It's a bit weird.
+
+673
+00:47:31,840 --> 00:47:33,310
+我可能得晚点回了
+I'm going to have to stay later
+
+674
+00:47:33,310 --> 00:47:35,790
+要不我们一起上去吧  你能等我吗
+but maybe we can all go up together? Can you hang on?
+
+675
+00:47:35,790 --> 00:47:39,760
+我们已经准备出发了  我们在上面等你好了
+We're ready for the off. Why don't we just see you up there, eh?
+
+676
+00:47:39,760 --> 00:47:43,260
+不过你抓紧点  我有东西要给你看
+But hurry up, OK? I want to show you something.
+
+677
+00:47:43,260 --> 00:47:46,710
+-这么神秘  -没什么  对了...
+- That's cryptic. - No, not really. Oh, and listen...
+
+678
+00:47:47,120 --> 00:47:48,560
+信号不好了
+Oh, I am losing you.
+
+679
+00:47:51,800 --> 00:47:54,320
+-"喂"  -一会见  好吗
+- "Hello?" -Now, I'll see you later, OK?
+
+680
+00:47:54,320 --> 00:47:56,580
+-"喂  喂"  -挂了
+- "Hello? Hello?" - OK.
+
+681
+00:48:14,170 --> 00:48:17,080
+-到了  到了  -我饿死了
+- We are here. Yeah, we're here. - I am really hungry.
+
+682
+00:48:17,080 --> 00:48:18,920
+活该
+I don't care.
+
+683
+00:48:18,920 --> 00:48:20,910
+听着  我们要等你爸爸回来
+Listen, we are going to wait for your dad to get back
+
+684
+00:48:20,910 --> 00:48:22,740
+然后一起吃饭  好吗
+so we can all eat together, OK?
+
+685
+00:48:24,390 --> 00:48:26,020
+"你好  我是凯特
+"Hi, it's Kate,
+
+686
+00:48:26,020 --> 00:48:29,050
+现在不方便接电话  请留言  拜"
+I'm not here right but leave a message. Bye."
+
+687
+00:48:48,300 --> 00:48:49,230
+杰米
+Jamie?
+
+688
+00:48:56,550 --> 00:48:57,490
+杰米
+Jamie?
+
+689
+00:48:57,710 --> 00:49:00,420
+"搞清楚是白天还是夜晚
+"Try to find out if it is day or night.
+
+690
+00:49:01,900 --> 00:49:05,620
+-打招呼有哪两种方式"  -"很高兴..."
+- What are two ways to greet someone?" - "Muito prazer..."
+
+691
+00:49:14,060 --> 00:49:17,380
+"早上好  下午好"
+"Bom dia. Boa tarde."
+
+692
+00:49:20,040 --> 00:49:22,070
+"最近的药店在哪里"
+"Where is the nearest chemist?"
+
+693
+00:49:22,710 --> 00:49:24,400
+"药店在哪里"
+"Onde esta a farmacia?"
+
+694
+00:49:24,680 --> 00:49:25,610
+凯特
+Kate?
+
+695
+00:49:33,630 --> 00:49:34,610
+凯特
+Kate?!
+
+696
+00:49:36,580 --> 00:49:37,600
+凯特
+Kate?!
+
+697
+00:49:37,770 --> 00:49:40,020
+"那儿有  那里  是的"
+"There is. Ha, sim."
+
+698
+00:49:54,440 --> 00:49:55,400
+凯特
+Kate?
+
+699
+00:49:57,910 --> 00:49:59,010
+凯特
+Kate?!
+
+700
+00:50:02,590 --> 00:50:03,770
+杰米
+Jamie?!
+
+701
+00:50:05,680 --> 00:50:06,570
+凯特
+Kate?!
+
+702
+00:50:09,450 --> 00:50:11,420
+凯特  杰米
+Kate?! Jamie?!
+
+703
+00:50:11,700 --> 00:50:14,910
+杰米  杰米
+Jamie?! Jamie!!
+
+704
+00:50:15,230 --> 00:50:16,170
+杰米
+Jamie!
+
+705
+00:50:17,530 --> 00:50:18,700
+天啊
+Oh, Jesus!
+
+706
+00:50:24,450 --> 00:50:25,280
+凯特
+Kate!
+
+707
+00:50:34,580 --> 00:50:36,060
+爸爸
+Dad!
+
+708
+00:50:37,550 --> 00:50:40,080
+-杰米  杰米  -爸爸
+- Jamie?! Jamie?! - DAD!
+
+709
+00:50:40,080 --> 00:50:40,940
+杰米
+Jamie!
+
+710
+00:50:43,440 --> 00:50:44,360
+杰米
+Jamie!
+
+711
+00:50:48,450 --> 00:50:49,620
+快啊
+Come on!
+
+712
+00:50:52,630 --> 00:50:53,790
+快啊
+Come on!
+
+713
+00:50:57,910 --> 00:50:59,970
+是  报警  救护车
+Yes! Police! Ambulance!
+
+714
+00:52:35,170 --> 00:52:36,890
+言语是苍白的  威尔
+Words are not enough, Will.
+
+715
+00:52:37,960 --> 00:52:39,530
+你需要休息多久都行
+Take all the time you need.
+
+716
+00:52:41,150 --> 00:52:42,760
+钱伯斯律所是个大家庭
+Chambers is a family.
+
+717
+00:52:42,930 --> 00:52:45,210
+家里人就应该相互照顾
+Like all families we take care of one another.
+
+718
+00:52:46,400 --> 00:52:48,750
+这一原则我们将坚持到底
+We will run with this right through to the end.
+
+719
+00:52:49,530 --> 00:52:50,700
+不惜一切代价
+Whatever it takes.
+
+720
+00:52:50,700 --> 00:52:52,770
+-谢谢  -我说到做到
+- Thank you. - You have my word on it.
+
+721
+00:52:54,890 --> 00:52:56,360
+我们一定会让他伏法
+We'll make sure we get him.
+
+722
+00:54:05,810 --> 00:54:07,080
+怎么样了
+How are things?
+
+723
+00:54:09,940 --> 00:54:11,430
+对不起  不该这么问
+Sorry. Shit question.
+
+724
+00:54:12,420 --> 00:54:13,580
+我在努力
+I'm getting through it.
+
+725
+00:54:15,350 --> 00:54:17,160
+抱歉这么突然给你打电话  我正好在附近
+Sorry to call out of the blue, I was in the area.
+
+726
+00:54:17,160 --> 00:54:19,840
+很高兴你打电话了  丹尼  我很感激
+It's really great that you called, Danny. I really appreciate it.
+
+727
+00:54:23,270 --> 00:54:26,350
+-你一切都好吗  -挺好
+- How's everything with you? - Fine, fine.
+
+728
+00:54:28,410 --> 00:54:29,450
+我们正在...
+Well, we're just...
+
+729
+00:54:31,550 --> 00:54:34,610
+全力以赴  打趴那个混账
+..Pulling out all the big guns. Going to blitz the bastard, yeah?
+
+730
+00:54:36,990 --> 00:54:37,880
+怎么了
+What is it?
+
+731
+00:54:40,740 --> 00:54:43,370
+-我不知道要不要告诉你  -告诉我什么
+- I don't know if I should tell you. - Tell me what?
+
+732
+00:54:45,000 --> 00:54:47,980
+利亚姆·福伊尔今天确定了辩护律师
+Liam Foyle confirmed defence counsel today.
+
+733
+00:54:49,360 --> 00:54:50,330
+是谁
+Who is it?
+
+734
+00:55:14,860 --> 00:55:16,770
+我以为你还在休假
+I thought you were still on leave?
+
+735
+00:55:17,210 --> 00:55:18,160
+还在休
+I am.
+
+736
+00:55:20,110 --> 00:55:23,440
+我给你寄了卡片  希望...
+I, erm, I sent you a card. I hope...
+
+737
+00:55:23,440 --> 00:55:24,680
+你替他辩护
+You're defending him.
+
+738
+00:55:28,550 --> 00:55:31,000
+如果你是说利亚姆·福伊尔  是的
+If you mean Liam Foyle, then yes.
+
+739
+00:55:31,410 --> 00:55:32,630
+确实如此
+Yes, you're correct.
+
+740
+00:55:34,310 --> 00:55:36,000
+听着  那些事情发生后  我是说...
+Look, after everything that's happened, I mean...
+
+741
+00:55:38,260 --> 00:55:41,280
+我知道你很难过  真的
+I know this must be very hard for you. I really do.
+
+742
+00:55:41,280 --> 00:55:42,060
+是的
+Yeah.
+
+743
+00:55:42,540 --> 00:55:44,820
+你跟我一样清楚  无论好坏...
+You know as well as I do, for good or bad...
+
+744
+00:55:45,340 --> 00:55:46,560
+怎么说呢
+What can I say?
+
+745
+00:55:48,100 --> 00:55:50,160
+每个人都有权申辩
+Everyone deserves a defence.
+
+746
+00:55:54,020 --> 00:55:55,250
+没错  玛吉
+That's right, Maggie.
+
+747
+00:55:59,260 --> 00:56:00,370
+没错
+That's right.
+
+748
+00:56:11,360 --> 00:56:12,620
+福伊尔谋杀了桑德拉·马林斯
+Foyle murdered Sandra Mullins.
+
+749
+00:56:11,370 --> 00:56:18,570
+{\pos(105,243)}下集预告
+
+750
+00:56:12,620 --> 00:56:14,500
+-你要知道这一点  -庭上你不是这样说的
+- You need to know that. - You said otherwise in court.
+
+751
+00:56:14,500 --> 00:56:16,790
+你让那人进来  你就危险了
+Let that man in, you're risking everything.
+
+752
+00:56:16,790 --> 00:56:18,360
+我说真的  千万别一个人
+I mean it. Don't be alone.
+
+753
+00:56:18,360 --> 00:56:19,610
+是今天吗  辩护
+It was today, isn't it, the plea?
+
+754
+00:56:19,610 --> 00:56:21,320
+-他们应该给你打电话  -告诉我
+- They should have called you. - Talk to me.
+
+755
+00:56:21,320 --> 00:56:24,300
+-其实他被保释了  今早  -啥时候的事
+- Actually he got bail. This morning. -Great. When was this? Ohh!
+
+756
+00:56:24,300 --> 00:56:26,960
+这些律师都没什么仁慈之心
+These lawyers don't have an ounce of mercy in them.
+
+757
+00:56:26,960 --> 00:56:28,620
+很好控制他们
+They can be manipulative.
+
+758
+00:56:28,620 --> 00:56:30,680
+-还没有跟你道谢  -不客气
+- Never said thank you. - Oh, you're welcome.
+
+759
+00:56:31,270 --> 00:56:32,370
+再见
+See you soon.
+
+760
+00:56:32,790 --> 00:56:34,220
+你打算什么时候告诉我
+When were you planning on telling me?
+
+761
+00:56:34,220 --> 00:56:37,220
+-我今晚要见所有人  -爸  小心
+- I want a meeting with everyone tonight. Everyone. - Dad! Look out!
+
+762
+00:56:38,010 --> 00:56:40,060
+-他在这里吗  -他们说他已经走了
+- Is he here? - They said he'd already left.
+
+763
+00:56:40,060 --> 00:56:43,300
+-为什么不给我打电话  -爸爸
+- Why didn't you call me? - Dad! Dad!
+
+764
+00:56:43,310 --> 00:56:45,570
+爸爸  爸爸
+Dad! Dad!
+
+765
+00:00:15,390 --> 00:00:21,890
+{\pos(190,108)}shad2脱 罪 大 师
+
+766
+00:00:17,270 --> 00:00:21,890
+{\pos(280,115)}第一季  第一集
+
+767
+00:00:17,270 --> 00:00:21,890
+{\pos(190,203)}YYeTs人人影视英剧社倾情奉献
+
+768
+00:03:38,500 --> 00:03:42,110
+{\pos(192,170)}bei1翻译  DT的宠物熊猫  爱卿遛小鸟
+
+769
+00:03:43,870 --> 00:03:47,460
+{\pos(192,170)}bei1翻译  Silmar  噎死青春
+
+770
+00:03:48,740 --> 00:03:52,240
+{\pos(192,170)}bei1翻译  面条打包子  珞格格
+
+771
+00:03:53,490 --> 00:03:57,810
+{\pos(192,206)}bei1翻译  妄想的绒布熊  泰斯
+
+772
+00:03:59,320 --> 00:04:03,830
+{\pos(192,206)}bei1时间轴  吉吉  今  狱
+
+773
+00:03:59,320 --> 00:04:03,830
+{\pos(194,226)}bei1特别鸣谢  POTO的小饭桶
+
+774
+00:04:05,390 --> 00:04:09,010
+{\pos(192,185)}bei1特效&后期   宝宝祝圣安村的大绅绅生日快乐
+
+775
+00:04:12,890 --> 00:04:16,480
+{\pos(192,176)}bei1总监   泰斯·雪诺
+

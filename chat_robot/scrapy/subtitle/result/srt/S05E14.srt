@@ -1,0 +1,4025 @@
+1
+00:00:02,000 --> 00:00:03,700
+你找我吗
+You wanted to see me?
+
+2
+00:00:03,700 --> 00:00:05,330
+我想知道为什么
+May I ask why
+
+3
+00:00:05,330 --> 00:00:08,130
+自从我掌管这个基地以来
+You have not filed a single mission report
+
+4
+00:00:08,130 --> 00:00:11,630
+你从来都没交过任务报告
+Since I assumed command of this base?
+
+5
+00:00:11,630 --> 00:00:13,160
+因为我不交任务报告
+'cause I haven't given you any?
+
+6
+00:00:13,160 --> 00:00:16,460
+我对这里作出了一些新规定
+As you know, one of the changes I made around here
+
+7
+00:00:16,460 --> 00:00:20,560
+其中包括了每位组员都必须写任务报告
+Is to require every team member to file mission reports,
+
+8
+00:00:20,560 --> 00:00:22,930
+而不是只有组长或者科研人员要写
+As opposed to only team leaders and science officers.
+
+9
+00:00:22,930 --> 00:00:24,630
+真的?
+Really.
+
+10
+00:00:24,630 --> 00:00:25,930
+我一点都不知道
+I didn't-- I didn't know that.
+
+11
+00:00:25,930 --> 00:00:27,860
+我来这里的第4天就宣布了
+I announced it my fourth day here,
+
+12
+00:00:27,860 --> 00:00:29,430
+是在一个小组的出发准备会上
+At an away-team orientation meeting
+
+13
+00:00:29,430 --> 00:00:32,100
+对任务协议书作出的细节变更
+Detailing changes to mission protocol.
+
+14
+00:00:32,100 --> 00:00:33,100
+我参加了吗
+Was I there?
+
+15
+00:00:33,100 --> 00:00:35,600
+是的  这个会议是强制参加的
+Yes. it was mandatory.
+
+16
+00:00:35,600 --> 00:00:37,160
+好像我不太记得...
+Because I don't remember--
+
+17
+00:00:37,160 --> 00:00:38,430
+我看到你的
+I saw you there.
+
+18
+00:00:38,430 --> 00:00:39,760
+老实说  想无视你还真有点困难
+It's kind of hard to miss you.
+
+19
+00:00:39,760 --> 00:00:43,830
+我的意思是
+Look, my point is
+
+20
+00:00:43,830 --> 00:00:47,760
+你在每次任务之后要写任务报告
+I want you to file a report every mission.
+
+21
+00:00:47,760 --> 00:00:50,260
+我不擅长文笔
+I'm not good at writing.
+
+22
+00:00:50,260 --> 00:00:52,800
+我预料到你会这么说的
+I figured you might say that.
+
+23
+00:00:52,800 --> 00:00:54,560
+用这个
+Use this.
+
+24
+00:00:54,560 --> 00:00:55,930
+这是数码录音机
+It's a digital voice recorder.
+
+25
+00:00:55,930 --> 00:00:58,130
+对着它说话  我们会把它连上
+Speak into it, we'll plug it in,
+
+26
+00:00:58,130 --> 00:00:59,460
+然后你的报告
+And your report
+
+27
+00:00:59,460 --> 00:01:00,760
+会被自动记录下来  然后生成文档
+Will be automatically transcribed and filed
+
+28
+00:01:00,760 --> 00:01:01,830
+和别人的放在一起
+With the others.
+
+29
+00:01:01,830 --> 00:01:04,030
+我也不太擅长说话
+I'm not good at talking, either.
+
+30
+00:01:08,600 --> 00:01:09,970
+不好意思啊
+Oh, I'm sorry.
+
+31
+00:01:09,970 --> 00:01:11,100
+我跑得太快了点  老兄
+Too fast for you, buddy boy?
+
+32
+00:01:12,300 --> 00:01:13,770
+我刚接到疗养院的电话  罗德尼
+Nursing home just called, rodney.
+
+33
+00:01:13,770 --> 00:01:16,030
+他们想要回那个滑板车
+They want their scooter back.
+
+34
+00:01:16,030 --> 00:01:17,600
+滑板车?  我那引擎盖下的可是
+Scooter? that is a tri-cell li-po pack
+
+35
+00:01:17,600 --> 00:01:19,400
+三组的锂离子电池
+Under my hood, son.
+
+36
+00:01:21,930 --> 00:01:23,170
+对不起了  是我不好
+Ooh, sorry. my bad.
+
+37
+00:01:27,630 --> 00:01:29,330
+我要把你踩在脚底
+Yeah, I will trample you.
+
+38
+00:01:29,330 --> 00:01:30,530
+别被你自己的裙子绊倒了
+Well, don't trip on your skirt.
+
+39
+00:01:33,570 --> 00:01:34,470
+没事吧
+You okay?
+
+40
+00:01:34,470 --> 00:01:36,100
+他差点就掉下来了
+I could have dropped him!
+
+41
+00:01:36,100 --> 00:01:37,430
+对不起  我不知道这里会有人
+Sorry, we didn't know anyone was around.
+
+42
+00:01:37,430 --> 00:01:37,900
+你真的没事吧
+You sure you're all right?
+
+43
+00:01:37,900 --> 00:01:38,970
+话说回来
+Come to think of it,
+
+44
+00:01:38,970 --> 00:01:39,870
+你在这儿干嘛
+What are you doing down here anyway?
+
+45
+00:01:39,870 --> 00:01:41,500
+我在哄图门睡觉
+Trying to get torren to sleep.
+
+46
+00:01:41,500 --> 00:01:43,230
+我发现抱着他到处走最能让他安心
+I find that walking him is the best way to calm him.
+
+47
+00:01:43,230 --> 00:01:45,030
+他害疝气了吧
+Ooh, he's colicky, huh?
+
+48
+00:01:45,030 --> 00:01:47,630
+凯勒医生说这些症状会消失的
+Dr. keller says it's a phase that will pass.
+
+49
+00:01:47,630 --> 00:01:49,170
+不用担心了  我小时候也得过疝气
+Oh, don't worry about it.I was a colicky baby too.
+
+50
+00:01:49,170 --> 00:01:51,130
+你就学我妈那样好了  让我哭到睡着
+Just do what my mom did,which was let me cry myself to sleep.
+
+51
+00:01:51,130 --> 00:01:52,300
+反正又不会恶化
+I'm no worse for it.
+
+52
+00:01:53,500 --> 00:01:55,070
+反正
+Anyway...
+
+53
+00:01:55,070 --> 00:01:56,670
+我们是轮流抱他走路
+We usually take turns walking him,
+
+54
+00:01:56,670 --> 00:01:58,100
+但迦楠去视察民情了
+But kanaan is away visiting our people
+
+55
+00:01:58,100 --> 00:01:59,230
+他要不在好几天
+For a few days.
+
+56
+00:01:59,230 --> 00:02:01,730
+我很想帮你  但好像
+I'd help you out, but it looks
+
+57
+00:02:01,730 --> 00:02:03,330
+你已经把一切问题都解决了
+Like you've got everything taken care of.
+
+58
+00:02:03,330 --> 00:02:06,570
+是的  我现在正要把他带回房间
+Yes. now all I have to do is get him back to my quarters
+
+59
+00:02:06,570 --> 00:02:08,370
+不能吵醒他
+Without waking him...
+
+60
+00:02:08,370 --> 00:02:10,700
+更不能被汽车压到
+Or being run over.
+
+61
+00:02:11,800 --> 00:02:12,770
+我们不玩了
+Yeah, we're done here.
+
+62
+00:02:12,770 --> 00:02:14,600
+我们就快结束了
+We're just, you know, finishing up,
+
+63
+00:02:14,600 --> 00:02:15,870
+真的
+Really, so...
+
+64
+00:02:15,870 --> 00:02:16,700
+晚安
+'night.
+
+65
+00:02:16,700 --> 00:02:18,700
+晚安  好梦
+'night. good one.
+
+66
+00:02:18,700 --> 00:02:20,930
+冲冲冲冲冲
+Go, go, go, go, go, go, go!
+
+67
+00:02:44,430 --> 00:02:46,330
+我好像把马达用过头了
+I must have put too much strain on the motor.
+
+68
+00:02:46,970 --> 00:02:49,470
+得给轴上一点润滑油
+Shaft needs a bushing lube.
+
+69
+00:02:49,970 --> 00:02:51,030
+干嘛
+What?
+
+70
+00:02:53,730 --> 00:02:55,330
+这算什么意思
+What's that about?
+
+71
+00:02:55,330 --> 00:02:56,400
+不知道
+Beats me.
+
+72
+00:02:56,400 --> 00:02:58,170
+瑞迪克
+Radek?
+
+73
+00:02:58,170 --> 00:03:00,400
+进来
+Come in.
+
+74
+00:03:00,400 --> 00:03:01,930
+指挥室  我是麦凯博士
+Control room, it's dr. mckay.
+
+75
+00:03:01,930 --> 00:03:03,230
+东区停电了
+We just lost power in the east pier.
+
+76
+00:03:03,230 --> 00:03:04,730
+怎么回事
+What's going on?
+
+77
+00:03:17,030 --> 00:03:18,600
+怪了
+That's strange.
+
+78
+00:03:18,600 --> 00:03:19,770
+除了指挥室之外
+Lights are out all over the city
+
+79
+00:03:19,770 --> 00:03:20,600
+整个城市都停电了
+Except the control room.
+
+80
+00:03:20,600 --> 00:03:22,530
+搞什么啊
+Why is that?
+
+81
+00:03:22,530 --> 00:03:23,770
+麦凯博士
+This is dr. rodney mckay,
+
+82
+00:03:23,770 --> 00:03:24,900
+呼叫指挥室
+Calling anyone in the control room.
+
+83
+00:03:24,900 --> 00:03:26,630
+请回话
+Please respond.
+
+84
+00:03:28,770 --> 00:03:31,230
+肯定是出问题了
+Something's definitely not right.
+
+85
+00:04:49,130 --> 00:04:52,930
+罗德尼  你在吗
+Rodney, are you there?
+
+86
+00:04:52,930 --> 00:04:54,300
+谢帕德中校
+Colonel sheppard?
+
+87
+00:05:07,470 --> 00:05:09,100
+什么都用不了
+Everything's dead.
+
+88
+00:05:09,100 --> 00:05:10,430
+我们没法调查出了什么问题
+There's no way of knowing what the hell's going on.
+
+89
+00:05:10,430 --> 00:05:11,900
+好吧  里维斯
+All right. hey, rivers.
+
+90
+00:05:11,900 --> 00:05:13,070
+分散行动
+Fan out,
+
+91
+00:05:13,070 --> 00:05:14,300
+尽可能多找一些船
+Find as many marines as you can,
+
+92
+00:05:14,300 --> 00:05:15,500
+向控制塔上进发
+Work your way up to the central tower.
+
+93
+00:05:15,500 --> 00:05:16,930
+如果你碰到伍尔希的话就通知我
+If you run into woolsey, let me know.
+
+94
+00:05:16,930 --> 00:05:18,230
+通讯设施瘫痪了  我们用对讲机
+Communications are down. we're on walkies.
+
+95
+00:05:18,230 --> 00:05:19,800
+瑞迪克
+Radek!
+
+96
+00:05:19,800 --> 00:05:20,870
+罗德尼  怎么回事
+Rodney, what's going on?
+
+97
+00:05:20,870 --> 00:05:22,100
+什么  你也不知道?
+What, you don't know either?
+
+98
+00:05:22,100 --> 00:05:22,930
+我准备去控制塔
+I'm on my way to the control tower.
+
+99
+00:05:22,930 --> 00:05:24,130
+还想和你通话呢
+I tried to radio you.
+
+100
+00:05:24,130 --> 00:05:25,030
+除了控制塔之外
+Power's out
+
+101
+00:05:25,030 --> 00:05:26,370
+其他地方都没电了  给你
+Except for the central tower. here.
+
+102
+00:05:26,370 --> 00:05:27,630
+你干脆去主电室
+Go to the main power room instead.
+
+103
+00:05:27,630 --> 00:05:29,430
+看看是不是能重启一下电力系统
+See if you can reboot the system from there.
+
+104
+00:05:29,430 --> 00:05:30,100
+好的
+Okay. all right.
+
+105
+00:05:30,100 --> 00:05:31,470
+好的
+All right.
+
+106
+00:05:35,430 --> 00:05:37,430
+是谁
+Hello?
+
+107
+00:05:57,400 --> 00:05:59,400
+罗德尼  听得见吗
+Rodney, do you read me?
+
+108
+00:05:59,400 --> 00:06:00,730
+听得见  瑞迪克  你说
+Yeah, radek. go ahead.
+
+109
+00:06:00,730 --> 00:06:01,930
+我试过重启系统
+I've tried to restart power.
+
+110
+00:06:01,930 --> 00:06:03,700
+但目前一点都没进展
+So far, absolutely no success.
+
+111
+00:06:03,700 --> 00:06:05,500
+那零点装置呢
+What about the zpm?
+
+112
+00:06:05,500 --> 00:06:06,900
+我检查过了
+I've checked it,
+
+113
+00:06:06,900 --> 00:06:07,830
+还有Naquadah发电器
+As well as the naquadah generator.
+
+114
+00:06:07,830 --> 00:06:10,170
+它们都没联机
+Neither are online.
+
+115
+00:06:10,170 --> 00:06:12,330
+肯定是有人在控制室里把它们拔掉了
+Someone must have disabled them from the control room.
+
+116
+00:06:12,330 --> 00:06:13,770
+如果是这样的话
+If that was the case,
+
+117
+00:06:13,770 --> 00:06:15,370
+他们自己也会没电的
+Then they wouldn't have any power up there either.
+
+118
+00:06:15,370 --> 00:06:17,370
+他们可能用的是外接电源
+Not unless they're using an external power source.
+
+119
+00:06:17,370 --> 00:06:19,200
+听我说
+Okay, listen to me.
+
+120
+00:06:19,200 --> 00:06:20,670
+你也试试这么做
+I want you to do exactly the same thing.
+
+121
+00:06:20,670 --> 00:06:22,570
+启用临时补丁
+Initiate a temporary patch
+
+122
+00:06:22,570 --> 00:06:24,430
+连接外部电源
+Using an external power source--
+
+123
+00:06:24,430 --> 00:06:25,970
+就是那个辅助电池组
+One of the auxiliary battery units.
+
+124
+00:06:25,970 --> 00:06:27,600
+可以  但这点电源维持不了整个城市
+Yes, but that won't be enough to power the entire city,
+
+125
+00:06:27,600 --> 00:06:28,430
+根本不可能
+Not by a long shot.
+
+126
+00:06:28,430 --> 00:06:30,000
+这你别担心
+Don't worry about that.
+
+127
+00:06:30,000 --> 00:06:31,270
+只要给我能启动主机的能量就行
+Just get me enough juice to access the mainframe.
+
+128
+00:06:31,270 --> 00:06:32,600
+我们去查一下
+We can figure out
+
+129
+00:06:32,600 --> 00:06:33,170
+那里到底出了什么问题
+What the hell's going on up there.
+
+130
+00:06:33,170 --> 00:06:34,330
+好的
+All right.
+
+131
+00:06:34,330 --> 00:06:35,130
+你现在在几层
+Whereabouts are you right now?
+
+132
+00:06:35,130 --> 00:06:36,700
+36层?
+Level 36?
+
+133
+00:06:36,700 --> 00:06:37,700
+35层
+35.
+
+134
+00:06:37,700 --> 00:06:39,800
+太好了  35层
+Oh, great. 35. perfect.
+
+135
+00:06:39,800 --> 00:06:41,430
+只剩28层了
+So just another 28 floors to go,
+
+136
+00:06:41,430 --> 00:06:43,000
+只要走走楼梯
+And that's just this stairwell.
+
+137
+00:06:43,000 --> 00:06:44,700
+就能到63楼
+And then we get to level 63,
+
+138
+00:06:44,700 --> 00:06:46,930
+穿过一条辅助楼梯
+Got to cross over to an ancillary stairwell,
+
+139
+00:06:46,930 --> 00:06:48,200
+再往上爬4楼
+Climb another four levels--
+
+140
+00:06:48,200 --> 00:06:50,000
+只不过是到了星门室
+That's just to access the gate room...
+
+141
+00:06:50,000 --> 00:06:51,270
+这样
+Ooh, you know,
+
+142
+00:06:51,270 --> 00:06:52,230
+你在操作的同时
+See if you can route some of that power
+
+143
+00:06:52,230 --> 00:06:53,070
+看看是不是能
+To the transporters
+
+144
+00:06:53,070 --> 00:06:53,900
+把传输机的电源也接上
+While you're at it.
+
+145
+00:06:53,900 --> 00:06:54,800
+好的  我试试
+All right, I'll try.
+
+146
+00:07:17,070 --> 00:07:18,970
+这扇门是通向星门室的楼梯  是吧
+This door leads to the gate room stairwell,right?
+
+147
+00:07:20,130 --> 00:07:22,770
+是啊
+Yeah.
+
+148
+00:07:22,770 --> 00:07:24,870
+也许在停电的时候
+Well, maybe the door was already closed
+
+149
+00:07:24,870 --> 00:07:26,400
+这扇门就是关着的
+When we lost power.
+
+150
+00:07:26,400 --> 00:07:28,230
+这门是故意被关死的  好让我们不能进去
+It was sealed on purpose to keep people out.
+
+151
+00:07:28,230 --> 00:07:29,900
+什么  你是说有人在入侵亚特兰蒂斯?
+What, you think someone's infiltrated atlantis?
+
+152
+00:07:29,900 --> 00:07:32,630
+罗德尼
+Rodney.
+
+153
+00:07:32,630 --> 00:07:33,770
+说吧
+Talk to me.
+
+154
+00:07:33,770 --> 00:07:35,200
+我启动了临时补丁
+I've initiated a temporary patch.
+
+155
+00:07:35,200 --> 00:07:37,270
+我可以把部分的电力传送到你的实验室
+I was able to route partial power to your lab.
+
+156
+00:07:37,270 --> 00:07:39,630
+那传输机呢
+Well, what about the transporters?
+
+157
+00:07:39,630 --> 00:07:41,030
+我还在弄
+Still working on it.
+
+158
+00:07:41,030 --> 00:07:43,330
+恢复某一台之后再通知我
+Yeah, well, let me know when you've got one online.
+
+159
+00:07:43,330 --> 00:07:45,630
+去实验室试试接进主机
+Go to your lab and try to tap into the mainframe.
+
+160
+00:07:45,630 --> 00:07:47,330
+我走另一条楼梯
+I'll try the other stairwells.
+
+161
+00:07:47,330 --> 00:07:49,200
+说不定也过不去  谁知道呢
+They're probably blocked too, but who knows.
+
+162
+00:07:49,200 --> 00:07:51,700
+也许别的地方能上去
+Maybe there's another way up.
+
+163
+00:07:51,700 --> 00:07:52,870
+好吧
+All right.
+
+164
+00:07:55,400 --> 00:07:56,370
+中校
+Colonel.
+
+165
+00:07:56,370 --> 00:07:57,330
+这也封死了吗
+That one sealed too?
+
+166
+00:07:57,330 --> 00:07:58,930
+对  所有楼梯通道都是
+Yeah, all the stairwell doors are.
+
+167
+00:07:58,930 --> 00:08:00,230
+正在想办法上星门室
+Been trying to find a way up to the gate room
+
+168
+00:08:00,230 --> 00:08:01,230
+断电之后一直在想办法
+Since the power went out.
+
+169
+00:08:01,230 --> 00:08:02,400
+我们也是
+Yeah, so have we.
+
+170
+00:08:02,400 --> 00:08:03,230
+知道怎么回事吗
+Any idea what's going on yet?
+
+171
+00:08:03,230 --> 00:08:05,030
+麦凯在找原因
+Mckay's still working on it.
+
+172
+00:08:05,030 --> 00:08:06,730
+我估计用c-4能把门炸穿
+I guess we could blow the door with c-4.
+
+173
+00:08:06,730 --> 00:08:07,630
+是啊  应该可以
+Yeah, we probably will,
+
+174
+00:08:07,630 --> 00:08:08,570
+但至少得先找到门
+But we're not there yet.
+
+175
+00:08:08,570 --> 00:08:09,400
+我去看看到底怎么回事
+I need to know what we're up against
+
+176
+00:08:09,400 --> 00:08:11,730
+免得在这里死不瞑目
+Before we go storming up there.
+
+177
+00:08:17,500 --> 00:08:19,230
+有发现吗
+Any luck?
+
+178
+00:08:19,230 --> 00:08:20,570
+没啥
+Not much.
+
+179
+00:08:20,570 --> 00:08:22,230
+不过你说中了  的确有人入侵亚特兰蒂斯
+You're right, though. someone's taken over atlantis.
+
+180
+00:08:22,230 --> 00:08:23,400
+把主机黑了
+They hacked into the mainframe.
+
+181
+00:08:23,400 --> 00:08:24,870
+我费了半天劲
+I'm having a hard time
+
+182
+00:08:24,870 --> 00:08:26,100
+想进几个主要系统
+Accessing several of the critical systems.
+
+183
+00:08:26,100 --> 00:08:28,400
+唯一能进去的还是只读的
+And the ones that I can access are read-only.
+
+184
+00:08:28,400 --> 00:08:29,500
+你怎么
+Hey, what're you...
+
+185
+00:08:29,500 --> 00:08:30,700
+你怎么这么快就到了
+How did you get up here so fast?
+
+186
+00:08:30,700 --> 00:08:32,230
+我修好了几个
+Oh, I was able to get some of the transporters
+
+187
+00:08:32,230 --> 00:08:34,100
+传输机
+Back online again.
+
+188
+00:08:34,100 --> 00:08:35,700
+去星门室那层的修好了吗
+What about the transporter on the gate room level?
+
+189
+00:08:35,700 --> 00:08:36,870
+很不幸  没有
+No, sadly, no.
+
+190
+00:08:36,870 --> 00:08:37,870
+那层设了个封闭指令
+There's a lockout code in place on that one.
+
+191
+00:08:40,270 --> 00:08:41,200
+监控录像
+Surveillance cameras.
+
+192
+00:08:41,200 --> 00:08:42,470
+我们在控制室和星门室
+We've got closed-circuit feeds
+
+193
+00:08:42,470 --> 00:08:44,100
+设置了独立回路参数
+On the control room and the gate room.
+
+194
+00:08:44,100 --> 00:08:45,800
+只要没被锁在那里面
+If you're not locked out of those as well.
+
+195
+00:08:45,800 --> 00:08:46,830
+它们不属于主系统
+They're not critical systems.
+
+196
+00:08:46,830 --> 00:08:48,330
+我应该进得去
+I should be able to access them if...
+
+197
+00:08:51,370 --> 00:08:52,330
+搞定
+Got it.
+
+198
+00:08:54,130 --> 00:08:55,870
+小型飞船?
+A puddle jumper?
+
+199
+00:08:58,430 --> 00:09:00,400
+那是谁
+Who is that?
+
+200
+00:09:00,400 --> 00:09:01,800
+显然不是亚特兰蒂斯人
+It's definitely not atlantis personnel.
+
+201
+00:09:03,730 --> 00:09:05,370
+能看到伍尔希的办公室吗
+Can you get a feed on woolsey's office?
+
+202
+00:09:05,370 --> 00:09:07,170
+可以  等一下
+Yeah, hang on.
+
+203
+00:09:10,730 --> 00:09:12,300
+我的老天
+Oh, my god.
+
+204
+00:09:23,570 --> 00:09:24,700
+那不是
+Is that...?
+
+205
+00:09:24,700 --> 00:09:25,870
+正是
+Yeah.
+
+206
+00:09:30,530 --> 00:09:31,970
+迈克尔
+Michael.
+
+207
+00:09:32,430 --> 00:09:33,370
+你好  泰勒
+hello,teyla
+
+208
+00:09:36,600 --> 00:09:37,500
+你怎么进来的
+How did you get here?
+
+209
+00:09:39,670 --> 00:09:41,900
+我从你们那儿"借"了个飞船
+The ship I borrowed from your people.
+
+210
+00:09:41,900 --> 00:09:44,000
+附赠了丰富的信息
+It has provided me with a wealth of information
+
+211
+00:09:44,000 --> 00:09:46,270
+和技术
+And technology...
+
+212
+00:09:46,270 --> 00:09:48,370
+还送了我一把万能钥匙
+And the key to infiltrating this base.
+
+213
+00:09:48,370 --> 00:09:49,400
+开这个门
+Use this.
+
+214
+00:09:50,930 --> 00:09:52,700
+这是个数码录音笔
+It's a digital voice recorder.
+
+215
+00:09:52,700 --> 00:09:54,270
+对它讲话  然后插入电脑
+Speak into it, we'll plug it in,
+
+216
+00:09:54,270 --> 00:09:56,130
+你说的话就被自动记录下来
+And your report will be automatically transcribed
+
+217
+00:09:56,130 --> 00:09:57,400
+然后和其他人的一起归档了
+And filed with the others.
+
+218
+00:09:57,400 --> 00:09:59,430
+我也不太擅长说话
+I'm not good at talking, either.
+
+219
+00:10:02,170 --> 00:10:03,800
+临时外来激活
+Unscheduled off-world activation.
+
+220
+00:10:08,600 --> 00:10:10,470
+防护盾打开了吗
+Is the shield raised?
+
+221
+00:10:10,470 --> 00:10:12,170
+是的  长官
+Yes, sir.
+
+222
+00:10:12,170 --> 00:10:15,000
+奈尔森中士的虹膜解除码
+Major nelson's idc.
+
+223
+00:10:15,000 --> 00:10:16,430
+他们来早了
+They're early.
+
+224
+00:10:16,430 --> 00:10:19,230
+按计划明天才到
+Not due back until tomorrow.
+
+225
+00:10:19,230 --> 00:10:21,530
+好吧  让他们进来
+All right, let them in.
+
+226
+00:10:29,730 --> 00:10:32,800
+怎么没停到飞船停泊舱去
+It's not going up to the jumper bay.
+
+227
+00:10:32,800 --> 00:10:33,930
+怎么回事
+What's wrong?
+
+228
+00:10:33,930 --> 00:10:36,070
+奈尔森中士  情况如何
+Major nelson, what's your status?
+
+229
+00:10:41,900 --> 00:10:44,930
+什么东西
+What is that?
+
+230
+00:10:44,930 --> 00:10:46,700
+紧急疏散
+Get everybody out of here.
+
+231
+00:10:46,700 --> 00:10:48,270
+快疏散
+Get 'em out now!
+
+232
+00:11:22,170 --> 00:11:24,000
+关闭所有紧急通道
+Closing all immediate access doors.
+
+233
+00:11:31,830 --> 00:11:34,570
+入口护盾已经激活
+I've activated the portal's shield.
+
+234
+00:11:34,570 --> 00:11:36,200
+很好
+Good.
+
+235
+00:11:36,200 --> 00:11:37,970
+外网电源呢
+What about the external power interface?
+
+236
+00:11:37,970 --> 00:11:40,100
+连接上了
+We're connected.
+
+237
+00:11:40,100 --> 00:11:41,470
+星门室那层
+The control room level
+
+238
+00:11:41,470 --> 00:11:43,270
+直接由飞船供源
+Is now drawing power directly from the ship.
+
+239
+00:11:43,270 --> 00:11:45,170
+电击力场准备好了吗
+Is the stun field holding?
+
+240
+00:11:45,170 --> 00:11:46,730
+好了
+Yes.
+
+241
+00:11:46,730 --> 00:11:48,270
+我们上下两层保护起来
+Two levels above and below us are protected.
+
+242
+00:11:48,270 --> 00:11:51,430
+可以开工了
+Now we can get to work.
+
+243
+00:11:51,430 --> 00:11:53,300
+开什么工
+Get to work on what?
+
+244
+00:11:53,300 --> 00:11:56,700
+原谅我
+Forgive me.
+
+245
+00:11:56,700 --> 00:12:00,470
+忘了恭喜你
+I forgot to congratulate you.
+
+246
+00:12:00,470 --> 00:12:02,430
+他叫什么
+What's his name?
+
+247
+00:12:07,470 --> 00:12:10,470
+算了
+No matter.
+
+248
+00:12:10,470 --> 00:12:12,770
+恐怕我们时间不多了
+We don't have much time, I'm afraid.
+
+249
+00:12:12,770 --> 00:12:14,100
+我手下的变种人正在准备
+My hybrids are preparing
+
+250
+00:12:14,100 --> 00:12:15,870
+启动亚特兰蒂斯的自毁系统
+To activate atlantis' self-destruct device.
+
+251
+00:12:15,870 --> 00:12:20,300
+他们一启动  我们就离开
+As soon as they do that, we will leave.
+
+252
+00:12:20,300 --> 00:12:21,770
+你要毁掉亚特兰蒂斯
+You're going to destroy atlantis?
+
+253
+00:12:21,770 --> 00:12:25,130
+罪有应得
+A punishment richly deserved.
+
+254
+00:12:25,130 --> 00:12:27,830
+我不指望你同意
+Not that I expect you to agree with me.
+
+255
+00:12:27,830 --> 00:12:30,230
+不过别担心
+But don't worry.
+
+256
+00:12:30,230 --> 00:12:31,430
+你的孩子会很安全
+Your baby will be safe.
+
+257
+00:12:31,430 --> 00:12:33,470
+你不能带走我的孩子
+You are not taking my son.
+
+258
+00:12:33,470 --> 00:12:36,230
+我会带走他  泰勒
+Yes, teyla. I am.
+
+259
+00:12:37,670 --> 00:12:41,130
+你的孩子对我很重要
+You know how important your child is to me.
+
+260
+00:12:41,130 --> 00:12:43,400
+你和他父亲赋予了他强大的力量
+His father and you have given him a powerful gift
+
+261
+00:12:43,400 --> 00:12:44,930
+若能被我所用
+That I will utilize
+
+262
+00:12:44,930 --> 00:12:48,530
+我就能彻底控制那些变种人了
+To exert greater control over my legion of hybrids.
+
+263
+00:12:48,530 --> 00:12:52,300
+想要变强  没他不行
+He is the key to increasing my strength,
+
+264
+00:12:52,300 --> 00:12:54,230
+他将使我统领整个星系
+Securing my reign over the galaxy.
+
+265
+00:12:54,230 --> 00:12:56,830
+别做你的帝王梦了
+Your "reign" is over.
+
+266
+00:12:56,830 --> 00:12:58,370
+你别想活着带走他
+You will not make it out of here alive.
+
+267
+00:12:58,370 --> 00:12:59,400
+我的同伴肯定会
+My people will make certain--
+
+268
+00:12:59,400 --> 00:13:00,400
+够了  够了
+Enough! enough.
+
+269
+00:13:01,330 --> 00:13:03,830
+你以为你削弱了我的力量
+You think you've weakened me.
+
+270
+00:13:03,830 --> 00:13:06,400
+你毁了我的基地
+You've destroyed my facilities,
+
+271
+00:13:06,400 --> 00:13:09,830
+毁了我的研究  但你不能
+Ruined much of my research, but you cannot--
+
+272
+00:13:09,830 --> 00:13:11,300
+你不能
+You cannot--
+
+273
+00:13:11,300 --> 00:13:13,200
+动摇我的决心
+Weaken my resolve.
+
+274
+00:13:13,200 --> 00:13:15,970
+别犯傻了  泰勒
+Make no mistake, teyla.
+
+275
+00:13:15,970 --> 00:13:18,930
+我前所未有的强大
+I am as strong now as I have ever been.
+
+276
+00:13:21,830 --> 00:13:22,770
+看看周围
+Look around you.
+
+277
+00:13:22,770 --> 00:13:25,270
+我控制着亚特兰蒂斯
+I am in control of atlantis,
+
+278
+00:13:25,270 --> 00:13:27,700
+就是在这儿
+The very place
+
+279
+00:13:27,700 --> 00:13:30,600
+我依稀记得被你们杀掉的滋味
+Where your people ended my life as I knew it.
+
+280
+00:13:30,600 --> 00:13:33,330
+是时候回来
+It's only fitting that I return...
+
+281
+00:13:33,330 --> 00:13:36,370
+让它永远的从银河系里
+To extinguish this blight from the galaxy
+
+282
+00:13:36,370 --> 00:13:38,600
+消失了
+Once and for all.
+
+283
+00:13:41,430 --> 00:13:43,030
+我还以为迈克尔死了
+I thought michael was dead.
+
+284
+00:13:43,030 --> 00:13:44,830
+是啊
+As did i.
+
+285
+00:13:44,830 --> 00:13:46,170
+咱们不是把他的船都炸飞了吗
+I mean, we blew up his ship, right?
+
+286
+00:13:46,170 --> 00:13:47,770
+就是他偷了我们的飞船
+He's the one who stole our jumper,
+
+287
+00:13:47,770 --> 00:13:49,300
+在我们炸他之前
+Used it to escape from his cruiser
+
+288
+00:13:49,300 --> 00:13:50,400
+从舰上逃走了
+Before we could destroy it.
+
+289
+00:13:50,400 --> 00:13:51,570
+顽强如小强
+He's like a cockroach.
+
+290
+00:13:51,570 --> 00:13:52,530
+每次就快踩着时
+Every time you try to step on him,
+
+291
+00:13:52,530 --> 00:13:54,330
+就溜的没影了
+He just skitters away.
+
+292
+00:13:54,330 --> 00:13:56,200
+好了  我们得开始行动了
+All right, we need to get moving.
+
+293
+00:13:56,200 --> 00:13:58,800
+罗恩  你带人从这边楼梯走
+Lorne, you and your team take this stairwell.
+
+294
+00:13:58,800 --> 00:14:00,770
+我们走这条
+My team will take this stairwell.
+
+295
+00:14:00,770 --> 00:14:02,070
+在各自位置守好
+We move into position.
+
+296
+00:14:02,070 --> 00:14:03,370
+等我信号就炸门
+You wait for my mark to blast the door.
+
+297
+00:14:03,370 --> 00:14:05,270
+我们冲进去  夺回星门室
+We head up, retake the gate room.
+
+298
+00:14:05,270 --> 00:14:06,430
+麦凯  你跟着我
+Mckay, you're with me.
+
+299
+00:14:06,430 --> 00:14:07,730
+泽兰卡留守  努力解码
+Zelenka, stay here, try to figure this thing out.
+
+300
+00:14:07,730 --> 00:14:09,130
+遵命
+Certainly.
+
+301
+00:14:09,130 --> 00:14:10,470
+对迈克尔绝不能手软
+We're giving michael no quarter.
+
+302
+00:14:10,470 --> 00:14:12,300
+击中他  就别停
+If you get a shot at him, take it.
+
+303
+00:14:12,300 --> 00:14:14,030
+确保弄死他
+Make sure he's dead.
+
+304
+00:14:14,030 --> 00:14:16,500
+行动
+Let's move.
+
+305
+00:14:48,000 --> 00:14:51,170
+我得跟你谈谈
+I must speak with you.
+
+306
+00:14:56,100 --> 00:14:58,030
+我们还是无法激活
+We are still having difficulty
+
+307
+00:14:58,030 --> 00:14:59,800
+自毁系统
+With the self-destruct device.
+
+308
+00:14:59,800 --> 00:15:00,700
+为什么
+Why?
+
+309
+00:15:00,700 --> 00:15:01,730
+我说过
+As I told you,
+
+310
+00:15:01,730 --> 00:15:02,900
+密码比我们预计的
+The encryption is much more complex
+
+311
+00:15:02,900 --> 00:15:04,400
+复杂很多
+Than we had anticipated.
+
+312
+00:15:04,400 --> 00:15:07,130
+我们试了几组质因子算法
+We have run several integer factorization algorithms.
+
+313
+00:15:07,130 --> 00:15:08,470
+都不行
+Nothing has worked so far.
+
+314
+00:15:08,470 --> 00:15:09,670
+那就继续算
+Keep at it.
+
+315
+00:15:09,670 --> 00:15:11,370
+算多久
+For how long?
+
+316
+00:15:13,730 --> 00:15:15,400
+直到算出来为止
+As long as it takes.
+
+317
+00:15:15,400 --> 00:15:17,070
+他们突破我们的防御
+It is only a matter of time
+
+318
+00:15:17,070 --> 00:15:19,230
+是迟早的事
+Before the others figure out a way through our defenses.
+
+319
+00:15:19,230 --> 00:15:20,570
+我知道
+I know.
+
+320
+00:15:20,570 --> 00:15:21,670
+那你就赶在他们之前
+But you will have solved the encryption problem
+
+321
+00:15:21,670 --> 00:15:22,700
+解开密码
+Before then.
+
+322
+00:15:24,270 --> 00:15:26,930
+我们已经找到孩子了
+We have the baby.
+
+323
+00:15:26,930 --> 00:15:28,400
+没必要再耗在这儿
+We don't have to remain here.
+
+324
+00:15:28,400 --> 00:15:31,500
+那装置没激活我们就不走
+We are not leaving until that device is armed.
+
+325
+00:15:40,100 --> 00:15:42,270
+出问题了吧
+Problems?
+
+326
+00:15:42,270 --> 00:15:43,800
+没什么解决不了的
+Nothing that can't be dealt with.
+
+327
+00:15:43,800 --> 00:15:45,230
+你应该知道谢帕德中校
+You do know that colonel sheppard
+
+328
+00:15:45,230 --> 00:15:46,670
+一定在组织突击队
+Is no doubt preparing strike teams
+
+329
+00:15:46,670 --> 00:15:47,770
+要夺回星门室
+To retake the gate room.
+
+330
+00:15:47,770 --> 00:15:49,230
+当然
+Of course,
+
+331
+00:15:49,230 --> 00:15:51,230
+或许在我们谈话的时候  他们就会来
+Probably moving them into place as we speak.
+
+332
+00:15:51,230 --> 00:15:54,300
+别担心
+Don't worry.
+
+333
+00:15:54,300 --> 00:15:57,430
+他们进不来
+They're not getting in here.
+
+334
+00:16:08,300 --> 00:16:10,100
+少校  你那边情况怎样
+Major, what's your status?
+
+335
+00:16:12,100 --> 00:16:14,600
+回中校  C-4准备好  只等你的指示
+C-4 is in place, colonel. ready when you are.
+
+336
+00:16:16,900 --> 00:16:18,600
+准备爆破
+Fire in the hole.
+
+337
+00:16:18,600 --> 00:16:20,630
+准备
+On my mark.
+
+338
+00:16:20,630 --> 00:16:23,370
+三  二  一
+Three, two, one,
+
+339
+00:16:23,370 --> 00:16:24,270
+爆破
+Mark.
+
+340
+00:16:27,900 --> 00:16:29,170
+行动
+Move!
+
+341
+00:16:39,470 --> 00:16:42,930
+慢着  数据显示上面有巨大能量
+Whoa, whoa, we're picking up a serious energy reading up ahead.
+
+342
+00:16:42,930 --> 00:16:43,930
+怎么回事
+What is it?
+
+343
+00:16:43,930 --> 00:16:46,570
+不清楚  搞清楚前不要轻举妄动
+I don't know, but we should stop until I do.
+
+344
+00:16:47,770 --> 00:16:50,000
+罗恩少校  停下
+Major lorne, hold up.
+
+345
+00:16:54,930 --> 00:16:58,000
+谢帕德中校  罗恩少校晕倒了
+Colonel sheppard, major lorne is down.
+
+346
+00:16:59,800 --> 00:17:00,800
+发生什么事了
+What happened?
+
+347
+00:17:00,800 --> 00:17:02,030
+不知道
+I don't know.
+
+348
+00:17:02,030 --> 00:17:04,830
+可能是撞到某种力场
+I think he hit some kind of force field.
+
+349
+00:17:04,830 --> 00:17:06,570
+他还活着  但没有知觉
+He's alive, but unconscious.
+
+350
+00:17:06,570 --> 00:17:07,830
+把他抬出去  撤退
+Get him out of there and fall back.
+
+351
+00:17:07,830 --> 00:17:10,570
+看来他还建了一个力场
+Looks like he's got himself a force field.
+
+352
+00:17:10,570 --> 00:17:12,900
+他要不那么勤奋  早废了
+He's nothing if not annoyingly industrious.
+
+353
+00:17:12,900 --> 00:17:14,170
+说得有理  我们现在该怎办
+All right, what do we do?
+
+354
+00:17:14,170 --> 00:17:15,230
+关了它
+Well, we disable it.
+
+355
+00:17:15,230 --> 00:17:16,030
+怎么做
+How?
+
+356
+00:17:17,930 --> 00:17:18,730
+问...得好
+good question
+
+357
+00:17:23,170 --> 00:17:25,230
+我不断检查收到的能量读数
+I've been examining the energy reading we picked up,
+
+358
+00:17:25,230 --> 00:17:28,470
+看来迈克尔改良过了
+And it appears that michael has somehow managed to modify
+
+359
+00:17:28,470 --> 00:17:29,830
+幽灵人的电流脉冲技术
+The wraith stun-pulse technology
+
+360
+00:17:29,830 --> 00:17:32,200
+结合了小型飞船隐形技术
+And integrate it with the puddle jumper cloaking mechanism--
+
+361
+00:17:32,200 --> 00:17:34,300
+创造出了所谓的"电击泡泡"
+Creating a kind of "stun-bubble"--
+
+362
+00:17:34,300 --> 00:17:35,630
+不  是力场
+No, a force field
+
+363
+00:17:35,630 --> 00:17:37,670
+围绕在控制室和星门室周围
+Around the control room and the gate room.
+
+364
+00:17:37,670 --> 00:17:39,330
+听着  只要它在那儿  我们别想进去
+Look, while it's in place, we're not getting in there.
+
+365
+00:17:39,330 --> 00:17:40,900
+我知道
+Well, I know that.
+
+366
+00:17:40,900 --> 00:17:43,070
+你还没告诉我怎么关了它
+What you haven't told me is how we're gonna turn it off.
+
+367
+00:17:43,070 --> 00:17:44,400
+我们还没想出对策
+Because we haven't figured that out yet.
+
+368
+00:17:44,400 --> 00:17:45,870
+这得靠技巧才行
+Look, it's going to be very tricky.
+
+369
+00:17:45,870 --> 00:17:47,030
+迈克尔用小型飞船
+Yeah, you see, michael is using the puddle jumper
+
+370
+00:17:47,030 --> 00:17:48,430
+作为外部电源
+As an external power source,
+
+371
+00:17:48,430 --> 00:17:49,830
+不仅供给控制室和星门室
+Not only for the control room and the gate room,
+
+372
+00:17:49,830 --> 00:17:51,900
+还要支持"电击泡泡"的运作
+But also, he's using it to power the stun-bubble--
+
+373
+00:17:51,900 --> 00:17:53,130
+够了  别提那个"电击泡泡"
+Okay, enough with the "stun-bubble."
+
+374
+00:17:53,130 --> 00:17:54,370
+这表达很准确
+That's an accurate description--
+
+375
+00:17:54,370 --> 00:17:56,230
+不  这表达很白痴
+No, it's a stupid description--
+
+376
+00:17:56,230 --> 00:17:57,170
+兄弟们
+Guys, guys...
+
+377
+00:17:57,170 --> 00:17:58,230
+听着  问题是
+Look, the point is
+
+378
+00:17:58,230 --> 00:18:00,400
+如果我们要停止那个电击...
+That if we want to disable the stun--
+
+379
+00:18:00,400 --> 00:18:02,030
+力场的运作
+The force field,
+
+380
+00:18:02,030 --> 00:18:03,930
+我们要先切断飞船的能源
+Then we first need to disable the power from the jumper.
+
+381
+00:18:03,930 --> 00:18:05,030
+或者  我们另行其道
+Or we figure out a way
+
+382
+00:18:05,030 --> 00:18:07,170
+切断迈克尔对主机的控制
+To override the mainframe lockouts that michael has in place.
+
+383
+00:18:07,170 --> 00:18:08,370
+这又要怎么做
+All right, how's that going?
+
+384
+00:18:08,370 --> 00:18:09,730
+不可行
+It's not.
+
+385
+00:18:09,730 --> 00:18:10,870
+暂时
+Not yet.
+
+386
+00:18:10,870 --> 00:18:12,430
+继续努力吧
+Keep working on it.
+
+387
+00:18:12,430 --> 00:18:14,170
+我去看看罗恩
+I'm going to check on lorne.
+
+388
+00:18:27,830 --> 00:18:28,800
+发生什么事
+What happened?
+
+389
+00:18:28,800 --> 00:18:30,130
+一艘小型飞船突袭
+That puddle jumper that came through...
+
+390
+00:18:30,130 --> 00:18:32,370
+发出某种电波
+It sent out some kind of stun wave,
+
+391
+00:18:32,370 --> 00:18:33,530
+把所有人都击晕了
+Knocked everybody out.
+
+392
+00:18:34,970 --> 00:18:36,570
+所有亚特兰蒂斯人
+All of atlantis?
+
+393
+00:18:36,570 --> 00:18:37,670
+不清楚
+I don't know.
+
+394
+00:18:37,670 --> 00:18:39,070
+可能吧
+Probably.
+
+395
+00:18:44,870 --> 00:18:47,230
+别担心  他们快醒了
+Don't worry, they'll wake up soon.
+
+396
+00:18:47,230 --> 00:18:49,470
+每个人的抵抗力不同
+Everyone has a different level of resistance.
+
+397
+00:18:49,470 --> 00:18:50,470
+来
+Here.
+
+398
+00:18:50,470 --> 00:18:51,800
+谁做的
+Who would do this?
+
+399
+00:18:51,800 --> 00:18:54,030
+不知道  我正想查个清楚
+I don't know. that's what I want to find out.
+
+400
+00:18:54,030 --> 00:18:55,730
+你能打开那扇门吗
+Can you open that door?
+
+401
+00:18:55,730 --> 00:18:56,570
+可以
+I think so.
+
+402
+00:18:56,570 --> 00:18:57,900
+好的  上
+Good. do it.
+
+403
+00:19:10,670 --> 00:19:13,030
+还是没反应
+Still nothing.
+
+404
+00:19:22,630 --> 00:19:26,300
+泰勒  有段时间你还是挺理解我的
+There was a time you understood me, teyla.
+
+405
+00:19:26,300 --> 00:19:29,000
+我被你们的人带来
+When your people brought me here,
+
+406
+00:19:29,000 --> 00:19:31,700
+注射逆转录病毒  将我变成人类
+Gave me the retrovirus that turned me into a human,
+
+407
+00:19:31,700 --> 00:19:35,770
+只有你同情我
+You alone showed me compassion.
+
+408
+00:19:35,770 --> 00:19:38,370
+只有你有良心
+You were the voice of conscience.
+
+409
+00:19:40,870 --> 00:19:44,330
+我反复思量
+I've given this a great deal of thought.
+
+410
+00:19:44,330 --> 00:19:47,830
+我...
+I've...
+
+411
+00:19:47,830 --> 00:19:50,500
+我想还你个人情
+I'm willing to return the favor.
+
+412
+00:19:50,500 --> 00:19:55,670
+我很想带你走
+I would very much like for you to come with me.
+
+413
+00:19:55,670 --> 00:19:58,130
+你可以照顾你的孩子
+You can care for your child,
+
+414
+00:19:58,130 --> 00:20:00,870
+我们照看你们俩
+And I will care for the both of you.
+
+415
+00:20:00,870 --> 00:20:03,730
+我宁愿死
+I would rather die.
+
+416
+00:20:06,600 --> 00:20:08,270
+我保证
+I promise...
+
+417
+00:20:09,670 --> 00:20:13,030
+我不会伤害你们的
+I will not harm either of you.
+
+418
+00:20:13,030 --> 00:20:14,000
+泰勒
+Teyla...
+
+419
+00:20:16,670 --> 00:20:18,700
+你得相信我
+You have to believe me.
+
+420
+00:20:18,700 --> 00:20:20,730
+我不会相信一个杀人犯说的话
+I can not trust the word of a murderer.
+
+421
+00:20:20,730 --> 00:20:22,800
+你怎么就不开窍
+Why can't you understand?
+
+422
+00:20:24,630 --> 00:20:29,030
+我这么做是有苦衷的
+I have become what I am out of necessity,
+
+423
+00:20:29,030 --> 00:20:30,330
+生存所逼
+The need to survive!
+
+424
+00:20:30,330 --> 00:20:32,500
+你这么做是为了复仇
+You became what you are out of vengeance.
+
+425
+00:20:32,500 --> 00:20:34,370
+难道在你的世界  罪人就不该受罚吗
+Do you not punish criminals in your world?
+
+426
+00:20:34,370 --> 00:20:36,070
+正义就不能得到伸张吗
+Are they not brought to justice?
+
+427
+00:20:36,070 --> 00:20:37,630
+对你来说这是正义吗
+Is this justice to you?
+
+428
+00:20:37,630 --> 00:20:39,930
+杀死银河系数以千计的
+Killing hundreds of thousands of innocent people
+
+429
+00:20:39,930 --> 00:20:41,030
+无辜人民
+Across this galaxy?
+
+430
+00:20:41,030 --> 00:20:42,200
+要不是你们要用我来做
+They would not be dead
+
+431
+00:20:42,200 --> 00:20:43,530
+那个邪恶的试验
+Had you not made me the subject
+
+432
+00:20:43,530 --> 00:20:45,330
+他们就不会死
+Of your vicious experiment!
+
+433
+00:20:45,330 --> 00:20:47,530
+你的双手沾满他们的鲜血
+Their blood is on your hands!
+
+434
+00:20:54,370 --> 00:20:55,770
+你自己选
+It's your choice.
+
+435
+00:20:55,770 --> 00:20:58,800
+跟我走生存下去  或者留下来等死
+You can come with me and live, or remain here and die.
+
+436
+00:20:58,800 --> 00:21:01,030
+无论如何  我都要带走你的孩子
+Either way, I'm taking your child.
+
+437
+00:21:09,970 --> 00:21:11,730
+我们得炸掉飞船
+We need to blow up the jumper.
+
+438
+00:21:11,730 --> 00:21:13,600
+如果我们炸了它
+If we blow it up,
+
+439
+00:21:13,600 --> 00:21:15,400
+切断了电源  就停止了力场
+We cut the power and disable the force field,
+
+440
+00:21:15,400 --> 00:21:16,830
+对吧
+Right?
+
+441
+00:21:16,830 --> 00:21:18,870
+好计划  我只是不确定
+Great plan-- I'm just not entirely clear
+
+442
+00:21:18,870 --> 00:21:20,930
+你究竟要怎么炸毁那艘飞船
+On how you intend on doing the actual blowing up.
+
+443
+00:21:20,930 --> 00:21:21,770
+用远程遥控飞船去撞
+Fire a drone at it.
+
+444
+00:21:21,770 --> 00:21:22,900
+不行
+We can't.
+
+445
+00:21:22,900 --> 00:21:24,670
+备用电池提供的能量
+The chair room requires far more power
+
+446
+00:21:24,670 --> 00:21:26,330
+无法支撑主室的能量消耗
+Than the auxiliary battery units can provide.
+
+447
+00:21:26,330 --> 00:21:28,570
+我勉强能调足够的能量到这实验室
+I was barely able to bring enough power into this lab,
+
+448
+00:21:28,570 --> 00:21:29,500
+更别提还要支撑几个
+Let alone the few transporters
+
+449
+00:21:29,500 --> 00:21:30,800
+刚修好的传输机
+I could bring online.
+
+450
+00:21:30,800 --> 00:21:32,200
+好的  那就用飞船
+All right, then, we'll take a jumper.
+
+451
+00:21:32,200 --> 00:21:34,030
+我再一次问  怎么做
+Again, I come back to my question of how?
+
+452
+00:21:34,030 --> 00:21:35,500
+我们去不了飞船舱
+We have no way of getting to the jumper bay.
+
+453
+00:21:35,500 --> 00:21:37,600
+那我们就去水下基地找一架
+We'll take one from the underwater bay.
+
+454
+00:21:37,600 --> 00:21:38,700
+飞到塔楼上
+Fly it up to the tower,
+
+455
+00:21:38,700 --> 00:21:40,270
+然后扔个飞弹出去
+Fire a drone through the window,
+
+456
+00:21:40,270 --> 00:21:43,130
+炸掉迈克尔的飞船
+And take out michael's jumper.
+
+457
+00:21:44,200 --> 00:21:45,370
+怎么了
+What?
+
+458
+00:21:45,370 --> 00:21:46,800
+没  没  听着挺好的
+Uh, no, no, no, that's a good plan,
+
+459
+00:21:46,800 --> 00:21:48,500
+除了一个小问题
+Except I see one small problem--
+
+460
+00:21:48,500 --> 00:21:50,430
+水下停泊舱
+The underwater jumper bay
+
+461
+00:21:50,430 --> 00:21:51,770
+只有几架飞船
+Only has a couple of jumpers in it.
+
+462
+00:21:51,770 --> 00:21:53,070
+我们只要一架啊
+Well, we only need one.
+
+463
+00:21:53,070 --> 00:21:54,730
+问题是
+Yes, well, the thing is--
+
+464
+00:21:54,730 --> 00:21:55,730
+大多都因长期泡水
+Both of them were severely damaged
+
+465
+00:21:55,730 --> 00:21:56,670
+坏得厉害
+In the flood.
+
+466
+00:21:56,670 --> 00:21:58,430
+没有哪架还能飞
+Neither of them is able to fly.
+
+467
+00:21:58,430 --> 00:22:00,830
+都2年了  瑞迪克  麦凯早修好了
+That was two years ago, radek. mckay already fixed them.
+
+468
+00:22:02,300 --> 00:22:04,470
+不会吧...
+Oh, you've got to be kidding me...
+
+469
+00:22:04,470 --> 00:22:05,770
+我正准备修
+It was the next thing on my list.
+
+470
+00:22:05,770 --> 00:22:07,230
+你说过你要去修的
+You said you were going to fix them.
+
+471
+00:22:07,230 --> 00:22:08,870
+我知道  我准备要修的  真的
+I know, and I was getting to it, I swear.
+
+472
+00:22:08,870 --> 00:22:10,300
+2年了呢
+And you had two years!
+
+473
+00:22:10,300 --> 00:22:11,830
+我忙的很
+I was busy!
+
+474
+00:22:11,830 --> 00:22:13,030
+或许我们应该下去看看
+Perhaps we should go
+
+475
+00:22:13,030 --> 00:22:14,200
+还能不能修个一两架
+And see if we can fix one of them.
+
+476
+00:22:14,200 --> 00:22:15,570
+好主意
+That's a good idea,
+
+477
+00:22:15,570 --> 00:22:16,830
+但你给我留在这儿
+But I want you stay here
+
+478
+00:22:16,830 --> 00:22:18,200
+想办法切断迈克尔的锁定
+To try to override michael's lockouts.
+
+479
+00:22:18,200 --> 00:22:19,800
+为什么我不能留下做这个
+Why don't I stay here and work on that?
+
+480
+00:22:19,800 --> 00:22:20,970
+泽兰卡可以和你去修飞船
+Zelenka can go with you to the jumper bay.
+
+481
+00:22:20,970 --> 00:22:22,600
+因为你一定要去
+Because I want you to come with me
+
+482
+00:22:22,600 --> 00:22:24,000
+修飞船
+And fix those jumpers
+
+483
+00:22:24,000 --> 00:22:25,370
+你2年前说过
+Like you said you were going to do
+
+484
+00:22:25,370 --> 00:22:26,370
+你要去修的
+Two years ago.
+
+485
+00:22:26,370 --> 00:22:27,430
+走吧
+Let's go.
+
+486
+00:22:27,430 --> 00:22:28,100
+希望有传输机送我们去
+Please tell me there's a transporter.
+
+487
+00:22:28,100 --> 00:22:29,300
+有的
+Yes.
+
+488
+00:22:29,300 --> 00:22:30,330
+不过  离舱远的很
+Well, not by the jumper bay,
+
+489
+00:22:30,330 --> 00:22:31,970
+两层下面有一个传输机
+But there's one two levels down.
+
+490
+00:22:31,970 --> 00:22:34,530
+太好了
+That'll do.
+
+491
+00:22:42,330 --> 00:22:43,570
+干得好
+Nice.
+
+492
+00:23:07,200 --> 00:23:10,130
+你会打?
+You can fight.
+
+493
+00:23:10,130 --> 00:23:13,030
+打过5年拳击
+Five years of kick-boxing.
+
+494
+00:23:13,030 --> 00:23:14,930
+这消息不错
+That's good to know.
+
+495
+00:23:14,930 --> 00:23:17,100
+发生了什么事
+What happened?
+
+496
+00:23:58,200 --> 00:23:59,730
+是迈克尔和他的变种人
+It's Michael and his hybrids.
+
+497
+00:23:59,730 --> 00:24:00,970
+我数出三个
+I counted three of 'em.
+
+498
+00:24:00,970 --> 00:24:01,970
+不知道后面是不是还有更多的
+I'm not sure how many more there are.
+
+499
+00:24:01,970 --> 00:24:03,170
+估计不会太多
+Probably not too many--
+
+500
+00:24:03,170 --> 00:24:04,330
+毕竟是乘飞船过来
+They all had to fit in that jumper.
+
+501
+00:24:04,330 --> 00:24:07,670
+除非他们走过来
+Unless more came through on foot afterward.
+
+502
+00:24:07,670 --> 00:24:09,670
+我们怎么办
+What do we do?
+
+503
+00:24:09,670 --> 00:24:10,800
+先想办法去武器库
+Try to get to the armory,
+
+504
+00:24:10,800 --> 00:24:12,530
+然后回来夺回星门室
+come back and retake the gate room.
+
+505
+00:24:12,530 --> 00:24:13,670
+听起来计划不错
+Sounds like a plan.
+
+506
+00:24:13,670 --> 00:24:14,670
+你们两个  跟我们来
+You two, come with us.
+
+507
+00:24:14,670 --> 00:24:17,270
+你就和他们呆一起  安抚下他们
+Stay here with them, keep all of them calm
+
+508
+00:24:17,270 --> 00:24:18,730
+如果还有变种人出现
+And, uh, if any more hybrids show up,
+
+509
+00:24:18,730 --> 00:24:21,600
+就像刚刚那样做
+just do what you did earlier.
+
+510
+00:24:27,200 --> 00:24:30,230
+再跟你说一遍  这很紧急
+...speak with you again. It's urgent.
+
+511
+00:24:30,230 --> 00:24:32,330
+和他待一起
+Stay with him.
+
+512
+00:24:37,000 --> 00:24:38,870
+怎么了
+What is it?
+
+513
+00:24:38,870 --> 00:24:40,170
+我们终于破译了
+We were finally able to
+
+514
+00:24:40,170 --> 00:24:42,900
+自毁装置的密码
+decipher the encryption on the self-destruct device.
+
+515
+00:24:42,900 --> 00:24:44,570
+很好
+Good.
+
+516
+00:24:44,570 --> 00:24:46,630
+准备起飞
+Prepare the ship to leave.
+
+517
+00:24:46,630 --> 00:24:48,470
+准备启动自毁装置
+We'll arm the self-destruct,
+
+518
+00:24:48,470 --> 00:24:50,500
+然后在我们离开前的瞬间
+And switch the power back to Atlantis' systems
+
+519
+00:24:50,500 --> 00:24:51,930
+把电源切回到亚特兰蒂斯的系统
+a split-second before we leave.
+
+520
+00:24:51,930 --> 00:24:54,700
+时机一定要精准
+The timing of the switch must be precise.
+
+521
+00:24:54,700 --> 00:24:56,100
+我不想他们有任何机会
+I don't want to give them any opportunity
+
+522
+00:24:56,100 --> 00:24:57,700
+解除装置
+to disarm the device.
+
+523
+00:24:57,700 --> 00:24:59,600
+我会计算好的
+I'll make the calculations.
+
+524
+00:25:03,700 --> 00:25:05,170
+计划有变
+Change of plans.
+
+525
+00:25:05,170 --> 00:25:06,170
+我们不去武器库了
+We're not going to the armory.
+
+526
+00:25:06,170 --> 00:25:07,370
+为什么  发生什么事了
+Why? What happened?
+
+527
+00:25:07,370 --> 00:25:09,300
+他们启动了自毁装置
+They armed the self-destruct.
+
+528
+00:25:09,300 --> 00:25:12,230
+伍尔希先生  能否请你回到其他人那里
+Mr. Woolsey, would you please head back to the others?
+
+529
+00:25:28,000 --> 00:25:29,630
+谢帕德中校  我是泰勒
+Colonel Sheppard, this is Teyla.
+
+530
+00:25:29,630 --> 00:25:31,400
+能听得到吗
+Can you hear me?
+
+531
+00:25:31,400 --> 00:25:33,630
+约翰  我是泰勒  请回话
+John, this is Teyla. Please respond.
+
+532
+00:25:49,870 --> 00:25:51,800
+谢帕...
+Colonel Shep--
+
+533
+00:25:51,800 --> 00:25:52,800
+谢帕德中校
+Colonel Sheppard.
+
+534
+00:25:52,800 --> 00:25:54,300
+若楠在控制室
+Ronon is in the control room.
+
+535
+00:25:54,300 --> 00:25:55,370
+正和迈克尔打着呢
+He's fighting with Michael!
+
+536
+00:25:55,370 --> 00:25:58,530
+我们快到飞船舱了  有情况随时通报
+We're almost at the jumper bay. Keep us posted.
+
+537
+00:26:10,870 --> 00:26:12,070
+泰勒  快跑
+Teyla, run!
+
+538
+00:26:23,770 --> 00:26:25,600
+泰勒
+Teyla!
+
+539
+00:26:25,600 --> 00:26:26,430
+你还好吗
+Are you all right?
+
+540
+00:26:26,430 --> 00:26:27,470
+还好
+Yes.
+
+541
+00:26:27,470 --> 00:26:28,270
+但是若楠需要帮忙
+But Ronon needs our help.
+
+542
+00:26:28,270 --> 00:26:29,970
+我们必须尽快回到控制室
+We need to get back up to the control room.
+
+543
+00:26:55,570 --> 00:26:58,830
+瑞迪克?  那里发生了什么事
+Radek? Tell us what's going on up there.
+
+544
+00:26:58,830 --> 00:27:00,930
+我说不好  若楠倒下了
+I-- I can't tell. Ronon is down.
+
+545
+00:27:00,930 --> 00:27:03,130
+可能昏过去了
+He might just be unconscious.
+
+546
+00:27:03,130 --> 00:27:05,370
+他醒过来了就告诉我
+Tell me when he comes to.
+
+547
+00:27:05,370 --> 00:27:06,300
+我们进展怎么样
+What have we got?
+
+548
+00:27:06,300 --> 00:27:07,970
+就像我说的  两个飞船都坏了
+It's like I said--both of the jumpers are toast.
+
+549
+00:27:07,970 --> 00:27:09,130
+这个有一大堆的问题
+This one's got a whole whack of problems,
+
+550
+00:27:09,130 --> 00:27:10,600
+首先就是没有能源
+starting with zero power.
+
+551
+00:27:10,600 --> 00:27:12,730
+你的意思是说另外一个有能源的对不对
+You said the other jumper's got power, right?
+
+552
+00:27:12,730 --> 00:27:13,600
+对  不过好不了多少
+Yeah, but not much else.
+
+553
+00:27:13,600 --> 00:27:15,430
+驾驶舱不能用  也没有飞弹
+Drive pods won't extend, there's no drones...
+
+554
+00:27:15,430 --> 00:27:16,630
+可是这艘有飞弹
+This one's got drones.
+
+555
+00:27:16,630 --> 00:27:17,970
+如果我们把能源弄过来
+So if we bring power over to this,
+
+556
+00:27:17,970 --> 00:27:19,470
+这样驾驶舱就可以用了  对吧
+We can get drive pods working, right?
+
+557
+00:27:19,470 --> 00:27:21,000
+你想让我把两个船上能用的部件
+You want me to harvest parts from both jumpers,
+
+558
+00:27:21,000 --> 00:27:22,570
+就这么拼成一个可以用的飞船?
+Cobble together a fix so one of them will work?
+
+559
+00:27:22,570 --> 00:27:23,530
+可行吗
+Is it possible?
+
+560
+00:27:23,530 --> 00:27:24,270
+我怀疑
+Doubtful.
+
+561
+00:27:24,270 --> 00:27:25,170
+但也是有可能的...
+But maybe...
+
+562
+00:27:25,170 --> 00:27:26,270
+怎么说都有很多工作
+A long shot at best.
+
+563
+00:27:26,270 --> 00:27:27,670
+很好  开始吧
+Perfect. Get to it.
+
+564
+00:27:27,670 --> 00:27:28,930
+要多久  15分钟?
+What do you need, 15 minutes?
+
+565
+00:27:34,030 --> 00:27:36,270
+真好  真是好极了
+Great, just great.
+
+566
+00:27:40,830 --> 00:27:43,230
+传输机也被关了
+Must've locked out the transporters.
+
+567
+00:27:43,230 --> 00:27:44,370
+我们要去控制室
+We need to get to the control room.
+
+568
+00:27:44,370 --> 00:27:45,470
+这太危险了  没有武器就不能去
+It's too dangerous.Not without weapons.
+
+569
+00:27:45,470 --> 00:27:47,170
+最近的楼梯在哪里
+Where's the nearest stairwell?
+
+570
+00:27:47,170 --> 00:27:49,070
+转角那儿  这边
+Around the corner. This way.
+
+571
+00:27:49,070 --> 00:27:51,100
+我走前面
+Let me lead.
+
+572
+00:29:36,270 --> 00:29:39,430
+好了  输好了
+Okay, give 'er.
+
+573
+00:29:40,630 --> 00:29:42,030
+驾驶舱可以用了
+Drive pods are go.
+
+574
+00:29:42,030 --> 00:29:44,570
+好了  我们差不多了
+All right, now we're getting somewhere.
+
+575
+00:29:44,570 --> 00:29:47,130
+有能源  有生命支持系统  有...
+I got juice, I got life support, I got--
+
+576
+00:29:47,130 --> 00:29:47,930
+不是吧
+Oh, come on!
+
+577
+00:29:47,930 --> 00:29:48,670
+怎么了
+What?
+
+578
+00:29:48,670 --> 00:29:50,970
+武器装置没连上
+The weapons won't come online.
+
+579
+00:29:50,970 --> 00:29:52,130
+为什么
+Why not?
+
+580
+00:29:52,130 --> 00:29:53,170
+我不知道
+I don't know.
+
+581
+00:29:53,170 --> 00:29:55,570
+那就找原因  我们需要飞弹
+Well, figure it out. we need those drones.
+
+582
+00:30:01,700 --> 00:30:03,500
+她在哪里
+Where is she?
+
+583
+00:30:04,700 --> 00:30:06,170
+我们不知道
+We don't know.
+
+584
+00:30:06,170 --> 00:30:07,330
+我们都找遍了
+We searched everywhere.
+
+585
+00:30:07,330 --> 00:30:09,570
+你是想说她就这样消失了吗
+Are you telling me she just disappeared?
+
+586
+00:30:09,770 --> 00:30:12,600
+我是说我们找遍了几乎
+I'm saying that we searched every room and corridor
+
+587
+00:30:12,600 --> 00:30:13,830
+每个房间和走道
+Within the stun field.
+
+588
+00:30:13,830 --> 00:30:16,170
+哪儿都找不到
+We couldn't find her anywhere.
+
+589
+00:30:16,170 --> 00:30:18,200
+她对这个城市很了解
+She knows this city well.
+
+590
+00:30:18,200 --> 00:30:20,230
+一定是躲在哪里了
+She's hiding somewhere.
+
+591
+00:30:20,230 --> 00:30:21,570
+她在和我玩
+She's toying with me!
+
+592
+00:30:24,330 --> 00:30:24,930
+我们会继续找的
+We'll keep looking.
+
+593
+00:30:24,930 --> 00:30:26,800
+不用了  我来处理
+No. I'll handle this.
+
+594
+00:30:29,700 --> 00:30:30,870
+你要怎么做
+What are you going to do?
+
+595
+00:30:30,870 --> 00:30:32,600
+把她逼出来
+Flush her out.
+
+596
+00:30:37,630 --> 00:30:39,270
+是亚特兰蒂斯的自毁系统
+That's Atlantis' self-destruct.
+
+597
+00:30:39,270 --> 00:30:41,070
+迈克尔要炸了这个城市
+Michael's going to blow up the city.
+
+598
+00:30:41,070 --> 00:30:42,030
+我们有多少时间
+How much time do we have?
+
+599
+00:30:42,030 --> 00:30:43,530
+他设置为10分钟
+He set it for 10 minutes.
+
+600
+00:30:43,530 --> 00:30:44,500
+那你要多久
+How much time do you need
+
+601
+00:30:44,500 --> 00:30:45,500
+能把飞弹弄好
+before you get those drones working?
+
+602
+00:30:45,500 --> 00:30:46,400
+如果真能弄好
+If I can get them working at all,
+
+603
+00:30:46,400 --> 00:30:47,570
+10分钟也不够啊
+A lot more than 10 minutes!
+
+604
+00:30:48,270 --> 00:30:49,670
+好吧  那就别理它了
+All right, forget about it.
+
+605
+00:30:49,670 --> 00:30:51,100
+你  你干什么
+What are you-- what are you doing?
+
+606
+00:30:51,100 --> 00:30:53,200
+开飞船去撞塔楼
+Gonna fly the jumper and crash it into the tower.
+
+607
+00:30:53,200 --> 00:30:54,070
+撞上去?
+Crash it?
+
+608
+00:30:54,070 --> 00:30:56,100
+这是最好的逼出迈克尔的方法
+It's our best chance of taking out Michael's jumper.
+
+609
+00:30:56,100 --> 00:30:57,630
+可也把自己也搭进去了
+Not to mention taking out yourself.
+
+610
+00:30:57,630 --> 00:31:00,500
+我以前开飞船撞过塔楼
+I have crashed jumpers into the tower before.
+
+611
+00:31:00,500 --> 00:31:02,130
+像这样的可没有
+Not like this you haven't.
+
+612
+00:31:02,130 --> 00:31:03,400
+除了没有武器
+Look, in addition to the weapons,
+
+613
+00:31:03,400 --> 00:31:04,800
+还有惯性的问题
+The inertial dampeners are out.
+
+614
+00:31:04,800 --> 00:31:06,100
+为了给迈克尔的飞船
+You'll need to impact michael's jumper
+
+615
+00:31:06,100 --> 00:31:08,000
+造成足够的破坏
+with enough force to do some serious damage,
+
+616
+00:31:08,000 --> 00:31:10,400
+你撞上去的速度必须非常快
+which means a lot of speed when you hit that tower.
+
+617
+00:31:10,400 --> 00:31:12,530
+这根本就是自杀行为
+Look, this is a suicide mission.
+
+618
+00:31:18,700 --> 00:31:20,470
+泰勒
+Teyla...
+
+619
+00:31:20,470 --> 00:31:22,770
+我知道你听得到我
+I know you can hear me.
+
+620
+00:31:22,770 --> 00:31:24,930
+这个警报声  如果你不清楚的话
+That alarm, if you're not aware,
+
+621
+00:31:24,930 --> 00:31:27,370
+是亚特兰蒂斯的自毁装置
+is Atlantis' self-destruct device.
+
+622
+00:31:27,370 --> 00:31:30,270
+我已经启动了  设为10分钟
+I've armed it, set it for 10 minutes.
+
+623
+00:31:30,270 --> 00:31:31,570
+也就是说你有10分钟的时间
+That is the amount of time you have
+
+624
+00:31:31,570 --> 00:31:34,330
+来考虑我提出的建议
+to consider the offer I'm about to make.
+
+625
+00:31:34,330 --> 00:31:37,770
+如果你能交出自己和孩子
+If you will surrender yourself and your child to me,
+
+626
+00:31:37,770 --> 00:31:39,370
+我就关闭装置
+I'll disarm the device,
+
+627
+00:31:39,370 --> 00:31:41,930
+饶了这个基地上的人一命
+sparing the lives of everyone on this base.
+
+628
+00:31:41,930 --> 00:31:45,130
+如果不的话...你  你的孩子
+If not... you, your baby,
+
+629
+00:31:45,130 --> 00:31:49,530
+所有人都要死
+And everyone else will die.
+
+630
+00:31:55,800 --> 00:31:58,870
+好了  你可以走了
+Okay, you're good to go.
+
+631
+00:31:58,870 --> 00:32:00,200
+确保塔楼塌下来的时候
+Make sure that strike team is ready to move
+
+632
+00:32:00,200 --> 00:32:01,070
+突击队准备好出发了
+as soon as that field drops.
+
+633
+00:32:01,070 --> 00:32:02,030
+我会的
+I will.
+
+634
+00:32:02,030 --> 00:32:03,100
+出舱的时候
+Don't accelerate too fast
+
+635
+00:32:03,100 --> 00:32:04,300
+不要加速的太快
+coming out of the jumper bay.
+
+636
+00:32:04,300 --> 00:32:05,530
+如果太快
+If you hit the gas too hard,
+
+637
+00:32:05,530 --> 00:32:06,700
+你会像煎饼一样扁的
+you're going to flatten like a pancake.
+
+638
+00:32:06,700 --> 00:32:08,430
+好的
+Right.
+
+639
+00:32:10,600 --> 00:32:12,100
+怎么了
+What?
+
+640
+00:32:12,100 --> 00:32:14,970
+只是...
+Well, it's just...
+
+641
+00:32:14,970 --> 00:32:16,230
+你现在做的...
+What you're about to do is...
+
+642
+00:32:16,230 --> 00:32:17,870
+又不是第一次了
+Yeah. It's not like it's the first time.
+
+643
+00:32:17,870 --> 00:32:19,900
+我做过几次这种自杀任务了
+How many suicide missions have I flown?
+
+644
+00:32:19,900 --> 00:32:20,630
+我不知道  数不清了都
+I don't know. I lost count.
+
+645
+00:32:20,630 --> 00:32:22,470
+好了  出发了
+Well, there you go.
+
+646
+00:32:22,470 --> 00:32:25,770
+好吧
+All right, well, you know...
+
+647
+00:32:25,770 --> 00:32:26,870
+希望还有更多
+Here's to many more.
+
+648
+00:32:30,170 --> 00:32:32,370
+罗德尼?
+Rodney?
+
+649
+00:32:34,430 --> 00:32:35,600
+瑞迪克  啥事
+Yeah, radek. go ahead.
+
+650
+00:32:35,600 --> 00:32:37,330
+我终于知道
+I've finally figured out
+
+651
+00:32:37,330 --> 00:32:38,100
+该怎么绕过迈克尔的封闭指令了
+How to override some of michael's lockout codes.
+
+652
+00:32:38,100 --> 00:32:39,400
+太棒了
+That's great.
+
+653
+00:32:39,400 --> 00:32:40,700
+那能把自毁装置关了么
+Can you shut down the self-destruct?
+
+654
+00:32:40,700 --> 00:32:43,030
+还不行  这个还需要点时间
+No. no, no, that will take a little bit more time.
+
+655
+00:32:43,030 --> 00:32:45,970
+不过  我知道怎么去星门室了
+I have, however, managed to get the access doors to the gate room open.
+
+656
+00:32:45,970 --> 00:32:48,300
+这个  并不是什么好事啊
+Well, that does us absolutely no good.
+
+657
+00:32:48,300 --> 00:32:50,000
+力场仍然在工作中诶
+I mean, the stun field is still in effect.
+
+658
+00:32:50,000 --> 00:32:52,330
+那星门室那一层的传输器呢
+What about the transporter on the gate room level?
+
+659
+00:32:52,330 --> 00:32:53,700
+还不行
+Uh... no, no,
+
+660
+00:32:53,700 --> 00:32:55,870
+那个也没办法控制
+I still don't have control of that, either.
+
+661
+00:32:55,870 --> 00:32:57,000
+真服了你了
+For crying out loud--
+
+662
+00:32:57,000 --> 00:32:58,730
+拜托  我已经尽力了
+I'm sorry, I'm doing the best I can.
+
+663
+00:32:58,730 --> 00:33:00,730
+迈克尔设置了许多高级密码
+Michael has placed several highly encrypted codes--
+
+664
+00:33:00,730 --> 00:33:02,300
+那这样吧
+Look, just--
+
+665
+00:33:02,300 --> 00:33:03,600
+防护盾呢  能不能降下来一些
+What about the gate shield? can you lower it?
+
+666
+00:33:03,600 --> 00:33:05,430
+这个行
+Yes. that I can do.
+
+667
+00:33:05,430 --> 00:33:07,100
+太好了
+Great.
+
+668
+00:33:07,100 --> 00:33:08,770
+你也不用玩什么敢死队了
+You don't have to do your kamikaze run.
+
+669
+00:33:08,770 --> 00:33:11,030
+怎么了
+Why not?
+
+670
+00:33:11,030 --> 00:33:12,570
+直接飞向塔楼  尽量靠近
+Just fly to the tower, get in proximity,
+
+671
+00:33:12,570 --> 00:33:14,870
+然后随便向哪个星球呼叫下
+Dial the dhd to a random planet,
+
+672
+00:33:14,870 --> 00:33:16,370
+然后再让瑞迪克把防护盾降下来一些
+We'll have radek lower the gate shield,
+
+673
+00:33:16,370 --> 00:33:17,500
+直接制造个漩涡
+Allowing the vortex
+
+674
+00:33:17,500 --> 00:33:18,530
+把迈克尔的飞船给冲出来
+To obliterate michael's puddle jumper...
+
+675
+00:33:18,530 --> 00:33:19,530
+或者逼出个大部分也行
+Or most of it.
+
+676
+00:33:19,530 --> 00:33:21,100
+这主意倒是不错
+Now, that's a good plan.
+
+677
+00:33:22,230 --> 00:33:23,530
+你去哪
+Where are you going?
+
+678
+00:33:23,530 --> 00:33:25,000
+你来驾驶飞船
+You're gonna fly it.
+
+679
+00:33:25,000 --> 00:33:25,930
+我就能去带领突击队
+That frees me up to lead the strike team.
+
+680
+00:33:27,270 --> 00:33:28,800
+听你说的  很简单了
+You said it yourself-- it's simple enough.
+
+681
+00:33:28,800 --> 00:33:29,930
+只要拨号就可以了
+You just dial the gate.
+
+682
+00:33:29,930 --> 00:33:30,970
+这个我能行
+I guess I can do that.
+
+683
+00:33:30,970 --> 00:33:33,030
+要小心加速器
+Go easy on the accelerator.
+
+684
+00:33:33,030 --> 00:33:36,600
+瑞迪克  准备好听我的指示
+Radek, get ready to drop that shield on my mark.
+
+685
+00:33:37,600 --> 00:33:38,870
+对对...
+Right...
+
+686
+00:33:42,270 --> 00:33:44,030
+我们没多少时间了
+We don't have much time.
+
+687
+00:33:44,030 --> 00:33:45,400
+得赶紧离开这里
+We need to leave this place.
+
+688
+00:33:47,530 --> 00:33:50,600
+时间有限  泰勒
+Time is short, teyla.
+
+689
+00:33:50,600 --> 00:33:52,600
+我不明白
+I don't understand--
+
+690
+00:33:52,600 --> 00:33:54,630
+这选择又不难
+I would think the choice is an easy one...
+
+691
+00:33:54,630 --> 00:33:57,970
+想想你的孩子
+If nothing else, consider your child.
+
+692
+00:33:57,970 --> 00:33:59,600
+你就一直这么藏着
+By remaining in hiding,
+
+693
+00:33:59,600 --> 00:34:01,570
+就相当于判了他死刑
+You are sentencing him to die.
+
+694
+00:34:01,570 --> 00:34:03,800
+有哪个母亲会做这种事
+What kind of mother would do such a thing?
+
+695
+00:34:05,470 --> 00:34:08,470
+他有机会活下去的
+He has a chance to live.
+
+696
+00:34:08,470 --> 00:34:10,930
+你们俩都有
+Both of you do.
+
+697
+00:34:10,930 --> 00:34:13,570
+跟我来吧  泰勒
+Come with me, teyla.
+
+698
+00:34:13,570 --> 00:34:15,730
+相信我
+Trust me--
+
+699
+00:34:15,730 --> 00:34:17,730
+我不会伤害你们的
+I will not harm either of you.
+
+700
+00:34:17,730 --> 00:34:20,730
+我也不会伤害亚特兰蒂斯
+And I will not harm atlantis.
+
+701
+00:34:20,730 --> 00:34:22,400
+我向你保证
+You have my word.
+
+702
+00:34:26,970 --> 00:34:29,600
+关掉自毁装置
+Turn off the self-destruct system.
+
+703
+00:34:29,600 --> 00:34:30,730
+泰勒?
+Teyla?
+
+704
+00:34:31,730 --> 00:34:33,430
+你希望我相信你么
+You want me to trust you?
+
+705
+00:34:33,430 --> 00:34:34,930
+那就证明给我看
+Then show me you mean what you say.
+
+706
+00:34:36,500 --> 00:34:37,700
+关掉自毁装置
+Turn off the self-destruct system,
+
+707
+00:34:37,700 --> 00:34:40,400
+我就跟你走
+And I will come with you.
+
+708
+00:34:58,770 --> 00:35:00,400
+我现在已经升空
+All right, I'm in the air...
+
+709
+00:35:00,400 --> 00:35:01,430
+向中心塔楼飞去
+Approaching the central tower.
+
+710
+00:35:01,430 --> 00:35:02,370
+收到
+Copy that.
+
+711
+00:35:02,370 --> 00:35:03,370
+泽兰卡  你准备好了吗
+Zelenka, you ready?
+
+712
+00:35:03,370 --> 00:35:04,870
+随时待命
+Ready when you are.
+
+713
+00:35:06,330 --> 00:35:08,730
+迈克尔  你听到我说的话了吗
+Michael, can you hear me?
+
+714
+00:35:09,530 --> 00:35:10,900
+只剩不到2分钟
+Less than two minutes.
+
+715
+00:35:10,900 --> 00:35:13,030
+我们得走了  马上
+We need to go. now.
+
+716
+00:35:13,030 --> 00:35:15,670
+是的  泰勒
+Yes, teyla.
+
+717
+00:35:15,670 --> 00:35:17,300
+我听见了
+I hear you.
+
+718
+00:35:19,600 --> 00:35:22,370
+你真让我失望
+You disappoint me.
+
+719
+00:35:22,370 --> 00:35:24,230
+我不会阻止你走你自己选择的路
+So I will leave you to the fate you have chosen.
+
+720
+00:35:24,230 --> 00:35:27,270
+但是我也不会空手而归
+But I'm not leaving alone.
+
+721
+00:35:27,270 --> 00:35:27,970
+你应该知道
+You should know
+
+722
+00:35:27,970 --> 00:35:31,030
+我已经采集了你儿子的DNA
+That I've already collected your son's dna...
+
+723
+00:35:31,030 --> 00:35:33,400
+重新克隆一个虽然需要更多时间
+Cloning him will require additional time,
+
+724
+00:35:33,400 --> 00:35:35,730
+耽误我的计划
+Delaying the implementation of my plan,
+
+725
+00:35:35,730 --> 00:35:40,000
+但是你知道的  我不会退缩的
+But as you well know, I will not be deterred.
+
+726
+00:35:42,600 --> 00:35:43,870
+再见  泰勒
+Good-bye, teyla.
+
+727
+00:36:02,870 --> 00:36:04,900
+你在干吗
+What are you doing?
+
+728
+00:36:04,900 --> 00:36:07,300
+收集最后一份战果
+Collecting one last prize.
+
+729
+00:36:13,630 --> 00:36:15,900
+就位  准备拨号
+I'm in position. ready to dial.
+
+730
+00:36:15,900 --> 00:36:17,700
+瑞迪克  降下防护盾
+Radek, drop the shield.
+
+731
+00:36:23,730 --> 00:36:25,300
+防护盾降下来了  罗德尼  出发
+The shield's down! go, rodney!
+
+732
+00:36:30,030 --> 00:36:31,370
+不!
+No!
+
+733
+00:36:58,970 --> 00:37:01,030
+力场在慢慢减弱了
+The stun field is neutralized!
+
+734
+00:37:01,030 --> 00:37:02,630
+那自毁装置呢  破坏掉了没
+What about the self-destruct? is it disabled?
+
+735
+00:37:02,630 --> 00:37:04,600
+是的  飞船能源一关闭  它就停了
+Yes, yes. it shut off when the jumper's power was cut.
+
+736
+00:37:04,600 --> 00:37:06,930
+好的  那我现在掉头回去了
+Good. I'm heading back.
+
+737
+00:37:06,930 --> 00:37:08,170
+你继续恢复城市能源
+Go ahead and reboot the city's power.
+
+738
+00:37:08,170 --> 00:37:09,530
+正在处理中了
+Yes, I'm already doing it.
+
+739
+00:37:37,870 --> 00:37:39,300
+去找个医生
+Get a medic!
+
+740
+00:37:41,930 --> 00:37:44,530
+瑞迪克  关掉舱门
+Close the jumper bay doors, radek!
+
+741
+00:37:46,370 --> 00:37:48,370
+艾米丽亚
+Amelia...
+
+742
+00:37:50,030 --> 00:37:51,430
+帮我照看下图门行么
+Will you take care of torren for me?
+
+743
+00:37:51,430 --> 00:37:53,830
+好的
+Of course.
+
+744
+00:37:53,830 --> 00:37:56,270
+不要让任何人离开
+Make sure no one leaves.
+
+745
+00:40:03,100 --> 00:40:05,930
+泰勒
+Ah! teyla!
+
+746
+00:40:39,800 --> 00:40:42,930
+我们凯勒的小调皮病号感觉如何?
+How's dr. keller's most cantankerous patient?
+
+747
+00:40:42,930 --> 00:40:44,500
+你在开玩笑呢吧
+You've got to be kidding me.
+
+748
+00:40:44,500 --> 00:40:45,230
+你能出院了
+You get released,
+
+749
+00:40:45,230 --> 00:40:46,230
+而我还要再待一天么
+And I gotta stay here another day?
+
+750
+00:40:46,230 --> 00:40:48,730
+因为我只是滚了几级台阶而已
+Because I only fell down a flight of stairs.
+
+751
+00:40:48,930 --> 00:40:51,130
+而你  我的朋友  可是被人从楼上推了下来
+You, my friend, were hurled from a much greater height.
+
+752
+00:40:51,130 --> 00:40:53,200
+只有个脑震荡  算是你运气好了
+You're lucky you only suffered a concussion
+
+753
+00:40:53,200 --> 00:40:54,200
+没把脖子摔断了
+And didn't break your neck.
+
+754
+00:40:54,200 --> 00:40:56,130
+没什么  我很好
+Nothing. I'm fine.
+
+755
+00:40:56,130 --> 00:40:57,500
+我知道你好
+I know you are.
+
+756
+00:40:57,500 --> 00:41:00,730
+不过还是要听医生的话
+But listen to the doctor.
+
+757
+00:41:00,730 --> 00:41:02,400
+不过呢  我主要是想来
+Anyway, I just wanted to drop by
+
+758
+00:41:02,400 --> 00:41:05,300
+表扬一下你的模范作用
+And commend you for your exemplary work.
+
+759
+00:41:05,300 --> 00:41:07,370
+你的临危不惧
+Your courage in the face of danger
+
+760
+00:41:07,370 --> 00:41:09,870
+始终能让我惊讶
+Continues to amaze
+
+761
+00:41:09,870 --> 00:41:12,930
+或者容我说  让我敬佩
+And, dare I say, inspire me.
+
+762
+00:41:15,930 --> 00:41:17,370
+多谢夸奖
+Thanks.
+
+763
+00:41:17,370 --> 00:41:19,970
+好好休息
+Get some rest.
+
+764
+00:41:19,970 --> 00:41:21,100
+不要担心
+And don't worry.
+
+765
+00:41:21,100 --> 00:41:22,900
+你的队员会等你康复的
+Your team's not going anywhere without you.
+
+766
+00:41:22,900 --> 00:41:24,430
+这倒提醒我了
+That reminds me.
+
+767
+00:41:25,930 --> 00:41:27,370
+我知道  这次迈克尔对亚城的攻击
+I know michael attacking the city
+
+768
+00:41:27,370 --> 00:41:28,700
+并不算什么正式的任务
+Isn't really a mission,
+
+769
+00:41:28,700 --> 00:41:31,770
+不过我还是弄了份报告
+But, uh, I filed a report anyways.
+
+770
+00:41:34,630 --> 00:41:35,700
+非常好
+Splendid.
+
+771
+00:41:35,700 --> 00:41:37,230
+谢谢
+Thank you.
+
+772
+00:41:41,130 --> 00:41:42,830
+任务报告
+Mission report--
+
+773
+00:41:42,830 --> 00:41:45,230
+迈克尔入侵亚特兰蒂斯
+Michael invaded atlantis,
+
+774
+00:41:45,230 --> 00:41:46,900
+试图炸毁它
+Tried to blow it up.
+
+775
+00:41:46,900 --> 00:41:48,700
+我们阻止了他
+We stopped him.
+
+776
+00:41:48,700 --> 00:41:50,900
+报告完毕
+End of report.
+
+777
+00:41:56,000 --> 00:41:58,300
+长远来看
+Take a good long look,
+
+778
+00:41:58,300 --> 00:42:00,470
+你肯定是只能咬着我的车尾巴啦
+'cause soon you're going to see nothing but taillights.
+
+779
+00:42:00,470 --> 00:42:01,400
+好办法  赛车手
+Nice try, speed racer.
+
+780
+00:42:08,870 --> 00:42:10,170
+对不起啊
+I'm sorry.
+
+781
+00:42:10,170 --> 00:42:11,800
+对不起啦  我们只是...
+Sorry, we were just, you know...
+
+782
+00:42:11,800 --> 00:42:12,630
+谁赢了
+Who's winning?
+
+783
+00:42:12,630 --> 00:42:14,230
+我
+I am.
+
+784
+00:42:14,230 --> 00:42:15,700
+疝气还没好呢?
+Still colicky, huh?
+
+785
+00:42:15,700 --> 00:42:16,770
+他都一天没睡了
+He was awake all day.
+
+786
+00:42:16,770 --> 00:42:18,130
+也总是睡不着
+Refused to take a nap.
+
+787
+00:42:18,130 --> 00:42:19,270
+这很正常啊
+That's not surprising.
+
+788
+00:42:19,270 --> 00:42:20,570
+晚上不是都在睡了么
+He got a full night's sleep.
+
+789
+00:42:20,570 --> 00:42:21,930
+是啊  这很让我惊讶的
+Yes, it's remarkable.
+
+790
+00:42:21,930 --> 00:42:23,470
+他从头到尾都在睡着
+He slept through the entire ordeal.
+
+791
+00:42:23,470 --> 00:42:25,630
+他从来没有这样整夜睡下来过
+He hasn't slept through a whole night in...
+
+792
+00:42:25,630 --> 00:42:27,800
+从来没有
+Ever.
+
+793
+00:42:27,800 --> 00:42:29,230
+以后可以睡安稳咯
+Well, he can rest easy now,
+
+794
+00:42:29,230 --> 00:42:30,930
+既然迈克尔已经就这样消失在历史版图中
+'cause michael's finally out of the picture.
+
+795
+00:42:30,930 --> 00:42:33,530
+可是以后肯定还会有第二个迈克尔
+Unfortunately, there will be somebody else to take his place.
+
+796
+00:42:33,530 --> 00:42:34,870
+我敢肯定
+Of this, I am certain.
+
+797
+00:42:34,870 --> 00:42:36,600
+他有个超级妈妈的
+He's got super mom watching his back.
+
+798
+00:42:36,600 --> 00:42:37,530
+要说我  没事的
+If you ask me, he's in good hands.
+
+799
+00:42:39,170 --> 00:42:41,430
+图门  想看看我
+Torren, do you want to watch me
+
+800
+00:42:41,430 --> 00:42:42,870
+是怎么打败罗德尼的么
+Kick rodney's ass?
+
+801
+00:42:44,270 --> 00:42:46,430
+帮忙遮下宝宝的眼睛
+Actually, you may want to cover the child's eyes,
+
+802
+00:42:46,430 --> 00:42:47,430
+因为他会输得很难看的哦
+Because this could get ugly.
+
+803
+00:42:48,430 --> 00:42:49,330
+准备好了吗
+Are you ready?
+
+804
+00:42:49,330 --> 00:42:50,270
+当然
+Yeah.
+
+805
+00:42:50,270 --> 00:42:51,370
+一  二
+One... two--
+

@@ -1,0 +1,4410 @@
+1
+00:00:02,930 --> 00:00:04,400
+你在说什么
+what are you talking about?
+
+2
+00:00:04,400 --> 00:00:06,030
+我跟你说
+i'm telling you,
+
+3
+00:00:06,030 --> 00:00:07,270
+她不让我见他
+she's hiding him from me.
+
+4
+00:00:07,270 --> 00:00:08,430
+她没有藏着他
+she's not hiding him.
+
+5
+00:00:08,440 --> 00:00:09,600
+是吗
+oh yeah?
+
+6
+00:00:09,600 --> 00:00:10,840
+每次我去见他
+every time i go to see him,
+
+7
+00:00:10,840 --> 00:00:12,100
+她都说他刚安顿好
+she tells me that he's just settled down.
+
+8
+00:00:12,110 --> 00:00:13,770
+你能怪她吗  是你没抓牢他
+can you blame her? you dropped him.
+
+9
+00:00:13,770 --> 00:00:14,910
+不是我干的  他自己摔倒的
+i did not drop him, he jumped.
+
+10
+00:00:14,910 --> 00:00:16,140
+摔倒?
+jumped?
+
+11
+00:00:16,140 --> 00:00:17,310
+好吧  是他从我的怀里滑出去的
+well, he wiggled out of my arms.
+
+12
+00:00:17,310 --> 00:00:18,340
+我已经道过歉了
+i said i was sorry.
+
+13
+00:00:18,340 --> 00:00:20,480
+而且我有造成多少损失么
+besides, how much damage could i possibly have done?
+
+14
+00:00:20,480 --> 00:00:22,510
+他摔了个大马趴
+he fell, like, maybe two feet.
+
+15
+00:00:22,520 --> 00:00:24,380
+这事很常见的
+stuff like that happens all the time.
+
+16
+00:00:24,380 --> 00:00:25,450
+我是说  当我还小时
+i mean, i was dropped like, a dozen times
+
+17
+00:00:25,450 --> 00:00:26,520
+都被扔出过好多次
+when i was a kid.
+
+18
+00:00:26,520 --> 00:00:27,720
+那就是原因所在
+well, that explains a lot.
+
+19
+00:00:27,720 --> 00:00:29,190
+你在介意什么  你甚至都不喜欢小孩子
+why do you even care? you don't even like kids.
+
+20
+00:00:29,190 --> 00:00:30,420
+这是原则问题
+it's the principle of the thing.
+
+21
+00:00:30,420 --> 00:00:32,260
+每个人都能抱他  我为什么就不行
+everybody else gets to hold him. why shouldn't i?
+
+22
+00:00:32,260 --> 00:00:33,830
+中校...
+colonel...
+
+23
+00:00:33,830 --> 00:00:34,930
+我们收到新信号
+we've got a new contact.
+
+24
+00:00:34,930 --> 00:00:36,430
+像是一艘战舰
+looks like a ship.
+
+25
+00:00:36,430 --> 00:00:37,560
+相距多远
+how far out?
+
+26
+00:00:37,560 --> 00:00:39,130
+已进入轨道内
+it's in orbit.
+
+27
+00:00:39,130 --> 00:00:40,330
+可是  我们怎么没有侦测到它
+well, how come we didn't detect it?
+
+28
+00:00:40,330 --> 00:00:41,430
+我不清楚
+i don't know.
+
+29
+00:00:41,430 --> 00:00:42,900
+我们甚至没有探测到超空间窗口
+we didn't even detect a hyperspace window.
+
+30
+00:00:42,900 --> 00:00:45,070
+它就这么突然冒出来了
+it just appeared out of nowhere.
+
+31
+00:00:45,070 --> 00:00:47,470
+稍等  我们收到敌我识别信号了
+hang on a second, we're getting i.f.f.
+
+32
+00:00:47,470 --> 00:00:48,940
+是代达罗斯号
+it's the daedalus.
+
+33
+00:00:48,940 --> 00:00:50,210
+代达罗斯号?  怎么可能?
+the  daedalus? how can that be?
+
+34
+00:00:50,210 --> 00:00:51,810
+他们正在返回地球
+they're on their way back to earth.
+
+35
+00:00:51,810 --> 00:00:53,310
+是的  他们应该在路上
+well, they were. they were supposed to be.
+
+36
+00:00:55,120 --> 00:00:57,850
+打开一个频道
+open up a channel.
+
+37
+00:00:57,850 --> 00:01:01,150
+代达罗斯号  这里是亚特兰蒂斯  请接入
+daedalus, this is atlantis, please come in.
+
+38
+00:01:03,090 --> 00:01:06,160
+代达罗斯号  请回复
+daedalus, please respond.
+
+39
+00:01:06,560 --> 00:01:08,760
+他们不会回复的
+they're not going to answer.
+
+40
+00:01:08,760 --> 00:01:10,160
+为什么不会?
+why not?
+
+41
+00:01:10,160 --> 00:01:11,630
+我没发现任何生命信号
+because i'm not reading any lifesigns.
+
+42
+00:01:11,630 --> 00:01:14,030
+你想告诉我什么  罗德尼
+what are you telling me, rodney,
+
+43
+00:01:14,030 --> 00:01:15,530
+这飞船自己控制飞行?
+this thing flew here by itself?
+
+44
+00:01:15,540 --> 00:01:16,600
+我不知道它是怎样到这里的
+i don't know how they got here,
+
+45
+00:01:16,600 --> 00:01:18,040
+但是那上面空无一人
+but there's no one on board.
+
+46
+00:01:18,040 --> 00:01:20,940
+至少是没一个活人
+at least, no one alive.
+
+47
+00:02:33,510 --> 00:02:34,870
+中校  我们刚从星门指挥部
+colonel, we just got confirmation
+
+48
+00:02:34,870 --> 00:02:36,110
+得到确认消息
+from stargate command.
+
+49
+00:02:36,110 --> 00:02:37,680
+代达罗斯号正在银河中
+the  daedalus is in the milky way,
+
+50
+00:02:37,680 --> 00:02:40,080
+按照原定计划
+on course and on schedule.
+
+51
+00:02:40,080 --> 00:02:42,210
+有望在两天内到达地球
+they expect to reach earth within two days.
+
+52
+00:02:42,210 --> 00:02:43,980
+明白
+understood.
+
+53
+00:02:43,980 --> 00:02:46,720
+看来那不是代达罗斯号
+so that's not the  daedalus, then.
+
+54
+00:02:46,720 --> 00:02:48,290
+好吧...
+well...
+
+55
+00:02:48,290 --> 00:02:51,520
+除非它有分身之术
+not unless it can be in two places at once.
+
+56
+00:02:51,520 --> 00:02:53,730
+也许是阿波罗号  或者是其他的飞船
+perhaps the  apollo, or one of your other ships...
+
+57
+00:02:53,730 --> 00:02:55,130
+那它就不会发送代达罗斯号的敌我识别信号
+they wouldn't be sending  daedalus i.f.f.,
+
+58
+00:02:55,130 --> 00:02:56,490
+更何况也无法解释它是如何到这的
+plus it doesn't explain how they got here,
+
+59
+00:02:56,500 --> 00:02:58,360
+以及为何侦测不到生命信号
+or why we're not picking up lifesign readings.
+
+60
+00:02:58,360 --> 00:03:00,200
+那好吧
+all right,
+
+61
+00:03:00,200 --> 00:03:02,300
+我们凑近点看看
+i'm taking us in for a closer look.
+
+62
+00:03:22,450 --> 00:03:23,520
+你看见那个没?
+wow, you see that?
+
+63
+00:03:23,520 --> 00:03:27,160
+有许多焦灼痕迹
+yeah, some scorch marks.
+
+64
+00:03:27,160 --> 00:03:28,160
+你认为是武器攻击的?
+you think weaponsfire?
+
+65
+00:03:28,160 --> 00:03:29,390
+不管它经历过什么
+well, wherever she's been,
+
+66
+00:03:29,400 --> 00:03:31,560
+肯定是历尽艰险
+she's been through some pretty hard times.
+
+67
+00:03:32,970 --> 00:03:34,500
+那是什么
+what's that?
+
+68
+00:03:34,500 --> 00:03:36,500
+我收到了能量读数
+i'm picking up an energy reading.
+
+69
+00:03:36,500 --> 00:03:37,670
+是来自那飞船的
+it's coming from the ship.
+
+70
+00:03:37,670 --> 00:03:38,670
+有危险吗
+is it dangerous?
+
+71
+00:03:38,670 --> 00:03:40,440
+我不认为有
+i don't think so,
+
+72
+00:03:40,440 --> 00:03:42,070
+但我不清楚是什么引起的
+but i have no idea what's causing it.
+
+73
+00:03:42,070 --> 00:03:43,270
+你能打开停泊舱门吗?
+can you get the bay doors open?
+
+74
+00:03:43,280 --> 00:03:44,380
+应该没问题
+if the ship's command systems
+
+75
+00:03:44,380 --> 00:03:45,880
+只要飞船的控制系统
+are as familiar as the rest of it,
+
+76
+00:03:45,880 --> 00:03:48,550
+和其他系统一样简单
+it shouldn't be a problem.
+
+77
+00:04:02,800 --> 00:04:04,430
+不是f302型
+no f-302s,
+
+78
+00:04:04,430 --> 00:04:07,430
+但是有一个小飞船
+but there's a jumper.
+
+79
+00:04:07,430 --> 00:04:08,630
+你确定里面没人吗
+you sure there's no one else inside?
+
+80
+00:04:08,630 --> 00:04:12,270
+目前为止是的
+as far as i can tell.
+
+81
+00:04:12,270 --> 00:04:13,500
+好的  我们进去
+all right, we're going in.
+
+82
+00:04:31,120 --> 00:04:33,060
+为什么这里面这么冷
+why is it so cold in here?
+
+83
+00:04:33,060 --> 00:04:34,760
+飞船的运作要靠能源
+the ship's operating on emergency power.
+
+84
+00:04:34,760 --> 00:04:37,800
+有些系统根本没有启动
+some of the systems are barely registering.
+
+85
+00:04:37,800 --> 00:04:39,960
+除了那个奇怪的能量源
+except for the whole weird energy thing.
+
+86
+00:04:39,970 --> 00:04:40,930
+说的对
+that's right.
+
+87
+00:04:40,930 --> 00:04:42,030
+有什么办法吗
+can you do something about it?
+
+88
+00:04:42,030 --> 00:04:43,130
+这里冻死了
+it's freezing in here.
+
+89
+00:04:43,140 --> 00:04:45,700
+当然  我需要去下工程舱
+oh, sure, i just have to get to engineering.
+
+90
+00:04:45,700 --> 00:04:47,140
+你和若楠一起
+you and ronon are together.
+
+91
+00:04:47,140 --> 00:04:48,940
+泰勒  你和我去舰桥看看
+teyla, you and i are going to check out the bridge.
+
+92
+00:04:48,940 --> 00:04:51,780
+有任何发现就用无线电联系我
+radio me if you find anything.
+
+93
+00:05:06,390 --> 00:05:08,560
+这里空无一人...
+no bodies in here.
+
+94
+00:05:12,360 --> 00:05:13,700
+中校...
+colonel...
+
+95
+00:05:18,840 --> 00:05:21,670
+这是代达罗斯号  没错
+it's the  daedalus , all right.
+
+96
+00:05:24,540 --> 00:05:26,340
+麦凯  是你弄的吗
+mckay, is that you?
+
+97
+00:05:26,350 --> 00:05:28,250
+当然了  还会是谁?
+of course it was me. who else would it be?
+
+98
+00:05:28,250 --> 00:05:30,550
+难道你认为这里有鬼还是什么
+you think we've got a ghost on board or something?
+
+99
+00:05:33,090 --> 00:05:34,650
+不要乱动任何东西!
+will you please not touch anything!
+
+100
+00:05:36,290 --> 00:05:37,820
+我们的情况如何
+what's our status?
+
+101
+00:05:37,820 --> 00:05:39,490
+我恢复了飞船的大部分基础能量
+i've restored basic power to most of the ship.
+
+102
+00:05:39,490 --> 00:05:41,290
+飞船立刻就会恢复能源
+it should be warming up any second now.
+
+103
+00:05:41,290 --> 00:05:42,360
+很好
+good.
+
+104
+00:05:42,360 --> 00:05:44,330
+检查那个能量读数
+check on that energy reading.
+
+105
+00:05:44,330 --> 00:05:46,330
+看看到底是什么意思
+try to figure out what it is, all right?
+
+106
+00:05:46,330 --> 00:05:47,730
+我正在查
+i'm on it.
+
+107
+00:05:49,740 --> 00:05:51,070
+中校...
+colonel...
+
+108
+00:05:51,070 --> 00:05:55,840
+飞船日志  最后一次记录
+ship's log, last entry.
+
+109
+00:05:59,950 --> 00:06:01,650
+准备基本完毕
+preparations are almost complete.
+
+110
+00:06:01,650 --> 00:06:03,250
+已经传送下最后的补给
+we've beamed down the last of our supplies,
+
+111
+00:06:03,250 --> 00:06:05,520
+以及任何我们可能需要的装备
+and any equipment we think might be useful.
+
+112
+00:06:05,520 --> 00:06:08,620
+我会自己携带最后的f302
+i'll be taking the last of the f-302s down myself.
+
+113
+00:06:08,620 --> 00:06:10,460
+当然  我们没有时间
+of course, we haven't had time
+
+114
+00:06:10,460 --> 00:06:12,220
+对行星表面进行详细调查
+to do a proper survey of the planet's surface,
+
+115
+00:06:12,220 --> 00:06:13,930
+但是似乎相当适合居住
+but it seems habitable enough.
+
+116
+00:06:13,930 --> 00:06:16,090
+淡水充足  土壤肥沃
+plenty of fresh water, arable soil,
+
+117
+00:06:16,100 --> 00:06:18,500
+与地球十分相似
+not that different from our own.
+
+118
+00:06:18,500 --> 00:06:20,600
+我意识到我们被援救的机会微乎其微
+i realize our chance of rescue is slim,
+
+119
+00:06:20,600 --> 00:06:22,470
+但是事实很明显
+but it's become obvious
+
+120
+00:06:22,470 --> 00:06:24,600
+我们已别无选择
+that we no longer have a choice.
+
+121
+00:06:24,600 --> 00:06:28,170
+我是索博上校  代达罗斯号指挥官
+this is colonel sobol, commander of the  daedalus ,
+
+122
+00:06:28,170 --> 00:06:30,610
+信号终止
+signing off.
+
+123
+00:06:30,610 --> 00:06:32,140
+你认识她?
+do you recognize her?
+
+124
+00:06:32,140 --> 00:06:34,580
+我以前从未见过她
+i've never seen her before in my life.
+
+125
+00:06:34,580 --> 00:06:37,250
+看来他们弃船了
+well, it appears as if they abandoned ship.
+
+126
+00:06:37,250 --> 00:06:38,320
+对
+yeah.
+
+127
+00:06:38,320 --> 00:06:40,180
+可是到底为什么
+the question is, why?
+
+128
+00:06:40,190 --> 00:06:43,820
+我来看下之前的记录
+i'll check previous entries.
+
+129
+00:06:45,560 --> 00:06:48,160
+天哪  这飞船跟被大卸八块似的
+man, this ship has been through the wringer.
+
+130
+00:06:48,660 --> 00:06:49,460
+没有超空间引擎
+no hyperdrive,
+
+131
+00:06:49,460 --> 00:06:52,200
+亚空间通信装备损坏得无法修复
+subspace communications are all damaged beyond repair,
+
+132
+00:06:52,300 --> 00:06:54,070
+护盾不堪一击
+the shields are virtually depleted...
+
+133
+00:06:56,300 --> 00:06:58,340
+那是什么
+what is it?
+
+134
+00:06:58,340 --> 00:06:59,640
+是能量读数
+it's the energy reading.
+
+135
+00:06:59,640 --> 00:07:01,840
+它在脉冲
+it's spiking.
+
+136
+00:07:01,840 --> 00:07:03,310
+谢帕德  请接入
+sheppard, come in.
+
+137
+00:07:03,310 --> 00:07:04,510
+请讲
+go ahead.
+
+138
+00:07:04,510 --> 00:07:05,980
+情况不妙
+something's happening.
+
+139
+00:07:05,980 --> 00:07:07,510
+能量读数正高出图表
+the energy reading, it's going off the charts.
+
+140
+00:07:07,510 --> 00:07:09,450
+做点什么  把它关掉
+do something. turn it off.
+
+141
+00:07:09,450 --> 00:07:11,080
+我不知道怎么关掉
+i don't know how.
+
+142
+00:07:11,080 --> 00:07:12,750
+它不是从任何主系统发出的
+look, it's not coming from any of the main systems.
+
+143
+00:07:14,490 --> 00:07:16,090
+谢帕徳中校  这里是亚特兰蒂斯
+colonel sheppard, this is atlantis.
+
+144
+00:07:16,090 --> 00:07:17,090
+我们收到巨大的能量信号
+we're picking up some kind of power surge
+
+145
+00:07:17,090 --> 00:07:18,690
+是从飞船上发出的
+coming from the ship.
+
+146
+00:07:18,690 --> 00:07:20,020
+是的  我们注意到了
+yeah, we noticed it.
+
+147
+00:07:20,030 --> 00:07:22,460
+我们正试着自己把它找出来
+we're trying to check it out ourselves.
+
+148
+00:07:22,460 --> 00:07:23,860
+能量等级正不断抬升
+the levels are still rising.
+
+149
+00:07:23,860 --> 00:07:26,630
+中校  需要我们派出另一艘飞船支援吗
+colonel, should we send another jumper to assist?
+
+150
+00:07:26,630 --> 00:07:27,970
+待命
+stand by.
+
+151
+00:07:35,040 --> 00:07:38,380
+好吧  我们开始撤离
+all right, that's our cue to leave.
+
+152
+00:07:38,380 --> 00:07:39,740
+所有人回到飞船内
+everyone, back in the jumper.
+
+153
+00:07:46,590 --> 00:07:48,050
+麦凯  那他妈的是什么
+mckay, what the hell was that?
+
+154
+00:07:48,050 --> 00:07:49,350
+我不知道  但是...
+i have no idea, but...
+
+155
+00:07:49,360 --> 00:07:52,560
+能量读数恢复初始了
+the energy reading's gone back down the way it was.
+
+156
+00:07:56,060 --> 00:07:58,600
+亚特兰蒂斯   发现任何异常迹象吗
+atlantis, you reading anything unusual?
+
+157
+00:07:58,600 --> 00:08:01,000
+亚特兰蒂斯  请接入
+atlantis, come in.
+
+158
+00:08:05,940 --> 00:08:08,140
+亚特兰蒂斯  收得到信号吗
+atlantis, do you read?
+
+159
+00:08:08,140 --> 00:08:11,510
+谢帕徳中校  收到信号吗
+colonel sheppard, do you read?
+
+160
+00:08:11,510 --> 00:08:15,710
+代达罗斯号  请回复  这里是亚特兰蒂斯
+daedalus , this is atlantis, please respond.
+
+161
+00:08:15,710 --> 00:08:18,350
+到底发生什么了
+what the hell's going on?
+
+162
+00:08:18,350 --> 00:08:19,620
+我不知道
+i don't know.
+
+163
+00:08:19,620 --> 00:08:20,750
+上一刻他们还在
+one moment they were there,
+
+164
+00:08:20,750 --> 00:08:22,420
+下一刻就消失了
+the next minute, they were gone.
+
+165
+00:08:25,020 --> 00:08:25,920
+罗德尼?
+rodney?
+
+166
+00:08:26,020 --> 00:08:28,060
+我们的通讯有问题
+i'm having problems with communications.
+
+167
+00:08:28,060 --> 00:08:29,990
+我无法与亚特兰蒂斯号取得联系
+i can't reach atlantis.
+
+168
+00:08:30,000 --> 00:08:31,930
+稍等
+wait a second.
+
+169
+00:08:31,930 --> 00:08:32,830
+这不对劲啊
+that can't be right.
+
+170
+00:08:32,830 --> 00:08:35,530
+什么
+what?
+
+171
+00:08:35,530 --> 00:08:37,370
+我在屏幕上看不到任何城市
+i'm not seeing the city on any of my screens.
+
+172
+00:08:37,370 --> 00:08:40,310
+你在说什么
+what are you talking about?
+
+173
+00:08:40,310 --> 00:08:41,810
+我刚进行了传感器扫描
+i just did a sensor sweep,
+
+174
+00:08:41,810 --> 00:08:44,310
+发现下面只有一片汪洋大海
+and there's nothing down there but ocean.
+
+175
+00:08:44,310 --> 00:08:46,040
+也许他们隐蔽起来了
+well, maybe they cloaked.
+
+176
+00:08:46,050 --> 00:08:47,850
+他们不可能不通知我们一声啊
+well, they wouldn't have done that without telling us.
+
+177
+00:08:47,850 --> 00:08:49,010
+我也不知道
+well, i don't know,
+
+178
+00:08:49,010 --> 00:08:50,920
+也许那里有一艘幽灵飞船
+maybe there's a wraith ship in the area.
+
+179
+00:08:50,920 --> 00:08:53,050
+我什么都没发现
+i'm not reading anything.
+
+180
+00:08:53,050 --> 00:08:55,120
+我们还是在同一个星球上吗
+are we certain it's the same planet?
+
+181
+00:08:55,120 --> 00:08:58,060
+也许是能量爆发使我们的位置偏移了
+perhaps the energy burst shifted our position.
+
+182
+00:08:58,060 --> 00:08:59,120
+不会  根据我们的仪器检测
+no, according to our instruments,
+
+183
+00:08:59,120 --> 00:09:00,530
+我们根本没有动
+we haven't moved at all.
+
+184
+00:09:00,530 --> 00:09:01,890
+那你要让我怎么想  罗德尼
+what do you want me to believe, rodney?
+
+185
+00:09:01,890 --> 00:09:03,290
+亚特兰蒂斯就这么消失了?
+that atlantis just disappeared?
+
+186
+00:09:03,300 --> 00:09:04,760
+听着  我不知道
+look, i don't know.
+
+187
+00:09:04,760 --> 00:09:06,200
+给我点时间  我会弄明白的  好吗
+just give me a second, i'll figure it out, all right?
+
+188
+00:09:06,200 --> 00:09:07,230
+同时  我会设法定位出
+in the meantime, i've managed to localize
+
+189
+00:09:07,230 --> 00:09:09,130
+能量读取的来源
+the source of the energy reading.
+
+190
+00:09:09,130 --> 00:09:11,200
+是来自于9号甲板的一个舱位
+it's coming from a hold on deck 9.
+
+191
+00:09:12,200 --> 00:09:13,370
+好吧  继续和亚特兰蒂斯联系
+all right, keep trying to reach atlantis.
+
+192
+00:09:13,370 --> 00:09:15,040
+我们去看一下
+we'll check it out.
+
+193
+00:09:26,150 --> 00:09:28,520
+谢帕德  我想我发现了什么
+sheppard, i think i've got something.
+
+194
+00:09:28,520 --> 00:09:31,160
+是刚才那次闪光的辐射残余
+it's the residual radiation from the flash.
+
+195
+00:09:31,160 --> 00:09:33,630
+和打开超空间飞行窗口的情况有些类似
+it's similar to what happens when you open a hyperspace window,
+
+196
+00:09:33,630 --> 00:09:35,130
+但又有所不同
+but different enough
+
+197
+00:09:35,130 --> 00:09:36,690
+因为传感器不会自动加速的
+that the sensors wouldn't have picked it up automatically.
+
+198
+00:09:36,700 --> 00:09:38,160
+那是什么意思
+what the hell does that mean?
+
+199
+00:09:38,160 --> 00:09:40,130
+我想我们经历的是一种新的推进方式
+i think we're looking at a new kind of drive.
+
+200
+00:09:40,130 --> 00:09:42,430
+我记得你说过我们根本没有移动过
+i thought you said we didn't go anywhere.
+
+201
+00:09:42,430 --> 00:09:43,800
+我们是没有
+we didn't.
+
+202
+00:09:43,800 --> 00:09:46,070
+至少从飞船的导航系统来看是没有
+at least not according to the ship's navigational systems.
+
+203
+00:09:46,070 --> 00:09:48,210
+那么是一次故障性推进?
+so, a malfunctioning drive?
+
+204
+00:09:48,210 --> 00:09:49,240
+或许吧
+maybe.
+
+205
+00:09:49,240 --> 00:09:50,740
+稍等下
+just hang on.
+
+206
+00:09:59,620 --> 00:10:02,150
+天啊  谢帕德
+oh, my god, sheppard--
+
+207
+00:10:02,150 --> 00:10:03,960
+镇定点  罗德尼
+stand by, rodney.
+
+208
+00:10:03,960 --> 00:10:05,460
+不  你没明白  我知道怎么回事了
+no, you don't understand, i know what it is.
+
+209
+00:10:05,460 --> 00:10:06,820
+听着  那些辐射残余
+look, the residual radiation.
+
+210
+00:10:06,830 --> 00:10:08,630
+正是我们从外空间
+it's exactly what we recorded
+
+211
+00:10:08,630 --> 00:10:10,500
+两次到达亚特兰蒂斯
+when my double arrived on atlantis
+
+212
+00:10:10,500 --> 00:10:12,000
+所记录的能源
+from an alternate reality.
+
+213
+00:10:12,000 --> 00:10:13,260
+真不敢相信我以前没有注意到
+i can't believe i didn't see this before.
+
+214
+00:10:13,270 --> 00:10:14,770
+谢帕德
+sheppard, hey.
+
+215
+00:10:14,770 --> 00:10:16,670
+这的确是一次推进
+it's a drive all right,
+
+216
+00:10:16,670 --> 00:10:18,170
+但并没有在空间里进行
+but it didn't move us through space.
+
+217
+00:10:18,170 --> 00:10:20,140
+我想我们进入的是一个平行宇宙
+i think it's moved us into a parallel universe.
+
+218
+00:10:20,140 --> 00:10:25,210
+这就可以解释很多事情了
+that would explain a lot of things.
+
+219
+00:10:40,070 --> 00:10:42,070
+他们死了有多久了
+how long have they been dead for?
+
+220
+00:10:42,070 --> 00:10:43,770
+这里就像一个储肉柜
+this place was like a meat locker.
+
+221
+00:10:43,770 --> 00:10:47,480
+他们可能已经这样保存了几个月了
+they could've been preserved like this for months.
+
+222
+00:10:48,880 --> 00:10:50,180
+他们看起来可真像我们
+they look just like us.
+
+223
+00:10:50,180 --> 00:10:51,780
+那是因为就是我们
+that's because they are us--
+
+224
+00:10:51,780 --> 00:10:54,480
+另一个时空的我们
+the alternate reality versions of us.
+
+225
+00:10:54,480 --> 00:10:56,820
+我感觉就像有人走进了我们的墓地
+i feel like someone just walked over my grave.
+
+226
+00:10:56,820 --> 00:10:58,220
+放松  一切都很好
+take it easy. everything's fine.
+
+227
+00:10:58,220 --> 00:11:00,320
+不不  这很糟
+oh, no, no, no, this is very bad.
+
+228
+00:11:00,320 --> 00:11:01,420
+什么
+what?
+
+229
+00:11:01,420 --> 00:11:04,130
+这个手写板是另一个麦凯的
+this tablet belonged to the other mckay.
+
+230
+00:11:04,130 --> 00:11:05,590
+他们也不是原来这里的船员
+they weren't part of the original crew.
+
+231
+00:11:05,590 --> 00:11:07,230
+他们像我们一样来到这
+they came here just like us.
+
+232
+00:11:07,230 --> 00:11:08,900
+听着  亚特兰蒂斯上空的轨道上
+look, a ship appeared in orbit
+
+233
+00:11:08,900 --> 00:11:10,000
+出现了一艘飞船
+above their atlantis,
+
+234
+00:11:10,000 --> 00:11:11,230
+他们是上来查看的
+they came to check it out.
+
+235
+00:11:11,230 --> 00:11:12,530
+这就可以解释
+that would explain
+
+236
+00:11:12,530 --> 00:11:13,740
+港口的另一艘飞船
+the other jumper in the bay.
+
+237
+00:11:13,740 --> 00:11:14,900
+这艘飞船进入了另一个时空
+the ship jumped to another reality,
+
+238
+00:11:14,900 --> 00:11:16,640
+而且他们被困在那  无法返航
+and they were stuck, they couldn't get back.
+
+239
+00:11:16,640 --> 00:11:17,640
+听着  到最后
+look, eventually
+
+240
+00:11:17,640 --> 00:11:18,610
+他们的补给耗光了
+their supplies ran out,
+
+241
+00:11:18,610 --> 00:11:19,970
+他们就...
+and they...
+
+242
+00:11:19,980 --> 00:11:21,340
+好了  好了  谜底揭开了
+all right, all right, mystery solved.
+
+243
+00:11:21,340 --> 00:11:22,780
+我们得行动了
+let's move on.
+
+244
+00:11:22,780 --> 00:11:24,180
+你没意识到这代表什么吗
+don't you realize what this means?
+
+245
+00:11:24,180 --> 00:11:26,480
+他们就是我们  而且他们失败了
+they were us, and they failed.
+
+246
+00:11:26,680 --> 00:11:27,850
+他们可不是我们
+well, they're not us.
+
+247
+00:11:27,850 --> 00:11:29,320
+我们还活的好好的
+we're still alive.
+
+248
+00:11:29,320 --> 00:11:30,380
+走吧
+let's go.
+
+249
+00:11:38,960 --> 00:11:40,030
+答案就在这附近
+the answer's in here somewhere.
+
+250
+00:11:40,030 --> 00:11:42,260
+可以把这的系统启动吗
+can you power up the systems?
+
+251
+00:11:42,260 --> 00:11:45,630
+可以  稍等一下
+uh... yeah, just hold on.
+
+252
+00:11:50,640 --> 00:11:52,470
+好了
+all right...
+
+253
+00:11:55,910 --> 00:11:58,610
+好吧  开始了
+all right, that's a start.
+
+254
+00:11:58,610 --> 00:12:00,280
+那后面是什么
+what's behind here?
+
+255
+00:12:03,750 --> 00:12:05,350
+问的好
+that's a good question.
+
+256
+00:12:21,900 --> 00:12:24,440
+我想这就是我们变换时空的推进装置
+i'm guessing that's our alternate reality drive.
+
+257
+00:12:24,440 --> 00:12:27,810
+你能弄明白如何操控它吗
+can you figure out how to control it?
+
+258
+00:12:27,810 --> 00:12:29,280
+唐突的说  我不能
+offhand, i'd say no.
+
+259
+00:12:29,280 --> 00:12:32,050
+这是另一个麦凯一直试图弄明白的
+that's what the other mckay was trying to do,
+
+260
+00:12:32,050 --> 00:12:33,710
+而且他用了...  好几周的时间
+and he had... weeks.
+
+261
+00:12:33,720 --> 00:12:35,080
+罗德尼
+rodney...
+
+262
+00:12:35,080 --> 00:12:37,190
+好吧
+fine.
+
+263
+00:12:37,190 --> 00:12:38,890
+我从他的研究成果开始
+i'll start with his research.
+
+264
+00:12:38,890 --> 00:12:40,860
+至少我们在开头领先了
+it'll at least give us a head start.
+
+265
+00:12:40,860 --> 00:12:41,860
+这就好多了
+that's better.
+
+266
+00:12:41,860 --> 00:12:43,020
+我们去找些补给
+we're going to go look for supplies.
+
+267
+00:12:43,030 --> 00:12:44,230
+你认为另一个时空的我们
+you don't think the other us
+
+268
+00:12:44,230 --> 00:12:44,830
+没有试过吗
+wouldn't have already tried that?
+
+269
+00:12:44,830 --> 00:12:46,560
+干活去
+get to work.
+
+270
+00:13:01,940 --> 00:13:04,410
+有发现吗
+did you find anything?
+
+271
+00:13:04,410 --> 00:13:08,050
+没有  除非你知道这东西怎么吃
+not unless you know a way to cook this.
+
+272
+00:13:08,050 --> 00:13:10,150
+也许我们应该考虑降落到星球上
+perhaps we should consider going down to the planet
+
+273
+00:13:10,150 --> 00:13:11,920
+去搜集补给
+to collect supplies.
+
+274
+00:13:11,920 --> 00:13:14,020
+谢帕德说这太冒险了
+sheppard says it's too risky.
+
+275
+00:13:14,020 --> 00:13:15,420
+推进或许会再次发生
+the drive could kick in,
+
+276
+00:13:15,420 --> 00:13:16,260
+飞船会自行起飞
+and the ship could take off without us.
+
+277
+00:13:16,260 --> 00:13:20,630
+那我们就被困在这了
+then we'd be stuck here.
+
+278
+00:13:20,630 --> 00:13:22,300
+我们发现的那些自己
+the others that we found...
+
+279
+00:13:22,300 --> 00:13:25,400
+你觉得他们的生活和我们很相似吗
+do you think their lives were very similar to ours?
+
+280
+00:13:25,400 --> 00:13:28,500
+谁在乎这个
+who cares?
+
+281
+00:13:28,500 --> 00:13:30,640
+你怎么能这么说
+how can you say that?
+
+282
+00:13:30,640 --> 00:13:33,270
+我们以前见过更多的自己
+we've seen our doubles before.
+
+283
+00:13:33,280 --> 00:13:36,140
+那是人造的复制品
+replicator-manufactured copies.
+
+284
+00:13:36,150 --> 00:13:39,180
+但他们是真正的人类  有真正的生命
+these were real people, with real lives.
+
+285
+00:13:39,180 --> 00:13:40,350
+我忍不住去想
+i can't help but wondering
+
+286
+00:13:40,350 --> 00:13:41,480
+会是谁在亚特兰蒂斯
+who might still be waiting for her
+
+287
+00:13:41,480 --> 00:13:43,650
+等待她归来
+back on her atlantis.
+
+288
+00:13:43,650 --> 00:13:46,320
+你意思是  她也有个儿子?
+do you mean, did she also have a son?
+
+289
+00:13:47,660 --> 00:13:49,960
+这念头刚刚一闪而过
+the thought had crossed my mind.
+
+290
+00:13:49,960 --> 00:13:51,860
+听着
+look...
+
+291
+00:13:51,860 --> 00:13:53,930
+我已经听麦凯讲过这种事情了
+i've heard mckay talk about this stuff before,
+
+292
+00:13:53,930 --> 00:13:56,500
+照这么假设的话
+and supposedly,
+
+293
+00:13:56,500 --> 00:13:58,100
+有百万个不同的时空
+there's a million different realities out there,
+
+294
+00:13:58,100 --> 00:14:00,070
+每一个时空都有可能出现各种变化
+with every possible variation.
+
+295
+00:14:00,070 --> 00:14:01,270
+也就是说
+which also means
+
+296
+00:14:01,270 --> 00:14:03,570
+会有百万个不同的图门
+there's a million different torrens.
+
+297
+00:14:04,570 --> 00:14:06,340
+那么你还会去担心他们每一个人吗
+you going to worry about every one of them?
+
+298
+00:14:08,010 --> 00:14:10,110
+不会
+no.
+
+299
+00:14:10,110 --> 00:14:12,210
+担心一个就已经够麻烦了
+it's difficult enough worrying about one.
+
+300
+00:14:12,210 --> 00:14:14,120
+我想也是
+i'll bet it is.
+
+301
+00:14:14,120 --> 00:14:15,180
+来吧
+come on.
+
+302
+00:14:24,760 --> 00:14:27,760
+防爆门怎么关上了
+why is the blast door closed?
+
+303
+00:14:27,760 --> 00:14:29,830
+记得吗  有辐射残余
+hello? residual radiation?
+
+304
+00:14:29,830 --> 00:14:31,500
+哦对
+oh, right.
+
+305
+00:14:31,500 --> 00:14:33,230
+你有什么进展了吗
+have you made any progress?
+
+306
+00:14:33,240 --> 00:14:34,440
+事实上
+as a matter of fact,
+
+307
+00:14:34,440 --> 00:14:35,440
+是的  我们有了
+yes, we have.
+
+308
+00:14:35,440 --> 00:14:36,440
+我们?
+we?
+
+309
+00:14:36,440 --> 00:14:37,510
+我和另一个麦凯
+me and the other mckay,
+
+310
+00:14:37,510 --> 00:14:39,070
+而他  毫无惊讶地也是个天才
+who, unsurprisingly, is a genius.
+
+311
+00:14:39,070 --> 00:14:40,140
+不仅如此
+not only that,
+
+312
+00:14:40,140 --> 00:14:41,310
+而且这个推进装置看来是由
+but it looks like the drive was created
+
+313
+00:14:41,310 --> 00:14:43,780
+最初船上的那个麦凯制造的
+by yet another mckay from the original reality.
+
+314
+00:14:43,780 --> 00:14:45,010
+为什么这么说
+what makes you say that?
+
+315
+00:14:45,010 --> 00:14:46,280
+因为我发现有某种
+well, there's a certain, um,
+
+316
+00:14:46,280 --> 00:14:48,450
+我所熟识的精巧设计
+elegance to the design that i recognize.
+
+317
+00:14:48,450 --> 00:14:49,620
+我肯定当船员弃船逃生的时候
+i'm sure that's what the crew was saying
+
+318
+00:14:49,620 --> 00:14:50,790
+他们也是这么说的
+when they abandoned ship.
+
+319
+00:14:50,790 --> 00:14:52,290
+不可否认这里确实有些问题
+well, admittedly there are problems,
+
+320
+00:14:52,290 --> 00:14:55,290
+但仍然算是一项伟大的发明
+but it is still a monumental achievement.
+
+321
+00:14:55,290 --> 00:14:56,760
+那么我们该怎么做
+so, what do we do?
+
+322
+00:14:56,760 --> 00:14:58,730
+我们可以直接让它反向运行吗
+can we just throw this thing in reverse?
+
+323
+00:14:58,730 --> 00:15:01,300
+是啊  比那还要再复杂些
+uh, yeah, it's a little more complicated than that.
+
+324
+00:15:01,300 --> 00:15:03,000
+第一个问题是导航装置
+the first problem is navigation.
+
+325
+00:15:03,000 --> 00:15:05,000
+他们开发了一种坐标系统
+they've developed a coordinate system
+
+326
+00:15:05,000 --> 00:15:07,070
+来区分不同的时空
+to identify the various realities
+
+327
+00:15:07,070 --> 00:15:08,140
+以使他们可以来去自由
+and allow them to get back,
+
+328
+00:15:08,140 --> 00:15:10,540
+但很明显这不管用
+but obviously that didn't work.
+
+329
+00:15:10,540 --> 00:15:12,710
+显而易见
+obviously.
+
+330
+00:15:12,710 --> 00:15:14,480
+这还不是让我烦心的
+that's not what bothers me.
+
+331
+00:15:14,480 --> 00:15:16,010
+这有点让我烦心了
+well, it kind of bothers me.
+
+332
+00:15:16,010 --> 00:15:17,310
+是能源系统
+it's power generation,
+
+333
+00:15:17,310 --> 00:15:19,210
+从一个时空向另一个时空跃迁
+and jumping from one reality to another
+
+334
+00:15:19,210 --> 00:15:20,920
+需要巨大的能量
+requires massive amounts of power.
+
+335
+00:15:20,920 --> 00:15:22,550
+我们说的可是零点装置级别的
+we're talking zpm levels here.
+
+336
+00:15:22,550 --> 00:15:24,890
+很明显他们没有足够的能量来回传着玩
+obviously they didn't have one of those rattling around,
+
+337
+00:15:24,890 --> 00:15:26,550
+所以他们造了一种电容器
+so they created a capacitor
+
+338
+00:15:26,560 --> 00:15:29,490
+来不断地从亚空间抽取能量
+that's constantly drawing power from subspace.
+
+339
+00:15:31,390 --> 00:15:33,860
+看起来似乎能量快充满了
+and it looks like it's almost charged.
+
+340
+00:15:33,860 --> 00:15:36,260
+你罗嗦了这么多  是不是就为了告诉我
+is this your long-winded way of telling me
+
+341
+00:15:36,270 --> 00:15:37,570
+你关不上它
+you just can't turn it off?
+
+342
+00:15:37,570 --> 00:15:39,870
+联想一下  就像开着水龙头向桶里灌水
+think of it like a tap, pouring water into a bucket.
+
+343
+00:15:39,870 --> 00:15:42,440
+当水桶满了的时候  动力系统就会运行
+when the bucket is full, the drive engages,
+
+344
+00:15:42,440 --> 00:15:45,240
+只是这个特殊的水龙头好像没有阀门
+except this particular tap has no valve.
+
+345
+00:15:45,240 --> 00:15:47,240
+像是一种严重的设计失误
+that seems like a pretty serious design flaw,
+
+346
+00:15:47,240 --> 00:15:48,340
+你觉得不是吗
+don't you think?
+
+347
+00:15:48,340 --> 00:15:49,880
+没错
+exactly.
+
+348
+00:15:49,880 --> 00:15:51,550
+这让我觉得他们是在干扰它
+which leads me to believe they were tampering with it,
+
+349
+00:15:51,550 --> 00:15:53,450
+不要让它继续徒然的吸取能量了
+in a vain attempt to generate more power.
+
+350
+00:15:53,450 --> 00:15:55,280
+我想他们也从自己不妙的处境看出来了
+as they got further and further from their own reality,
+
+351
+00:15:55,280 --> 00:15:57,790
+他们必须要返航
+i guess they figured they'd need it to get back.
+
+352
+00:15:57,790 --> 00:15:59,690
+然后我们好了
+and here we go.
+
+353
+00:16:08,030 --> 00:16:10,300
+好吧
+okay.
+
+354
+00:16:10,300 --> 00:16:11,400
+我们这是在哪
+where are we?
+
+355
+00:16:11,400 --> 00:16:13,030
+别看我
+oh, don't look at me.
+
+356
+00:16:13,040 --> 00:16:15,000
+我根本没来得及在主系统的控制面板上
+i haven't had time to route the main systems
+
+357
+00:16:15,000 --> 00:16:16,370
+设定路线呢
+to these control panels.
+
+358
+00:16:16,370 --> 00:16:18,110
+我完全是盲目传到这的
+i'm flying blind down here.
+
+359
+00:16:19,510 --> 00:16:21,410
+若楠  泰勒  到舰桥来见我
+ronon, teyla, meet me at the bridge.
+
+360
+00:16:21,410 --> 00:16:22,310
+马上出发
+on our way.
+
+361
+00:16:22,310 --> 00:16:23,480
+继续努力  罗德尼
+keep it up, rodney.
+
+362
+00:16:29,180 --> 00:16:31,050
+中校  亚特兰蒂斯回来了
+colonel, atlantis is back.
+
+363
+00:16:31,050 --> 00:16:33,650
+我正用传感器接收他们
+i'm picking them up on the sensors.
+
+364
+00:16:35,960 --> 00:16:37,630
+你知道这玩意怎么弄
+you know how to work this stuff?
+
+365
+00:16:37,630 --> 00:16:39,230
+上次代达罗斯号还在运行轨道上时
+the last time the daedalus was in orbit,
+
+366
+00:16:39,230 --> 00:16:40,900
+马克斯少校慷慨地
+major marks generously offered
+
+367
+00:16:40,900 --> 00:16:44,570
+给了我们俩一些基础培训
+to give both of us some preliminary training.
+
+368
+00:16:44,570 --> 00:16:45,830
+我那时很忙
+i was busy.
+
+369
+00:16:45,830 --> 00:16:49,540
+亚特兰蒂斯  我是谢帕德  请讲
+atlantis, this is sheppard, come in.
+
+370
+00:16:49,540 --> 00:16:53,510
+亚特兰蒂斯  能听到吗
+atlantis, do you read?
+
+371
+00:16:56,710 --> 00:16:58,880
+亚特兰蒂斯  我是谢帕德  请讲
+atlantis, this is sheppard, come in.
+
+372
+00:16:58,880 --> 00:17:01,750
+可能他们已经有谢帕德了
+maybe they already have a sheppard.
+
+373
+00:17:03,520 --> 00:17:07,729
+罗德尼  我们随机回到自己的世界
+rodney, what are the odds of us
+
+374
+00:17:07,764 --> 00:17:10,390
+的几率会有多大
+randomly jumping back into our own reality?
+
+375
+00:17:10,390 --> 00:17:12,560
+机会微乎其微
+i'd say slim to none.
+
+376
+00:17:12,560 --> 00:17:15,130
+我查到轨道上还有一艘飞船
+i'm detecting another ship in orbit.
+
+377
+00:17:15,130 --> 00:17:16,430
+怎么样的
+what kind?
+
+378
+00:17:16,430 --> 00:17:19,430
+我看看能不能显示到屏幕上
+i'll see if i can pull it up on screen.
+
+379
+00:17:22,240 --> 00:17:25,340
+我认不出来
+i don't recognize it.
+
+380
+00:17:25,340 --> 00:17:26,910
+那是什么
+what's that?
+
+381
+00:17:30,880 --> 00:17:32,080
+你认识吗
+you know it?
+
+382
+00:17:32,080 --> 00:17:34,080
+不
+no.
+
+383
+00:17:34,080 --> 00:17:35,150
+中校  我想
+colonel, i believe
+
+384
+00:17:35,150 --> 00:17:38,190
+这艘船在准备武器
+the ship is powering weapons.
+
+385
+00:17:38,190 --> 00:17:40,050
+我们护盾的情况怎么样
+what's our shield status?
+
+386
+00:17:40,060 --> 00:17:41,090
+最差状态
+minimal.
+
+387
+00:17:49,630 --> 00:17:51,600
+它在攻击亚特兰蒂斯
+it's firing on atlantis.
+
+388
+00:17:51,600 --> 00:17:53,840
+它的护盾能量在消减
+the city's shields are failing.
+
+389
+00:17:53,840 --> 00:17:56,340
+罗德尼  燃料够发动阿斯加德光束吗
+rodney, do we have enough juice to power up the asgard beam?
+
+390
+00:17:57,040 --> 00:17:58,240
+也许
+maybe.
+
+391
+00:17:58,240 --> 00:17:59,970
+你可以打上两枪  怎么了
+you might be able to get a couple of shots off. why?
+
+392
+00:17:59,980 --> 00:18:02,340
+有异族飞船在攻击亚特兰蒂斯
+there's some alien ship attacking atlantis.
+
+393
+00:18:02,340 --> 00:18:03,480
+然后呢
+so?
+
+394
+00:18:03,480 --> 00:18:04,850
+你什么意思  那是亚特兰蒂斯
+what do you mean, "so?" it's atlantis!
+
+395
+00:18:04,850 --> 00:18:06,680
+但那不是我们的亚特兰蒂斯
+it's not our atlantis.
+
+396
+00:18:06,680 --> 00:18:07,720
+我们都不知道那上面有谁
+we have no idea who's down there.
+
+397
+00:18:07,720 --> 00:18:10,280
+我们还是别管闲事
+look, we should just stay out of it.
+
+398
+00:18:10,290 --> 00:18:11,920
+如果我们不帮忙  亚特兰蒂斯就毁了
+if we do not intervene, the city will be destroyed.
+
+399
+00:18:11,920 --> 00:18:13,220
+我们需要帮助
+yeah, we need help.
+
+400
+00:18:13,220 --> 00:18:14,520
+直觉告诉我  我们最好
+my gut tells me we're better off
+
+401
+00:18:14,520 --> 00:18:15,760
+帮那星球上的人一把
+going with the people on that planet
+
+402
+00:18:15,760 --> 00:18:17,260
+管那上面是谁
+than whoever's on that ship.
+
+403
+00:18:17,260 --> 00:18:18,260
+希望你是对的
+i hope you're right.
+
+404
+00:18:18,260 --> 00:18:20,160
+我也希望
+yeah, well, me too.
+
+405
+00:18:31,640 --> 00:18:32,610
+那船受到损坏
+the ship's been damaged.
+
+406
+00:18:32,610 --> 00:18:33,910
+它停止攻击了
+it's stopped firing.
+
+407
+00:18:33,910 --> 00:18:36,680
+希望我们破坏了它的主要武器
+hopefully we took out its main weapons.
+
+408
+00:18:36,680 --> 00:18:38,080
+等等  不对劲
+wait, something's happening.
+
+409
+00:18:38,080 --> 00:18:40,580
+他们派出小飞船了
+they're launching fighters.
+
+410
+00:18:50,130 --> 00:18:51,530
+若楠...
+ronon...
+
+411
+00:18:53,300 --> 00:18:56,400
+你有机会的时候应该要抓紧
+you should've took marks up when you had the chance.
+
+412
+00:18:56,400 --> 00:18:57,700
+你必须现学现卖
+now you'll have to learn fast.
+
+413
+00:18:57,700 --> 00:19:00,170
+电磁轨道炮瞄准系统
+rail-gun targeting systems.
+
+414
+00:19:00,170 --> 00:19:01,300
+按钮在右边
+button's on the right.
+
+415
+00:19:01,300 --> 00:19:02,640
+控制  雷达  跟踪
+control, radar, tracking,
+
+416
+00:19:02,640 --> 00:19:03,810
+然后目标确认
+and target acquisition,
+
+417
+00:19:03,810 --> 00:19:05,740
+按红按钮发射
+use the red button to fire.
+
+418
+00:19:24,190 --> 00:19:26,390
+见鬼  发生了什么
+what the hell was that?
+
+419
+00:19:26,400 --> 00:19:27,630
+我们被攻击了
+we're under attack.
+
+420
+00:19:27,630 --> 00:19:29,700
+能不能把超光速推进器弄好
+any chance of getting that hyperdrive back online?
+
+421
+00:19:29,700 --> 00:19:30,830
+不行  已经完全损坏了
+no, it's completely shot!
+
+422
+00:19:30,830 --> 00:19:32,470
+我告诉过你了
+i already told you that!
+
+423
+00:19:32,470 --> 00:19:33,770
+真是好啊
+great.
+
+424
+00:19:38,570 --> 00:19:40,010
+他们人太多了
+there's too many of them.
+
+425
+00:19:40,010 --> 00:19:40,780
+我坚持不了了
+i can't do this.
+
+426
+00:19:40,780 --> 00:19:43,040
+继续
+keep trying!
+
+427
+00:20:02,830 --> 00:20:04,430
+我们失去了亚光速
+we've lost sublight.
+
+428
+00:20:04,430 --> 00:20:05,630
+船体有裂缝了
+we have a hull breach.
+
+429
+00:20:05,630 --> 00:20:07,170
+空气在流失
+we're venting atmosphere.
+
+430
+00:20:07,170 --> 00:20:08,170
+我不知道该怎么办了
+i don't know what to do.
+
+431
+00:20:13,410 --> 00:20:15,410
+关闭损坏区域
+seal off damaged areas.
+
+432
+00:20:15,410 --> 00:20:17,180
+暂时应该没问题
+we should be okay for the moment.
+
+433
+00:20:17,180 --> 00:20:19,650
+要我就不会那么肯定
+i wouldn't be so sure about that.
+
+434
+00:20:21,520 --> 00:20:22,720
+谢帕德  我有个主意
+sheppard, i have an idea!
+
+435
+00:20:22,720 --> 00:20:24,250
+说来听听
+let's hear it.
+
+436
+00:20:24,250 --> 00:20:25,490
+我建立了新协议
+i've set up a few protocols
+
+437
+00:20:25,490 --> 00:20:27,290
+能提高变换时空推进器
+that should increase the efficiency
+
+438
+00:20:27,290 --> 00:20:29,390
+的工作效率
+of the alternate reality drive.
+
+439
+00:20:29,390 --> 00:20:33,060
+如果可以  我们可以马上跃迁到其他时空
+if i enable them, we might be able jump sooner.
+
+440
+00:20:33,060 --> 00:20:34,800
+什么  跃迁到其他时空
+what, jump to the next universe?
+
+441
+00:20:34,800 --> 00:20:36,460
+完全正确
+exactly!
+
+442
+00:20:36,470 --> 00:20:38,430
+但做了就无法回头了
+but if i do this, i can't undo it!
+
+443
+00:20:38,430 --> 00:20:41,170
+我们就会跃迁得越来越快
+i mean, we'll just start jumping faster and faster!
+
+444
+00:20:44,640 --> 00:20:45,710
+就这么做
+do it.
+
+445
+00:21:06,860 --> 00:21:08,000
+成功了
+it worked.
+
+446
+00:21:08,000 --> 00:21:09,330
+我们在哪儿
+where are we?
+
+447
+00:21:10,630 --> 00:21:12,400
+我们有麻烦了
+we have a problem.
+
+448
+00:21:12,400 --> 00:21:15,440
+船体的温度在急速上升
+temperature in the hull is rising rapidly.
+
+449
+00:21:15,440 --> 00:21:17,340
+这是什么鬼东西
+what the hell is this?
+
+450
+00:21:25,150 --> 00:21:26,450
+根据这些数据显示
+according to these readings,
+
+451
+00:21:26,450 --> 00:21:27,750
+我们离太阳外沿
+we're less than two million kilometers
+
+452
+00:21:27,750 --> 00:21:29,620
+不到两百万公里
+from the surface of the sun.
+
+453
+00:21:29,620 --> 00:21:31,450
+我觉得我们总是跃迁到不同时空
+i thought we always jumped to the same place
+
+454
+00:21:31,450 --> 00:21:32,690
+的同一个地方
+in every reality.
+
+455
+00:21:32,690 --> 00:21:33,920
+我也这么想
+as did i.
+
+456
+00:21:37,190 --> 00:21:39,290
+舱体温度到达危险边缘了
+hull temperature is approaching critical.
+
+457
+00:21:39,290 --> 00:21:41,300
+如果不能重新展开护盾
+if we do not restore shields...
+
+458
+00:21:41,300 --> 00:21:43,660
+我们要被烤焦了
+we're going to burn.
+
+459
+00:21:46,620 --> 00:21:48,350
+你确定?
+are you sure about this?
+
+460
+00:21:48,350 --> 00:21:51,120
+这不是我们想象出来的  罗德尼
+well, we're not imagining it, rodney.
+
+461
+00:21:51,120 --> 00:21:53,320
+我把传感器送下去
+let me transfer the sensors down to the station.
+
+462
+00:21:53,320 --> 00:21:55,260
+那至少我能...
+then at least i can...
+
+463
+00:21:56,760 --> 00:21:58,390
+这确实不是你们想象出来的
+well, you're definitely not imagining that.
+
+464
+00:21:58,390 --> 00:22:00,530
+谢谢你的信任
+thanks for the vote of confidence.
+
+465
+00:22:00,530 --> 00:22:02,100
+我不明白
+i don't understand it.
+
+466
+00:22:02,100 --> 00:22:03,630
+我们总到在不同时空的相同地点
+we always jump to the same relative position in space.
+
+467
+00:22:03,630 --> 00:22:06,170
+除非...
+unless...
+
+468
+00:22:06,170 --> 00:22:08,240
+除非什么
+unless what?
+
+469
+00:22:08,240 --> 00:22:09,840
+你说当你在未来时
+you said when you went to the future,
+
+470
+00:22:09,840 --> 00:22:12,470
+看到太阳扩张成红色巨球记得吗
+you saw our sun expanding into a red giant, remember?
+
+471
+00:22:12,480 --> 00:22:14,110
+你是说我们跨越时间了?
+what are you saying, we're jumping through time now?
+
+472
+00:22:14,110 --> 00:22:15,510
+不不不不
+no, no, no, no, no,
+
+473
+00:22:15,510 --> 00:22:18,480
+但也许在我们时空的里终要发生的
+but maybe what eventually happens in our reality
+
+474
+00:22:18,480 --> 00:22:20,280
+就是现在这里已经发生的  只是快很多
+is happening in this one, only much sooner.
+
+475
+00:22:20,280 --> 00:22:21,920
+不是我们到太阳这里
+we didn't go to the sun.
+
+476
+00:22:21,920 --> 00:22:23,120
+是太阳朝着我们来了
+the sun came to us.
+
+477
+00:22:23,120 --> 00:22:25,220
+这对我们有什么帮助
+so how does this help us?
+
+478
+00:22:25,220 --> 00:22:27,790
+我...我不知道
+i-i don't know.
+
+479
+00:22:27,790 --> 00:22:29,420
+我只是觉得很有意思
+i just, i found it interesting.
+
+480
+00:22:29,430 --> 00:22:32,630
+罗德尼  有意思的是
+what's interesting, rodney,
+
+481
+00:22:32,630 --> 00:22:35,000
+想个法子离开这里  免得被烤焦
+is a way out of this without getting fried,
+
+482
+00:22:35,000 --> 00:22:37,100
+比如修好亚光速器
+like getting sublight back on,
+
+483
+00:22:37,100 --> 00:22:39,070
+那我们就能离开这鬼地方了
+so we can get the hell out of here.
+
+484
+00:22:39,070 --> 00:22:40,440
+实际上  我觉得我们最好
+actually, i think our best bet
+
+485
+00:22:40,440 --> 00:22:43,170
+还是尽可能转移能量到护盾上
+is just to transfer as much power as we can to the shields,
+
+486
+00:22:43,170 --> 00:22:44,340
+然后等着下一次跃迁
+and ride it out till the next jump.
+
+487
+00:22:44,340 --> 00:22:46,440
+要多久
+when does that happen?
+
+488
+00:22:46,440 --> 00:22:49,210
+电容的充电时间差别很大
+well, the time the capacitor takes to charge is different
+
+489
+00:22:49,210 --> 00:22:51,210
+因为我定了新协议
+now that i've enacted those new protocols.
+
+490
+00:22:51,210 --> 00:22:53,780
+你知道...
+you know, um...
+
+491
+00:22:53,780 --> 00:22:55,220
+我不知道
+i have no idea.
+
+492
+00:22:55,220 --> 00:22:58,190
+你这根本不是计划  罗德尼
+you're not exactly selling the plan, rodney.
+
+493
+00:22:58,190 --> 00:22:59,390
+我也不知道修好亚光速器
+i have no idea how long it would take me
+
+494
+00:22:59,390 --> 00:23:00,990
+要花多长时间
+to fix the sublights either!
+
+495
+00:23:00,990 --> 00:23:02,660
+我需要进行诊断
+look, i've got to run a diagnostic,
+
+496
+00:23:02,660 --> 00:23:04,590
+理论上  传递能量给护盾
+but theoretically, transferring power to the shields
+
+497
+00:23:04,590 --> 00:23:05,930
+更简单一些
+should be relatively easy.
+
+498
+00:23:05,930 --> 00:23:08,130
+好吧  我们怎么做
+all right, what do we do?
+
+499
+00:23:08,130 --> 00:23:10,730
+首先我要你们到工程舱
+the first i need you to do is head down to engineering.
+
+500
+00:23:10,730 --> 00:23:13,500
+走吧
+let's go.
+
+501
+00:23:24,850 --> 00:23:25,810
+好了  我们到了
+all right, we're here.
+
+502
+00:23:25,820 --> 00:23:26,920
+怎么做
+what do we do?
+
+503
+00:23:26,920 --> 00:23:28,050
+把所有能量都调到
+you need to kill all power
+
+504
+00:23:28,050 --> 00:23:29,850
+"非必要"档
+to non-essential decks.
+
+505
+00:23:29,850 --> 00:23:31,150
+这样就要打开
+which means you're going to have to access
+
+506
+00:23:31,150 --> 00:23:32,920
+主控干预
+the main administrative interface.
+
+507
+00:23:32,920 --> 00:23:34,560
+然后会显示一串
+that should bring up a list
+
+508
+00:23:34,560 --> 00:23:38,060
+可用的多余指令
+of all available override commands.
+
+509
+00:23:41,900 --> 00:23:43,160
+弄好了
+got it.
+
+510
+00:23:43,170 --> 00:23:44,430
+好
+okay.
+
+511
+00:23:44,430 --> 00:23:46,430
+选"生命支持控制"
+so choose the command for life support.
+
+512
+00:23:46,440 --> 00:23:47,640
+你们需要一级一级
+you'll have to designate the decks
+
+513
+00:23:47,640 --> 00:23:50,170
+设定
+one by one.
+
+514
+00:24:34,420 --> 00:24:36,520
+已经全部设定完毕
+i think that's all of them.
+
+515
+00:24:36,520 --> 00:24:37,690
+该死
+damn it.
+
+516
+00:24:37,690 --> 00:24:40,020
+没有提供我预料中足够的能量
+that didn't buy us nearly as much power as i would have thought.
+
+517
+00:24:40,020 --> 00:24:42,160
+一定还有什么疏忽了
+well, there's got to be something else.
+
+518
+00:24:42,160 --> 00:24:43,460
+对...
+right, um...
+
+519
+00:24:43,460 --> 00:24:45,830
+船有辅助能量模块
+all right, look, the ship has auxiliary power modules
+
+520
+00:24:45,830 --> 00:24:47,360
+供应主要系统
+for most of the main systems.
+
+521
+00:24:47,360 --> 00:24:48,530
+很可能能量都耗尽了
+most likely they're depleted,
+
+522
+00:24:48,530 --> 00:24:50,030
+但如果没有
+but if not, well,
+
+523
+00:24:50,030 --> 00:24:51,300
+也许能再给我们点能量
+it might buy us a little more juice.
+
+524
+00:24:51,300 --> 00:24:53,270
+那就这样吧
+well, there you go.
+
+525
+00:25:06,650 --> 00:25:07,680
+那是什么
+what the hell was that?
+
+526
+00:25:07,680 --> 00:25:08,880
+枪战?
+was it gunfire?
+
+527
+00:25:08,880 --> 00:25:12,220
+若楠在哪儿
+where's ronon?
+
+528
+00:25:12,220 --> 00:25:13,690
+你继续
+keep working.
+
+529
+00:25:15,390 --> 00:25:16,660
+集中注意  罗德尼
+stay focused, rodney.
+
+530
+00:25:16,660 --> 00:25:18,990
+告诉我接下去怎么做
+tell me what to do next.
+
+531
+00:25:18,990 --> 00:25:20,530
+好的
+all right.
+
+532
+00:25:34,410 --> 00:25:36,240
+你还好吗
+you okay?
+
+533
+00:25:36,250 --> 00:25:37,280
+嗯
+yeah.
+
+534
+00:25:37,280 --> 00:25:39,910
+他从哪儿冒出来的
+where the hell did he come from?
+
+535
+00:25:42,890 --> 00:25:44,550
+你看
+check it out.
+
+536
+00:25:44,550 --> 00:25:48,190
+这是在异族飞船上看到的符号
+it's the symbol that was on the alien ship.
+
+537
+00:25:48,190 --> 00:25:50,160
+他是怎么上来的
+how'd he get onboard?
+
+538
+00:25:50,160 --> 00:25:52,890
+记得吗  他们朝我们撞上来
+you know, they crashed into us,
+
+539
+00:25:52,900 --> 00:25:54,800
+穿过我们的船体
+penetrated our hull, remember?
+
+540
+00:25:54,800 --> 00:25:56,330
+这么说他是故意的?
+think he did it on purpose?
+
+541
+00:25:56,330 --> 00:25:58,970
+问得好
+that's a good question.
+
+542
+00:26:07,110 --> 00:26:08,210
+我来试试
+let me try that--
+
+543
+00:26:13,780 --> 00:26:14,980
+好了
+that's it.
+
+544
+00:26:14,980 --> 00:26:16,550
+差不多都设置完毕了
+that's all of them.
+
+545
+00:26:16,550 --> 00:26:17,850
+我得去帮谢帕德中校和若楠了
+i must go help colonel sheppard and ronon.
+
+546
+00:26:17,850 --> 00:26:19,420
+罗德尼  你自己小心了
+good luck, rodney.
+
+547
+00:26:19,420 --> 00:26:21,890
+不  不  不  不够哇
+no, no, no, no, no, it's not enough!
+
+548
+00:26:21,890 --> 00:26:23,120
+什么意思
+what do you mean?
+
+549
+00:26:23,130 --> 00:26:25,090
+没有亚光速  我们的在轨道在向太阳收缩
+without sublights, our orbit is decaying,
+
+550
+00:26:25,090 --> 00:26:27,660
+这就意味这更多的辐射会冲进我们的护盾
+which means more radiation slamming into the shields.
+
+551
+00:26:27,660 --> 00:26:30,430
+变换时空的推进器也才充了70%左右
+the alternate reality drive is only charged to 70% percent.
+
+552
+00:26:30,430 --> 00:26:32,770
+等不到充完  我们的护盾就先崩溃了
+which means it'll never make 100 before the shields fail.
+
+553
+00:26:32,770 --> 00:26:33,800
+那我们该怎么办
+well, what do we do?
+
+554
+00:26:33,800 --> 00:26:35,170
+我们没有能源了
+we have no more power.
+
+555
+00:26:36,970 --> 00:26:39,510
+让我想想
+j-just... give me a second.
+
+556
+00:26:48,120 --> 00:26:51,720
+罗德尼  谢帕德和若楠现在受到攻击了
+rodney, colonel sheppard and ronon are under attack.
+
+557
+00:26:53,220 --> 00:26:54,190
+我知道了  我知道了
+all right, i got it, i got it.
+
+558
+00:26:54,190 --> 00:26:55,390
+关闭护盾
+drop the shields.
+
+559
+00:26:55,390 --> 00:26:56,030
+什么
+what?
+
+560
+00:26:56,050 --> 00:26:57,260
+关闭护盾
+drop the shields,
+
+561
+00:26:57,270 --> 00:26:58,360
+我会尽量把所有的能源都传输到推进器
+i will transfer all available power to the drive.
+
+562
+00:26:58,360 --> 00:27:00,160
+希望足够我们进行下一次跃迁
+hopefully it'll be enough to induce a jump.
+
+563
+00:27:00,860 --> 00:27:02,260
+希望?
+hopefully?
+
+564
+00:27:02,260 --> 00:27:03,530
+这是我们唯一的办法了
+it is our only option,
+
+565
+00:27:03,530 --> 00:27:04,900
+我们越争论一分
+and every second we argue about it,
+
+566
+00:27:04,900 --> 00:27:06,530
+成功的机会就少一分
+is less of a chance it's going to work!
+
+567
+00:27:06,540 --> 00:27:07,770
+好吧
+very well.
+
+568
+00:27:07,770 --> 00:27:08,770
+关闭护盾
+dropping shields.
+
+569
+00:27:14,540 --> 00:27:16,040
+船体温度超过安全指数了
+hull temperature is passing critical.
+
+570
+00:27:16,050 --> 00:27:19,710
+现在  把能源都转到推进器上
+okay, transferring power to the drive now.
+
+571
+00:27:22,750 --> 00:27:24,120
+不  不  不
+oh, no, no, no, no, no.
+
+572
+00:27:24,120 --> 00:27:25,290
+怎么了
+what is it?
+
+573
+00:27:25,290 --> 00:27:26,920
+还是不够啊  只有98%
+it's not enough. it's only 98%!
+
+574
+00:27:28,290 --> 00:27:31,830
+罗德尼  船体开始损毁了
+rodney, the hull is beginning to deteriorate.
+
+575
+00:27:35,230 --> 00:27:36,770
+加把劲啊  加把劲
+come on, come on!
+
+576
+00:27:39,740 --> 00:27:41,270
+就现在  谢帕德  我们要跃迁了
+that's it! sheppard, we're jumping!
+
+577
+00:27:58,650 --> 00:28:01,360
+干得好  罗德尼
+nice work, rodney.
+
+578
+00:28:01,360 --> 00:28:04,790
+你不会想这么早夸我的
+uh, you may want to hold off on the congratulations.
+
+579
+00:28:04,790 --> 00:28:06,530
+又怎么了
+now what?
+
+580
+00:28:06,530 --> 00:28:08,630
+我好像使推进器超负荷了
+i think i've overtaxed the drive.
+
+581
+00:28:08,630 --> 00:28:10,100
+虽然还没有爆炸
+look, it's not completely blown, but
+
+582
+00:28:10,100 --> 00:28:12,430
+我们还有几次跃迁  但它已经快撑不住了
+we've only a handful of jumps before it's burned out.
+
+583
+00:28:13,570 --> 00:28:15,070
+好吧  然后会怎样
+all right, then what happens?
+
+584
+00:28:15,070 --> 00:28:17,770
+如果到那时候  我们还不知道如何返回的话
+if we haven't found our way back by then,
+
+585
+00:28:17,770 --> 00:28:19,710
+我们就再也回不去了
+we will be stranded forever.
+
+586
+00:28:27,030 --> 00:28:28,640
+这星球怎么了
+what happened to the planet?
+
+587
+00:28:28,640 --> 00:28:30,070
+罗德尼认为  在这一时空里
+rodney believes that in this reality,
+
+588
+00:28:30,070 --> 00:28:33,470
+它被一股或许是几百万年前的冲击力破坏了
+it was destroyed by an impact,possibly millions of years ago.
+
+589
+00:28:33,470 --> 00:28:35,640
+留下了这一片星场
+all that remains is this asteroid field.
+
+590
+00:28:35,640 --> 00:28:37,440
+来  我有些新发现了
+all right, i think i got something.
+
+591
+00:28:37,450 --> 00:28:40,310
+其实就一直都在那
+in fact, it was staring me in the face the whole time.
+
+592
+00:28:40,310 --> 00:28:42,220
+是我之前专注于躲避危险而没有注意到
+i was just too busy trying to avoid imminent death to notice it.
+
+593
+00:28:42,220 --> 00:28:43,850
+你说的是什么
+what are you talking about?
+
+594
+00:28:43,850 --> 00:28:45,290
+是我的错  老是盯着导航系统不放
+see, my mistake was focusing on the navigation system.
+
+595
+00:28:45,290 --> 00:28:46,290
+我早该知道的  这法子没用
+i should've known that was never going to work.
+
+596
+00:28:46,290 --> 00:28:48,590
+然后呢
+so, what, then?
+
+597
+00:28:48,590 --> 00:28:51,420
+多谢多维数学的奇妙特性
+so in spectacular feat of multi-dimensional mathematics,
+
+598
+00:28:51,430 --> 00:28:53,490
+我找到个办法  使我们的飞船
+i've discovered a way to send the ship back
+
+599
+00:28:53,490 --> 00:28:54,860
+既能够原路返回
+along the path it's previously traveled
+
+600
+00:28:54,860 --> 00:28:56,760
+又能够绕开导航系统
+bypassing the navigation system altogether.
+
+601
+00:28:56,760 --> 00:28:58,100
+等一下
+wait a minute.
+
+602
+00:28:58,100 --> 00:29:00,230
+你的意思是把这东西反向运行?
+you're talking about putting this thing in reverse?
+
+603
+00:29:00,230 --> 00:29:01,770
+完全正确
+exactly.
+
+604
+00:29:01,770 --> 00:29:03,940
+我2个小时前就这么说过了
+i just suggested that two hours ago.
+
+605
+00:29:04,740 --> 00:29:05,820
+我之前是根本没想过嘛
+and naturally,i dismissed it out of hand,
+
+606
+00:29:05,910 --> 00:29:08,210
+接着我又意识到  包括最初的设计者
+but then i realized that, including the original designer,
+
+607
+00:29:08,210 --> 00:29:10,210
+不是一个  已经是有两个版本的我
+not one, but two versions of myself
+
+608
+00:29:10,210 --> 00:29:11,340
+都没办法搞定这东西了
+have failed to make this thing work.
+
+609
+00:29:11,350 --> 00:29:13,110
+我不能按我的模式来思考
+i had to think not like me.
+
+610
+00:29:13,110 --> 00:29:14,580
+必须要跳出我的模式思考
+i had to think the opposite of me.
+
+611
+00:29:14,580 --> 00:29:15,950
+当局者迷  旁观者清
+doesn't get more opposite than you.
+
+612
+00:29:15,950 --> 00:29:17,720
+我把它理解成夸奖我了
+i'll take that as a compliment.
+
+613
+00:29:17,720 --> 00:29:20,050
+那我们是回得去还是回不去
+so can we get back or not?
+
+614
+00:29:20,050 --> 00:29:21,250
+不完全是
+well, not directly.
+
+615
+00:29:21,260 --> 00:29:22,820
+要计算出
+it's impossible to calculate
+
+616
+00:29:22,820 --> 00:29:24,890
+我们的起点和现在位置的相对方位
+the relative position of our original starting point
+
+617
+00:29:24,890 --> 00:29:25,760
+是有点不太可能的
+from where we are now,
+
+618
+00:29:25,760 --> 00:29:27,390
+但是可以追踪我们之前的脚步
+but we can retrace our steps,
+
+619
+00:29:27,400 --> 00:29:28,930
+把每一个时空轮流转一遍
+passing through each reality in turn
+
+620
+00:29:28,930 --> 00:29:30,730
+直到找到正确的那个
+until we reach the right one.
+
+621
+00:29:30,730 --> 00:29:32,130
+有点小问题  罗德尼
+slight problem, rodney.
+
+622
+00:29:32,130 --> 00:29:34,570
+我们不太可能活着离开这些时空的
+we barely got out of those realities alive.
+
+623
+00:29:34,770 --> 00:29:37,140
+如果我们不修复护盾
+if we do no restore the shields,
+
+624
+00:29:37,150 --> 00:29:38,510
+太阳的辐射就会置我们于死地
+the radiation from the red giant will kill us.
+
+625
+00:29:38,510 --> 00:29:39,710
+那倒不一定
+not necessarily.
+
+626
+00:29:39,710 --> 00:29:41,070
+我们知道
+we let the ship carry us
+
+627
+00:29:41,080 --> 00:29:42,440
+飞船能够用它的动量载我们
+in its momentum in real space
+
+628
+00:29:42,440 --> 00:29:43,840
+从这个时空到下一个
+from one reality to the next.
+
+629
+00:29:43,840 --> 00:29:45,280
+我们现在亚光速引擎也许不能用了
+now, we may not have sublight engines,
+
+630
+00:29:45,280 --> 00:29:46,880
+但我们至少还有起飞加速器
+but we do have maneuvering thrusters.
+
+631
+00:29:46,880 --> 00:29:49,250
+只要沿着正确的轨道
+you know, one long continuous burn
+
+632
+00:29:49,250 --> 00:29:50,250
+从现在起直到下一个跃迁
+along the right trajectory,
+
+633
+00:29:50,250 --> 00:29:51,550
+引擎长时间持续运转
+from now until the next jump
+
+634
+00:29:51,550 --> 00:29:53,420
+应该还是足够我们
+should be enough to allow us to establish a higher,
+
+635
+00:29:53,420 --> 00:29:55,360
+在太阳附近建立一个更稳定的轨道
+more stable orbit around the sun.
+
+636
+00:29:55,360 --> 00:29:56,720
+从而就能不受辐射影响?
+so the radiation will not affect us?
+
+637
+00:29:56,720 --> 00:29:58,060
+我没想那么多
+well, i wouldn't go that far,
+
+638
+00:29:58,060 --> 00:30:00,430
+但至少可以...避免不死吧?
+but still, it'll be... not quite as deadly?
+
+639
+00:30:00,630 --> 00:30:02,030
+好了
+okay.
+
+640
+00:30:02,030 --> 00:30:03,430
+就是这样
+that's it.
+
+641
+00:30:03,430 --> 00:30:05,030
+我们就这样子办好了
+course is already plotted.
+
+642
+00:30:05,030 --> 00:30:06,500
+那这些异族家伙呢
+what about those alien dudes?
+
+643
+00:30:06,500 --> 00:30:07,900
+他知道是我们朝他们开枪的
+they're know we're the ones that shot at them.
+
+644
+00:30:07,900 --> 00:30:09,670
+说不定他们到时候就走了
+maybe they'll be gone.
+
+645
+00:30:09,670 --> 00:30:11,000
+顾不上他们了
+i wouldn't count on it.
+
+646
+00:30:11,010 --> 00:30:12,210
+在每个时空
+time is passing at the same rate
+
+647
+00:30:12,210 --> 00:30:13,670
+时间的流逝还是按照相同比率的
+in each of the realities, which means...
+
+648
+00:30:13,670 --> 00:30:15,640
+这就说明了...不会那么久啦
+it hasn't been that long.
+
+649
+00:30:15,640 --> 00:30:17,939
+要搞定那些异族的
+to get past those aliens,
+
+650
+00:30:17,974 --> 00:30:19,450
+我们还是需要有亚光速引擎
+we're going to need sublight engines,
+
+651
+00:30:19,450 --> 00:30:21,610
+我得去尽快修好它
+and i'm going to need to fix them in time.
+
+652
+00:30:21,620 --> 00:30:23,850
+等一下  你不是说都不知道是什么毛病吗
+wait, wait, but you said you don't know what's wrong with those.
+
+653
+00:30:23,850 --> 00:30:25,890
+我是还没机会去看过啊
+i haven't had a chance to check it out.
+
+654
+00:30:25,890 --> 00:30:26,890
+很遗憾  我又没有三头六臂
+i'm sorry i can't do 10 things at once.
+
+655
+00:30:26,890 --> 00:30:28,460
+我都说了
+i already told you,
+
+656
+00:30:28,460 --> 00:30:30,720
+推进器马上就撑不住了的
+the drive is going to burn out,soon.
+
+657
+00:30:30,730 --> 00:30:32,160
+我们总得采取点行动吧
+we have to do something.
+
+658
+00:30:32,160 --> 00:30:34,960
+说不定下个时空会更糟
+who's to say the next reality won't be even worse?
+
+659
+00:30:42,800 --> 00:30:44,240
+好了
+all right,
+
+660
+00:30:44,240 --> 00:30:46,810
+推进器的所有设置更改完毕
+all the modifications to the drive are in place.
+
+661
+00:30:46,810 --> 00:30:49,740
+开始!
+here we go.
+
+662
+00:31:04,390 --> 00:31:05,730
+成功了
+it worked.
+
+663
+00:31:05,730 --> 00:31:07,560
+你办到了  罗德尼
+you did it, rodney.
+
+664
+00:31:07,560 --> 00:31:09,030
+那好吧
+all right,
+
+665
+00:31:09,030 --> 00:31:10,260
+我现在过去引擎那边了
+i'm going to head up to engineering,
+
+666
+00:31:10,260 --> 00:31:13,270
+去检查下亚光速器
+get to work on the sublights.
+
+667
+00:31:15,440 --> 00:31:16,870
+现在情况怎样
+what's our status?
+
+668
+00:31:16,870 --> 00:31:18,670
+机身温度上升
+hull temperature is rising,
+
+669
+00:31:18,670 --> 00:31:20,140
+但不如以前那么快
+but not as rapidly as it did before.
+
+670
+00:31:20,140 --> 00:31:21,270
+我想应该没问题
+i think we'll be okay.
+
+671
+00:31:21,280 --> 00:31:22,940
+已经都烤了这么长时间了
+so much for the frying pan.
+
+672
+00:31:22,940 --> 00:31:25,080
+但愿能够经得起高温
+let's hope we make it through the fire.
+
+673
+00:31:29,280 --> 00:31:30,750
+进展如何
+how is it coming?
+
+674
+00:31:31,850 --> 00:31:33,420
+不太好
+ah, it's not good.
+
+675
+00:31:33,420 --> 00:31:35,020
+主要系统的温度都太高了
+the main systems are completely fried.
+
+676
+00:31:35,020 --> 00:31:36,720
+我得架个辅助通道
+i'll have to do a full bypass.
+
+677
+00:31:36,720 --> 00:31:37,960
+我能帮忙么
+can i be of assistance?
+
+678
+00:31:37,960 --> 00:31:39,190
+可能不行
+i doubt it.
+
+679
+00:31:41,860 --> 00:31:43,460
+噢  该死的
+oh, jeez!
+
+680
+00:31:43,460 --> 00:31:44,800
+搞什么
+what the...
+
+681
+00:31:51,610 --> 00:31:52,910
+多谢
+thanks.
+
+682
+00:31:52,910 --> 00:31:56,080
+或许可以单独诊断一下辅助系统
+perhaps a separate diagnostic of the auxiliary system might be useful.
+
+683
+00:31:57,380 --> 00:32:00,450
+我试试
+uh, sure.
+
+684
+00:32:05,020 --> 00:32:06,390
+谢谢你  罗德尼
+i wanted to thank you, rodney.
+
+685
+00:32:06,390 --> 00:32:07,820
+为什么
+for what?
+
+686
+00:32:07,820 --> 00:32:11,160
+因为你不放弃
+for not giving up.
+
+687
+00:32:12,530 --> 00:32:14,190
+噢  我知道是怎么回事了
+oh, i know what this is.
+
+688
+00:32:14,200 --> 00:32:15,830
+这是你回来后的第一个任务
+it's your first mission back.
+
+689
+00:32:15,830 --> 00:32:18,500
+放心  我不会让它变成你的最后一个
+look, i am not about to let it be your last, okay?
+
+690
+00:32:21,040 --> 00:32:23,200
+不  这正是我所担心的
+oh, no, that's what i was afraid of.
+
+691
+00:32:23,200 --> 00:32:24,800
+那是什么
+what is it?
+
+692
+00:32:24,810 --> 00:32:26,970
+推进器能量充得快了许多
+the drive's charging a lot faster now.
+
+693
+00:32:26,970 --> 00:32:28,240
+谢帕德
+sheppard...
+
+694
+00:32:28,240 --> 00:32:29,440
+看来马上要开始下一次跃迁
+looks like the next jump's going to happen
+
+695
+00:32:29,440 --> 00:32:30,710
+比我们料想得快多了
+a lot sooner than we thought.
+
+696
+00:32:30,710 --> 00:32:32,410
+亚光速引擎怎样了
+how's it coming with the sublight engine?
+
+697
+00:32:33,810 --> 00:32:35,220
+还要几分钟
+i'm going to need a few minutes.
+
+698
+00:32:35,220 --> 00:32:36,650
+我们还能有几分钟吗
+do we have a few more minutes?
+
+699
+00:32:36,650 --> 00:32:37,480
+我很怀疑
+i doubt it.
+
+700
+00:32:38,750 --> 00:32:40,020
+电磁轨道炮又派上用场了
+all right, let's split rail gun positions.
+
+701
+00:32:40,020 --> 00:32:41,820
+我在前  你断后
+i'll take forward, you take aft.
+
+702
+00:32:41,820 --> 00:32:43,420
+你觉得这样有用么
+you really think that'll make a difference?
+
+703
+00:32:43,420 --> 00:32:45,490
+没有护盾  也许没什么用
+without shields, probably not,
+
+704
+00:32:45,490 --> 00:32:48,760
+但我们没得选了
+but we don't have much of a choice.
+
+705
+00:32:58,270 --> 00:32:59,640
+异族的飞船在哪
+where's the alien ship?
+
+706
+00:32:59,640 --> 00:33:03,810
+不太清楚
+i'm not sure.
+
+707
+00:33:03,810 --> 00:33:04,510
+也许他们离开了
+well, maybe they left.
+
+708
+00:33:05,680 --> 00:33:08,080
+没这么好运  他们就在我们后边
+no such luck. they're right behind us.
+
+709
+00:33:20,390 --> 00:33:21,590
+战斗机正在朝我们的位置驶来
+fighters, closing in on our position.
+
+710
+00:33:21,600 --> 00:33:22,930
+你那里进展怎么样了
+how's it going down there?
+
+711
+00:33:22,930 --> 00:33:25,830
+再给我点儿时间
+look, just give me a second!
+
+712
+00:33:27,870 --> 00:33:29,870
+罗德尼
+rodney...
+
+713
+00:33:29,870 --> 00:33:31,670
+好了  现在试一试
+okay, try it now.
+
+714
+00:33:37,310 --> 00:33:38,780
+好了  我搞定了
+that's it, i've got it!
+
+715
+00:33:38,780 --> 00:33:39,810
+启动  启动  启动
+go, go, go, go, go, go!
+
+716
+00:33:54,130 --> 00:33:55,430
+谢帕德
+sheppard...
+
+717
+00:33:55,430 --> 00:33:57,230
+我们现在情况如何
+how we doing?
+
+718
+00:33:58,970 --> 00:33:59,970
+他们紧咬着我们不放
+they're gaining on us.
+
+719
+00:33:59,970 --> 00:34:01,740
+我们能再快点儿吗
+can you get us more speed?
+
+720
+00:34:01,740 --> 00:34:03,200
+根本没有可能
+there's not a chance!
+
+721
+00:34:03,200 --> 00:34:04,700
+我好不容易才让这鬼东西工作
+look, i've barely got this thing working as it is!
+
+722
+00:34:04,710 --> 00:34:06,070
+如果我们继续加大功率
+if we tax it any more,
+
+723
+00:34:06,070 --> 00:34:07,370
+整个系统会崩溃的
+we're going to blow the whole system!
+
+724
+00:34:07,380 --> 00:34:09,040
+这样的话我们麻烦大了
+then we've got a real problem.
+
+725
+00:34:18,810 --> 00:34:20,680
+他们进入攻击射程
+they're in weapons range.
+
+726
+00:34:22,950 --> 00:34:24,150
+反击
+return fire.
+
+727
+00:34:24,150 --> 00:34:25,680
+我正努力去做
+i'm trying.
+
+728
+00:34:38,930 --> 00:34:42,330
+冷静点儿伙计  这些按钮与你无仇
+easy, chewie, those buttons are your friends.
+
+729
+00:34:42,330 --> 00:34:43,230
+继续努力
+just keep trying.
+
+730
+00:34:43,230 --> 00:34:44,330
+我很努力了
+i'm trying!
+
+731
+00:34:47,200 --> 00:34:49,970
+这下好了  亚光速器这次彻底坏掉了
+that's it, sublights are gone for good this time!
+
+732
+00:35:09,990 --> 00:35:12,800
+那是什么鬼东西
+what the hell was that?
+
+733
+00:35:12,800 --> 00:35:13,900
+f-302s
+f-302s.
+
+734
+00:35:13,900 --> 00:35:16,600
+是亚特兰蒂斯
+it's atlantis.
+
+735
+00:35:36,350 --> 00:35:38,190
+发生了什么
+what's happening?
+
+736
+00:35:38,190 --> 00:35:40,190
+我们得到火力援助了
+looks like we're getting some help from some friends.
+
+737
+00:35:40,190 --> 00:35:43,560
+看来我们选对了盟友
+guess we bet on the right side after all.
+
+738
+00:35:43,560 --> 00:35:44,990
+代达罗斯号  这是中校约翰·谢帕德
+daedalus , this is lt. colonel john sheppard.
+
+739
+00:35:45,000 --> 00:35:45,900
+收到请讲
+do you read?
+
+740
+00:35:48,570 --> 00:35:50,170
+代达罗斯号  收到请讲
+daedalus, do you read?
+
+741
+00:35:52,640 --> 00:35:54,570
+收到  这里是代达罗斯号
+yeah,  daedalus. uh, this is  daedalus .
+
+742
+00:35:54,570 --> 00:35:56,040
+请讲
+come in.
+
+743
+00:35:56,040 --> 00:35:58,040
+谁  这是谁
+who... who is this?
+
+744
+00:35:58,040 --> 00:36:00,440
+说来话长
+it's a long story.
+
+745
+00:36:00,440 --> 00:36:02,110
+不管你是谁  当你摧毁他们主武器的时候
+well, whoever you are, you saved our asses
+
+746
+00:36:02,110 --> 00:36:04,210
+救了我们一把
+when you took out their main weapons.
+
+747
+00:36:04,220 --> 00:36:05,850
+我想至少我们可以礼尚往来
+figured the least we could do is return the favor.
+
+748
+00:36:05,850 --> 00:36:07,920
+笑纳了
+much appreciated.
+
+749
+00:36:08,950 --> 00:36:11,020
+谢帕德
+uh, sheppard...
+
+750
+00:36:16,490 --> 00:36:18,700
+该死
+oh, crap.
+
+751
+00:36:27,970 --> 00:36:29,010
+刚才的很抱歉
+sorry about that.
+
+752
+00:36:29,010 --> 00:36:30,270
+有一个逃脱了
+one of 'em got through.
+
+753
+00:36:30,270 --> 00:36:31,540
+不过射击的挺漂亮的
+nice shooting, though.
+
+754
+00:36:32,740 --> 00:36:35,550
+谢谢
+oh, thanks.
+
+755
+00:36:55,330 --> 00:36:57,900
+好了  看起来这是他们最后一个了
+all right, looks like that's the last of them.
+
+756
+00:36:57,900 --> 00:36:59,970
+现在怎么办
+so, uh... so, what happens now?
+
+757
+00:36:59,970 --> 00:37:02,840
+我们走我们自己的
+well, we go our own ways.
+
+758
+00:37:02,840 --> 00:37:04,470
+就这样?
+just like that?
+
+759
+00:37:04,480 --> 00:37:06,210
+就这样
+pretty much.
+
+760
+00:37:06,210 --> 00:37:07,440
+问题是
+well, the thing is, uh,
+
+761
+00:37:07,450 --> 00:37:10,080
+我们有些困惑
+we do have a few questions.
+
+762
+00:37:10,080 --> 00:37:13,480
+我们所熟知的代达罗斯号两年前与复制人的战斗中
+see, the  daedalus we know was destroyed two years ago
+
+763
+00:37:13,480 --> 00:37:15,520
+已经被摧毁了
+in a battle with the replicators.
+
+764
+00:37:15,520 --> 00:37:17,690
+很遗憾听到这个消息
+sorry to hear that,
+
+765
+00:37:17,690 --> 00:37:20,990
+但是这并不是完全意义上的代达罗斯号
+but this isn't exactly our  daedalus .
+
+766
+00:37:20,990 --> 00:37:23,560
+我们只是暂时借用一下
+we're just borrowing it for a while.
+
+767
+00:37:23,560 --> 00:37:26,530
+好吧  我现在完全云里雾里
+okay, i have no idea what that means.
+
+768
+00:37:26,530 --> 00:37:29,270
+如我所讲  这故事说来话长
+like i said, it's a long story.
+
+769
+00:37:29,270 --> 00:37:32,100
+好吧  代达罗斯号  祝你好运
+all right,  daedalus , good luck.
+
+770
+00:37:32,100 --> 00:37:33,240
+谢谢
+thank you, colonel,
+
+771
+00:37:33,240 --> 00:37:35,640
+最后一件事情
+and one last thing,
+
+772
+00:37:35,640 --> 00:37:37,470
+遇到你很愉快
+it's been a pleasure.
+
+773
+00:37:37,480 --> 00:37:41,210
+很显然  你有一身正气
+you're obviously a man of great integrity,
+
+774
+00:37:41,210 --> 00:37:43,110
+而且是一名负责的指挥官
+and a dedicated commander,
+
+775
+00:37:43,110 --> 00:37:45,420
+并且是一名优秀的飞行员
+and a very skilled pilot.
+
+776
+00:37:45,420 --> 00:37:46,820
+很有意思
+well, that's funny.
+
+777
+00:37:46,820 --> 00:37:49,050
+我也想这样评价你
+i was going to say the same to you.
+
+778
+00:38:00,300 --> 00:38:01,700
+好的
+all right.
+
+779
+00:38:01,700 --> 00:38:03,070
+异族飞船离开了
+the alien ship's gone.
+
+780
+00:38:03,070 --> 00:38:04,670
+我读取到了一个没有能源显示的星球
+i'm reading a planet with no energy signatures.
+
+781
+00:38:04,670 --> 00:38:06,200
+这是我们跃迁到达的第一个时空
+it's the first reality we jumped to.
+
+782
+00:38:06,200 --> 00:38:07,370
+再来一个  我们就可以回家了
+one more, and we're home.
+
+783
+00:38:08,710 --> 00:38:11,170
+我们现在去停泊舱
+let's get down to the hangar bay.
+
+784
+00:38:20,350 --> 00:38:22,590
+好的
+all right...
+
+785
+00:38:29,830 --> 00:38:31,830
+我中枪了
+i got shot!
+
+786
+00:38:34,430 --> 00:38:36,000
+我以为他们都被干掉了
+i thought we got 'em all.
+
+787
+00:38:36,000 --> 00:38:37,370
+显然没有处理干净
+apparently not.
+
+788
+00:38:45,980 --> 00:38:47,610
+你认为附近还有他们的人吗
+think there's any more of them?
+
+789
+00:38:47,610 --> 00:38:50,180
+我们没空去搜寻了
+we're not waiting around to find out.
+
+790
+00:38:56,120 --> 00:38:57,550
+快跑  快跑  快跑
+move, move, move!
+
+791
+00:39:09,930 --> 00:39:12,170
+爆炸造成了船体裂缝
+the explosion's caused a hull breech.
+
+792
+00:39:12,170 --> 00:39:13,670
+所有区域压强下降
+whole sections have been de-pressurized,
+
+793
+00:39:13,670 --> 00:39:15,240
+包括停泊舱
+including the hangar bay!
+
+794
+00:39:15,240 --> 00:39:17,370
+我们的飞船没了!
+we just lost the jumpers!
+
+795
+00:39:17,370 --> 00:39:18,440
+罗德尼  我们该去往下一站了
+our stop is coming up, rodney.
+
+796
+00:39:18,440 --> 00:39:19,710
+是时候弃舰了
+it's time to get off this train.
+
+797
+00:39:19,710 --> 00:39:21,210
+但是根本没有出口哇
+look, there's no way off.
+
+798
+00:39:21,210 --> 00:39:22,850
+一旦我们跃迁进入自己的时空
+once we jump into our own reality,
+
+799
+00:39:22,850 --> 00:39:23,950
+亚特兰蒂斯会探测到我们的
+atlantis will detect us,
+
+800
+00:39:23,950 --> 00:39:25,450
+然后我们可以发出求救信号
+and they will send help.
+
+801
+00:39:25,450 --> 00:39:27,520
+为了躲避战斗机  我们偏离了预定轨道
+we broke orbit to get away from the fighters, remember?
+
+802
+00:39:27,520 --> 00:39:28,890
+我们按照自己的路径
+look, we carry our momentum
+
+803
+00:39:28,890 --> 00:39:30,920
+还有空间中的相对坐标
+and relative position in space
+
+804
+00:39:30,920 --> 00:39:32,160
+从一个空间穿梭到另一个
+from one reality to the next.
+
+805
+00:39:32,160 --> 00:39:33,690
+也就是说  下一次跃迁
+which means, by the time we next jump,
+
+806
+00:39:33,690 --> 00:39:35,730
+我们可能会偏离预定位置几百万公里
+we're going to be, like, half a million kilometers out.
+
+807
+00:39:35,730 --> 00:39:37,830
+他们根本无法及时找到我们
+they're never going to get to us in time!
+
+808
+00:39:37,830 --> 00:39:39,560
+我们有C-4炸药
+we got c-4.
+
+809
+00:39:39,560 --> 00:39:41,870
+我们等待机会回去  然后炸掉推进器
+we wait till we get back, then we blow the drive.
+
+810
+00:39:41,870 --> 00:39:43,200
+也许可行
+that could work,
+
+811
+00:39:43,200 --> 00:39:45,440
+但也只能在时空连续空间内炸个小洞
+or it could tear a hole in the space-time continuum
+
+812
+00:39:45,440 --> 00:39:46,740
+不但害死我们自己
+not only killing us
+
+813
+00:39:46,740 --> 00:39:48,270
+甚至摧毁整个太阳系
+but destroying the entire solar system!
+
+814
+00:39:48,270 --> 00:39:51,370
+我们最好快点儿想个法子
+well, we'd better think of something fast.
+
+815
+00:39:59,680 --> 00:40:01,890
+屏幕上再次出现了呼救信号
+another contact just appeared on our screens.
+
+816
+00:40:01,890 --> 00:40:03,520
+是不是代达罗斯号发出的?
+was it the  daedalus ?
+
+817
+00:40:03,520 --> 00:40:05,290
+不可能  距离太远根本无法通信
+no, they're too far out for us to get i.f.f.
+
+818
+00:40:05,290 --> 00:40:06,690
+那么试一试亚空间通信
+well, try subspace.
+
+819
+00:40:09,360 --> 00:40:11,130
+谢帕德中校  收到请回答
+colonel sheppard, do you read?
+
+820
+00:40:13,630 --> 00:40:14,660
+谢帕德中校  我是罗恩少校
+colonel sheppard, this is major lorne,
+
+821
+00:40:14,670 --> 00:40:16,530
+收到请讲
+do you read?
+
+822
+00:40:16,530 --> 00:40:18,030
+他们是不是超空间飞行了
+was there a hyperspace window?
+
+823
+00:40:18,040 --> 00:40:19,170
+长官  没有
+no, sir.
+
+824
+00:40:19,170 --> 00:40:20,540
+他们只是突然间冒出来了
+they just appeared out of nowhere.
+
+825
+00:40:20,540 --> 00:40:21,840
+那么  一定是他们
+well, it's got to be them.
+
+826
+00:40:21,840 --> 00:40:23,710
+叫伍尔希先生注意  博士你跟我来
+alert mr. woolsey. doc, you're with me.
+
+827
+00:40:23,710 --> 00:40:26,680
+我们走  快点儿
+let's go, come on.
+
+828
+00:40:30,550 --> 00:40:33,720
+好了  我们现在应该在呼叫范围内了
+all right, we should be within radio range.
+
+829
+00:40:33,720 --> 00:40:35,350
+谢帕德中校  请讲
+colonel sheppard, come in.
+
+830
+00:40:37,320 --> 00:40:39,060
+麦凯博士  我是罗恩少校
+dr. mckay, this is major lorne.
+
+831
+00:40:39,060 --> 00:40:40,220
+收到请讲
+do you read?
+
+832
+00:40:40,220 --> 00:40:41,360
+干扰太大了
+there's too much interference.
+
+833
+00:40:42,930 --> 00:40:46,060
+我截获了某种能量信号
+i'm picking up some kind of energy reading.
+
+834
+00:40:46,060 --> 00:40:47,730
+成尖峰状
+it's spiking.
+
+835
+00:40:54,570 --> 00:40:57,810
+到底发生了什么
+what the hell just happened?
+
+836
+00:40:57,810 --> 00:40:59,710
+他们突然消失了
+they disappeared.
+
+837
+00:40:59,710 --> 00:41:01,680
+你在说什么
+what are you talking about?
+
+838
+00:41:01,680 --> 00:41:04,180
+他们就这样消失了
+well... they're just gone.
+
+839
+00:41:06,920 --> 00:41:08,850
+等一下
+oh, wait a minute.
+
+840
+00:41:08,850 --> 00:41:10,520
+我截取到4个生命迹象
+i'm picking up four lifesigns.
+
+841
+00:41:10,520 --> 00:41:12,220
+好的  哪里
+okay, where?
+
+842
+00:41:12,220 --> 00:41:14,860
+就在前边
+dead ahead.
+
+843
+00:41:22,670 --> 00:41:24,670
+谢帕德中校  是你吗
+colonel sheppard, is that you?
+
+844
+00:41:24,670 --> 00:41:25,670
+少校
+major...
+
+845
+00:41:25,670 --> 00:41:27,370
+很高兴你找到我们
+nice of you to stop by.
+
+846
+00:41:27,370 --> 00:41:29,440
+这附近连个鬼影就见不到
+kind of hard to get a cab in this neighborhood.
+
+847
+00:41:31,410 --> 00:41:34,210
+长官  收到
+yes, sir.
+
+848
+00:41:43,120 --> 00:41:44,190
+推进器损坏以前
+how many jumps
+
+849
+00:41:44,190 --> 00:41:46,460
+还可以进行几次时空跃迁
+you think that drive has left in it before it burns out?
+
+850
+00:41:46,460 --> 00:41:47,860
+最多六次
+half a dozen, tops.
+
+851
+00:41:47,860 --> 00:41:48,660
+6次后就失效了
+then it'll be completely inert.
+
+852
+00:41:48,660 --> 00:41:49,760
+好的
+good.
+
+853
+00:41:49,760 --> 00:41:50,930
+我可不希望有人跟我们一样
+i'd hate to think of somebody else
+
+854
+00:41:50,930 --> 00:41:52,660
+困在那个鬼地方
+getting trapped inside that thing like we did.
+
+855
+00:41:52,660 --> 00:41:55,300
+事实上  我一直在想  没错
+actually, you know,i've been thinking about that. now, true,
+
+856
+00:41:55,400 --> 00:41:57,400
+导航系统因为故障无法启动
+the navigation system was flawed to start,
+
+857
+00:41:57,400 --> 00:41:58,570
+但是推进器的基本原理
+but the basic principles of the drive
+
+858
+00:41:58,570 --> 00:41:59,600
+是合乎常理的
+are fundamentally sound--
+
+859
+00:41:59,600 --> 00:42:00,770
+行了  罗德尼
+forget it, rodney.
+
+860
+00:42:00,770 --> 00:42:02,040
+我保留了相关的数据
+i've saved the relevant data.
+
+861
+00:42:02,040 --> 00:42:03,110
+局部改进一下  我就可以
+minor adjustments, and i should be able to
+
+862
+00:42:03,110 --> 00:42:04,170
+让这东西开始工作了
+have this thing up and running--
+
+863
+00:42:04,180 --> 00:42:06,080
+我说了别倒腾这东西了
+i said forget it.
+
+864
+00:42:06,080 --> 00:42:09,110
+看看谁来了
+hey, look who's here.
+
+865
+00:42:09,110 --> 00:42:10,550
+罗德尼  你的肩膀怎么样了
+how's your shoulder, rodney?
+
+866
+00:42:10,550 --> 00:42:11,750
+伤的挺重
+uh, it's pretty bad,
+
+867
+00:42:11,750 --> 00:42:13,380
+但是现在好了些  谢谢了
+but, you know, better, thanks.
+
+868
+00:42:13,380 --> 00:42:15,720
+有劲儿抱抱他吗
+is it well enough to hold him?
+
+869
+00:42:18,320 --> 00:42:19,490
+说真的吗
+really?
+
+870
+00:42:24,360 --> 00:42:25,900
+别把他摔了
+don't drop him.
+
+871
+00:42:25,900 --> 00:42:26,760
+谢谢
+thank you.
+
+872
+00:42:33,000 --> 00:42:34,340
+瞧瞧  小家伙
+hey there, little guy.
+
+873
+00:42:34,340 --> 00:42:36,670
+我想他喜欢我
+i think he likes me.
+
+874
+00:42:36,670 --> 00:42:37,840
+看起来很配
+it suits you.
+
+875
+00:42:37,840 --> 00:42:39,240
+你也这么认为
+you think so?
+
+876
+00:42:39,240 --> 00:42:42,210
+我想有一天你会成为一个伟大的父亲
+i think you'll make an excellent father someday.
+
+877
+00:42:45,580 --> 00:42:48,020
+我一生中目睹了无数可怕的事情
+i've seen a lot of scary things in my time,
+
+878
+00:42:48,020 --> 00:42:52,160
+但是这个尤为吓人
+but that thought scares me the most.
+
+879
+00:42:52,160 --> 00:42:54,020
+你想...
+do you want to, um...
+
+880
+00:42:54,020 --> 00:42:56,530
+我想是的
+i think so.
+
+881
+00:42:56,530 --> 00:42:57,860
+给你  小心点儿
+there you go, watch out...
+
+882
+00:42:59,730 --> 00:43:01,200
+好的
+right.
+

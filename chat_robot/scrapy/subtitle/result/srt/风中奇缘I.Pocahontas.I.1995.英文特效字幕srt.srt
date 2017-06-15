@@ -1,0 +1,4792 @@
+1
+00:00:01,840 --> 00:00:11,840
+{\fad(500,500)\fn华文楷体\fs16\1c&H3CF1F3&\b0}更多佳片尽在 shop.paipai.com/1610169789{\r}
+
+2
+00:00:13,840 --> 00:00:16,470
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# In sixteen hundred seven #
+
+3
+00:00:16,510 --> 00:00:19,310
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# We sailed the open sea #
+
+4
+00:00:19,350 --> 00:00:21,580
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# For glory, God and gold #
+
+5
+00:00:21,620 --> 00:00:24,810
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# and the Virginia Company #
+
+6
+00:00:24,850 --> 00:00:27,350
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# For the New World is like heaven #
+
+7
+00:00:27,390 --> 00:00:30,190
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# And we'll all be rich and free #
+
+8
+00:00:30,230 --> 00:00:32,390
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Or so we have been told #
+
+9
+00:00:32,430 --> 00:00:36,020
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# by the Virginia Company #
+
+10
+00:00:36,070 --> 00:00:38,090
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# So we have been told #
+
+11
+00:00:38,130 --> 00:00:41,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# by the Virginia Company #
+
+12
+00:00:51,750 --> 00:00:54,010
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# For glory, God and gold #
+
+13
+00:00:54,050 --> 00:00:57,510
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# and the Virginia Company #
+
+14
+00:00:57,550 --> 00:01:00,180
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Ready to hoist the cannon? - Right!
+
+15
+00:01:00,220 --> 00:01:01,780
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Hey, look. Is that Smith?
+
+16
+00:01:01,820 --> 00:01:03,950
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}That's him, all right. The old sea dog.
+
+17
+00:01:03,990 --> 00:01:05,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Captain John Smith?
+
+18
+00:01:05,460 --> 00:01:07,290
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I've heard some amazing stories about him.
+
+19
+00:01:07,330 --> 00:01:09,520
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Are you coming on this voyage too?
+
+20
+00:01:09,570 --> 00:01:11,530
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Of course he is, you half-wit!
+
+21
+00:01:11,570 --> 00:01:13,800
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You can't fight Indians without John Smith.
+
+22
+00:01:13,840 --> 00:01:15,000
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}That's right.
+
+23
+00:01:15,040 --> 00:01:17,270
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I'm not about to let you boys have all the fun.
+
+24
+00:01:18,610 --> 00:01:21,410
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# On the beaches of Virginny #
+
+25
+00:01:21,440 --> 00:01:24,140
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# There's diamonds like debris #
+
+26
+00:01:24,180 --> 00:01:26,650
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# There silver rivers flow #
+
+27
+00:01:26,680 --> 00:01:29,710
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# and gold you pick right off a tree #
+
+28
+00:01:29,750 --> 00:01:31,780
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# With a nugget for my Winnie #
+
+29
+00:01:31,820 --> 00:01:34,650
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# And another one for me #
+
+30
+00:01:34,690 --> 00:01:36,820
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# And all the rest will #
+
+31
+00:01:36,860 --> 00:01:40,160
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# go to the Virginia Company #
+
+32
+00:01:40,200 --> 00:01:42,790
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# To glory, God and gold #
+
+33
+00:01:42,830 --> 00:01:49,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# And the Virginia Company #
+
+34
+00:01:53,810 --> 00:01:55,300
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Haul on the brace!
+
+35
+00:01:56,550 --> 00:01:58,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Come on, come on!
+
+36
+00:01:58,210 --> 00:02:00,180
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Do your best!
+
+37
+00:02:00,220 --> 00:02:01,510
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Watch out!
+
+38
+00:02:05,550 --> 00:02:07,820
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Faster! She's taking on more water!
+
+39
+00:02:11,730 --> 00:02:13,850
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Look out!
+
+40
+00:02:17,230 --> 00:02:19,790
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}John! Get down here!
+
+41
+00:02:19,840 --> 00:02:22,100
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}The cannons are breaking loose!
+
+42
+00:02:25,810 --> 00:02:27,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Reef the topsails! - Yes, sir!
+
+43
+00:02:28,010 --> 00:02:29,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Steady on your course.
+
+44
+00:02:29,610 --> 00:02:32,640
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's all right, Thomas. We'll get her tied off.
+
+45
+00:02:32,680 --> 00:02:33,980
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Say your prayers, men!
+
+46
+00:02:43,030 --> 00:02:44,890
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Thomas, watch it!
+
+47
+00:02:49,370 --> 00:02:51,490
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Help!
+
+48
+00:02:51,530 --> 00:02:53,400
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Man overboard!
+
+49
+00:02:53,440 --> 00:02:54,600
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Help!
+
+50
+00:02:54,640 --> 00:02:56,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Stay your course! He's lost!
+
+51
+00:02:56,610 --> 00:02:57,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Help!
+
+52
+00:02:57,870 --> 00:03:00,810
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Pull the pins! - Aye, sir!
+
+53
+00:03:04,650 --> 00:03:06,670
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Smith!
+
+54
+00:03:06,720 --> 00:03:08,110
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Smith!
+
+55
+00:03:09,520 --> 00:03:11,540
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Are you crazy?
+
+56
+00:03:12,820 --> 00:03:15,090
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Hang on, Thomas! I've got you!
+
+57
+00:03:18,060 --> 00:03:19,360
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Quick! The rope!
+
+58
+00:03:20,700 --> 00:03:22,660
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Heave!
+
+59
+00:03:27,740 --> 00:03:29,860
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Come on, lads! Pull!
+
+60
+00:03:32,410 --> 00:03:34,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pull! Pull!
+
+61
+00:03:34,540 --> 00:03:36,240
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Put your back into it!
+
+62
+00:03:36,280 --> 00:03:39,180
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Pull! - Pull! Pull!
+
+63
+00:03:39,220 --> 00:03:40,580
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Hang on!
+
+64
+00:03:43,290 --> 00:03:44,780
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}There, my lucky lads!
+
+65
+00:03:46,790 --> 00:03:49,550
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Well, that was refreshing.
+
+66
+00:03:49,590 --> 00:03:51,490
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Well done, Smith.
+
+67
+00:03:51,530 --> 00:03:53,090
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Of course,
+
+68
+00:03:53,130 --> 00:03:54,690
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}you'd all do the same for me.
+
+69
+00:03:54,730 --> 00:03:56,660
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Oh, sure, sure. - Of course we would.
+
+70
+00:03:56,700 --> 00:03:58,000
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Sure, yes! - Yeah, we would!
+
+71
+00:03:58,030 --> 00:03:59,860
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Absolutely!
+
+72
+00:04:01,300 --> 00:04:03,270
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Trouble on deck?
+
+73
+00:04:03,310 --> 00:04:04,600
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Governor Ratcliffe!
+
+74
+00:04:04,640 --> 00:04:06,270
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Thomas fell overboard, sir.
+
+75
+00:04:06,310 --> 00:04:08,440
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Thank heavens he's been successfully retrieved.
+
+76
+00:04:08,480 --> 00:04:10,950
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Well done, Smith. - Thank you, sir.
+
+77
+00:04:10,980 --> 00:04:12,780
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Don't lose heart, men.
+
+78
+00:04:12,820 --> 00:04:15,280
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It won't be long before we reach the New World...
+
+79
+00:04:15,320 --> 00:04:18,450
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}And remember what awaits us there...
+
+80
+00:04:18,490 --> 00:04:20,250
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Freedom...
+
+81
+00:04:20,290 --> 00:04:21,980
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}prosperity...
+
+82
+00:04:22,020 --> 00:04:24,050
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}the adventure of our lives.
+
+83
+00:04:24,090 --> 00:04:26,720
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You're the finest crew England has to offer...
+
+84
+00:04:26,760 --> 00:04:29,060
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}and nothing... not wind nor rain
+
+85
+00:04:29,100 --> 00:04:31,070
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}nor a thousand bloodthirsty savages
+
+86
+00:04:31,100 --> 00:04:33,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}shall stand in our way.
+
+87
+00:04:33,070 --> 00:04:34,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Carry on, men!
+
+88
+00:04:36,610 --> 00:04:38,600
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}A stirring oration, sir.
+
+89
+00:04:38,640 --> 00:04:41,510
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I'm sure the men were most exhilarated!
+
+90
+00:04:41,540 --> 00:04:42,840
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Let us hope so.
+
+91
+00:04:42,880 --> 00:04:47,250
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I'll need those witless peasants to dig up my gold, won't I?
+
+92
+00:04:48,650 --> 00:04:51,620
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}This New World's gonna be great, John.
+
+93
+00:04:51,650 --> 00:04:53,950
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I'm gonna get a pile of gold...
+
+94
+00:04:53,990 --> 00:04:55,620
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}build me a big house...
+
+95
+00:04:55,660 --> 00:04:58,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}and if any Indian tries to stop me, I'll blast him.
+
+96
+00:04:58,660 --> 00:05:01,290
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You just worry about that fortune of yours, Thomas.
+
+97
+00:05:01,330 --> 00:05:02,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Leave the savages to me.
+
+98
+00:05:02,730 --> 00:05:04,460
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You think they'll give us much trouble?
+
+99
+00:05:04,500 --> 00:05:07,560
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Not as much trouble as Smith'll give them.
+
+100
+00:05:07,600 --> 00:05:09,900
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# We'll kill ourselves an Injun #
+
+101
+00:05:09,940 --> 00:05:12,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Or maybe two or three #
+
+102
+00:05:12,610 --> 00:05:15,100
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# We're stalwart men and bold #
+
+103
+00:05:15,140 --> 00:05:18,050
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# of the Virginia Company #
+
+104
+00:05:18,080 --> 00:05:20,110
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What do you suppose the New World will look like?
+
+105
+00:05:20,150 --> 00:05:21,640
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Like all the others, I suppose.
+
+106
+00:05:21,680 --> 00:05:25,250
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I've seen hundreds of new worlds, Thomas.
+
+107
+00:05:25,290 --> 00:05:28,420
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What could possibly be different about this one?
+
+108
+00:05:28,460 --> 00:05:29,490
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# It's glory, God and gold #
+
+109
+00:05:29,490 --> 00:05:30,980
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# It's glory, God and gold #
+
+110
+00:05:31,030 --> 00:05:36,860
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# And the Virginia Company #
+
+111
+00:06:16,240 --> 00:06:19,000
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Steady as the beating drum #
+
+112
+00:06:19,040 --> 00:06:21,640
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Singing to the cedar flute #
+
+113
+00:06:21,680 --> 00:06:24,010
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Seasons go and seasons come #
+
+114
+00:06:24,050 --> 00:06:28,350
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Bring the corn and bear the fruit #
+
+115
+00:06:28,380 --> 00:06:30,410
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# By the waters sweet and clean #
+
+116
+00:06:30,450 --> 00:06:32,940
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Where the mighty sturgeon lives #
+
+117
+00:06:32,990 --> 00:06:35,290
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Plant the squash and reap the bean #
+
+118
+00:06:35,320 --> 00:06:39,260
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# All the Earth our mother gives #
+
+119
+00:06:39,290 --> 00:06:41,730
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Oh, great spirit, hear our song #
+
+120
+00:06:41,760 --> 00:06:44,130
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Help us keep the ancient ways #
+
+121
+00:06:44,170 --> 00:06:46,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Keep the sacred fire strong #
+
+122
+00:06:46,600 --> 00:06:50,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Walk in balance all our days #
+
+123
+00:06:50,740 --> 00:06:52,930
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Seasons go and seasons come #
+
+124
+00:06:52,980 --> 00:06:55,440
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# steady as the beating drum #
+
+125
+00:06:55,480 --> 00:06:57,310
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Plum to seed to bud to plum #
+
+126
+00:07:02,250 --> 00:07:04,190
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Steady as the beating drum #
+
+127
+00:07:20,900 --> 00:07:23,130
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's good to be home.
+
+128
+00:07:24,970 --> 00:07:27,600
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}The Massawomecks are defeated!
+
+129
+00:07:27,640 --> 00:07:29,610
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}With the help of our brothers,
+
+130
+00:07:29,650 --> 00:07:32,240
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}our villages are safe again.
+
+131
+00:07:34,050 --> 00:07:37,680
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Your return has brought much joy to the village.
+
+132
+00:07:37,720 --> 00:07:41,120
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Look at all the smiling faces.
+
+133
+00:07:41,160 --> 00:07:44,460
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Yes, but there's one smiling face I don't see.
+
+134
+00:07:44,490 --> 00:07:46,360
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Where is my daughter?
+
+135
+00:07:46,400 --> 00:07:47,950
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You know Pocahontas.
+
+136
+00:07:48,000 --> 00:07:50,290
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}She has her mother's spirit.
+
+137
+00:07:50,330 --> 00:07:52,960
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}She goes wherever the wind takes her.
+
+138
+00:08:11,550 --> 00:08:14,020
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas!
+
+139
+00:08:14,060 --> 00:08:16,420
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Your father's back!
+
+140
+00:08:16,460 --> 00:08:18,360
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Come down here!
+
+141
+00:08:18,390 --> 00:08:21,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}He's back, Flit.
+
+142
+00:08:24,600 --> 00:08:25,790
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Come on, Meeko!
+
+143
+00:08:33,540 --> 00:08:36,410
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}No! Not that way.
+
+144
+00:08:45,490 --> 00:08:47,510
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Show-off.
+
+145
+00:09:01,470 --> 00:09:03,440
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas?
+
+146
+00:09:03,470 --> 00:09:07,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas! Are you all right?
+
+147
+00:09:07,740 --> 00:09:09,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Well, you better be all right...
+
+148
+00:09:09,280 --> 00:09:11,140
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}because I'm not coming in after you!
+
+149
+00:09:14,250 --> 00:09:16,240
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Don't you think we're getting a...
+
+150
+00:09:16,290 --> 00:09:18,950
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}a little old for these games?
+
+151
+00:09:38,170 --> 00:09:40,440
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Help me turn this thing over.
+
+152
+00:09:43,150 --> 00:09:45,050
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What were you doing up there?
+
+153
+00:09:45,080 --> 00:09:48,280
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Thinking. Meeko!
+
+154
+00:09:48,320 --> 00:09:51,310
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}About the dream again? Have you figured it out yet?
+
+155
+00:09:51,350 --> 00:09:52,680
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I know it means something.
+
+156
+00:09:52,720 --> 00:09:54,150
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I just don't know what.
+
+157
+00:09:54,190 --> 00:09:56,280
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You should ask your father about it.
+
+158
+00:09:56,330 --> 00:09:57,620
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Maybe I should.
+
+159
+00:09:57,660 --> 00:09:58,960
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Come on, Flit.
+
+160
+00:10:00,330 --> 00:10:02,320
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Quit playing around. We have to get back.
+
+161
+00:10:06,500 --> 00:10:08,260
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}...faced a determined enemy.
+
+162
+00:10:08,300 --> 00:10:11,270
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}The battle lasted from the rising of the sun
+
+163
+00:10:11,310 --> 00:10:13,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}until the evening shadows fell.
+
+164
+00:10:14,010 --> 00:10:16,480
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Our warriors fought with courage,
+
+165
+00:10:16,510 --> 00:10:18,980
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}but none as bravely as Kocoum...
+
+166
+00:10:19,010 --> 00:10:21,980
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}for he attacked with the fierce strength of the bear.
+
+167
+00:10:22,020 --> 00:10:23,540
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}He has proven himself to be the greatest of warriors...
+
+168
+00:10:23,590 --> 00:10:27,280
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Oh, he is so handsome! - I especially love his smile.
+
+169
+00:10:27,320 --> 00:10:29,850
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Destroying every enemy in his path.
+
+170
+00:10:29,890 --> 00:10:32,520
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Tonight we will feast in his honour.
+
+171
+00:10:35,900 --> 00:10:38,990
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- My daughter. - Wing-gap-o, Father.
+
+172
+00:10:39,030 --> 00:10:41,200
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Seeing you gives me great joy.
+
+173
+00:10:41,240 --> 00:10:44,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I'm so glad you've come home safely.
+
+174
+00:10:44,070 --> 00:10:47,530
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Come with me. We have much to talk about.
+
+175
+00:10:47,580 --> 00:10:50,270
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I want to hear everything you've been doing.
+
+176
+00:10:54,780 --> 00:10:56,410
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Father, for many nights now...
+
+177
+00:10:56,450 --> 00:10:58,820
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I've been having a very strange dream.
+
+178
+00:10:58,850 --> 00:11:01,220
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I think it's telling me something's about to happen.
+
+179
+00:11:01,260 --> 00:11:02,620
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Something exciting.
+
+180
+00:11:02,660 --> 00:11:05,680
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Yes, something exciting is about to happen.
+
+181
+00:11:06,860 --> 00:11:08,330
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Really? What is it?
+
+182
+00:11:08,360 --> 00:11:12,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Kocoum has asked to seek your hand in marriage.
+
+183
+00:11:12,070 --> 00:11:13,560
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Marry Kocoum?
+
+184
+00:11:16,370 --> 00:11:18,900
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I told him it would make my heart soar.
+
+185
+00:11:21,380 --> 00:11:25,810
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}But he's so... serious.
+
+186
+00:11:25,850 --> 00:11:28,940
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}My daughter, Kocoum will make a fine husband.
+
+187
+00:11:28,980 --> 00:11:31,540
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}He is loyal and strong and will build you a good house...
+
+188
+00:11:31,590 --> 00:11:33,210
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}with sturdy walls.
+
+189
+00:11:33,260 --> 00:11:35,190
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}With him, you will be safe from harm.
+
+190
+00:11:35,220 --> 00:11:38,720
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Father, I think my dream is pointing me down another path.
+
+191
+00:11:38,760 --> 00:11:40,420
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}This is the right path for you.
+
+192
+00:11:40,460 --> 00:11:43,090
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}But why can't I choose...
+
+193
+00:11:50,440 --> 00:11:53,100
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas, come with me.
+
+194
+00:11:53,140 --> 00:11:55,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You are the daughter of the chief.
+
+195
+00:11:55,210 --> 00:11:57,640
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It is time to take your place among our people.
+
+196
+00:11:57,680 --> 00:11:59,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Even the wild mountain stream...
+
+197
+00:11:59,750 --> 00:12:02,510
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}must someday join the big river.
+
+198
+00:12:02,550 --> 00:12:07,180
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# As the river cuts his path #
+
+199
+00:12:07,220 --> 00:12:11,090
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Though the river's proud and strong #
+
+200
+00:12:11,130 --> 00:12:16,090
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# He will choose the smoothest course #
+
+201
+00:12:16,130 --> 00:12:19,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}That's why rivers live so long.
+
+202
+00:12:20,000 --> 00:12:22,600
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# They're steady #
+
+203
+00:12:22,640 --> 00:12:26,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# As the steady beating drum #
+
+204
+00:12:27,010 --> 00:12:29,810
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Your mother wore this for our wedding.
+
+205
+00:12:29,850 --> 00:12:33,470
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It was her dream to see you wear it at your own.
+
+206
+00:12:35,780 --> 00:12:37,750
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It suits you.
+
+207
+00:12:41,490 --> 00:12:43,750
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}He wants me to be steady
+
+208
+00:12:45,030 --> 00:12:46,460
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}like the river.
+
+209
+00:12:50,030 --> 00:12:52,260
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}But it's not steady at all.
+
+210
+00:12:55,000 --> 00:12:56,900
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# What I love most about rivers... #
+
+211
+00:12:56,940 --> 00:12:59,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# is you can't step in the same river twice #
+
+212
+00:12:59,610 --> 00:13:01,840
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# The water's always changing #
+
+213
+00:13:01,880 --> 00:13:03,610
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# always flowing #
+
+214
+00:13:03,650 --> 00:13:05,610
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# But people, I guess can't live like that. #
+
+215
+00:13:05,650 --> 00:13:07,380
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# We all must pay a price #
+
+216
+00:13:07,420 --> 00:13:11,080
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# To be safe we lose our chance of ever knowing #
+
+217
+00:13:11,120 --> 00:13:14,490
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# What's around the river bend #
+
+218
+00:13:14,520 --> 00:13:17,860
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Waiting just around the river bend? #
+
+219
+00:13:17,890 --> 00:13:20,790
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# I look once more just #
+
+220
+00:13:20,830 --> 00:13:22,420
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# around the river bend #
+
+221
+00:13:22,460 --> 00:13:24,160
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Beyond the shore #
+
+222
+00:13:24,200 --> 00:13:25,860
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# where the gulls fly free #
+
+223
+00:13:25,900 --> 00:13:27,990
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Don't know what for #
+
+224
+00:13:28,040 --> 00:13:30,060
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# What I dream the day might send #
+
+225
+00:13:30,110 --> 00:13:33,470
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Just around the river bend #
+
+226
+00:13:33,510 --> 00:13:36,710
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# For me #
+
+227
+00:13:36,750 --> 00:13:41,310
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Coming for me #
+
+228
+00:13:41,350 --> 00:13:43,150
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# I feel it there beyond those trees #
+
+229
+00:13:43,190 --> 00:13:44,710
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# or right behind these waterfalls #
+
+230
+00:13:46,350 --> 00:13:49,620
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Can I ignore that sound of distant drumming #
+
+231
+00:13:49,660 --> 00:13:51,520
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# For a handsome sturdy husband #
+
+232
+00:13:51,560 --> 00:13:53,690
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# who builds handsome, sturdy walls #
+
+233
+00:13:53,730 --> 00:13:57,190
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# And never dreams that something might be coming #
+
+234
+00:13:57,230 --> 00:14:01,330
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Just around the river bend #
+
+235
+00:14:01,370 --> 00:14:04,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Just around the river bend #
+
+236
+00:14:04,070 --> 00:14:07,010
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# I look once more #
+
+237
+00:14:07,040 --> 00:14:08,810
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# just around the river bend #
+
+238
+00:14:08,840 --> 00:14:10,710
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Beyond the shore #
+
+239
+00:14:10,750 --> 00:14:12,440
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Somewhere past the sea #
+
+240
+00:14:12,480 --> 00:14:14,450
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Don't know what for #
+
+241
+00:14:14,480 --> 00:14:16,510
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Why do all my dreams extend #
+
+242
+00:14:16,550 --> 00:14:20,110
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Just around the river bend #
+
+243
+00:14:20,160 --> 00:14:23,560
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Just around the river bend #
+
+244
+00:14:26,230 --> 00:14:29,690
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Should I choose the smoothest course #
+
+245
+00:14:29,730 --> 00:14:33,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Steady as the beating drum #
+
+246
+00:14:34,340 --> 00:14:38,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Should I marry Kocoum?
+
+247
+00:14:38,540 --> 00:14:42,530
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Is all my dreaming at an end #
+
+248
+00:14:44,850 --> 00:14:48,480
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Or do you still #
+
+249
+00:14:48,520 --> 00:14:54,150
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Wait for me Dream giver? #
+
+250
+00:14:54,190 --> 00:15:00,820
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Just around the river #
+
+251
+00:15:00,860 --> 00:15:08,860
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# bend? #
+
+252
+00:15:31,230 --> 00:15:33,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Is that my Pocahontas?
+
+253
+00:15:34,960 --> 00:15:37,730
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Grandmother Willow, I need to talk to you.
+
+254
+00:15:39,500 --> 00:15:42,100
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Good morning, child.
+
+255
+00:15:42,140 --> 00:15:44,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I was hoping you'd visit today.
+
+256
+00:15:44,670 --> 00:15:48,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Oh! Why, your mother's necklace!
+
+257
+00:15:48,280 --> 00:15:50,800
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}That's what I wanted to talk to you about.
+
+258
+00:15:50,850 --> 00:15:53,180
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}My father wants me to marry Kocoum.
+
+259
+00:15:53,210 --> 00:15:56,780
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Kocoum? But he's so serious.
+
+260
+00:15:56,820 --> 00:16:00,310
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I know. My father thinks it's the right path for me.
+
+261
+00:16:00,360 --> 00:16:03,790
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}But lately, I've been having this dream and I think it's...
+
+262
+00:16:03,830 --> 00:16:08,190
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, a dream! Let's hear all about it.
+
+263
+00:16:09,830 --> 00:16:12,130
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Quiet!
+
+264
+00:16:12,170 --> 00:16:14,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Quiet!
+
+265
+00:16:20,010 --> 00:16:22,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Now, child, you were saying.
+
+266
+00:16:22,210 --> 00:16:24,440
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Well, I'm running through the woods...
+
+267
+00:16:24,480 --> 00:16:27,450
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}and then, right there in front of me, is an arrow.
+
+268
+00:16:27,480 --> 00:16:30,180
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}As I look at it, it starts to spin.
+
+269
+00:16:30,220 --> 00:16:33,950
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}A spinning arrow. How unusual.
+
+270
+00:16:33,990 --> 00:16:37,520
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Yes. It spins faster and faster and faster
+
+271
+00:16:37,560 --> 00:16:39,360
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}until suddenly... it stops.
+
+272
+00:16:41,730 --> 00:16:46,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Well, it seems to me this spinning arrow...
+
+273
+00:16:46,670 --> 00:16:48,690
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}is pointing you down your path.
+
+274
+00:16:48,740 --> 00:16:51,810
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}But, Grandmother Willow, what is my path?
+
+275
+00:16:51,840 --> 00:16:53,810
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}How am I ever going to find it?
+
+276
+00:16:53,840 --> 00:16:58,540
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Your mother asked me the very same question.
+
+277
+00:16:58,580 --> 00:17:00,980
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}She did? What did you tell her?
+
+278
+00:17:01,020 --> 00:17:03,510
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I told her to listen.
+
+279
+00:17:03,550 --> 00:17:06,990
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}All around you are spirits, child.
+
+280
+00:17:07,020 --> 00:17:11,580
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}They live in the earth, the water, the sky.
+
+281
+00:17:11,630 --> 00:17:16,060
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}If you listen, they will guide you.
+
+282
+00:17:19,070 --> 00:17:20,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I hear the wind.
+
+283
+00:17:20,470 --> 00:17:23,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Yes. What is it telling you?
+
+284
+00:17:23,810 --> 00:17:26,400
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I don't understand.
+
+285
+00:17:30,050 --> 00:17:33,540
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# You will understand #
+
+286
+00:17:33,580 --> 00:17:37,070
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Listen with your heart #
+
+287
+00:17:37,120 --> 00:17:40,610
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# You will understand #
+
+288
+00:17:40,660 --> 00:17:44,280
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Let it break upon you #
+
+289
+00:17:44,330 --> 00:17:47,260
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Like a wave upon the sand #
+
+290
+00:17:47,300 --> 00:17:49,460
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's saying something's coming.
+
+291
+00:17:49,500 --> 00:17:51,020
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Strange clouds?
+
+292
+00:17:51,070 --> 00:17:54,400
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Listen with your heart #
+
+293
+00:17:54,440 --> 00:17:58,240
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# You will understand #
+
+294
+00:18:04,150 --> 00:18:06,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What do you see?
+
+295
+00:18:06,820 --> 00:18:09,080
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Clouds.
+
+296
+00:18:09,120 --> 00:18:11,850
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Strange clouds.
+
+297
+00:18:13,790 --> 00:18:16,550
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Look at it, Wiggins...
+
+298
+00:18:16,590 --> 00:18:20,290
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}An entire new world chock full of gold...
+
+299
+00:18:20,330 --> 00:18:22,460
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}just waiting for me.
+
+300
+00:18:22,500 --> 00:18:26,260
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}And scores of adventures waiting for us. Right, Percy?
+
+301
+00:18:26,300 --> 00:18:28,740
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Do you think we'll meet some savages?
+
+302
+00:18:28,770 --> 00:18:30,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}If we do, we shall be sure...
+
+303
+00:18:30,470 --> 00:18:31,800
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}to give them a proper English greeting.
+
+304
+00:18:31,840 --> 00:18:33,740
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Ooh! gift baskets!
+
+305
+00:18:33,780 --> 00:18:37,270
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, no! And he came so highly recommended.
+
+306
+00:18:39,480 --> 00:18:40,910
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's perfect, Governor.
+
+307
+00:18:40,950 --> 00:18:43,820
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}The water's deep enough. We can pull right up to shore.
+
+308
+00:18:43,850 --> 00:18:45,080
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Hey there, Percy.
+
+309
+00:18:47,060 --> 00:18:48,520
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Very well, then. Give the order.
+
+310
+00:18:48,560 --> 00:18:49,780
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Already done, sir.
+
+311
+00:18:49,820 --> 00:18:51,660
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I've got a crew assembled and they're ready to go.
+
+312
+00:18:51,690 --> 00:18:53,130
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}About the natives...
+
+313
+00:18:53,160 --> 00:18:55,130
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I'm counting on you to make sure...
+
+314
+00:18:55,160 --> 00:18:57,790
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}those filthy heathens don't disrupt our mission.
+
+315
+00:18:57,830 --> 00:19:00,670
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Well, if they're anything like the savages I've fought before,
+
+316
+00:19:00,700 --> 00:19:02,260
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}it's nothing I can't handle.
+
+317
+00:19:02,300 --> 00:19:05,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Right. That'll be all, Smith. - There's a good man.
+
+318
+00:19:05,470 --> 00:19:06,910
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}See you, Percy.
+
+319
+00:19:09,940 --> 00:19:11,910
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}The men like Smith, don't they?
+
+320
+00:19:13,980 --> 00:19:17,080
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I've never been... a popular man.
+
+321
+00:19:17,120 --> 00:19:18,350
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I like you.
+
+322
+00:19:18,390 --> 00:19:19,910
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}And don't think I don't know...
+
+323
+00:19:19,950 --> 00:19:22,250
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}what those back stabbers at court say about me.
+
+324
+00:19:22,290 --> 00:19:23,920
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, yes, all that talk about
+
+325
+00:19:23,960 --> 00:19:25,950
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}being a pathetic social climber who's failed at everything...
+
+326
+00:19:25,990 --> 00:19:29,590
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I'm very well aware that this is my last chance for glory.
+
+327
+00:19:29,630 --> 00:19:31,120
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}But mark my words, Wiggins.
+
+328
+00:19:31,170 --> 00:19:33,930
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}When King James sees the gold these peasants unearth...
+
+329
+00:19:33,970 --> 00:19:38,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}success will be mine at last.
+
+330
+00:19:39,470 --> 00:19:41,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Wake up! Shake a leg!
+
+331
+00:19:41,810 --> 00:19:43,670
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's incredible!
+
+332
+00:19:43,710 --> 00:19:45,410
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}And it's all ours.
+
+333
+00:19:45,450 --> 00:19:47,180
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I've never seen anything like it.
+
+334
+00:19:47,220 --> 00:19:49,740
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It could look like Ratcliffe's knickers, for all I care...
+
+335
+00:19:49,780 --> 00:19:52,410
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}just as long as I get off this stinkin' boat.
+
+336
+00:19:52,450 --> 00:19:53,610
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Come on, men.
+
+337
+00:19:53,660 --> 00:19:55,890
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}We didn't come all this way just to look at it.
+
+338
+00:20:50,580 --> 00:20:56,070
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Keep it taut, lads. Keep it taut. Steady! Steady! Hold up! That's far enough.
+
+339
+00:20:56,920 --> 00:20:59,080
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}All right... now. Tie her off.
+
+340
+00:20:59,120 --> 00:21:01,210
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Here, John, tie off this end.
+
+341
+00:21:01,260 --> 00:21:03,750
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}John? John?
+
+342
+00:21:03,790 --> 00:21:06,420
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What are you doing up there?
+
+343
+00:21:06,460 --> 00:21:08,760
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Getting a better look.
+
+344
+00:21:39,530 --> 00:21:43,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You're a strange-looking fellow.
+
+345
+00:21:43,870 --> 00:21:45,360
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Are you hungry?
+
+346
+00:21:45,400 --> 00:21:47,600
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Here you go. Ah, it's a biscuit.
+
+347
+00:21:47,640 --> 00:21:51,400
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's food. Well, sort of.
+
+348
+00:21:52,540 --> 00:21:54,510
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You like it, eh?
+
+349
+00:21:54,540 --> 00:21:57,640
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Well, try eating it for four months straight.
+
+350
+00:22:01,350 --> 00:22:02,980
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You got a friend back there?
+
+351
+00:22:13,360 --> 00:22:16,800
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Hey! Wh... What? Watch out.
+
+352
+00:22:18,570 --> 00:22:20,360
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What? Get... No, get... Uh, look out.
+
+353
+00:22:20,400 --> 00:22:22,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}John, you better get down here!
+
+354
+00:22:22,670 --> 00:22:24,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}The governor's coming ashore.
+
+355
+00:22:24,540 --> 00:22:27,130
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}All right. All right. I'm leaving.
+
+356
+00:22:44,530 --> 00:22:47,550
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Did you see their skin? They have hair on their faces like dogs.
+
+357
+00:22:47,600 --> 00:22:52,000
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}My brothers, we must know more about these visitors.
+
+358
+00:22:52,030 --> 00:22:55,000
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Kekata, what do you see?
+
+359
+00:23:11,120 --> 00:23:14,610
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}These are not men like us...
+
+360
+00:23:14,660 --> 00:23:19,490
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}but strange beasts with bodies that shine like the sun...
+
+361
+00:23:19,530 --> 00:23:23,590
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}and weapons that spout fire and thunder.
+
+362
+00:23:27,900 --> 00:23:31,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}They prowl the Earth like ravenous wolves...
+
+363
+00:23:31,540 --> 00:23:34,010
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}consuming everything in their path.
+
+364
+00:23:39,510 --> 00:23:41,950
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Great Powhatan, I will lead our warriors
+
+365
+00:23:41,980 --> 00:23:43,140
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}to the river and attack.
+
+366
+00:23:43,180 --> 00:23:44,550
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}We will destroy these invaders...
+
+367
+00:23:44,590 --> 00:23:47,490
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}the way we destroyed the Massawomecks.
+
+368
+00:23:47,520 --> 00:23:50,860
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Kocoum, in that battle we knew how to fight our enemy...
+
+369
+00:23:50,890 --> 00:23:53,550
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}But these pale visitors are strange to us.
+
+370
+00:23:53,590 --> 00:23:56,090
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Take some men to the river to observe them.
+
+371
+00:23:56,130 --> 00:23:58,790
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Let us hope they do not intend to stay.
+
+372
+00:24:00,000 --> 00:24:03,270
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I hereby claim this land and all its riches...
+
+373
+00:24:03,300 --> 00:24:06,240
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}in the name of His Majesty King James the First...
+
+374
+00:24:06,270 --> 00:24:10,010
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}and do so name this settlement Jamestown.
+
+375
+00:24:11,280 --> 00:24:14,840
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Bravo! Bravo! Beautifully spoken, sir!
+
+376
+00:24:14,880 --> 00:24:16,210
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Hurry now, Percy.
+
+377
+00:24:16,250 --> 00:24:19,120
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}We must be all squeaky clean for the New World.
+
+378
+00:25:01,400 --> 00:25:03,190
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Captain Smith,
+
+379
+00:25:03,230 --> 00:25:06,000
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}it appears I've selected the perfect location, eh?
+
+380
+00:25:06,030 --> 00:25:07,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Not a savage in sight.
+
+381
+00:25:07,270 --> 00:25:08,460
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Just because we don't see them...
+
+382
+00:25:08,500 --> 00:25:10,160
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}doesn't mean they're not out there, sir.
+
+383
+00:25:10,200 --> 00:25:12,600
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Well, then perhaps you should venture forth...
+
+384
+00:25:12,640 --> 00:25:16,370
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}and determine their whereabouts, hmm?
+
+385
+00:25:16,410 --> 00:25:18,900
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}If there are any Indians out there, I'll find them.
+
+386
+00:25:21,950 --> 00:25:23,440
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Now, gentlemen, to work.
+
+387
+00:25:23,480 --> 00:25:25,280
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- You men, get the ship unloaded. - Right, sir.
+
+388
+00:25:25,320 --> 00:25:26,650
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You men, build the fort.
+
+389
+00:25:26,690 --> 00:25:29,420
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}The rest of you, break out the shovels!
+
+390
+00:25:29,460 --> 00:25:31,290
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's time to start digging!
+
+391
+00:25:31,330 --> 00:25:32,590
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Digging? - Digging?
+
+392
+00:25:32,630 --> 00:25:33,920
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Why, of course!
+
+393
+00:25:33,960 --> 00:25:35,950
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Let's not forget what the Spanish found...
+
+394
+00:25:36,000 --> 00:25:37,790
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}when they came to the New World.
+
+395
+00:25:37,830 --> 00:25:41,200
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Gold! Mountains of it.
+
+396
+00:25:41,240 --> 00:25:44,640
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Why, for years they've been ravaging the New World...
+
+397
+00:25:44,670 --> 00:25:46,900
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}of its most precious resources...
+
+398
+00:25:46,940 --> 00:25:48,930
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}but now...
+
+399
+00:25:50,780 --> 00:25:53,410
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}it's our turn.
+
+400
+00:25:53,450 --> 00:25:55,470
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# The gold of Cortez #
+
+401
+00:25:55,520 --> 00:25:57,480
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# The jewels of Pizarro #
+
+402
+00:25:57,520 --> 00:25:59,540
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Will seem like mere trinkets #
+
+403
+00:25:59,590 --> 00:26:01,580
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# by this time tomorrow #
+
+404
+00:26:01,620 --> 00:26:03,590
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# The gold we find here #
+
+405
+00:26:03,620 --> 00:26:05,460
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# will dwarf them by far #
+
+406
+00:26:05,490 --> 00:26:08,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Oh, with all you got in ya, boys #
+
+407
+00:26:08,460 --> 00:26:12,460
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Dig up Virginia, boys #
+
+408
+00:26:12,500 --> 00:26:14,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Mine, boys #
+
+409
+00:26:14,270 --> 00:26:15,740
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Mine every mountain
+
+410
+00:26:15,770 --> 00:26:17,360
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# And dig, boys #
+
+411
+00:26:17,410 --> 00:26:19,070
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Dig 'til you drop #
+
+412
+00:26:19,110 --> 00:26:20,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Grab a pick, boys #
+
+413
+00:26:20,740 --> 00:26:22,610
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Quick, boys #
+
+414
+00:26:22,640 --> 00:26:24,110
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Shove in a shovel #
+
+415
+00:26:24,150 --> 00:26:26,810
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Uncover those loverly pebbles #
+
+416
+00:26:26,850 --> 00:26:28,640
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# that sparkle and shine #
+
+417
+00:26:28,680 --> 00:26:31,310
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# It's gold #
+
+418
+00:26:31,350 --> 00:26:32,790
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# and it's mine #
+
+419
+00:26:32,820 --> 00:26:34,080
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Mine, #
+
+420
+00:26:34,120 --> 00:26:35,650
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# mine #
+
+421
+00:26:35,690 --> 00:26:38,060
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Dig and dig and diggety dig #
+
+422
+00:26:38,090 --> 00:26:40,620
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# And dig and dig and diggety dig #
+
+423
+00:26:42,130 --> 00:26:43,790
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Ooh, how I love it. #
+
+424
+00:26:45,300 --> 00:26:46,930
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Riches for cheap. #
+
+425
+00:26:48,500 --> 00:26:49,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# There'll be heaps of it. #
+
+426
+00:26:50,000 --> 00:26:53,370
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# And I'll be on top of the heap. #
+
+427
+00:26:53,410 --> 00:26:55,000
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Diggety, diggety, dig #
+
+428
+00:26:55,040 --> 00:26:56,740
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# My rivals back home #
+
+429
+00:26:56,780 --> 00:26:58,270
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# It's not that I'm bitter. #
+
+430
+00:26:58,310 --> 00:26:59,900
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# But think how they'll squirm #
+
+431
+00:26:59,950 --> 00:27:01,920
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# when they see how I glitter #
+
+432
+00:27:01,950 --> 00:27:03,440
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# The ladies at court #
+
+433
+00:27:03,480 --> 00:27:05,580
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# will be all a-twitter #
+
+434
+00:27:05,620 --> 00:27:07,250
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# The king will reward me #
+
+435
+00:27:07,290 --> 00:27:09,650
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# He'll knight me... No! #
+
+436
+00:27:09,690 --> 00:27:10,850
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# lord me #
+
+437
+00:27:10,890 --> 00:27:12,360
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# It's mine! #
+
+438
+00:27:12,390 --> 00:27:14,590
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Mine, Mine for the taking.
+
+439
+00:27:14,630 --> 00:27:17,790
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# It's mine, boys. Mine me that gold! #
+
+440
+00:27:17,830 --> 00:27:21,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# With those nuggets dug #
+
+441
+00:27:21,070 --> 00:27:22,800
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# It's glory they'll gimme #
+
+442
+00:27:22,840 --> 00:27:24,600
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# My dear friend King Jimmy #
+
+443
+00:27:24,640 --> 00:27:27,370
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# will probably build me a shrine #
+
+444
+00:27:27,410 --> 00:27:31,040
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# When all of the gold #
+
+445
+00:27:31,080 --> 00:27:32,550
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Is mined #
+
+446
+00:27:32,580 --> 00:27:35,240
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Dig and dig and diggety dig #
+
+447
+00:27:35,280 --> 00:27:37,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Dig and dig and diggety dig #
+
+448
+00:27:37,820 --> 00:27:39,340
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# All of my life I have searched #
+
+449
+00:27:39,390 --> 00:27:42,950
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# for a land like this one #
+
+450
+00:27:44,430 --> 00:27:46,760
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# A wilder, more challenging country #
+
+451
+00:27:46,790 --> 00:27:51,200
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# I couldn't design #
+
+452
+00:27:51,230 --> 00:27:53,560
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Hundreds of dangers await #
+
+453
+00:27:53,600 --> 00:27:57,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# and I don't plan to miss one #
+
+454
+00:27:57,740 --> 00:27:59,330
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# In a land I can claim. #
+
+455
+00:27:59,370 --> 00:28:01,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# A land I can tame. #
+
+456
+00:28:01,210 --> 00:28:03,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# The greatest adventure is mine. #
+
+457
+00:28:03,280 --> 00:28:04,640
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Keep on working, lads. #
+
+458
+00:28:04,680 --> 00:28:06,480
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Don't be shirking, lads. #
+
+459
+00:28:06,510 --> 00:28:08,240
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Mine, boys, mine. #
+
+460
+00:28:08,280 --> 00:28:09,580
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Mine #
+
+461
+00:28:09,620 --> 00:28:11,850
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Me #
+
+462
+00:28:11,890 --> 00:28:13,410
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# that gold. Dig, dig #
+
+463
+00:28:13,450 --> 00:28:14,980
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# and diggety. #
+
+464
+00:28:15,020 --> 00:28:16,790
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Beautiful gold Dig, #
+
+465
+00:28:16,820 --> 00:28:18,590
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# dig for that gold #
+
+466
+00:28:18,630 --> 00:28:21,690
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Make this island my land #
+
+467
+00:28:21,730 --> 00:28:23,250
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Make the mounds big, boys. #
+
+468
+00:28:23,300 --> 00:28:24,920
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# I'd help you to dig, boys. #
+
+469
+00:28:24,970 --> 00:28:27,160
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# But I've got this crick in me spine. #
+
+470
+00:28:27,200 --> 00:28:28,930
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# This land we behold #
+
+471
+00:28:28,970 --> 00:28:30,660
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# This beauty untold #
+
+472
+00:28:30,710 --> 00:28:32,370
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# A man can be bold #
+
+473
+00:28:32,410 --> 00:28:35,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# It all can be sold #
+
+474
+00:28:35,210 --> 00:28:36,940
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# The gold #
+
+475
+00:28:36,980 --> 00:28:38,600
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Is #
+
+476
+00:28:38,650 --> 00:28:40,270
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Mine #
+
+477
+00:28:40,310 --> 00:28:42,280
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Mine #
+
+478
+00:28:42,320 --> 00:28:43,540
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Is mine And dig and dig #
+
+479
+00:28:43,580 --> 00:28:45,070
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# and diggety dig #
+
+480
+00:28:45,120 --> 00:28:47,950
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# It's mine. #
+
+481
+00:31:32,350 --> 00:31:36,120
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}No! Wait! Please...
+
+482
+00:31:43,000 --> 00:31:44,460
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Please!
+
+483
+00:31:47,300 --> 00:31:49,130
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Don't run off.
+
+484
+00:31:52,170 --> 00:31:53,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's all right.
+
+485
+00:31:53,610 --> 00:31:55,130
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I'm not gonna hurt you.
+
+486
+00:31:55,180 --> 00:31:58,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Here. Let me help you out of there.
+
+487
+00:32:02,080 --> 00:32:04,980
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You don't understand a word I'm saying, do you?
+
+488
+00:32:09,790 --> 00:32:11,280
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's all right.
+
+489
+00:32:28,610 --> 00:32:32,440
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Listen with your heart #
+
+490
+00:32:32,480 --> 00:32:35,940
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# You will understand #
+
+491
+00:32:42,720 --> 00:32:45,920
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Let it break upon you #
+
+492
+00:32:45,960 --> 00:32:50,800
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Like a wave upon the sand #
+
+493
+00:32:51,800 --> 00:32:53,320
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Who are you?
+
+494
+00:32:53,370 --> 00:32:56,860
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Listen with your heart #
+
+495
+00:32:56,900 --> 00:33:02,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# You will understand #
+
+496
+00:33:02,210 --> 00:33:04,610
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas.
+
+497
+00:33:04,650 --> 00:33:07,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What? What did you say?
+
+498
+00:33:07,210 --> 00:33:10,670
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}My name is Pocahontas.
+
+499
+00:33:15,160 --> 00:33:17,020
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I'm John Smith.
+
+500
+00:33:21,530 --> 00:33:23,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}That's it. Keep at it, men.
+
+501
+00:33:23,860 --> 00:33:26,060
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Keep digging. It's got to be here somewhere.
+
+502
+00:33:28,700 --> 00:33:30,470
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}There's 30 more of them down by the ridge.
+
+503
+00:33:30,500 --> 00:33:32,300
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}That makes more than a hundred!
+
+504
+00:33:32,340 --> 00:33:33,640
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Anything yet?
+
+505
+00:33:33,670 --> 00:33:36,010
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Nothing but rocks and dirt, sir.
+
+506
+00:33:36,040 --> 00:33:39,910
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Um, how long are we going to keep digging like this, sir?
+
+507
+00:33:39,950 --> 00:33:42,540
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Aye! We're slaving away, busting our backs day and night.
+
+508
+00:33:42,580 --> 00:33:45,210
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}For king and country. I know, I know.
+
+509
+00:33:45,250 --> 00:33:46,880
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}And I share your fatigue.
+
+510
+00:33:46,920 --> 00:33:48,320
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Wiggins!
+
+511
+00:33:48,360 --> 00:33:50,880
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Wiggins!
+
+512
+00:33:50,920 --> 00:33:52,410
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Coming!
+
+513
+00:33:52,460 --> 00:33:54,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Dispose of this.
+
+514
+00:33:54,460 --> 00:33:57,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Who's a good doggy?
+
+515
+00:33:58,800 --> 00:34:00,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Who's a good doggy?
+
+516
+00:34:00,730 --> 00:34:02,860
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Fetch, boy!
+
+517
+00:34:07,540 --> 00:34:09,530
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Savages! It's an ambush! Arm yourselves!
+
+518
+00:34:09,580 --> 00:34:11,370
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Run!
+
+519
+00:34:11,410 --> 00:34:12,670
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Arm yourselves!
+
+520
+00:34:14,450 --> 00:34:16,580
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Make sure every man has a musket.
+
+521
+00:34:17,650 --> 00:34:19,410
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Shoot!
+
+522
+00:34:21,660 --> 00:34:24,220
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Them, you idiot!
+
+523
+00:34:34,400 --> 00:34:37,930
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Where's that blasted Smith when I need him?
+
+524
+00:34:44,340 --> 00:34:45,540
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Namontack!
+
+525
+00:34:56,460 --> 00:34:58,150
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Back to the village!
+
+526
+00:35:01,160 --> 00:35:03,250
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Shut up. Shut up, you fools!
+
+527
+00:35:03,300 --> 00:35:04,890
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}They'll be back.
+
+528
+00:35:07,100 --> 00:35:08,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Everyone, back to camp.
+
+529
+00:35:08,470 --> 00:35:09,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Get the rest of the cannons ashore
+
+530
+00:35:09,800 --> 00:35:11,100
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}and finish building the fort!
+
+531
+00:35:11,140 --> 00:35:13,440
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Aye, Governor!
+
+532
+00:35:13,470 --> 00:35:15,810
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}And you...
+
+533
+00:35:15,840 --> 00:35:18,240
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Learn to use that thing properly.
+
+534
+00:35:18,280 --> 00:35:21,840
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}A man's not a man unless he knows how to shoot.
+
+535
+00:35:29,990 --> 00:35:32,790
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}These beasts invade our shores...
+
+536
+00:35:32,830 --> 00:35:34,490
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}and now this...
+
+537
+00:35:36,800 --> 00:35:39,790
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}This wound is strange to me.
+
+538
+00:35:41,800 --> 00:35:44,460
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}We will fight this enemy...
+
+539
+00:35:44,510 --> 00:35:46,840
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}but we cannot do it alone.
+
+540
+00:35:46,870 --> 00:35:50,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Kocoum, send messengers to every village in our nation.
+
+541
+00:35:50,210 --> 00:35:53,110
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}We will call on our brothers to help us fight.
+
+542
+00:35:53,150 --> 00:35:56,010
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}These white men are dangerous!
+
+543
+00:35:56,050 --> 00:35:58,380
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}No one is to go near them.
+
+544
+00:36:02,290 --> 00:36:03,920
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's called a helmet.
+
+545
+00:36:03,960 --> 00:36:05,360
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Helmet.
+
+546
+00:36:07,530 --> 00:36:10,190
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}So, uh... what river is this?
+
+547
+00:36:10,230 --> 00:36:11,530
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Quyukhanic.
+
+548
+00:36:11,570 --> 00:36:14,760
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You have the most unusual names here.
+
+549
+00:36:14,800 --> 00:36:19,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Chicahomeni Quyu...Quyukhanic
+
+550
+00:36:20,010 --> 00:36:21,670
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas.
+
+551
+00:36:21,710 --> 00:36:25,470
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You have the most unusual name too.
+
+552
+00:36:25,510 --> 00:36:27,880
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}John Smith.
+
+553
+00:36:29,520 --> 00:36:32,780
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Is this bottomless pit a friend of yours?
+
+554
+00:36:32,820 --> 00:36:34,480
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Meeko!
+
+555
+00:36:34,520 --> 00:36:36,580
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Well, how do you do, Meeko?
+
+556
+00:36:39,430 --> 00:36:42,120
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's all right. It's just a handshake.
+
+557
+00:36:42,160 --> 00:36:44,060
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Here, let me show you.
+
+558
+00:36:46,500 --> 00:36:48,160
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Nothing's happening.
+
+559
+00:36:48,200 --> 00:36:51,070
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Uh, no, no. I need your hand first.
+
+560
+00:36:55,780 --> 00:36:57,740
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's how we say hello.
+
+561
+00:37:01,980 --> 00:37:05,780
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}This is how we say hello.
+
+562
+00:37:11,630 --> 00:37:15,690
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}And how we say goodbye.
+
+563
+00:37:15,730 --> 00:37:17,860
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I like hello better.
+
+564
+00:37:23,970 --> 00:37:25,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah, I remember you.
+
+565
+00:37:25,810 --> 00:37:28,930
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Flit just doesn't like strangers.
+
+566
+00:37:28,980 --> 00:37:31,070
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Well, I'm not a stranger any more.
+
+567
+00:37:31,110 --> 00:37:33,270
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Stubborn little fellow, isn't he?
+
+568
+00:37:33,310 --> 00:37:35,710
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Very stubborn.
+
+569
+00:37:37,750 --> 00:37:39,650
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Meeko! come back here.
+
+570
+00:37:39,690 --> 00:37:42,380
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Don't worry. He can't hurt it.
+
+571
+00:37:42,420 --> 00:37:44,120
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Hey! What are you doing?
+
+572
+00:37:44,160 --> 00:37:45,620
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Meeko, bring that back!
+
+573
+00:37:45,660 --> 00:37:47,590
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}N-No, it's all right. He can keep it.
+
+574
+00:37:47,630 --> 00:37:48,990
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Call it a gift.
+
+575
+00:37:51,970 --> 00:37:53,130
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What was that?
+
+576
+00:37:53,170 --> 00:37:55,190
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- My compass. - Compass?
+
+577
+00:37:55,240 --> 00:37:57,470
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It tells you how to find your way when you get lost.
+
+578
+00:37:57,500 --> 00:37:59,470
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}But it's all right. I'll get another one in London.
+
+579
+00:37:59,510 --> 00:38:01,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}London? Is that your village?
+
+580
+00:38:01,610 --> 00:38:03,240
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Yes. It's a very big village.
+
+581
+00:38:03,280 --> 00:38:04,800
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What's it like?
+
+582
+00:38:04,850 --> 00:38:07,840
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Well, it's got streets filled with carriages...
+
+583
+00:38:07,880 --> 00:38:09,470
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}bridges over the rivers...
+
+584
+00:38:09,520 --> 00:38:12,140
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}and buildings as tall as trees.
+
+585
+00:38:12,190 --> 00:38:13,550
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I'd like to see those things.
+
+586
+00:38:13,590 --> 00:38:14,750
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- You will. - How?
+
+587
+00:38:14,790 --> 00:38:16,150
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}We're going to build them here.
+
+588
+00:38:16,190 --> 00:38:19,180
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}We'll show your people how to use this land properly,
+
+589
+00:38:19,230 --> 00:38:20,520
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}how to make the most of it.
+
+590
+00:38:20,560 --> 00:38:21,960
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Make the most of it?
+
+591
+00:38:22,000 --> 00:38:25,120
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Yes. We'll build roads and decent houses and...
+
+592
+00:38:25,170 --> 00:38:27,100
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Our houses are fine.
+
+593
+00:38:27,130 --> 00:38:31,800
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You think that only because you don't know any better.
+
+594
+00:38:31,840 --> 00:38:33,530
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}W-Wait a minute. Don't take it tha...
+
+595
+00:38:33,570 --> 00:38:35,540
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Hey. Hey! Wait!
+
+596
+00:38:36,910 --> 00:38:40,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Wa-Wait! There's so much we can teach you.
+
+597
+00:38:40,610 --> 00:38:42,670
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}We've improved the lives of savages all over the world.
+
+598
+00:38:42,720 --> 00:38:43,880
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Savages?!
+
+599
+00:38:43,920 --> 00:38:46,150
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Uh, not that you're a savage.
+
+600
+00:38:46,190 --> 00:38:47,880
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Just my people. - No.
+
+601
+00:38:47,920 --> 00:38:49,890
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Listen. That's not what I meant.
+
+602
+00:38:49,920 --> 00:38:51,290
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Let me explain. - Let go!
+
+603
+00:38:51,330 --> 00:38:53,850
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}No, I'm not letting you leave.
+
+604
+00:38:55,600 --> 00:38:57,650
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Look, don't do this.
+
+605
+00:38:57,700 --> 00:39:01,290
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Savage is just a word, uh, you know?
+
+606
+00:39:01,340 --> 00:39:05,070
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}A term... for people who are uncivilized.
+
+607
+00:39:05,110 --> 00:39:06,270
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Like me.
+
+608
+00:39:06,310 --> 00:39:08,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Well, when I say uncivilized...
+
+609
+00:39:08,480 --> 00:39:10,410
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}what I mean is... is...
+
+610
+00:39:19,850 --> 00:39:23,380
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What you mean is... not like you.
+
+611
+00:39:23,420 --> 00:39:26,920
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# You think I'm an ignorant savage #
+
+612
+00:39:26,960 --> 00:39:29,160
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# And you've been so many places #
+
+613
+00:39:29,200 --> 00:39:31,490
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# I guess it must be so #
+
+614
+00:39:31,530 --> 00:39:34,260
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# But still I cannot see #
+
+615
+00:39:34,300 --> 00:39:37,400
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# If the savage one is me #
+
+616
+00:39:37,440 --> 00:39:39,930
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# How can there be so much #
+
+617
+00:39:39,970 --> 00:39:43,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# that you don't know? #
+
+618
+00:39:43,740 --> 00:39:50,450
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# You don't know #
+
+619
+00:39:56,790 --> 00:40:01,730
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# You think you own whatever land you land on #
+
+620
+00:40:01,760 --> 00:40:06,290
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# The Earth is just a dead thing you can claim #
+
+621
+00:40:06,330 --> 00:40:10,860
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# But I know every rock and tree and creature #
+
+622
+00:40:10,900 --> 00:40:13,270
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Has a life, has a spirit #
+
+623
+00:40:13,310 --> 00:40:15,640
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Has a name #
+
+624
+00:40:15,680 --> 00:40:20,080
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# You think the only people who are people #
+
+625
+00:40:20,110 --> 00:40:24,310
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Are the people who look and think like you #
+
+626
+00:40:24,350 --> 00:40:28,580
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# But if you walk the footsteps of a stranger #
+
+627
+00:40:28,620 --> 00:40:30,650
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# You'll learn things #
+
+628
+00:40:30,690 --> 00:40:33,420
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# you never knew you never knew #
+
+629
+00:40:33,460 --> 00:40:36,160
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Have you ever heard the wolf #
+
+630
+00:40:36,200 --> 00:40:38,390
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# cry to the blue corn moon #
+
+631
+00:40:38,430 --> 00:40:42,490
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Or asked the grinning bobcat why he grinned?
+
+632
+00:40:42,540 --> 00:40:45,330
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Can you sing with #
+
+633
+00:40:45,370 --> 00:40:47,340
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# all the voices of the mountain? #
+
+634
+00:40:47,370 --> 00:40:50,340
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Can you paint with #
+
+635
+00:40:50,380 --> 00:40:52,440
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# all the colours of the wind? #
+
+636
+00:40:52,480 --> 00:40:55,450
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Can you paint with all the colours #
+
+637
+00:40:55,480 --> 00:40:59,440
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Of the wind? #
+
+638
+00:41:06,490 --> 00:41:08,460
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Come run the hidden pine trails #
+
+639
+00:41:08,500 --> 00:41:10,620
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# of the forest #
+
+640
+00:41:10,660 --> 00:41:12,930
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Come taste the sun #
+
+641
+00:41:12,970 --> 00:41:14,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# sweet berries of the Earth #
+
+642
+00:41:14,730 --> 00:41:18,730
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Come roll in all the riches all around you #
+
+643
+00:41:18,770 --> 00:41:23,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# And for once never wonder what they're worth
+
+644
+00:41:23,280 --> 00:41:25,400
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# The rainstorm and the river #
+
+645
+00:41:25,450 --> 00:41:27,380
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# are my brothers #
+
+646
+00:41:27,410 --> 00:41:29,810
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# The heron and the otter #
+
+647
+00:41:29,850 --> 00:41:32,110
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# are my friends #
+
+648
+00:41:32,150 --> 00:41:35,950
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# And we are all connected to each other #
+
+649
+00:41:35,990 --> 00:41:41,150
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# In a circle In a hoop that never ends #
+
+650
+00:41:41,190 --> 00:41:43,290
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# How high #
+
+651
+00:41:43,330 --> 00:41:45,530
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# does the sycamore grow? #
+
+652
+00:41:45,570 --> 00:41:47,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# If you cut it down #
+
+653
+00:41:47,530 --> 00:41:51,200
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# then you'll never know #
+
+654
+00:41:51,240 --> 00:41:52,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# And you'll never #
+
+655
+00:41:52,870 --> 00:41:55,240
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# hear the wolf cry #
+
+656
+00:41:55,280 --> 00:41:57,840
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# to the blue corn moon #
+
+657
+00:41:57,880 --> 00:42:01,910
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# For whether we are white or copper-skinned #
+
+658
+00:42:01,950 --> 00:42:04,780
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# We need to sing with
+
+659
+00:42:04,820 --> 00:42:06,790
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# all the voices of the mountain #
+
+660
+00:42:06,820 --> 00:42:09,620
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# We need to paint with #
+
+661
+00:42:09,660 --> 00:42:11,720
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# all the colours of the wind #
+
+662
+00:42:11,760 --> 00:42:14,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# You can own the Earth and still #
+
+663
+00:42:14,660 --> 00:42:18,290
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# All you'll own is earth until #
+
+664
+00:42:18,330 --> 00:42:20,990
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# You can paint #
+
+665
+00:42:21,030 --> 00:42:24,160
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# With all the colours #
+
+666
+00:42:24,200 --> 00:42:33,910
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Of the wind. #
+
+667
+00:42:47,860 --> 00:42:49,990
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What is it?
+
+668
+00:42:50,030 --> 00:42:53,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}The drums. They mean trouble.
+
+669
+00:42:53,870 --> 00:42:56,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I shouldn't be here.
+
+670
+00:42:56,200 --> 00:42:58,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- I want to see you again. - I can't.
+
+671
+00:42:58,540 --> 00:43:01,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Please, don't leave. - I'm sorry.
+
+672
+00:43:03,980 --> 00:43:05,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I have to go.
+
+673
+00:43:16,390 --> 00:43:18,880
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}All right! This one's ready to hoist!
+
+674
+00:43:18,930 --> 00:43:21,450
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Two on each side. - Ready now? Push!
+
+675
+00:43:21,490 --> 00:43:23,220
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Watch it. It's slippery.
+
+676
+00:43:23,260 --> 00:43:26,320
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Come on, lads. It's only a little picket fence.
+
+677
+00:43:26,370 --> 00:43:28,660
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Steady! Steady! - There you go.
+
+678
+00:43:28,700 --> 00:43:31,260
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}That'll keep everything out, eh, John?
+
+679
+00:43:33,440 --> 00:43:34,810
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Something wrong, John?
+
+680
+00:43:34,840 --> 00:43:36,070
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What?
+
+681
+00:43:36,110 --> 00:43:37,600
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You've been awfully quiet the last few days.
+
+682
+00:43:37,640 --> 00:43:40,240
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, he's just mad that he missed all the action.
+
+683
+00:43:40,280 --> 00:43:41,870
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Ah, don't worry, John.
+
+684
+00:43:41,920 --> 00:43:43,680
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You'll get your chance to deal with the Indians.
+
+685
+00:43:43,720 --> 00:43:45,280
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Yeah, we'll take care of them...
+
+686
+00:43:45,320 --> 00:43:47,650
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}like we did last time, eh, mates?
+
+687
+00:43:47,690 --> 00:43:50,160
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# We shot ourselves an Injun #
+
+688
+00:43:50,190 --> 00:43:51,990
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# or maybe two or three #
+
+689
+00:43:52,030 --> 00:43:54,620
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}All right, you howling nutter, get to work!
+
+690
+00:43:54,660 --> 00:43:57,130
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Come on, Ben. It's just a little fun.
+
+691
+00:43:57,160 --> 00:44:00,000
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, sure! We're having loads of fun, right?
+
+692
+00:44:00,030 --> 00:44:02,300
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Look at us. No gold, no food.
+
+693
+00:44:02,340 --> 00:44:05,300
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}While Ratcliffe sits up in his tent all day...
+
+694
+00:44:05,340 --> 00:44:06,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}happy as a clam.
+
+695
+00:44:06,870 --> 00:44:09,310
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I am doomed!
+
+696
+00:44:09,340 --> 00:44:11,440
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I should be wallowing in riches by now...
+
+697
+00:44:11,480 --> 00:44:13,380
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}and I haven't found as much as a speck!
+
+698
+00:44:13,410 --> 00:44:15,640
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Think. Think!
+
+699
+00:44:15,680 --> 00:44:18,710
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's got to be around here somewhere.
+
+700
+00:44:18,750 --> 00:44:21,190
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Where could it be?
+
+701
+00:44:23,390 --> 00:44:25,520
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I've mined the forests and the hills
+
+702
+00:44:25,560 --> 00:44:28,120
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}and the swamps... And nothing!
+
+703
+00:44:31,700 --> 00:44:34,390
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Why can't I find it? What am I overlooking?
+
+704
+00:44:35,870 --> 00:44:38,200
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I... I...
+
+705
+00:44:38,240 --> 00:44:40,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I made it myself.
+
+706
+00:44:40,270 --> 00:44:42,610
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Take that silly...
+
+707
+00:44:42,640 --> 00:44:44,870
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Of course! The Indians.
+
+708
+00:44:44,910 --> 00:44:46,780
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Wiggins, why do you think...
+
+709
+00:44:46,810 --> 00:44:48,370
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}those insolent heathens attacked us?
+
+710
+00:44:48,420 --> 00:44:49,580
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Because we invaded their land
+
+711
+00:44:49,620 --> 00:44:51,880
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}and cut down their trees and dug up their earth?
+
+712
+00:44:51,920 --> 00:44:54,080
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's the gold! They have it...
+
+713
+00:44:54,120 --> 00:44:56,320
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}and they don't want us to take it from them.
+
+714
+00:44:56,360 --> 00:45:00,350
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Well, I'll just have to take it by force, then, won't I?
+
+715
+00:45:02,360 --> 00:45:05,200
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You there! Where's Captain Smith?
+
+716
+00:45:05,230 --> 00:45:06,720
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Well, he's gone.
+
+717
+00:45:06,770 --> 00:45:09,860
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Aye. Your singing must have scared them off.
+
+718
+00:45:09,900 --> 00:45:11,530
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Well, then go get him, for heaven's sake!
+
+719
+00:45:11,570 --> 00:45:13,400
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What if we run into the Indians?
+
+720
+00:45:13,440 --> 00:45:16,240
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}That's what guns are for.
+
+721
+00:45:16,280 --> 00:45:18,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Now arm yourselves and get moving!
+
+722
+00:45:44,000 --> 00:45:45,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas.
+
+723
+00:45:46,010 --> 00:45:48,940
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You should be inside the village.
+
+724
+00:45:48,980 --> 00:45:50,530
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}We'll be all right.
+
+725
+00:45:50,580 --> 00:45:53,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}We're gathering food for when the warriors arrive.
+
+726
+00:45:53,810 --> 00:45:54,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Don't go far.
+
+727
+00:45:55,010 --> 00:45:56,740
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Now is not the time to be running off.
+
+728
+00:45:56,780 --> 00:45:58,410
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Yes, Father.
+
+729
+00:45:59,890 --> 00:46:02,320
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}When I see you wear that necklace...
+
+730
+00:46:02,360 --> 00:46:05,050
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}you look just like your mother.
+
+731
+00:46:05,090 --> 00:46:06,650
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I miss her.
+
+732
+00:46:06,690 --> 00:46:09,060
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}But she is still with us.
+
+733
+00:46:09,100 --> 00:46:11,560
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Whenever the wind moves through the trees...
+
+734
+00:46:11,600 --> 00:46:13,330
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I feel her presence.
+
+735
+00:46:13,370 --> 00:46:16,300
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Our people looked to her for wisdom and strength.
+
+736
+00:46:16,340 --> 00:46:19,070
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Someday, they will look to you as well.
+
+737
+00:46:19,110 --> 00:46:21,940
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I would be honoured by that.
+
+738
+00:46:21,980 --> 00:46:23,740
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You shouldn't be out here alone.
+
+739
+00:46:23,780 --> 00:46:25,940
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I'll send for Kocoum.
+
+740
+00:46:25,980 --> 00:46:27,470
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}All right. What is it?
+
+741
+00:46:27,510 --> 00:46:28,980
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- What? - You're hiding something.
+
+742
+00:46:29,020 --> 00:46:30,950
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I'm not hiding anything.
+
+743
+00:46:30,980 --> 00:46:33,150
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas, you can tell me. I promise
+
+744
+00:46:33,190 --> 00:46:37,180
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I won't tell anyone... Pocahontas, look!
+
+745
+00:46:40,630 --> 00:46:42,090
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's one of them! I'm going to get...
+
+746
+00:46:42,130 --> 00:46:44,320
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What are you doing here?
+
+747
+00:46:44,360 --> 00:46:46,360
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I had to see you again.
+
+748
+00:46:46,400 --> 00:46:48,090
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas!
+
+749
+00:46:48,130 --> 00:46:49,600
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas!
+
+750
+00:46:49,640 --> 00:46:51,470
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Please! Don't say anything.
+
+751
+00:46:51,500 --> 00:46:53,130
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Quick! this way!
+
+752
+00:46:53,170 --> 00:46:54,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- But... - Nakoma.
+
+753
+00:46:54,740 --> 00:46:56,440
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Where is Pocahontas?
+
+754
+00:46:56,480 --> 00:46:59,270
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I... I haven't seen her.
+
+755
+00:46:59,310 --> 00:47:02,440
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas can't keep running off.
+
+756
+00:47:02,480 --> 00:47:04,310
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's dangerous out there.
+
+757
+00:47:04,350 --> 00:47:07,750
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Tell her that. She listens to you.
+
+758
+00:47:09,090 --> 00:47:11,890
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Huh! Sure she does.
+
+759
+00:47:27,310 --> 00:47:30,040
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}This place is incredible.
+
+760
+00:47:30,080 --> 00:47:31,340
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}And to think we came all this way...
+
+761
+00:47:31,380 --> 00:47:32,640
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}just to dig it up for gold.
+
+762
+00:47:32,680 --> 00:47:34,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Gold?
+
+763
+00:47:34,210 --> 00:47:36,880
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Hey, Meeko. - What's gold?
+
+764
+00:47:36,920 --> 00:47:38,980
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You know, it's, uh... it's, it's yellow.
+
+765
+00:47:39,020 --> 00:47:41,380
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It comes out of the ground. It's really valuable.
+
+766
+00:47:41,420 --> 00:47:43,360
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Oh! Here, we have lots of it.
+
+767
+00:47:43,390 --> 00:47:45,720
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Gold.
+
+768
+00:47:45,760 --> 00:47:49,560
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}No No! Gold is this.
+
+769
+00:47:49,600 --> 00:47:52,220
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}There's nothing like that around here.
+
+770
+00:47:52,270 --> 00:47:54,890
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- No gold? - Not that I've seen.
+
+771
+00:47:54,930 --> 00:47:57,730
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}All this way for nothing.
+
+772
+00:47:57,770 --> 00:48:00,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Well, those boys are in for a big surprise.
+
+773
+00:48:00,610 --> 00:48:03,010
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Will they leave? - Some of them might.
+
+774
+00:48:05,210 --> 00:48:06,510
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Will you go home?
+
+775
+00:48:06,550 --> 00:48:10,070
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Well, it's not like I have much of a home to go back to.
+
+776
+00:48:10,120 --> 00:48:12,520
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I've never really belonged anywhere.
+
+777
+00:48:12,550 --> 00:48:15,350
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You could belong here.
+
+778
+00:48:23,500 --> 00:48:25,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What was that?!
+
+779
+00:48:25,470 --> 00:48:26,930
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Did you see something?
+
+780
+00:48:26,970 --> 00:48:29,870
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}No. No. I just, uh... I...
+
+781
+00:48:29,900 --> 00:48:33,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I didn't see anything, did I?
+
+782
+00:48:33,210 --> 00:48:34,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Look again.
+
+783
+00:48:35,980 --> 00:48:38,710
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Let it break upon you #
+
+784
+00:48:38,750 --> 00:48:44,380
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Like a wave upon the sand #
+
+785
+00:48:44,420 --> 00:48:47,390
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Hello, John Smith.
+
+786
+00:48:47,420 --> 00:48:50,320
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas, that tree is talking to me.
+
+787
+00:48:50,360 --> 00:48:52,590
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Then you should talk back.
+
+788
+00:48:52,630 --> 00:48:54,560
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Don't be frightened, young man.
+
+789
+00:48:54,590 --> 00:48:57,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}My bark is worse than my bite.
+
+790
+00:48:58,870 --> 00:49:00,590
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Say something.
+
+791
+00:49:00,630 --> 00:49:02,620
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What do you say to a tree?
+
+792
+00:49:02,670 --> 00:49:04,660
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Anything you want.
+
+793
+00:49:08,240 --> 00:49:09,540
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}So, uh...
+
+794
+00:49:09,580 --> 00:49:13,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Come closer, John Smith.
+
+795
+00:49:13,210 --> 00:49:15,810
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}He has a good soul.
+
+796
+00:49:15,850 --> 00:49:17,610
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}And he's handsome too!
+
+797
+00:49:17,650 --> 00:49:21,050
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Oh, I like her. - I knew you would.
+
+798
+00:49:21,090 --> 00:49:22,320
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Smith!
+
+799
+00:49:22,360 --> 00:49:24,620
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Smith Where are you, mate?
+
+800
+00:49:24,660 --> 00:49:25,850
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}We can't let them see us.
+
+801
+00:49:25,890 --> 00:49:27,330
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Quick! Over here.
+
+802
+00:49:27,360 --> 00:49:29,120
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}This place gives me the creeps.
+
+803
+00:49:29,160 --> 00:49:31,220
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Savages could be hiding anywhere.
+
+804
+00:49:31,260 --> 00:49:36,200
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Aye. Well, if you spot one, don't ask questions. Just shoot.
+
+805
+00:49:37,540 --> 00:49:39,370
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Watch your feet, you big oaf!
+
+806
+00:49:39,410 --> 00:49:41,200
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It wasn't me. It was the tree.
+
+807
+00:49:41,240 --> 00:49:42,400
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, of course!
+
+808
+00:49:42,440 --> 00:49:44,880
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}The tree just felt like lifting its roots and...
+
+809
+00:49:48,250 --> 00:49:49,650
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Let's get out of here.
+
+810
+00:49:51,180 --> 00:49:52,810
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Ow! Run! - Ow!
+
+811
+00:49:52,850 --> 00:49:54,320
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}But what about Smith?
+
+812
+00:49:54,350 --> 00:49:57,190
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}He's a big lad. He can take care of himself.
+
+813
+00:49:57,220 --> 00:49:58,520
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I'm glad you're on our side.
+
+814
+00:49:58,560 --> 00:50:01,620
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}There's still some snap in these old vines.
+
+815
+00:50:01,660 --> 00:50:04,390
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I'd better get back before they send the whole camp out after me.
+
+816
+00:50:04,430 --> 00:50:06,130
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}When will I see you again?
+
+817
+00:50:06,170 --> 00:50:08,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Meet me tonight. Right here.
+
+818
+00:50:13,510 --> 00:50:18,310
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Well, I haven't had this much excitement in 200 years.
+
+819
+00:50:18,340 --> 00:50:21,470
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What am I doing? I shouldn't be seeing him again.
+
+820
+00:50:21,510 --> 00:50:23,510
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I mean, I want to see him again.
+
+821
+00:50:23,550 --> 00:50:26,640
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Who wouldn't? I want to see him again.
+
+822
+00:50:26,690 --> 00:50:28,520
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}But still, something inside...
+
+823
+00:50:28,550 --> 00:50:30,650
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}is telling me it's the right thing.
+
+824
+00:50:30,690 --> 00:50:32,390
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Perhaps it's your dream.
+
+825
+00:50:32,430 --> 00:50:35,120
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}My dream? Do you think he's the one...
+
+826
+00:50:35,160 --> 00:50:37,530
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}the spinning arrow was pointing to?
+
+827
+00:50:46,910 --> 00:50:48,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}The warriors are here!
+
+828
+00:51:00,020 --> 00:51:03,150
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas, are you crazy? What were you doing with one of them?
+
+829
+00:51:03,190 --> 00:51:04,550
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- There you are. - Kocoum!
+
+830
+00:51:04,590 --> 00:51:06,750
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Look at them! Now we have enough warriors...
+
+831
+00:51:06,790 --> 00:51:09,130
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}to destroy those white demons!
+
+832
+00:51:10,660 --> 00:51:12,890
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Now that we are joined by our brothers...
+
+833
+00:51:12,930 --> 00:51:14,990
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}we will defeat this enemy.
+
+834
+00:51:22,440 --> 00:51:24,340
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Father, I need to speak with you.
+
+835
+00:51:24,380 --> 00:51:26,850
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Not now, my daughter. The council is gathering.
+
+836
+00:51:26,880 --> 00:51:30,410
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}We don't have to fight them! There must be a better way.
+
+837
+00:51:30,450 --> 00:51:33,210
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Sometimes our paths are chosen for us.
+
+838
+00:51:33,250 --> 00:51:35,780
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}But maybe we should try talking to them.
+
+839
+00:51:35,820 --> 00:51:37,480
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}They do not want to talk.
+
+840
+00:51:37,520 --> 00:51:39,550
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}But if one of them did want to talk...
+
+841
+00:51:39,590 --> 00:51:41,320
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}you would listen to him, wouldn't you?
+
+842
+00:51:41,360 --> 00:51:43,420
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Pocahontas. - Wouldn't you?
+
+843
+00:51:43,460 --> 00:51:47,760
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Of course I would. But it is not that simple.
+
+844
+00:51:47,800 --> 00:51:50,200
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Nothing is simple any more.
+
+845
+00:52:34,150 --> 00:52:37,450
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Easy, Thomas. It's me.
+
+846
+00:52:37,480 --> 00:52:40,280
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, John. I could've killed you.
+
+847
+00:52:40,320 --> 00:52:42,220
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Not aiming like that, you couldn't.
+
+848
+00:52:42,260 --> 00:52:43,980
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Keep both eyes open when you shoot.
+
+849
+00:52:44,020 --> 00:52:45,920
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You'll see twice as well.
+
+850
+00:52:45,960 --> 00:52:48,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Smith, there you are!
+
+851
+00:52:48,460 --> 00:52:50,220
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}We were looking all over for you.
+
+852
+00:52:50,260 --> 00:52:53,490
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Smith! Where have you been?
+
+853
+00:52:53,530 --> 00:52:56,300
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I was out scouting the terrain, sir.
+
+854
+00:52:56,340 --> 00:52:58,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Excellent. Then you must know the Indians' whereabouts.
+
+855
+00:52:58,740 --> 00:53:00,330
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}We'll need that information for the battle.
+
+856
+00:53:00,370 --> 00:53:01,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What battle?
+
+857
+00:53:01,610 --> 00:53:04,580
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}We will eliminate these savages once and for all.
+
+858
+00:53:04,610 --> 00:53:06,080
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}No! You can't do that!
+
+859
+00:53:06,110 --> 00:53:08,980
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, can't I?
+
+860
+00:53:09,020 --> 00:53:11,510
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Look, we don't have to fight them.
+
+861
+00:53:11,550 --> 00:53:13,820
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- John, what's gotten into you? - I met one of them.
+
+862
+00:53:13,850 --> 00:53:16,340
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- You what?! - A savage?
+
+863
+00:53:16,390 --> 00:53:19,050
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}They're not savages. They can help us.
+
+864
+00:53:19,090 --> 00:53:20,250
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}They know the land.
+
+865
+00:53:20,290 --> 00:53:21,560
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}They know how to navigate the rivers.
+
+866
+00:53:23,260 --> 00:53:25,360
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- And look. It's food. - What is it?
+
+867
+00:53:25,400 --> 00:53:27,960
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's better than hardtack and gruel, that's for sure.
+
+868
+00:53:28,000 --> 00:53:29,190
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I like gruel.
+
+869
+00:53:29,240 --> 00:53:31,640
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}They don't want to feed us, you ninnies!
+
+870
+00:53:31,670 --> 00:53:34,470
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}They want to kill us! All of us!
+
+871
+00:53:34,510 --> 00:53:35,740
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}They've got our gold...
+
+872
+00:53:35,780 --> 00:53:37,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}and they'll do anything to keep it!
+
+873
+00:53:37,540 --> 00:53:39,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}But there is no gold.
+
+874
+00:53:39,080 --> 00:53:41,050
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}No gold?
+
+875
+00:53:41,080 --> 00:53:45,410
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}And I suppose your little Indian friend told you this?
+
+876
+00:53:45,450 --> 00:53:46,920
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Yes.
+
+877
+00:53:46,950 --> 00:53:50,550
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Lies! Lies! All of it! Murderous thieves!
+
+878
+00:53:50,590 --> 00:53:52,820
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}There's no room for their kind in civilized society.
+
+879
+00:53:52,860 --> 00:53:54,290
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}But this is their land!
+
+880
+00:53:54,330 --> 00:53:57,730
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}This is my land! I make the laws here.
+
+881
+00:53:57,760 --> 00:54:02,060
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}And I say anyone who so much as looks at an Indian...
+
+882
+00:54:02,100 --> 00:54:03,660
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}without killing him on sight...
+
+883
+00:54:03,700 --> 00:54:07,900
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}will be tried for treason and hanged!
+
+884
+00:54:12,590 --> 00:54:13,890
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas!
+
+885
+00:54:13,920 --> 00:54:15,860
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Nakoma! - Don't go out there.
+
+886
+00:54:15,890 --> 00:54:19,220
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I lied for you once. Don't ask me to do it again.
+
+887
+00:54:19,260 --> 00:54:20,730
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I have to do this.
+
+888
+00:54:20,760 --> 00:54:22,960
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- He's one of them! - You don't know him.
+
+889
+00:54:23,000 --> 00:54:24,160
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}If you go out there...
+
+890
+00:54:24,200 --> 00:54:26,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You'll be turning your back on your own people.
+
+891
+00:54:26,070 --> 00:54:28,470
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I'm trying to help my people.
+
+892
+00:54:28,500 --> 00:54:32,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas, please. You're my best friend.
+
+893
+00:54:32,070 --> 00:54:33,600
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I don't want you to get hurt.
+
+894
+00:54:33,640 --> 00:54:35,610
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I won't. I know what I'm doing.
+
+895
+00:54:35,640 --> 00:54:38,200
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas, no!
+
+896
+00:54:43,720 --> 00:54:45,080
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Ratcliffe wouldn't take us...
+
+897
+00:54:45,120 --> 00:54:46,850
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}halfway around the world for nothin'.
+
+898
+00:54:46,890 --> 00:54:48,650
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}But what if Smith is right?
+
+899
+00:54:48,690 --> 00:54:50,590
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What if there is no gold?
+
+900
+00:54:50,630 --> 00:54:51,890
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}If you ask me...
+
+901
+00:54:51,930 --> 00:54:53,790
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Ratcliffe's been lying to us since we left London.
+
+902
+00:54:53,830 --> 00:54:55,760
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Listen to you, ya bunch of idiots.
+
+903
+00:54:55,800 --> 00:54:58,130
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Those savages didn't attack us for nothin'.
+
+904
+00:54:58,170 --> 00:55:00,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}They're hidin' somethin'.
+
+905
+00:55:00,070 --> 00:55:01,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}If they do have the gold...
+
+906
+00:55:01,740 --> 00:55:03,530
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I reckon we'll have to fight 'em.
+
+907
+00:55:03,570 --> 00:55:06,200
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Either too hot or too cool.
+
+908
+00:55:06,240 --> 00:55:09,510
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I haven't been comfortable since we got here.
+
+909
+00:55:09,550 --> 00:55:13,350
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, I know. I've been itching a lot.
+
+910
+00:55:19,490 --> 00:55:22,010
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Follow him. - Yes, Governor.
+
+911
+00:55:22,060 --> 00:55:23,990
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I want to know where he's sneaking off to.
+
+912
+00:55:24,030 --> 00:55:25,190
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Yes, sir.
+
+913
+00:55:25,230 --> 00:55:28,460
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}And if you happen to see any Indians,
+
+914
+00:55:28,500 --> 00:55:30,090
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Shoot them.
+
+915
+00:55:33,870 --> 00:55:36,600
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Oh, and Thomas, you've been a slipshod sailor
+
+916
+00:55:36,640 --> 00:55:39,270
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}and a poor excuse for a soldier.
+
+917
+00:55:39,310 --> 00:55:41,470
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Don't disappoint me again.
+
+918
+00:55:51,090 --> 00:55:53,650
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Kocoum. - What is it?
+
+919
+00:55:53,690 --> 00:55:55,780
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's Pocahontas.
+
+920
+00:55:55,820 --> 00:55:58,550
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What's wrong? Is she all right?
+
+921
+00:56:00,600 --> 00:56:02,590
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I think she's in trouble.
+
+922
+00:56:07,040 --> 00:56:10,130
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}The Earth is trembling, child. What's happened?
+
+923
+00:56:10,170 --> 00:56:11,610
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}The warriors are here!
+
+924
+00:56:11,640 --> 00:56:14,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Pocahontas! - John!
+
+925
+00:56:14,810 --> 00:56:16,240
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Listen to me.
+
+926
+00:56:16,280 --> 00:56:18,640
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}My men are planning to attack your people.
+
+927
+00:56:18,680 --> 00:56:19,840
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You've got to warn them.
+
+928
+00:56:19,880 --> 00:56:22,350
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Maybe it's not too late to stop this.
+
+929
+00:56:22,380 --> 00:56:24,320
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You have to come with me and talk to my father.
+
+930
+00:56:24,350 --> 00:56:27,080
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas, talking isn't going to do any good.
+
+931
+00:56:27,120 --> 00:56:28,920
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I already tried talking to my men...
+
+932
+00:56:28,960 --> 00:56:31,050
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}but everything about this land has them spooked.
+
+933
+00:56:35,730 --> 00:56:38,200
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}That's the strangest creature I've ever seen.
+
+934
+00:56:42,240 --> 00:56:43,860
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Percy?!
+
+935
+00:56:45,340 --> 00:56:47,810
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Easy, Percy! Come here!
+
+936
+00:56:47,840 --> 00:56:49,040
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Meeko, come back!
+
+937
+00:56:49,080 --> 00:56:50,540
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You see what I mean?
+
+938
+00:56:50,580 --> 00:56:51,880
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Once two sides want to fight, nothing can stop them.
+
+939
+00:56:51,910 --> 00:56:53,310
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Come Come here, both of you!
+
+940
+00:56:53,350 --> 00:56:55,210
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's all right! It's all right! He's a friend!
+
+941
+00:56:55,250 --> 00:56:56,550
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Bad! Bad dog! Sit!
+
+942
+00:56:58,820 --> 00:57:01,650
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- What are you doing? Meeko! - Percy, get back here!
+
+943
+00:57:01,690 --> 00:57:02,990
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What are you doing? Stop that!
+
+944
+00:57:03,030 --> 00:57:05,520
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}All right, that's enough!
+
+945
+00:57:12,500 --> 00:57:14,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's enough to make your sap boil.
+
+946
+00:57:16,510 --> 00:57:20,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Now then, there's something I want to show you. Look.
+
+947
+00:57:24,750 --> 00:57:25,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}The ripples.
+
+948
+00:57:26,980 --> 00:57:28,210
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What about them?
+
+949
+00:57:28,250 --> 00:57:30,340
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}So small at first,
+
+950
+00:57:30,390 --> 00:57:34,050
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}then look how they grow.
+
+951
+00:57:34,090 --> 00:57:36,820
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}But someone has to start them.
+
+952
+00:57:36,860 --> 00:57:39,330
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}They're not going to listen to us.
+
+953
+00:57:39,360 --> 00:57:41,660
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Young man, sometimes the right path
+
+954
+00:57:41,700 --> 00:57:43,490
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}is not the easiest one.
+
+955
+00:57:43,530 --> 00:57:47,530
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Don't you see? Only when the fighting stops...
+
+956
+00:57:47,570 --> 00:57:50,560
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}can you be together.
+
+957
+00:57:53,440 --> 00:57:56,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}All right. Let's go talk to your father.
+
+958
+00:58:32,610 --> 00:58:34,910
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Kocoum! No!
+
+959
+00:58:40,790 --> 00:58:41,980
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Kocoum!
+
+960
+00:58:46,160 --> 00:58:49,960
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Leave him alone!
+
+961
+00:59:03,850 --> 00:59:05,940
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Kocoum! Stop!
+
+962
+00:59:08,280 --> 00:59:11,280
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Both eyes open.
+
+963
+00:59:18,060 --> 00:59:21,460
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Thomas! - Is he...
+
+964
+00:59:21,500 --> 00:59:23,360
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You killed him.
+
+965
+00:59:23,400 --> 00:59:25,370
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- I thought that... - Get away from him!
+
+966
+00:59:25,400 --> 00:59:27,490
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas, it won't help! He was only...
+
+967
+00:59:27,540 --> 00:59:28,800
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}He killed him!
+
+968
+00:59:32,010 --> 00:59:34,640
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Thomas, get out of here!
+
+969
+00:59:34,680 --> 00:59:37,010
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Get out of here!
+
+970
+01:00:39,040 --> 01:00:41,010
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Who did this?
+
+971
+01:00:41,040 --> 01:00:43,140
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas was out in the woods.
+
+972
+01:00:43,180 --> 01:00:47,840
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Kocoum went to find her and this white man attacked him.
+
+973
+01:00:47,880 --> 01:00:50,280
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Your weapons are strong,
+
+974
+01:00:50,320 --> 01:00:53,050
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}but now our anger is stronger.
+
+975
+01:00:53,090 --> 01:00:55,890
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}At sunrise he will be the first to die!
+
+976
+01:00:55,920 --> 01:00:57,080
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}But, Father...
+
+977
+01:00:57,130 --> 01:01:00,120
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I told you to stay in the village.
+
+978
+01:01:00,160 --> 01:01:02,100
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You disobeyed me.
+
+979
+01:01:02,130 --> 01:01:04,120
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You have shamed your father!
+
+980
+01:01:04,170 --> 01:01:05,960
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I was only trying to help.
+
+981
+01:01:06,000 --> 01:01:10,060
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Because of your foolishness, Kocoum is dead!
+
+982
+01:01:10,110 --> 01:01:12,370
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Take him away!
+
+983
+01:01:26,220 --> 01:01:28,950
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Kocoum was just coming to protect me.
+
+984
+01:01:28,990 --> 01:01:30,820
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas...
+
+985
+01:01:30,860 --> 01:01:32,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I sent Kocoum after you.
+
+986
+01:01:34,360 --> 01:01:36,890
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I was worried about you.
+
+987
+01:01:36,930 --> 01:01:39,130
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I-I thought I was doing the right thing.
+
+988
+01:01:39,170 --> 01:01:42,600
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}All this happened because of me.
+
+989
+01:01:42,640 --> 01:01:47,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}And now I'll never see John Smith again.
+
+990
+01:01:47,210 --> 01:01:49,010
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Come with me.
+
+991
+01:01:53,620 --> 01:01:55,740
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas wants to look into the eyes...
+
+992
+01:01:55,780 --> 01:01:57,840
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}of the man who killed Kocoum.
+
+993
+01:02:00,420 --> 01:02:02,150
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Be quick.
+
+994
+01:02:19,710 --> 01:02:22,340
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas.
+
+995
+01:02:24,750 --> 01:02:26,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I'm so sorry.
+
+996
+01:02:26,820 --> 01:02:28,280
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}For what? This?
+
+997
+01:02:28,320 --> 01:02:30,650
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I've gotten out of worse scrapes than this.
+
+998
+01:02:30,690 --> 01:02:32,620
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Can't think of any right now, but...
+
+999
+01:02:32,650 --> 01:02:34,490
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It would've been better if we'd never met.
+
+1000
+01:02:34,520 --> 01:02:36,290
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}None of this would've happened.
+
+1001
+01:02:36,320 --> 01:02:38,720
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas, look at me.
+
+1002
+01:02:38,760 --> 01:02:42,160
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I'd rather die tomorrow...
+
+1003
+01:02:42,200 --> 01:02:44,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}than live a hundred years without knowing you.
+
+1004
+01:02:45,430 --> 01:02:47,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Pocahontas.
+
+1005
+01:02:47,230 --> 01:02:50,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- I can't leave you. - You never will.
+
+1006
+01:02:50,300 --> 01:02:54,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}No matter what happens to me, I'll always be with you. Forever.
+
+1007
+01:03:08,030 --> 01:03:11,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Help! Somebody help! Help! Help!
+
+1008
+01:03:11,500 --> 01:03:14,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Easy, lad. What is it? - It's Smith! They got him!
+
+1009
+01:03:14,770 --> 01:03:16,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Who got him? - The savages!
+
+1010
+01:03:16,630 --> 01:03:19,100
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Savages? - They captured him, dragged him off!
+
+1011
+01:03:19,170 --> 01:03:20,900
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Where'd they take him? - They headed north.
+
+1012
+01:03:20,900 --> 01:03:22,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- How many were there? - I don't know. At least a dozen.
+
+1013
+01:03:23,170 --> 01:03:25,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Filthy beasts! - Ratcliffe was right!
+
+1014
+01:03:25,500 --> 01:03:29,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's perfect, Wiggins. I couldn't have planned this better myself.
+
+1015
+01:03:29,300 --> 01:03:32,370
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}The gold is as good as mine.
+
+1016
+01:03:32,430 --> 01:03:35,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}We've got to save him! He'd do the same for any of us!
+
+1017
+01:03:35,370 --> 01:03:38,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Thomas is right! We've got to do somethin'! - And so we shall.
+
+1018
+01:03:38,830 --> 01:03:42,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- I told you those savages couldn't be trusted. - That's right!
+
+1019
+01:03:42,700 --> 01:03:45,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Smith tried to befriend them, and look what they've done to him!
+
+1020
+01:03:45,830 --> 01:03:49,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Yeah, that's right. - But now I say it's time to rescue our courageous comrade.
+
+1021
+01:03:50,030 --> 01:03:53,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}At daybreak, we attack!
+
+1022
+01:03:53,700 --> 01:03:57,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What can you expect from filthy little heathens
+
+1023
+01:03:57,100 --> 01:04:00,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Here's what you get when races are diverse - That's right.
+
+1024
+01:04:00,370 --> 01:04:03,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Their skins are hellish red They're only good when dead #
+
+1025
+01:04:03,900 --> 01:04:06,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# They're vermin, as I said and worse #
+
+1026
+01:04:06,770 --> 01:04:10,900
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - They're savages, savages - Barely even human #
+
+1027
+01:04:10,970 --> 01:04:14,300
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - Savages, savages - Drive them from our shore #
+
+1028
+01:04:14,370 --> 01:04:17,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# They're not like you and me which means they must be evil #
+
+1029
+01:04:17,770 --> 01:04:20,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# We must sound the drums of war #
+
+1030
+01:04:20,700 --> 01:04:24,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# They're savages, savages Dirty shrieking devils #
+
+1031
+01:04:24,700 --> 01:04:28,300
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Now we sound the drums of war #
+
+1032
+01:04:33,030 --> 01:04:36,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# This is what we feared The pale face is a demon #
+
+1033
+01:04:36,630 --> 01:04:39,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# The only thing they feel at all is greed #
+
+1034
+01:04:39,830 --> 01:04:43,300
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Beneath that milky hide there's empatiness inside #
+
+1035
+01:04:43,500 --> 01:04:46,100
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# I wonder if they even bleed #
+
+1036
+01:04:46,170 --> 01:04:50,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - They're savages, savages - Barely even human #
+
+1037
+01:04:50,300 --> 01:04:53,370
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - Savages, savages - Killers at the core #
+
+1038
+01:04:53,430 --> 01:04:57,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# They're different from us which means they can't be trusted #
+
+1039
+01:04:57,230 --> 01:05:00,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# We must sound the drums of war #
+
+1040
+01:05:00,300 --> 01:05:04,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - They're savages, savages - First we deal with this one #
+
+1041
+01:05:04,100 --> 01:05:07,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - Then we sound the drums of war - Savages, savages #
+
+1042
+01:05:07,430 --> 01:05:09,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Let's go get a few, men! #
+
+1043
+01:05:09,170 --> 01:05:12,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - Savages, savages - Now it's up to you, men #
+
+1044
+01:05:12,700 --> 01:05:14,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - Savages - Savages #
+
+1045
+01:05:14,500 --> 01:05:16,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Barely even human #
+
+1046
+01:05:16,300 --> 01:05:19,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Now we sound the drums #
+
+1047
+01:05:19,770 --> 01:05:21,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Of #
+
+1048
+01:05:21,370 --> 01:05:28,100
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# War #
+
+1049
+01:05:31,630 --> 01:05:36,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- They're going to kill him at sunrise, Grandmother Willow. - You have to stop them.
+
+1050
+01:05:36,100 --> 01:05:39,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- I can't. - Child, remember your dream.
+
+1051
+01:05:39,770 --> 01:05:43,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I was wrong, Grandmother Willow. I followed the wrong path.
+
+1052
+01:05:43,700 --> 01:05:46,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I feel so lost.
+
+1053
+01:06:03,300 --> 01:06:05,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}The compass?
+
+1054
+01:06:13,230 --> 01:06:15,300
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Spinning arrow.
+
+1055
+01:06:15,300 --> 01:06:17,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's the arrow from your dream.
+
+1056
+01:06:17,630 --> 01:06:20,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I was right! It was pointing to him.
+
+1057
+01:06:27,500 --> 01:06:30,100
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Sunrise. - It's not too late, child.
+
+1058
+01:06:30,300 --> 01:06:34,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Let the spirits of the Earth guide you.
+
+1059
+01:06:35,370 --> 01:06:37,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You know your path, child.
+
+1060
+01:06:37,900 --> 01:06:40,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Now follow it!
+
+1061
+01:06:43,500 --> 01:06:45,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# This will be the day #
+
+1062
+01:06:45,170 --> 01:06:47,100
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Let's go, men!
+
+1063
+01:06:48,230 --> 01:06:50,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# This will be the morning #
+
+1064
+01:06:51,100 --> 01:06:53,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Bring out the prisoner!
+
+1065
+01:06:53,630 --> 01:06:55,370
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# We will see them dying in the dust #
+
+1066
+01:06:55,430 --> 01:06:58,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# I don't know what I can do Still, I know I've got to try #
+
+1067
+01:06:58,770 --> 01:07:01,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - Now we make 'em pay - Eagle, help my feet to fly #
+
+1068
+01:07:02,030 --> 01:07:05,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - Now, without a warning - Mountain, help my heart be great #
+
+1069
+01:07:05,630 --> 01:07:07,100
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Now we leave 'em blood and bone and rust #
+
+1070
+01:07:07,170 --> 01:07:10,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - Spirits of the Earth and sky - It's them or us #
+
+1071
+01:07:10,970 --> 01:07:13,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - Please don't let it be too late - They're just a bunch of #
+
+1072
+01:07:13,630 --> 01:07:16,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - Filthy, stinking savages - Savages #
+
+1073
+01:07:16,970 --> 01:07:18,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - Demon - Devil - Kill them! #
+
+1074
+01:07:18,570 --> 01:07:21,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - Savages, savages - What are we waiting for #
+
+1075
+01:07:21,570 --> 01:07:25,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Destroy their evil race until there's not a trace left #
+
+1076
+01:07:25,230 --> 01:07:27,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - How loud - We will sound the drums of war #
+
+1077
+01:07:27,970 --> 01:07:31,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - Are the drums of war - Now we sound the drums of war #
+
+1078
+01:07:31,900 --> 01:07:35,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - Now we see what comes of trying to be chums - Now we sound the drums #
+
+1079
+01:07:35,300 --> 01:07:40,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - Is the death of all I love carried in the drumming of - Of #
+
+1080
+01:07:40,430 --> 01:07:42,100
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - War # - No!
+
+1081
+01:07:46,170 --> 01:07:49,300
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}If you kill him, you'll have to kill me too.
+
+1082
+01:07:49,370 --> 01:07:51,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Daughter, stand back.
+
+1083
+01:07:51,830 --> 01:07:55,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I won't! I love him, Father.
+
+1084
+01:07:57,770 --> 01:07:59,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What?
+
+1085
+01:08:01,700 --> 01:08:07,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Look around you. This is where the path of hatred has brought us.
+
+1086
+01:08:09,700 --> 01:08:13,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}This is the path I choose, Father. What will yours be?
+
+1087
+01:08:48,230 --> 01:08:52,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}My daughter speaks with a wisdom beyond her years.
+
+1088
+01:08:52,500 --> 01:08:55,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}We have all come here with anger in our hearts...
+
+1089
+01:08:55,830 --> 01:08:59,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}but she comes with courage and understanding.
+
+1090
+01:08:59,770 --> 01:09:03,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}From this day forward, if there is to be more killing...
+
+1091
+01:09:03,970 --> 01:09:06,300
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}it will not start with me.
+
+1092
+01:09:09,700 --> 01:09:11,900
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Release him.
+
+1093
+01:09:29,170 --> 01:09:31,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Now's our chance! Fire!
+
+1094
+01:09:31,170 --> 01:09:32,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- No! - What?
+
+1095
+01:09:33,100 --> 01:09:35,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- They let him go. - They don't want to fight.
+
+1096
+01:09:35,830 --> 01:09:38,900
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It's a trick! Don't you see? Fire!
+
+1097
+01:09:44,030 --> 01:09:46,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Fine. I'll settle this myself.
+
+1098
+01:09:48,230 --> 01:09:50,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}No!
+
+1099
+01:09:50,700 --> 01:09:51,900
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}John!
+
+1100
+01:09:57,830 --> 01:10:02,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- You shot him! - He stepped right... right into it. It's his own fault.
+
+1101
+01:10:02,700 --> 01:10:05,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Smith was right all along. - We never should've listened to you.
+
+1102
+01:10:05,300 --> 01:10:07,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Get the gun! - Traitors!
+
+1103
+01:10:07,700 --> 01:10:09,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Unhand me, I say! How dare you!
+
+1104
+01:10:09,830 --> 01:10:14,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Put him in chains! - I'll see you all hanged for this!
+
+1105
+01:10:14,230 --> 01:10:16,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}And gag him as well!
+
+1106
+01:10:28,370 --> 01:10:31,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Is he gonna make it, Thomas? - The sooner he gets back to England, the better.
+
+1107
+01:10:31,970 --> 01:10:34,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Well, let's hope the wind is with him. - Is the ship ready yet?
+
+1108
+01:10:34,970 --> 01:10:38,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Any minute now. Just loadin' the last bit of cargo.
+
+1109
+01:10:41,500 --> 01:10:44,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}How dare you! Untie me at once!
+
+1110
+01:10:44,300 --> 01:10:47,100
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I'll have your heads for this!
+
+1111
+01:10:47,170 --> 01:10:49,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}And he came so highly recommended.
+
+1112
+01:10:58,900 --> 01:11:03,300
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}The ship's almost ready. We'd better get you on board. We'll lose the tide.
+
+1113
+01:11:03,500 --> 01:11:05,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}No, not yet.
+
+1114
+01:11:05,230 --> 01:11:08,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- She said she'd be here. - Look.
+
+1115
+01:11:35,500 --> 01:11:39,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Going back is his only chance. He'll die if he stays here.
+
+1116
+01:11:48,700 --> 01:11:53,100
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Here. It's from Grandmother Willow's bark.
+
+1117
+01:11:53,170 --> 01:11:55,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}It'll help with the pain.
+
+1118
+01:11:55,230 --> 01:11:58,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}What pain? I've had worse pain than this.
+
+1119
+01:11:59,630 --> 01:12:02,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Can't think of any right now, but...
+
+1120
+01:12:08,230 --> 01:12:11,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You are always welcome among our people.
+
+1121
+01:12:11,300 --> 01:12:13,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Thank you, my brother.
+
+1122
+01:12:17,100 --> 01:12:19,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I thought you didn't like strangers.
+
+1123
+01:12:28,030 --> 01:12:30,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}My mother's necklace.
+
+1124
+01:12:33,970 --> 01:12:35,900
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}See ya, Percy.
+
+1125
+01:12:52,700 --> 01:12:54,100
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Come with me?
+
+1126
+01:12:58,630 --> 01:13:01,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}You must choose your own path.
+
+1127
+01:13:16,970 --> 01:13:18,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}I'm needed here.
+
+1128
+01:13:20,100 --> 01:13:22,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Then I'll stay with you.
+
+1129
+01:13:22,230 --> 01:13:25,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}No. You have to go back.
+
+1130
+01:13:25,830 --> 01:13:29,300
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- But I can't leave you. - You never will.
+
+1131
+01:13:29,430 --> 01:13:33,900
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}No matter what happens, I'll always be with you.
+
+1132
+01:13:33,970 --> 01:13:36,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Forever.
+
+1133
+01:14:02,430 --> 01:14:04,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Good luck, lad. - Godspeed, John.
+
+1134
+01:14:11,500 --> 01:14:13,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- The crew a-ready? - Aye, sir!
+
+1135
+01:14:13,770 --> 01:14:15,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Set the mainsails!
+
+1136
+01:14:18,370 --> 01:14:21,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}Weigh anchor!
+
+1137
+01:14:21,830 --> 01:14:25,370
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}- Let go of the topgallants! - Aye, sir!
+
+1138
+01:14:29,370 --> 01:14:40,370
+{\fad(500,500)\fn华文楷体\fs16\1c&H3CF1F3&\b0}亲，有空的时候可以来交流电影哦 加我QQ：1610169789{\r}
+
+1139
+01:15:45,030 --> 01:15:49,300
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# If I never knew you #
+
+1140
+01:15:49,430 --> 01:15:53,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# If I never felt this love #
+
+1141
+01:15:53,970 --> 01:15:57,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# I would have no inkling of #
+
+1142
+01:15:58,030 --> 01:16:02,900
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# How precious life can be #
+
+1143
+01:16:03,030 --> 01:16:07,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# And I'm so grateful to you #
+
+1144
+01:16:07,230 --> 01:16:11,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# I'd have lived my whole life through #
+
+1145
+01:16:11,430 --> 01:16:14,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Lost forever #
+
+1146
+01:16:14,170 --> 01:16:20,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# If I never knew you #
+
+1147
+01:16:22,770 --> 01:16:27,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# If I never knew you #
+
+1148
+01:16:27,230 --> 01:16:31,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# I'd be safe but half as real #
+
+1149
+01:16:31,700 --> 01:16:35,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Never knowing I could feel #
+
+1150
+01:16:35,770 --> 01:16:40,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# A love so strong and true #
+
+1151
+01:16:40,630 --> 01:16:47,100
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - Oh, if I never knew you - There's no moment I'd regret #
+
+1152
+01:16:47,100 --> 01:16:52,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - If I never knew your love - Since the moment that we met #
+
+1153
+01:16:52,100 --> 01:16:55,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - I would have no inkling of - If our time has gone too fast #
+
+1154
+01:16:55,700 --> 01:17:01,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - How precious life can be - I've lived at last #
+
+1155
+01:17:03,170 --> 01:17:05,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Yeah, yeah #
+
+1156
+01:17:07,170 --> 01:17:10,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# I thought our love would be so beautiful #
+
+1157
+01:17:10,100 --> 01:17:11,300
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# So beautiful #
+
+1158
+01:17:11,430 --> 01:17:16,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Somehow we'd make the whole world bright #
+
+1159
+01:17:16,100 --> 01:17:20,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# I thought our love would be so beautiful #
+
+1160
+01:17:20,570 --> 01:17:24,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# We'd turn the darkness into light #
+
+1161
+01:17:24,500 --> 01:17:29,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# And still my heart is saying we were right #
+
+1162
+01:17:29,700 --> 01:17:31,370
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# We were right #
+
+1163
+01:17:31,370 --> 01:17:36,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# - And if I never knew you - If I never knew you #
+
+1164
+01:17:36,170 --> 01:17:41,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# I'd have lived my whole life through #
+
+1165
+01:17:41,830 --> 01:17:46,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Empty as the sky #
+
+1166
+01:17:46,230 --> 01:17:52,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Never knowing why #
+
+1167
+01:17:52,230 --> 01:17:55,030
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Lost forever #
+
+1168
+01:17:55,100 --> 01:18:00,100
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# If I never knew #
+
+1169
+01:18:00,170 --> 01:18:05,230
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# You #
+
+1170
+01:18:07,500 --> 01:18:09,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Yeah #
+
+1171
+01:18:26,030 --> 01:18:31,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# You think you own whatever land you land on #
+
+1172
+01:18:31,900 --> 01:18:37,370
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# The earth is just a dead thing you can claim #
+
+1173
+01:18:37,430 --> 01:18:42,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# But I know every rock and tree and creature #
+
+1174
+01:18:42,570 --> 01:18:45,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Has a life, has a spirit #
+
+1175
+01:18:45,970 --> 01:18:48,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Has a name #
+
+1176
+01:18:49,030 --> 01:18:54,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# You think the only people who are people #
+
+1177
+01:18:54,570 --> 01:19:00,170
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Are the people who look and think like you #
+
+1178
+01:19:00,300 --> 01:19:05,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# But if you walk the footsteps of a stranger #
+
+1179
+01:19:05,900 --> 01:19:11,300
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# You'll learn things you never knew you never knew #
+
+1180
+01:19:11,430 --> 01:19:14,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Have you ever heard the wolf cry #
+
+1181
+01:19:14,500 --> 01:19:17,370
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# To the blue corn moon #
+
+1182
+01:19:17,370 --> 01:19:22,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Or let the eagle tell you where he's been #
+
+1183
+01:19:22,900 --> 01:19:28,830
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Can you sing with all the voices of the mountain #
+
+1184
+01:19:28,900 --> 01:19:34,430
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Can you paint with all the colours of the wind #
+
+1185
+01:19:34,500 --> 01:19:40,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Can you paint with all the colours of the wind #
+
+1186
+01:19:40,700 --> 01:19:45,970
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# How high does the sycamore grow #
+
+1187
+01:19:46,030 --> 01:19:48,630
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# If you cut it down #
+
+1188
+01:19:48,700 --> 01:19:54,300
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Then you'll never know #
+
+1189
+01:19:54,300 --> 01:19:57,700
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# And you'll never hear the wolf cry #
+
+1190
+01:19:57,770 --> 01:20:00,570
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# To the blue corn moon #
+
+1191
+01:20:00,570 --> 01:20:05,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# For whether we are white or copapaer-skinned #
+
+1192
+01:20:05,700 --> 01:20:11,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# We need to sing with all the voices of the mountain #
+
+1193
+01:20:11,900 --> 01:20:17,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# We need to paint with all the colours of the wind #
+
+1194
+01:20:17,830 --> 01:20:20,370
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# You can own the Earth and still #
+
+1195
+01:20:20,570 --> 01:20:24,770
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# All you'll own is earth until #
+
+1196
+01:20:24,830 --> 01:20:29,370
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# You can paint with all the colours #
+
+1197
+01:20:29,430 --> 01:20:31,370
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# Of #
+
+1198
+01:20:31,430 --> 01:20:36,500
+{\fnCandara\bord1\shad1\1c&H45DFEC&\b0\i1}# The wind #
+

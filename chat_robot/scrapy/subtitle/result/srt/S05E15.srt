@@ -1,0 +1,4870 @@
+1
+00:00:04,000 --> 00:00:04,860
+我发现他挺忧伤
+I find he's sad.
+
+2
+00:00:05,400 --> 00:00:07,360
+什么  你在说什么
+What?  What are you talking about?
+
+3
+00:00:07,400 --> 00:00:10,360
+伍尔希先生  看上去挺寂寞
+Mr.Woolsey. it seems he's lonely
+
+4
+00:00:10,420 --> 00:00:13,860
+-有么  -他从来不参加城里的社交活动
+He does? Never take parts in any of the city's social activities.
+
+5
+00:00:14,400 --> 00:00:14,860
+拜托
+Oh, please. I mean...
+
+6
+00:00:15,000 --> 00:00:16,860
+他总是一个人吃饭
+He always eats alone,
+
+7
+00:00:16,860 --> 00:00:19,000
+不是在自己办公室就是在他住处
+Either in his office or in his quarters.
+
+8
+00:00:19,000 --> 00:00:20,400
+他可能有活要干
+Maybe he has work to do, you know?
+
+9
+00:00:20,400 --> 00:00:21,730
+我们中有些人就是大忙人
+Some of us are busy people.
+
+10
+00:00:23,260 --> 00:00:24,930
+有时候我夜里经过他住处
+Sometimes, when I walk by his quarters at night,
+
+11
+00:00:24,930 --> 00:00:27,130
+听见他在哭
+I hear him crying.
+
+12
+00:00:27,130 --> 00:00:29,100
+什么  真的
+What? really?
+
+13
+00:00:29,100 --> 00:00:30,160
+假的
+No.
+
+14
+00:00:31,530 --> 00:00:33,700
+伍尔希先生
+Mr. woolsey!
+
+15
+00:00:33,700 --> 00:00:37,960
+要不要一起吃
+Would you care to join us?
+
+16
+00:00:37,960 --> 00:00:39,500
+多谢了
+Well, thank you,
+
+17
+00:00:39,500 --> 00:00:40,760
+但我今天得在房里
+But I'll be taking breakfast
+
+18
+00:00:40,760 --> 00:00:42,260
+吃早餐
+In my quarters today.
+
+19
+00:00:42,260 --> 00:00:43,560
+我还剩一点业绩评估
+I still have some final preparations
+
+20
+00:00:43,560 --> 00:00:46,030
+没弄完
+For my impending performance evaluation.
+
+21
+00:00:46,030 --> 00:00:48,230
+我有点担心
+I'm a little apprehensive.
+
+22
+00:00:48,230 --> 00:00:49,700
+别那么担心
+You shouldn't be.
+
+23
+00:00:49,700 --> 00:00:51,260
+作为我们的指挥官你做很出色
+You've done a wonderful job as our new commander.
+
+24
+00:00:51,260 --> 00:00:56,130
+希望勘察顾问组也这么想
+Well, let's hope the i.o.a. agrees.
+
+25
+00:00:56,130 --> 00:00:57,430
+看到了吧
+There you go.
+
+26
+00:00:57,430 --> 00:00:59,700
+他就喜欢一个人待着
+He prefers to be on his own.
+
+27
+00:00:59,700 --> 00:01:01,600
+话说回来  谢帕德去哪儿了
+Speaking of which, where's sheppard?
+
+28
+00:01:01,600 --> 00:01:06,130
+今早他带了几个太空生物学家去陆地了
+He flew some astrobiologists to the mainland this morning.
+
+29
+00:01:06,130 --> 00:01:07,000
+并自愿
+And volunteered
+
+30
+00:01:07,000 --> 00:01:08,760
+陪他们在那儿过夜
+To stay with them overnight.
+
+31
+00:01:08,760 --> 00:01:10,130
+真的
+He did?
+
+32
+00:01:10,130 --> 00:01:11,160
+为什么
+Why would he do that?
+
+33
+00:01:14,260 --> 00:01:16,930
+这个星球上的太阳是G级行星
+This planet's sun is a class G star.
+
+34
+00:01:16,930 --> 00:01:19,630
+该条件连同
+That fact, coupled with
+
+35
+00:01:19,630 --> 00:01:21,300
+与地球类似的大气组成成分
+Its earth-like atmospheric composition,
+
+36
+00:01:21,300 --> 00:01:22,630
+为绿色光合有机物的生长
+Results in the predominance
+
+37
+00:01:22,630 --> 00:01:25,530
+提供了有利环境
+Of green photosynthetic organisms.
+
+38
+00:01:26,730 --> 00:01:27,730
+当然啦  叶绿素
+Chlorophyll, of course,
+
+39
+00:01:27,730 --> 00:01:28,730
+吸收了大部分
+Mostly absorbs
+
+40
+00:01:28,730 --> 00:01:30,160
+蓝光和红光的波长
+The sun's blue and red wavelengths,
+
+41
+00:01:30,160 --> 00:01:31,900
+反射出绿色
+Reflecting green ones.
+
+42
+00:01:31,900 --> 00:01:33,730
+你可能在想"等等"
+"but hang on a minute," you're probably thinking.
+
+43
+00:01:33,730 --> 00:01:34,930
+"真奇怪"
+"that's strange.
+
+44
+00:01:34,930 --> 00:01:37,600
+"为什么叶绿素不吸收绿光"
+Why doesn't chlorophyll absorb green light?"
+
+45
+00:01:37,600 --> 00:01:41,160
+是啊  很奇怪  那为什么呢
+Oh, yeah. weird. well, why doesn't it?
+
+46
+00:01:41,160 --> 00:01:42,160
+答案可不在
+The answer lies not so much in the--
+
+47
+00:01:42,160 --> 00:01:44,460
+上帝啊
+Oh, my god!
+
+48
+00:01:44,460 --> 00:01:45,700
+在这儿等着
+Wait here.
+
+49
+00:01:47,630 --> 00:01:49,500
+怎么了
+What happened?
+
+50
+00:01:49,500 --> 00:01:51,560
+瞧瞧这个
+Look at this. huh?
+
+51
+00:01:51,560 --> 00:01:54,700
+这植物多像毛柄秋海棠
+It's a plant not unlike the begonia eiromischa!
+
+52
+00:01:54,700 --> 00:01:56,260
+天哪
+Oh, god.
+
+53
+00:01:56,260 --> 00:01:58,000
+罗恩提醒过我的
+Lorne warned me about this.
+
+54
+00:01:58,000 --> 00:01:58,960
+你不懂
+You don't understand.
+
+55
+00:01:58,960 --> 00:02:00,560
+这种有毛高茎秋海棠属植物
+The woolly-stalked begonia
+
+56
+00:02:00,560 --> 00:02:04,000
+只有在2007年的地球上才有
+Went officially extinct back on earth in 2007
+
+57
+00:02:04,000 --> 00:02:05,830
+我们就站在这儿
+And yet here we are,
+
+58
+00:02:05,830 --> 00:02:08,600
+站在这株极其相似的植物旁边
+Standing over a species that's shockingly similar--
+
+59
+00:02:08,600 --> 00:02:10,000
+我得回飞船了
+I'm going to go back to the jumper
+
+60
+00:02:10,000 --> 00:02:11,130
+准备过夜
+And set up for the night.
+
+61
+00:02:11,130 --> 00:02:12,760
+在这种环境中仍然生机勃勃
+...and it's thriving in a climate that is...
+
+62
+00:02:12,760 --> 00:02:15,230
+要来么
+Want to join me?
+
+63
+00:02:15,230 --> 00:02:16,700
+这真是罕见
+It's a very unusual find.
+
+64
+00:02:16,700 --> 00:02:18,860
+行
+Right.
+
+65
+00:02:18,860 --> 00:02:20,330
+尽情玩  别客气
+Well, knock yourself out.
+
+66
+00:02:20,330 --> 00:02:22,900
+真是不虚此行啊
+That's what we're here for.
+
+67
+00:02:22,900 --> 00:02:24,200
+慢慢来
+Take your time.
+
+68
+00:02:24,200 --> 00:02:25,960
+我们整晚都在
+We're here all night.
+
+69
+00:04:23,460 --> 00:04:24,600
+要帮忙么
+Can I give you a hand with that?
+
+70
+00:04:24,600 --> 00:04:27,160
+其实  如果你不介意
+Actually, if you wouldn't mind...
+
+71
+00:04:27,160 --> 00:04:28,300
+你好
+Hello.
+
+72
+00:04:28,300 --> 00:04:29,660
+你好
+Hi.
+
+73
+00:04:29,660 --> 00:04:30,930
+你去哪儿
+Where are you headed?
+
+74
+00:04:30,930 --> 00:04:32,600
+回我住处
+Back to my quarters.
+
+75
+00:04:32,600 --> 00:04:34,630
+东南部码头
+Um, the southeast pier.
+
+76
+00:04:34,630 --> 00:04:35,630
+第19层
+Level 19.
+
+77
+00:04:35,630 --> 00:04:37,030
+住在顶楼
+Ooh, penthouse suite.
+
+78
+00:04:37,030 --> 00:04:38,030
+不错
+Nice.
+
+79
+00:04:38,030 --> 00:04:39,300
+我们认识么
+Have we met?
+
+80
+00:04:39,300 --> 00:04:40,760
+不  我是瓦纳萨·康拉德
+Not yet. I'm vanessa conrad.
+
+81
+00:04:41,930 --> 00:04:44,430
+瓦内萨·康拉德博士
+Dr. vanessa conrad.
+
+82
+00:04:44,430 --> 00:04:45,900
+理查德·伍尔希
+Richard woolsey.
+
+83
+00:04:45,900 --> 00:04:47,700
+我最近刚到阿波罗号
+I just recently arrived on the apollo.
+
+84
+00:04:47,700 --> 00:04:48,830
+欢迎来到亚特兰蒂斯
+Oh, welcome to atlantis.
+
+85
+00:04:48,830 --> 00:04:50,030
+谢谢
+Thank you.
+
+86
+00:04:50,030 --> 00:04:51,560
+这儿很漂亮  也很大
+It's beautiful. and huge.
+
+87
+00:04:51,560 --> 00:04:53,930
+搞清楚路恐怕得要好几个星期
+It's probably going to be weeks before I know my way around.
+
+88
+00:04:53,930 --> 00:04:58,160
+我想指导部的人会帮你
+Well, I'm sure the gang at orientation
+
+89
+00:04:58,160 --> 00:04:59,300
+慢慢习惯的
+Will help you settle in.
+
+90
+00:04:59,300 --> 00:05:01,600
+抱歉
+I'm sorry.
+
+91
+00:05:01,600 --> 00:05:02,730
+耽误你了
+I'm keeping you.
+
+92
+00:05:02,730 --> 00:05:03,860
+东南码头  第19层
+Southeast pier, level 19.
+
+93
+00:05:03,860 --> 00:05:05,230
+没有  一点没有
+No, no. not at all.
+
+94
+00:05:05,230 --> 00:05:06,160
+我一直在
+I have all the time in the--
+
+95
+00:05:11,000 --> 00:05:12,660
+就是这儿吧
+This is you, I believe.
+
+96
+00:05:12,660 --> 00:05:14,300
+是啊
+Oh. right.
+
+97
+00:05:14,300 --> 00:05:16,030
+那
+Well.
+
+98
+00:05:16,030 --> 00:05:16,860
+很高兴见到你  博士
+Nice to meet you, doctor.
+
+99
+00:05:16,860 --> 00:05:18,400
+瓦纳萨
+Vanessa.
+
+100
+00:05:18,400 --> 00:05:20,100
+你可以叫我瓦纳萨
+You can call me vanessa.
+
+101
+00:05:20,100 --> 00:05:21,760
+很好
+Very well.
+
+102
+00:05:21,760 --> 00:05:23,500
+很高兴见到你  瓦纳萨
+Nice to meet you, vanessa.
+
+103
+00:05:23,500 --> 00:05:25,200
+谢谢  伍尔希博士
+Thank you, mr. woolsey.
+
+104
+00:05:25,200 --> 00:05:26,500
+其实  你可以叫我
+Actually, you can call me--
+
+105
+00:05:28,330 --> 00:05:29,860
+妈的
+Dick.
+
+106
+00:05:52,400 --> 00:05:55,060
+靠
+Crap.
+
+107
+00:05:59,530 --> 00:06:00,860
+令你大惊小怪的外世宴会呢
+What happened to your off-world foofaraw?
+
+108
+00:06:00,860 --> 00:06:02,200
+我还以为你是
+I thought you were the guest of honor
+
+109
+00:06:02,200 --> 00:06:04,600
+外交晚宴上的贵宾呢
+At some big diplomatic dinner on m2j?
+
+110
+00:06:04,600 --> 00:06:05,730
+本来是的
+Yeah, I was,
+
+111
+00:06:05,730 --> 00:06:07,030
+但宴会提前结束了
+But the festivities ended early
+
+112
+00:06:07,030 --> 00:06:08,560
+多诺万中尉队里的三个人
+When three members of lieutenant donovan's team
+
+113
+00:06:08,560 --> 00:06:10,400
+对我们在宴会上供应的某种食物
+Suffered a severe allergic reaction
+
+114
+00:06:10,400 --> 00:06:12,530
+产生了严重的过敏反应
+To something we were served at the grand banquet.
+
+115
+00:06:13,360 --> 00:06:14,960
+我想可能是
+I think it might have been
+
+116
+00:06:14,960 --> 00:06:17,300
+那种长紫斑的绿浆果有问题
+Those little green berries with the purple specks on them,
+
+117
+00:06:17,300 --> 00:06:19,500
+我吃过后舌头就有点麻
+Because my tongue did feel a little bit numb afterwards--
+
+118
+00:06:19,500 --> 00:06:20,530
+仅供参考
+Yeah, fyi,
+
+119
+00:06:20,530 --> 00:06:22,230
+该对话结束于六秒前
+This conversation ended six seconds ago.
+
+120
+00:06:22,230 --> 00:06:23,430
+好吧  总之
+Yeah, anyway,
+
+121
+00:06:23,430 --> 00:06:25,430
+回来的路上  我有个主意
+On the way back, I had an idea.
+
+122
+00:06:25,430 --> 00:06:26,460
+打个小盹就忘了
+Have a little lie-down. it'll pass.
+
+123
+00:06:26,460 --> 00:06:28,400
+不是
+No, uh...
+
+124
+00:06:28,400 --> 00:06:31,060
+你得听我说
+You should hear me out.
+
+125
+00:06:31,060 --> 00:06:33,330
+我觉得应该扫描下
+I think we should run a scan
+
+126
+00:06:33,330 --> 00:06:34,800
+海底
+Of the ocean floor.
+
+127
+00:06:34,800 --> 00:06:36,630
+我发现城周围的水温
+I've been noticing anomalous temperature variations
+
+128
+00:06:36,630 --> 00:06:38,030
+有异常的变化
+In the waters surrounding the city.
+
+129
+00:06:38,030 --> 00:06:40,230
+需要进一步调查
+I think it bears Further investigation.
+
+130
+00:06:40,230 --> 00:06:41,560
+不用啊
+Not really.
+
+131
+00:06:41,560 --> 00:06:43,430
+听着  我们每天穿越星门
+Look, we head through the gate every day
+
+132
+00:06:43,430 --> 00:06:45,000
+探索远方世界
+Exploring distant worlds,
+
+133
+00:06:45,000 --> 00:06:47,130
+可是除了几个海洋生物学测试
+And yet, with the exception of a few marine biology tests,
+
+134
+00:06:47,130 --> 00:06:49,260
+我们还没弄清
+We have barely scratched the surface
+
+135
+00:06:49,260 --> 00:06:50,300
+自己所在的这个星球
+Of the very planet that we occupy.
+
+136
+00:06:50,300 --> 00:06:51,600
+那是因为这儿风平浪静
+That's 'cause there's nothing there.
+
+137
+00:06:51,600 --> 00:06:53,560
+我的意思是彻底调查一下无伤大雅
+My point is it wouldn't hurt to be thorough.
+
+138
+00:06:53,560 --> 00:06:55,800
+我的意思是你在说废话
+My point is your point is pointless.
+
+139
+00:06:55,800 --> 00:06:57,060
+浪费时间
+And a giant waste of time.
+
+140
+00:07:03,030 --> 00:07:05,700
+该死的
+Aah! dammit.
+
+141
+00:07:16,960 --> 00:07:19,530
+肖  欢迎你
+Xiao, welcome.
+
+142
+00:07:21,830 --> 00:07:24,630
+亚特兰蒂斯欢迎你
+Atlantis welcomes you.
+
+143
+00:07:26,260 --> 00:07:29,360
+十分荣幸能够
+It is with great pride that i--
+
+144
+00:07:32,760 --> 00:07:35,000
+你好  理查德
+Hello, richard.
+
+145
+00:07:35,000 --> 00:07:36,830
+肖
+Xiao.
+
+146
+00:07:36,830 --> 00:07:40,300
+欢迎来到亚特兰蒂斯
+Welcome to atlantis...
+
+147
+00:07:40,300 --> 00:07:42,930
+深感荣幸
+With... great pride.
+
+148
+00:07:42,930 --> 00:07:45,930
+我很期待这次旅行
+I'm looking forward to the grand tour.
+
+149
+00:07:45,930 --> 00:07:47,660
+这样
+Well, then...
+
+150
+00:07:47,660 --> 00:07:48,660
+走么
+Shall we?
+
+151
+00:07:48,660 --> 00:07:50,300
+好的
+Yes.
+
+152
+00:07:59,000 --> 00:08:01,530
+这儿是控制室
+This is the control room--
+
+153
+00:08:01,530 --> 00:08:06,060
+实际上  这里是整个城的中心
+For all intents and purposes, the city's nerve center.
+
+154
+00:08:06,060 --> 00:08:08,400
+技术人员对他们的工作
+These technicians are the very best
+
+155
+00:08:08,400 --> 00:08:10,960
+完成的堪称完美
+At what they do.
+
+156
+00:08:10,960 --> 00:08:13,030
+跆拳道练的怎么样  阿米丽亚
+How's the kickboxing going, amelia?
+
+157
+00:08:13,030 --> 00:08:16,400
+好极了  长官  多谢关心
+Great, sir. thanks for asking.
+
+158
+00:08:16,400 --> 00:08:17,730
+你好啊  恰特
+Hello there, chet.
+
+159
+00:08:17,730 --> 00:08:19,200
+是恰克
+It's chuck.
+
+160
+00:08:19,200 --> 00:08:20,100
+什么
+Excuse me?
+
+161
+00:08:20,100 --> 00:08:22,160
+是恰克  长官  我叫恰克
+It's chuck, sir. my name is chuck.
+
+162
+00:08:22,160 --> 00:08:23,900
+是啊  恰克
+Oh, of course. chuck.
+
+163
+00:08:23,900 --> 00:08:25,700
+恰特是夜班
+Chet's on the late shift.
+
+164
+00:08:29,900 --> 00:08:31,430
+没人叫恰特
+There is no chet.
+
+165
+00:08:32,660 --> 00:08:34,800
+我想改装一下
+I think it would be a simple matter
+
+166
+00:08:34,800 --> 00:08:36,660
+城市的短程传感器应该不难
+Of reconfiguring the city's short-range sensors
+
+167
+00:08:36,660 --> 00:08:37,760
+可以实现
+In order to achieve--
+
+168
+00:08:37,760 --> 00:08:39,360
+我只看到你的嘴唇在动
+You know, I can see your lips moving
+
+169
+00:08:39,360 --> 00:08:40,900
+但没在听你说
+But I'm not hearing any sound.
+
+170
+00:08:40,900 --> 00:08:41,730
+不用一小时
+It would take
+
+171
+00:08:41,730 --> 00:08:43,060
+不用一小时就可以
+It would take less than an hour
+
+172
+00:08:43,060 --> 00:08:45,000
+准备好必要的调整
+To make the necessary adjustments.
+
+173
+00:08:45,000 --> 00:08:46,360
+好吧  知道么
+All right, you know what?
+
+174
+00:08:46,360 --> 00:08:48,200
+如果对你来说真的这么简单这么重要
+If it is so simple and that important to you,
+
+175
+00:08:48,200 --> 00:08:49,630
+你为什么不自己去弄
+Why don't you just go ahead do it yourself?
+
+176
+00:08:49,630 --> 00:08:52,330
+因为我需要得到你的允许
+Because I require your authorization.
+
+177
+00:08:52,330 --> 00:08:53,330
+没问题
+You got it.
+
+178
+00:08:53,330 --> 00:08:54,360
+谢谢  罗德尼
+Thank you, rodney.
+
+179
+00:08:55,360 --> 00:08:57,560
+知道么  你很有可能
+You realize it's highly unlikely
+
+180
+00:08:57,560 --> 00:08:59,030
+一无所获
+You're actually going to find anything.
+
+181
+00:08:59,030 --> 00:09:01,530
+那我就得花一个小时
+Then I would have wasted an hour of my time
+
+182
+00:09:01,530 --> 00:09:03,130
+听你说教"早告诉过你了"
+And you'll be able to tell me "i told you so."
+
+183
+00:09:04,500 --> 00:09:05,730
+另一方面  如果我真的有所发现
+If, on the other hand, I do find something,
+
+184
+00:09:05,730 --> 00:09:09,130
+他们说不定会给我个头衔
+Perhaps they'll name something after me for a change.
+
+185
+00:09:14,000 --> 00:09:16,730
+指挥亚特兰蒂斯的探索工作
+The prospect of commanding the atlantis expedition
+
+186
+00:09:16,730 --> 00:09:17,600
+令人畏惧
+Was a daunting one.
+
+187
+00:09:18,430 --> 00:09:19,400
+韦尔博士和卡特中校
+Dr. weir and colonel carter
+
+188
+00:09:19,400 --> 00:09:21,560
+他们的行为令人捉摸不透
+Were incredibly tough acts to follow.
+
+189
+00:09:21,560 --> 00:09:23,530
+你表现的很好啊  理查德
+Yet you availed yourself nicely, richard.
+
+190
+00:09:23,530 --> 00:09:25,500
+这九个月你都挺过来了
+And you survived your nine months here.
+
+191
+00:09:25,500 --> 00:09:28,030
+我想不仅仅是挺过来吧
+Well, I like to think I've accomplished a little more than mere survival,
+
+192
+00:09:28,030 --> 00:09:29,530
+而且我肯定
+And I'm certain
+
+193
+00:09:29,530 --> 00:09:31,030
+如果你有机会看我的报告
+That once you've had a chance to review my report--
+
+194
+00:09:31,030 --> 00:09:32,700
+没那个必要了
+That won't be necessary.
+
+195
+00:09:32,700 --> 00:09:35,500
+就是说我通过考验了
+So I'm receiving my graduation papers?
+
+196
+00:09:35,500 --> 00:09:37,200
+当然
+Of course.
+
+197
+00:09:38,330 --> 00:09:41,060
+介于你在这儿出色的表现
+In recognition of the great job you've done here,
+
+198
+00:09:41,060 --> 00:09:42,700
+勘察顾问组任命你为
+The i.o.a. is appointing you
+
+199
+00:09:42,700 --> 00:09:46,200
+地球新环境部门的主席
+As chair of earth's new environmental initiative.
+
+200
+00:09:46,200 --> 00:09:47,930
+恭喜你  理查德
+Congratulations, richard.
+
+201
+00:09:47,930 --> 00:09:49,830
+你就要回来了
+You're coming home.
+
+202
+00:09:51,100 --> 00:09:55,260
+好了  短程传感器好了
+All right, short-range sensors are good to go.
+
+203
+00:09:55,260 --> 00:09:57,330
+可以开始扫描了
+Start the sweep.
+
+204
+00:09:57,330 --> 00:09:59,300
+扫描开始
+Sweep initiated.
+
+205
+00:09:59,300 --> 00:10:00,630
+很好
+Great.
+
+206
+00:10:00,630 --> 00:10:01,460
+大概要三十分钟
+So it should take about 30 minutes
+
+207
+00:10:01,460 --> 00:10:03,000
+来扫描整个星球
+To scan the entire planet,
+
+208
+00:10:03,000 --> 00:10:04,360
+也就是说我有大把时间
+Which means I've got plenty of time
+
+209
+00:10:04,360 --> 00:10:05,830
+去一下餐厅
+To get down to the cafeteria,
+
+210
+00:10:05,830 --> 00:10:07,130
+吃点杏仁脆饼
+Get myself some of that fine almond biscotti
+
+211
+00:10:07,130 --> 00:10:08,130
+太棒了
+And a yoohoo,
+
+212
+00:10:08,130 --> 00:10:09,460
+然后准时回来
+And be back in time
+
+213
+00:10:09,460 --> 00:10:10,630
+等你告诉我啥都没发现
+For you to tell me you have found nothing.
+
+214
+00:10:11,560 --> 00:10:13,800
+我们有发现了
+We've found something.
+
+215
+00:10:16,900 --> 00:10:18,800
+是啊  当然了
+Yes, of course we did.
+
+216
+00:10:21,360 --> 00:10:22,630
+无论什么
+Whatever it is,
+
+217
+00:10:22,630 --> 00:10:26,730
+它在海平面以下大概1500尺处
+It's sitting approximately 1,500 feet below sea level.
+
+218
+00:10:55,700 --> 00:10:57,530
+你好  约翰
+Hello, john.
+
+219
+00:11:01,560 --> 00:11:02,930
+克亚
+Kolya?
+
+220
+00:11:08,330 --> 00:11:10,160
+我无法理解你的反应
+I don't understand your reaction.
+
+221
+00:11:10,160 --> 00:11:12,830
+九个月前你是那么害怕到这儿来
+Nine months ago, you were dreading coming over here.
+
+222
+00:11:12,830 --> 00:11:14,560
+九个月可以改变很多东西
+A lot has changed in nine months.
+
+223
+00:11:14,560 --> 00:11:16,760
+我喜欢这里
+I like it here.
+
+224
+00:11:16,760 --> 00:11:18,230
+而且  说实话
+And, quite frankly,
+
+225
+00:11:18,230 --> 00:11:22,830
+我不喜欢半途而废
+I don't like the idea of leaving a job unfinished.
+
+226
+00:11:22,830 --> 00:11:24,430
+我做得很好
+I've done good work.
+
+227
+00:11:24,430 --> 00:11:27,360
+我的记录就是证明
+My record speaks for itself.
+
+228
+00:11:27,360 --> 00:11:29,330
+究竟发生了什么
+What's really going on?
+
+229
+00:11:29,330 --> 00:11:31,560
+勘察顾问组觉得
+The i.o.a. is concerned
+
+230
+00:11:31,560 --> 00:11:34,430
+你做的一些决定
+About some of the decisions you've made,
+
+231
+00:11:34,430 --> 00:11:37,100
+与协议冲突
+Decisions that have run counter to protocol
+
+232
+00:11:37,100 --> 00:11:39,330
+说实话也不合常理
+And, quite frankly, common sense.
+
+233
+00:11:39,330 --> 00:11:42,200
+他们...我们...
+They... we...
+
+234
+00:11:42,200 --> 00:11:43,730
+觉得这个职位对你来说
+Feel that the demands of this position
+
+235
+00:11:43,730 --> 00:11:45,260
+是屈才了
+Have compromised your judgment,
+
+236
+00:11:45,260 --> 00:11:46,930
+是时候做些改变了
+And it's time for a change.
+
+237
+00:11:50,500 --> 00:11:52,100
+这里
+Right here.
+
+238
+00:11:54,500 --> 00:11:57,830
+行了
+That'll do.
+
+239
+00:11:57,830 --> 00:12:00,100
+这东西究竟在下面多久了
+I wonder how long it's been down there.
+
+240
+00:12:00,100 --> 00:12:01,130
+想想  如果我们没发现它
+To think, it would have remained undiscovered
+
+241
+00:12:01,130 --> 00:12:03,960
+如果我们没
+If we hadn't have...
+
+242
+00:12:03,960 --> 00:12:06,230
+短程传感器改装的不错
+Nice job on reconfiguring the short-range sensors.
+
+243
+00:12:06,230 --> 00:12:07,700
+谢谢
+Thank you.
+
+244
+00:12:07,700 --> 00:12:10,100
+推测得也不错
+Nice job on the... wild guess.
+
+245
+00:12:10,100 --> 00:12:11,430
+谢谢
+Thank you.
+
+246
+00:12:11,430 --> 00:12:12,330
+可以开始了么
+Shall we?
+
+247
+00:12:12,330 --> 00:12:13,800
+可以
+Yes.
+
+248
+00:12:14,800 --> 00:12:15,960
+再找找
+Keep looking.
+
+249
+00:12:15,960 --> 00:12:17,030
+他们无处可逃
+There's nowhere for them to go.
+
+250
+00:12:17,030 --> 00:12:18,600
+他们是科学家
+They're scientists.
+
+251
+00:12:18,600 --> 00:12:19,500
+相信我
+Trust me.
+
+252
+00:12:19,500 --> 00:12:22,700
+他们跑不快
+They don't run very fast.
+
+253
+00:12:22,700 --> 00:12:25,100
+你醒了
+Oh, you're awake.
+
+254
+00:12:25,100 --> 00:12:26,660
+留点力气吧
+Save your energy.
+
+255
+00:12:26,660 --> 00:12:30,160
+这次你跑不掉了
+You're not getting away this time.
+
+256
+00:12:30,160 --> 00:12:32,260
+我杀了你
+I killed you.
+
+257
+00:12:32,260 --> 00:12:34,260
+你射中了我  这不一样
+You shot me. there's a difference.
+
+258
+00:12:34,260 --> 00:12:36,400
+不  我杀了你
+No. I killed you.
+
+259
+00:12:36,400 --> 00:12:37,900
+贝克特确认
+Beckett confirmed it.
+
+260
+00:12:37,900 --> 00:12:38,860
+你已经死了
+You were dead.
+
+261
+00:12:38,860 --> 00:12:40,330
+没错  他肯定这么认为
+Yeah, I'm sure that's what he thought.
+
+262
+00:12:40,330 --> 00:12:41,730
+那就说说你的朋友吧
+Let's just say your friend--
+
+263
+00:12:41,730 --> 00:12:42,960
+他叫什么来着  卢休斯
+What was his name? lucius?
+
+264
+00:12:42,960 --> 00:12:44,300
+那天他不是唯一
+He wasn't the only one
+
+265
+00:12:44,300 --> 00:12:47,030
+使用古人技术的
+Using ancient technology that day.
+
+266
+00:12:47,030 --> 00:12:48,660
+你是怎么来这儿的
+How did you get here?
+
+267
+00:12:50,660 --> 00:12:52,700
+你怎么找到我们的
+How did you find us?
+
+268
+00:12:52,700 --> 00:12:55,530
+貌似你的那些外世联系
+Turns out some of your off-world contacts
+
+269
+00:12:55,530 --> 00:12:58,100
+没你想的可信啊
+Aren't as trustworthy as you think.
+
+270
+00:12:58,100 --> 00:13:00,060
+你的秘密泄露了  谢帕德
+Your secret's out, sheppard.
+
+271
+00:13:03,430 --> 00:13:05,360
+朝那个方向走半天
+A half day's walk in that direction
+
+272
+00:13:05,360 --> 00:13:06,830
+就能到达陆地的边缘
+Will bring us to the edge of the mainland.
+
+273
+00:13:06,830 --> 00:13:08,430
+我觉得
+I figure
+
+274
+00:13:08,430 --> 00:13:11,900
+坐船去亚特兰蒂斯可能要两天
+It'll take us maybe two days to reach atlantis by boat.
+
+275
+00:13:13,730 --> 00:13:15,330
+你连城都进不去
+You won't even get to the city.
+
+276
+00:13:15,330 --> 00:13:16,900
+他们会直接把你吹飞的
+They're going to blow you out of the water.
+
+277
+00:13:16,900 --> 00:13:19,200
+不会的  他们根本看不到我们来
+No. they won't even see us coming.
+
+278
+00:13:19,200 --> 00:13:21,800
+他们会忙着数死尸
+They'll be too busy counting their dead.
+
+279
+00:13:21,800 --> 00:13:24,860
+你要干什么
+What are you going to do?
+
+280
+00:13:28,030 --> 00:13:30,660
+通过星门送点炸药
+Send an explosive through your gate,
+
+281
+00:13:30,660 --> 00:13:32,160
+瓦解城里的防御
+Cripple the city's defenses.
+
+282
+00:13:32,160 --> 00:13:33,500
+为此
+But for that,
+
+283
+00:13:33,500 --> 00:13:35,100
+我得问你要点东西
+I'm going to need something from you.
+
+284
+00:13:35,100 --> 00:13:39,830
+我想你称之为虹膜解除码
+I think you call it an idc.
+
+285
+00:13:39,830 --> 00:13:40,660
+去死吧
+Go to hell.
+
+286
+00:13:40,660 --> 00:13:42,100
+没错
+Yeah,
+
+287
+00:13:42,100 --> 00:13:43,860
+我就知道你需要劝劝
+I thought you would need some convincing.
+
+288
+00:13:58,300 --> 00:14:00,430
+康拉德博士  瓦纳萨
+Dr. conrad. vanessa.
+
+289
+00:14:00,430 --> 00:14:01,430
+进来吧
+Come in.
+
+290
+00:14:01,430 --> 00:14:02,430
+希望没打搅到你
+I hope I'm not intruding.
+
+291
+00:14:02,430 --> 00:14:03,900
+当然不会  什么风把你吹来的
+Not at all. what brings you by?
+
+292
+00:14:03,900 --> 00:14:05,400
+也许这不太合适
+This may be wholly inappropriate,
+
+293
+00:14:05,400 --> 00:14:06,630
+但是我想知道
+But I was wondering
+
+294
+00:14:06,630 --> 00:14:07,630
+你想不想一起看电影
+Whether you'd like to catch a movie.
+
+295
+00:14:07,630 --> 00:14:09,200
+电影
+A movie?
+
+296
+00:14:09,200 --> 00:14:10,300
+今晚在放我最喜欢的两部
+They're screening two of my favorites tonight--
+
+297
+00:14:10,300 --> 00:14:11,960
+《一路顺风》
+Planes, trains, and automobiles
+
+298
+00:14:11,960 --> 00:14:13,260
+《偷心大少》
+And  dirty rotten scoundrels.
+
+299
+00:14:14,260 --> 00:14:16,800
+说实话
+Truth be told,
+
+300
+00:14:16,800 --> 00:14:18,430
+我今天很不爽
+I'm having a horrible day
+
+301
+00:14:18,430 --> 00:14:19,860
+没心情笑了
+And I'm not in much of a laughing mood.
+
+302
+00:14:19,860 --> 00:14:21,530
+那就等到明天吧
+Then we can wait until tomorrow
+
+303
+00:14:21,530 --> 00:14:23,300
+明天要放《女为财死》和《袋鼠杰克》
+When they'll be screening mad money and  kangaroo jack.
+
+304
+00:14:27,860 --> 00:14:30,160
+你想聊点什么吗
+Is it something you'd like to talk about?
+
+305
+00:14:30,160 --> 00:14:34,000
+看来我们没空聊了
+It seems the time for talk has passed.
+
+306
+00:14:34,000 --> 00:14:35,430
+我刚刚收到通知
+I've just been informed
+
+307
+00:14:35,430 --> 00:14:36,900
+我不能在亚特兰蒂斯
+That I'm being relieved of my command
+
+308
+00:14:36,900 --> 00:14:38,300
+继续指挥了
+Here on atlantis.
+
+309
+00:14:38,300 --> 00:14:40,500
+对不起
+I'm sorry.
+
+310
+00:14:40,500 --> 00:14:41,730
+为什么
+Why?
+
+311
+00:14:41,730 --> 00:14:46,360
+显然  我在不够循规蹈矩
+Apparently, I'm not very good at toeing the company line.
+
+312
+00:14:46,360 --> 00:14:47,760
+我以为我得到这个职位
+I assumed I got this position
+
+313
+00:14:47,760 --> 00:14:49,160
+是因为我的记录良好
+on the strength of my record.
+
+314
+00:14:49,160 --> 00:14:50,330
+但很明显
+But now it's clear
+
+315
+00:14:50,330 --> 00:14:51,960
+他们指派我的原因
+That the only reason they appointed me
+
+316
+00:14:51,960 --> 00:14:53,460
+是因为他们希望
+Is because they expected
+
+317
+00:14:53,460 --> 00:14:55,360
+我会向他们妥协
+I would just roll over for them.
+
+318
+00:14:55,360 --> 00:14:56,900
+那就别
+Then don't.
+
+319
+00:14:56,900 --> 00:14:58,130
+什么
+What?
+
+320
+00:14:58,130 --> 00:15:00,330
+别向他们妥协
+Don't roll over for them.
+
+321
+00:15:00,330 --> 00:15:01,330
+反抗
+Fight this.
+
+322
+00:15:01,330 --> 00:15:02,700
+我不能
+I can't.
+
+323
+00:15:02,700 --> 00:15:04,100
+已经决定了
+The decision's been made.
+
+324
+00:15:04,100 --> 00:15:06,230
+如果真是这样
+If that was true,
+
+325
+00:15:06,230 --> 00:15:08,630
+那他们为什么不直接通知你
+Then why didn't they just forward you a communique
+
+326
+00:15:08,630 --> 00:15:09,830
+而是派人花三周时间
+Instead of sending a mouthpiece
+
+327
+00:15:09,830 --> 00:15:12,430
+赶到飞马座星系转告你呢
+On a three-week journey to the pegasus galaxy?
+
+328
+00:15:24,200 --> 00:15:25,730
+你真的指望
+Did you really expect me
+
+329
+00:15:25,730 --> 00:15:29,360
+我一点都不反抗就放弃么
+To just give up without a fight?
+
+330
+00:15:29,360 --> 00:15:30,730
+老实说  是的
+Honestly? yes.
+
+331
+00:15:30,730 --> 00:15:33,960
+我以为这件事你会用常识去处理
+I assumed you'd let common sense Guide you on this one.
+
+332
+00:15:33,960 --> 00:15:35,260
+你不是来解雇我的
+You weren't sent here to fire me.
+
+333
+00:15:35,260 --> 00:15:37,900
+你是来评估我的表现的
+You were sent here to evaluate my performance
+
+334
+00:15:37,900 --> 00:15:40,860
+然后根据评估作推荐
+And make a recommendation based on your findings.
+
+335
+00:15:40,860 --> 00:15:43,760
+勘察顾问组也许早有想法
+The i.o.a. may be leaning a certain way,
+
+336
+00:15:43,760 --> 00:15:44,700
+但他们尚未对我的命运
+But they have yet to make a decision
+
+337
+00:15:44,700 --> 00:15:46,060
+作出决定
+On my fate.
+
+338
+00:15:46,060 --> 00:15:51,760
+但你  作为代表已经做出决定
+Yet you, their representative, clearly have...
+
+339
+00:15:54,430 --> 00:15:55,960
+这让我觉得
+Which leads me to assume
+
+340
+00:15:55,960 --> 00:15:58,030
+其中另有隐情
+Something else is going on here.
+
+341
+00:15:58,030 --> 00:16:01,260
+勘察顾问组中的某个人
+Someone in the i.o.a.
+
+342
+00:16:01,260 --> 00:16:02,860
+想赶我走
+Wants me gone
+
+343
+00:16:02,860 --> 00:16:05,900
+他利用你赶我走
+And is using you to make sure that happens.
+
+344
+00:16:08,530 --> 00:16:11,300
+告诉我吧  肖
+Tell me, xiao.
+
+345
+00:16:11,300 --> 00:16:12,360
+你收了什么好处
+What are you getting in return?
+
+346
+00:16:20,330 --> 00:16:22,530
+是我的职位  对吗
+It's my job, isn't it?
+
+347
+00:16:23,830 --> 00:16:26,300
+他们许诺让你做亚特兰蒂斯的指挥官
+They've promised you the atlantis command
+
+348
+00:16:26,300 --> 00:16:28,560
+只要你赶走了我
+If you help them get rid of me?
+
+349
+00:16:29,360 --> 00:16:32,360
+这就简单多了
+This will all go a lot easier
+
+350
+00:16:32,360 --> 00:16:34,360
+只要你接受事实
+If you just accept where this is going--
+
+351
+00:16:34,360 --> 00:16:35,660
+我会才怪
+The hell I will.
+
+352
+00:16:35,660 --> 00:16:37,330
+理查德  一切都在我掌控中
+Richard, I hold all the cards.
+
+353
+00:16:37,330 --> 00:16:39,200
+我有决定权
+The decision is in my hands.
+
+354
+00:16:39,200 --> 00:16:40,860
+这场仗你赢不了
+This is a fight you cannot win.
+
+355
+00:16:54,500 --> 00:16:57,900
+你是我认识的最能忍的人
+You can tolerate more than any man I've ever known.
+
+356
+00:16:57,900 --> 00:16:59,730
+为什么
+Now, why is that?
+
+357
+00:16:59,730 --> 00:17:03,030
+我结过婚
+Well, I was married once.
+
+358
+00:17:07,600 --> 00:17:09,530
+你在飞马座星系中
+You're here in the pegasus galaxy
+
+359
+00:17:09,530 --> 00:17:11,930
+保卫你的人民
+To protect your people,
+
+360
+00:17:11,930 --> 00:17:13,630
+但大部分时间你是徒劳
+But half the time, you can't even do that.
+
+361
+00:17:13,630 --> 00:17:18,300
+这就是你的动力吧
+That's what drives you, isn't it?
+
+362
+00:17:18,300 --> 00:17:19,460
+你曾经的失败
+Your past failures.
+
+363
+00:17:25,330 --> 00:17:28,060
+你觉得不给我虹膜解除码
+do you think By not giving me the idc
+
+364
+00:17:28,060 --> 00:17:30,030
+就能保住你的人民吗
+You're keeping your people safe?
+
+365
+00:17:30,030 --> 00:17:32,260
+你只是在做无谓的反抗
+You are just putting of the inevitable.
+
+366
+00:17:32,260 --> 00:17:34,430
+都完了
+It's over
+
+367
+00:17:34,430 --> 00:17:36,060
+你保护不了他们
+You can't protect them.
+
+368
+00:17:36,060 --> 00:17:38,060
+你和那些科学家
+You, those scientists,
+
+369
+00:17:38,060 --> 00:17:40,830
+在亚特兰蒂斯的朋友
+Your friends back at atlantis--
+
+370
+00:17:40,830 --> 00:17:42,030
+他们就要死了
+They're as good as dead.
+
+371
+00:17:45,760 --> 00:17:50,400
+敬酒不吃吃罚酒
+Well, I see that asking nice isn't working.
+
+372
+00:17:50,400 --> 00:17:53,360
+我得改变计划了
+I'm going to have to make other plans.
+
+373
+00:17:55,600 --> 00:17:57,700
+我的位置  来两个人
+Two men report to my position.
+
+374
+00:17:57,700 --> 00:17:59,360
+马上到
+On our way.
+
+375
+00:18:01,500 --> 00:18:03,930
+几分钟之后
+In a couple of minutes,
+
+376
+00:18:03,930 --> 00:18:07,100
+你就会求着给我虹膜解除码了
+You're going to wish you'd given me that idc.
+
+377
+00:18:09,660 --> 00:18:11,430
+忙什么呢
+What are you working on?
+
+378
+00:18:11,430 --> 00:18:12,700
+根据这个
+According to this,
+
+379
+00:18:12,700 --> 00:18:14,660
+这个装置正以振动形式
+The device is emitting a low-level energy signature
+
+380
+00:18:14,660 --> 00:18:16,530
+发射低能量的信号
+In an oscillating pattern.
+
+381
+00:18:16,530 --> 00:18:17,630
+危险么
+Is it dangerous?
+
+382
+00:18:17,630 --> 00:18:18,900
+不  辐射很小  但
+No. radiation's minimal, but--
+
+383
+00:18:18,900 --> 00:18:20,230
+这不重要
+Unimportant.
+
+384
+00:18:20,230 --> 00:18:21,560
+我们应该主要看数据
+We should be focusing on the data.
+
+385
+00:18:21,560 --> 00:18:23,160
+我有啊
+I was.
+
+386
+00:18:24,130 --> 00:18:25,860
+我已经尽我所能
+Like, I've run every kind of decrypt sweep
+
+387
+00:18:25,860 --> 00:18:27,160
+进行了解码扫描
+I can think of at this thing.
+
+388
+00:18:27,160 --> 00:18:28,160
+还是一无所获
+Still nothing.
+
+389
+00:18:28,160 --> 00:18:29,530
+我思维枯竭了
+I don't know what to do.
+
+390
+00:18:29,530 --> 00:18:30,100
+你会想到怎么办的
+Oh, you'll think of something.
+
+391
+00:18:30,100 --> 00:18:31,130
+真的
+Really?
+
+392
+00:18:31,130 --> 00:18:32,200
+为什么这么肯定
+What makes you so sure?
+
+393
+00:18:32,200 --> 00:18:34,660
+因为你聪明绝顶
+Oh, because you're brilliant.
+
+394
+00:18:34,660 --> 00:18:36,030
+这倒是真的  但也不是说...
+That's true. Doesn't mean I'm going to--
+
+395
+00:18:36,030 --> 00:18:37,500
+等等  你刚刚说什么
+Wait a minute. What did you say?
+
+396
+00:18:37,500 --> 00:18:38,660
+为什么这么说  你病了么
+Why did you say that? What are you, sick?
+
+397
+00:18:38,660 --> 00:18:39,630
+还是我病了
+Am I sick?
+
+398
+00:18:39,630 --> 00:18:40,530
+你听到什么了
+What've you heard?
+
+399
+00:18:40,530 --> 00:18:42,560
+没人病了  罗德尼
+No, nobody's sick, Rodney.
+
+400
+00:18:42,560 --> 00:18:46,160
+我说你聪明绝顶  因为你就是
+I said you were brilliant because... because you are.
+
+401
+00:18:46,900 --> 00:18:48,500
+我很少说
+I rarely say it
+
+402
+00:18:48,500 --> 00:18:49,900
+是因为你不好恭维
+because you're a difficult man to compliment.
+
+403
+00:18:49,900 --> 00:18:51,700
+你骄傲  自负  顽固...
+You're egotistical, you're arrogant, stubborn--
+
+404
+00:18:51,700 --> 00:18:53,160
+但还是聪明绝顶
+And brilliant.
+
+405
+00:18:53,160 --> 00:18:55,200
+是的  罗德尼
+Yes, Rodney.
+
+406
+00:18:55,200 --> 00:18:56,200
+聪明绝顶
+And brilliant.
+
+407
+00:18:56,200 --> 00:18:57,360
+谢谢了
+Thanks.
+
+408
+00:18:57,360 --> 00:18:59,160
+搬张椅子过来  瑞迪克
+Well, pull up a chair, Radek.
+
+409
+00:18:59,160 --> 00:19:01,630
+我们有活儿干了
+We've got some work to do.
+
+410
+00:19:01,630 --> 00:19:03,900
+好的...
+All right...
+
+411
+00:19:03,900 --> 00:19:05,560
+告诉我B计划是什么
+Tell me what plan B is,
+
+412
+00:19:05,560 --> 00:19:08,930
+还是你想给我一个惊喜
+Or are you just going to surprise me?
+
+413
+00:19:08,930 --> 00:19:10,500
+我会派人你修理
+I'm going to have my men repair the damage
+
+414
+00:19:10,500 --> 00:19:12,360
+你那艘被他们弄坏的飞船
+they did to your puddle jumper,
+
+415
+00:19:12,360 --> 00:19:14,230
+顺便用来攻城
+Then use it to attack the city.
+
+416
+00:19:14,230 --> 00:19:16,530
+我不想泼你冷水
+Well, I hate to be Mr. Negative,
+
+417
+00:19:16,530 --> 00:19:17,900
+但你们至少
+But I can think of
+
+418
+00:19:17,900 --> 00:19:19,660
+会遇到一个问题
+at least one problem you're going to run into.
+
+419
+00:19:19,660 --> 00:19:21,700
+我知道  我很清楚开飞船
+Yes, I know all about the ancient gene
+
+420
+00:19:21,700 --> 00:19:22,800
+需要古人基因
+needed to operate the jumper.
+
+421
+00:19:22,800 --> 00:19:26,000
+但那不成问题
+But that's not going to be a problem
+
+422
+00:19:26,000 --> 00:19:28,300
+你可以助我们一臂之力
+because you're going to give us a hand.
+
+423
+00:19:28,300 --> 00:19:29,300
+抓住他
+Hold him.
+
+424
+00:19:38,030 --> 00:19:40,030
+最后一次机会  小约翰
+Last chance, Johnny boy.
+
+425
+00:19:40,030 --> 00:19:42,260
+给不给我虹膜解除码
+You going to give me that idc?
+
+426
+00:19:47,030 --> 00:19:48,260
+看是不给了
+Didn't think so.
+
+427
+00:20:11,030 --> 00:20:12,830
+你真有意思  谢帕德
+You're an interesting man, Sheppard.
+
+428
+00:20:12,830 --> 00:20:15,030
+一路来到另一个星系
+You travel to another galaxy,
+
+429
+00:20:15,030 --> 00:20:17,100
+不惜自己的生命来保护一群
+Risk your life defending a bunch of people
+
+430
+00:20:17,100 --> 00:20:18,500
+你甚至不认识的人
+you don't even know.
+
+431
+00:20:18,500 --> 00:20:20,200
+如果你问我
+If you ask me,
+
+432
+00:20:20,200 --> 00:20:22,260
+你是视死如归呢
+You're either someone with a death wish
+
+433
+00:20:22,260 --> 00:20:26,460
+还是要逃避什么
+or someone running away from something.
+
+434
+00:20:26,460 --> 00:20:28,600
+告诉我
+So tell me,
+
+435
+00:20:28,600 --> 00:20:30,530
+你在逃避什么
+what are you running away from?
+
+436
+00:20:33,800 --> 00:20:35,160
+你去哪儿了
+Where have you been?
+
+437
+00:20:35,160 --> 00:20:36,700
+到处都去了
+All over.
+
+438
+00:20:36,700 --> 00:20:38,230
+这个装置发出的电磁辐射
+The electromagnetic radiation this device is giving off
+
+439
+00:20:38,230 --> 00:20:40,600
+覆盖了整个城  甚至外围
+Covers the entire city and well beyond.
+
+440
+00:20:40,600 --> 00:20:41,900
+你不是说不危险么
+I thought you said it wasn't dangerous.
+
+441
+00:20:41,900 --> 00:20:43,500
+是不危险  至少根据这个...
+Oh, it's not. At least, according to this--
+
+442
+00:20:43,500 --> 00:20:45,300
+它运作的频率很低
+It's operating at a relatively low frequency.
+
+443
+00:20:45,300 --> 00:20:46,330
+我觉得  顶多
+I think, at worst,
+
+444
+00:20:46,330 --> 00:20:47,930
+会引起一些人头疼
+Some people may experience headaches
+
+445
+00:20:47,930 --> 00:20:49,160
+或失眠
+Or trouble sleeping--
+
+446
+00:20:49,160 --> 00:20:51,460
+那就在睡觉前关了它
+Well, then, we'll shut it off before bedtime.
+
+447
+00:20:51,460 --> 00:20:52,660
+同时
+In the meantime,
+
+448
+00:20:52,660 --> 00:20:54,500
+你得看看这些数据
+You should be focusing on the data.
+
+449
+00:20:54,500 --> 00:20:56,460
+我没看出什么
+I'm not getting anywhere with that.
+
+450
+00:20:56,460 --> 00:20:59,230
+尽管说我是个天才
+I mean, despite the fact that I am a genius.
+
+451
+00:20:59,230 --> 00:21:01,600
+我说你聪明绝顶  但没说你是个天才
+I said you were brilliant. I didn't say you were a genius.
+
+452
+00:21:01,600 --> 00:21:03,100
+没差
+Aw, same diff.
+
+453
+00:21:03,100 --> 00:21:04,160
+我不明白
+I don't get it.
+
+454
+00:21:04,160 --> 00:21:06,660
+这些密码看上去比我们以往
+You know, this script appears to be a lot less complicated
+
+455
+00:21:06,660 --> 00:21:07,660
+遇到要简单得多
+than many we've encountered.
+
+456
+00:21:07,660 --> 00:21:09,100
+只有12个字符
+It's only 12 symbols
+
+457
+00:21:09,100 --> 00:21:10,560
+不停地重复不同的组合
+in an endlessly repeating yet varying sequences.
+
+458
+00:21:10,560 --> 00:21:11,400
+是啊
+Yeah.
+
+459
+00:21:11,400 --> 00:21:13,300
+我同意
+I agree.
+
+460
+00:21:13,300 --> 00:21:14,360
+很奇怪
+It's very curious.
+
+461
+00:21:14,360 --> 00:21:17,030
+就好像要破解外星人的
+It's like being asked to figure out the password
+
+462
+00:21:17,030 --> 00:21:20,200
+电脑密码一样
+For an alien laptop or something.
+
+463
+00:21:20,200 --> 00:21:21,160
+我觉得如果我们...
+I think that if we--
+
+464
+00:21:21,160 --> 00:21:23,800
+怎么了  你在干什么
+What? What are you doing?
+
+465
+00:21:23,800 --> 00:21:26,160
+我在破解外星人的密码
+I'm figuring out the alien's password.
+
+466
+00:21:26,160 --> 00:21:27,230
+罗德尼  我开玩笑的
+Rodney, I was kidding.
+
+467
+00:21:27,230 --> 00:21:28,730
+不  有点道理...
+No, it makes sense--
+
+468
+00:21:28,730 --> 00:21:30,300
+连小孩都用口令保护电脑
+Every kid with a computer password-protects.
+
+469
+00:21:30,300 --> 00:21:31,760
+或许外星人也用
+Why wouldn't an alien?
+
+470
+00:21:34,330 --> 00:21:35,230
+有了
+There.
+
+471
+00:21:36,500 --> 00:21:37,600
+为什么我之前没注意到
+Why didn't I see that before?
+
+472
+00:21:37,600 --> 00:21:38,730
+什么
+What?
+
+473
+00:21:38,730 --> 00:21:39,960
+文字不是重点
+The pattern isn't in the text.
+
+474
+00:21:39,960 --> 00:21:41,260
+关键是文本中的空白
+It's in the spaces in between the text,
+
+475
+00:21:41,260 --> 00:21:43,060
+每个都是12个字符长
+Each exactly 12 symbols in length.
+
+476
+00:21:43,060 --> 00:21:45,460
+每段文本长都是12的倍数
+Each section of text is a multiple of 12--
+
+477
+00:21:45,460 --> 00:21:46,660
+24  48  96
+24, 48, 96...
+
+478
+00:21:46,660 --> 00:21:49,200
+之间有12个字符长的空白
+Separated by a 12-symbol space.
+
+479
+00:21:49,200 --> 00:21:51,930
+是个猜谜
+Look, it's-- it's a puzzle.
+
+480
+00:21:51,930 --> 00:21:52,930
+这是个提示
+It's a prompt.
+
+481
+00:21:52,930 --> 00:21:54,030
+你在干什么
+What are you doing?
+
+482
+00:21:54,030 --> 00:21:54,960
+用模式识别软件
+Running pattern recognition software
+
+483
+00:21:54,960 --> 00:21:56,300
+处理这12字符序列
+on the 12-symbol sequence.
+
+484
+00:21:56,300 --> 00:21:58,500
+最好能找出一个12字符的组合
+Hopefully I can come up with a 12-symbol permutation
+
+485
+00:21:58,500 --> 00:22:00,730
+能让我进入装置系统
+that I can feed directly back into the device.
+
+486
+00:22:00,730 --> 00:22:02,060
+如果我是对的...
+And if I'm right--
+
+487
+00:22:02,060 --> 00:22:04,130
+如果我们是对的...
+If we're right--
+
+488
+00:22:04,130 --> 00:22:06,600
+就能进入外星人的电脑
+We unlock the alien laptop.
+
+489
+00:22:16,500 --> 00:22:18,060
+你占了我的秘密领地
+You poached my private spot.
+
+490
+00:22:18,060 --> 00:22:19,700
+什么
+What?
+
+491
+00:22:19,700 --> 00:22:22,260
+我是说...
+Uh... what I meant to say is
+
+492
+00:22:22,260 --> 00:22:24,160
+你发现了我的秘密基地
+You discovered my little personal area.
+
+493
+00:22:28,130 --> 00:22:30,430
+我想独自思考问题时就来这儿
+This is where I come to be alone with my thoughts.
+
+494
+00:22:30,430 --> 00:22:32,630
+不介意分享吧
+Do you mind sharing it?
+
+495
+00:22:32,630 --> 00:22:34,530
+当然不
+Not at all.
+
+496
+00:22:37,760 --> 00:22:39,100
+这里很美
+It's beautiful.
+
+497
+00:22:42,400 --> 00:22:46,400
+真希望能永远呆在这儿
+I wish I could stay here forever.
+
+498
+00:22:46,400 --> 00:22:47,900
+顺便说一句
+By the way,
+
+499
+00:22:47,900 --> 00:22:50,000
+我想谢谢你  为今天的事
+I wanted to thank you for earlier today.
+
+500
+00:22:51,630 --> 00:22:53,260
+我听了你的建议
+I took your advice.
+
+501
+00:22:53,260 --> 00:22:55,100
+他们让步了
+Are they backing down?
+
+502
+00:22:55,100 --> 00:22:56,660
+也不是
+Unlikely.
+
+503
+00:22:56,660 --> 00:22:58,130
+但至少
+But at the very least,
+
+504
+00:22:58,130 --> 00:23:01,700
+我可以大摇大摆的离开了
+I have the satisfaction of knowing I went out swinging.
+
+505
+00:23:04,100 --> 00:23:05,430
+你是个好人  理查德
+You're a good man, richard.
+
+506
+00:23:07,160 --> 00:23:09,030
+我真希望他们能看到这点
+I really wish they could see that.
+
+507
+00:23:11,100 --> 00:23:13,360
+瓦纳萨  要不要和我一起吃晚饭
+Vanessa, would you like to have dinner with me tonight?
+
+508
+00:23:15,000 --> 00:23:16,960
+这是我的荣幸
+It would be my pleasure.
+
+509
+00:23:19,030 --> 00:23:20,930
+太好了
+Wonderful.
+
+510
+00:23:20,930 --> 00:23:22,530
+那我什么时候来大摇大摆的来接你
+What time should I swing by to pick you up?
+
+511
+00:23:22,530 --> 00:23:27,130
+我想偶遇会更好
+It might be easier if we just met up.
+
+512
+00:23:27,130 --> 00:23:29,500
+伍尔希先生  你的传呼
+Mr. Woolsey, you're off radio.
+
+513
+00:23:29,500 --> 00:23:31,900
+麦凯博士要求马上见你
+Dr. Mckay needs to see you right away.
+
+514
+00:23:42,800 --> 00:23:44,560
+这记录了一个消失文明的
+That is the historical, scientific,
+
+515
+00:23:44,560 --> 00:23:47,800
+历史  科学  科技
+and technological records of an extinct civilization,
+
+516
+00:23:47,800 --> 00:23:49,560
+如果这个装置预示着什么
+And if this device is any indication,
+
+517
+00:23:49,560 --> 00:23:51,560
+一定是很先进的
+a highly advanced one at that.
+
+518
+00:23:51,560 --> 00:23:52,600
+比如  医学上的重大突破
+I mean, medical breakthroughs,
+
+519
+00:23:52,600 --> 00:23:54,460
+先进武器的使用说明
+Specifications for advanced weaponry--
+
+520
+00:23:54,460 --> 00:23:55,360
+这太不可思议了
+This is incredible.
+
+521
+00:23:55,360 --> 00:23:57,960
+是啊
+It... is.
+
+522
+00:23:57,960 --> 00:23:59,100
+我嗅到了"但是"
+I sense a "but".
+
+523
+00:23:59,100 --> 00:24:00,000
+不不不
+No, no, no. no, no, no.
+
+524
+00:24:00,000 --> 00:24:01,260
+没有"但是"
+No "buts".
+
+525
+00:24:01,260 --> 00:24:02,830
+顶多有个"顺便说一句"
+A "by the way", maybe.
+
+526
+00:24:02,830 --> 00:24:03,930
+我听着呢
+I'm listening.
+
+527
+00:24:03,930 --> 00:24:05,560
+就像我说的  这个装置里记录了
+Like I said, the device contains the records
+
+528
+00:24:05,560 --> 00:24:07,960
+一个消失很久的文明
+For a long-dead civilization.
+
+529
+00:24:07,960 --> 00:24:09,860
+但也同时含有构成硅基生命形式的
+But it also contains the chemical building blocks
+
+530
+00:24:09,860 --> 00:24:12,030
+化学基础物质
+For a silicon-based lifeform.
+
+531
+00:24:12,030 --> 00:24:13,360
+什么意思
+What does that mean?
+
+532
+00:24:13,360 --> 00:24:15,200
+这个装置是用来
+This device was designed
+
+533
+00:24:15,200 --> 00:24:16,760
+在星球上播撒种子
+to seed planets with organisms
+
+534
+00:24:16,760 --> 00:24:19,660
+而这些种子会进化成为一种有意识的种族
+That would, in time, evolve into a sentient race.
+
+535
+00:24:19,660 --> 00:24:20,960
+当该种族发展到
+Once that sentient race
+
+536
+00:24:20,960 --> 00:24:23,200
+一定的智能水平
+Reached a certain level of intellectual maturity,
+
+537
+00:24:23,200 --> 00:24:24,600
+他们就可以受益于
+They could then benefit
+
+538
+00:24:24,600 --> 00:24:27,560
+祖先留下的信息
+From the information left for them by their extinct ancestors.
+
+539
+00:24:27,560 --> 00:24:29,000
+然后怎么样
+So what happened?
+
+540
+00:24:29,000 --> 00:24:30,900
+不知道
+I'm not sure.
+
+541
+00:24:30,900 --> 00:24:32,600
+很明显  他们还没有完成旅程
+Obviously, they didn't complete their journey.
+
+542
+00:24:32,600 --> 00:24:34,000
+就被我们捞上来了
+They ended up here instead.
+
+543
+00:24:34,000 --> 00:24:35,900
+在代达罗斯号的帮助下
+Still, with the help of the daedalus,
+
+544
+00:24:35,900 --> 00:24:37,130
+我们可以肯定
+We could ensure
+
+545
+00:24:37,130 --> 00:24:40,130
+他最终抵达了目的地
+That it finally reached its target destination.
+
+546
+00:24:40,130 --> 00:24:44,230
+好吧  复制下数据就把它送回去
+Okay, let's copy the data and then send it on its way.
+
+547
+00:24:44,230 --> 00:24:46,560
+马上就要"顺便提一句"了
+Which is where the "oh, by the way" comes in.
+
+548
+00:24:46,560 --> 00:24:49,330
+这个装置的设置
+Look, this device is set up in such a way
+
+549
+00:24:49,330 --> 00:24:50,400
+是一旦读取数据
+that accessing the data
+
+550
+00:24:50,400 --> 00:24:53,500
+就会对生物样本造成不可挽回的伤害
+would do irreparable damage to the biological samples.
+
+551
+00:24:53,500 --> 00:24:54,960
+也就是说  要么要么
+In other words, it's either/or?
+
+552
+00:24:54,960 --> 00:24:59,200
+要么读取数据  要么把它送回去
+Either we take the data or we send it on its way.
+
+553
+00:24:59,200 --> 00:25:01,300
+不可兼得
+We can't do both.
+
+554
+00:25:05,060 --> 00:25:07,460
+你真让我失望  约翰
+You disappoint me, John.
+
+555
+00:25:07,460 --> 00:25:10,660
+我觉得你不是这么容易被打倒的
+I didn't think you'd be this easy to break.
+
+556
+00:25:10,660 --> 00:25:12,130
+即便是和你一起来的两个科学家
+Even those two scientists you came with
+
+557
+00:25:12,130 --> 00:25:13,260
+在被杀之前
+put up more of a fight--
+
+558
+00:25:13,260 --> 00:25:15,460
+都能负隅顽抗一下
+Before we killed them.
+
+559
+00:25:16,730 --> 00:25:20,330
+又葬送了两条命
+Just another two you couldn't save.
+
+560
+00:25:20,330 --> 00:25:21,760
+搞定了
+We're done.
+
+561
+00:25:23,000 --> 00:25:24,100
+能运作么
+It's operational?
+
+562
+00:25:24,100 --> 00:25:27,160
+能  我们用基因物质将其初始化
+Yes, we used the genetic material to initiate it.
+
+563
+00:25:27,160 --> 00:25:28,960
+听到了么  谢帕德
+You hear that, sheppard?
+
+564
+00:25:28,960 --> 00:25:30,900
+我们搞定飞船了
+We've got the jumper--
+
+565
+00:25:30,900 --> 00:25:32,430
+长官  我们可以搞定亚特兰蒂斯后
+Sir, we can come back and deal with him
+
+566
+00:25:32,430 --> 00:25:33,600
+再回来解决他
+once we're done with Atlantis.
+
+567
+00:25:33,600 --> 00:25:34,700
+不行
+No.
+
+568
+00:25:34,700 --> 00:25:35,730
+得先解决他
+We deal with him now.
+
+569
+00:25:35,730 --> 00:25:38,500
+找出来  杀了他
+Find him and kill him.
+
+570
+00:25:42,660 --> 00:25:44,900
+你好  艾伦
+Hello, Ellen.
+
+571
+00:25:44,900 --> 00:25:47,430
+你好  路人甲
+Hello... you.
+
+572
+00:25:47,430 --> 00:25:49,700
+阿米丽亚  能不能帮我个忙
+Amelia, could you please do me a favor
+
+573
+00:25:49,700 --> 00:25:52,460
+给瓦纳萨·康拉德博士发个消息
+and pass on a message to Dr. Vanessa Conrad?
+
+574
+00:25:52,460 --> 00:25:54,000
+她住在科学公寓里
+She's in one of the science departments.
+
+575
+00:25:54,000 --> 00:25:55,600
+转告她
+Please tell her that,
+
+576
+00:25:55,600 --> 00:25:57,500
+因为麦凯博士发现
+Given Dr. Mckay's recent findings,
+
+577
+00:25:57,500 --> 00:26:01,100
+我们共进晚餐的事需要另行安排
+We may have to reschedule our dinner tonight.
+
+578
+00:26:03,260 --> 00:26:04,530
+康拉德医生  长官  你确定吗
+Dr. conrad? are you sure, sir?
+
+579
+00:26:04,530 --> 00:26:06,700
+倒不如
+Better yet,
+
+580
+00:26:06,700 --> 00:26:08,360
+你告诉我她住在哪儿好了
+Why don't you just tell me where her quarters are?
+
+581
+00:26:08,360 --> 00:26:11,900
+我亲自跟她说比较好
+I suppose it's only proper that I tell her personally.
+
+582
+00:26:11,900 --> 00:26:13,700
+没有资料  长官
+There's nothing here, sir.
+
+583
+00:26:13,700 --> 00:26:15,500
+还没给她安排住处么
+She hasn't been assigned quarters yet?
+
+584
+00:26:15,500 --> 00:26:18,700
+根据记录  亚特兰蒂斯没有叫康拉德的博士
+No sir, according to this,there is no Dr. conrad on atlantis
+
+585
+00:26:43,730 --> 00:26:45,900
+阿米丽亚  我说的是早些时候
+Amelia, the woman I was talking to
+
+586
+00:26:45,900 --> 00:26:48,530
+你来找我时  和我说话那个女的
+When you approached me earlier today...
+
+587
+00:26:48,530 --> 00:26:49,830
+长官
+Sir?
+
+588
+00:26:49,830 --> 00:26:52,030
+在看台那儿
+On the balcony.
+
+589
+00:26:52,030 --> 00:26:53,230
+在你转达麦凯博士的留言时
+The woman I was speaking with
+
+590
+00:26:53,230 --> 00:26:56,600
+跟我说话的那个女人
+When you delivered the message from dr. mckay.
+
+591
+00:26:56,600 --> 00:26:58,960
+或许我来之前  她就离开了
+She probably left before I got there, sir.
+
+592
+00:26:58,960 --> 00:27:00,030
+当我到达看台时
+When I approached you on the balcony,
+
+593
+00:27:00,030 --> 00:27:02,430
+你是独自一人
+You were alone.
+
+594
+00:27:23,600 --> 00:27:26,200
+你很正常
+There's nothing wrong with you.
+
+595
+00:27:26,200 --> 00:27:27,600
+究竟是怎么回事
+What's going on?
+
+596
+00:27:27,600 --> 00:27:28,530
+待会儿告诉你
+Uh, I'll let you know in a second.
+
+597
+00:27:28,530 --> 00:27:30,130
+我正在分析你的数据
+I'm just looking over your results.
+
+598
+00:27:30,130 --> 00:27:33,330
+不会有什么结果
+She won't find anything.
+
+599
+00:27:33,330 --> 00:27:34,600
+根据检查  你没事
+According to this, you're fine.
+
+600
+00:27:34,600 --> 00:27:35,600
+健康得很
+Perfectly normal.
+
+601
+00:27:35,600 --> 00:27:36,600
+看吧
+See?
+
+602
+00:27:36,600 --> 00:27:38,730
+那是怎么回事
+Then what is going on?
+
+603
+00:27:38,730 --> 00:27:40,030
+为什么数据库里没有你的名字
+Why isn't your name in the database?
+
+604
+00:27:40,030 --> 00:27:41,300
+为什么之前阿米丽亚
+Why couldn't amelia see you
+
+605
+00:27:41,300 --> 00:27:43,330
+看不见你
+Earlier today?
+
+606
+00:27:43,330 --> 00:27:46,230
+我很确定数据库里有我的名字
+Uh... I'm pretty sure my name is in the database.
+
+607
+00:27:46,230 --> 00:27:47,230
+至于阿米丽亚
+And as for amelia,
+
+608
+00:27:47,230 --> 00:27:48,300
+如果她不是有什么病的话
+If she has a medical concern,
+
+609
+00:27:48,300 --> 00:27:50,800
+不可能看不见我
+There's no reason why she shouldn't see me.
+
+610
+00:27:50,800 --> 00:27:52,200
+她什么时候过来的
+When did she come by?
+
+611
+00:27:52,200 --> 00:27:53,260
+理查德  她看不见我的
+She can't see me, richard.
+
+612
+00:27:54,630 --> 00:27:56,600
+只有你看得见我
+Only you can see me.
+
+613
+00:27:56,600 --> 00:27:58,200
+为什么
+Why?
+
+614
+00:27:58,200 --> 00:28:01,260
+我得澄清下误会
+I'd like to clarify the misunderstanding.
+
+615
+00:28:01,260 --> 00:28:03,400
+我不希望她认为我无视她
+I don't want her thinking I turned her away.
+
+616
+00:28:03,400 --> 00:28:05,560
+阿米丽亚那边没事
+Uh... amelia's fine.
+
+617
+00:28:05,560 --> 00:28:06,560
+我会跟她谈
+I'll talk to her.
+
+618
+00:28:08,730 --> 00:28:10,660
+好
+Great.
+
+619
+00:28:10,660 --> 00:28:13,130
+那么你说
+Um, as for you,
+
+620
+00:28:13,130 --> 00:28:15,300
+你一直感觉不好
+You said you've been feeling unwell?
+
+621
+00:28:15,300 --> 00:28:17,800
+是的
+Uh... that's right.
+
+622
+00:28:17,800 --> 00:28:19,300
+疲劳么
+Tired?
+
+623
+00:28:19,300 --> 00:28:20,930
+有点
+Somewhat.
+
+624
+00:28:20,930 --> 00:28:22,030
+视觉上有什么症状么
+Any visual symptoms?
+
+625
+00:28:22,030 --> 00:28:23,460
+看东西的时候
+Shadows or flashes
+
+626
+00:28:23,460 --> 00:28:24,960
+有黑影或者光点么
+In your field of vision?
+
+627
+00:28:29,160 --> 00:28:30,660
+可以这么说
+Sort of. yes.
+
+628
+00:28:30,660 --> 00:28:32,460
+那听觉症状呢
+What about auditory symptoms?
+
+629
+00:28:32,460 --> 00:28:34,500
+时常有响声  嗡嗡声  嘘嘘声
+Occasional ringing or buzzing or whistling?
+
+630
+00:28:34,500 --> 00:28:36,730
+我们要谈谈
+We need to talk.
+
+631
+00:28:36,730 --> 00:28:38,230
+是的  有时有嗡嗡声
+Yes. the occasional buzzing.
+
+632
+00:28:38,230 --> 00:28:40,660
+私下谈谈
+Somewhere private.
+
+633
+00:28:40,660 --> 00:28:42,100
+现在又来了
+There it goes again.
+
+634
+00:28:44,130 --> 00:28:47,100
+我猜你是因为试用期审核的事
+I bet you haven't been sleeping very well,
+
+635
+00:28:47,100 --> 00:28:49,300
+弄得睡眠不足
+What with this whole probationary review...
+
+636
+00:28:49,300 --> 00:28:50,960
+有道理
+Of course.
+
+637
+00:28:50,960 --> 00:28:52,160
+正是如此
+That's it exactly.
+
+638
+00:28:52,160 --> 00:28:53,500
+很明显你压力很大
+You're obviously under a lot of stress,
+
+639
+00:28:53,500 --> 00:28:56,300
+焦虑能通过各种方式
+And sometimes anxiety can manifest itself
+
+640
+00:28:56,300 --> 00:28:58,860
+表现出来
+In a variety of ways,
+
+641
+00:28:58,860 --> 00:29:00,200
+这些药物能让你放松
+But these are going to help you relax
+
+642
+00:29:00,200 --> 00:29:01,860
+睡个安稳觉
+And sleep through the night.
+
+643
+00:29:01,860 --> 00:29:03,130
+希望充足的休息后
+And hopefully, once you're well rested,
+
+644
+00:29:03,130 --> 00:29:04,630
+你能感觉好点
+You'll be feeling much better,
+
+645
+00:29:04,630 --> 00:29:06,160
+药到病除
+And your symptoms will disappear.
+
+646
+00:29:06,160 --> 00:29:07,530
+如果还是如此
+But if they don't,
+
+647
+00:29:07,530 --> 00:29:08,930
+再回来复诊
+Come back and see me.
+
+648
+00:29:08,930 --> 00:29:09,860
+好吗
+Okay?
+
+649
+00:29:09,860 --> 00:29:11,560
+谢谢了  医生
+Thank you, doctor.
+
+650
+00:29:11,560 --> 00:29:14,630
+我建议你不要吃
+I wouldn't advise taking those.
+
+651
+00:29:23,630 --> 00:29:25,330
+你站在那儿多久了
+How long have you been standing there?
+
+652
+00:29:25,330 --> 00:29:26,400
+抱歉
+Sorry.
+
+653
+00:29:26,400 --> 00:29:27,960
+我只是...不想打扰你
+I just... didn't want to disturb you.
+
+654
+00:29:27,960 --> 00:29:28,860
+你好像在沉思
+You seemed deep in thought.
+
+655
+00:29:28,860 --> 00:29:30,330
+我常常沉思
+I'm always deep in thought.
+
+656
+00:29:30,330 --> 00:29:31,960
+让我反应敏捷
+Keeps me sharp.
+
+657
+00:29:31,960 --> 00:29:34,060
+保持清醒
+And sleepless.
+
+658
+00:29:34,060 --> 00:29:35,560
+那  你在干什么
+So, what are you working on?
+
+659
+00:29:35,560 --> 00:29:36,730
+我在分析那些
+I'm just analyzing the readings
+
+660
+00:29:36,730 --> 00:29:37,760
+装置显示的
+From the radiation
+
+661
+00:29:37,760 --> 00:29:39,260
+放射读数
+The device is emitting.
+
+662
+00:29:39,260 --> 00:29:40,430
+天啊  又是放射
+Oh, jeez, again with the radiation.
+
+663
+00:29:40,430 --> 00:29:41,800
+我只是在伍尔希允许我们
+Hey, I'm just killing time
+
+664
+00:29:41,800 --> 00:29:42,900
+查询资料之前
+Till woolsey gives us the green light
+
+665
+00:29:42,900 --> 00:29:44,530
+打发打发时间
+To start data retrieval on that thing.
+
+666
+00:29:44,530 --> 00:29:45,560
+你认为他会么
+You think he will?
+
+667
+00:29:45,560 --> 00:29:47,230
+当然  这很重要
+Of course. this is huge--
+
+668
+00:29:47,230 --> 00:29:50,700
+外星种族成就编年史
+The chronicled achievements of an alien race,
+
+669
+00:29:50,700 --> 00:29:51,930
+开玩笑吧
+Are you kidding me?
+
+670
+00:29:53,660 --> 00:29:55,760
+慢着
+Whoa, wait a minute.
+
+671
+00:29:55,760 --> 00:29:57,400
+怎么了
+What?
+
+672
+00:29:58,660 --> 00:30:00,000
+那装置发出的
+The modulated, ultra-low frequency
+
+673
+00:30:00,000 --> 00:30:01,500
+超低频率射线
+Emanating from the device...
+
+674
+00:30:01,500 --> 00:30:03,260
+我貌似在哪儿见过
+I've seen something like this before.
+
+675
+00:30:06,130 --> 00:30:07,660
+不会吧
+Oh, no.
+
+676
+00:30:35,100 --> 00:30:36,900
+抱歉搞得你莫名其妙
+I'm sorry I made you doubt your sanity.
+
+677
+00:30:36,900 --> 00:30:38,460
+你是谁
+Who are you?
+
+678
+00:30:38,460 --> 00:30:39,560
+你是什么
+What are you?
+
+679
+00:30:39,560 --> 00:30:41,160
+我是你潜意识中对
+I'm a physical manifestation
+
+680
+00:30:41,160 --> 00:30:44,430
+浪漫和异性渴望的虚拟呈现
+Of your subconscious romantic and sexual ideals.
+
+681
+00:30:46,960 --> 00:30:49,200
+天啊
+Oh, god.
+
+682
+00:30:49,200 --> 00:30:50,900
+你没疯
+You're not crazy.
+
+683
+00:30:50,900 --> 00:30:52,330
+你真的能看到我
+You're really seeing me.
+
+684
+00:30:52,330 --> 00:30:54,200
+为什么
+Why?
+
+685
+00:30:54,200 --> 00:30:55,760
+我很抱歉对你说了谎
+I'm sorry I had to deceive you,
+
+686
+00:30:55,760 --> 00:30:58,000
+但整个文明的生死存亡
+But the survival of an entire civilization
+
+687
+00:30:58,000 --> 00:30:59,400
+命悬一线
+Is at stake.
+
+688
+00:30:59,400 --> 00:31:00,730
+这是跟麦凯博士
+This has something to do
+
+689
+00:31:00,730 --> 00:31:02,560
+修好的装置有关吧
+With that device dr. mckay recovered,
+
+690
+00:31:02,560 --> 00:31:05,160
+对么
+Doesn't it?
+
+691
+00:31:06,560 --> 00:31:07,660
+理查德
+Richard?
+
+692
+00:31:07,660 --> 00:31:09,560
+她看不到我
+She can't see me.
+
+693
+00:31:14,930 --> 00:31:17,230
+在
+Yes
+
+694
+00:31:20,300 --> 00:31:22,860
+我还以为你在和别人聊天
+I thought I heard you talking with someone.
+
+695
+00:31:23,860 --> 00:31:25,630
+没有
+No.
+
+696
+00:31:25,630 --> 00:31:27,200
+我在准备一个演讲
+I was running through the pep talk
+
+697
+00:31:27,200 --> 00:31:29,960
+我要给他们讲讲微生物学
+I'm going to be giving the gang in microbiology.
+
+698
+00:31:29,960 --> 00:31:31,300
+真的么
+Really?
+
+699
+00:31:31,300 --> 00:31:32,300
+你也知道
+You know,
+
+700
+00:31:32,300 --> 00:31:33,800
+我今天看到你在看台上
+I saw you on the balcony this afternoon
+
+701
+00:31:33,800 --> 00:31:36,500
+自言自语
+Talking with... yourself.
+
+702
+00:31:38,130 --> 00:31:41,160
+有时...我喜欢把自己的想法说出来
+I... occasionally do verbalize my thoughts.
+
+703
+00:31:41,160 --> 00:31:42,960
+让我更好地整理思路
+It helps me put things in perspective.
+
+704
+00:31:42,960 --> 00:31:44,800
+细心的人就会发现这种行为
+A casual observer might find that sort of behavior
+
+705
+00:31:44,800 --> 00:31:46,260
+令人不安
+A little disconcerting,
+
+706
+00:31:46,260 --> 00:31:48,900
+特别是面对重大抉择时
+Especially coming from someone in your position...
+
+707
+00:31:48,900 --> 00:31:50,630
+何况你又身居要职
+Faced with a very important decision.
+
+708
+00:31:50,630 --> 00:31:53,830
+又记上一过了是么
+Oh, another nail in my coffin?
+
+709
+00:31:53,830 --> 00:31:56,500
+麦凯博士向我简述了一下重修的装置情况
+Dr. mckay briefed me on the device he recovered.
+
+710
+00:31:56,500 --> 00:31:58,300
+那是伟大的发现
+Yes, it is an impressive find.
+
+711
+00:31:58,300 --> 00:31:59,260
+但不属于你
+That doesn't belong to you.
+
+712
+00:31:59,260 --> 00:32:02,230
+拜托...请坐
+Please-- sit down.
+
+713
+00:32:05,800 --> 00:32:07,060
+他告诉我你很迟才允许
+He tells me you've delayed giving the go-ahead
+
+714
+00:32:07,060 --> 00:32:09,060
+他们修复数据库
+On the data retrieval.
+
+715
+00:32:09,060 --> 00:32:10,500
+我不确定
+I'm not sure
+
+716
+00:32:10,500 --> 00:32:13,460
+麦凯博士是否说明了我们目前的困境
+If dr. mckay explained the dilemma we're facing--
+
+717
+00:32:13,460 --> 00:32:14,760
+我不敢相信你竟然
+I can't even believe you're considering
+
+718
+00:32:14,760 --> 00:32:16,300
+听之任之
+Letting this slip away.
+
+719
+00:32:16,300 --> 00:32:17,960
+还有别的问题需要考虑
+There are other issues to consider--
+
+720
+00:32:17,960 --> 00:32:18,930
+例如
+Such as?
+
+721
+00:32:18,930 --> 00:32:19,800
+另一个种族的命运
+The fate of another race.
+
+722
+00:32:19,800 --> 00:32:21,860
+你能不能给我消停会儿
+Will you stay out of this!
+
+723
+00:32:23,560 --> 00:32:26,030
+恕难从命
+I will do no such thing.
+
+724
+00:32:26,030 --> 00:32:27,600
+他们的文明不复存在
+Their civilization is dead.
+
+725
+00:32:27,600 --> 00:32:29,300
+相反  我们的文明正蓬勃发展
+Ours, on the other hand, is very much alive,
+
+726
+00:32:29,300 --> 00:32:31,200
+这是很重要的情报
+And we could use that information.
+
+727
+00:32:31,200 --> 00:32:32,760
+我们的虐夺使
+We'd be robbing a civilization
+
+728
+00:32:32,760 --> 00:32:34,730
+他们的文明无法重建
+Of the opportunity to rebuild itself.
+
+729
+00:32:34,730 --> 00:32:37,000
+文明是否能重新萌芽
+There's no guarantee that a civilization will evolve
+
+730
+00:32:37,000 --> 00:32:38,230
+还尚未可知
+From the seeding process.
+
+731
+00:32:38,230 --> 00:32:39,800
+或许在达到情感认知程度前
+The entire race could die out
+
+732
+00:32:39,800 --> 00:32:41,860
+就已经灭绝
+Before it even reached sentient status.
+
+733
+00:32:41,860 --> 00:32:43,930
+而我们就错失了
+And we would be throwing away
+
+734
+00:32:43,930 --> 00:32:45,630
+千载难逢的机会
+An incredible opportunity.
+
+735
+00:32:45,630 --> 00:32:49,030
+或者把潜在的数十亿生命
+Or consigning billions of potential lives
+
+736
+00:32:49,030 --> 00:32:51,660
+扼杀在摇篮之中
+To oblivion.
+
+737
+00:32:55,230 --> 00:32:57,860
+理查德  我不敢相信你如此好运
+I can't believe your good fortune, richard.
+
+738
+00:32:57,860 --> 00:32:59,260
+这是你的机会
+This is your opportunity
+
+739
+00:32:59,260 --> 00:33:00,400
+回到家乡向你的下属展示
+To show the team back home
+
+740
+00:33:00,400 --> 00:33:02,030
+你的领导才能
+That you can play ball.
+
+741
+00:33:02,030 --> 00:33:06,200
+按规章办事  才能保住饭碗
+Follow procedure and save your job,
+
+742
+00:33:06,200 --> 00:33:08,300
+要么向我辞职  你自己选
+Or you can hand it to me on a silver platter.
+
+743
+00:33:48,700 --> 00:33:50,560
+你竟然恐吓我
+How dare you threaten me.
+
+744
+00:33:50,560 --> 00:33:52,360
+这不叫恐吓  理查德
+It's not a threat, richard.
+
+745
+00:33:52,360 --> 00:33:53,290
+只是告诉你
+I'm simply telling you
+
+746
+00:33:53,290 --> 00:33:55,360
+如果没了那个装置
+How things are going to play out
+
+747
+00:33:55,360 --> 00:33:57,290
+事态将会如何发展
+If we lose that device.
+
+748
+00:33:57,290 --> 00:33:58,700
+理查德  拜托
+Richard, please.
+
+749
+00:33:58,700 --> 00:33:59,930
+他们是友好和平的种族
+They were a kind and peaceful race,
+
+750
+00:33:59,930 --> 00:34:01,460
+应当得到救赎
+One well worth saving.
+
+751
+00:34:02,700 --> 00:34:03,800
+我们得毁了它
+We need to get rid of it!
+
+752
+00:34:03,800 --> 00:34:05,800
+那装置发出的能量指标
+The energy signature that device is giving off
+
+753
+00:34:05,800 --> 00:34:07,800
+和我们在m1b-129碰见的
+Is very similar to one we encountered
+
+754
+00:34:07,800 --> 00:34:09,130
+十分相似
+On m1b-129.
+
+755
+00:34:09,130 --> 00:34:10,800
+它可以让人产生强大幻觉
+It can induce mass hallucinations.
+
+756
+00:34:10,800 --> 00:34:12,300
+或者以一种通讯的方式
+Or function as a means of communication
+
+757
+00:34:12,300 --> 00:34:15,730
+和不同种族的人交流
+Between two very different species.
+
+758
+00:34:15,730 --> 00:34:18,300
+速战速决
+Let's act quickly.
+
+759
+00:34:18,300 --> 00:34:19,930
+修补数据
+Salvage the data
+
+760
+00:34:19,930 --> 00:34:22,000
+毁灭装置
+And destroy the device.
+
+761
+00:34:22,000 --> 00:34:25,060
+多谢大家独到的见解
+Thank you all-- both for enlightening me.
+
+762
+00:34:25,060 --> 00:34:27,030
+我会很快做出决定
+I'll make my decision shortly.
+
+763
+00:34:27,030 --> 00:34:28,030
+请
+Please.
+
+764
+00:34:34,660 --> 00:34:36,900
+现在
+Now...
+
+765
+00:34:36,900 --> 00:34:40,160
+告诉我到底怎么回事
+Why don't you tell me what's going on?
+
+766
+00:34:40,160 --> 00:34:42,200
+时间也够久的了
+This has gone on long enough.
+
+767
+00:34:42,200 --> 00:34:45,230
+换手吧
+Use your other hand.
+
+768
+00:34:45,230 --> 00:34:46,400
+继续
+Go on.
+
+769
+00:34:48,900 --> 00:34:53,060
+我可不想让你就这么死了
+I have no intention of letting you die.
+
+770
+00:34:53,060 --> 00:34:55,300
+爬上来吧  约翰
+Now, climb back up, john.
+
+771
+00:35:00,330 --> 00:35:02,330
+这就对了
+That's it.
+
+772
+00:35:16,030 --> 00:35:18,560
+到底是怎么回事
+What the hell's going on here?
+
+773
+00:35:18,560 --> 00:35:21,060
+千百年前
+Tens of thousands of years ago,
+
+774
+00:35:21,060 --> 00:35:24,360
+一个文明预见了自己的末日
+A civilization foresaw its end.
+
+775
+00:35:24,360 --> 00:35:26,460
+经历了数百年进化之后
+After millions of years of evolution,
+
+776
+00:35:26,460 --> 00:35:27,660
+这个名为斯卡瑞的种族
+The race known as the sekkari
+
+777
+00:35:27,660 --> 00:35:29,160
+濒临绝种
+Faced extinction.
+
+778
+00:35:29,160 --> 00:35:31,460
+意识到自救无望
+Knowing they couldn't save themselves,
+
+779
+00:35:31,460 --> 00:35:32,630
+他们便利用最后的日子
+They spent their final days
+
+780
+00:35:32,630 --> 00:35:34,300
+寻找重新来过的方法
+Creating the means to start over.
+
+781
+00:35:34,300 --> 00:35:36,400
+他们制造了很多贮种器
+They built seed carriers,
+
+782
+00:35:36,400 --> 00:35:37,860
+各自按预定轨道
+Each with a different target world
+
+783
+00:35:37,860 --> 00:35:39,900
+发往不同的
+Programmed into its navigation system,
+
+784
+00:35:39,900 --> 00:35:41,530
+能够提供他们
+Worlds that would provide them
+
+785
+00:35:41,530 --> 00:35:43,230
+充足化合物的目标世界
+With the chemical compounds necessary
+
+786
+00:35:43,230 --> 00:35:46,330
+让他们有机会生存繁衍
+To produce, sustain, and develop life.
+
+787
+00:35:46,330 --> 00:35:49,860
+每个贮种器里还专门设有资料库
+Each seed carrier also held a repository
+
+788
+00:35:49,860 --> 00:35:51,730
+用来存放斯卡瑞人的史料
+Containing the history of the sekkari people--
+
+789
+00:35:51,730 --> 00:35:53,760
+他们的坚韧不屈  丰功伟绩
+Their struggles, their achievements,
+
+790
+00:35:53,760 --> 00:35:55,230
+还有他们犯过的
+And the mistakes
+
+791
+00:35:55,230 --> 00:35:56,760
+导致最终毁灭的错误
+That ultimately led to their own destruction.
+
+792
+00:35:56,760 --> 00:35:58,430
+贮种器装备完善后
+The seed carriers were outfitted
+
+793
+00:35:58,430 --> 00:36:00,100
+还安装了子空间通讯器
+With subspace communicators
+
+794
+00:36:00,100 --> 00:36:01,900
+用来在到达目的地时
+Designed to alert the group
+
+795
+00:36:01,900 --> 00:36:03,700
+发回通知
+Once a seeding was successful.
+
+796
+00:36:03,700 --> 00:36:05,260
+50多个贮种器发出去了
+Over 50 were launched.
+
+797
+00:36:05,260 --> 00:36:06,430
+没有一个完成使命
+None achieved their goal.
+
+798
+00:36:06,430 --> 00:36:08,500
+我的这架出了故障
+This unit malfunctioned.
+
+799
+00:36:08,500 --> 00:36:10,230
+便让它停在了最近的星球
+I guided it to the nearest planet--
+
+800
+00:36:10,230 --> 00:36:11,500
+也就是这里
+This world,
+
+801
+00:36:11,500 --> 00:36:12,800
+希望这里的环境
+In the hope that it would prove suitable
+
+802
+00:36:12,800 --> 00:36:14,330
+有利于我们的生命进程
+To the life-forming process.
+
+803
+00:36:14,330 --> 00:36:16,530
+但不行
+It wasn't.
+
+804
+00:36:16,530 --> 00:36:18,160
+好在设备着陆了
+This device survived re-entry
+
+805
+00:36:18,160 --> 00:36:19,700
+基本无损
+Relatively unscathed,
+
+806
+00:36:19,700 --> 00:36:21,000
+于是接下来的2000年里
+Then spent the next 2,000 years
+
+807
+00:36:21,000 --> 00:36:22,260
+就在海底度过了
+At the ocean's bottom,
+
+808
+00:36:22,260 --> 00:36:23,830
+直到最近
+Until recently,
+
+809
+00:36:23,830 --> 00:36:25,260
+它的休眠系统被唤醒
+When its dormant systems were awakened
+
+810
+00:36:25,260 --> 00:36:27,730
+探测器采集到了
+By its sensors picking up trace readings
+
+811
+00:36:27,730 --> 00:36:29,500
+你们水下飞船的跟踪数据
+From one of your submerged puddle jumpers.
+
+812
+00:36:29,500 --> 00:36:32,060
+几周前麦凯博士从水下停泊舱
+The one dr. mckay flew up out of the underwater bay
+
+813
+00:36:32,060 --> 00:36:33,700
+开走的那艘
+Several weeks ago.
+
+814
+00:36:33,700 --> 00:36:36,500
+我扫描了你们的城市  然后联接了你
+I scanned your city, and then I linked with you.
+
+815
+00:36:36,500 --> 00:36:38,600
+那你是什么
+What are you?
+
+816
+00:36:38,600 --> 00:36:41,730
+我是贮种器的人工智能产物
+I'm the seed carrier's artificial intelligence.
+
+817
+00:36:41,730 --> 00:36:43,930
+我的使命就是研究你
+My aim was to study you,
+
+818
+00:36:43,930 --> 00:36:44,830
+接近你
+To get to know you,
+
+819
+00:36:44,830 --> 00:36:46,430
+还有  实际上  指引你
+And, eventually, direct you
+
+820
+00:36:46,430 --> 00:36:48,030
+帮助我完成这艘贮种器的使命
+To help complete this unit's assignment.
+
+821
+00:36:48,030 --> 00:36:49,400
+所以你就操纵我
+By manipulating me.
+
+822
+00:36:49,400 --> 00:36:50,260
+不是的
+No.
+
+823
+00:36:50,260 --> 00:36:51,330
+弄清
+By finding out
+
+824
+00:36:51,330 --> 00:36:52,460
+你是怎样一个人
+What kind of person you were
+
+825
+00:36:52,460 --> 00:36:55,160
+我们才敢托付于你
+In the hope that we could place our trust in you.
+
+826
+00:36:55,160 --> 00:36:56,100
+你难道不能
+Couldn't you have simply
+
+827
+00:36:56,100 --> 00:36:57,430
+一开始就跟我们坦白
+Communicated your situation to us
+
+828
+00:36:57,430 --> 00:36:59,500
+你的境况么
+From the beginning?
+
+829
+00:36:59,500 --> 00:37:01,130
+请你理解
+Please understand--
+
+830
+00:37:01,130 --> 00:37:03,530
+我是斯卡瑞人最后的希望
+I am the last hope for the sekkari people.
+
+831
+00:37:03,530 --> 00:37:05,500
+不能冒险行事
+I couldn't risk it.
+
+832
+00:37:05,500 --> 00:37:07,860
+我很抱歉
+I'm sorry.
+
+833
+00:37:09,800 --> 00:37:11,800
+作为士兵  你是个威胁
+As a soldier, you were a threat.
+
+834
+00:37:11,800 --> 00:37:13,860
+如果需要人用武力保全资料室
+If anyone was to use force to secure the repository,
+
+835
+00:37:13,860 --> 00:37:14,800
+非你们莫属
+It would have been you,
+
+836
+00:37:14,800 --> 00:37:16,360
+军人
+The military man.
+
+837
+00:37:16,360 --> 00:37:19,860
+所以我使你产生了幻觉  迷惑你
+So I connected with your mind to distract you.
+
+838
+00:37:19,860 --> 00:37:22,060
+迷惑我
+Distract me?
+
+839
+00:37:22,060 --> 00:37:24,460
+让我以为飞船被毁了
+Making me think the jumper had been sabotaged
+
+840
+00:37:24,460 --> 00:37:26,230
+算不上什么迷惑
+Would've been enough of a distraction.
+
+841
+00:37:26,230 --> 00:37:28,460
+你迟早会发现破绽
+You would have discovered the subterfuge.
+
+842
+00:37:28,460 --> 00:37:31,160
+而我又不能维持稳定幻象过久
+I'm unable to maintain a static illusion over time.
+
+843
+00:37:31,160 --> 00:37:33,760
+我必须控制着你的思想
+It was necessary to keep your mind occupied.
+
+844
+00:37:33,760 --> 00:37:35,160
+你就这么决定了
+And that's what you chose?
+
+845
+00:37:35,160 --> 00:37:36,630
+是你决定的
+What you chose.
+
+846
+00:37:36,630 --> 00:37:38,500
+我没有完全控制你的想象
+I didn't have full control over your hallucination
+
+847
+00:37:38,500 --> 00:37:40,460
+或是帮你发出指令
+Or the direction it took.
+
+848
+00:37:40,460 --> 00:37:42,360
+是你的思想在起主导作用
+It was your mind driving the diversion.
+
+849
+00:37:42,360 --> 00:37:45,230
+我不过是顺着你的思路走
+I merely played along.
+
+850
+00:37:45,230 --> 00:37:46,660
+你的意思是  我自己拷问了自己
+Are you saying I tortured myself?
+
+851
+00:37:46,660 --> 00:37:48,700
+你每天都自我拷问  约翰
+You torture yourself every day, john.
+
+852
+00:37:48,700 --> 00:37:49,730
+但这次
+But in this case,
+
+853
+00:37:49,730 --> 00:37:50,630
+是你自己的大脑
+It was your mind
+
+854
+00:37:50,630 --> 00:37:52,460
+呈现了你内心最深层的恐惧
+Manifesting your darkest fears.
+
+855
+00:37:52,460 --> 00:37:55,900
+你一直在自欺欺人
+You were the architect of your own self-deception.
+
+856
+00:37:58,560 --> 00:38:01,930
+现在你已经知道了真相
+Now you know the truth
+
+857
+00:38:01,930 --> 00:38:04,330
+该做决定了
+And have a decision to make.
+
+858
+00:38:08,330 --> 00:38:09,760
+中校  你去哪儿了
+Colonel, where were you?
+
+859
+00:38:09,760 --> 00:38:11,260
+你知不知道我们在这坐了多久
+Do you know how long we've been sitting here--
+
+860
+00:38:11,260 --> 00:38:12,700
+别嚎了  上船
+Shut up. get in the jumper.
+
+861
+00:38:18,660 --> 00:38:20,160
+打扰了  沈女士
+Sorry to disturb you, ms. shen,
+
+862
+00:38:20,160 --> 00:38:22,000
+你有地球来的
+But you've just received a secure transmission
+
+863
+00:38:22,000 --> 00:38:23,030
+加密口信
+From earth.
+
+864
+00:38:23,030 --> 00:38:25,000
+可以接通吗
+Can I patch it through?
+
+865
+00:38:25,000 --> 00:38:26,000
+来吧
+Go ahead.
+
+866
+00:38:29,430 --> 00:38:30,400
+卢瑟
+Luthor.
+
+867
+00:38:30,400 --> 00:38:31,730
+情况怎么样
+How are things?
+
+868
+00:38:31,730 --> 00:38:34,530
+我想  通知你最近的发展形势
+Well, but I felt it only fair to inform you
+
+869
+00:38:34,530 --> 00:38:36,530
+才算公平
+Of recent developments here.
+
+870
+00:38:36,530 --> 00:38:39,000
+虽然我很肯定你更能胜任
+As much as I believe you'd be a worthy candidate
+
+871
+00:38:39,000 --> 00:38:40,560
+理查德·伍尔希的职位
+To replace richard woolsey,
+
+872
+00:38:40,560 --> 00:38:42,500
+但恐怕委员会的其他成员
+I'm afraid the rest of the council
+
+873
+00:38:42,500 --> 00:38:44,460
+持反对意见
+Feels otherwise.
+
+874
+00:38:44,460 --> 00:38:46,700
+看来我们要换成詹姆斯·库立芝
+It looks like we'll be going with james coolidge instead.
+
+875
+00:38:46,700 --> 00:38:47,860
+库立芝
+Coolidge?!
+
+876
+00:38:47,860 --> 00:38:49,000
+别担心
+Don't worry.
+
+877
+00:38:49,000 --> 00:38:52,730
+你促成交接的功劳  还是会有奖励的
+You'll still be rewarded for facilitating the transition.
+
+878
+00:38:52,730 --> 00:38:54,630
+祝贺你
+Congratulations.
+
+879
+00:38:54,630 --> 00:38:56,310
+你来坐国际勘察顾问组
+You'll be chairing the i.o.a.'s
+
+880
+00:38:56,310 --> 00:38:58,000
+新环境部门的第一把交椅
+New environmental initiative.
+
+881
+00:39:07,400 --> 00:39:11,000
+好  我走了
+Well, I'm off.
+
+882
+00:39:11,000 --> 00:39:13,530
+我估计不久就能与你会合
+I suppose I'll be joining you shortly.
+
+883
+00:39:13,530 --> 00:39:14,960
+别做放假打算了
+Don't make any holiday plans.
+
+884
+00:39:14,960 --> 00:39:16,400
+你不会被调走的
+You're not going anywhere.
+
+885
+00:39:16,400 --> 00:39:19,000
+我看你前途无量
+I gave you a glowing review.
+
+886
+00:39:19,000 --> 00:39:22,530
+既然你的未来全凭我一纸公文
+And since your future rests entirely on my report,
+
+887
+00:39:22,530 --> 00:39:24,460
+我很高兴第一个祝贺你
+I'd like to be the first to congratulate you
+
+888
+00:39:24,460 --> 00:39:26,530
+新上任的亚特兰蒂斯远征队
+As the new permanent commander
+
+889
+00:39:26,530 --> 00:39:28,600
+永久指令官
+Of the atlantis expedition.
+
+890
+00:39:29,930 --> 00:39:32,930
+我没懂
+I don't understand.
+
+891
+00:39:32,930 --> 00:39:36,200
+和你一样  理查德  我不是谁的傀儡
+Like you, richard, I'm nobody's puppet.
+
+892
+00:39:36,200 --> 00:39:37,560
+他们昨天应该在传达任命前
+They should've thought of that
+
+893
+00:39:37,560 --> 00:39:40,730
+就意识到这点
+Before delivering yesterday's update.
+
+894
+00:39:40,730 --> 00:39:42,500
+祝你好运
+Good luck.
+
+895
+00:39:49,200 --> 00:39:51,430
+昨天的任命
+Yesterday's update?
+
+896
+00:39:51,430 --> 00:39:53,700
+我听不懂她在说什么  长官
+I don't know what she's talking about, sir.
+
+897
+00:39:53,700 --> 00:39:56,800
+我们最近都没有联络记录
+We haven't had a scheduled dial-out in days.
+
+898
+00:40:04,900 --> 00:40:07,360
+可以让我单独呆一会儿么  阿米丽亚
+Could I have a moment alone, amelia?
+
+899
+00:40:07,360 --> 00:40:09,430
+好的  长官
+Yes, sir.
+
+900
+00:40:11,600 --> 00:40:14,230
+我猜有你的功劳吧
+I assume that you're responsible for that?
+
+901
+00:40:14,230 --> 00:40:17,000
+算个临别礼物
+Consider it a going-away present.
+
+902
+00:40:17,000 --> 00:40:19,230
+谢谢
+Thank you.
+
+903
+00:40:20,400 --> 00:40:21,960
+好吧
+Alrighty.
+
+904
+00:40:21,960 --> 00:40:27,500
+给  完全修好了  整装待发
+Here we are, all fixed up and ready to roll.
+
+905
+00:40:27,500 --> 00:40:28,560
+完成使命前
+What happens to you
+
+906
+00:40:28,560 --> 00:40:29,660
+你们准备怎么办
+When you reach your final destination?
+
+907
+00:40:29,660 --> 00:40:31,060
+使命
+Destination?
+
+908
+00:40:31,060 --> 00:40:34,130
+你是在和a.i.说话  是么
+Ah, you're talking to the a.i., aren't you? uh...
+
+909
+00:40:34,130 --> 00:40:35,300
+我先启动生命装置
+I'll start the process
+
+910
+00:40:35,300 --> 00:40:37,630
+让斯卡瑞生命萌发
+That will give life to the sekkari,
+
+911
+00:40:37,630 --> 00:40:39,130
+然后我就再度休眠
+And then I'll go to sleep
+
+912
+00:40:39,130 --> 00:40:40,930
+直到下一次需要我的时候
+Until a time when I'm needed again.
+
+913
+00:40:43,860 --> 00:40:44,760
+约翰
+John,
+
+914
+00:40:44,760 --> 00:40:46,860
+我想
+I realize
+
+915
+00:40:46,860 --> 00:40:48,530
+这种经历你一定不喜欢
+It may have been an unpleasant experience--
+
+916
+00:40:48,530 --> 00:40:50,500
+是啊  还好吧  是有一点
+Yeah, well, just a little bit.
+
+917
+00:40:50,500 --> 00:40:52,600
+怎么  你也能看见她
+What-- you can see her too?
+
+918
+00:40:52,600 --> 00:40:53,800
+我想告诉你
+And I want you to know
+
+919
+00:40:53,800 --> 00:40:55,960
+让你经历这些我感到很抱歉
+I'm sorry for what you had to go through.
+
+920
+00:40:57,830 --> 00:40:59,500
+阿波罗号准备起程了
+The  apollo is ready to beam.
+
+921
+00:41:01,830 --> 00:41:04,330
+这艘小飞船会带你去目标星球
+The ship will take you to your target planet.
+
+922
+00:41:04,330 --> 00:41:05,760
+抱歉
+I'm sorry,
+
+923
+00:41:05,760 --> 00:41:07,660
+我不是想抱怨
+I don't mean to complain or anything,
+
+924
+00:41:07,660 --> 00:41:09,000
+我花了一天中最好的时间
+It's just that I have spent the better part of a day
+
+925
+00:41:09,000 --> 00:41:10,400
+保证这东西能正常运转
+Making sure this was in working order.
+
+926
+00:41:10,400 --> 00:41:11,560
+我是不是也应该
+It would be kind of nice
+
+927
+00:41:11,560 --> 00:41:13,230
+看看你的庐山真面目
+To just get a little face time with the--
+
+928
+00:41:13,230 --> 00:41:14,160
+看吧  麦凯博士
+Here you are, dr. mckay--
+
+929
+00:41:14,160 --> 00:41:17,530
+斯卡瑞人的真实形态
+The true form of the sekkari.
+
+930
+00:41:22,030 --> 00:41:23,860
+精致
+Neat.
+
+931
+00:41:26,560 --> 00:41:27,660
+祝你好运
+Good luck.
+
+932
+00:41:33,400 --> 00:41:35,460
+"精致"
+"neat"?
+
+933
+00:41:35,460 --> 00:41:37,300
+什么  她突然就出来了
+What? i-- she caught me off guard.
+
+934
+00:41:37,300 --> 00:41:38,530
+你指望我说什么
+What did you want me to say?
+
+935
+00:41:38,530 --> 00:41:39,730
+你又会怎么说
+What would you have said?
+
+936
+00:41:39,730 --> 00:41:42,130
+诡异吧
+Oh, "weird."
+
+937
+00:41:46,760 --> 00:41:48,260
+伍尔希先生
+Mr. woolsey.
+
+938
+00:41:48,260 --> 00:41:49,730
+要不要一起吃
+Would you care to join us?
+
+939
+00:41:49,730 --> 00:41:50,760
+实际上
+Well, actually,
+
+940
+00:41:50,760 --> 00:41:53,560
+我还有报告要整理
+I have some reports to file...
+
+941
+00:41:53,560 --> 00:41:54,400
+谢谢邀请
+Thank you.
+
+942
+00:41:54,400 --> 00:41:56,400
+乐意加入
+I'd love to join you.
+
+943
+00:42:00,860 --> 00:42:02,530
+其实你根本不知道
+So, you really had no idea
+
+944
+00:42:02,530 --> 00:42:03,500
+你看到的东西
+That what you were seeing
+
+945
+00:42:03,500 --> 00:42:04,660
+不是真的
+Wasn't real?
+
+946
+00:42:04,660 --> 00:42:06,260
+相信我
+Trust me,
+
+947
+00:42:06,260 --> 00:42:09,030
+那个幻象太逼真了  博士
+The manifestations were very convincing, doctor.
+
+948
+00:42:09,030 --> 00:42:10,360
+你绝对想象不到
+You wouldn't have known.
+
+949
+00:42:10,360 --> 00:42:11,760
+恕我冒昧
+Well, with all due respect,
+
+950
+00:42:11,760 --> 00:42:13,000
+我猜他们自知糊弄不了我
+I think they knew they couldn't fool me,
+
+951
+00:42:13,000 --> 00:42:14,930
+所以嘛  才没找我
+So they, you know, didn't bother.
+
+952
+00:42:14,930 --> 00:42:17,030
+注意力都放在你俩身上了
+They just concentrated on you two.
+
+953
+00:42:17,030 --> 00:42:19,260
+我不明白的是
+You know what I don't get,
+
+954
+00:42:19,260 --> 00:42:21,460
+那个a.i.早上现身
+Is the a.i. thing revealed itself that morning,
+
+955
+00:42:21,460 --> 00:42:24,060
+你下午就发现了那个装置
+You discover the device that afternoon.
+
+956
+00:42:24,060 --> 00:42:25,900
+时间掐得多准
+I mean, that's perfect timing.
+
+957
+00:42:25,900 --> 00:42:27,900
+中校说的对  巧的离奇
+The colonel's right. that was very coincidental.
+
+958
+00:42:27,900 --> 00:42:28,930
+我知道你想说什么
+And I know what you're implying,
+
+959
+00:42:28,930 --> 00:42:30,460
+不过我脑子很清醒
+But my mind was clear.
+
+960
+00:42:30,460 --> 00:42:31,630
+就是因为我聪明
+That device was found
+
+961
+00:42:31,630 --> 00:42:32,830
+才发现了那个设备
+Because of my brilliant thinking
+
+962
+00:42:32,830 --> 00:42:34,530
+还有  虽说不想承认
+And, as much as I hate to admit it,
+
+963
+00:42:34,530 --> 00:42:36,600
+但泽兰卡帮了点小忙
+A little help from zelenka.
+
+964
+00:42:36,600 --> 00:42:37,660
+你在说什么呢
+What are you talking about?
+
+965
+00:42:37,660 --> 00:42:38,560
+泽兰卡在外世
+Zelenka's off-world.
+
+966
+00:42:38,560 --> 00:42:39,460
+没有
+No, he's not.
+
+967
+00:42:39,460 --> 00:42:41,060
+他昨天就回来了
+He came back yesterday.
+
+968
+00:42:43,060 --> 00:42:45,430
+多诺万中尉
+Lieutenant donovan had a nasty reaction
+
+969
+00:42:45,430 --> 00:42:46,330
+食物中毒的那个
+To something he ate,
+
+970
+00:42:46,330 --> 00:42:48,430
+他们提前回来了
+They came back early.
+
+971
+00:42:48,430 --> 00:42:50,430
+不是么
+Didn't they?
+
+972
+00:42:53,860 --> 00:42:55,260
+哦  狗娘
+Aw, son of a--
+
+973
+00:42:55,260 --> 00:42:56,300
+我看不完全是巧合
+Guess it wasn't that much of coincidence
+
+974
+00:42:56,300 --> 00:42:57,930
+管他呢
+After all.
+

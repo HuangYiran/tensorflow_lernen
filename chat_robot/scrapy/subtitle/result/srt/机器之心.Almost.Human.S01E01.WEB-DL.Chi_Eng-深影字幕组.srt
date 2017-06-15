@@ -1,0 +1,3262 @@
+1
+00:00:00,800 --> 00:00:15,000
+{\an8}本字幕由 {\c&H26F4FF&}ShinY {\c&HFFAE1A&}深影字幕组{\c&HFFFFFF&} 原创翻译制作
+
+2
+00:00:01,600 --> 00:00:15,000
+{\an8}深影字幕组论坛地址 {\c&H26F4FF&}http://shinybbs.com
+
+3
+00:00:15,800 --> 00:00:25,500
+{\an8}{\c&H26F4FF&}翻译： {\c&HFFFFFF&}Virus Killer  红鼻子的UFO  Yatamisaki  Eraugus  带着猫咪私奔  熊猫大虾
+
+4
+00:00:25,800 --> 00:00:35,500
+{\an8}{\c&H26F4FF&}校对/后期： {\c&HFFFFFF&}iamazed   
+
+27
+00:07:02,530 --> 00:07:04,540
+机器之心
+
+28
+00:07:04,540 --> 00:07:06,250
+第一季  第一集
+
+29
+00:00:03,690 --> 00:00:05,260
+2048年
+
+30
+00:00:05,420 --> 00:00:08,950
+科技的发展已经失去了控制
+
+31
+00:00:10,100 --> 00:00:13,700
+未知的毒品及武器在街道和学校泛滥
+
+32
+00:00:13,790 --> 00:00:19,180
+走私团伙被不明暴力犯罪组织操纵
+
+33
+00:00:19,180 --> 00:00:23,280
+犯罪率也惊人地提高了400%
+
+34
+00:00:24,350 --> 00:00:28,940
+人手不足 装备落后 执法机关只得颁布一项新的措施:
+
+35
+00:00:28,940 --> 00:00:34,160
+每名警察都需配备一名先进的机器战警作为搭档
+
+36
+00:00:49,840 --> 00:00:51,020
+我们中埋伏了
+It's an ambush!
+
+37
+00:00:58,620 --> 00:00:59,460
+约翰 真该死
+John, damn it.
+
+38
+00:00:59,460 --> 00:01:01,410
+我中弹了 我不行了
+I've been hit! I'm down!
+
+39
+00:01:01,530 --> 00:01:03,280
+- 佩勒姆 - 我在西侧
+- Pelham! - On the west side!
+
+40
+00:01:06,290 --> 00:01:07,030
+佩勒姆不行了
+Pelham's down.
+
+41
+00:01:07,030 --> 00:01:09,740
+- 我要你带我进去 - 我们不知道里面有多少人
+- I need you to lead me in! - We don't know how many suspects are in there.
+
+42
+00:01:09,740 --> 00:01:11,380
+- 冒生命危险去救另一... - 闭嘴
+- Risking one life to save one life... - Shut up!
+
+43
+00:01:11,380 --> 00:01:13,130
+带我进去 快
+Lead me in! Move!
+
+44
+00:01:33,520 --> 00:01:35,310
+嘿 兄弟 情况不太妙啊
+Hey, buddy. So this ain't good.
+
+45
+00:01:35,310 --> 00:01:37,930
+对 确实不妙 但有些情况比这还糟糕
+No, it's not. Could always be worse!
+
+46
+00:01:41,680 --> 00:01:42,940
+还真更糟糕了
+It just got worse.
+
+47
+00:01:42,940 --> 00:01:44,620
+他们早就等着我们送上门了 约翰
+They were ready for us, John.
+
+48
+00:01:44,950 --> 00:01:47,040
+反联组织怎么知道我们要来
+How did Insyndicate know we were coming?
+
+49
+00:01:47,490 --> 00:01:48,490
+他们怎么知道的
+How did they know?
+
+50
+00:01:48,490 --> 00:01:50,640
+- 机器人 - 他们怎么知道的
+- MX! - How'd they know?
+
+51
+00:01:50,640 --> 00:01:53,030
+我们要撤离这里 给他诊断一下
+We're getting out of here. Give me a diagnostic!
+
+52
+00:01:54,360 --> 00:01:55,280
+血压正在下降
+Blood pressure's dropping,
+
+53
+00:01:55,280 --> 00:01:57,260
+腹腔动脉被炸断了
+celiac artery's blown apart.
+
+54
+00:01:57,260 --> 00:01:58,740
+我们无能为力了 长官
+There's nothing to do, sir.
+
+55
+00:02:00,240 --> 00:02:01,290
+我们要撤离这里
+We're getting out of here.
+
+56
+00:02:01,300 --> 00:02:03,370
+在你带他离开之前 他就会失血过多而死 
+He will bleed to death before you get him out of here.
+
+57
+00:02:03,370 --> 00:02:05,900
+- 闭嘴 掩护我们 我们要撤了 - 我不能那么做
+- Shut up! Cover us! We're leaving! - I cannot do that.
+
+58
+00:02:05,910 --> 00:02:08,340
+统计结果表明其余人生还的可能性更大
+Others have a better statistical chance of surviving.
+
+59
+00:02:08,340 --> 00:02:09,950
+我需要保护他们
+I need to protect them.
+
+60
+00:02:09,950 --> 00:02:12,770
+- 你是否要陪着你的搭档 - 我当然要
+- Are you staying with your partner? - You're damn right I am!
+
+61
+00:02:13,740 --> 00:02:16,240
+嘿 你给我回来
+Hey! Come back here!
+
+62
+00:02:16,960 --> 00:02:17,820
+跟我来
+Come on.
+
+63
+00:03:48,940 --> 00:03:50,560
+告诉我你记起了什么
+Tell me what you remember.
+
+64
+00:03:51,110 --> 00:03:52,190
+这一次...
+This time...
+
+65
+00:03:52,970 --> 00:03:54,760
+我记起了无线电呼叫
+I remember the radio call.
+
+66
+00:03:54,990 --> 00:03:56,120
+佩勒姆呼叫的
+From Pelham.
+
+67
+00:03:56,410 --> 00:03:57,430
+你的搭档
+Your partner.
+
+68
+00:03:57,430 --> 00:03:59,460
+对 但仅此而已了
+Yeah. But not much more than that.
+
+69
+00:03:59,460 --> 00:04:01,560
+我还是想不起所有细节
+I still can't remember every detail.
+
+70
+00:04:03,070 --> 00:04:04,410
+我想再来一次
+I want to go again.
+
+71
+00:04:04,410 --> 00:04:06,590
+你今晚已经有很大进步了 约翰
+You made good progress tonight, John.
+
+72
+00:04:06,600 --> 00:04:10,050
+你昏迷了十七个月 对吧
+You were in a coma for 17 months, yes?
+
+73
+00:04:10,230 --> 00:04:12,240
+严格意义上来说 我们应该等你完全清醒一年
+Technically, we shouldn't be doing this procedure
+
+74
+00:04:12,240 --> 00:04:14,520
+再进行这项程序
+until you've been fully conscious for one year.
+
+75
+00:04:14,520 --> 00:04:15,370
+是啊
+Yeah.
+
+76
+00:04:15,370 --> 00:04:17,270
+严格意义上来说
+Well, technically...
+
+77
+00:04:17,650 --> 00:04:19,850
+你只是一个没有行医执照
+you're an unlicensed doctor from SubAsia
+
+78
+00:04:19,860 --> 00:04:22,080
+而且私用黑市药物的亚洲医生
+practicing black market medicine.
+
+79
+00:04:22,660 --> 00:04:23,590
+没错
+Well, yes,
+
+80
+00:04:23,590 --> 00:04:25,730
+如果你愿意可以把我关进监狱
+you can throw me in prison if you want,
+
+81
+00:04:25,730 --> 00:04:30,620
+但是 我是出于好意 把你当做病人收留了
+but... I accepted you as a patient out of kindness.
+
+82
+00:04:31,000 --> 00:04:33,550
+我最初见到你的时候 你看起来很绝望
+You seemed like a desperate man when I met you.
+
+83
+00:04:33,680 --> 00:04:34,690
+现在呢
+And now?
+
+84
+00:04:34,820 --> 00:04:37,260
+现在 你看起来很绝望
+Now... you seem like a desperate man.
+
+85
+00:04:38,490 --> 00:04:41,590
+约翰 我知道你说过伏击你们的人消失了
+John, I know you said the people who ambushed you disappeared,
+
+86
+00:04:41,590 --> 00:04:43,210
+但是 就算我尽最大的努力
+but, despite my best efforts,
+
+87
+00:04:43,210 --> 00:04:45,130
+你可能还是想不起他们是谁
+you may not remember who they are.
+
+88
+00:04:45,910 --> 00:04:49,160
+大多数来找回忆师的人
+Most people come to a Recollectionist...
+
+89
+00:04:49,370 --> 00:04:51,260
+是为了想起一些美好的事物
+they want to remember good things.
+
+90
+00:04:51,370 --> 00:04:54,500
+你为什么就不能放下这件事呢 已经两年了
+Why can't you let this go? It's been two years.
+
+91
+00:04:55,340 --> 00:04:56,500
+你要知道
+You know...
+
+92
+00:04:57,750 --> 00:04:59,410
+他们杀了我的队友
+they killed my team...
+
+93
+00:05:00,870 --> 00:05:02,300
+我的朋友
+...my friends.
+
+94
+00:05:04,190 --> 00:05:07,200
+不接受这项治疗 我就想不起任何事
+And without this treatment, I can't remember anything.
+
+95
+00:05:12,900 --> 00:05:15,130
+我这次还想起了一些别的事情
+I remembered something else this time.
+
+96
+00:05:16,910 --> 00:05:18,400
+我的前女友
+My ex-girlfriend.
+
+97
+00:05:18,690 --> 00:05:19,680
+安娜
+Anna.
+
+98
+00:05:21,690 --> 00:05:23,240
+我们在我的公寓里
+We were in my apartment.
+
+99
+00:05:23,510 --> 00:05:24,750
+奇怪了
+Strange.
+
+100
+00:05:25,290 --> 00:05:26,420
+下次我来...
+I'll, uh...
+
+101
+00:05:26,990 --> 00:05:29,780
+改进一下那组集群的触发器
+refine the triggering of that cluster next time.
+
+102
+00:05:29,780 --> 00:05:31,020
+你流鼻血了
+Your nose is bleeding.
+
+103
+00:06:18,350 --> 00:06:19,400
+警探
+Detective.
+
+104
+00:06:19,640 --> 00:06:20,830
+你还好吗
+You all right?
+
+105
+00:06:22,100 --> 00:06:23,010
+还好
+Yeah.
+
+106
+00:06:23,610 --> 00:06:25,100
+你的机器人搭档呢
+Where's your MX?
+
+107
+00:06:25,290 --> 00:06:26,530
+我下班了
+I'm off duty.
+
+108
+00:06:26,640 --> 00:06:29,240
+- 你的人类搭档呢 - 在和目击者谈话
+- Where's your human? - Talking to a witness.
+
+109
+00:06:29,340 --> 00:06:32,020
+一小时前有几个人翻墙过来了
+Individuals came over the wall an hour ago.
+
+110
+00:06:35,950 --> 00:06:37,260
+请小心驾驶
+Drive safely.
+
+111
+00:06:37,330 --> 00:06:38,310
+我会的
+Yeah, I will.
+
+112
+00:07:28,740 --> 00:07:32,600
+738天前的信息
+Message saved for 738 days.
+
+113
+00:07:32,600 --> 00:07:33,870
+嗨 宝贝
+Hi, honey.
+
+114
+00:07:33,880 --> 00:07:36,390
+我知道你可能还在睡觉 但是
+So, I know you're probably still asleep, but,
+
+115
+00:07:36,390 --> 00:07:38,480
+约翰 太阳就要落山了
+John, the sun is setting
+
+116
+00:07:38,480 --> 00:07:41,920
+这是我见过的最美的景色
+and it is the most beautiful thing I've ever seen.
+
+117
+00:07:41,920 --> 00:07:42,790
+快看
+Look.
+
+118
+00:07:44,500 --> 00:07:46,880
+你爸爸肯定会喜欢这个地方
+Your father would've loved this place.
+
+119
+00:07:48,130 --> 00:07:50,410
+哦 我等不及要回到你的身边了
+Oh, I can't wait to get back to you.
+
+120
+00:07:50,780 --> 00:07:53,510
+我知道我还得再等一个星期 但是...
+I know I have to wait a week, but...
+
+121
+00:07:53,510 --> 00:07:57,580
+我真的很希望你能在这里陪着我
+what I really wish is that you were here with me.
+
+122
+00:08:14,610 --> 00:08:16,060
+- 早上好 - 早上好
+- Morning. - Morning.
+
+123
+00:08:16,490 --> 00:08:19,080
+- 你来上班吗 - 我知道我说过我准备好了
+- You coming in? - I know I said I was ready.
+
+124
+00:08:19,840 --> 00:08:21,150
+只要再给我一天假就好
+Just give me one more day.
+
+125
+00:08:21,150 --> 00:08:23,470
+不 我已经给过你一天假了
+No. I already gave you one more day.
+
+126
+00:08:23,470 --> 00:08:24,920
+然后又是一天 又是一天
+And another and another.
+
+127
+00:08:24,920 --> 00:08:26,300
+是时候了 约翰
+It's time, John.
+
+128
+00:08:27,890 --> 00:08:28,980
+约翰
+John?
+
+129
+00:08:30,410 --> 00:08:33,370
+我刚刚收到一个报告 在南凯尔文发生了一起武装抢劫
+I just got a report of a coordinated armed robbery in South Kelvin.
+
+130
+00:08:33,380 --> 00:08:35,150
+看起来像是反联组织干的
+Looks like it was Insyndicate.
+
+131
+00:08:35,990 --> 00:08:37,230
+反联组织
+Insyndicate?
+
+132
+00:08:43,260 --> 00:08:44,170
+好吧
+Okay.
+
+133
+00:08:45,060 --> 00:08:46,370
+我一会就过去
+I'll come in.
+
+134
+00:08:57,620 --> 00:09:00,110
+人造骨骼校准未完成
+Synthetic calibration incomplete.
+
+135
+00:09:01,360 --> 00:09:03,930
+人造骨骼校准未完成
+Synthetic calibration incomplete.
+
+136
+00:09:04,900 --> 00:09:07,200
+人造骨骼校准未完...
+Synthetic calibration incompl...
+
+137
+00:09:12,960 --> 00:09:15,390
+- 我无法访问系统 你进去了吗 - 我进去了 
+- I can't access the system. Are you in? - I'm in.
+
+138
+00:09:15,390 --> 00:09:16,670
+我登陆不进去啊
+I'm not in. I'm out.
+
+139
+00:09:16,670 --> 00:09:18,110
+我所有文件都被锁住了
+All my files are locked.
+
+140
+00:09:18,410 --> 00:09:20,660
+听起来像是马丁内斯又在作弄你了
+Sounds like Martinez is messing with you again.
+
+141
+00:09:20,840 --> 00:09:21,870
+我们应该在休战了
+We're supposed to be in a truce,
+
+142
+00:09:21,870 --> 00:09:24,390
+如果是真的 我要杀了他
+so, if that's true, I'm gonna kill him.
+
+143
+00:09:25,260 --> 00:09:27,150
+还有另一种可能性
+Well, there is one other possibility.
+
+144
+00:09:27,240 --> 00:09:29,890
+你是不是又忘了你的密码了 沃格尔探长
+Did you forget your password again, detective Vogel?
+
+145
+00:09:33,730 --> 00:09:36,050
+睡了两年的人看来状态不错
+Not bad for a guy who's been asleep for two years.
+
+146
+00:09:38,780 --> 00:09:39,950
+我不敢苟同
+I wouldn't say that.
+
+147
+00:09:40,580 --> 00:09:41,890
+我看他很弱
+He looks weak, to me.
+
+148
+00:09:42,380 --> 00:09:43,330
+理查德
+Richard,
+
+149
+00:09:43,410 --> 00:09:46,060
+我知道这对你来说不容易 但不要当刺头儿
+I know this won't be easy for you, don't be a prick.
+
+150
+00:09:46,070 --> 00:09:48,180
+这个部门就算没有他也能办好事
+This department's handled affairs just fine without him.
+
+151
+00:09:48,190 --> 00:09:49,330
+你对肯尼思有什么意见
+What's your problem with Kennex?
+
+152
+00:09:49,330 --> 00:09:51,240
+别听他废话 你会无聊死的
+Don't ask to hear the story... you'll die of boredom.
+
+153
+00:09:51,240 --> 00:09:52,960
+还会被浓烈的嫉妒情绪毒害
+And exposure to severe envy.
+
+154
+00:09:52,970 --> 00:09:54,550
+他有什么可让人嫉妒的
+Look, there's nothing to envy in him.
+
+155
+00:09:55,070 --> 00:09:56,620
+肯尼思负责的那次突击
+Kennex oversaw that raid,
+
+156
+00:09:56,620 --> 00:09:59,150
+明明掌握了所有情报 却使他的队伍被伏击
+controlled all the intel and got his team ambushed.
+
+157
+00:09:59,150 --> 00:10:02,610
+除了肯尼思这个负责人 所有人都被杀了
+Everyone, except the one man responsible... Kennex... was killed.
+
+158
+00:10:02,670 --> 00:10:04,220
+他应该被免职才对
+Should've been discharged.
+
+159
+00:10:04,220 --> 00:10:05,130
+理查德
+Richard.
+
+160
+00:10:05,900 --> 00:10:07,050
+他不会久留
+He won't last.
+
+161
+00:10:07,610 --> 00:10:08,780
+你们瞧好吧
+You just watch.
+
+162
+00:10:21,530 --> 00:10:24,140
+约翰・肯尼思注册完成
+Kennex, John. Registration complete.
+
+163
+00:10:24,330 --> 00:10:25,380
+谢谢
+Thanks.
+
+164
+00:10:27,150 --> 00:10:28,300
+肯尼思警探
+Detective Kennex,
+
+165
+00:10:28,300 --> 00:10:30,800
+我是编号785 我被指派给你了
+I'm 785. I've been assigned to you.
+
+166
+00:10:32,250 --> 00:10:34,210
+我知道这是你回来的第一天
+I'm aware this is your first day back.
+
+167
+00:10:34,210 --> 00:10:38,430
+我只想帮助你尽可能顺利的适应现役职务
+I only want to make your acclimation to active duty as smooth as possible for you.
+
+168
+00:10:38,430 --> 00:10:40,030
+我会参与你所有...
+I'm here to attend to all your n...
+
+169
+00:10:40,030 --> 00:10:42,210
+我不会和那种东西一起出车
+I'm not driving with one of those things.
+
+170
+00:10:42,210 --> 00:10:44,590
+对我爸来说 有人类搭档就够了
+Human partner was good enough for my father.
+
+171
+00:10:44,630 --> 00:10:45,890
+对我来说也一样
+It's good enough for me.
+
+172
+00:10:45,890 --> 00:10:47,000
+自从你离开之后
+Since you were last here,
+
+173
+00:10:47,000 --> 00:10:48,960
+配备MX已经成了硬性规定
+MX partners have become mandatory.
+
+174
+00:10:48,960 --> 00:10:51,210
+我不想就规章制度的事跟你吵 好吗
+I'm not gonna fight you on some kind of regulation thing, okay?
+
+175
+00:10:51,210 --> 00:10:53,180
+- 我不干 - 不干也得干
+- I'm not doing it. - Like hell you're not.
+
+176
+00:10:53,250 --> 00:10:55,020
+你读过蒂尔登分析你的档案吗
+Have you read Tilden's profile of you?
+
+177
+00:10:55,020 --> 00:10:57,480
+顺便说一下 他是个非常厉害的精神病医生
+And, by the way, he is a very capable psychiatrist.
+
+178
+00:10:57,480 --> 00:10:59,620
+"肯尼思永远不能复职"
+"Kennex should return to service never."
+
+179
+00:10:59,620 --> 00:11:01,980
+永远 这...这时间长了点吧 
+Never? Wow, that's... that's a long time.
+
+180
+00:11:01,980 --> 00:11:04,160
+"肯尼思饱受抑郁症 精神萎靡
+"Kennex is suffering from depression, mental atrophy,
+
+181
+00:11:04,170 --> 00:11:06,600
+创伤性强迫症 创伤后应激障碍
+trauma onset OCD, PTSD
+
+182
+00:11:06,600 --> 00:11:09,480
+以及心理上排斥仿生部件等问题的折磨"
+and psychological rejection of his synthetic body parts."
+
+183
+00:11:09,480 --> 00:11:11,210
+最后一句倒是真的
+Well, that last part is true.
+
+184
+00:11:14,280 --> 00:11:16,950
+听着 你是唯一一个比我更迫切地
+Listen, you're the only person more desperate than I am
+
+185
+00:11:16,950 --> 00:11:19,330
+想知道反联组织是怎样知道那次突击的
+to find out how Insyndicate learned about the raid.
+
+186
+00:11:19,330 --> 00:11:21,350
+只要我们合作就会找到答案
+If we work together, we can do it.
+
+187
+00:11:22,130 --> 00:11:23,840
+案件发生在几小时前
+This happened a few hours ago.
+
+188
+00:11:27,920 --> 00:11:30,900
+劫持目标是一辆装有生物研究制品的武装卡车
+Robbery target was an armored truck, carrying bio research.
+
+189
+00:11:30,900 --> 00:11:32,500
+如果这起劫案是反联组织策划的
+If this is an Insyndicate operation,
+
+190
+00:11:32,500 --> 00:11:34,410
+我们或许能更了解他们
+it might help us learn more about them.
+
+191
+00:11:34,550 --> 00:11:35,610
+和上次行动有什么联系
+What's the connection?
+
+192
+00:11:35,610 --> 00:11:38,350
+使用抛物线型脉冲电荷来阻止车辆
+Parabolic pulse charge was used to stop the vehicle.
+
+193
+00:11:38,350 --> 00:11:40,420
+伏击之后我就没见过这种作案手法
+I haven't seen that since the ambush.
+
+194
+00:11:43,320 --> 00:11:45,180
+那倒像是反联组织干的
+Well, sure looks like Insyndicate.
+
+195
+00:11:45,180 --> 00:11:47,370
+- 库存报告在吗 - 还没有
+- Inventory report? - That's not in yet.
+
+196
+00:11:47,640 --> 00:11:50,690
+不管他们想要什么 他们杀了四名安保人员
+Whatever they wanted, they killed four security guards to get it.
+
+197
+00:11:53,160 --> 00:11:54,320
+其中一个劫匪被我们打伤
+One of the thieves was shot.
+
+198
+00:11:54,320 --> 00:11:55,950
+正在郡医院接受治疗
+He's being treated at County.
+
+199
+00:11:56,990 --> 00:11:57,860
+约翰
+John?
+
+200
+00:11:58,880 --> 00:12:01,530
+反联组织的事不要告诉别人 好吗 
+Keep the Insyndicate connection between us, okay?
+
+201
+00:12:02,350 --> 00:12:04,920
+你觉得我们部门有内奸
+You think someone in the department's working with them?
+
+202
+00:12:06,090 --> 00:12:08,030
+你是我唯一相信的人
+You're the only guy I trust here.
+
+203
+00:12:10,780 --> 00:12:11,680
+好的
+Okay.
+
+204
+00:12:11,680 --> 00:12:12,880
+我去查查
+I'll check it out.
+
+205
+00:12:14,960 --> 00:12:15,950
+还有一件事
+One more thing.
+
+206
+00:12:17,270 --> 00:12:18,870
+对你的搭档好一点
+Go easy on your partner.
+
+207
+00:12:23,810 --> 00:12:24,710
+走吧
+Come.
+
+208
+00:12:36,070 --> 00:12:38,190
+卡车是全能公司的一间私人实验室的
+Truck belongs to a private lab run by Omni,
+
+209
+00:12:38,190 --> 00:12:40,440
+他们公司从事的是DNA研究
+company specializing in DNA research.
+
+210
+00:12:41,000 --> 00:12:41,980
+据经理说 
+According to the manager,
+
+211
+00:12:41,980 --> 00:12:46,340
+车里是装有人造单链可编程DNA的试剂瓶
+they were transporting vials of single-strand synthetic, programmable DNA.
+
+212
+00:12:46,740 --> 00:12:49,130
+探长 我是瓦莱丽・斯特尔
+Detective? Valerie Stahl.
+
+213
+00:12:49,130 --> 00:12:50,080
+约翰・肯尼思
+John Kennex.
+
+214
+00:12:50,080 --> 00:12:51,900
+- 见到你很高兴 - 我也是
+- Pleasure to meet you. - You, too.
+
+215
+00:12:52,950 --> 00:12:53,690
+好的
+Okay.
+
+216
+00:12:53,690 --> 00:12:56,260
+说说你对可编程DNA知道些什么
+So tell me what you got on programmable DNA.
+
+217
+00:12:56,270 --> 00:12:59,960
+可编程DNA可以用来启动组织的再生过程
+Programmable DNA can be used to trigger the process of tissue creation.
+
+218
+00:12:59,960 --> 00:13:02,480
+比如 可以利用人体来培育器官
+For example, to grow sets of organs in humans,
+
+219
+00:13:02,490 --> 00:13:03,920
+再拿去贩卖
+possibly for harvest.
+
+220
+00:13:03,920 --> 00:13:05,140
+还带走了什么东西
+What else was taken?
+
+221
+00:13:05,140 --> 00:13:08,570
+酸 苯碳化物 塞亚诺 迈克隆红
+Acid, bencarmidium, thianel, Myklon Red.
+
+222
+00:13:11,060 --> 00:13:12,250
+迈克隆红
+Myklon Red.
+
+223
+00:13:15,420 --> 00:13:17,170
+迈克隆红 迈克隆红
+Myklon Red, Myklon Red...
+
+224
+00:13:22,170 --> 00:13:23,160
+探长
+Detective?
+
+225
+00:13:26,860 --> 00:13:28,320
+探长 你没事吧
+Detective, you okay?
+
+226
+00:13:30,550 --> 00:13:32,270
+没事 我很好 谢谢
+Yeah, I'm fine. Thanks.
+
+227
+00:13:33,930 --> 00:13:35,700
+这片区域是黑色高棉组织的地盘
+This sector is Khmer Black territory.
+
+228
+00:13:33,930 --> 00:13:35,700
+高棉是柬埔寨的旧称
+
+229
+00:13:35,710 --> 00:13:38,170
+他们以前就是搞生物技术非法交易的
+They've been known to traffic in biotech in the past.
+
+230
+00:13:38,170 --> 00:13:40,150
+我们正在搜捕其中有嫌疑的人
+We're rounding up the usual suspects.
+
+231
+00:13:40,830 --> 00:13:42,050
+你觉得不是他们干的
+You don't buy it?
+
+232
+00:13:42,880 --> 00:13:45,300
+鲁比・马半年前接替了他死去哥哥的位子
+Ruby Mah assumed leadership of the gang six months ago
+
+233
+00:13:45,300 --> 00:13:46,530
+成了团伙的老大
+when his brother was killed.
+
+234
+00:13:46,530 --> 00:13:49,000
+但团伙内部对此有异议 他们认为他太过西化了 
+It was controversial. He's seen as too Western.
+
+235
+00:13:49,000 --> 00:13:51,070
+所以他需要向手下展示他传统的一面
+He needs to show the people he's traditional.
+
+236
+00:13:51,470 --> 00:13:53,210
+今天是柬埔寨新年的最后一天
+Today is the last day of the Cambodian New Year,
+
+237
+00:13:53,210 --> 00:13:55,880
+叫做新岁日 是忏悔过错的一天
+Loeung Sakk, a day of repentance for wrongdoing.
+
+238
+00:13:56,140 --> 00:13:57,910
+他今天不会实施暴力
+He wouldn't commit violence today.
+
+239
+00:13:57,940 --> 00:13:59,220
+这是其他组织干的
+This was another gang.
+
+240
+00:14:00,730 --> 00:14:04,450
+我去找找行为倾向的数据 确定犯罪模式
+I'll find behavioral tendencies in data and identify criminal patterns.
+
+241
+00:14:05,110 --> 00:14:08,440
+还是我来之前情报分析员就已经分析过了
+Or didn't intelligence analysts do that before I got here?
+
+242
+00:14:09,390 --> 00:14:11,940
+谢谢 我 呃...非常感谢
+Thanks. I, uh... I really appreciate it.
+
+243
+00:14:12,540 --> 00:14:13,560
+失陪
+Excuse me.
+
+244
+00:14:13,750 --> 00:14:14,750
+没事
+Sure.
+
+245
+00:14:29,670 --> 00:14:32,230
+- 告诉总部我们要回去了 - 刚刚你怎么回事
+- Tell command we're 10-19. - What happened back there?
+
+246
+00:14:32,650 --> 00:14:34,030
+你在说什么
+What are you talking about?
+
+247
+00:14:35,760 --> 00:14:37,680
+看起来像癫痫症发作
+It seemed like a petit mal seizure.
+
+248
+00:14:37,720 --> 00:14:39,580
+我必须向上级报告
+I will need to report what I saw.
+
+249
+00:14:39,580 --> 00:14:41,190
+我没事 你不需要报告任何事
+I'm fine. You're not gonna report anything.
+
+250
+00:14:41,190 --> 00:14:43,250
+昨晚你在科隆街区
+You were in Koln Avenue District last night.
+
+251
+00:14:43,260 --> 00:14:44,720
+一个MX看到了你
+An MX saw you there.
+
+252
+00:14:44,720 --> 00:14:46,390
+据我所知 探长
+I am concerned, Detective.
+
+253
+00:14:46,440 --> 00:14:49,530
+那片区域有大量地下黑诊所
+That area is populated by numerous black market medical clinics.
+
+254
+00:14:49,530 --> 00:14:51,570
+还有美味的拉面馆
+And some tasty noodle joints.
+
+255
+00:14:54,230 --> 00:14:56,290
+听着 我很感谢你的关心
+Look, I appreciate your concern,
+
+256
+00:14:56,490 --> 00:14:58,290
+不过没什么需要报告的
+but there's nothing to report.
+
+257
+00:15:14,870 --> 00:15:17,250
+另一件奇怪的事 肯尼思探长
+Another curious thing, Detective Kennex?
+
+258
+00:15:17,250 --> 00:15:20,290
+昨晚 你的呼吸中没有夹杂食物颗粒
+Last night, there were no comestible trace particles on your breath,
+
+259
+00:15:20,290 --> 00:15:22,330
+表明你并没有吃拉面
+indicating you were not there for noodles.
+
+260
+00:15:22,330 --> 00:15:23,410
+我认为我们应该...
+I think we should...
+
+261
+00:15:38,460 --> 00:15:39,490
+嗨 鲁迪
+Hey, Rudy.
+
+262
+00:15:42,660 --> 00:15:44,480
+我不是撞鬼了吧
+As I live and breathe.
+
+263
+00:15:44,820 --> 00:15:47,130
+或者说 你居然还活着
+Or should I say, as you live and breathe?
+
+264
+00:15:47,140 --> 00:15:48,340
+最近怎么样
+How are ya?
+
+265
+00:15:48,570 --> 00:15:50,980
+每天都在回绝派对邀请
+Constantly turning down party invitations.
+
+266
+00:15:51,160 --> 00:15:53,330
+现在我已经很受女性欢迎了
+I've become quite popular with the ladies.
+
+267
+00:15:53,330 --> 00:15:54,830
+要我做什么
+How can I help?
+
+268
+00:15:56,620 --> 00:15:59,200
+我需要一个新机器人 这是授权令
+I got a rec order for another synthetic.
+
+269
+00:16:00,020 --> 00:16:01,510
+他摔坏了
+He fell?
+
+270
+00:16:02,240 --> 00:16:03,800
+掉出了疾驰的汽车
+Out of a moving car?
+
+271
+00:16:03,800 --> 00:16:07,370
+是啊 很惊讶吧 一定是软件的问题
+Yeah, crazy, huh? Must be some kind of software issue.
+
+272
+00:16:07,370 --> 00:16:08,920
+我得搞个新的
+Gonna need a new one.
+
+273
+00:16:10,510 --> 00:16:11,960
+软件会出问题
+Software?
+
+274
+00:16:13,930 --> 00:16:16,530
+鉴于我们没有可用的MX机器人
+Since we don't have any MXs available,
+
+275
+00:16:16,530 --> 00:16:19,470
+而警局允许服役的机器人只有这一款了
+department's only cleared one model for active duty.
+
+276
+00:16:19,470 --> 00:16:20,850
+有趣的是 这个其实...
+Funny, actually. This, uh...
+
+277
+00:16:20,850 --> 00:16:25,480
+这个下个月要被安排转移到NASA去
+this unit was scheduled to be transferred to NASA next month.
+
+278
+00:16:20,850 --> 00:16:25,480
+NASA: 美国国家航空航天局
+
+279
+00:16:26,020 --> 00:16:27,290
+挺可悲的
+It's sad really.
+
+280
+00:16:27,290 --> 00:16:28,760
+他只是坨废铁
+He's scrap metal.
+
+281
+00:16:28,760 --> 00:16:31,350
+他脊椎里用稀土金属做成的电路
+The trimidium circuits in his spinal column are
+
+282
+00:16:31,360 --> 00:16:33,470
+比他全身加起来都值钱
+worth more than the whole of him.
+
+283
+00:16:37,350 --> 00:16:39,670
+等等 这是...这是疯了的那款吧
+Wait a minute. That's... that's one of the crazy ones.
+
+284
+00:16:39,670 --> 00:16:41,930
+什么 才不是呢 这么说太粗鲁了 
+What? No. That's rude.
+
+285
+00:16:41,930 --> 00:16:44,220
+- 本质上说不算疯 - 你知道 他们有...
+- Not crazy, per se. - You know, they had their...
+
+286
+00:16:44,220 --> 00:16:47,640
+什么 毛病 谁还没点毛病呢
+What? Problems? Who doesn't have problems?
+
+287
+00:16:48,750 --> 00:16:51,580
+技术角度来说 他们功能完美
+Technically, they're perfectly functional.
+
+288
+00:16:51,580 --> 00:16:52,730
+看看他
+Look at him.
+
+289
+00:16:52,750 --> 00:16:54,350
+很适合出门
+He's road-worthy.
+
+290
+00:16:55,320 --> 00:16:58,710
+约翰 这是多利安 多利安这是约翰
+John, Dorian. Dorian, John.
+
+291
+00:17:04,680 --> 00:17:06,270
+好了 应该能用了
+There. Should be functional.
+
+292
+00:17:06,270 --> 00:17:07,860
+他的测向器以前坏了
+His DF was bad.
+
+293
+00:17:08,020 --> 00:17:09,500
+有什么我要注意的吗
+Anything I need to know?
+
+294
+00:17:09,500 --> 00:17:11,020
+DRN系列的机器人
+Well, the DRN series--
+
+295
+00:17:11,020 --> 00:17:14,240
+他们是基于一个叫人造灵魂的项目而开发
+they were based on a program called Synthetic Soul.
+
+296
+00:17:14,240 --> 00:17:16,790
+按你的说法 当他不疯的时候
+And while he isn't crazy, as you say,
+
+297
+00:17:16,790 --> 00:17:18,350
+会有一些小故障
+there may be some bugs.
+
+298
+00:17:18,350 --> 00:17:19,920
+故障 什么样的故障
+Bugs? What kind of bugs?
+
+299
+00:17:19,920 --> 00:17:23,900
+有一些机器人无法处理他们的情感准则
+Some of them had difficulty dealing with their emotive regulations.
+
+300
+00:17:23,900 --> 00:17:25,210
+出现情感问题
+Emotional issues.
+
+301
+00:17:25,210 --> 00:17:28,090
+DRN的设计初衷是让其尽可能的和人类接近
+The idea behind the DRNs was to be as human as possible.
+
+302
+00:17:28,090 --> 00:17:31,990
+而事实上 人类会有一些无法预计的情绪反应
+And the truth is that it's human to have unexpected emotional responses.
+
+303
+00:17:31,990 --> 00:17:36,250
+如果把接近人类作为目标的话
+And if, uh, being as close to human was the goal, then,
+
+304
+00:17:36,250 --> 00:17:39,730
+那我想DRN系列应该不算太失败
+I guess the DRNs weren't such a failure after all.
+
+305
+00:17:39,730 --> 00:17:41,850
+人们会情绪崩溃
+People have breaking points, and...
+
+306
+00:17:42,030 --> 00:17:43,540
+所以DRN也会崩溃
+so do DRNs.
+
+307
+00:17:43,540 --> 00:17:45,150
+所以你的意思是他是个不健全的人
+So you're saying he's a basket case.
+
+308
+00:17:45,150 --> 00:17:48,480
+我可没说过 也没承认过
+Not words I would use, or agree with.
+
+309
+00:17:49,880 --> 00:17:53,150
+好吧 准备好了就插上电源吧 我得回街上了 
+All right, plug it in already. I got to get back on the street.
+
+310
+00:17:53,150 --> 00:17:54,030
+好的
+Okay.
+
+311
+00:17:56,500 --> 00:18:00,180
+唤醒他的荣幸就交给你了
+Please have the honor of waking him up yourself.
+
+312
+00:18:00,880 --> 00:18:02,760
+触碰他的左耳
+Touch it against his left ear.
+
+313
+00:18:17,410 --> 00:18:19,200
+我睡了多久
+How long was I out?
+
+314
+00:18:19,260 --> 00:18:22,850
+四年零三个月
+Uh, four years and three months.
+
+315
+00:18:36,980 --> 00:18:38,890
+约翰・肯尼思探长
+Detective John Kennex.
+
+316
+00:18:39,180 --> 00:18:41,470
+我叫多利安 你好
+I'm Dorian. How are you?
+
+317
+00:18:41,470 --> 00:18:43,400
+您的记录非常杰出
+Your record is outstanding.
+
+318
+00:18:43,400 --> 00:18:44,750
+过去是
+Used to be.
+
+319
+00:18:44,750 --> 00:18:46,010
+抱歉
+Excuse me?
+
+320
+00:18:46,010 --> 00:18:48,130
+更新你的资料 我们走
+Update your files. Let's go.
+
+321
+00:18:54,270 --> 00:18:55,630
+嘿 老大
+Hey, boss.
+
+322
+00:18:59,430 --> 00:19:00,950
+他出来了
+He's on the move.
+
+323
+00:19:01,260 --> 00:19:02,480
+我们走
+Let's go!
+
+324
+00:19:02,480 --> 00:19:04,060
+大家听见了吗 我们走
+You heard him. Let's go.
+
+325
+00:19:24,370 --> 00:19:26,070
+我该怎么称呼您
+So what do I call you?
+
+326
+00:19:26,150 --> 00:19:27,570
+探长
+Detective.
+
+327
+00:19:27,720 --> 00:19:30,810
+好吧 探长 这活儿可比在CNA太空站
+Well, Detective, this sure beats repairing thermal insulation tiles
+
+328
+00:19:30,810 --> 00:19:32,660
+修补隔热砖强多了
+on the C.N.A. Space Station.
+
+329
+00:19:35,930 --> 00:19:38,540
+你也知道 我四年前就退役了
+I was decommissioned four years ago, as you know.
+
+330
+00:19:39,890 --> 00:19:41,750
+为什么我和你在一辆车里
+Why am I in this car with you?
+
+331
+00:19:41,750 --> 00:19:44,120
+我必须和一个人造人一起开车
+I'm required to ride with a synthetic.
+
+332
+00:19:44,960 --> 00:19:46,930
+我对那个词可不感冒
+I'm not a huge fan of that term.
+
+333
+00:19:51,840 --> 00:19:53,330
+圣・克里斯托弗
+St. Christopher.
+
+334
+00:19:53,330 --> 00:19:55,410
+这肯定是别人送你的礼物 对吗
+This has to be a gift from someone. Am I right?
+
+335
+00:19:55,420 --> 00:19:57,790
+大约80%的可能性是件礼物
+Something like 80% of these are given as gifts.
+
+336
+00:19:57,790 --> 00:19:59,710
+人造人都是很严谨的
+Synthetics are precise.
+
+337
+00:20:00,070 --> 00:20:01,150
+又是那个词
+There's that term again.
+
+338
+00:20:01,160 --> 00:20:02,490
+你刚刚说"大约80%"
+You just said, "Something like 80%."
+
+339
+00:20:02,490 --> 00:20:05,460
+准确的数据是83.42%
+The actual statistic is 83.42%,
+
+340
+00:20:05,460 --> 00:20:07,130
+但我在运行我的日常口语程序
+but I'm running my colloquialism routine,
+
+341
+00:20:07,130 --> 00:20:09,870
+所以我得表达大量的口语数据 伙计
+so I express most data conversationally, man.
+
+342
+00:20:10,960 --> 00:20:12,220
+棒极了
+Terrific.
+
+343
+00:20:13,850 --> 00:20:15,320
+那"A"是谁
+So, who's "A"?
+
+344
+00:20:15,640 --> 00:20:18,750
+艾迪森 安妮 艾德琳
+Addison? Annie? Adeline?
+
+345
+00:20:18,750 --> 00:20:20,530
+阿兰娜 安尼塔
+Alana? Anita?
+
+346
+00:20:20,530 --> 00:20:23,310
+艾米 奥黛丽 海蓝宝石
+Amy? Audrey? Aquamarine?
+
+347
+00:20:23,320 --> 00:20:24,670
+好吧 够了 行了吗
+Okay, that's enough, all right?
+
+348
+00:20:24,670 --> 00:20:27,560
+人造人系统关闭
+Um... synthetic off.
+
+349
+00:20:29,860 --> 00:20:31,820
+人造人关机
+Synthetic off?
+
+350
+00:20:31,930 --> 00:20:33,680
+你是说 让我安静吗
+Does that mean you want me to be quiet?
+
+351
+00:20:33,680 --> 00:20:36,760
+对 不管你的安静模式是什么 调到那个模式
+Yeah, whatever the mode is for you to be quiet, just do that.
+
+352
+00:20:36,760 --> 00:20:39,410
+哥们 我能安静
+Hey, man, I can be quiet.
+
+353
+00:20:39,410 --> 00:20:42,570
+只要你...要求
+You can just... ask.
+
+354
+00:20:44,870 --> 00:20:47,780
+人造骨骼校准未完成
+Synthetic calibration incomplete.
+
+355
+00:20:48,710 --> 00:20:51,530
+人造骨骼校准未完成
+Synthetic calibration incomplete.
+
+356
+00:20:58,660 --> 00:21:00,240
+原地待命 很快回来
+Stand by. I'll be back.
+
+357
+00:21:08,000 --> 00:21:09,180
+好了 女士
+Here you go, ma'am.
+
+358
+00:21:09,770 --> 00:21:12,890
+我要一杯黑咖啡 不加糖
+Yeah, give me a black coffee, no sugar.
+
+359
+00:21:12,900 --> 00:21:14,510
+没问题 沃格尔探员
+You got it, Detective Vogel.
+
+360
+00:21:23,150 --> 00:21:25,170
+沃格尔警官 很高兴再见到您
+Officer Vogel, it's good to see you again.
+
+361
+00:21:25,200 --> 00:21:26,440
+你是谁
+Who are you?
+
+362
+00:21:51,270 --> 00:21:53,870
+这种人造人好几年都没见过了
+Haven't seen one of those synthetics for years.
+
+363
+00:21:54,420 --> 00:21:55,760
+妙极
+It's perfect.
+
+364
+00:21:56,260 --> 00:21:58,080
+两个垃圾堆里捡来的警察
+Two cops from the scrap heap.
+
+365
+00:21:58,080 --> 00:22:00,280
+比我想得更可悲啊
+This is gonna be more pathetic than I thought.
+
+366
+00:22:01,480 --> 00:22:03,600
+这些就是取代我的那款
+Those are the models that replaced me.
+
+367
+00:22:06,390 --> 00:22:07,920
+真吓人
+Intimidating.
+
+368
+00:22:08,630 --> 00:22:10,900
+去注册 准备走了
+Go register so we can get moving.
+
+369
+00:22:22,630 --> 00:22:24,890
+DRN注册完毕
+DRN registration complete.
+
+370
+00:22:24,890 --> 00:22:26,060
+嘿 机器人
+Hey, bot.
+
+371
+00:22:26,930 --> 00:22:28,500
+别把我们给咬了
+Don't snap on us, now.
+
+372
+00:22:33,230 --> 00:22:35,830
+长官 沃格尔探员被绑架了
+Sir, Detective Vogel's been abducted.
+
+373
+00:22:35,830 --> 00:22:37,610
+马尔多纳多希望你来调查
+Maldonado wants you on it.
+
+374
+00:22:37,610 --> 00:22:39,510
+他的MX被销毁了
+His MX was destroyed.
+
+375
+00:22:39,510 --> 00:22:40,830
+残余的数据只有这些
+This is all we could get off it.
+
+376
+00:22:40,830 --> 00:22:41,980
+从面具来判断
+Based on the masks,
+
+377
+00:22:41,980 --> 00:22:44,190
+这跟那次武装抢劫是同一伙人
+these are the same guys from the armed robbery.
+
+378
+00:22:45,750 --> 00:22:47,480
+嫌疑人从郡医院带来了吗
+Suspect back from County?
+
+379
+00:22:50,110 --> 00:22:52,610
+你的人杀了我们四个警卫
+Your gang kills four security guards.
+
+380
+00:22:52,610 --> 00:22:54,390
+现在又抓了个警察
+Now you've taken a cop.
+
+381
+00:22:54,390 --> 00:22:55,880
+他在哪
+Where is he?
+
+382
+00:22:58,580 --> 00:23:00,810
+他们抓他是因为你在我们手上吗
+Did they take him 'cause we have you?
+
+383
+00:23:05,820 --> 00:23:07,370
+你知道这是什么吗
+You know what this is?
+
+384
+00:23:07,390 --> 00:23:08,860
+是你的登记文件
+It's your booking file.
+
+385
+00:23:08,860 --> 00:23:11,710
+记录着我们抓到你时你的状况
+It describes the condition you were in when we got you.
+
+386
+00:23:12,240 --> 00:23:13,310
+那
+Now...
+
+387
+00:23:14,380 --> 00:23:17,040
+你们拿走可编程DNA做什么
+What are you doing with programmable DNA?
+
+388
+00:23:18,650 --> 00:23:20,810
+迈克隆红有什么用途
+What's the Myklon Red for?
+
+389
+00:23:28,630 --> 00:23:30,990
+哦 看哪 嫌犯眼睛上方有一条抓痕
+Oh, look, suspect has a scratch above his eye.
+
+390
+00:23:30,990 --> 00:23:32,600
+不知道怎么弄的
+I have no idea how he got that.
+
+391
+00:23:32,600 --> 00:23:36,230
+添加到文件里 可能还要添加"臼齿失踪"
+Better add it, and get ready to write down "missing molar".
+
+392
+00:23:36,770 --> 00:23:39,020
+还有别的办法 警探
+There are other ways, Detective.
+
+393
+00:23:39,830 --> 00:23:42,590
+是我在审问这人 不是你 明白
+I'm questioning this man, okay, not you.
+
+394
+00:23:45,940 --> 00:23:46,910
+那么
+Now...
+
+395
+00:23:47,810 --> 00:23:50,540
+人造骨骼失灵 需要校准
+Synthetic fail. Calibration required.
+
+396
+00:23:50,680 --> 00:23:53,520
+人造骨骼失灵 需要校准
+Synthetic fail. Calibration required.
+
+397
+00:23:54,170 --> 00:23:55,500
+人造骨骼...
+Synthetic fa...
+
+398
+00:23:59,740 --> 00:24:01,530
+枪是你自己开的
+You shot yourself.
+
+399
+00:24:02,300 --> 00:24:04,340
+也许今早比较混乱
+Perhaps it was a bit crazy this morning,
+
+400
+00:24:04,340 --> 00:24:06,660
+所以郡里的医生可能没看出来
+maybe the doctors at County even missed it,
+
+401
+00:24:06,660 --> 00:24:08,410
+但是 根据你中的子弹的轨迹
+but the trajectory of the bullet that hit you,
+
+402
+00:24:08,410 --> 00:24:10,100
+还有你肌肉烧伤的形状
+the burn marks on your flesh--
+
+403
+00:24:10,100 --> 00:24:11,400
+基本上可以确定
+basically there's no chance
+
+404
+00:24:11,400 --> 00:24:14,280
+子弹不会来自别人的手枪
+that you were hit by a bullet from any gun but your own.
+
+405
+00:24:18,090 --> 00:24:19,550
+真的吗
+Is that true?
+
+406
+00:24:25,490 --> 00:24:27,700
+你不了解我在为谁卖命
+You don't know the people I work for.
+
+407
+00:24:27,700 --> 00:24:28,820
+相信我 我了解
+Trust me, I do.
+
+408
+00:24:28,820 --> 00:24:31,180
+我必须想尽一切办法离开他们
+I needed to get away from them any way I could,
+
+409
+00:24:31,180 --> 00:24:32,840
+因为谁都无法逃走
+because there's no getting away from them.
+
+410
+00:24:32,840 --> 00:24:33,820
+听着 我们能帮你
+Look, we can help you,
+
+411
+00:24:33,820 --> 00:24:35,940
+可以保证你安全 但你必须给我们信息
+we can keep you safe, but you need to give us information.
+
+412
+00:24:35,940 --> 00:24:37,930
+不 我到哪里都不安全 包括这里
+No, I'm not safe anywhere, not even here.
+
+413
+00:24:37,930 --> 00:24:39,900
+我们会把你安置在有守卫的安全地点
+We'll put you in a secure location under guard.
+
+414
+00:24:39,900 --> 00:24:42,440
+谁都找不到你 但你必须先坦白
+No one will find you, but you need to talk.
+
+415
+00:24:42,440 --> 00:24:44,540
+那地方一定要非常安全
+I need to be somewhere safe.
+
+416
+00:24:44,540 --> 00:24:46,560
+沃格尔探员在哪
+Then, where's Detective Vogel?
+
+417
+00:24:48,310 --> 00:24:49,920
+地址是什么
+What's the address?
+
+418
+00:24:51,760 --> 00:24:54,800
+格兰德街325号 6号公寓
+325 Grand, Apartment 6.
+
+419
+00:25:02,010 --> 00:25:03,430
+这可能不需要我多说
+Not that you need me to tell you this,
+
+420
+00:25:03,430 --> 00:25:06,000
+但你刚刚侵犯了那人的人权
+but you just violated the crap out of that guy's civil rights.
+
+421
+00:25:06,000 --> 00:25:08,620
+真神奇 我的这个人造人心肠还挺软
+Fantastic, I get the synthetic with the bleeding heart.
+
+422
+00:25:08,620 --> 00:25:10,410
+听着 我不管你的程序是什么
+Look, I don't care what you're programmed to do.
+
+423
+00:25:10,410 --> 00:25:13,450
+你要是敢上报这件事 我就把你推下楼
+You report what happened in there and you'll find yourself bouncing down the 604.
+
+424
+00:25:13,450 --> 00:25:15,560
+探长 如果我上报任何事
+Detective, if I'm going to report anything,
+
+425
+00:25:15,560 --> 00:25:18,440
+都是因为我认为此事应该上报
+it is because I decided it needed to be reported.
+
+426
+00:25:29,150 --> 00:25:30,790
+我不舒服
+I feel sick.
+
+427
+00:25:32,590 --> 00:25:34,260
+我要去厕所
+I need a toilet.
+
+428
+00:25:55,860 --> 00:25:57,210
+你还好吗
+You all right?
+
+429
+00:25:57,580 --> 00:25:59,320
+我没事
+I'll be fine.
+
+430
+00:26:23,080 --> 00:26:24,000
+停
+Stop.
+
+431
+00:26:24,000 --> 00:26:25,820
+潜在爆炸装置
+Potential explosive device.
+
+432
+00:26:25,830 --> 00:26:26,940
+人类退后
+Humans back.
+
+433
+00:26:26,940 --> 00:26:28,750
+撤空大楼
+Evacuate the building.
+
+434
+00:26:31,270 --> 00:26:35,500
+DRN 停止前进 停止前进
+DRN, halt advancement, halt advancement.
+
+435
+00:26:46,980 --> 00:26:48,430
+探长
+Detective.
+
+436
+00:26:55,300 --> 00:26:56,560
+这是什么
+What is it?
+
+437
+00:26:57,200 --> 00:26:58,900
+这不是炸弹
+It's not a bomb.
+
+438
+00:26:59,420 --> 00:27:01,650
+这线通往另一处
+That trip wire leads somewhere.
+
+439
+00:27:02,550 --> 00:27:03,620
+我带你去
+I'll lead you in?
+
+440
+00:27:03,620 --> 00:27:05,450
+我不建议如此 长官
+I do not advise that, sir.
+
+441
+00:27:09,390 --> 00:27:10,640
+我们走
+Let's go.
+
+442
+00:27:33,650 --> 00:27:34,630
+沃格尔
+Vogel.
+
+443
+00:27:35,370 --> 00:27:36,450
+救命
+Help!
+
+444
+00:27:36,450 --> 00:27:37,510
+冷静
+Stay calm.
+
+445
+00:27:37,520 --> 00:27:39,320
+肯尼思 救我
+Kennex, help me!
+
+446
+00:27:39,320 --> 00:27:40,650
+救我
+Help!
+
+447
+00:27:42,010 --> 00:27:44,090
+做点什么
+Do something!
+
+448
+00:27:47,370 --> 00:27:48,920
+防弹玻璃
+Bulletproof glass.
+
+449
+00:27:48,920 --> 00:27:50,360
+边缘被焊上了
+It's welded shut.
+
+450
+00:27:57,160 --> 00:27:58,540
+我是帕特尔
+Patel speaking.
+
+451
+00:27:58,550 --> 00:27:59,710
+帕特尔 你在哪
+Patel, where are you?
+
+452
+00:27:59,710 --> 00:28:01,400
+去安全屋的路上
+En route to the safe house.
+
+453
+00:28:01,410 --> 00:28:02,170
+犯人在车里
+We have the perp in the car.
+
+454
+00:28:02,170 --> 00:28:04,420
+好 赶紧掉头 这一切都是陷阱
+Okay, turn around... this whole thing's a setup.
+
+455
+00:28:04,850 --> 00:28:07,420
+帕特尔 帕特尔
+Patel, Patel.
+
+456
+00:28:12,670 --> 00:28:14,760
+不 不
+No, no, no, no...
+
+457
+00:28:27,260 --> 00:28:29,800
+帕特尔队长和两名警察被杀
+Sergeant Patel and two other officers were killed,
+
+458
+00:28:29,800 --> 00:28:32,700
+三个MX被摧毁 嫌疑人也逃跑了
+three MXs were destroyed, and the suspect escaped.
+
+459
+00:28:32,700 --> 00:28:34,110
+是时候了
+It's about time.
+
+460
+00:28:43,540 --> 00:28:44,680
+我很遗憾
+I'm sorry.
+
+461
+00:28:59,440 --> 00:29:00,970
+法医鉴定太慢了
+Morgue lab is too slow.
+
+462
+00:29:00,970 --> 00:29:04,700
+找个试验箱 取点他的血样 带给鲁迪分析一下
+Get a lab box, take a sample of his blood, and send it to Rudy for analysis.
+
+463
+00:29:04,700 --> 00:29:06,460
+不需要试验箱
+Don't need a lab box.
+
+464
+00:29:20,490 --> 00:29:22,340
+我刚下载了资料
+I just downloaded the information.
+
+465
+00:29:22,340 --> 00:29:24,050
+鲁迪现在应该有数据了
+Rudy should have the data now.
+
+466
+00:29:25,590 --> 00:29:26,930
+为什么是他
+Why him?
+
+467
+00:29:27,160 --> 00:29:28,750
+为什么攻击沃格尔
+Why target Vogel?
+
+468
+00:29:37,610 --> 00:29:39,050
+搜索沃格尔接手的案件
+Scan every case Vogel was on.
+
+469
+00:29:39,050 --> 00:29:41,770
+任何有关生物技术 科学 医药 DNA的案件
+Any connection to biotech, science, medicine, DNA.
+
+470
+00:29:41,770 --> 00:29:43,090
+我都要看
+I want to see it.
+
+471
+00:29:47,350 --> 00:29:49,250
+我不知道这是为什么
+I don't know if this is anything,
+
+472
+00:29:49,250 --> 00:29:51,010
+但是他其中一个案件丢失了
+but one of his files is missing.
+
+473
+00:29:51,020 --> 00:29:53,880
+案卷6663
+Case file number 6663.
+
+474
+00:29:53,880 --> 00:29:55,760
+从内部资料丢失的
+It's gone from all internal records.
+
+475
+00:29:55,760 --> 00:29:57,410
+等一下 沃格尔探员今早跟我说
+Wait a minute, Detective Vogel told me this morning
+
+476
+00:29:57,410 --> 00:29:59,440
+他不能用他的终端
+that he couldn't get access to his terminal.
+
+477
+00:29:59,440 --> 00:30:02,190
+也许是带走他的人删掉了文件
+Maybe whoever took him was deleting the file.
+
+478
+00:30:04,420 --> 00:30:06,060
+他们进入了整个系统
+They got into the whole system.
+
+479
+00:30:06,060 --> 00:30:06,830
+他们是谁
+Who is they?
+
+480
+00:30:06,840 --> 00:30:08,990
+看看楼下的人谁能把文件找回来
+See if anyone downstairs can get that file back.
+
+481
+00:30:08,990 --> 00:30:10,190
+我就去
+On my way.
+
+482
+00:30:14,280 --> 00:30:15,660
+你刚说的话...
+The way you said that...
+
+483
+00:30:16,150 --> 00:30:18,460
+说明你已经有怀疑的人了
+you're thinking someone specific is behind this.
+
+484
+00:30:18,460 --> 00:30:19,340
+是谁
+Who?
+
+485
+00:30:19,340 --> 00:30:21,410
+我需要你帮忙时候 我会说的
+When I want your help, I'll ask for it.
+
+486
+00:30:27,520 --> 00:30:28,780
+你知道你问题是什么吗
+You know what your problem is?
+
+487
+00:30:28,780 --> 00:30:30,330
+我一天中最喜欢的是
+Always my favorite part of the day:
+
+488
+00:30:30,330 --> 00:30:32,190
+让一个人造人告诉我 我有什么问题
+a synthetic telling me what my problem is.
+
+489
+00:30:32,190 --> 00:30:33,830
+又是这个词
+There's that word again.
+
+490
+00:30:34,520 --> 00:30:36,680
+你的问题是 你不了解你自己
+Your problem is, you don't know yourself.
+
+491
+00:30:36,680 --> 00:30:38,170
+你不信任任何人
+You don't trust anyone.
+
+492
+00:30:38,400 --> 00:30:39,500
+这是我的问题吗
+Is that my problem?
+
+493
+00:30:39,500 --> 00:30:41,210
+伙计 我不是在责怪你
+And, man, I don't blame you.
+
+494
+00:30:41,510 --> 00:30:42,530
+毕竟你经历了这么多
+After all you've been through,
+
+495
+00:30:42,530 --> 00:30:44,700
+如果我是你 我也不会了解我自己
+if I were like you, I wouldn't know myself either.
+
+496
+00:30:44,700 --> 00:30:46,640
+好吧 第一 别再说"伙计"
+Okay, firstly stop saying "Man."
+
+497
+00:30:46,640 --> 00:30:48,500
+第二 你不像我
+Secondly you're not like me.
+
+498
+00:30:48,510 --> 00:30:49,910
+但我也不像他们
+And I'm not like them.
+
+499
+00:30:49,930 --> 00:30:52,260
+MX系列是基于逻辑判断和遵循规则的模型
+MX units are logic-based and rule-oriented.
+
+500
+00:30:52,270 --> 00:30:53,590
+他们没有自由意志
+They have no true free will
+
+501
+00:30:53,590 --> 00:30:55,710
+他们被设计成没有感觉
+and they are designed to feel nothing.
+
+502
+00:30:55,710 --> 00:30:57,190
+我不能说我是生出来的
+Now, I can't say that I was born,
+
+503
+00:30:57,190 --> 00:30:59,540
+我不能说我是在子宫里孕育或者拥有童年
+I can't say I grew in a womb or had a childhood,
+
+504
+00:30:59,660 --> 00:31:02,840
+但我被做设计为拥有情感 我也确实有
+but I was made to feel and I do
+
+505
+00:31:03,070 --> 00:31:04,360
+和你一样多
+as much as you.
+
+506
+00:31:05,180 --> 00:31:06,290
+我读了你写的东西
+I read what you wrote:
+
+507
+00:31:06,290 --> 00:31:08,510
+如果MX当初没有丢下你去救其他人
+that if an MX hadn't left you behind to save some others,
+
+508
+00:31:08,510 --> 00:31:11,210
+你的搭档可能成功躲开那次伏击
+your partner might have made it out of that ambush alive,
+
+509
+00:31:11,210 --> 00:31:13,070
+这部分可能是真的 
+and that part may be true,
+
+510
+00:31:13,270 --> 00:31:15,340
+但是我读了整个报告
+but I read the whole report.
+
+511
+00:31:15,340 --> 00:31:16,700
+那时伏击已经开始
+By the time the ambush had begun,
+
+512
+00:31:16,710 --> 00:31:19,210
+已经来不及了 是你硬带他们去
+it was already too late and it was you who led them in,
+
+513
+00:31:19,210 --> 00:31:23,110
+你可以责怪MX 也可以责怪你自己
+so you can blame an MX or you can blame yourself.
+
+514
+00:31:23,330 --> 00:31:23,730
+好吧
+Okay,
+
+515
+00:31:23,730 --> 00:31:26,410
+- 我和MX43不一样 - 你现在很显然出故障了
+- I am nothing like an MX-43. - You're obviously malfunctioning right now.
+
+516
+00:31:26,410 --> 00:31:27,980
+- 你何不花几秒重启一下 - 不要这样跟我说话
+- Why don't you just take a second to reboot yourself? - Do not talk to me that way.
+
+517
+00:31:27,980 --> 00:31:29,890
+- 就算有人出故障了 也是你肯尼思 - 你知道我将停止干什么
+- If anyone is malfunctioning, it is you, Kennex. - You know what I'm gonna stop doing?
+
+518
+00:31:29,890 --> 00:31:33,320
+我将停止和一片硅胶和碳纤维争论
+I'm gonna stop arguing with a piece of silicon and carbon fiber.
+
+519
+00:31:35,120 --> 00:31:35,850
+肯尼思
+Kennex.
+
+520
+00:31:35,850 --> 00:31:36,650
+是鲁迪
+It's Rudy.
+
+521
+00:31:36,650 --> 00:31:40,060
+警察局的所有警察被强制要求注射
+All police in the department are required to have mandatory inoculation
+
+522
+00:31:40,070 --> 00:31:42,870
+警局实验室研发的疫苗 只对警官
+designed in police labs for officers only.
+
+523
+00:31:42,870 --> 00:31:44,810
+这本来是为了保护警察的安全
+Those inoculations are meant to keep cops safe.
+
+524
+00:31:45,120 --> 00:31:49,230
+免受生物战 毒气 致病菌等伤害
+Protects against biowarfare, gases, pathogens, et cetera.
+
+525
+00:31:49,230 --> 00:31:51,800
+我们在沃格尔的血样里发现迈克隆红
+We found Myklon Red in Vogel's blood,
+
+526
+00:31:51,800 --> 00:31:53,750
+结合了可编程DNA
+combined with programmable DNA.
+
+527
+00:31:53,750 --> 00:31:56,400
+这样就直接攻击了疫苗
+It targets the inoculation directly.
+
+528
+00:31:56,400 --> 00:31:59,480
+就像一次感染了上百种不同的疾病
+It's like getting a hundred different diseases at once.
+
+529
+00:31:59,490 --> 00:32:01,190
+免疫系统变得狂躁
+The immune system goes berserk.
+
+530
+00:32:01,190 --> 00:32:02,240
+你在说什么鲁迪
+What are you saying, Rudy?
+
+531
+00:32:02,240 --> 00:32:04,710
+这就是为什么他的身体起那种反映
+That's why his body reacted in the way that it did.
+
+532
+00:32:04,710 --> 00:32:06,680
+这就是为什么他死了
+That's why he died.
+
+533
+00:32:07,280 --> 00:32:10,200
+我认为沃格尔探员是个试验体
+I believe Detective Vogel was a test subject.
+
+534
+00:32:10,200 --> 00:32:11,640
+我们要对付的人...
+Whoever we're up against...
+
+535
+00:32:11,640 --> 00:32:13,170
+他们目标是警察
+They're targeting cops.
+
+536
+00:32:19,940 --> 00:32:21,120
+你去哪
+Where are you going?
+
+537
+00:32:23,770 --> 00:32:24,580
+我不允许你这么做
+I cannot allow you to do this.
+
+538
+00:32:24,580 --> 00:32:25,490
+这离上次才没多久
+It's far too soon.
+
+539
+00:32:25,500 --> 00:32:27,490
+这是我的事 好吗
+Look, this isn't about me, okay?
+
+540
+00:32:27,490 --> 00:32:29,280
+有人想杀光警察
+Someone is killing police officers,
+
+541
+00:32:29,280 --> 00:32:30,720
+找到他们的唯一方法
+and the only way we're gonna find them
+
+542
+00:32:30,720 --> 00:32:32,840
+就是我能记起更多参与这事的人
+is if I remember more about the people who are doing it.
+
+543
+00:32:32,840 --> 00:32:35,430
+约翰 这不安全
+John, it's not safe for you.
+
+544
+00:32:35,430 --> 00:32:38,030
+你就这么做 现在就做
+You do this and you do it now.
+
+545
+00:32:48,820 --> 00:32:49,920
+他们早就等着我们送上门了 约翰
+They were ready for us, John.
+
+546
+00:32:49,920 --> 00:32:51,640
+反联组织怎么知道我们要来
+How did Insyndicate know we were coming?
+
+547
+00:32:51,640 --> 00:32:54,060
+他们怎么知道的 怎么...
+How did they know? How'd they...?
+
+548
+00:32:56,490 --> 00:32:59,400
+回来 你个死机器人
+Hey, come back here! You're damn rob...!
+
+549
+00:33:33,290 --> 00:33:33,870
+对不起
+I am so sorry.
+
+550
+00:33:33,870 --> 00:33:35,960
+我告诉他这太危险了
+I told him it was too dangerous.
+
+551
+00:33:49,860 --> 00:33:51,810
+你用了我的定位芯片
+You used my locator chip.
+
+552
+00:33:51,820 --> 00:33:54,200
+马尔多纳多让我盯着你
+Maldonado wanted me to keep an eye on you.
+
+553
+00:33:55,150 --> 00:33:56,110
+好吧
+Okay.
+
+554
+00:34:01,820 --> 00:34:04,530
+能有一个软心肠的搭档 你很幸运
+You're lucky you got the partner with the bleeding heart.
+
+555
+00:34:18,800 --> 00:34:22,290
+你在下面的时候看见了什么
+What did you see... when you were under?
+
+556
+00:34:31,390 --> 00:34:34,710
+我看见我亲近的人
+I saw someone who was close to me.
+
+557
+00:34:35,010 --> 00:34:41,410
+那个人 我现在才意识到不应该相信她的
+Someone who, I realize now, that I should never have trusted.
+
+558
+00:34:44,090 --> 00:34:47,030
+我想说 虽然我不确定那是否是真的 但是...
+I want to say I... I'm not even sure it's real, but...
+
+559
+00:34:50,770 --> 00:34:51,900
+但是是真的
+But it was.
+
+560
+00:34:55,430 --> 00:34:56,860
+是谁呢 约翰
+Who was it, John?
+
+561
+00:34:59,520 --> 00:35:01,340
+我前女友
+It was my ex-girlfriend.
+
+562
+00:35:03,040 --> 00:35:05,780
+当我从昏迷中醒过来的时候 她已经消失了
+When I came out of my coma, she had disappeared.
+
+563
+00:35:10,190 --> 00:35:11,640
+现在我知道原因了
+Now I know why.
+
+564
+00:35:15,570 --> 00:35:16,410
+人造骨骼失灵
+Synthetic fail.
+
+565
+00:35:16,410 --> 00:35:18,020
+需要校准
+Calibration required.
+
+566
+00:35:18,410 --> 00:35:20,530
+人造骨骼失灵 需要校准
+Synthetic fail. Calibration required.
+
+567
+00:35:20,530 --> 00:35:21,980
+我能解决这个问题
+I've got a fix for that.
+
+568
+00:35:23,190 --> 00:35:24,010
+解决什么
+What?
+
+569
+00:35:24,010 --> 00:35:25,720
+是不是有时会吱嘎作响
+It gets creaky sometimes?
+
+570
+00:35:25,720 --> 00:35:27,320
+我有办法解决这个问题
+I've got a fix for that.
+
+571
+00:35:27,490 --> 00:35:28,660
+用橄榄油
+Olive oil.
+
+572
+00:35:29,570 --> 00:35:30,840
+橄榄油
+Olive oil?
+
+573
+00:35:30,840 --> 00:35:33,090
+没错 你把橄榄油倒在关节的地方
+Yeah, man. You put it right on the joint.
+
+574
+00:35:33,090 --> 00:35:34,260
+橄榄油
+Olive oil?
+
+575
+00:35:34,330 --> 00:35:35,700
+你会感激我的
+You'll thank me.
+
+576
+00:35:43,220 --> 00:35:45,110
+我想我...
+I suppose I, uh...
+
+577
+00:35:45,840 --> 00:35:49,220
+我应该感谢你救了我
+I should acknowledge the fact that you saved my life.
+
+578
+00:35:52,920 --> 00:35:54,020
+不用谢
+No need.
+
+579
+00:35:55,270 --> 00:35:57,290
+我这么做只因为你是我唯一的机会
+I only did it because you're my one ticket.
+
+580
+00:35:57,290 --> 00:35:59,180
+没有你 我就没法在这里
+Without you, I'm off the force.
+
+581
+00:35:59,180 --> 00:36:01,310
+你该庆幸我太想当警察了
+You're lucky I want to be a cop so bad.
+
+582
+00:36:07,260 --> 00:36:10,740
+你不像他们 那些MX机器人
+You're not like them, the MXs.
+
+583
+00:36:10,920 --> 00:36:12,550
+我不知道为什么 但你就不像他们
+I don't know why, but you're not.
+
+584
+00:36:12,550 --> 00:36:14,660
+你这应该是在表扬我吧
+I should take that as a compliment.
+
+585
+00:36:15,960 --> 00:36:17,020
+没错
+You should.
+
+586
+00:36:20,690 --> 00:36:23,560
+MX系列建立在一阶谓词演算之上
+The MX series is based on first order predicate calculus.
+
+587
+00:36:23,560 --> 00:36:26,740
+MX没有知觉 你也可以说他们没有灵魂
+MXs have no intuition, or as you might say, no soul.
+
+588
+00:36:26,850 --> 00:36:30,690
+对他们来说 经验 记忆都只是记录好的数据
+For them, experience, memory is just recorded data.
+
+589
+00:36:30,690 --> 00:36:33,240
+我这个系列被设计用来归纳总结
+My series is designed to draw conclusions,
+
+590
+00:36:33,240 --> 00:36:34,740
+做出推论
+make inferences.
+
+591
+00:36:36,000 --> 00:36:38,610
+答案是沃格尔 对吧
+The answer is Vogel, right?
+
+592
+00:36:38,610 --> 00:36:42,050
+谁在针对他 好处又是什么
+Who was targeting him, what was the payback for?
+
+593
+00:36:42,230 --> 00:36:43,140
+是啊
+Yeah.
+
+594
+00:36:43,150 --> 00:36:45,750
+我们唯一证人就是沃格尔的MX
+And the only witness we have is Vogel's MX,
+
+595
+00:36:45,750 --> 00:36:47,500
+但在他们带走沃格尔的时候已经粉身碎骨了
+Who was blown apart when they took Vogel.
+
+596
+00:36:47,500 --> 00:36:49,770
+是啊 鲁迪说他的神经网络已经彻底瘫痪了
+Yeah, Ru-Rudy said his neural net was completely fried.
+
+597
+00:36:49,770 --> 00:36:51,140
+别的MX对此毫无办法
+Worthless to another MX,
+
+598
+00:36:51,140 --> 00:36:53,870
+他们无法联系证据 理解证据
+who wouldn't be able to-to put it together, to make sense of it,
+
+599
+00:36:53,870 --> 00:36:55,780
+但你可以建立起那些联系
+but you could make those connections.
+
+600
+00:36:56,460 --> 00:36:58,020
+如果我们传送记忆
+If we transferred the memory,
+
+601
+00:36:58,020 --> 00:37:01,260
+把沃格尔的MX残存的记忆传送给你
+or whatever's left of the memory from Vogel's MX to you,
+
+602
+00:37:01,720 --> 00:37:03,630
+你就能够建立起连接
+you could make the connection.
+
+603
+00:37:04,950 --> 00:37:06,620
+值得一试 探长
+It's worth a shot, Detective.
+
+604
+00:37:06,620 --> 00:37:07,760
+买单啦
+Check, please!
+
+605
+00:37:52,130 --> 00:37:54,200
+我在它的短时记忆中
+I'm in its short-term memory now.
+
+606
+00:38:00,290 --> 00:38:01,450
+原地待命 很快回来
+Stand by. I'll be back.
+
+607
+00:38:01,450 --> 00:38:03,110
+咖啡...糖...
+...coffee... sugar.
+
+608
+00:38:05,530 --> 00:38:06,300
+沃格尔探员
+Officer Vogel.
+
+609
+00:38:06,300 --> 00:38:07,850
+很高兴再次见到您
+It's good to see you again.
+
+610
+00:38:07,850 --> 00:38:11,550
+几年前 你把一些不属于你的东西
+A few years ago, you logged something into evidence
+
+611
+00:38:11,550 --> 00:38:12,960
+记录成证据
+that doesn't belong to you.
+
+612
+00:38:12,960 --> 00:38:16,170
+你可能还记得6663号案件吧
+You may remember it as case number 6663.
+
+613
+00:38:16,470 --> 00:38:17,690
+不记得了
+No?
+
+614
+00:38:17,880 --> 00:38:20,420
+你们辖区的人一直很贴心地保管着它
+Well, your precinct has been kind enough to hold it in evidence,
+
+615
+00:38:20,420 --> 00:38:23,810
+但今晚 我们要把它拿回来
+but tonight, we're gonna get it back,
+
+616
+00:38:23,820 --> 00:38:25,740
+你会帮我们搞定
+and you're gonna help us do it.
+
+617
+00:38:31,330 --> 00:38:33,180
+我们有他们要的东西
+We've got something they want.
+
+618
+00:38:33,900 --> 00:38:35,540
+头儿 我们需要启动一级防范措施
+Captain, we need to go into lockdown.
+
+619
+00:38:35,540 --> 00:38:36,580
+怎么了
+What's going on?
+
+620
+00:38:36,580 --> 00:38:37,620
+他们今晚要攻击我们
+They're hitting us tonight.
+
+621
+00:38:37,620 --> 00:38:39,670
+他们要在物证室找什么东西
+They're after something in the evidence room!
+
+622
+00:38:45,300 --> 00:38:47,360
+打开吧 干掉所有MX
+Light it up, take out the MXs.
+
+623
+00:39:20,490 --> 00:39:22,140
+反联组织的人在屋顶上
+The Insyndicates are on the roof!
+
+624
+00:39:22,310 --> 00:39:24,300
+快啊 赶紧的 快快
+Come on, now. Go, go, go, go, go!
+
+625
+00:39:25,290 --> 00:39:26,730
+疏散大楼
+Evacuate building.
+
+626
+00:39:32,350 --> 00:39:32,980
+疏散大楼
+Evacuate building.
+
+627
+00:39:32,980 --> 00:39:34,560
+为什么他们倒下了而你没有
+Why are they shutting down and not you?
+
+628
+00:39:34,560 --> 00:39:36,850
+他们跟我在不同的频率上
+They run on a different frequency than mine.
+
+629
+00:39:37,440 --> 00:39:39,760
+有时候更先进的科技不一定更好
+Sometimes newer technology isn't better.
+
+630
+00:39:41,040 --> 00:39:42,100
+走吧
+Come on.
+
+631
+00:39:53,320 --> 00:39:54,490
+打开阀门
+Open the valves.
+
+632
+00:42:01,590 --> 00:42:03,640
+我们要自己动手一个一个检查
+We got to go through every piece by hand.
+
+633
+00:42:03,680 --> 00:42:05,390
+我们都不知道要找什么呢
+We don't even know what we're looking for.
+
+634
+00:42:05,390 --> 00:42:06,490
+我们知道它在这
+We know it's here.
+
+635
+00:42:06,490 --> 00:42:07,970
+而且我们知道它肯定很重要
+And we know it's valuable because they were willing
+
+636
+00:42:07,970 --> 00:42:09,720
+因为他们为了它杀了不少警察
+to kill a lot of cops to get it.
+
+637
+00:42:11,470 --> 00:42:14,850
+肯定有某种方法能够让被消除的证据恢复
+There must be some way to restore those evidence files that were wiped.
+
+638
+00:42:15,560 --> 00:42:17,060
+我在努力了 
+I've been trying,
+
+639
+00:42:17,340 --> 00:42:19,850
+但破坏太彻底了
+but the sabotage was extremely thorough.
+
+640
+00:42:23,070 --> 00:42:24,430
+我会继续努力
+I'll keep trying.
+
+641
+00:42:26,270 --> 00:42:27,640
+谢啦 老兄
+Thanks, man.
+
+642
+00:42:48,460 --> 00:42:49,940
+起来
+Rise...
+
+643
+00:42:51,170 --> 00:42:52,810
+又一个好了
+and be counted.
+
+644
+00:42:56,460 --> 00:42:57,750
+别惹麻烦
+Stay out of trouble.
+
+645
+00:42:58,110 --> 00:43:00,550
+你爸爸肯定会喜欢这个地方
+Your father would have loved this place.
+
+646
+00:43:03,070 --> 00:43:05,420
+哦 我等不及要回到你的身边了
+Oh, I can't wait to get back to you.
+
+647
+00:43:06,130 --> 00:43:08,090
+我知道我还得再等一个星期
+I know I have to wait a week,
+
+648
+00:43:08,100 --> 00:43:12,640
+但是我真的很希望你能在这里陪着我
+but what I really wish is that you were here with me.
+
+649
+00:43:20,670 --> 00:43:22,120
+我们会找到她的 约翰
+We're gonna find her, John.
+
+650
+00:43:32,500 --> 00:43:34,120
+要是你没有回来...
+If you hadn't come back...
+
+651
+00:43:36,900 --> 00:43:38,930
+你救了很多人的命
+You saved a lot of lives.
+
+652
+00:43:42,480 --> 00:43:43,550
+谢谢
+Thanks.
+
+653
+00:43:44,920 --> 00:43:46,480
+谢谢你的坚持
+Thanks for insisting.
+
+654
+00:43:55,810 --> 00:43:58,970
+是你申请的允许多利安服役的授权令
+You put in the rec order... for Dorian.
+
+655
+00:43:59,170 --> 00:44:00,370
+我检查了他的记录
+I checked out his record.
+
+656
+00:44:00,370 --> 00:44:04,080
+大部分被修改过 但我看见是你提出让我去找他的申请
+It's mostly redacted, but I saw that it was you who put in the request for me to get him.
+
+657
+00:44:04,080 --> 00:44:05,060
+为什么
+Why?
+
+658
+00:44:05,470 --> 00:44:07,170
+DRN对你有好处
+The DRN is good for you.
+
+659
+00:44:11,720 --> 00:44:12,670
+桑德拉 
+Sandra...
+
+660
+00:44:13,220 --> 00:44:15,170
+你没回答我问题呢
+ you didn't answer my question.
+
+661
+00:44:15,240 --> 00:44:16,510
+为什么是多利安
+Why Dorian?
+
+662
+00:44:17,350 --> 00:44:18,630
+因为他很特殊
+'Cause he's special.
+
+663
+00:44:19,470 --> 00:44:20,720
+跟你一样与众不同
+Just like you.
+
+664
+00:44:22,080 --> 00:44:23,470
+等下在点名时见
+See you at roll call.
+
+665
+00:44:32,890 --> 00:44:35,480
+我猜你又需要安静模式了 探长
+I assume you want quiet mode, Detective?
+
+666
+00:44:39,250 --> 00:44:40,700
+没必要了
+Not necessarily.
+
+667
+00:44:44,700 --> 00:44:45,850
+叫我约翰吧
+Call me John.
+
+668
+00:06:34,260 --> 00:06:35,350
+{\a6}呼出颗粒物检测
+
+669
+00:09:26,890 --> 00:09:27,800
+{\a6}文件访问用户名
+姓名: 皮特 沃格尔
+职位: 探员
+
+672
+00:09:27,840 --> 00:09:28,560
+{\a6}拒绝访问
+32302号终端下线
+
+673
+00:13:15,200 --> 00:13:16,070
+{\a6}迈克隆红
+
+674
+00:18:34,980 --> 00:18:36,890
+{\a6}对象识别
+
+675
+00:18:35,930 --> 00:18:36,890
+{\a6}约翰 肯尼思
+
+676
+00:26:41,840 --> 00:26:43,670
+{\a6}无法识别危险
+
+677
+00:26:42,920 --> 00:26:43,670
+{\a6}分析无结果
+
+678
+00:28:34,070 --> 00:28:34,810
+{\a6}拘禁中
+特雷弗 詹恩斯
+
+680
+00:31:44,770 --> 00:31:46,310
+{\a6}遗传标记吻合
+
+681
+00:43:15,080 --> 00:43:16,790
+{\a6}删除 保存
+
+683
+00:43:25,000 --> 00:43:26,170
+{\a6}删除 保存
+

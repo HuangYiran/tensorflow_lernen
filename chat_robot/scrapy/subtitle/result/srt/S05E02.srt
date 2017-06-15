@@ -1,0 +1,4195 @@
+1
+00:00:01,503 --> 00:00:03,348
+《星际之门亚特兰蒂斯》  前情回顾
+Previously on stargate atlantis...
+
+2
+00:00:03,479 --> 00:00:05,074
+你给我每周注射的药物
+The weekly injection you gave me, that must have been
+
+3
+00:00:05,112 --> 00:00:08,127
+一定是要能阻止我细胞恶化的
+some kind of drug to keep my cells from deteriorating.
+
+4
+00:00:08,269 --> 00:00:10,197
+听着  我们会一直努力下去
+Listen, we're going to keep working
+
+5
+00:00:10,238 --> 00:00:12,108
+直到治愈你为止
+till we find a cure for this thing.
+
+6
+00:00:14,111 --> 00:00:14,885
+中头奖了
+jackpot.
+
+7
+00:00:14,971 --> 00:00:17,013
+这是个陷阱  我们要马上离开这
+It's a booby trap. We got to get out of here now!
+
+8
+00:00:19,683 --> 00:00:21,818
+把工程兵集合起来
+Have the combat engineers gear up,
+
+9
+00:00:21,818 --> 00:00:23,318
+叫凯勒医生准备好
+and have dr. Keller ready her away team.
+
+10
+00:00:23,509 --> 00:00:24,368
+你听
+Listen...
+
+11
+00:00:24,454 --> 00:00:25,684
+这是迈克尔的数据库
+it's michael's database.
+
+12
+00:00:25,750 --> 00:00:28,078
+里面有大量甚至所有的资料
+There's a large chunk of it, maybe the whole thing.
+
+13
+00:00:28,079 --> 00:00:29,957
+他正在仓忙出逃  我们快要抓住他了
+We'd have him on the run. He'd be finished.
+
+14
+00:00:29,958 --> 00:00:31,417
+你被免除指挥官一职
+Effective immediately,
+
+15
+00:00:31,456 --> 00:00:33,555
+即刻起生效
+you are being removed from command.
+
+16
+00:00:33,707 --> 00:00:35,606
+谁来代替我
+Who-who's replacing me?
+
+17
+00:00:36,712 --> 00:00:37,828
+是我
+I am.
+
+18
+00:00:40,995 --> 00:00:42,912
+下午好  凯勒医生
+Good afternoon, dr.Keller.
+
+19
+00:00:43,899 --> 00:00:46,017
+我的新病人怎么样了
+How's my newest patient?
+
+20
+00:00:46,388 --> 00:00:49,823
+今天  只有我一直抱着他散步
+Today, he's decided that he will only sleep
+
+21
+00:00:49,937 --> 00:00:51,492
+他才肯乖乖睡觉
+as long as I hold him and keep moving.
+
+22
+00:00:51,530 --> 00:00:53,524
+我已经在转了大半个城市  现在要转回去
+I've already walked half the city and back again.
+
+23
+00:00:53,543 --> 00:00:55,260
+我父母以前把我放进车里
+My parents used to put me in the car.
+
+24
+00:00:55,288 --> 00:00:57,509
+然后爸爸凌晨3点开车带着我
+My dad would have to drive around and around and around
+
+25
+00:00:57,509 --> 00:00:58,809
+在街区转来转去
+the block 3:00 in the morning.
+
+26
+00:00:58,932 --> 00:01:01,652
+真温馨啊  至少能坐着
+That would be lovely. At least I'd be sitting down.
+
+27
+00:01:02,720 --> 00:01:03,960
+我要谢谢你
+I wanted to thank you.
+
+28
+00:01:04,236 --> 00:01:04,980
+为什么
+For what?
+
+29
+00:01:05,276 --> 00:01:06,688
+我今天见过迦楠了
+I saw kanaan today.
+
+30
+00:01:07,041 --> 00:01:07,861
+他怎么样了
+How's he doing?
+
+31
+00:01:07,966 --> 00:01:08,920
+比以前好多了
+Much better.
+
+32
+00:01:09,092 --> 00:01:11,448
+他各方面都回到原来的样子了
+He is himself once again, in every way.
+
+33
+00:01:11,619 --> 00:01:13,993
+事实上  只要伍尔希先生一回到代达罗斯号
+In fact, I'm going to request that
+
+34
+00:01:13,993 --> 00:01:15,693
+我就去请求让迦楠还有其他人
+he and many of the others be allowed to return to the city,
+
+35
+00:01:15,836 --> 00:01:18,994
+重返城市生活
+as soon as mr.Woolsey arrives in the daedalus.
+
+36
+00:01:19,223 --> 00:01:21,484
+我仍然不敢相信山姆竟然不回来
+I still can't believe sam's not coming back.
+
+37
+00:01:21,664 --> 00:01:23,190
+这比较艰难
+It is difficult.
+
+38
+00:01:24,487 --> 00:01:25,880
+不管怎么说
+Well, anyway,
+
+39
+00:01:26,042 --> 00:01:28,956
+加南还有其他混合人不是我治好的
+it wasn't me that cured kanaan and the other hybrids.
+
+40
+00:01:28,956 --> 00:01:30,956
+全是贝克特医生的逆转录酶的功劳
+It was dr.Beckett's retrovirus,
+
+41
+00:01:31,384 --> 00:01:34,151
+如果我能搞明白幽灵族的医疗资料
+and you could thank him in person if I could just
+
+42
+00:01:34,427 --> 00:01:37,557
+你就可以亲自感谢他
+get my head around all this wraith medical data.
+
+43
+00:01:37,642 --> 00:01:39,378
+你认为答案就在这其中
+You believe the answer's in there somewhere?
+
+44
+00:01:39,445 --> 00:01:42,511
+我们知道他给卡森注射血清
+We know he was giving carson a serum
+
+45
+00:01:42,511 --> 00:01:44,511
+能防止他体内器官的衰老
+to keep his internal organs from deteriorating,
+
+46
+00:01:44,892 --> 00:01:47,846
+我想我可能找到配方了
+and I think I might have found the formula
+
+47
+00:01:47,846 --> 00:01:49,846
+只是要更加确认
+I just need to be sure.
+
+48
+00:01:49,904 --> 00:01:52,184
+至少我们知道他现在很安全
+Well, at least we know he's safe for the moment.
+
+49
+00:01:52,755 --> 00:01:54,874
+理论上讲  是的
+Technically, yeah.
+
+50
+00:01:55,255 --> 00:01:59,338
+一想到他被关在笼子里  我就揪心
+I just hate the thought of him being stuck in that box.
+
+51
+00:02:01,160 --> 00:02:03,240
+你知道罗德尼去看过他吗
+You know rodney goes to visit him?
+
+52
+00:02:04,116 --> 00:02:05,874
+他就这么站在静止分离舱前
+He stands in front of the stasis pod
+
+53
+00:02:05,874 --> 00:02:06,874
+和他讲最近的事情
+and tells him all the latest news.
+
+54
+00:02:06,902 --> 00:02:07,914
+真的
+Really?
+
+55
+00:02:08,820 --> 00:02:11,004
+一次我偶然进门撞见他
+I walked in on him once by accident,
+
+56
+00:02:11,299 --> 00:02:14,868
+他马上假装自己在检查系统什么的
+and he pretended like he was checking the system or something.
+
+57
+00:02:15,821 --> 00:02:17,748
+他有时总给我惊喜
+He surprises me sometimes.
+
+58
+00:02:19,932 --> 00:02:24,789
+我又要去成为忙碌的妈妈了
+Well, this is me once again being recalled to duty.
+
+59
+00:02:24,893 --> 00:02:26,639
+一路慢走
+Have a nice walk.
+
+60
+00:02:27,621 --> 00:02:29,289
+詹妮弗  别担心
+Don't worry, jennifer.
+
+61
+00:02:29,289 --> 00:02:30,789
+我相信一定会有痊愈的方法的
+I'm sure you'll find what you're looking for.
+
+62
+00:02:45,299 --> 00:02:47,980
+长官  代达罗斯号刚脱离了超空间带
+Sir, daedalus just dropped out of hyperspace.
+
+63
+00:02:48,113 --> 00:02:49,964
+我们收到一个信号
+We're receiving a signal.
+
+64
+00:02:50,278 --> 00:02:52,253
+他来了
+He's coming down.
+
+65
+00:03:06,365 --> 00:03:08,340
+伍尔希长官  欢迎回来
+Mr. Woolsey, welcome back.
+
+66
+00:03:08,693 --> 00:03:09,990
+谢谢上校
+Thank you, colonel.
+
+67
+00:03:17,681 --> 00:03:19,487
+我想我还是从看你们全体人员的
+I think I'll start by going over
+
+68
+00:03:19,487 --> 00:03:20,487
+最新报告开始吧
+copies of all your latest reports.
+
+69
+00:03:20,553 --> 00:03:21,822
+你的也要  博士
+Yours as well, doctor.
+
+70
+00:03:22,060 --> 00:03:23,233
+现在就看?
+What, right now?
+
+71
+00:03:23,281 --> 00:03:25,304
+我已经有3个星期没联系代达罗斯号了
+I've been out of touch on the daedalus for three weeks.
+
+72
+00:03:25,418 --> 00:03:27,565
+我要以最快的速度使一切正常运行
+I'd like to be brought up to speed as quickly as possible.
+
+73
+00:03:27,613 --> 00:03:29,225
+早上我们来开个重要会议
+We can have a full briefing in the morning.
+
+74
+00:03:29,349 --> 00:03:31,734
+请把我的用品直接送到我的住处
+Please have the rest of my things sent directly to my quarters.
+
+75
+00:03:31,819 --> 00:03:32,964
+好的  长官
+Yes, sir.
+
+76
+00:03:34,032 --> 00:03:35,645
+多好的发言词
+Nice speech.
+
+77
+00:03:36,217 --> 00:03:38,010
+真振奋人心
+Very inspiring.
+
+78
+00:04:29,249 --> 00:04:32,090
+好吧  我们再做一次
+All right, let's do one more series,
+
+79
+00:04:32,090 --> 00:04:33,190
+看看结论能不能标准化一点
+see if we can get the results to normalize a little.
+
+80
+00:04:34,515 --> 00:04:36,099
+医生  你还在这里
+Doctor, you're still here.
+
+81
+00:04:36,100 --> 00:04:39,009
+我在桌上睡着了
+Oh, yeah, I fell asleep at my desk.
+
+82
+00:04:39,427 --> 00:04:41,040
+希望你要不介意
+Well, if you don't mind me saying,
+
+83
+00:04:41,041 --> 00:04:42,767
+不过我觉得你对自己太苛刻了
+I think you're pushing yourself a little hard.
+
+84
+00:04:42,948 --> 00:04:44,551
+放松点吧
+You should take it easy.
+
+85
+00:04:45,180 --> 00:04:47,346
+我知道  我这就去睡觉
+I know, I'M... going to turn in now.
+
+86
+00:04:48,566 --> 00:04:49,797
+你还好吧
+Are you all right?
+
+87
+00:04:50,188 --> 00:04:51,514
+我没事
+Yeah, I'm fine.
+
+88
+00:04:52,086 --> 00:04:53,756
+那就好  晚安
+Okay, 'night.
+
+89
+00:04:56,464 --> 00:04:57,810
+晚安
+'Night.
+
+90
+00:06:07,595 --> 00:06:10,352
+你昨晚睡了吗
+did you get any sleep last night?
+
+91
+00:06:10,635 --> 00:06:12,171
+我脸色不好么
+Do I really look that bad?
+
+92
+00:06:12,172 --> 00:06:14,499
+当然不是这个意思
+No, no, of course not. That's not what I meant.
+
+93
+00:06:14,680 --> 00:06:17,351
+看起来很好啊
+Uh, it's really... it's a lovely...
+
+94
+00:06:17,599 --> 00:06:18,839
+谢谢
+thanks.
+
+95
+00:06:20,688 --> 00:06:22,701
+新桌子  不错啊
+Wow, new table, huh?
+
+96
+00:06:22,939 --> 00:06:24,065
+是伍尔希带过来的
+Woolsey brought it with him.
+
+97
+00:06:24,066 --> 00:06:26,469
+他说这样有家的感觉
+He said he wanted a little piece of home.
+
+98
+00:06:26,602 --> 00:06:29,579
+3.6米长红木会议桌
+A 12-foot-long mahogany conference table, hmm...
+
+99
+00:06:29,807 --> 00:06:30,924
+我不明白
+I don't get it.
+
+100
+00:06:31,067 --> 00:06:32,592
+我认为卡特上校工作很出色
+I thought colonel carter was doing a good job.
+
+101
+00:06:32,659 --> 00:06:33,527
+我也这么认为
+I agree.
+
+102
+00:06:33,575 --> 00:06:36,313
+我们打败了复制人  阻止了迈克尔的阴谋
+We defeated the replicators, we thwarted michael's plans,
+
+103
+00:06:36,314 --> 00:06:37,830
+现在幽灵们都溃不成军了
+the wraith are in a state of disarray.
+
+104
+00:06:37,952 --> 00:06:40,050
+这些都是在她的领导下取得的成就
+All this happened while she was leader of atlantis.
+
+105
+00:06:40,108 --> 00:06:41,539
+这就是问题所在
+That's the problem.
+
+106
+00:06:41,940 --> 00:06:43,132
+我不明白
+I don't understand.
+
+107
+00:06:43,133 --> 00:06:45,460
+她的成功把自己害了
+She's a victim of her own success.
+
+108
+00:06:45,869 --> 00:06:48,479
+现在威胁等级下降
+Now that the threat level is down,
+
+109
+00:06:48,479 --> 00:06:50,479
+组织就抓住这个机会
+the ioa's going to jump at the chance
+
+110
+00:06:50,479 --> 00:06:51,479
+派个文职官员回来
+to put a civilian back in command.
+
+111
+00:06:51,602 --> 00:06:53,865
+还不仅仅是这样
+Well, it's not just that.
+
+112
+00:06:53,865 --> 00:06:54,865
+山姆不那么拘泥于规矩
+I mean, sam didn't exactly stick to protocol.
+
+113
+00:06:55,104 --> 00:06:56,220
+韦尔也是
+Neither did weir.
+
+114
+00:06:56,343 --> 00:06:58,679
+所以他们等了4年
+Right, so for four years, they've been waiting
+
+115
+00:06:58,679 --> 00:07:00,179
+终于找到个替他们办事的人来了
+to get someone in there who'll finally do things their way.
+
+116
+00:07:00,712 --> 00:07:01,857
+我还是不明白
+I still don't get it.
+
+117
+00:07:01,914 --> 00:07:03,709
+上校  你身处未来时空
+Colonel, when you were in the future,
+
+118
+00:07:03,709 --> 00:07:04,709
+就可以知道现在即将发生的一切
+and you learned all those things that were going to happen,
+
+119
+00:07:04,795 --> 00:07:07,228
+伍尔希掌权这事不也是其中之一吗
+wasn't this one of them, woolsey taking over?
+
+120
+00:07:07,323 --> 00:07:09,470
+情况有点不太一样
+Well, the circumstances were different.
+
+121
+00:07:09,984 --> 00:07:12,827
+还真是混乱啊
+Still, it is a little unsettling.
+
+122
+00:07:13,218 --> 00:07:15,614
+我是说  也许要改变事态的发生
+I mean, maybe it's harder to
+
+123
+00:07:15,614 --> 00:07:16,614
+比我们想象的要困难
+change the course of events than we thought.
+
+124
+00:07:16,869 --> 00:07:18,243
+这我倒不担心
+Well, I wouldn't worry about it.
+
+125
+00:07:18,244 --> 00:07:20,296
+现在谢帕德回来了
+I mean, the fact that sheppard's here
+
+126
+00:07:20,296 --> 00:07:21,296
+事情都改观了  不是吗
+makes all the difference, right?
+
+127
+00:07:21,772 --> 00:07:24,396
+那点时间线上伍尔希的事不是最可怕的
+Woolsey wasn't the weirdest thing about that timeline.
+
+128
+00:07:24,482 --> 00:07:25,951
+什么意思
+What do you mean?
+
+129
+00:07:26,904 --> 00:07:27,954
+没什么
+Never mind.
+
+130
+00:07:33,029 --> 00:07:34,403
+大家都到齐了
+I see everyone's here.
+
+131
+00:07:36,196 --> 00:07:37,650
+就开始吧
+Let's get started.
+
+132
+00:07:41,308 --> 00:07:43,852
+首先要祝贺你们全体人员
+first of all, I'd like to congratulate all of you
+
+133
+00:07:43,890 --> 00:07:46,193
+在捣毁迈克尔遗留组织行动中
+on the success you've had dismantling
+
+134
+00:07:46,193 --> 00:07:48,193
+取得了佳绩
+what's left of michael's organization.
+
+135
+00:07:48,193 --> 00:07:50,778
+除了我们还没找到迈克尔尸首
+Except one thing. We haven't found him yet.
+
+136
+00:07:50,940 --> 00:07:53,901
+你们在太空轨道m2s 445附近
+Well, he was on the cruiser
+
+137
+00:07:53,901 --> 00:07:55,901
+击落了他乘坐的飞船
+you destroyed in orbit around m2s 445.
+
+138
+00:07:56,024 --> 00:07:58,600
+他有可能逃离了那艘飞船
+There's a chance he may have made it off the ship.
+
+139
+00:07:59,200 --> 00:08:02,295
+很对  你的这个意见在
+Right, you're referring to this statement given by
+
+140
+00:08:02,295 --> 00:08:03,295
+一个迈克尔旧部的报告中提及
+one of michael's ex-mercenaries,
+
+141
+00:08:03,295 --> 00:08:04,295
+声称有人看见他还活着
+claiming to have seen him alive recently.
+
+142
+00:08:04,380 --> 00:08:05,201
+这就是他说的
+That's what he said.
+
+143
+00:08:05,334 --> 00:08:07,961
+这个未经证实的情报来源
+This is one unsubstantiated report
+
+144
+00:08:07,961 --> 00:08:09,761
+是毫无根据的
+from a highly unreliable source.
+
+145
+00:08:09,952 --> 00:08:12,327
+但是有人从那艘飞船上偷走了我们的战机
+Well, someone stole our jumper off that ship.
+
+146
+00:08:12,756 --> 00:08:15,608
+需要古人DNA才能开走那些战机吧
+I thought you needed ancient dna to pilot one of those.
+
+147
+00:08:15,684 --> 00:08:17,955
+没这个必要  我们发明的基因疗法
+Not necessarily. We developed a gene therapy that works...
+
+148
+00:08:18,155 --> 00:08:18,985
+有时就可以行的通
+some of the time.
+
+149
+00:08:19,089 --> 00:08:21,858
+他要为成千上万人
+He is responsible for the deaths
+
+150
+00:08:21,858 --> 00:08:22,858
+的死亡负责
+of hundreds of thousands of people.
+
+151
+00:08:22,972 --> 00:08:24,901
+如果他还活着  即使可能性很小
+If there is even a chance that he is still alive,
+
+152
+00:08:24,901 --> 00:08:25,901
+我们也一定要继续搜寻
+we must continue the search.
+
+153
+00:08:25,902 --> 00:08:27,311
+抱歉  我不能耗费
+I'm sorry, but I can't devote
+
+154
+00:08:27,311 --> 00:08:30,079
+全部人力在全宇宙
+the resources of this base to the never-ending
+
+155
+00:08:30,079 --> 00:08:32,579
+毫无止境的搜寻一个人
+pursuit of a single individual across an entire galaxy.
+
+156
+00:08:32,845 --> 00:08:34,841
+即使我知道他还活着
+Even if I knew for a fact he were still alive,
+
+157
+00:08:34,845 --> 00:08:35,841
+我也不会下令搜寻
+I still wouldn't authorize it, unless you have
+
+158
+00:08:35,997 --> 00:08:40,481
+除非你们有他藏身点的可靠证据
+some new, credible evidence as to his whereabouts.
+
+159
+00:08:41,053 --> 00:08:42,236
+你们有吗
+Do you?
+
+160
+00:08:42,799 --> 00:08:43,658
+没有
+No.
+
+161
+00:08:44,286 --> 00:08:45,498
+那么眼下
+Then, for the time being,
+
+162
+00:08:45,632 --> 00:08:48,752
+这件事就先搁着
+I shall consider the matter closed.
+
+163
+00:08:49,069 --> 00:08:51,228
+至于那些混合人
+As to these prisoner hybrids.
+
+164
+00:08:51,228 --> 00:08:53,028
+据我所知  他们被关在大陆的的拘留营中
+I understand they're being held in a camp on the mainland?
+
+165
+00:08:53,877 --> 00:08:54,898
+没错
+That's right.
+
+166
+00:08:55,069 --> 00:08:57,883
+他们的康复计划进展地怎么样了
+And how is their rehabilitation progressing?
+
+167
+00:09:01,079 --> 00:09:02,100
+医生?
+Doctor?
+
+168
+00:09:07,165 --> 00:09:09,999
+我们取得了一定成果
+well, um, we've had some success
+
+169
+00:09:10,062 --> 00:09:13,577
+利用早期创造迈克尔的逆转录酶
+using a slightly modified version of the original retrovirus
+
+170
+00:09:13,577 --> 00:09:15,577
+来进行少许改良
+that created michael in the first place.
+
+171
+00:09:15,796 --> 00:09:17,809
+并筛除幽灵的DNA
+It weeds out the wraith dna,
+
+172
+00:09:17,810 --> 00:09:21,196
+这样就可以重新恢复他们的人类形态
+and allows them to resume their original human form, over time.
+
+173
+00:09:21,376 --> 00:09:23,294
+会不会有长期副作用
+Without any lasting ill effects?
+
+174
+00:09:23,589 --> 00:09:25,612
+目前还没有
+None that we've detected so far.
+
+175
+00:09:25,659 --> 00:09:27,065
+很多人已经完成了治疗计划
+Many have already completed the treatment.
+
+176
+00:09:27,065 --> 00:09:29,065
+他们想知道什么时候可以重享自由
+They're wondering when they might be released.
+
+177
+00:09:29,447 --> 00:09:31,174
+别急  一件件来
+Let's not get ahead of ourselves.
+
+178
+00:09:31,307 --> 00:09:33,491
+伍尔希长官  这些人是受害者
+These people are victims, mr. Woolsey.
+
+179
+00:09:33,600 --> 00:09:36,092
+也许是  但起码现在
+Maybe so, but until very recently,
+
+180
+00:09:36,092 --> 00:09:37,092
+他们还是敌人
+they were also enemy combatants.
+
+181
+00:09:37,093 --> 00:09:39,220
+好吧  那我们就把他们终身监禁
+Fine. We'll just keep them there forever.
+
+182
+00:09:39,533 --> 00:09:41,391
+不  直到我认为他们可以被信任时
+No. We'll keep them there
+
+183
+00:09:41,391 --> 00:09:43,826
+他们就成恢复自由之身
+until I'm satisfied that they can be trusted.
+
+184
+00:09:47,472 --> 00:09:51,265
+至于那个被关在静止分离舱里的朋友
+Now, regarding the situation with our friend in the stasis pod.
+
+185
+00:09:51,266 --> 00:09:53,529
+最近你好像对他
+You seem to have been giving
+
+186
+00:09:53,529 --> 00:09:55,129
+非常关注啊
+a significant amount of attention to this lately.
+
+187
+00:09:55,280 --> 00:09:58,019
+自从我们得到迈克尔的医疗研究
+Well, once we got our hands on michael's medical research,
+
+188
+00:09:58,020 --> 00:10:00,795
+我就想第一时间研究出解决方案
+I thought I should make it a priority to look for a solution.
+
+189
+00:10:00,985 --> 00:10:02,578
+你得出结果了?
+And have you found one?
+
+190
+00:10:02,721 --> 00:10:03,427
+有点
+Maybe.
+
+191
+00:10:03,522 --> 00:10:05,125
+我们发现一种血清
+We found a serum that,
+
+192
+00:10:05,258 --> 00:10:06,467
+可以在实验室里
+in lab tests at least,
+
+193
+00:10:06,467 --> 00:10:09,567
+稳定克隆细胞
+seems to be capable of stabilizing the clone cells.
+
+194
+00:10:11,335 --> 00:10:12,470
+那有什么问题呢
+So, what's the problem?
+
+195
+00:10:12,470 --> 00:10:14,960
+实验一度危及其到卡森的生命
+Carson was near death when we put him in that chamber.
+
+196
+00:10:14,961 --> 00:10:18,022
+我要在百分百确定的情况下再进行测试
+I don't want to take him out until I know for sure,
+
+197
+00:10:18,184 --> 00:10:20,998
+但现在实验室进展就只能到这里
+but lab tests can only do so much.
+
+198
+00:10:21,112 --> 00:10:23,507
+但这问题并不会就此消失  对吧
+But that problem's never going to go away, is it?
+
+199
+00:10:23,687 --> 00:10:26,038
+如果你的研究达到了极限
+If you've reached the limit of what your research can tell you,
+
+200
+00:10:26,038 --> 00:10:27,838
+你就需要做出决定
+then you need to make a decision.
+
+201
+00:10:28,009 --> 00:10:30,740
+要么就继续  别管其副作用
+Either proceed, or put the matter aside
+
+202
+00:10:30,740 --> 00:10:32,140
+要么就回到你的本职工作
+and get back to your regular duty.
+
+203
+00:10:32,798 --> 00:10:33,914
+对吗
+Right?
+
+204
+00:10:36,976 --> 00:10:38,960
+你确定吗
+You sure about this?
+
+205
+00:10:40,095 --> 00:10:42,786
+不  但是我们不试试的话就永远得不出结论
+No, but we're never going to be sure unless we give it a shot.
+
+206
+00:10:43,347 --> 00:10:47,336
+他也就会永远禁锢在这里
+If we don't take a chance now, he could be in there forever.
+
+207
+00:10:48,556 --> 00:10:50,283
+好吧
+All right, then.
+
+208
+00:10:57,194 --> 00:10:58,959
+把他扶到担架上
+Get him on the gurney.
+
+209
+00:11:00,337 --> 00:11:01,749
+小心
+Careful...
+
+210
+00:11:12,472 --> 00:11:13,417
+好了
+okay.
+
+211
+00:11:16,180 --> 00:11:17,172
+现在怎么办
+Now what?
+
+212
+00:11:17,173 --> 00:11:18,521
+现在我们带他去医务室
+Now we take him to the infirmary
+
+213
+00:11:18,522 --> 00:11:20,522
+进一步观察有无细胞退化现象
+and watch for signs for more cellular degradation.
+
+214
+00:11:20,522 --> 00:11:21,961
+很快就可以知道结果了
+We should know soon enough.
+
+215
+00:11:33,143 --> 00:11:34,126
+嗨
+Hey there.
+
+216
+00:11:34,631 --> 00:11:35,681
+感觉如何
+How you doing?
+
+217
+00:11:37,483 --> 00:11:38,408
+还好
+Fine.
+
+218
+00:11:39,124 --> 00:11:40,336
+出了什么事
+What happened?
+
+219
+00:11:40,803 --> 00:11:42,415
+你以为呢
+Well, what do you think?
+
+220
+00:11:42,682 --> 00:11:43,789
+我们把你解冻了
+We thawed you out.
+
+221
+00:11:44,256 --> 00:11:45,591
+还能见到你真好  卡森
+It's nice to see you again, carson.
+
+222
+00:11:45,706 --> 00:11:47,843
+是啊感觉怎样  医生  好久不见了
+Yeah, what's up, doc? It's been a while.
+
+223
+00:11:48,005 --> 00:11:48,959
+没错
+Aye.
+
+224
+00:11:49,722 --> 00:11:51,086
+我在那呆了多久
+How long was I in there?
+
+225
+00:11:51,134 --> 00:11:53,710
+差不多2个月
+Two months, give or take.
+
+226
+00:11:54,186 --> 00:11:55,350
+这期间有什么大事发生吗
+Did I miss anything?
+
+227
+00:11:55,494 --> 00:11:57,068
+没什么  像平常一样
+You know, just the usual.
+
+228
+00:11:58,403 --> 00:11:59,929
+我有个好消息
+Well, I've got good news.
+
+229
+00:11:59,977 --> 00:12:03,536
+目前  你还没有出现细胞退化现象
+At the moment, you're showing no signs of cellular degradation.
+
+230
+00:12:04,078 --> 00:12:06,178
+那你的工作就轻松多了
+You were able to recreate the treatment.
+
+231
+00:12:06,787 --> 00:12:07,970
+没错
+That's right.
+
+232
+00:12:09,020 --> 00:12:11,138
+我会让他们把一切都告诉你
+I'll let them tell you all about it.
+
+233
+00:12:12,339 --> 00:12:15,335
+医生...干的不错
+Hey, doc... um, nice work.
+
+234
+00:12:15,612 --> 00:12:17,424
+但这不是长久之计
+Well, it's not a permanent solution.
+
+235
+00:12:17,539 --> 00:12:18,884
+当前来说已经足够了
+It's good enough for now.
+
+236
+00:12:20,255 --> 00:12:21,609
+休息下吧
+Go get some rest.
+
+237
+00:12:21,781 --> 00:12:24,510
+对  我觉得这是个好主意
+Yeah, I think that might be a good idea.
+
+238
+00:13:06,627 --> 00:13:07,553
+你在这
+There you are.
+
+239
+00:13:09,756 --> 00:13:11,197
+太美了  是不是
+Gorgeous, isn't it?
+
+240
+00:13:12,245 --> 00:13:13,562
+是吧
+I suppose so.
+
+241
+00:13:13,991 --> 00:13:15,966
+你知道吗  我以前真的很留恋这地方
+You know, I really did miss this place.
+
+242
+00:13:16,814 --> 00:13:18,637
+是啊  不过别总想这些了
+Yeah, well, don't get used to it.
+
+243
+00:13:21,536 --> 00:13:22,519
+这什么意思
+What's that supposed to mean?
+
+244
+00:13:22,595 --> 00:13:24,933
+听着  我刚得知他们要送你回地球
+Look, I just found out they're sending you back to earth.
+
+245
+00:13:25,114 --> 00:13:26,803
+下午会有一次预定拨号
+There's a scheduled dial-out this afternoon.
+
+246
+00:13:28,490 --> 00:13:31,333
+我想这也是应该的吧
+Oh, well, I suppose it's to be expected.
+
+247
+00:13:31,581 --> 00:13:33,489
+我是说  即使接受这些治疗
+I mean, even with these injections,
+
+248
+00:13:33,937 --> 00:13:35,639
+想要完全恢复
+I imagine it'd still be months
+
+249
+00:13:35,640 --> 00:13:37,640
+也要数月之久
+before I'm in any sort of decent physical condition.
+
+250
+00:13:37,640 --> 00:13:39,496
+罗德尼  我是泰勒  麻烦过来一下
+Rodney, this is teyla, come in, please.
+
+251
+00:13:39,497 --> 00:13:40,517
+什么事
+Go ahead.
+
+252
+00:13:40,716 --> 00:13:43,245
+很抱歉打扰你  但我需要你的帮助
+I'm sorry to bother you, but I need your help.
+
+253
+00:13:45,420 --> 00:13:46,345
+怎么了
+What is it?
+
+254
+00:13:46,421 --> 00:13:49,180
+是凯勒医生  本来我们说好一起吃早饭的
+It's dr.Keller. She was supposed join me for breakfast this morning
+
+255
+00:13:49,181 --> 00:13:50,181
+但现在还没过来
+but did not show up.
+
+256
+00:13:50,475 --> 00:13:51,849
+也许她还在睡觉
+So maybe she's sleeping in.
+
+257
+00:13:51,906 --> 00:13:53,674
+我开始也这么想  决定不打扰她
+I assumed as much as well, and decided not to disturb her.
+
+258
+00:13:53,675 --> 00:13:55,675
+可是已经过了4个小时了
+However, that was four hours ago.
+
+259
+00:13:55,750 --> 00:13:56,469
+她现在值班都晚了
+She's now late for her shift,
+
+260
+00:13:56,470 --> 00:13:58,470
+而且呼叫她也没有回应
+and she's not responding to radio calls.
+
+261
+00:13:58,470 --> 00:13:59,537
+你想要我怎么做
+What do you want me to do about it?
+
+262
+00:13:59,538 --> 00:14:00,587
+破坏门控
+Override the door controlS.
+
+263
+00:14:00,624 --> 00:14:02,266
+我不会破门而入的
+I'm not breaking into her room.
+
+264
+00:14:02,267 --> 00:14:04,813
+罗德尼  也许有异常情况
+Rodney, there might be something wrong.
+
+265
+00:14:05,881 --> 00:14:08,027
+好吧  但如果她只是在那睡觉
+Fine, but if she's just in there sleeping,
+
+266
+00:14:08,065 --> 00:14:10,889
+裸体或是什么  你们得承担责任
+or naked or something, you guys are taking the blame.
+
+267
+00:14:17,379 --> 00:14:19,402
+天啊  罗德尼  快点吧
+oh, for god's sake, rodney, hurry up.
+
+268
+00:14:25,602 --> 00:14:27,310
+珍妮弗  你没事吧
+Jennifer, are you all right?
+
+269
+00:14:28,101 --> 00:14:28,979
+珍妮弗
+Jennifer?
+
+270
+00:14:29,199 --> 00:14:30,859
+她肯定昏迷了
+She must be unconscious.
+
+271
+00:14:35,272 --> 00:14:36,360
+瞳孔放大
+Pupils dilated.
+
+272
+00:14:36,484 --> 00:14:37,905
+卡森  退后
+Carson, step away from the bed.
+
+273
+00:14:37,971 --> 00:14:38,734
+怎么了
+What?
+
+274
+00:14:38,735 --> 00:14:40,232
+快点退后
+Step away now!
+
+275
+00:14:40,452 --> 00:14:41,826
+怎么回事
+What is it?
+
+276
+00:14:45,469 --> 00:14:46,948
+天啊
+Dear lord.
+
+277
+00:14:48,007 --> 00:14:49,972
+谢帕德上校  我是泰勒
+Colonel sheppard, this is teyla.
+
+278
+00:14:50,086 --> 00:14:51,355
+请说
+Go ahead.
+
+279
+00:14:51,479 --> 00:14:53,073
+约翰  我们有麻烦
+John, we have a problem.
+
+280
+00:15:00,742 --> 00:15:01,820
+到底怎么了
+What the hell's going on?
+
+281
+00:15:01,821 --> 00:15:03,220
+我们不能确定  发现她的时候就这样了
+We're not sure. This is how we found her.
+
+282
+00:15:03,257 --> 00:15:04,546
+肯定昨晚发生的
+It must've happened last night.
+
+283
+00:15:04,593 --> 00:15:06,540
+我以前见过这种东西
+I've seen something like this before.
+
+284
+00:15:06,654 --> 00:15:07,465
+在哪
+Where?
+
+285
+00:15:07,466 --> 00:15:08,505
+迈克尔的一个实验室里
+One of michael's labs.
+
+286
+00:15:08,524 --> 00:15:10,556
+他当时在进行一些实验
+He was conducting some kind of experiment.
+
+287
+00:15:11,737 --> 00:15:12,930
+我们得把这东西弄开
+Well, we've got to get it off of her.
+
+288
+00:15:12,931 --> 00:15:15,086
+我不觉得这是个好主意
+I'm not so certain that's such a good idea.
+
+289
+00:15:15,142 --> 00:15:16,062
+依我看
+From what I can tell,
+
+290
+00:15:16,063 --> 00:15:18,063
+她和床架还有这些须蔓已经连为一体了
+the tendrils are attached to her and the bedframe.
+
+291
+00:15:18,186 --> 00:15:19,846
+如果我们硬扯下来
+If we just start ripping them off,
+
+292
+00:15:20,104 --> 00:15:21,745
+会让她受重伤的
+we could cause her serious injury.
+
+293
+00:15:21,830 --> 00:15:23,681
+但我们不能就这样让她躺在这
+Well, we can't just leave her like this.
+
+294
+00:15:23,947 --> 00:15:25,848
+我们得把她弄到隔离室
+We need to get her into an isolation chamber,
+
+295
+00:15:25,849 --> 00:15:26,849
+连床一起
+and take the whole bed as well.
+
+296
+00:15:27,048 --> 00:15:28,826
+那样我们才能进行全面检查
+That way we can run a full examination
+
+297
+00:15:28,827 --> 00:15:30,827
+看看到底出了什么状况
+and see what we're dealing with here.
+
+298
+00:15:33,635 --> 00:15:36,077
+那些东西是从她体内长出来的?
+These things are actually growing out of her body?
+
+299
+00:15:36,078 --> 00:15:37,604
+看起来像是
+That's what it looks like.
+
+300
+00:15:37,605 --> 00:15:38,786
+她还有意识吗
+Is she conscious?
+
+301
+00:15:38,805 --> 00:15:40,336
+贝克特说她的脑活跃度
+Beckett says her brain activity
+
+302
+00:15:40,337 --> 00:15:42,337
+与普通的昏迷病人类似
+is consistent with somebody in a coma.
+
+303
+00:15:42,392 --> 00:15:44,815
+贝克特医生还没有复职啊
+Dr. Beckett is not on active duty.
+
+304
+00:15:44,816 --> 00:15:46,031
+他当时在现场
+He was the first one there.
+
+305
+00:15:46,032 --> 00:15:48,032
+说他以前见过类似的东西
+He says he's seen something like this before.
+
+306
+00:15:48,346 --> 00:15:49,902
+当他被监禁的时候
+While he was a prisoner.
+
+307
+00:15:50,130 --> 00:15:52,376
+他被迫为迈克尔工作了2年
+He was forced to work for michael for two years.
+
+308
+00:15:52,377 --> 00:15:54,377
+没有人比他更了解这东西了
+Nobody knows this stuff better than he does.
+
+309
+00:15:58,224 --> 00:16:00,962
+我先试着切断较细的须蔓
+I'm going to try to cut some of the thinner strands.
+
+310
+00:16:01,113 --> 00:16:02,497
+手术刀
+Scalpel.
+
+311
+00:16:03,575 --> 00:16:05,426
+谢谢
+Thank you.
+
+312
+00:16:15,681 --> 00:16:16,692
+好了
+There we go.
+
+313
+00:16:16,711 --> 00:16:17,637
+护士?
+Nurse?
+
+314
+00:16:17,998 --> 00:16:19,153
+一切正常
+No change.
+
+315
+00:16:19,220 --> 00:16:20,966
+马上拿去化验
+Get that analyzed right away.
+
+316
+00:16:22,730 --> 00:16:24,925
+医生  血压在下降  脉搏也是
+Doctor, blood pressure's dropping. Pulse as well.
+
+317
+00:16:25,020 --> 00:16:26,651
+我就担心这种情况  她的生命力在下降
+That's what I was afraid of. She's crashing.
+
+318
+00:16:26,652 --> 00:16:28,998
+注入5毫克阿托品
+Administer five milligrams of atropine.
+
+319
+00:16:29,159 --> 00:16:30,715
+天啊...
+My god...
+
+320
+00:16:31,087 --> 00:16:32,241
+加油...
+come on...
+
+321
+00:16:39,616 --> 00:16:41,200
+好了
+there she is.
+
+322
+00:16:44,410 --> 00:16:47,158
+抱歉  我不敢再切了
+I'm sorry, I don't dare make another incision.
+
+323
+00:16:49,409 --> 00:16:51,212
+看来不能动其它的了
+So much for cutting her loose.
+
+324
+00:16:53,352 --> 00:16:55,737
+贝克特医生  我想和你谈谈
+Dr. Beckett, I'd like a word.
+
+325
+00:16:59,585 --> 00:17:01,884
+别担心  我会救她出来  只要我回到实验室
+Don't worry, I'll get her out. Once I get back to the lab--
+
+326
+00:17:01,885 --> 00:17:03,967
+医生  我很感激你的努力
+doctor, I appreciate what you're trying to do,
+
+327
+00:17:03,968 --> 00:17:05,968
+但到地球的拨号1小时后就开始了
+but our earth dial-out is in one hour.
+
+328
+00:17:06,873 --> 00:17:09,153
+如果你不介意  我想等下一次再走
+I'll take a pass on this one, if you don't mind.
+
+329
+00:17:09,601 --> 00:17:11,261
+如果不是凯勒医生
+If it wasn't for dr. Keller,
+
+330
+00:17:11,414 --> 00:17:14,238
+我可能还被关在静室里  甚至永远关在那
+I'd still be locked in that stasis chamber, possibly forever.
+
+331
+00:17:14,380 --> 00:17:17,128
+凯勒医生的报告十分清楚
+Dr. Keller's own report is abundantly clear.
+
+332
+00:17:17,232 --> 00:17:19,287
+即使你的病情稳定了
+While your condition has stabilized,
+
+333
+00:17:19,288 --> 00:17:21,288
+你的内脏依然受损严重
+you've still suffered severe damage to your internal organs.
+
+334
+00:17:21,305 --> 00:17:22,177
+你需要在医院静养
+You need to be in a hospital bed yourself,
+
+335
+00:17:22,178 --> 00:17:24,178
+而不是去操刀手术
+not running a medical investigation.
+
+336
+00:17:24,206 --> 00:17:25,589
+我没事
+I'll be fine.
+
+337
+00:17:26,142 --> 00:17:28,718
+一发现身体不适  我会立刻退让  我保证
+At the first sign of trouble, I'll step aside, I promise.
+
+338
+00:17:28,906 --> 00:17:30,786
+你确信这与迈克尔有关?
+You're convinced this has something to do with michael?
+
+339
+00:17:30,900 --> 00:17:32,828
+这可不是什么麻疹  对不对
+Well, it's not a case of the hives, is it?
+
+340
+00:17:39,303 --> 00:17:40,429
+她怎么样了
+How's she doing?
+
+341
+00:17:40,486 --> 00:17:43,291
+基本稳定了  依然还有微弱脑电波
+Vitals have stabilized, still showing minimal brain function.
+
+342
+00:17:43,377 --> 00:17:45,485
+我们已取得血液和组织样本
+We did manage to get blood and tissue samples.
+
+343
+00:17:45,561 --> 00:17:47,918
+好吧  那我们有活要做了
+All right, then we've got some work to do.
+
+344
+00:17:51,324 --> 00:17:53,461
+你不是要把他送回去吗
+You're not sending him back, huh?
+
+345
+00:17:53,547 --> 00:17:55,827
+他是这方面唯一的专家了
+He is the closest thing to an expert we have.
+
+346
+00:17:56,161 --> 00:17:58,355
+这可不是照章办事
+It's not exactly by the book.
+
+347
+00:17:58,356 --> 00:18:00,119
+别老是这样
+Don't get used to it.
+
+348
+00:18:08,070 --> 00:18:09,224
+进展如何
+How's it coming?
+
+349
+00:18:09,348 --> 00:18:10,627
+缓慢
+Slowly,
+
+350
+00:18:11,246 --> 00:18:12,954
+但我在珍妮弗的血样里发现了些东西
+but I did find something in jennifer's blood sample.
+
+351
+00:18:12,955 --> 00:18:13,784
+什么
+What?
+
+352
+00:18:13,956 --> 00:18:15,005
+别急
+Easy.
+
+353
+00:18:15,072 --> 00:18:18,325
+是某种外星病菌  从未见过
+It's some kind of alien pathogen, so far unidentified.
+
+354
+00:18:18,382 --> 00:18:19,756
+我正在对照数据库
+I'm checking it against the database.
+
+355
+00:18:19,757 --> 00:18:22,045
+她会不会变成混种人
+Is it possible she's turning into a hybrid?
+
+356
+00:18:22,245 --> 00:18:23,438
+不  我想不会
+No, I don't think so.
+
+357
+00:18:23,580 --> 00:18:25,843
+我见过很多变种的实例
+I've seen several variations of the conversion process,
+
+358
+00:18:25,844 --> 00:18:26,844
+从来没有这样的
+but never anything like this.
+
+359
+00:18:26,928 --> 00:18:28,188
+这肯定与迈克尔有关
+Well, it's got to be something to do with michael.
+
+360
+00:18:28,235 --> 00:18:30,212
+我是说  她把我们救出实验室后
+I mean, she hasn't been offworld
+
+361
+00:18:30,213 --> 00:18:31,213
+就再没出去过
+since she helped rescue us from that lab.
+
+362
+00:18:31,213 --> 00:18:32,395
+我也这么想
+That's what I was thinking.
+
+363
+00:18:32,537 --> 00:18:33,381
+当然  如果她是
+Of course, if that's
+
+364
+00:18:33,382 --> 00:18:35,382
+在那里感染上病菌的话...
+where she came in contact with the pathogen...
+
+365
+00:18:35,609 --> 00:18:37,383
+你认为我们也有可能被感染了
+you think the rest of us may have been exposed as well.
+
+366
+00:18:37,384 --> 00:18:38,729
+是啊  这很有可能
+Well, aye, it's a possibility.
+
+367
+00:18:38,834 --> 00:18:41,478
+我需要当时在场的所有人的血样
+I'll need blood samples from everyone who was on that planet,
+
+368
+00:18:41,479 --> 00:18:42,479
+包括你
+including you.
+
+369
+00:18:42,545 --> 00:18:43,928
+很好
+Oh, great.
+
+370
+00:18:44,623 --> 00:18:45,310
+医生...
+Doctor...
+
+371
+00:18:45,311 --> 00:18:46,131
+什么事
+Yes?
+
+372
+00:18:46,598 --> 00:18:47,324
+说
+Yes.
+
+373
+00:18:47,390 --> 00:18:48,458
+她醒了
+She's awake.
+
+374
+00:18:48,630 --> 00:18:50,615
+谢谢  好的
+Thank you. Right.
+
+375
+00:18:57,736 --> 00:18:59,797
+天啊...
+Oh, my god...
+
+376
+00:19:08,264 --> 00:19:10,382
+罗德尼  我这是怎么了
+rodney, what's happening to me?
+
+377
+00:19:10,898 --> 00:19:12,730
+我们还不十分肯定
+We're not entirely sure.
+
+378
+00:19:13,063 --> 00:19:15,496
+这像是某种茧
+It looks like some kind of a cocoon.
+
+379
+00:19:15,839 --> 00:19:16,879
+疼吗
+Does it hurt?
+
+380
+00:19:17,184 --> 00:19:19,808
+我什么也感觉不到  完全动不了
+I can't feel anything. I can't move.
+
+381
+00:19:20,008 --> 00:19:21,268
+好吧  听着...
+Okay, look...
+
+382
+00:19:23,175 --> 00:19:25,474
+你不要担心  好吗  我们会把你救出来
+don't you worry, okay? We're going to get you out.
+
+383
+00:19:25,808 --> 00:19:27,563
+还有谁在这
+Who else is here?
+
+384
+00:19:28,535 --> 00:19:30,587
+什么意思  没别人了
+What do you mean? There's no one.
+
+385
+00:19:31,264 --> 00:19:34,174
+我不想睡觉  我怕再也不会醒来
+I don't want to go to sleep. I'm afraid I won't wake up.
+
+386
+00:19:34,870 --> 00:19:35,385
+珍妮弗
+Jennifer?
+
+387
+00:19:35,386 --> 00:19:37,064
+不是我的错
+It's not my fault.
+
+388
+00:19:37,255 --> 00:19:40,003
+当然不是  这是某种外星生物
+Of course it's not. It's an alien organism.
+
+389
+00:19:41,118 --> 00:19:41,843
+什么
+What?
+
+390
+00:19:41,844 --> 00:19:43,264
+卡森在你血样里发现的
+Carson found it in your blood sample.
+
+391
+00:19:43,265 --> 00:19:45,668
+他正在研究这东西的  然后
+He's going to figure out what it is, and then
+
+392
+00:19:45,744 --> 00:19:48,272
+我们就知道如何消灭它了
+we're going to figure out how to kill it.
+
+393
+00:19:48,635 --> 00:19:49,885
+我的手
+My hand.
+
+394
+00:19:51,105 --> 00:19:51,840
+怎么了
+What about it?
+
+395
+00:19:51,841 --> 00:19:53,614
+是从手开始的
+That's where it started.
+
+396
+00:19:53,615 --> 00:19:55,455
+我几天前看到的
+I saw it a few nights ago.
+
+397
+00:19:55,531 --> 00:19:57,182
+那你当时为什么不说
+So why didn't you say anything?
+
+398
+00:19:57,353 --> 00:19:59,634
+我当时在扫描  我...
+I was going to run a scan. I don'T...
+
+399
+00:20:00,806 --> 00:20:02,037
+我不知道
+I don't know.
+
+400
+00:20:02,475 --> 00:20:04,603
+没关系  知道吗  我们会搞定的
+It doesn't matter, okay? We're going to fix this.
+
+401
+00:20:04,889 --> 00:20:06,654
+我保证
+I promise.
+
+402
+00:20:15,885 --> 00:20:17,774
+这东西似乎能影响她的意识
+It appears to be affecting her mind.
+
+403
+00:20:17,860 --> 00:20:19,902
+是啊  她说能听到些声音
+Aye, she claims to be hearing voices,
+
+404
+00:20:19,977 --> 00:20:21,370
+好像房间里还有其他人
+like there's someone else in the room with her.
+
+405
+00:20:21,371 --> 00:20:22,992
+它生长的有多快
+How fast is it growing?
+
+406
+00:20:22,993 --> 00:20:25,758
+目前来看  每过几小时就会增殖一倍
+Currently, it's doubling its mass every couple of hours.
+
+407
+00:20:26,588 --> 00:20:27,838
+谢谢
+Thank you.
+
+408
+00:20:28,629 --> 00:20:30,556
+这已经不仅仅关系到凯勒医生了
+This isn't just about dr. Keller anymore.
+
+409
+00:20:31,291 --> 00:20:32,905
+我得知道这东西
+I need to know if this thing
+
+410
+00:20:32,906 --> 00:20:33,906
+是否会威胁到基地的安全
+is going to be a threat to the base.
+
+411
+00:20:34,477 --> 00:20:36,481
+答案是肯定的
+I'd say that's a definite yes.
+
+412
+00:20:36,890 --> 00:20:37,978
+你什么意思
+What do you mean?
+
+413
+00:20:38,140 --> 00:20:40,506
+谢帕德上校  若楠  罗德尼
+Colonel sheppard, ronon, rodney,
+
+414
+00:20:40,630 --> 00:20:43,292
+所有到过m2s 445的人
+everyone who was on m2s 445,
+
+415
+00:20:43,588 --> 00:20:45,353
+检验结果全部为阳性
+they all tested positive.
+
+416
+00:20:46,049 --> 00:20:47,852
+不管这到底是什么
+Whatever this is,
+
+417
+00:20:48,471 --> 00:20:50,275
+他们都感染了
+they've all got it.
+
+418
+00:20:56,844 --> 00:20:58,381
+现在我们假定
+Right now we're working under the assumption
+
+419
+00:20:58,409 --> 00:21:01,634
+这个外星病毒源于那个实验室
+that this alien pathogen was present somewhere in that lab,
+
+420
+00:21:01,805 --> 00:21:03,999
+很可能是迈克尔实验的一部分
+possibly as part of one of michael's experiments.
+
+421
+00:21:04,209 --> 00:21:06,938
+那所建筑被毁的时候  它随之释放出来
+When the building was destroyed, it was released.
+
+422
+00:21:07,118 --> 00:21:09,007
+我们已经回来一个多月
+We've been back for a month now.
+
+423
+00:21:09,008 --> 00:21:11,337
+如果它要大面积传播的话
+It was going to spread to the general population,
+
+424
+00:21:11,338 --> 00:21:12,338
+现在早就大爆发了
+it would've already happened.
+
+425
+00:21:12,441 --> 00:21:13,157
+我知道
+I know.
+
+426
+00:21:13,185 --> 00:21:16,133
+贝克特医生确认它是无传染性的
+Dr. Beckett is now fairly confident that it's not contagious.
+
+427
+00:21:16,352 --> 00:21:18,584
+那为什么要我们只能呆在房间里
+Right, then, why confine us to our quarters?
+
+428
+00:21:18,585 --> 00:21:20,311
+你也看过凯勒医生的症状
+You've seen what's happening to dr. Keller.
+
+429
+00:21:20,340 --> 00:21:22,611
+-没错 但我可没那样啊  -还没有而已
+- Yeah, but it's not happening to me.  -Not yet.
+
+430
+00:21:23,116 --> 00:21:25,948
+症状先从凯勒医生开始
+There could be any number of random physiological
+
+431
+00:21:26,048 --> 00:21:27,000
+可能有很多随机的生理因素
+reasons why it's starting with dr. Keller,
+
+432
+00:21:27,100 --> 00:21:28,748
+但现在不能保证
+but that's no guarantee that
+
+433
+00:21:28,749 --> 00:21:29,749
+你们不会发生这种情况
+it's not going to happen to the rest of you.
+
+434
+00:21:29,972 --> 00:21:32,608
+可能再过几天  甚至几小时
+It could be a matter of days, it could be a matter of hours.
+
+435
+00:21:32,784 --> 00:21:36,124
+就连卡特上校返回星门指挥部也要被隔离
+Even colonel carter's been quarantined back at stargate command.
+
+436
+00:21:36,698 --> 00:21:38,331
+听着  我知道对你来说
+Look, I know it's hard for you
+
+437
+00:21:38,332 --> 00:21:40,332
+当一个旁观者很难受  上校
+to stay on the sidelines, colonel,
+
+438
+00:21:41,257 --> 00:21:42,780
+但这才是正确的做法
+but it's the right call.
+
+439
+00:21:44,491 --> 00:21:47,819
+那这个时候凯勒怎么办
+In the meantime, what are we going to do about keller?
+
+440
+00:21:50,179 --> 00:21:52,054
+我们还在研究当前形势
+We're still assessing the situation.
+
+441
+00:21:59,935 --> 00:22:01,427
+我们还不知道病毒
+We still don't know how the pathogen
+
+442
+00:22:01,428 --> 00:22:03,428
+如何引起了生理变化
+causes the physiological changes,
+
+443
+00:22:03,509 --> 00:22:05,259
+但已经完成了
+but we've managed to
+
+444
+00:22:05,260 --> 00:22:07,260
+对萃取样品的分析
+complete our analysis of the sample I extracted.
+
+445
+00:22:08,232 --> 00:22:10,529
+本质上这是一种二元共聚物
+Essentially it's a biopolymer,
+
+446
+00:22:10,530 --> 00:22:12,091
+类似于多糖类
+similar to a polysaccharide,
+
+447
+00:22:12,092 --> 00:22:14,092
+但是混合了有机金属
+but with organo-metallic compounds mixed in.
+
+448
+00:22:14,162 --> 00:22:16,189
+请通俗点  医生
+For the uninitiated, please, doctor.
+
+449
+00:22:16,330 --> 00:22:18,701
+就像是昆虫或者甲壳类生物
+It's like the material
+
+450
+00:22:18,702 --> 00:22:20,702
+构成其外壳的物质
+an insect or a crustacean uses to form its shell.
+
+451
+00:22:20,888 --> 00:22:22,709
+刚开始很柔软
+At first, it's soft and pliable,
+
+452
+00:22:22,710 --> 00:22:24,710
+随后变得极为坚硬
+and then it becomes tough and leathery,
+
+453
+00:22:24,861 --> 00:22:27,357
+最后会到达一种不可思议的密度
+and eventually it hardens into an incredible density,
+
+454
+00:22:27,358 --> 00:22:29,256
+能抵御热能  压力甚至辐射
+resistant to heat, pressure, and even radiation.
+
+455
+00:22:29,257 --> 00:22:31,257
+是的  就像飞船的外壳
+Yes, it's like the hull of a ship.
+
+456
+00:22:31,502 --> 00:22:32,439
+是的
+Aye.
+
+457
+00:22:32,568 --> 00:22:33,658
+你在说什么
+What are you saying?
+
+458
+00:22:33,670 --> 00:22:36,588
+听着  我们知道幽灵战舰本身是生物体
+Look, we always knew that the wraith ships were organic in design,
+
+459
+00:22:36,589 --> 00:22:39,589
+本质上说  它不是被建造的而是自己长成的
+right, that they were essentially grown instead of constructed.
+
+460
+00:22:39,728 --> 00:22:41,170
+我们只是从没看到过而已
+We've just never witnessed it before.
+
+461
+00:22:41,171 --> 00:22:43,072
+你是在告诉我说
+Are you telling me that
+
+462
+00:22:43,073 --> 00:22:45,073
+隔离室内部会长出一艘蜂巢式战舰?
+a hive ship is growing inside that isolation room?
+
+463
+00:22:45,073 --> 00:22:48,494
+事实上它已经不算是在隔离室内部了
+Actually, it's no longer just inside the isolation room.
+
+464
+00:22:48,552 --> 00:22:50,779
+生命探测器发现不了它
+It doesn't register on our life-signs detector,
+
+465
+00:22:50,814 --> 00:22:52,537
+但一旦我们知道要找的是什么
+but once we knew what we were looking for,
+
+466
+00:22:52,538 --> 00:22:55,818
+就可以校准内部传感器来提取信号
+we calibrated our internal sensors to pick it up.
+
+467
+00:22:57,154 --> 00:23:00,013
+它已经穿过了墙面和地板
+It has penetrated the walls and the floors,
+
+468
+00:23:00,014 --> 00:23:03,166
+消耗和转化它所经过的物质
+consuming and converting the material as it goes.
+
+469
+00:23:03,167 --> 00:23:04,900
+传播的有多快
+How far has it spread?
+
+470
+00:23:05,990 --> 00:23:08,920
+已经向下延伸了3层
+It's gone down... three levels already,
+
+471
+00:23:09,142 --> 00:23:12,388
+而且它黏附到电力系统去了
+and it has attached itself to the electrical system.
+
+472
+00:23:12,494 --> 00:23:14,111
+它正在吸取电能
+It's siphoning off power as it goes.
+
+473
+00:23:14,112 --> 00:23:17,088
+好像这还能显著加快它的生长速度
+This seems to have accelerated its growth significantly.
+
+474
+00:23:18,283 --> 00:23:19,595
+怎样才能阻止它
+How do we stop it?
+
+475
+00:23:19,596 --> 00:23:21,494
+这是我们正在研究的
+That's the part we're still trying to figure out.
+
+476
+00:23:21,495 --> 00:23:23,150
+我们可以切断电源
+We could cut off the power.
+
+477
+00:23:23,151 --> 00:23:25,151
+这能大大降低它的增长速度
+That should slow it down quite a bit.
+
+478
+00:23:29,709 --> 00:23:31,197
+怎么回事
+What's happening?
+
+479
+00:23:31,314 --> 00:23:32,814
+玛丽  怎么回事
+Marie, what's going on?
+
+480
+00:23:32,815 --> 00:23:35,884
+医生  我们被要求立即撤离这里
+Doctor, we've been ordered to evacuate the building.
+
+481
+00:23:36,271 --> 00:23:37,724
+对不起
+I'm sorry.
+
+482
+00:23:49,250 --> 00:23:50,633
+他们就这样抛弃她了?
+They just left her there?
+
+483
+00:23:50,715 --> 00:23:52,614
+他们别无选择啊
+I don't think they had much of a choice.
+
+484
+00:23:52,615 --> 00:23:53,672
+卡森正在搜索迈克尔的数据库
+Carson is searching michael's database
+
+485
+00:23:53,673 --> 00:23:55,673
+看看有没有可以帮助我们的东西
+to see if there is anything that can help us.
+
+486
+00:23:55,673 --> 00:23:57,758
+关掉电源是泽兰卡的主意吧
+I suppose it was zelenka's idea to shut off the power?
+
+487
+00:23:57,899 --> 00:23:59,094
+不清楚  怎么了
+I don't know. Why?
+
+488
+00:23:59,141 --> 00:24:00,571
+这太荒唐了
+This is ridiculous.
+
+489
+00:24:00,688 --> 00:24:02,192
+新来的家伙采纳了二队的建议
+They got us stuck in our quarters
+
+490
+00:24:02,193 --> 00:24:04,193
+而把我们隔离了?
+while the new guy takes advice from the b team?
+
+491
+00:24:04,332 --> 00:24:05,692
+什么意思  罗德尼
+What is it, rodney?
+
+492
+00:24:05,809 --> 00:24:08,118
+他们认为这东西穿透了墙壁地面
+They are assuming that it tapped into the electric grid
+
+493
+00:24:08,119 --> 00:24:11,119
+然后接入了电力网
+by randomly spreading out through the walls and floors.
+
+494
+00:24:11,211 --> 00:24:13,579
+如果它实际上是向电磁场生长呢
+What if it actually grows towards electromagnetic fields,
+
+495
+00:24:13,580 --> 00:24:15,325
+就像植物向阳生长
+like a plant growing toward the sun?
+
+496
+00:24:15,372 --> 00:24:19,063
+它会直接向下一个合适的能源延伸
+It's going to head directly for the next available power source.
+
+497
+00:24:20,399 --> 00:24:21,418
+这里
+There.
+
+498
+00:24:21,711 --> 00:24:24,594
+城市下面的某个主电力通道
+One of the city's main power conduits runs beneath the building.
+
+499
+00:24:24,864 --> 00:24:26,832
+这么说那个区域的电源也得关掉
+So shut the power down in that section as well.
+
+500
+00:24:26,856 --> 00:24:28,274
+不  我们已经做了
+No, we already did, right,
+
+501
+00:24:28,275 --> 00:24:30,711
+不过这条线缆直接跟零点通道相连
+but this runs directly into the zpm.
+
+502
+00:24:30,958 --> 00:24:33,184
+就好比是快行道
+It's like an express lane.
+
+503
+00:24:33,290 --> 00:24:35,469
+我们已经关闭了剩下的通道  但是
+We've already shut off the rest of the traffic, but
+
+504
+00:24:35,528 --> 00:24:36,852
+这一条还会独立运作
+this one keeps moving along.
+
+505
+00:24:36,853 --> 00:24:38,813
+唯一能阻止它的办法就是拔出零点通道
+The only way to stop it would be to pull the zpm
+
+506
+00:24:38,814 --> 00:24:40,814
+然后关掉整个城市的电力
+and shut off power to the entire city.
+
+507
+00:24:41,516 --> 00:24:43,208
+想不到你对配电网
+I had no idea you were so familiar
+
+508
+00:24:43,209 --> 00:24:45,209
+会这么熟悉
+with the power distribution grid.
+
+509
+00:24:45,618 --> 00:24:48,407
+没有啦  我只是和罗德尼谈过
+I'm not. I spoke to rodney.
+
+510
+00:24:51,641 --> 00:24:52,790
+这有问题吗
+Is there a problem?
+
+511
+00:24:52,791 --> 00:24:55,907
+病原体似乎对寄主有心理上的影响
+The pathogen seems to have a psychological effect on the host.
+
+512
+00:24:55,989 --> 00:24:58,508
+至少我们知道在出现生理症状前
+At the very least, we know it can affect their judgment,
+
+513
+00:24:58,590 --> 00:25:01,168
+大脑的思维能力就会被影响
+possibly well before any physical symptoms appear.
+
+514
+00:25:01,169 --> 00:25:03,149
+是的  但他这一点说得没错
+Yes, but he's not wrong about this.
+
+515
+00:25:03,512 --> 00:25:04,723
+如果它到达输电管
+If it reaches the conduit,
+
+516
+00:25:04,724 --> 00:25:06,724
+就可以无限制的获取电能了
+it will have access to virtually unlimited power.
+
+517
+00:25:06,911 --> 00:25:08,375
+然后会怎样
+And what would happen?
+
+518
+00:25:08,376 --> 00:25:10,590
+生长速度会呈指数级别增长
+The growth would increase exponentially.
+
+519
+00:25:10,591 --> 00:25:12,118
+而我们因为关掉这部分的电源
+And since we've shut this section down,
+
+520
+00:25:12,119 --> 00:25:14,119
+就没有任何传感器了
+we have no sensors in the area,
+
+521
+00:25:14,153 --> 00:25:15,528
+所以只能用肉眼
+so the only way to know how far it's penetrated is
+
+522
+00:25:15,529 --> 00:25:17,529
+观察它的延伸范围了
+to do a visual inspection.
+
+523
+00:25:18,219 --> 00:25:20,727
+好吧  全体集合
+All right, assemble a team.
+
+524
+00:25:26,324 --> 00:25:28,059
+我需要答案  医生
+I need some answers, doctor.
+
+525
+00:25:28,176 --> 00:25:29,805
+怎么把这东西弄死
+How do we kill this thing?
+
+526
+00:25:30,121 --> 00:25:32,171
+我们在研究一种遗传病毒
+Well, we're working on a genetically engineered virus
+
+527
+00:25:32,291 --> 00:25:34,192
+也许可以消灭
+that might be capable of destroying the pathogen
+
+528
+00:25:34,193 --> 00:25:36,193
+感染凯勒医生的病原体
+that's infecting dr. Keller
+
+529
+00:25:36,509 --> 00:25:39,872
+但不会根除这种高分子聚合物
+but that wouldn't eliminate the biopolymer itself.
+
+530
+00:25:39,989 --> 00:25:41,735
+怎么才行
+What would?
+
+531
+00:25:41,970 --> 00:25:46,915
+伍尔希先生  现在我也不知道
+At this time, mr. Woolsey, I have no idea.
+
+532
+00:25:52,032 --> 00:25:54,551
+主电力通道从这堵墙后穿过
+So the main conduit runs behind this wall here.
+
+533
+00:25:55,653 --> 00:25:57,668
+这里  我们可以通过这个面板进去
+Here, we can access it through this panel.
+
+534
+00:26:04,316 --> 00:26:06,222
+警官  带上你的人  分头行动
+Sergeant, take your men, split up,
+
+535
+00:26:06,223 --> 00:26:07,223
+搜索周围走廊
+and search the surrounding corridors.
+
+536
+00:26:07,223 --> 00:26:09,730
+检查下有没有什么异常
+Look for anything that seems unusual.
+
+537
+00:26:12,474 --> 00:26:13,575
+好了吗
+All right?
+
+538
+00:26:13,657 --> 00:26:15,099
+好了
+Okay.
+
+539
+00:26:27,019 --> 00:26:28,413
+我去那边
+Right, I'll go this way.
+
+540
+00:26:28,496 --> 00:26:30,160
+保持通信联络
+Stay in radio contact.
+
+541
+00:26:56,890 --> 00:26:58,589
+我想我找到了些东西
+I think I have something.
+
+542
+00:27:06,147 --> 00:27:07,800
+看起来罗德尼是对的
+Looks like rodney was right.
+
+543
+00:27:10,048 --> 00:27:11,723
+天啊
+Oh my.
+
+544
+00:27:12,110 --> 00:27:13,833
+怎么了
+What is it?
+
+545
+00:27:14,278 --> 00:27:16,997
+看来它已经黏附上电力管了
+Looks like it's attached itself to the power conduit.
+
+546
+00:27:17,712 --> 00:27:19,575
+我过来找你
+I'm coming to you.
+
+547
+00:27:23,596 --> 00:27:27,158
+我看看能否测定
+I'm going to see if I can determine
+
+548
+00:27:27,159 --> 00:27:28,159
+它吸取了多少能量
+how much power it's draining.
+
+549
+00:27:57,113 --> 00:27:58,719
+快走  快走
+Let's go, let's go.
+
+550
+00:27:58,813 --> 00:28:00,149
+快点
+Come on.
+
+551
+00:28:06,741 --> 00:28:07,749
+你还好吗
+Are you all right?
+
+552
+00:28:07,750 --> 00:28:08,991
+还行
+I think so.
+
+553
+00:28:11,418 --> 00:28:14,252
+这比我们预料到的要糟多了
+This is much worse than we thought.
+
+554
+00:28:11,440 --> 00:28:14,417
+-我不知道它还可以动  -我也是
+-I had no idea it could move like that.  -Nor did I.
+
+555
+00:28:21,790 --> 00:28:24,322
+看起来只是轻微的脑震荡  没什么事的
+looks like it's just a minor concussion. He should be fine.
+
+556
+00:28:24,420 --> 00:28:25,858
+看来让这东西
+So it wasn't bad enough
+
+557
+00:28:25,859 --> 00:28:26,859
+逐渐占领基地还不是最糟的
+that this thing was slowly taking over the base.
+
+558
+00:28:26,859 --> 00:28:28,358
+现在它开始攻击人了?
+Now it's attacking people?
+
+559
+00:28:28,639 --> 00:28:30,139
+我们需要想出一个解决办法
+We need to put a stop to this, now.
+
+560
+00:28:30,140 --> 00:28:31,475
+有难度啊
+It won't be easy.
+
+561
+00:28:31,545 --> 00:28:33,901
+它已经吸收了大量能量
+It's already siphoned off a massive amount of power.
+
+562
+00:28:33,902 --> 00:28:35,764
+我们应该拔出零点通道
+We should pull the zpm.
+
+563
+00:28:35,765 --> 00:28:37,100
+这样还不行
+That might not be enough.
+
+564
+00:28:37,217 --> 00:28:39,030
+我们在黑暗中呆坐数周
+We could sit here in the dark for weeks
+
+565
+00:28:39,031 --> 00:28:40,031
+而这东西则会不断生长
+while it just keeps on growing.
+
+566
+00:28:40,100 --> 00:28:41,471
+我们得把珍妮弗弄出这儿
+We need to get jennifer out of there.
+
+567
+00:28:41,472 --> 00:28:43,311
+我和各位一样想救凯勒的命
+I want to save dr. Keller as much as anyone else,
+
+568
+00:28:43,312 --> 00:28:45,010
+但是我们有其他东西需要考虑
+but we have additional concerns now.
+
+569
+00:28:45,080 --> 00:28:46,651
+为什么它会攻击拉迪克
+Why did it attack radek?
+
+570
+00:28:46,780 --> 00:28:49,381
+因为它认为他会对自己造成威胁
+Because it perceived him as a threat and took action.
+
+571
+00:28:49,510 --> 00:28:50,967
+这说明它有智慧
+That indicates intelligence,
+
+572
+00:28:50,968 --> 00:28:52,968
+但就我们所知  但它并没有自己的大脑
+but as far as we know, it has no brain of its own.
+
+573
+00:28:53,084 --> 00:28:54,877
+你的意思是它在利用她
+So you're saying it's using her.
+
+574
+00:28:54,968 --> 00:28:56,093
+它是需要她
+I'm saying it needs her,
+
+575
+00:28:56,151 --> 00:28:59,245
+来计划  调整  识别威胁  并作出反应
+to plan, to coordinate, to identify threats and deal with them.
+
+576
+00:28:59,269 --> 00:29:01,718
+难怪她说会听到一些声音
+That could explain why she was hearing voices.
+
+577
+00:29:01,870 --> 00:29:03,933
+这种生物体会部分占据她的大脑
+The organism takes over a portion of the brain,
+
+578
+00:29:03,934 --> 00:29:06,558
+建立一个独立的意识
+and sets up a separate consciousness.
+
+579
+00:29:06,804 --> 00:29:08,175
+就像是多种人格一样
+Like multiple personalities.
+
+580
+00:29:08,176 --> 00:29:10,694
+这就是要找个人作为寄主的原因
+Otherwise, why have a human host at all?
+
+581
+00:29:10,944 --> 00:29:13,276
+这么说只要我们把它跟寄主分开
+So if we separate her from the main body...
+
+582
+00:29:13,583 --> 00:29:14,630
+我保证剩下的部分
+I'd wager the rest of it
+
+583
+00:29:14,631 --> 00:29:16,631
+就跟老树根一样毫无活力了
+becomes as lifeless as a dead tree trunk.
+
+584
+00:29:16,736 --> 00:29:19,454
+这就是我刚才所说的病毒
+Now, this is the virus I was telling you about.
+
+585
+00:29:19,525 --> 00:29:21,013
+这是一种噬菌体
+It's called a phage,
+
+586
+00:29:21,071 --> 00:29:24,142
+至少从理论上说  它可以攻击并消灭
+and it should, at least theoretically, be able to attack and eliminate
+
+587
+00:29:24,143 --> 00:29:27,143
+珍妮弗血液中的病菌
+the pathogen that's inside jennifer's bloodstream,
+
+588
+00:29:27,844 --> 00:29:29,368
+如果我没猜错的话
+and if I'm right about this,
+
+589
+00:29:29,602 --> 00:29:31,852
+它将切断它们之间的连接
+it should sever the connection.
+
+590
+00:29:32,919 --> 00:29:34,407
+但是?
+What's the catch?
+
+591
+00:29:34,864 --> 00:29:37,137
+还没有经过测试
+Well, it's never been tested.
+
+592
+00:29:41,762 --> 00:29:43,711
+我们暂时恢复一下能量供应
+We turned the power back on briefly
+
+593
+00:29:43,712 --> 00:29:45,712
+看看情况如何
+to get a look inside the building.
+
+594
+00:29:45,864 --> 00:29:47,001
+这是底层
+This is the ground floor,
+
+595
+00:29:47,094 --> 00:29:49,626
+跟隔离室相隔5层
+five floors below the isolation room.
+
+596
+00:29:49,704 --> 00:29:52,095
+如你所看到的  通道几乎全被堵死了
+As you can see, access is almost completely choked off,
+
+597
+00:29:52,096 --> 00:29:54,114
+但想要实施我们的计划  得有人
+but for this to work, I need someone
+
+598
+00:29:54,115 --> 00:29:56,115
+走到凯勒床边帮她注射
+to step right up to dr. Keller's bed and inject her.
+
+599
+00:29:56,243 --> 00:29:58,270
+可以通过传送机前往比较靠近的地方  不过
+Well, we can use the transporter to get them close, but--
+
+600
+00:29:58,271 --> 00:30:00,837
+但还要在荆棘中行进至少50米
+but you'd still have to run a gauntlet of over 50 meters.
+
+601
+00:30:01,060 --> 00:30:03,239
+而且在泽兰卡博士那件事以后
+And after what happened to dr. Zelenka...
+
+602
+00:30:06,028 --> 00:30:07,235
+你们应该明白我现在的困境
+well, you understand my dilemma.
+
+603
+00:30:07,411 --> 00:30:08,560
+是啊
+Yeah.
+
+604
+00:30:09,556 --> 00:30:10,810
+什么
+What?
+
+605
+00:30:13,411 --> 00:30:16,728
+如果凯勒真的是这场危机的关键
+If dr. Keller really is the key to this thing,
+
+606
+00:30:16,868 --> 00:30:18,696
+有个更简单的方法
+there is an easier way.
+
+607
+00:30:19,130 --> 00:30:21,712
+我们只需朝隔离室
+We'd only need a couple of well-aimed shots
+
+608
+00:30:21,713 --> 00:30:23,713
+开几炮就行了
+at the isolation room.
+
+609
+00:30:23,970 --> 00:30:26,032
+等等  你指用飞弹?
+Wait a second, you're talking about drones?
+
+610
+00:30:26,033 --> 00:30:27,708
+你要朝我们自己人发射飞弹?
+You're going to fire drones at one of our own people?
+
+611
+00:30:27,709 --> 00:30:29,657
+我也不想一来亚特兰蒂斯
+I didn't come to atlantis with the intention of
+
+612
+00:30:29,658 --> 00:30:31,658
+就牺牲手下的资深队员
+killing one of my senior staff inside of a week,
+
+613
+00:30:31,798 --> 00:30:33,392
+但不那样的话
+but my only other option
+
+614
+00:30:33,393 --> 00:30:36,393
+就要让其他人冒生命的危险...
+is to risk someone else's life on a solution...
+
+615
+00:30:37,575 --> 00:30:40,798
+而且这种方案还没有经过测试
+that hasn't even been tested yet.
+
+616
+00:30:41,196 --> 00:30:43,552
+按照规定这是不行的
+Not exactly by the book.
+
+617
+00:30:43,763 --> 00:30:44,853
+那就测试吧
+So test it.
+
+618
+00:30:44,981 --> 00:30:47,056
+我体内也有那种东西
+I've got the same bug.
+
+619
+00:30:47,208 --> 00:30:48,321
+现在就给我注射吧
+I'll take a shot right now.
+
+620
+00:30:48,427 --> 00:30:49,997
+不  不  不
+No, no, no...
+
+621
+00:30:52,484 --> 00:30:54,219
+我来
+I'll do it.
+
+622
+00:30:57,245 --> 00:30:59,027
+束缚带?
+Restraints, huh?
+
+623
+00:31:01,083 --> 00:31:04,059
+抱歉  不过你可能会有强烈反应
+I'm sorry, but I'm anticipating a severe reaction.
+
+624
+00:31:04,282 --> 00:31:05,477
+太好了
+Oh, great.
+
+625
+00:31:05,630 --> 00:31:07,763
+你真的确定要这么做?
+Now, you're absolutely sure about this?
+
+626
+00:31:08,049 --> 00:31:09,745
+要知道  这可是迈克尔提供的配方
+Remember, the formula comes from michael,
+
+627
+00:31:09,746 --> 00:31:10,746
+就我们所知  这可能
+so as far all we know, it could-
+
+628
+00:31:10,850 --> 00:31:12,526
+把我变成虫子?
+turn me into a bug?
+
+629
+00:31:12,725 --> 00:31:13,850
+又不是第一次了  来吧
+Been there, done that.
+
+630
+00:31:13,851 --> 00:31:15,913
+不  事实上  我是说
+No, actually, I was going to say
+
+631
+00:31:15,936 --> 00:31:17,741
+可能会让你送命
+it could kill you.
+
+632
+00:31:18,831 --> 00:31:22,006
+好了...给我打针吧
+Just... give me the shot.
+
+633
+00:31:22,223 --> 00:31:23,529
+好吧
+Okay.
+
+634
+00:31:30,084 --> 00:31:32,780
+药剂需要几分钟时间起效  所以...
+Now, it should take a few minutes to kick in, so just...
+
+635
+00:31:33,003 --> 00:31:35,241
+-放轻松  -好  我会...
+- Try to relax. - Oh, okay, I'll just...
+
+636
+00:31:35,341 --> 00:31:36,981
+我会放松的
+I'll relax.
+
+637
+00:31:36,982 --> 00:31:39,002
+卡森  罗恩和其他人已经有病症了
+Carson, is it true that Lorne and some of the others
+
+638
+00:31:39,002 --> 00:31:40,602
+是不是真的
+are beginning to show symptoms?
+
+639
+00:31:40,603 --> 00:31:42,196
+我想是的
+Aye, I'm afraid so.
+
+640
+00:31:42,197 --> 00:31:43,626
+天啊...
+Oh, god...
+
+641
+00:31:43,638 --> 00:31:44,294
+为什么
+why?
+
+642
+00:31:44,295 --> 00:31:45,923
+你觉得自己有什么不对劲的
+Have you noticed something yourself?
+
+643
+00:31:46,028 --> 00:31:47,200
+我老是手心出汗
+Well, my palms are very sweaty,
+
+644
+00:31:47,220 --> 00:31:49,200
+还有口干舌燥
+and my mouth is very dry,
+
+645
+00:31:49,200 --> 00:31:50,200
+心跳也很快
+I'm having heart palpitations.
+
+646
+00:31:50,247 --> 00:31:53,364
+这些都很正常  还有吗?
+Okay, so, nothing out of the ordinary, then?
+
+647
+00:31:54,542 --> 00:31:55,667
+感觉怎么样
+How do you feel?
+
+648
+00:31:55,761 --> 00:31:58,057
+没什么感觉
+I don't feel anything.
+
+649
+00:31:58,339 --> 00:32:00,026
+我甚至觉得...
+I don't even think that...
+
+650
+00:32:00,741 --> 00:32:01,796
+谢帕德?
+Sheppard?
+
+651
+00:32:01,831 --> 00:32:03,565
+博士...
+Hey, doc...
+
+652
+00:32:04,901 --> 00:32:07,151
+我想这抑制剂真是个好东西
+I think these restraints were a good idea.
+
+653
+00:32:08,030 --> 00:32:09,518
+它起作用了
+It's working.
+
+654
+00:32:16,625 --> 00:32:17,902
+情况怎么样
+What's our status?
+
+655
+00:32:18,019 --> 00:32:20,037
+包括医疗室在内的主要系统
+Well, the infirmary, and a few other essential systems
+
+656
+00:32:20,037 --> 00:32:22,437
+已经启用应急发电设备
+have been switched to emergency generators.
+
+657
+00:32:22,590 --> 00:32:23,902
+都准备好了
+We're ready.
+
+658
+00:32:24,008 --> 00:32:25,918
+好了  拔掉总闸
+All right, pull the plug.
+
+659
+00:32:42,258 --> 00:32:42,979
+看在上帝的份上  卡森
+For god's sake, Carson,
+
+660
+00:32:42,998 --> 00:32:44,379
+这要多久
+how long's this going to go on for?
+
+661
+00:32:44,380 --> 00:32:46,629
+抱歉  罗德尼  我也不知道
+I'm sorry, Rodney, I have no idea.
+
+662
+00:32:48,961 --> 00:32:50,625
+博士...
+Doc...
+
+663
+00:32:51,868 --> 00:32:53,321
+他心跳停了  给他呼吸罩
+His heart stopped. Bag him.
+
+664
+00:32:53,322 --> 00:32:54,586
+把手术推车拿过来
+Get a crash cart in here!
+
+665
+00:32:54,587 --> 00:32:55,711
+准备好插管
+Prepare to intubate.
+
+666
+00:32:55,712 --> 00:32:57,106
+1，2，3
+One, two, three.
+
+667
+00:32:57,107 --> 00:32:58,243
+1，2，3
+One, two, three.
+
+668
+00:32:58,244 --> 00:32:59,625
+1，2，3
+One, two, three.
+
+669
+00:32:59,626 --> 00:33:00,493
+挺住
+Come on.
+
+670
+00:33:00,494 --> 00:33:01,360
+1，2，3
+One, two, three.
+
+671
+00:33:01,407 --> 00:33:03,188
+1，2，3
+One, two, three.
+
+672
+00:33:06,997 --> 00:33:08,426
+又有心跳了
+He's back.
+
+673
+00:33:14,269 --> 00:33:15,769
+我怎么样了
+How'd I do?
+
+674
+00:33:19,633 --> 00:33:21,204
+你确定起作用了吗
+Are you sure it worked?
+
+675
+00:33:21,368 --> 00:33:22,798
+血检显示为阴性
+Well, the blood screen came up negative.
+
+676
+00:33:22,799 --> 00:33:23,517
+要我说
+As far as I can tell,
+
+677
+00:33:23,517 --> 00:33:25,317
+外星病毒已经清除了
+the alien pathogen has been eliminated.
+
+678
+00:33:25,551 --> 00:33:26,548
+做得好
+Well done.
+
+679
+00:33:26,805 --> 00:33:28,751
+现在我们要派个人去隔离室
+Now we just need someone to go to the isolation room.
+
+680
+00:33:28,844 --> 00:33:29,899
+-我去...  -我去
+- I'll do it--  - I'll do it.
+
+681
+00:33:31,423 --> 00:33:33,206
+我想使用这药剂
+I assume no special medical skill is required
+
+682
+00:33:33,206 --> 00:33:35,126
+不需要什么专业医疗技术吧
+to administer the drug.
+
+683
+00:33:35,630 --> 00:33:37,938
+不需要  就是一个简单的注射
+Well, no, not really. It's just a simple injection.
+
+684
+00:33:38,032 --> 00:33:39,201
+那就现在的情况看
+Well, then, given your condition,
+
+685
+00:33:39,201 --> 00:33:41,055
+我是不会选你去的
+I wouldn't make you my first choice.
+
+686
+00:33:41,056 --> 00:33:42,286
+所以说了我去
+That's why I said I'd do it.
+
+687
+00:33:42,287 --> 00:33:43,926
+他不信任我们
+He doesn't trust us,
+
+688
+00:33:44,301 --> 00:33:45,497
+因为我们也被感染了
+because we're still infected.
+
+689
+00:33:45,649 --> 00:33:47,606
+其实这样也没什么不好
+Actually, that might not be a bad thing.
+
+690
+00:33:47,946 --> 00:33:50,442
+谢帕德上校曾感染过伊瑞特斯虫的DNA
+When Colonel Sheppard was infected with iratus bug dna,
+
+691
+00:33:50,723 --> 00:33:52,205
+然后他就畅通无阻地进入巢穴
+he was able to walk right into that nest
+
+692
+00:33:52,205 --> 00:33:54,055
+不受到任何攻击
+without being attacked.
+
+693
+00:33:54,063 --> 00:33:55,866
+你是说感染病毒的人
+You think someone infected with the pathogen
+
+694
+00:33:55,866 --> 00:33:57,766
+反而更容易通过?
+would be more likely to get through?
+
+695
+00:33:58,223 --> 00:33:59,653
+很可能
+Well, it's possible.
+
+696
+00:34:06,684 --> 00:34:07,821
+好了  我进来了
+All right, I'm in.
+
+697
+00:34:07,997 --> 00:34:10,587
+切断运输机电源
+Cut power to the transporter.
+
+698
+00:34:14,545 --> 00:34:15,530
+情况怎么样
+How does it look?
+
+699
+00:34:15,531 --> 00:34:17,463
+不怎么样
+Not so good.
+
+700
+00:34:21,891 --> 00:34:24,047
+那鬼东西到处都是
+The stuff's everywhere.
+
+701
+00:34:24,854 --> 00:34:27,139
+他对你有没有什么反应
+Is it reacting to your presence in any way?
+
+702
+00:34:27,279 --> 00:34:28,568
+没看出来
+Not really.
+
+703
+00:34:29,436 --> 00:34:31,311
+好吧  那...
+All right, just...
+
+704
+00:34:31,926 --> 00:34:33,520
+小心
+be careful.
+
+705
+00:34:45,136 --> 00:34:46,237
+发生了什么
+What happened?
+
+706
+00:34:46,565 --> 00:34:48,050
+药起作用了
+It worked.
+
+707
+00:34:48,051 --> 00:34:49,051
+他们派若楠去给她打一针
+They just sent Ronon to give her the shot.
+
+708
+00:34:49,190 --> 00:34:50,198
+什么时候
+When?
+
+709
+00:34:50,315 --> 00:34:51,033
+他刚到那儿
+He just got there. Look.
+
+710
+00:34:51,033 --> 00:34:53,233
+我接入了通讯系统
+I'm tapped into the intercom.
+
+711
+00:34:56,643 --> 00:34:58,811
+若楠  情况怎样?
+Ronon, what's your status?
+
+712
+00:34:58,812 --> 00:35:00,745
+越来越难走了
+Well, it's getting harder to move.
+
+713
+00:35:00,745 --> 00:35:02,245
+这到处都是
+There's too much of it.
+
+714
+00:35:02,960 --> 00:35:06,241
+尽量缓慢移动
+Just... try not to make any sudden moves, or...
+
+715
+00:35:06,242 --> 00:35:07,218
+不要有威胁性动作
+threatening gestures.
+
+716
+00:35:07,665 --> 00:35:10,102
+好的  我会记住的
+Yeah, I'll keep that in mind.
+
+717
+00:35:15,528 --> 00:35:16,934
+好了
+All right,
+
+718
+00:35:17,344 --> 00:35:18,727
+到了
+that's it.
+
+719
+00:35:18,938 --> 00:35:20,649
+我不能再靠近了
+I don't think I can go any further.
+
+720
+00:35:20,731 --> 00:35:23,133
+走廊都被堵住了
+The corridor is completely blocked.
+
+721
+00:35:23,789 --> 00:35:26,074
+好了  你们要我怎么做?
+All right, so what do you want me to do?
+
+722
+00:35:31,161 --> 00:35:33,657
+-管它了  先弄个洞  -等等  若楠
+- Screw it, I'm going to make a hole.  - Ronon, wait!
+
+723
+00:35:33,658 --> 00:35:35,218
+你能走到那么远
+The only reason you made it this far
+
+724
+00:35:35,218 --> 00:35:37,718
+只是因为它感觉到了你血液里的病毒
+is because it senses the pathogen in your bloodstream.
+
+725
+00:35:38,017 --> 00:35:39,435
+它认为你是同伴
+It thinks you're a friend.
+
+726
+00:35:39,635 --> 00:35:40,181
+如果你开枪...
+If you start shooting--
+
+727
+00:35:40,181 --> 00:35:42,681
+还有谁有更好的点子?
+Does anyone have any better ideas?
+
+728
+00:35:47,975 --> 00:35:48,971
+你在干嘛?
+What are you doing?
+
+729
+00:35:49,803 --> 00:35:50,858
+如果我想得没错
+If I'm right,
+
+730
+00:35:50,859 --> 00:35:52,756
+我们犯了个大错误
+this is about to go very, very wrong.
+
+731
+00:35:52,757 --> 00:35:53,600
+你不能去
+You can't.
+
+732
+00:35:53,682 --> 00:35:56,061
+- 我们被隔离了  - 你忘了我已经好了?
+- We're quarantined-- - I'm cured, remember?
+
+733
+00:35:56,851 --> 00:35:58,726
+没有其他路可以走了
+There's no other way through.
+
+734
+00:35:58,937 --> 00:36:00,084
+一旦你开了枪
+Once you start shooting,
+
+735
+00:36:00,084 --> 00:36:01,444
+要马上离开
+you'll have to move quickly.
+
+736
+00:36:01,608 --> 00:36:04,057
+谢谢提醒
+Thanks for the advice.
+
+737
+00:36:22,627 --> 00:36:24,092
+若楠?
+Ronon?
+
+738
+00:36:24,734 --> 00:36:26,374
+若楠  你怎么样了
+Ronon, what's your status?
+
+739
+00:36:27,177 --> 00:36:28,395
+若楠  快回答
+Ronon, come in!
+
+740
+00:36:28,419 --> 00:36:29,989
+天啊...
+Oh, my god...
+
+741
+00:36:40,549 --> 00:36:41,850
+现在什么情况
+What's happening?
+
+742
+00:36:41,851 --> 00:36:43,584
+我们失去联系了
+We've lost contact.
+
+743
+00:36:44,654 --> 00:36:45,272
+重启电源
+Turn the power back on.
+
+744
+00:36:45,272 --> 00:36:46,772
+开通隔离室的通讯频道
+Open up a channel to the isolation room.
+
+745
+00:36:46,830 --> 00:36:48,541
+什么  为什么
+What? Why?
+
+746
+00:36:48,717 --> 00:36:49,936
+只管照做
+Just do it.
+
+747
+00:36:52,621 --> 00:36:54,543
+好了  频道通了
+All right, you have a channel.
+
+748
+00:36:55,539 --> 00:36:57,871
+凯勒博士  我是谢帕德上校  听得到吗
+Dr. Keller, this is Colonel Sheppard, do you read?
+
+749
+00:36:58,117 --> 00:37:01,410
+我能听到  上校  但我不是凯勒博士
+I hear you, Colonel, but I'm not Dr. Keller anymore.
+
+750
+00:37:03,637 --> 00:37:05,031
+那你是谁
+Well, who are you?
+
+751
+00:37:05,055 --> 00:37:06,304
+我还没名字
+I have no designation yet.
+
+752
+00:37:06,304 --> 00:37:09,004
+当我完成时就会有了
+I'll be given one when I'm complete.
+
+753
+00:37:09,039 --> 00:37:10,645
+若楠怎么了
+What about Ronon?
+
+754
+00:37:10,739 --> 00:37:12,145
+你指那个入侵者?
+You mean the intruder?
+
+755
+00:37:12,257 --> 00:37:14,015
+他还活着  暂时
+He's alive, for the moment.
+
+756
+00:37:14,016 --> 00:37:16,160
+他即将被消灭
+He's been neutralized.
+
+757
+00:37:16,242 --> 00:37:18,023
+我能感觉到他的脉搏
+I can feel his pulse.
+
+758
+00:37:18,199 --> 00:37:19,195
+很弱
+It's weak.
+
+759
+00:37:19,347 --> 00:37:22,581
+只需轻轻攥一下就能结束
+It would only take the slightest squeeze.
+
+760
+00:37:22,934 --> 00:37:23,803
+你不能这么做
+Yeah, but you don't want to do that
+
+761
+00:37:23,803 --> 00:37:26,403
+你们是一伙儿的记得吗
+because he's one of you, remember?
+
+762
+00:37:27,692 --> 00:37:29,309
+让她说话
+Keep her talking.
+
+763
+00:37:29,579 --> 00:37:30,551
+你去哪儿?
+Where are you going?
+
+764
+00:37:30,563 --> 00:37:32,403
+结束这一切
+I'm going to go finish this.
+
+765
+00:37:35,368 --> 00:37:37,747
+珍妮弗  我是卡森
+Jennifer, this is Carson.
+
+766
+00:37:37,829 --> 00:37:40,024
+贝克特博士  我说过了
+Dr. Beckett, I already told you,
+
+767
+00:37:40,025 --> 00:37:42,025
+我已经不是珍妮弗·凯勒了
+I'm not jennifer keller anymore.
+
+768
+00:37:42,091 --> 00:37:43,791
+她能听到你的声音
+You're the voice she was hearing,
+
+769
+00:37:43,896 --> 00:37:45,982
+你只是控制了她大脑的语言功能
+the part of her mind that was taking over.
+
+770
+00:37:45,983 --> 00:37:47,119
+你们阻止不了我
+You can't stop me.
+
+771
+00:37:47,120 --> 00:37:49,580
+我将会如期完成
+I will become as I was meant to be.
+
+772
+00:37:56,603 --> 00:37:58,782
+谢帕德上校启动了小飞船
+Colonel Sheppard is powering up a jumper.
+
+773
+00:37:58,783 --> 00:38:00,376
+给我一条安全频道
+Get me a secure channel.
+
+774
+00:38:00,704 --> 00:38:02,192
+谢帕德  你在干嘛
+Sheppard, what are you doing?
+
+775
+00:38:02,193 --> 00:38:03,763
+抄点近路
+I'm taking a little short-cut.
+
+776
+00:38:03,764 --> 00:38:06,306
+抱歉我来不及填申请文件了
+Sorry I didn't have time to fill out the paperwork.
+
+777
+00:38:12,470 --> 00:38:14,450
+好了  我看见了
+Okay, I see it now.
+
+778
+00:38:14,579 --> 00:38:18,048
+这东西到处都是了
+That stuff is growing all over the place.
+
+779
+00:38:18,892 --> 00:38:20,286
+这可能有点疼
+This may hurt.
+
+780
+00:38:33,980 --> 00:38:35,926
+谢帕德上校  请回复
+Colonel Sheppard, report.
+
+781
+00:38:38,180 --> 00:38:40,032
+谢帕德上校?
+Colonel Sheppard?
+
+782
+00:40:08,186 --> 00:40:10,483
+谢帕德上校  报告你的情况
+Colonel Sheppard, what's your status?
+
+783
+00:40:11,749 --> 00:40:13,155
+谢帕德上校...
+Colonel Sheppard...
+
+784
+00:40:15,300 --> 00:40:17,058
+我好很多了
+I've been better.
+
+785
+00:40:17,712 --> 00:40:19,435
+发生了什么
+What happened?
+
+786
+00:40:21,950 --> 00:40:23,744
+你最好派人来接我们
+You'd better come get us.
+
+787
+00:40:30,797 --> 00:40:31,969
+若楠怎么样
+How's Ronon?
+
+788
+00:40:32,285 --> 00:40:34,066
+他喉部损伤
+He has a bruised larynx.
+
+789
+00:40:34,230 --> 00:40:37,734
+显然他要有几天不能说话了
+Apparently he won't be able to speak for several days.
+
+790
+00:40:38,143 --> 00:40:40,429
+大概没几个人会发现都什么不同
+I wonder if anyone will notice the difference.
+
+791
+00:40:41,765 --> 00:40:42,679
+谢帕德上校?
+Colonel Sheppard?
+
+792
+00:40:42,995 --> 00:40:44,835
+看看谁从隔离室出来了
+Look who's finally out of isolation.
+
+793
+00:40:45,386 --> 00:40:47,378
+很高兴看到你  医生
+Oh, it's good to see you, doc.
+
+794
+00:40:47,483 --> 00:40:48,796
+你感觉怎样
+How you feeling?
+
+795
+00:40:49,646 --> 00:40:51,486
+就是呼吸时有点疼
+It only hurts when I breathe.
+
+796
+00:40:52,037 --> 00:40:52,998
+这感觉可不好
+I feel really bad.
+
+797
+00:40:52,999 --> 00:40:55,022
+好像我的恢复
+It looks like my recovery's going to be
+
+798
+00:40:55,022 --> 00:40:56,022
+比你还快
+a lot easier than yours.
+
+799
+00:40:56,023 --> 00:40:57,018
+那没什么
+That's all right.
+
+800
+00:40:57,170 --> 00:41:00,042
+现在有两个医生照顾我
+I've got two doctors looking after me now.
+
+801
+00:41:00,768 --> 00:41:02,631
+我想你误会了
+Well, no, I'm afraid not.
+
+802
+00:41:02,866 --> 00:41:04,881
+我今天下午就要走了
+I'm scheduled to leave this afternoon.
+
+803
+00:41:05,315 --> 00:41:06,909
+当然  除非
+That is, unless of course
+
+804
+00:41:06,915 --> 00:41:08,409
+未来一小时内又出现了巨大的险情
+there's a major crisis in the next hour or so.
+
+805
+00:41:08,596 --> 00:41:11,690
+那样也不会令我吃惊
+It wouldn't surprise me.
+
+806
+00:41:11,901 --> 00:41:14,045
+好了  你自己要小心点
+Well, listen, you keep yourself out of trouble,
+
+807
+00:41:14,268 --> 00:41:16,237
+我们马上就会再见的
+and I'll see you real soon.
+
+808
+00:41:16,659 --> 00:41:17,596
+祝你好运  卡森
+Good luck, carson.
+
+809
+00:41:17,784 --> 00:41:19,108
+谢了  约翰
+Thanks, John.
+
+810
+00:41:19,799 --> 00:41:21,534
+欢迎回来  凯勒医生
+Welcome back, Dr. Keller,
+
+811
+00:41:21,815 --> 00:41:23,713
+贝克特博士
+and Dr. Beckett...
+
+812
+00:41:24,915 --> 00:41:26,193
+谢谢
+Thank you.
+
+813
+00:41:26,204 --> 00:41:27,974
+太客气了  伍尔希先生
+My pleasure, Mr. Woolsey.
+
+814
+00:41:32,760 --> 00:41:34,119
+我下来之前
+Before I came down here,
+
+815
+00:41:34,119 --> 00:41:37,319
+刚和以前在地球的上级通了电话
+I was on a call with my superiors back on earth.
+
+816
+00:41:37,815 --> 00:41:40,627
+他们在审查我的初步报告
+They were going over my preliminary report.
+
+817
+00:41:40,997 --> 00:41:42,520
+你说了什么
+What did you tell them?
+
+818
+00:41:42,684 --> 00:41:43,599
+真相
+The truth.
+
+819
+00:41:44,114 --> 00:41:46,470
+我只做了三天的总指挥
+That in my first three days as commander,
+
+820
+00:41:46,962 --> 00:41:50,466
+我违反了至少一半的安全条例
+I violated at least half a dozen basic security protocols.
+
+821
+00:41:50,467 --> 00:41:52,130
+有那么多?
+That many, huh?
+
+822
+00:41:53,431 --> 00:41:55,329
+我让贝克特来做这项调查
+I let Beckett run the investigation,
+
+823
+00:41:55,727 --> 00:41:57,201
+不考虑他的身体状况
+in spite of his condition and the fact that
+
+824
+00:41:57,201 --> 00:42:00,028
+而且他已经不算是探险队的成员了
+he's technically no longer a member of this expedition.
+
+825
+00:42:01,411 --> 00:42:03,520
+我让若楠去分发解毒剂了
+I sent Ronon to deliver the antidote
+
+826
+00:42:03,521 --> 00:42:05,524
+尽管他也被感染了
+even though he was infected.
+
+827
+00:42:06,720 --> 00:42:09,720
+我牺牲基地的安全
+I compromised the safety of this base
+
+828
+00:42:10,177 --> 00:42:13,036
+来解救一个可能救不了的人
+to rescue someone who may well have been beyond our help anyway.
+
+829
+00:42:13,200 --> 00:42:14,267
+但她不是
+But she wasn't,
+
+830
+00:42:14,384 --> 00:42:15,462
+而且我们把她救出来了
+and we got her out.
+
+831
+00:42:15,485 --> 00:42:17,505
+如果你死板教条
+And if you had played by the rules,
+
+832
+00:42:17,505 --> 00:42:19,505
+她早就死了
+she'd be dead right now.
+
+833
+00:42:21,942 --> 00:42:23,653
+勘查组织可能会同意你的看法
+The IOA would seem to agree with you.
+
+834
+00:42:23,688 --> 00:42:27,251
+显然  他们想大事化小小事化了
+Apparently, they're willing to let the matter drop.
+
+835
+00:42:28,985 --> 00:42:30,849
+那还有什么问题
+So, what's the problem?
+
+836
+00:42:34,627 --> 00:42:37,053
+各项准则都有它存在的理由  上校
+The rules are there for a reason, Colonel.
+
+837
+00:42:37,895 --> 00:42:40,250
+如果我不能照做  那...
+If I can't trust them, then...
+
+838
+00:42:42,359 --> 00:42:44,457
+我觉得我无法胜任这个工作
+I'm not sure I can do this job.
+
+839
+00:42:52,215 --> 00:42:54,747
+欢迎来到飞马座星系
+Welcome to the Pegasus Galaxy.
+

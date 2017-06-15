@@ -1,0 +1,2356 @@
+1
+00:00:00,700 --> 00:00:02,700
+<i>The year is 2048.</i>
+
+2
+00:00:03,300 --> 00:00:06,500
+<i>Evolving technologies can no longer be regulated.</i>
+
+3
+00:00:07,200 --> 00:00:10,800
+<i>Dangerous advancements forever alter the criminal landscape.</i>
+
+4
+00:00:11,300 --> 00:00:13,100
+<i>Police are not prepared.</i>
+
+5
+00:00:15,300 --> 00:00:19,400
+<i>Law enforcement combats this corruption</i> <i>with a new line of defense.</i>
+
+6
+00:00:21,200 --> 00:00:23,800
+<i>But not all are created equal.</i>
+
+7
+00:00:26,000 --> 00:00:28,900
+<i>The idea behind the DRNs was to be as human as possible.</i>
+
+8
+00:00:28,900 --> 00:00:31,900
+<i>They were based on a program called Synthetic Soul.</i>
+
+9
+00:00:31,900 --> 00:00:33,300
+<i>That's one of the crazy ones.</i>
+
+10
+00:00:33,300 --> 00:00:35,100
+- I'll lead you in?
+- Let's go.
+
+11
+00:00:35,700 --> 00:00:39,100
+<i>Now all cops... human and manmade together...</i>
+
+12
+00:00:39,100 --> 00:00:41,800
+<i>take on the battle to watch over us all.</i>
+
+13
+00:00:41,800 --> 00:00:43,700
+<font color="#4096d1">
+-==破烂熊乐园倾情奉献==-
+本字幕仅供学习交流，严禁用于商业用途</font>
+
+14
+00:00:43,700 --> 00:00:45,600
+<font color="#4096d1">-==http://www.ragbear.com==-
+机器之心 第一季第3集</font>
+
+15
+00:00:45,600 --> 00:00:47,500
+<font color=#4096d1>-=破烂熊字幕组=-
+时间轴：光影</font>
+
+16
+00:01:05,900 --> 00:01:07,900
+Charge at capacity.
+
+17
+00:02:05,400 --> 00:02:06,300
+Hey, James.
+
+18
+00:02:06,300 --> 00:02:08,000
+- Morning, Mr. Navarro.
+- How you doing?
+
+19
+00:02:12,000 --> 00:02:12,900
+Miss Miller.
+
+20
+00:02:13,600 --> 00:02:15,300
+Oh. James.
+
+21
+00:02:15,300 --> 00:02:17,100
+Left your key in the lock again.
+
+22
+00:02:17,100 --> 00:02:20,500
+Thank you. I swear my memory gets worse every day.
+
+23
+00:02:20,500 --> 00:02:24,300
+I told you, I can have maintenance come in and switch those out for bio locks if you'd like.
+
+24
+00:02:24,300 --> 00:02:26,700
+That's all right, I prefer the old-fashioned way.
+
+25
+00:02:27,200 --> 00:02:30,400
+- I'm funny, I guess.
+- No, no, no, I like that.
+
+26
+00:02:33,300 --> 00:02:35,500
+Uh, this came to the security desk for you.
+
+27
+00:02:35,800 --> 00:02:38,400
+- Oh, thank you.
+- I got to get back to the desk.
+
+28
+00:02:39,700 --> 00:02:40,400
+See you.
+
+29
+00:02:50,100 --> 00:02:51,000
+(RECEPTION)
+
+30
+00:02:51,000 --> 00:02:52,400
+Hi, can I help you?
+
+31
+00:02:55,900 --> 00:02:58,900
+- What's your name?
+- James.
+
+32
+00:03:03,000 --> 00:03:04,000
+Let's go.
+
+33
+00:03:13,900 --> 00:03:15,800
+(SERVER ROOM)
+
+34
+00:03:45,800 --> 00:03:49,000
+<i>You know what I love best about you?</i> <i>Your punctuality.</i>
+
+35
+00:03:49,000 --> 00:03:50,600
+<i>What's that supposed to mean?</i>
+
+36
+00:03:50,600 --> 00:03:53,500
+You're late and the car smells like olive oil.
+
+37
+00:03:53,900 --> 00:03:57,200
+Hold this... and this.
+
+38
+00:03:59,000 --> 00:04:00,300
+What am I doing here?
+
+39
+00:04:00,300 --> 00:04:01,700
+You're heating my coffee.
+
+40
+00:04:06,700 --> 00:04:07,600
+I like it hot.
+
+41
+00:04:07,600 --> 00:04:11,100
+It's best between 155 and 175 degrees.
+
+42
+00:04:11,100 --> 00:04:13,300
+Most people prefer it at 175.
+
+43
+00:04:13,300 --> 00:04:17,600
+You like it at 165, and that's what it is.
+
+44
+00:04:17,600 --> 00:04:19,100
+You know how I like my coffee?
+
+45
+00:04:19,100 --> 00:04:23,100
+Yes, I, unlike you, pay attention to details, like what time it is and what time
+
+46
+00:04:23,100 --> 00:04:25,000
+you're supposed to pick up your partner for shift.
+
+47
+00:04:25,000 --> 00:04:29,000
+Oh, I pay attention to details, like you just put your finger in my coffee.
+
+48
+00:04:29,000 --> 00:04:30,700
+If you'd like, I could put it somewhere else.
+
+49
+00:04:30,700 --> 00:04:31,900
+Wa-Wa-Wait, go back.
+
+50
+00:04:31,900 --> 00:04:35,600
+- To where?
+- To when I didn't have a partner and I could drive to work in peace.
+
+51
+00:04:36,900 --> 00:04:37,900
+I know you took my advice
+
+52
+00:04:37,900 --> 00:04:41,100
+and used olive oil on your leg, John, and it works.
+
+53
+00:04:41,100 --> 00:04:43,800
+You're just too stubborn to say thank you, but you're welcome.
+
+54
+00:04:43,800 --> 00:04:45,900
+I ate a salad... a Greek salad.
+
+55
+00:04:45,900 --> 00:04:47,100
+At 10:00 a. m.?
+
+56
+00:04:47,700 --> 00:04:48,900
+Boy, you're some detective.
+
+57
+00:04:48,900 --> 00:04:50,400
+Finally. Now you're talking.
+
+58
+00:04:50,400 --> 00:04:53,400
+13 RAY. Possible 31. Homicide.
+
+59
+00:04:53,400 --> 00:04:55,900
+Body discovered at 4500 Crescent Av.
+
+60
+00:04:56,300 --> 00:04:59,200
+- That's three blocks away.
+- All right, let's go to work.
+
+61
+00:05:13,200 --> 00:05:14,300
+How long you been here?
+
+62
+00:05:14,300 --> 00:05:17,800
+We just got here. There were no witnesses to the shooting.
+
+63
+00:05:18,300 --> 00:05:20,600
+The incident happened within the last 20 minutes.
+
+64
+00:05:20,600 --> 00:05:24,500
+- Who found him?
+- These two, and we've cordoned off the area.
+
+65
+00:05:25,100 --> 00:05:26,500
+They killed the cameras.
+
+66
+00:05:27,600 --> 00:05:30,000
+I think I can still access the archived footage.
+
+67
+00:05:37,600 --> 00:05:38,400
+John...
+
+68
+00:05:49,600 --> 00:05:51,400
+They went up to the 25th floor.
+
+69
+00:05:55,400 --> 00:05:57,100
+They shut down the elevator.
+
+70
+00:05:57,600 --> 00:05:59,600
+Transmit that security footage to Maldonado,
+
+71
+00:05:59,600 --> 00:06:01,700
+so we can try and I.D. these guys.
+
+72
+00:06:05,000 --> 00:06:09,300
+Officer Harrison, call for backup and begin evacuation protocols.
+
+73
+00:06:09,300 --> 00:06:11,200
+- Yes, sir.
+- And be careful.
+
+74
+00:06:11,200 --> 00:06:13,700
+- Perps are still in the building.
+- You got it.
+
+75
+00:06:21,800 --> 00:06:23,000
+What's the plan?
+
+76
+00:06:24,900 --> 00:06:26,300
+I got no idea...
+
+77
+00:06:27,700 --> 00:06:31,000
+but we got 25 floors to figure it out.
+
+78
+00:06:34,900 --> 00:06:36,400
+Hand over the phone.
+
+79
+00:06:37,600 --> 00:06:40,100
+- Shut your mouth.
+- Hand it over.
+
+80
+00:06:40,700 --> 00:06:42,100
+- Stop talking.
+- Please don't hurt me.
+
+81
+00:06:44,700 --> 00:06:46,800
+- Let me see it... hey, hey.
+- ??? Let's go.
+
+82
+00:06:47,400 --> 00:06:49,000
+I told you, you sit down.
+
+83
+00:07:12,100 --> 00:07:13,000
+Hello.
+
+84
+00:07:15,500 --> 00:07:16,700
+What's your name?
+
+85
+00:07:21,800 --> 00:07:25,000
+Oh, you, you don't know how to answer that, do you?
+
+86
+00:07:28,600 --> 00:07:30,900
+You're afraid if you answer, you'll get hurt, huh?
+
+87
+00:07:34,100 --> 00:07:37,500
+Well... the only way around that is...
+
+88
+00:07:38,400 --> 00:07:40,200
+that you answer honestly.
+
+89
+00:07:43,900 --> 00:07:45,800
+It's always the best policy.
+
+90
+00:07:48,700 --> 00:07:49,600
+Jenna.
+
+91
+00:07:58,400 --> 00:08:00,400
+Why don't you come and join me, Jenna?
+
+92
+00:08:06,700 --> 00:08:07,500
+Yo.
+
+93
+00:08:08,500 --> 00:08:11,200
+- We can start now.
+- Cops are still in the lobby.
+
+94
+00:08:11,600 --> 00:08:12,900
+Well, that's their fault.
+
+95
+00:08:13,600 --> 00:08:15,400
+It's time to get their attention.
+
+96
+00:08:27,700 --> 00:08:29,000
+Out of the way, out of the way.
+
+97
+00:08:29,000 --> 00:08:30,000
+Stay down.
+
+98
+00:08:51,700 --> 00:08:54,100
+- Police. Keep moving.
+- This is not a drill.
+
+99
+00:08:54,100 --> 00:08:57,400
+- What's going on?
+- Sir, we need you to keep moving, continuing out of the building.
+
+100
+00:08:57,400 --> 00:08:59,200
+- Go down the stairwell.
+- What's going on out there?
+
+101
+00:08:59,200 --> 00:09:01,500
+- Out of the building, please.
+- Take the rest of the day off.
+
+102
+00:09:01,500 --> 00:09:04,000
+Move to the stairs, exit the back of the building.
+
+103
+00:09:05,600 --> 00:09:08,900
+- What's the update, Stahl?
+- It's the Sanderson building downtown.
+
+104
+00:09:08,900 --> 00:09:10,900
+John's on the second floor ascending.
+
+105
+00:09:11,300 --> 00:09:13,700
+Ascending? John!
+
+106
+00:09:13,700 --> 00:09:14,800
+What's your status?
+
+107
+00:09:14,800 --> 00:09:17,600
+Dorian says the building is still structurally sound.
+
+108
+00:09:17,600 --> 00:09:20,400
+There's damage to the third and fourth emergency exits.
+
+109
+00:09:20,400 --> 00:09:23,100
+The southeast stairwell is also blocked.
+
+110
+00:09:23,100 --> 00:09:26,700
+Emergency personnel are getting people out by the second story.
+
+111
+00:09:26,700 --> 00:09:29,600
+John, do not ascend. Negative.
+
+112
+00:09:29,600 --> 00:09:31,700
+Continue to direct the employees to the second floor
+
+113
+00:09:31,700 --> 00:09:33,800
+and go there yourself until we know what we're dealing with here.
+
+114
+00:09:33,800 --> 00:09:35,100
+I know what we're dealing with.
+
+115
+00:09:35,100 --> 00:09:37,900
+The assailants are still in the building. We're going after them.
+
+116
+00:09:37,900 --> 00:09:41,700
+Buy me some time. You should initiate the protocol.
+
+117
+00:09:41,700 --> 00:09:44,500
+Jam all comm signals coming in and out of the building,
+
+118
+00:09:44,500 --> 00:09:47,800
+cut their communication, and get me some backup.
+
+119
+00:09:47,800 --> 00:09:51,300
+John, if we jam the signal, comms won't make it out of the building.
+
+120
+00:09:51,300 --> 00:09:53,100
+We won't be able to communicate.
+
+121
+00:09:53,700 --> 00:09:56,100
+Leave the building now.
+
+122
+00:09:56,100 --> 00:09:57,300
+There's... I can't...
+
+123
+00:09:57,300 --> 00:09:58,500
+What... do...
+
+124
+00:09:58,500 --> 00:10:01,000
+Do you... Christmas.
+
+125
+00:10:02,600 --> 00:10:04,600
+Did you just hang up on Captain Maldonado?
+
+126
+00:10:04,600 --> 00:10:06,800
+Yeah, boring conversation anyway.
+
+127
+00:10:06,800 --> 00:10:10,000
+I just love that you wear your insubordination like it's a virtue.
+
+128
+00:10:11,300 --> 00:10:14,900
+- Did we evacuate the perimeter?
+- Per protocol, three-block radius.
+
+129
+00:10:18,400 --> 00:10:19,600
+Yeah, this is Paul.
+
+130
+00:10:19,600 --> 00:10:21,400
+Lock down communications.
+
+131
+00:10:23,800 --> 00:10:26,900
+- Initiate the jam.
+- Sequence initiated.
+
+132
+00:10:33,000 --> 00:10:36,000
+Okay, signal active. Switching to internal comms.
+
+133
+00:10:37,000 --> 00:10:38,300
+They jammed us.
+
+134
+00:10:38,300 --> 00:10:40,500
+All external communications are blocked.
+
+135
+00:10:41,100 --> 00:10:44,100
+Law enforcement is nothing if not predictable.
+
+136
+00:10:44,900 --> 00:10:46,600
+Alpha team, take the north side.
+
+137
+00:10:47,100 --> 00:10:48,800
+Bravo team, take the rooftop.
+
+138
+00:10:48,800 --> 00:10:50,500
+Hold your fire until instructed.
+
+139
+00:10:53,900 --> 00:10:54,700
+Clear.
+
+140
+00:11:05,700 --> 00:11:09,200
+Any more thoughts on that plan? We're running out of floors, John.
+
+141
+00:11:09,200 --> 00:11:11,600
+Well, I thought backup would be here by now.
+
+142
+00:11:11,600 --> 00:11:13,400
+Guess we just keep moving up.
+
+143
+00:11:13,400 --> 00:11:15,200
+Maybe there's another option.
+
+144
+00:11:15,800 --> 00:11:18,200
+The entire air system is interconnected.
+
+145
+00:11:18,200 --> 00:11:20,300
+We just have to make it to the 23rd floor.
+
+146
+00:11:20,300 --> 00:11:25,300
+- There's an access door to the air system there that'll take us up to where these guys are.
+- See?
+
+147
+00:11:26,000 --> 00:11:27,800
+Told you we'd come up with a plan.
+
+148
+00:11:32,100 --> 00:11:35,500
+What's with the disco face? Got something to tell me?
+
+149
+00:11:35,500 --> 00:11:40,100
+Since the signals are now being jammed, every emergency call being placed in this building
+
+150
+00:11:40,100 --> 00:11:42,800
+(EMERGENCY RESPONSE REQUESTS)
+is bouncing back to me because they can't get out.
+
+151
+00:11:42,800 --> 00:11:45,700
+Answer the calls. We might get some information.
+
+152
+00:11:46,900 --> 00:11:47,700
+Hello?
+
+153
+00:11:47,700 --> 00:11:52,600
+Thnak God. I need police. I am in my office. There was an explosion.
+
+154
+00:11:52,600 --> 00:11:58,400
+Ma'am, it's okay. I understand. The police are already on their way.
+
+155
+00:11:58,400 --> 00:12:00,500
+Make your way down to the second floor.
+
+156
+00:12:01,400 --> 00:12:04,400
+- What are you doing?
+- In the Portuguese culture, it is proven
+
+157
+00:12:04,400 --> 00:12:08,100
+that people find a woman's voice more soothing in moments of crisis.
+
+158
+00:12:09,000 --> 00:12:10,500
+- Hello?
+- Hello.
+
+159
+00:12:10,700 --> 00:12:12,700
+I'm Detective John Kennex.
+
+160
+00:12:12,700 --> 00:12:16,400
+I'm an automated police officer with a very difficult personality.
+
+161
+00:12:16,400 --> 00:12:18,700
+- 911?
+- Please remain calm.
+
+162
+00:12:18,700 --> 00:12:21,800
+I'm-I'm trapped with a gunman. Please help.
+
+163
+00:12:22,200 --> 00:12:24,400
+Everything's all right. Just take a breath.
+
+164
+00:12:24,400 --> 00:12:25,600
+What is your name?
+
+165
+00:12:26,500 --> 00:12:28,100
+It's Paige.
+
+166
+00:12:28,100 --> 00:12:29,300
+Hi, Paige.
+
+167
+00:12:29,900 --> 00:12:33,000
+- What can you tell me about the gunmen?
+- I don't know.
+
+168
+00:12:34,100 --> 00:12:36,200
+They have my sister...
+
+169
+00:12:37,200 --> 00:12:38,300
+and others.
+
+170
+00:12:38,700 --> 00:12:40,900
+Listen, Paige, I'm in the building.
+
+171
+00:12:41,500 --> 00:12:42,800
+I need to ask you a few questions,
+
+172
+00:12:42,800 --> 00:12:45,000
+but first I need to know... are you safe?
+
+173
+00:12:45,000 --> 00:12:46,600
+Are you out of harm's way?
+
+174
+00:12:47,900 --> 00:12:49,200
+I think so.
+
+175
+00:12:49,400 --> 00:12:51,700
+- For now.
+- Okay, listen to me.
+
+176
+00:12:51,700 --> 00:12:53,300
+Where are you? What floor are you on?
+
+177
+00:12:53,300 --> 00:12:55,600
+I'm on the 25th floor.
+
+178
+00:12:55,900 --> 00:12:57,800
+I'm in the utility closet.
+
+179
+00:13:01,700 --> 00:13:02,700
+Next face.
+
+180
+00:13:02,700 --> 00:13:04,500
+You, on your knees.
+
+181
+00:13:06,200 --> 00:13:06,900
+On your knees!
+
+182
+00:13:06,900 --> 00:13:09,400
+Oh, no, no! Oh, God.
+
+183
+00:13:13,900 --> 00:13:14,900
+Paige?
+
+184
+00:13:14,900 --> 00:13:16,200
+Paige, what's happening?
+
+185
+00:13:17,500 --> 00:13:18,900
+They've shot him.
+
+186
+00:13:19,700 --> 00:13:21,000
+Lou is dead.
+
+187
+00:13:30,900 --> 00:13:32,800
+Hey, dogface. Water.
+
+188
+00:13:39,200 --> 00:13:40,400
+We got a body!
+
+189
+00:13:52,000 --> 00:13:53,800
+(NO COPS STAY OUT)
+Keep those people back!
+
+190
+00:13:54,500 --> 00:13:56,800
+Those bastards. What do they want?
+
+191
+00:13:59,000 --> 00:14:01,500
+Detective Paul, initiate hostage protocol.
+
+192
+00:14:01,500 --> 00:14:04,500
+Send them the comm. Send them the comm!
+
+193
+00:14:11,000 --> 00:14:13,700
+Get that drone in the air. We've got to start negotiating.
+
+194
+00:14:24,400 --> 00:14:25,500
+Comm's here.
+
+195
+00:14:38,100 --> 00:14:40,900
+- What's your name?
+- Captain Maldonado.
+
+196
+00:14:41,500 --> 00:14:42,400
+And you are?
+
+197
+00:14:42,700 --> 00:14:45,700
+Well, I'd tell you, but I don't want to nullify your efforts.
+
+198
+00:14:46,100 --> 00:14:48,200
+Now that we have your attention...
+
+199
+00:14:49,100 --> 00:14:50,700
+we have some demands.
+
+200
+00:14:53,700 --> 00:14:56,400
+Paige, can you hold the phone up so I can hear what's going on?
+
+201
+00:14:57,300 --> 00:14:59,800
+I really hate to throw out any more hostages.
+
+202
+00:14:59,800 --> 00:15:02,900
+- Let's get down to brass tacks, huh?
+- What do you want?
+
+203
+00:15:03,300 --> 00:15:06,900
+First, get your snipers off the roof, and tell those men
+
+204
+00:15:06,900 --> 00:15:11,700
+you have assembled out front to stand down, and keep them away from the building,
+
+205
+00:15:11,700 --> 00:15:15,200
+or hostages will continue to fall from the sky.
+
+206
+00:15:20,600 --> 00:15:22,800
+Tell Detective Paul to have his men stand down.
+
+207
+00:15:24,000 --> 00:15:25,800
+Bravo team, stand down.
+
+208
+00:15:29,900 --> 00:15:31,000
+All clear.
+
+209
+00:15:32,500 --> 00:15:34,500
+Done. What else?
+
+210
+00:15:34,700 --> 00:15:39,500
+We'd like three v-tols on the roof standing by, clear airspace from here to the border,
+
+211
+00:15:39,500 --> 00:15:44,000
+and finally, I'd like one fission igniter delivered to me, please.
+
+212
+00:15:45,000 --> 00:15:48,700
+That's military-grade technology. I don't have that authority.
+
+213
+00:15:49,000 --> 00:15:51,600
+Well, then I suggest you contact someone who does.
+
+214
+00:15:55,800 --> 00:15:58,300
+Facial recognition identified.
+
+215
+00:15:58,700 --> 00:16:00,200
+(LUCAS VICENT - HOLY RECLAMATION ARMY)
+
+216
+00:16:06,400 --> 00:16:10,400
+Now, you listen to me, Lucas, if you want me to cooperate with you,
+
+217
+00:16:10,400 --> 00:16:12,300
+I need you to cooperate with me.
+
+218
+00:16:12,700 --> 00:16:14,800
+How many hostages do you have?
+
+219
+00:16:16,100 --> 00:16:18,700
+More than enough to end your career
+
+220
+00:16:18,700 --> 00:16:20,000
+if they die.
+
+221
+00:16:20,000 --> 00:16:21,900
+You have 43 minutes.
+
+222
+00:16:24,100 --> 00:16:26,800
+Set the timer for 43 minutes, and get me Rudy Lom.
+
+223
+00:16:32,200 --> 00:16:34,100
+Hello? Are you there?
+
+224
+00:16:34,500 --> 00:16:37,500
+- Right here, Paige.
+- Is anyone coming?
+
+225
+00:16:37,500 --> 00:16:40,400
+You just hang tight. We're gonna be with you real soon.
+
+226
+00:16:41,200 --> 00:16:44,400
+- Did you hear the phone call?
+- Yeah, I did. Thank you.
+
+227
+00:16:44,400 --> 00:16:46,900
+Just hold on a second. I'll be right back.
+
+228
+00:16:49,000 --> 00:16:51,200
+Is a fission igniter as bad as I think it is?
+
+229
+00:16:51,200 --> 00:16:54,300
+It's a trigger mechanism for a large explosive device.
+
+230
+00:16:54,300 --> 00:16:56,400
+- Megaton level.
+- Megaton.
+
+231
+00:16:59,500 --> 00:17:00,600
+Paige, you there?
+
+232
+00:17:00,600 --> 00:17:03,700
+Can you tell me how many hostages they've got up there?
+
+233
+00:17:05,000 --> 00:17:06,800
+25 or so.
+
+234
+00:17:06,800 --> 00:17:10,100
+At least in this room. It's hard for me to see.
+
+235
+00:17:10,600 --> 00:17:12,100
+You're doing great, Paige.
+
+236
+00:17:12,100 --> 00:17:15,900
+- How's your sister?
+- This is all my fault.
+
+237
+00:17:15,900 --> 00:17:18,400
+She wouldn't be here if it wasn't for me.
+
+238
+00:17:19,100 --> 00:17:21,500
+She's visiting from out of town.
+
+239
+00:17:21,700 --> 00:17:24,000
+She just stopped by to have lunch...
+
+240
+00:17:25,100 --> 00:17:27,100
+and now she's all alone.
+
+241
+00:17:27,600 --> 00:17:29,800
+Paige, can you tell me how many gunmen there are?
+
+242
+00:17:30,800 --> 00:17:33,500
+People keep coming and going; I don't know.
+
+243
+00:17:34,500 --> 00:17:37,000
+Five... six, at least.
+
+244
+00:17:37,000 --> 00:17:38,500
+But there were more.
+
+245
+00:17:41,200 --> 00:17:43,200
+I'm sorry, I can't do this.
+
+246
+00:17:43,200 --> 00:17:45,100
+I'm so scared.
+
+247
+00:17:48,300 --> 00:17:50,100
+Paige, you ever been ice fishing?
+
+248
+00:17:52,100 --> 00:17:55,700
+- No.
+- When I was 11 years old,
+
+249
+00:17:55,700 --> 00:17:59,000
+my dad took me ice fishing to Lake McFarland.
+
+250
+00:17:59,700 --> 00:18:02,300
+We were coming back, and all of a sudden
+
+251
+00:18:02,300 --> 00:18:05,500
+the ice cracked, and I went right under.
+
+252
+00:18:05,800 --> 00:18:08,300
+I couldn't see, I couldn't breathe.
+
+253
+00:18:08,900 --> 00:18:10,600
+I thought I was gonna die.
+
+254
+00:18:11,300 --> 00:18:15,200
+The water was so cold, it was like thousands of needles
+
+255
+00:18:15,200 --> 00:18:17,300
+stinging every part of my body.
+
+256
+00:18:18,200 --> 00:18:19,700
+And then my dad jumped in,
+
+257
+00:18:20,600 --> 00:18:23,400
+and he grabbed me and started dragging me back to shore.
+
+258
+00:18:23,400 --> 00:18:25,200
+Are you trying to put her to sleep?
+
+259
+00:18:26,600 --> 00:18:29,800
+And even though we were still in a lot of danger,
+
+260
+00:18:30,200 --> 00:18:33,000
+I felt safe. I felt like...
+
+261
+00:18:33,000 --> 00:18:37,300
+everything was gonna be okay, because I wasn't alone.
+
+262
+00:18:38,300 --> 00:18:39,400
+Paige...
+
+263
+00:18:39,900 --> 00:18:41,100
+you're not alone.
+
+264
+00:18:42,400 --> 00:18:43,500
+I'm with you.
+
+265
+00:18:44,100 --> 00:18:46,300
+Everything is gonna be okay.
+
+266
+00:18:49,300 --> 00:18:50,400
+Do you believe me?
+
+267
+00:18:52,700 --> 00:18:56,300
+- Yeah, I do.
+- All right, good girl.
+
+268
+00:18:56,300 --> 00:18:57,900
+You just hang in there.
+
+269
+00:19:05,200 --> 00:19:06,100
+Yeah. Paul.
+
+270
+00:19:06,300 --> 00:19:09,800
+- Any sign of Kennex and Dorian?
+- Uh, nothing so far.
+
+271
+00:19:09,800 --> 00:19:13,200
+Keep your men back, but I want drones and spotters on every window and exit.
+
+272
+00:19:13,200 --> 00:19:16,400
+- I want to know what's happening with my men.
+- Yeah, you got it, Captain.
+
+273
+00:19:18,400 --> 00:19:20,200
+There's no way I can get a fission igniter.
+
+274
+00:19:25,500 --> 00:19:27,800
+What if there was a way to give them what they wanted
+
+275
+00:19:28,100 --> 00:19:30,000
+and stall them at the same time?
+
+276
+00:19:30,000 --> 00:19:33,100
+- What have you got?
+- I could build a replica.
+
+277
+00:19:33,600 --> 00:19:35,200
+What if they can spot a fake?
+
+278
+00:19:35,700 --> 00:19:37,900
+I can make one that will pass a scan.
+
+279
+00:19:38,100 --> 00:19:42,200
+If they test it out or try and use it immediately, then we're out of luck.
+
+280
+00:19:42,700 --> 00:19:45,200
+That's risk we'll have to take. Let's get started.
+
+281
+00:19:46,900 --> 00:19:48,000
+- Captain?
+- Yep?
+
+282
+00:19:48,000 --> 00:19:52,200
+Lucas Vincent... he's a high-level operative in the Holy Reclamation Army,
+
+283
+00:19:52,500 --> 00:19:57,500
+a decentralized network of terrorist cells with anti-Western bias and a history of hostage taking,
+
+284
+00:19:57,500 --> 00:19:59,300
+none of them ending well.
+
+285
+00:19:59,300 --> 00:20:01,900
+Last August they took over an embassy near Tokyo.
+
+286
+00:20:01,900 --> 00:20:03,900
+Same MO... they enter with force,
+
+287
+00:20:03,900 --> 00:20:05,900
+drew the attention of the media and law enforcement
+
+288
+00:20:05,900 --> 00:20:08,800
+using human hostages as collateral for their demands.
+
+289
+00:20:08,800 --> 00:20:12,600
+- What happened?
+- They facilitated the release of several of their comrades.
+
+290
+00:20:12,900 --> 00:20:15,500
+Once they got what they wanted, they released the hostages.
+
+291
+00:20:15,500 --> 00:20:19,500
+But they're not afraid to take lives... including their own.
+
+292
+00:20:25,400 --> 00:20:27,000
+You know, everyone trips on stairs,
+
+293
+00:20:27,000 --> 00:20:31,300
+and it's calculated to occur in one in every 2,222 occasions.
+
+294
+00:20:31,700 --> 00:20:33,200
+That's very interesting.
+
+295
+00:20:33,200 --> 00:20:35,500
+- You know what would be interesting, John?
+- What?
+
+296
+00:20:35,500 --> 00:20:38,200
+If you told me that ice fishing story again.
+
+297
+00:20:52,800 --> 00:20:55,700
+If you want to get in shape, we can run the O-course every weekend.
+
+298
+00:20:56,200 --> 00:20:57,300
+O- can we?
+
+299
+00:21:07,600 --> 00:21:08,800
+Let's split up.
+
+300
+00:22:32,500 --> 00:22:33,600
+Dorian, you okay?
+
+301
+00:22:35,300 --> 00:22:36,700
+John, get over here.
+
+302
+00:22:43,000 --> 00:22:46,200
+(Identify tech)
+
+303
+00:22:49,200 --> 00:22:50,300
+Floor's clear.
+
+304
+00:22:52,700 --> 00:22:53,600
+You okay?
+
+305
+00:22:54,200 --> 00:22:55,400
+You took one to the head.
+
+306
+00:22:56,000 --> 00:22:57,500
+Yeah, ricochet.
+
+307
+00:22:59,600 --> 00:23:02,100
+- Whatcha got?
+- I'm not sure.
+
+308
+00:23:02,600 --> 00:23:04,800
+But there's writing on it. "Start. "
+
+309
+00:23:04,800 --> 00:23:07,400
+- Start?
+- Start.
+
+310
+00:23:08,900 --> 00:23:10,000
+You I.D.'d him?
+
+311
+00:23:15,700 --> 00:23:19,600
+His name is Michael Demerais. He's a member of the Holy Reclamation Army.
+
+312
+00:23:19,600 --> 00:23:21,200
+So they're behind this.
+
+313
+00:23:24,700 --> 00:23:25,800
+Maybe not.
+
+314
+00:23:33,600 --> 00:23:34,900
+It's a facemaker.
+
+315
+00:23:39,700 --> 00:23:40,900
+So who's this guy?
+
+316
+00:23:43,500 --> 00:23:47,000
+His name is Gregor Stone. He has a few priors for armed robbery.
+
+317
+00:23:47,000 --> 00:23:50,000
+Why would they impersonate members of a radical organization?
+
+318
+00:23:51,600 --> 00:23:52,600
+What's wrong?
+
+319
+00:23:53,600 --> 00:23:56,700
+My dynamic voltage scaling has been damaged by the bullet.
+
+320
+00:23:57,300 --> 00:23:59,500
+You want to say that a little less complicated?
+
+321
+00:23:59,500 --> 00:24:01,400
+I won't be able to walk in five minutes.
+
+322
+00:24:09,900 --> 00:24:13,400
+- Where are our v-tols?
+- I'm working on it.
+
+323
+00:24:19,500 --> 00:24:22,200
+Based on the frequency at which these transmit...
+
+324
+00:24:22,500 --> 00:24:24,900
+I detect seven facemakers in the building.
+
+325
+00:24:25,300 --> 00:24:29,100
+If they hide their identities, why not just wear a mask?
+
+326
+00:24:29,100 --> 00:24:32,500
+- Why pretend to be something else?
+- That's a good question.
+
+327
+00:24:42,200 --> 00:24:43,100
+All right.
+
+328
+00:24:43,900 --> 00:24:45,200
+Let's try and fix you.
+
+329
+00:24:49,100 --> 00:24:50,200
+How does it look?
+
+330
+00:24:51,000 --> 00:24:53,900
+Yeah, it's, uh, totally fine.
+
+331
+00:24:53,900 --> 00:24:55,900
+- You can hardly see it.
+- Okay.
+
+332
+00:24:56,300 --> 00:24:57,400
+So, what do I do?
+
+333
+00:24:57,800 --> 00:25:00,100
+All right, there's a magenta colored tendon.
+
+334
+00:25:00,400 --> 00:25:01,600
+I need you to cut it.
+
+335
+00:25:03,600 --> 00:25:05,700
+All right, is... is that thing clean?
+
+336
+00:25:06,100 --> 00:25:09,300
+- Of course it is.
+- Are you sure?
+
+337
+00:25:09,300 --> 00:25:10,300
+Positive.
+
+338
+00:25:13,500 --> 00:25:14,300
+Damn it.
+
+339
+00:25:14,300 --> 00:25:15,900
+- I said magenta.
+- It was magenta.
+
+340
+00:25:15,900 --> 00:25:17,500
+- I said magenta. That was lavender.
+- The hell's magenta?
+
+341
+00:25:17,500 --> 00:25:19,100
+There's 50 shades of purple in there.
+
+342
+00:25:19,100 --> 00:25:21,400
+I'm telling you, that was the lavender one.
+
+343
+00:25:21,600 --> 00:25:23,200
+- No, no. Okay, wait a minute.
+- What?
+
+344
+00:25:23,200 --> 00:25:24,600
+- What are you doing with that?
+- Gotta cut the wire.
+
+345
+00:25:24,600 --> 00:25:27,600
+- That's not going inside of my head.
+- I'm your partner, trust me.
+
+346
+00:25:27,600 --> 00:25:28,200
+If Rudy were here,
+
+347
+00:25:28,200 --> 00:25:30,200
+he'd have a really big issue with you right now.
+
+348
+00:25:30,200 --> 00:25:31,600
+- John...
+- Look, it could always be worse.
+
+349
+00:25:31,600 --> 00:25:33,700
+- John, the statistics...
+- You're going to be fine.
+
+350
+00:25:37,500 --> 00:25:38,200
+Dorian?
+
+351
+00:25:52,400 --> 00:25:54,000
+Please stop looking at me like that.
+
+352
+00:25:55,300 --> 00:25:58,700
+You have five minutes to deliver the decoy fission device.
+
+353
+00:25:58,700 --> 00:26:00,600
+I'm working as fast as I can.
+
+354
+00:26:03,500 --> 00:26:06,200
+Four minutes, 45 seconds.
+
+355
+00:26:06,200 --> 00:26:08,900
+You can't put a clock on perfection.
+
+356
+00:26:08,900 --> 00:26:12,000
+Clearly someone was rushing when they designed your manners chip.
+
+357
+00:26:20,000 --> 00:26:24,300
+- John, are you there?
+- I can hear you, Paige.
+
+358
+00:26:24,300 --> 00:26:25,800
+They've moved.
+
+359
+00:26:26,200 --> 00:26:27,900
+They keep going to a corner window...
+
+360
+00:26:27,900 --> 00:26:31,400
+- doing something.
+- What are they doing?
+
+361
+00:26:31,400 --> 00:26:32,500
+I don't know.
+
+362
+00:26:35,500 --> 00:26:39,000
+My sister... she's crying.
+
+363
+00:26:39,400 --> 00:26:42,000
+And one of the guards, he keeps looking at her.
+
+364
+00:26:43,700 --> 00:26:45,900
+Look, I promise I'll get to you soon, Paige.
+
+365
+00:26:46,800 --> 00:26:48,200
+What's your sister's name?
+
+366
+00:26:48,500 --> 00:26:49,400
+Jenna.
+
+367
+00:26:50,700 --> 00:26:53,400
+- Jenna?
+- Her middle name's Gertrude.
+
+368
+00:26:53,400 --> 00:26:56,600
+- Ooh, that's rough.
+- What's yours?
+
+369
+00:26:57,100 --> 00:27:00,000
+Oh, no. No, no, we're not doing that.
+
+370
+00:27:00,900 --> 00:27:02,800
+Come on, tell me.
+
+371
+00:27:06,700 --> 00:27:09,900
+All right, but you better not tell anyone, okay?
+
+372
+00:27:09,900 --> 00:27:11,200
+Police orders.
+
+373
+00:27:13,200 --> 00:27:14,200
+It's Reginald.
+
+374
+00:27:15,200 --> 00:27:17,400
+My dad was a big Elton John fan.
+
+375
+00:27:18,000 --> 00:27:18,800
+Who?
+
+376
+00:27:19,200 --> 00:27:21,400
+Elton John. He's an old-time singer.
+
+377
+00:27:21,400 --> 00:27:24,000
+Apparently, his real name was Reginald.
+
+378
+00:27:27,000 --> 00:27:27,900
+You okay?
+
+379
+00:27:31,400 --> 00:27:32,300
+Gross.
+
+380
+00:27:32,700 --> 00:27:35,400
+- But good.
+- Something's happening.
+
+381
+00:27:35,900 --> 00:27:37,500
+Get over here and help.
+
+382
+00:27:38,500 --> 00:27:39,500
+One of the gunmen,
+
+383
+00:27:40,600 --> 00:27:42,600
+- he's hurt.
+- Who shot you?
+
+384
+00:27:43,000 --> 00:27:44,900
+There are two men in the building.
+
+385
+00:27:45,200 --> 00:27:47,600
+- Cops?
+- I don't know.
+
+386
+00:27:48,700 --> 00:27:49,700
+Where's Gregor?
+
+387
+00:27:50,000 --> 00:27:52,800
+- We got separated.
+- Do you want us to look for him?
+
+388
+00:27:53,200 --> 00:27:53,900
+No.
+
+389
+00:27:54,600 --> 00:27:57,300
+Put more men on the stairwell. No one gets up on this floor.
+
+390
+00:27:57,300 --> 00:27:59,100
+Go. You, go.
+
+391
+00:28:00,200 --> 00:28:02,700
+John, they know you're in the building.
+
+392
+00:28:03,000 --> 00:28:06,900
+They sent a couple guys with giant guns to guard the stairs.
+
+393
+00:28:08,500 --> 00:28:11,200
+Even if you do get up here, how are you gonna get in?
+
+394
+00:28:12,300 --> 00:28:13,300
+Trust me, Paige.
+
+395
+00:28:13,300 --> 00:28:14,900
+We'll find a way to get to you.
+
+396
+00:28:19,500 --> 00:28:21,300
+I'm disappointed in you, Captain Maldonado.
+
+397
+00:28:21,300 --> 00:28:23,500
+I thought we were getting along so well.
+
+398
+00:28:23,800 --> 00:28:27,000
+- I don't know what you're talking about.
+- I said no cops.
+
+399
+00:28:29,500 --> 00:28:31,000
+I pulled my men back.
+
+400
+00:28:31,000 --> 00:28:34,900
+The only people I have there are conducting the evacuation, outside the building.
+
+401
+00:28:36,300 --> 00:28:37,700
+Then how do you explain the two cops
+
+402
+00:28:37,700 --> 00:28:39,700
+my men just killed downstairs?
+
+403
+00:28:41,900 --> 00:28:43,000
+He's bluffing.
+
+404
+00:28:45,200 --> 00:28:47,600
+I don't know what men you killed, but they weren't mine.
+
+405
+00:28:49,800 --> 00:28:53,500
+We made a deal. I get you what you want, no one else dies.
+
+406
+00:29:01,400 --> 00:29:03,100
+When do I get my fission ignitor?
+
+407
+00:29:06,200 --> 00:29:08,500
+It's on its way, ten minutes or less.
+
+408
+00:29:08,500 --> 00:29:10,100
+Great. Every minute longer
+
+409
+00:29:10,100 --> 00:29:12,800
+is another body you'll be scraping off the pavement.
+
+410
+00:29:26,200 --> 00:29:29,300
+Keep your mouth shut.
+
+411
+00:29:34,500 --> 00:29:35,200
+John?
+
+412
+00:29:37,400 --> 00:29:40,900
+I'm going out there. I can't leave Jenna alone.
+
+413
+00:29:42,100 --> 00:29:45,300
+- Paige, that's a bad idea.
+- I have to. I have to.
+
+414
+00:29:45,300 --> 00:29:48,300
+- We're a few floors away.
+- She needs me.
+
+415
+00:29:49,200 --> 00:29:50,800
+I need her.
+
+416
+00:29:52,000 --> 00:29:53,600
+If we're gonna die...
+
+417
+00:29:55,500 --> 00:29:57,400
+...I want to be with her.
+
+418
+00:29:58,900 --> 00:30:00,800
+She's my sister.
+
+419
+00:30:04,300 --> 00:30:06,900
+Now is my only chance to blend in without anyone seeing me.
+
+420
+00:30:06,900 --> 00:30:09,800
+- Paige, just stay where you are.
+- I'll leave my phone open.
+
+421
+00:30:09,800 --> 00:30:13,100
+- You'll be able to hear what's going on.
+- Paige, it's too risky.
+
+422
+00:30:13,100 --> 00:30:16,100
+- Listen to me, just stay put.
+- I have to.
+
+423
+00:30:16,100 --> 00:30:19,600
+- please
+- Paige, please, just listen to me. Paige.
+
+424
+00:30:20,200 --> 00:30:22,900
+Paige, are you there? Paige?
+
+425
+00:30:43,400 --> 00:30:44,600
+I think I can do that.
+
+426
+00:30:46,100 --> 00:30:47,000
+I'm here.
+
+427
+00:30:48,000 --> 00:30:49,200
+It'll be okay.
+
+428
+00:30:55,700 --> 00:30:57,000
+Detective Paul?
+
+429
+00:30:57,000 --> 00:30:59,600
+- Copy.
+- The ignitor is ready for delivery.
+
+430
+00:30:59,600 --> 00:31:02,200
+- Come on.
+- Come on, come on, speed it up.
+
+431
+00:31:04,500 --> 00:31:07,100
+- It's good to go, sir.
+- Okay, waiting on your order.
+
+432
+00:31:08,900 --> 00:31:09,600
+Send it.
+
+433
+00:31:10,200 --> 00:31:11,100
+Let's get her up.
+
+434
+00:31:37,700 --> 00:31:38,700
+Excuse me.
+
+435
+00:31:40,200 --> 00:31:41,500
+I have to go to the bathroom.
+
+436
+00:31:46,300 --> 00:31:48,100
+You're not going to make me pee on the floor, are you?
+
+437
+00:31:49,500 --> 00:31:51,300
+You've got 30 seconds.
+
+438
+00:31:52,600 --> 00:31:53,600
+Hey, boss...
+
+439
+00:31:54,200 --> 00:31:55,500
+we're getting another delivery.
+
+440
+00:32:08,000 --> 00:32:09,200
+The drone's coming.
+
+441
+00:32:09,400 --> 00:32:11,500
+(CALL CONNECTED)
+
+442
+00:32:31,900 --> 00:32:35,100
+We had an agreement, Lucas. We've operated in good faith here.
+
+443
+00:32:35,600 --> 00:32:37,600
+I believe in honoring a deal.
+
+444
+00:32:37,600 --> 00:32:38,500
+Stand by.
+
+445
+00:32:40,100 --> 00:32:42,400
+I'll let you know how we're gonna release the hostages.
+
+446
+00:32:46,000 --> 00:32:47,300
+Let's hope they buy it.
+
+447
+00:32:47,800 --> 00:32:50,100
+Send the message to the other crew now.
+
+448
+00:32:51,100 --> 00:32:54,600
+They should be ready. It's time to wind this up.
+
+449
+00:32:56,100 --> 00:32:59,300
+- What other crew?
+- Maybe there are more of them in the building.
+
+450
+00:32:59,300 --> 00:33:03,000
+- Maybe they're outside the building.
+- But the jammer's still on. If they have people outside,
+
+451
+00:33:03,000 --> 00:33:04,700
+they wouldn't be able to talk to each other.
+
+452
+00:33:06,100 --> 00:33:07,900
+Unless they were talking some other way.
+
+453
+00:33:17,500 --> 00:33:18,300
+"Start. "
+
+454
+00:33:29,100 --> 00:33:31,500
+They must be using it as some sort of point-to-point communication
+
+455
+00:33:31,500 --> 00:33:35,300
+- with someone in proximity - of the building.
+- Paige said the man in charge...
+
+456
+00:33:35,800 --> 00:33:37,300
+kept going to the window.
+
+457
+00:33:49,400 --> 00:33:50,900
+I didn't think they'd come through.
+
+458
+00:33:51,900 --> 00:33:53,600
+What if there's a tracking device?
+
+459
+00:33:54,200 --> 00:33:55,800
+We're not taking it anyway.
+
+460
+00:33:55,800 --> 00:33:57,300
+It doesn't matter.
+
+461
+00:34:01,300 --> 00:34:03,700
+He doesn't want the tech. That doesn't make sense.
+
+462
+00:34:05,000 --> 00:34:08,200
+Why take hostages and negotiate for tech you don't want?
+
+463
+00:34:08,200 --> 00:34:09,800
+Maybe it's a diversion.
+
+464
+00:34:10,300 --> 00:34:11,700
+Yeah, but for what?
+
+465
+00:34:15,500 --> 00:34:18,300
+Are there any targets of value in the adjacent buildings?
+
+466
+00:34:20,500 --> 00:34:22,100
+(DIETER INC. PRECIOUS METALS - CRESCENT AVE.)
+
+467
+00:34:22,100 --> 00:34:26,400
+The only target of any value is a precious metal weigh station specializing in palladium.
+
+468
+00:34:28,600 --> 00:34:29,900
+It's a heist.
+
+469
+00:34:29,900 --> 00:34:32,800
+Palladium. That would make all this worthwhile.
+
+470
+00:34:42,800 --> 00:34:44,000
+(10 min)
+
+471
+00:34:51,600 --> 00:34:53,600
+Wrap it up. We're out of here in ten.
+
+472
+00:35:08,100 --> 00:35:09,300
+Hang in there, Daniel.
+
+473
+00:35:10,500 --> 00:35:13,600
+When this is over, we'll all be on a beach somewhere,
+
+474
+00:35:13,600 --> 00:35:15,100
+you'll be as good as new.
+
+475
+00:35:15,800 --> 00:35:17,300
+I need a doctor.
+
+476
+00:35:18,500 --> 00:35:19,400
+Soon.
+
+477
+00:35:31,400 --> 00:35:32,500
+What's that beeping?
+
+478
+00:35:35,500 --> 00:35:37,300
+You and the guys pick three hostages.
+
+479
+00:35:37,300 --> 00:35:38,000
+Why?
+
+480
+00:35:39,000 --> 00:35:42,400
+We may need insurance. Let's pack it up.
+
+481
+00:35:42,800 --> 00:35:45,100
+(LIGHTBOMB AUDIO DETECTED)
+John, they've activated a light bomb.
+
+482
+00:35:46,000 --> 00:35:47,600
+They're gonna kill the hostages.
+
+483
+00:35:52,600 --> 00:35:55,200
+- What are you doing?
+- Sticking to the plan. We're going up.
+
+484
+00:35:55,200 --> 00:35:56,200
+John, they know we're here.
+
+485
+00:35:56,200 --> 00:35:57,800
+They're expecting us to come up the stairs.
+
+486
+00:35:57,800 --> 00:36:00,200
+We won't make it to the 25th floor alive.
+
+487
+00:36:00,200 --> 00:36:02,800
+You heard him. We have no choice.
+
+488
+00:36:03,400 --> 00:36:04,800
+I don't have a choice.
+
+489
+00:36:06,600 --> 00:36:08,400
+People's lives are in jeopardy.
+
+490
+00:36:08,600 --> 00:36:12,500
+Dorian, You've been shot. Your head's full of bubble gum. You can't do this alone.
+
+491
+00:36:13,300 --> 00:36:16,300
+- I have to.
+- Then I'm coming with you.
+
+492
+00:36:16,300 --> 00:36:17,300
+You can't.
+
+493
+00:36:19,000 --> 00:36:20,800
+I'm designed to do this, John.
+
+494
+00:36:49,400 --> 00:36:50,900
+(Identify Device Explosive/light bomb)
+
+495
+00:36:52,900 --> 00:36:54,900
+(Hostage/Civilian)
+
+496
+00:36:55,300 --> 00:36:56,100
+It's time.
+
+497
+00:36:57,900 --> 00:37:01,000
+(Identify subject Vicent Lucas)
+Jenna... why don't you come with me.
+
+498
+00:37:01,000 --> 00:37:03,200
+No, no, no. Don't you touch her.
+
+499
+00:37:03,200 --> 00:37:04,400
+Don't you touch her. Take me!
+
+500
+00:37:04,400 --> 00:37:06,200
+Let her go! I will shoot you!
+
+501
+00:37:06,200 --> 00:37:08,600
+- No, no! Take me! No, leave her!
+- I will shoot you!
+
+502
+00:37:08,600 --> 00:37:10,600
+Take me! Please! Me!
+
+503
+00:37:15,400 --> 00:37:17,200
+Police! Get down!
+
+504
+00:37:39,200 --> 00:37:40,100
+What's your name?
+
+505
+00:37:43,200 --> 00:37:45,200
+I've never killed a man I didn't know.
+
+506
+00:37:47,500 --> 00:37:48,700
+But then again...
+
+507
+00:37:49,700 --> 00:37:50,900
+you're not a man.
+
+508
+00:37:51,500 --> 00:37:52,400
+Are you?
+
+509
+00:37:55,100 --> 00:37:59,200
+- Nice of you to show up, Gregor.
+- Where the hell have you been?
+
+510
+00:37:59,600 --> 00:38:01,100
+We thought you were dead.
+
+511
+00:38:13,600 --> 00:38:14,900
+- Maldonado?
+- John?
+
+512
+00:38:14,900 --> 00:38:18,200
+The hostages are secure. The whole thing is a palladium heist.
+
+513
+00:38:18,200 --> 00:38:19,300
+Shut it off... now!
+
+514
+00:38:19,300 --> 00:38:21,300
+They got us to block the alarm system.
+
+515
+00:38:21,300 --> 00:38:22,600
+Turn the jammer off!
+
+516
+00:38:24,100 --> 00:38:26,200
+Detective Paul, turn off the jammer now!
+
+517
+00:38:26,700 --> 00:38:27,500
+Shut it off.
+
+518
+00:38:39,100 --> 00:38:39,800
+Let's go.
+
+519
+00:38:59,700 --> 00:39:00,400
+Thank you.
+
+520
+00:39:08,100 --> 00:39:08,900
+John?
+
+521
+00:39:10,900 --> 00:39:12,200
+You must be Paige.
+
+522
+00:39:20,300 --> 00:39:22,900
+- Thank you.
+- No. Thank you.
+
+523
+00:39:23,400 --> 00:39:24,800
+You were very brave.
+
+524
+00:39:24,800 --> 00:39:26,600
+You helped save a lot of lives today.
+
+525
+00:39:28,700 --> 00:39:29,800
+Where's your partner?
+
+526
+00:39:30,700 --> 00:39:31,600
+Oh, he's, uh...
+
+527
+00:39:32,100 --> 00:39:33,500
+he's getting patched up.
+
+528
+00:39:37,800 --> 00:39:41,600
+John, this is my sister. This is Jenna.
+
+529
+00:39:42,100 --> 00:39:45,300
+Jenna, it's a pleasure to meet you. I've heard a lot about you.
+
+530
+00:40:12,300 --> 00:40:13,500
+I'm glad you're okay.
+
+531
+00:40:14,000 --> 00:40:14,900
+Thanks.
+
+532
+00:40:15,800 --> 00:40:17,800
+I've got some intel on the perps.
+
+533
+00:40:18,500 --> 00:40:20,300
+Guy behind it all was Gerald Leighton.
+
+534
+00:40:20,800 --> 00:40:24,100
+We linked him and his men to four high-value robberies in the last two years.
+
+535
+00:40:24,400 --> 00:40:27,700
+Using police jamming protocol to initiate a palladium heist.
+
+536
+00:40:27,700 --> 00:40:31,100
+- Pretty elaborate for a bunch of thieves.
+- It's going to be a paperwork nightmare.
+
+537
+00:40:31,100 --> 00:40:32,900
+And I thought you had come down here to thank me.
+
+538
+00:40:32,900 --> 00:40:34,900
+For what? Doing your job?
+
+539
+00:40:35,200 --> 00:40:38,900
+Just for the record, I did tell you to get out of the building, right?
+
+540
+00:40:39,200 --> 00:40:41,300
+I swear, all I heard was static.
+
+541
+00:40:43,200 --> 00:40:46,200
+Oi! I've got a bone to pick with you, Detective.
+
+542
+00:40:46,600 --> 00:40:48,300
+Chewing gum? Really?
+
+543
+00:40:48,300 --> 00:40:50,200
+Would you fix a race car with chewing gum?
+
+544
+00:40:50,200 --> 00:40:53,100
+Uh, yeah, if it was busted, and I need to win a race.
+
+545
+00:40:54,100 --> 00:40:56,100
+He'll need extensive diagnostics.
+
+546
+00:40:56,100 --> 00:40:57,500
+Ah, that can wait.
+
+547
+00:40:57,500 --> 00:41:00,700
+Come on, let's go get some noodles.
+
+548
+00:41:01,500 --> 00:41:03,200
+You are aware that I don't eat.
+
+549
+00:41:03,600 --> 00:41:05,500
+Perfect. I'm buying. Let's roll.
+
+550
+00:41:11,700 --> 00:41:13,100
+Well, I'll just wait here, shall I?
+
+551
+00:41:21,500 --> 00:41:24,200
+Thank you for what you did back there.
+
+552
+00:41:26,400 --> 00:41:27,600
+Don't mention it.
+
+553
+00:41:29,300 --> 00:41:33,700
+Besides, no one messes with my coffee warmer.
+
+554
+00:41:38,900 --> 00:41:41,500
+Hey, John, you know that story you told Paige,
+
+555
+00:41:42,100 --> 00:41:44,100
+when you fell through the ice as a kid?
+
+556
+00:41:47,000 --> 00:41:50,500
+When that gun was pointed at my head, I felt something similar.
+
+557
+00:41:54,700 --> 00:41:56,500
+I- I didn't want to die.
+
+558
+00:41:58,900 --> 00:42:01,600
+I know it's not the same with me, but...
+
+559
+00:42:02,200 --> 00:42:03,600
+Hey, dead is dead.
+
+560
+00:42:08,500 --> 00:42:09,200
+Yeah.
+
+561
+00:42:10,500 --> 00:42:12,000
+I suppose so.
+
+562
+00:42:17,400 --> 00:42:19,000
+Why don't you chuck some music on?
+
+563
+00:42:27,600 --> 00:42:31,000
+Elton John, huh? You heard me, didn't you?
+
+564
+00:42:42,200 --> 00:42:44,400
+Don't. Don't. Please, don't do that.
+
+565
+00:42:44,400 --> 00:42:45,900
+Whatever you say, Reginald.
+
+566
+00:43:02,300 --> 00:43:10,300
+<font color="#4096d1">破烂熊字幕组
+-==http://www.ragbear.com==-
+欢迎加入</font>
+

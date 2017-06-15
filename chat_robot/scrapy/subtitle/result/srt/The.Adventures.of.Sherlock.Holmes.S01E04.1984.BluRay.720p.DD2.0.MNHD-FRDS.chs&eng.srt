@@ -1,0 +1,3440 @@
+1
+00:00:02,966 --> 00:00:08,533
+<font color="#4096d1">
+-==破烂熊乐园倾情奉献==-
+本字幕仅供学习交流，严禁用于商业用途</font>
+
+2
+00:00:21,666 --> 00:00:26,533
+<font color="#4096d1">-==http://www.ragbear.com==-
+福尔摩斯探案集 104 孤身骑车人</font>
+
+3
+00:00:26,966 --> 00:00:31,533
+<font color="#4096d1">-=Keepfrds MNHD Team=- 校对: ptrpan</font>
+
+4
+00:02:39,534 --> 00:02:41,911
+华生      干嘛?
+Watson.        Yes.
+
+5
+00:02:42,036 --> 00:02:43,445
+来看
+Watch.
+
+6
+00:02:48,042 --> 00:02:51,420
+你即将目睹的化学反应
+The chemical reaction you are about to witness
+
+7
+00:02:52,246 --> 00:02:55,800
+会解决约翰・文森特・哈登先生
+will solve the mystery concerning the persecution
+
+8
+00:02:56,259 --> 00:02:58,469
+的迫害事件中的疑点
+of Mr. John Vincent Harden.
+
+9
+00:02:58,553 --> 00:02:59,887
+太好了
+Excellent,
+
+10
+00:02:59,971 --> 00:03:01,889
+那位烟草富翁 我该记笔记吗?
+the tobacco millionaire, shall I take notes?
+
+11
+00:03:01,973 --> 00:03:04,718
+不用 时间宽裕之时我会复述
+No, I will dictate in the fullness of time.
+
+12
+00:03:10,982 --> 00:03:13,734
+有位年轻女士想见你 福尔摩斯先生
+There's a young lady wishes to see you, Mr. Holmes.
+
+13
+00:03:13,860 --> 00:03:16,821
+我现在不方便见客!
+This is not a convenient moment!
+
+14
+00:03:16,904 --> 00:03:19,874
+她是位谈吐得体 货真价实的淑女
+She's very well spoken, a genuine lady.
+
+15
+00:03:19,874 --> 00:03:21,334
+毫无疑问
+No doubt.
+
+16
+00:03:21,617 --> 00:03:24,112
+并且坚持不懈
+And persistent, too.
+
+17
+00:03:24,996 --> 00:03:27,498
+赫德森太太 我也是个坚持不懈的人
+Mrs. Hudson, I, too, am extremely persistent,
+
+18
+00:03:27,582 --> 00:03:29,208
+尤其在工作的时候
+especially when I'm working.
+
+19
+00:03:29,333 --> 00:03:32,420
+是紧急事件 福尔摩斯先生
+It is a matter of great urgency, Mr. Holmes,
+
+20
+00:03:32,545 --> 00:03:36,048
+否则我也不会在星期六晚上打扰你
+or I would not be troubling you on a Saturday evening.
+
+21
+00:03:38,718 --> 00:03:40,002
+或许你该...
+Perhaps you could, uh, 
+
+22
+00:03:40,002 --> 00:03:42,411
+稍后再做化学反应 福尔摩斯
+delay your chemical reaction, Holmes.
+
+23
+00:03:42,805 --> 00:03:44,700
+好吧
+Very well.
+
+24
+00:03:50,605 --> 00:03:52,190
+请坐 怎么称呼?
+Do sit down, Miss, uh?
+
+25
+00:03:52,273 --> 00:03:53,649
+维尔莉特・史密斯
+Violet Smith.
+
+26
+00:03:53,774 --> 00:03:55,985
+华生医生
+Dr. Watson.
+
+27
+00:03:58,112 --> 00:03:59,530
+谢谢 赫德森太太
+Thank you Mrs. Hudson.
+
+28
+00:03:59,614 --> 00:04:02,950
+正如我说 一位货真价实的淑女
+A genuine lady, I told you.
+
+29
+00:04:04,368 --> 00:04:06,000
+噢 请坐
+Oh, please.
+
+30
+00:04:06,621 --> 00:04:10,958
+呃 谢谢 我坐那里就可以了
+Um, thank you, I'll be quite happy here.
+
+31
+00:04:12,168 --> 00:04:16,047
+好了 史密斯小姐
+Very well, Miss Smith,
+
+32
+00:04:16,130 --> 00:04:18,716
+你得将你的紧急事件告诉我们
+you must tell us your matter of great urgency.
+
+33
+00:04:18,799 --> 00:04:20,635
+这肯定与你的健康无关
+It is obviously not your health.
+
+34
+00:04:20,718 --> 00:04:24,096
+你热衷于骑车 所以肯定充满活力
+So ardent a bicyclist must be full of energy.
+
+35
+00:04:24,180 --> 00:04:25,973
+是的 我经常骑自行车
+Yes, I bicycle a good deal.
+
+36
+00:04:26,098 --> 00:04:28,935
+鞋底边缘的轻微起毛
+Slight roughening on the side of the soles
+
+37
+00:04:29,018 --> 00:04:31,479
+是与踏板摩擦造成的
+caused by the friction of the pedals.
+
+38
+00:04:31,604 --> 00:04:33,606
+棒极了 华生
+Excellent, Watson.
+
+39
+00:04:33,689 --> 00:04:36,025
+你鞋子上的痕迹
+The marks on your shoes.
+
+40
+00:04:36,830 --> 00:04:38,277
+哦 是的!
+Oh, yes!
+
+41
+00:04:38,402 --> 00:04:40,387
+即便是去很远的地方
+Even if I have to travel a long way,
+
+42
+00:04:40,387 --> 00:04:42,970
+我也会像今天一样将单车带上火车
+I take my bicycle on the train with me as I did today.
+
+43
+00:04:42,970 --> 00:04:46,069
+请原谅 但这是我的工作
+You will excuse me, but it is my business.
+
+44
+00:04:47,706 --> 00:04:48,944
+果然 我差点犯了个错误
+Yes, I nearly fell into the error
+
+45
+00:04:48,944 --> 00:04:51,504
+以为你是靠打字维生
+of supposing you earned a living by typewriting,
+
+46
+00:04:51,504 --> 00:04:53,459
+但很明显你靠音乐维生
+but of course, it is obviously music.
+
+47
+00:04:53,543 --> 00:04:57,713
+华生 看看勺状的指尖
+You will observe, Watson, the spatulate finger ends,
+
+48
+00:04:57,839 --> 00:05:01,225
+都是两种职业常见的
+which is common to both professions.
+
+49
+00:05:01,509 --> 00:05:05,346
+但她脸上有股灵性
+There is a spirituality about the face, however,
+
+50
+00:05:05,429 --> 00:05:07,431
+打字员所不具备的
+which the typewriter does not generate.
+
+51
+00:05:07,515 --> 00:05:09,976
+这位女士是音乐家
+This lady is a musician.
+
+52
+00:05:10,059 --> 00:05:13,312
+是的 福尔摩斯先生 我教音乐!
+Why, yes, Mr. Holmes, I teach music!
+
+53
+00:05:13,396 --> 00:05:16,607
+从你的脸色推测 你是在乡村教
+In the country, I presume, from your complexion.
+
+54
+00:05:16,691 --> 00:05:20,111
+在法恩罕附近 萨里的边界!
+Near Farnham on the borders of Surrey!
+
+55
+00:05:22,530 --> 00:05:27,493
+请容我解释拜访的原因
+But please, let me explain why I am here.
+
+56
+00:05:31,706 --> 00:05:36,502
+我是独女 父亲在几年前去世了
+I am an only child, and my father died some years ago.
+
+57
+00:05:36,586 --> 00:05:38,754
+他的名字和职业?
+His name and profession?
+
+58
+00:05:38,880 --> 00:05:40,047
+詹姆斯・史密斯
+James Smith,
+
+59
+00:05:40,173 --> 00:05:43,301
+他是旧皇家音乐厅的乐队指挥
+he conducted the orchestra at the old Imperial Theater.
+
+60
+00:05:43,384 --> 00:05:46,846
+啊 旧音乐厅 福尔摩斯
+Ah, the old Imperial, Holmes.
+
+61
+00:05:46,929 --> 00:05:48,389
+是的
+Yes.
+
+62
+00:05:48,472 --> 00:05:50,808
+请继续
+Please continue.
+
+63
+00:05:52,894 --> 00:05:57,398
+我和母亲举目无亲
+My mother and I were left without a relation in the world
+
+64
+00:05:57,523 --> 00:06:00,151
+只有一个叔叔 拉夫・史密斯 
+except for one uncle, Ralph Smith,
+
+65
+00:06:00,234 --> 00:06:03,571
+15年前去了非洲
+who went to Africa 15 years ago,
+
+66
+00:06:03,654 --> 00:06:05,573
+之后便杳无音信
+and we have not had a word from him since,
+
+67
+00:06:05,698 --> 00:06:08,993
+尽管我们寄过圣诞卡和照片
+despite our Christmas cards and photographs.
+
+68
+00:06:11,486 --> 00:06:13,956
+福尔摩斯先生 我得告诉你...
+Mr. Holmes, I have to tell you that-
+
+69
+00:06:14,081 --> 00:06:16,667
+我猜你想告诉我
+I think you wish to tell me
+
+70
+00:06:16,751 --> 00:06:19,545
+你和你母亲一贫如洗
+that you and your mother are very poor,
+
+71
+00:06:19,629 --> 00:06:23,591
+却无法掩盖你的优雅 端庄和才华
+not withstanding your obvious grace, dignity and talent.
+
+72
+00:06:23,716 --> 00:06:25,593
+我们曾经很穷
+We were very poor.
+
+73
+00:06:25,718 --> 00:06:26,719
+啊?
+Ah.
+
+74
+00:06:31,098 --> 00:06:34,435
+大约4个月前 在二月份
+About four months ago, in February,
+
+75
+00:06:34,560 --> 00:06:36,977
+我们得知《泰晤士报》上有则寻人启事
+we were told there was an advertisement in the Times,
+
+76
+00:06:36,977 --> 00:06:38,856
+询问我们的下落
+inquiring for our whereabouts.
+
+77
+00:06:38,940 --> 00:06:41,025
+你能想象我们有多激动
+You can imagine how excited we were,
+
+78
+00:06:41,108 --> 00:06:43,819
+以为有人给我们留了笔财产
+for we thought that someone had left us a fortune.
+
+79
+00:06:43,945 --> 00:06:45,613
+我立即去找了
+I went at once to the lawyers
+
+80
+00:06:45,738 --> 00:06:48,074
+报上所登的律师
+whose name was given in the paper.
+
+81
+00:06:52,745 --> 00:06:54,413
+这位是维尔莉特・史密斯
+Now, this is Miss Violet Smith.
+
+82
+00:06:54,497 --> 00:06:58,000
+律师给我引见了两位先生
+The solicitor introduced me to two men,
+
+83
+00:06:58,125 --> 00:07:01,420
+卡拉瑟斯先生和伍德利先生
+a Mr. Carruthers and a Mr. Woodley.
+
+84
+00:07:01,504 --> 00:07:04,674
+他们自南非回来拜访
+They were on a visit from South Africa.
+
+85
+00:07:14,559 --> 00:07:15,852
+我希望能告诉你
+I wish I could tell you 
+
+86
+00:07:15,852 --> 00:07:18,235
+你叔叔给你留下一大笔遗产
+your uncle left you a vast fortune,
+
+87
+00:07:18,271 --> 00:07:19,188
+但正如我所说...
+but as I said...
+
+88
+00:07:19,313 --> 00:07:22,483
+他死时贫困交加
+He died in extreme poverty.
+
+89
+00:07:22,608 --> 00:07:27,864
+然而 我不是空手而来
+However, I myself am not without means.
+
+90
+00:07:31,367 --> 00:07:34,120
+我和母亲从未寻求施舍
+My mother and I never sought charity.
+
+91
+00:07:34,245 --> 00:07:38,374
+不 我不是想施舍你们
+No, nor do I offer it.
+
+92
+00:07:40,293 --> 00:07:42,628
+请坐
+Please.
+
+93
+00:07:45,506 --> 00:07:48,009
+我想问你一个问题
+I have a question to ask of you.
+
+94
+00:07:48,134 --> 00:07:51,053
+你叔叔拉夫说你喜爱音乐
+Your Uncle Ralph said you were very musical,
+
+95
+00:07:51,179 --> 00:07:53,222
+你教音乐吗?
+Do you teach music?
+
+96
+00:07:53,347 --> 00:07:54,849
+是的
+Yes.
+
+97
+00:07:54,974 --> 00:07:57,336
+史密斯小姐 我是鳏夫
+Miss Smith, I am now a widower
+
+98
+00:07:57,336 --> 00:07:59,111
+有个10岁的女儿
+with a 10-year-old daughter.
+
+99
+00:07:59,111 --> 00:08:00,771
+小莎拉
+Young Sarah.
+
+100
+00:08:04,192 --> 00:08:06,277
+她需要位音乐老师
+She needs a music teacher.
+
+101
+00:08:06,360 --> 00:08:08,654
+因此 我不是来施舍你们的
+So, you see, I do not offer charity.
+
+102
+00:08:08,738 --> 00:08:12,450
+工作 他想给你份工作!
+A job, he wants to give you a job!
+
+103
+00:08:14,702 --> 00:08:19,290
+你住在伦敦的哪里 卡拉瑟斯先生?
+Whereabouts in London do you live, Mr. Carruthers?
+
+104
+00:08:19,373 --> 00:08:21,501
+我不住伦敦
+I don't.
+
+105
+00:08:21,626 --> 00:08:25,922
+我住在离法恩罕约6英里的萨里
+I live about six miles from Farnham, in Surrey,
+
+106
+00:08:26,047 --> 00:08:28,049
+的奇尔顿农庄里
+at Chiltern Grange.
+
+107
+00:08:28,174 --> 00:08:30,635
+我不能让母亲独居
+I couldn't possibly leave my mother on her own.
+
+108
+00:08:30,718 --> 00:08:34,597
+我每年付你100镑薪水
+I will pay you 100 pounds a year.
+
+109
+00:08:37,141 --> 00:08:38,726
+每年100镑?
+A hundred a year?
+
+110
+00:08:38,851 --> 00:08:39,936
+是的
+Yes.
+
+111
+00:08:40,061 --> 00:08:42,438
+我想大约是市价的两倍
+Approximately double the market price, I think.
+
+112
+00:08:42,563 --> 00:08:44,190
+噢 不止!
+Oh, at least!
+
+113
+00:08:44,315 --> 00:08:49,362
+你接受了 否则现在你不会在这里
+Which you obviously accepted, or you wouldn't be here now.
+
+114
+00:08:49,445 --> 00:08:50,446
+是的
+Yes.
+
+115
+00:08:50,571 --> 00:08:52,406
+我接受了这份工作
+I accepted the offer.
+
+116
+00:08:52,490 --> 00:08:54,166
+卡拉瑟斯先生同意
+Mr. Carruthers agreed
+
+117
+00:08:54,166 --> 00:08:56,911
+我每逢周末回城探望母亲
+that I should go home every weekend to my mother in town.
+
+118
+00:08:57,036 --> 00:08:59,330
+那现在是你回伦敦的周末之一?
+So this is one of your weekend visits to London?
+
+119
+00:08:59,413 --> 00:09:01,524
+没错
+It is.
+
+120
+00:09:02,250 --> 00:09:05,378
+谈谈你在奇尔顿农庄的生活
+Tell me about your life at Chiltern Grange.
+
+121
+00:09:07,588 --> 00:09:11,843
+刚开始 一切都很完美
+For a while, it was quite perfect.
+
+122
+00:09:12,226 --> 00:09:16,180
+每个星期一早晨我搭火车到法恩罕
+Every Monday morning I would take the train to Farnham
+
+123
+00:09:16,264 --> 00:09:20,226
+然后从车站骑车到农庄
+and then bicycle from the station to the house.
+
+124
+00:09:42,748 --> 00:09:45,585
+小女孩名叫莎拉
+The little girl's name was Sarah,
+
+125
+00:09:46,169 --> 00:09:48,087
+她让人非常愉快
+and she was delightful,
+
+126
+00:09:48,171 --> 00:09:51,308
+也是位好学生
+as well as being a very good pupil.
+
+127
+00:09:54,510 --> 00:09:56,804
+有很大进步 莎拉
+That was very much better, Sarah.
+
+128
+00:09:56,929 --> 00:09:58,598
+我能再弹一次吗?
+May I try it again?
+
+129
+00:09:58,723 --> 00:10:01,976
+当然 我们坐在这正是为了如此
+Of course, that's why we're here.
+
+130
+00:10:04,812 --> 00:10:08,733
+卡拉瑟斯先生对我的工作很满意
+Mr. Carruthers was appreciative of my work,
+
+131
+00:10:08,816 --> 00:10:12,737
+而且是位友好周到的主人
+and an extremely kind and considerate host.
+
+132
+00:10:14,447 --> 00:10:16,413
+听起来很美好
+Sounds idyllic.
+
+133
+00:10:16,532 --> 00:10:17,950
+是的
+It was.
+
+134
+00:10:19,327 --> 00:10:21,672
+是什么破坏了这份美好?
+What happened to spoil it?
+
+135
+00:10:22,997 --> 00:10:24,465
+一位访客
+A visitor.
+
+136
+00:10:24,790 --> 00:10:26,292
+伍德利先生
+Mr. Woodley.
+
+137
+00:10:26,876 --> 00:10:29,462
+你怎么猜到的 福尔摩斯先生?
+However did you guess, Mr. Holmes?
+
+138
+00:10:29,587 --> 00:10:33,667
+史密斯小姐 我从不猜测
+Miss Smith, I never guess.
+
+139
+00:10:35,593 --> 00:10:37,804
+谈谈他的来访
+Tell me about his visit.
+
+140
+00:10:39,514 --> 00:10:43,017
+他过来呆一个星期
+He arrived and was to stay for a week.
+
+141
+00:10:45,186 --> 00:10:48,523
+对我来说如同三秋
+But to me it seemed like three months.
+
+142
+00:10:48,648 --> 00:10:53,094
+那可恨的红胡子!
+Oh, that odious red mustache!
+
+143
+00:11:01,577 --> 00:11:03,871
+一天晚饭后
+One evening after dinner,
+
+144
+00:11:03,996 --> 00:11:06,123
+卡拉瑟斯先生要离席片刻
+Mr. Carruthers had to leave us for a minute
+
+145
+00:11:06,207 --> 00:11:07,978
+去门外见一位访客
+to see somebody at the door.
+
+146
+00:11:09,043 --> 00:11:11,346
+有位绅士想见你 先生
+A gentleman to see you, sir.
+
+147
+00:11:19,178 --> 00:11:20,995
+失陪一下
+Will you excuse me?
+
+148
+00:12:00,469 --> 00:12:03,223
+这下可好多了
+That's better.
+
+149
+00:12:04,307 --> 00:12:07,135
+什么好多了?
+Better, in what way?
+
+150
+00:12:07,560 --> 00:12:11,274
+没有老头在这碍手碍脚
+It's better to get the old folk out of the way.
+
+151
+00:12:13,900 --> 00:12:16,227
+我不认为卡拉瑟斯先生老
+I don't regard Mr. Carruthers as old.
+
+152
+00:12:16,277 --> 00:12:19,447
+是啊 但也不如我俩
+Oh, yes, but he isn't young...
+
+153
+00:12:19,572 --> 00:12:21,240
+那般年轻
+like us.
+
+154
+00:12:21,365 --> 00:12:24,766
+我希望你别对着我喷烟 伍德利先生
+I do wish you wouldn't blow smoke in my face, Mr. Woodley.
+
+155
+00:12:25,119 --> 00:12:27,766
+我可不信
+Oh, I don't believe that for a moment.
+
+156
+00:12:29,040 --> 00:12:30,670
+不信什么?
+What don't you believe?
+
+157
+00:12:30,833 --> 00:12:33,753
+当女人说不希望你做什么
+When women say they wish you wouldn't do something,
+
+158
+00:12:33,836 --> 00:12:36,297
+她们通常表里不一
+it generally means the exact opposite.
+
+159
+00:12:36,297 --> 00:12:38,925
+我没有表里不一!
+I mean precisely what I say!
+
+160
+00:12:39,050 --> 00:12:41,761
+伍德利先生 你能不能别烦我?
+Mr. Woodley, will you please leave me alone!
+
+161
+00:12:41,844 --> 00:12:43,054
+不
+No.
+
+162
+00:12:43,137 --> 00:12:45,640
+实话和你说 我会烦着你
+To tell you the truth, I won't leave you alone,
+
+163
+00:12:45,723 --> 00:12:49,435
+直到我说出真心话
+not until I've said what's in my heart.
+
+164
+00:12:49,560 --> 00:12:50,853
+什么意思?
+Whatever do you mean?
+
+165
+00:12:50,978 --> 00:12:52,855
+我不懂繁文缛节
+I'm not very well up on the social graces,
+
+166
+00:12:52,980 --> 00:12:58,819
+但我愿意学 只要你愿意教我
+but I'm prepared to learn, if you're prepared to teach me.
+
+167
+00:12:58,945 --> 00:13:01,822
+这真荒谬!
+Oh, this is absurd!
+
+168
+00:13:01,906 --> 00:13:05,451
+一点也不荒谬 我在跟你求婚!
+It isn't absurd! I'm asking you to marry me!
+
+169
+00:13:05,576 --> 00:13:09,330
+我是诚心诚意的
+I mean it, it's from the heart.
+
+170
+00:13:09,455 --> 00:13:10,873
+钱不是问题
+Money isn't a problem,
+
+171
+00:13:10,873 --> 00:13:13,626
+我在南非混得很好
+I did very well out in South Africa.
+
+172
+00:13:13,709 --> 00:13:16,295
+我可以给你更好的生活
+Whatever you are accustomed to, I can give you better,
+
+173
+00:13:16,379 --> 00:13:18,214
+比你现在的要好
+better that you're accustomed to;
+
+174
+00:13:18,339 --> 00:13:20,668
+珠宝 钻石
+jewelry, diamonds.
+
+175
+00:13:20,842 --> 00:13:25,555
+如果你想要钻石 我可以给你钻石
+You want diamonds, oh, I can give you diamonds.
+
+176
+00:13:25,680 --> 00:13:28,766
+我不要钻石!
+I don't want diamonds!
+
+177
+00:13:29,809 --> 00:13:32,186
+好好考虑一下 我不会催你
+Oh, you think about it. I won't rush you.
+
+178
+00:13:32,270 --> 00:13:35,257
+我已经考虑过了
+I've thought about it,
+
+179
+00:13:35,982 --> 00:13:39,193
+这个想法太可笑了
+and the idea is ludicrous.
+
+180
+00:13:39,318 --> 00:13:41,572
+你不能责怪我的争取!
+Well, you can't blame me for trying!
+
+181
+00:13:42,697 --> 00:13:45,324
+你非常美
+You're very beautiful.
+
+182
+00:13:45,408 --> 00:13:49,662
+为了消除芥蒂
+Listen, just to show there are no hard feelings,
+
+183
+00:13:49,745 --> 00:13:52,206
+让我亲一下吧
+what about a little kiss to be going on with, hmm,
+
+184
+00:13:52,331 --> 00:13:53,908
+就在脸颊轻吻一下
+just a peck on the cheek.
+
+185
+00:13:53,908 --> 00:13:55,676
+伍德利先生 请你住手!
+Mr. Woodley, will you please stop it!
+
+186
+00:13:55,676 --> 00:13:57,670
+我说过女人表里不一
+Oh, I told you before about women who say stop it.
+
+187
+00:13:57,670 --> 00:13:58,254
+不!
+No!
+
+188
+00:13:58,379 --> 00:14:00,506
+越挣扎 越有趣
+The more they struggle, the more fun it is.
+
+189
+00:14:00,590 --> 00:14:03,201
+卡拉瑟斯先生 让他住手!
+Mr. Carruthers, will you stop him!
+
+190
+00:14:12,268 --> 00:14:14,103
+滚出我家!
+Get out of this house!
+
+191
+00:14:14,228 --> 00:14:15,571
+好啊!
+All right!
+
+192
+00:14:15,897 --> 00:14:17,732
+我走
+I'm going.
+
+193
+00:14:17,857 --> 00:14:21,000
+我对老头可没有兴趣
+I'm not interested in old men,
+
+194
+00:14:21,700 --> 00:14:25,114
+还有老处女!
+and old maids!
+
+195
+00:14:31,078 --> 00:14:33,308
+我对刚刚发生的一切
+I can only offer you my most sincere apologies
+
+196
+00:14:33,308 --> 00:14:35,126
+表示深深的歉意
+for what has happened.
+
+197
+00:14:48,346 --> 00:14:52,558
+如果我向你保证这种事再不会发生
+If I give you my assurance that it will not happen again,
+
+198
+00:14:52,642 --> 00:14:57,642
+你能为了我女儿留下来吗?
+for my daughter's sake, will you stay?
+
+199
+00:15:01,025 --> 00:15:04,871
+是的 我会留下来
+Yes, I will stay.
+
+200
+00:15:05,655 --> 00:15:09,242
+谢谢 维尔莉特
+Thank you, Violet.
+
+201
+00:15:21,087 --> 00:15:25,424
+自此之后我再没见过伍德利先生
+Mr. Woodley left the house and I have not seen him since.
+
+202
+00:15:25,508 --> 00:15:27,444
+无赖!
+The blackguard!
+
+203
+00:15:32,473 --> 00:15:34,058
+卡拉瑟斯先生的举止
+Has there been any change
+
+204
+00:15:34,141 --> 00:15:37,010
+有什么改变吗?
+in the behavior of Mr. Carruthers?
+
+205
+00:15:38,145 --> 00:15:45,611
+没有 他一如既往 周到而彬彬有礼
+No, he continues to be polite and considerate and courteous.
+
+206
+00:15:45,695 --> 00:15:48,281
+史密斯小姐 请继续说
+Now, Miss Smith, please, please continue.
+
+207
+00:15:48,906 --> 00:15:53,786
+的确 还有一件事
+Yes, there is something else.
+
+208
+00:15:53,870 --> 00:15:58,107
+也许是我多心
+Oh, it may be a mere fancy of mine,
+
+209
+00:15:59,332 --> 00:16:02,170
+但似乎卡拉瑟斯先生
+but it seems to me that Mr. Carruthers
+
+210
+00:16:02,295 --> 00:16:04,297
+对我有意思
+shows a great deal of interest in me.
+
+211
+00:16:04,422 --> 00:16:09,068
+他什么也没说 他是位很好的绅士
+Oh, he has never said anything, he is a perfect gentleman,
+
+212
+00:16:09,552 --> 00:16:13,764
+但一个姑娘心里总明白
+but, a girl always knows.
+
+213
+00:16:13,848 --> 00:16:15,989
+我相信
+So I believe.
+
+214
+00:16:16,392 --> 00:16:17,059
+而我推定
+And I assume
+
+215
+00:16:17,185 --> 00:16:19,604
+你对此没有予以任何
+that these feelings that you sense from Mr. Carruthers
+
+216
+00:16:19,687 --> 00:16:21,773
+感情上的回报吧?
+are not reciprocated?
+
+217
+00:16:23,176 --> 00:16:27,236
+他是位友好慷慨的雇主
+He is a kind and generous employer,
+
+218
+00:16:27,361 --> 00:16:29,563
+但我已经订婚了
+but I am already engaged.
+
+219
+00:16:29,563 --> 00:16:33,492
+这位幸运的男士是谁?
+Oh, the name of this very fortunate young man is?!
+
+220
+00:16:33,576 --> 00:16:35,900
+西里尔・莫尔顿
+Cyril Morton.
+
+221
+00:16:36,037 --> 00:16:38,047
+他是位电气工程师
+He's an electrical engineer
+
+222
+00:16:38,047 --> 00:16:41,652
+在考文垂的米德兰电气公司工作
+with the Midland Electric Company in Coventry.
+
+223
+00:16:42,877 --> 00:16:45,738
+我们要在夏末结婚
+We're to be married at the end of the summer.
+
+224
+00:16:46,000 --> 00:16:47,933
+祝你幸福
+We wish you joy.
+
+225
+00:16:49,217 --> 00:16:50,885
+谢谢
+Thank you.
+
+226
+00:16:51,010 --> 00:16:54,305
+然而我很困惑你为什么会来找我
+Yet, I am puzzled as to why you have chosen to consult me.
+
+227
+00:16:54,388 --> 00:16:56,978
+你说的事的确引人入胜
+It is an intriguing story, to be sure,
+
+228
+00:16:57,183 --> 00:17:02,188
+但我感觉到你的恐惧 却不知其因
+but I sense you are frightened, and do not understand why.
+
+229
+00:17:02,271 --> 00:17:05,107
+你看来有足够的自我保护能力
+You seem well capable of protecting yourself.
+
+230
+00:17:05,816 --> 00:17:11,000
+求求你 帮帮我 福尔摩斯先生!
+Please, help me, Mr. Holmes!
+
+231
+00:17:14,242 --> 00:17:15,920
+怎么了?
+What is it?
+
+232
+00:17:17,745 --> 00:17:20,182
+我被跟踪了
+I am being followed.
+
+233
+00:17:24,085 --> 00:17:28,589
+被谁跟踪?
+Followed, by whom?
+
+234
+00:17:28,714 --> 00:17:32,552
+一个骑单车的人
+A cyclist.
+
+235
+00:17:32,635 --> 00:17:34,470
+每个星期六早晨
+Every Saturday morning
+
+236
+00:17:34,595 --> 00:17:37,348
+我从农庄骑车到法恩罕车站
+I bicycle from the house to Farnham Station
+
+237
+00:17:37,431 --> 00:17:40,518
+搭12点22分的火车进城
+to catch the 12:22 to town.
+
+238
+00:17:40,601 --> 00:17:44,897
+有段路程人烟稀少
+There is one very quiet and lonely stretch of road
+
+239
+00:17:45,022 --> 00:17:48,150
+路的一旁是查灵顿石南丛
+that lies between Charlington Heath on the one hand
+
+240
+00:17:48,276 --> 00:17:51,153
+另一旁是查灵顿庄园树林
+and the woods of Charlington Hall on the other.
+
+241
+00:17:51,279 --> 00:17:54,574
+两周前的今天 我经过那条路
+Two weeks ago today, I was passing this place
+
+242
+00:17:54,657 --> 00:17:59,787
+偶然回头时 见到一个男人
+when I chanced to look back and saw a man,
+
+243
+00:17:59,912 --> 00:18:02,151
+也骑着自行车
+also on a bicycle.
+
+244
+00:18:05,334 --> 00:18:09,380
+之后星期一回去时也见到他
+The following Monday when I returned he was there again.
+
+245
+00:18:09,463 --> 00:18:11,007
+我明白了
+I see.
+
+246
+00:18:11,132 --> 00:18:15,219
+上个星期六和星期一同样如此
+And again last Saturday, and again last Monday.
+
+247
+00:18:15,303 --> 00:18:17,587
+你有跟你的雇主提过吗?
+Have you mentioned this to your employer?
+
+248
+00:18:17,722 --> 00:18:19,015
+提过
+Yes.
+
+249
+00:18:19,140 --> 00:18:21,392
+卡拉瑟斯先生非常担心
+Mr. Carruthers was very concerned,
+
+250
+00:18:21,475 --> 00:18:23,360
+并订购了马和轻便马车
+and has ordered a horse and trap
+
+251
+00:18:23,360 --> 00:18:27,106
+这样我就不必独自上路
+so that in the future I should not travel unaccompanied.
+
+252
+00:18:27,231 --> 00:18:29,150
+但他们还没到
+But they've not yet arrived.
+
+253
+00:18:29,233 --> 00:18:30,845
+今天早上呢?
+And this morning?
+
+254
+00:18:32,528 --> 00:18:34,572
+他又跟踪我了
+He was following me again.
+
+255
+00:18:41,287 --> 00:18:44,957
+我减速 他也减速
+I slowed down, but he did the same.
+
+256
+00:18:45,082 --> 00:18:51,088
+我停车 他也停车
+Then I stopped completely, but he did the same.
+
+257
+00:18:51,172 --> 00:18:56,252
+因此我心生一计来对付他
+So, I laid a trap for him.
+
+258
+00:19:10,441 --> 00:19:13,152
+这条路上有处急转弯
+There is a sharp turning of the road,
+
+259
+00:19:13,236 --> 00:19:15,196
+我快速转弯
+and I pedaled very quickly towards this
+
+260
+00:19:15,321 --> 00:19:17,865
+然后停车等着
+and then stopped and waited.
+
+261
+00:19:24,705 --> 00:19:27,166
+但他就这么凭空消失了
+But he seemed to disappear into thin air.
+
+262
+00:19:27,250 --> 00:19:29,436
+你能形容一下这名男子吗?
+Can you describe this man?
+
+263
+00:19:29,919 --> 00:19:32,158
+我知道你只远远见过他
+I realize that you've only seen him from a distance.
+
+264
+00:19:32,158 --> 00:19:33,389
+是的
+Yes.
+
+265
+00:19:33,714 --> 00:19:37,844
+他穿着深色外衣 戴着深色眼镜
+He wears a dark suit, dark spectacles,
+
+266
+00:19:37,969 --> 00:19:39,345
+蓄着络腮胡
+and he has a beard.
+
+267
+00:19:39,428 --> 00:19:41,013
+年不年轻?
+Young, old?
+
+268
+00:19:41,097 --> 00:19:44,684
+大概是中年人
+He's about middle-aged.
+
+269
+00:19:44,767 --> 00:19:48,145
+看看我有没有弄错地形
+Now, let me see if I have the geography correct.
+
+270
+00:19:48,229 --> 00:19:52,976
+这是条路 这边有个急弯
+Here is the road, with a sharp bend in it here.
+
+271
+00:19:53,401 --> 00:19:56,529
+这边是查灵顿石南丛
+On this side, Charlington Heath,
+
+272
+00:19:56,654 --> 00:19:59,532
+另一边是查灵顿庄园树林
+and on the other, the woods of Charlington Hall.
+
+273
+00:19:59,532 --> 00:20:01,868
+你在弯道等了他多久?
+How long did you wait for him here around the bend?
+
+274
+00:20:01,951 --> 00:20:03,411
+不超过2分钟
+Oh, no more than two minutes.
+
+275
+00:20:03,536 --> 00:20:06,164
+因此他不可能原路返回
+So he could not have retreated back down the road.
+
+276
+00:20:06,247 --> 00:20:07,707
+周围有岔路吗?
+Are there any side roads?
+
+277
+00:20:07,790 --> 00:20:09,792
+这段路没有
+None along this stretch.
+
+278
+00:20:09,917 --> 00:20:12,378
+会不会是往石南丛小路走了?
+Could he have taken a footpath across the heath?
+
+279
+00:20:12,503 --> 00:20:15,006
+石南丛十分平整荒芜
+Oh, the heath is totally flat and bleak.
+
+280
+00:20:15,089 --> 00:20:17,258
+我想如果那样我能看到他
+I think I would have noticed him.
+
+281
+00:20:17,258 --> 00:20:18,885
+因此 根据排除推理法
+So, by a process of exclusion,
+
+282
+00:20:18,968 --> 00:20:22,930
+得出结论 他走进了
+we arrive at the fact that he made his way towards
+
+283
+00:20:23,055 --> 00:20:23,764
+查灵顿庄园树林
+Charlington Hall.
+
+284
+00:20:23,890 --> 00:20:26,475
+卡拉瑟斯先生如何谋生?
+Now how does Mr. Carruthers make his living?
+
+285
+00:20:26,601 --> 00:20:28,795
+他非常富有
+Oh, he's a rich man.
+
+286
+00:20:28,978 --> 00:20:31,739
+但却没有马车或马
+But no carriages or horses.
+
+287
+00:20:32,023 --> 00:20:34,859
+但起码他非常富裕
+Well, at least he's very well off.
+
+288
+00:20:34,942 --> 00:20:38,404
+他每周进城两三次
+He goes into the city two or three times a week,
+
+289
+00:20:38,487 --> 00:20:42,700
+有时会提起他的金矿股票
+and he sometimes refers to his gold shares.
+
+290
+00:20:42,783 --> 00:20:43,784
+我明白了
+Yes, I see.
+
+291
+00:20:43,910 --> 00:20:45,248
+你必须马上告诉我
+You must let me know immediately
+
+292
+00:20:45,248 --> 00:20:47,497
+任何新发现的情况
+if there are any fresh developments.
+
+293
+00:20:47,622 --> 00:20:49,499
+眼下我非常忙
+I am extremely busy just now,
+
+294
+00:20:49,624 --> 00:20:53,252
+但我会抽空调查你的案子
+but I will find time to make inquiries into your case.
+
+295
+00:20:53,377 --> 00:20:55,129
+谢谢 福尔摩斯先生
+Thank you, Mr. Holmes.
+
+296
+00:20:55,254 --> 00:20:59,717
+与此同时 不要没通知我就采取行动
+In the meantime, take no step without letting me know.
+
+297
+00:21:05,139 --> 00:21:08,976
+我相信我们会给你带来好消息的
+I'm sure we shall have nothing but good news for you.
+
+298
+00:21:09,101 --> 00:21:12,572
+希望如此 华生医生
+I do hope so, Dr. Watson.
+
+299
+00:21:19,820 --> 00:21:21,280
+非常可爱的女孩
+Very lovely girl.
+
+300
+00:21:21,364 --> 00:21:22,448
+是的
+Yes.
+
+301
+00:21:22,532 --> 00:21:24,700
+根据自然规律
+And it is part of the settled order of nature
+
+302
+00:21:24,700 --> 00:21:26,410
+这样的女孩应该不乏追求者
+that such a girl should have followers,
+
+303
+00:21:26,494 --> 00:21:30,790
+不过没人会选荒僻村路骑车追求
+but for choice, not on bicycles in lonely country roads.
+
+304
+00:21:30,915 --> 00:21:34,527
+你真认为她身处险境吗 福尔摩斯?
+You really think she may be in some danger, Holmes?
+
+305
+00:21:35,336 --> 00:21:36,672
+是的
+Oh, yes.
+
+306
+00:21:40,508 --> 00:21:41,425
+接下来的星期一
+On the following Monday,
+
+307
+00:21:41,509 --> 00:21:43,010
+福尔摩斯因为工作
+Holmes found that he had business
+
+308
+00:21:43,010 --> 00:21:44,996
+而逗留伦敦
+which detained him in London,
+
+309
+00:21:45,179 --> 00:21:48,808
+因此他派我搭早班车前往法恩罕
+so, he dispatched me on the early train to Farnham
+
+310
+00:21:48,891 --> 00:21:51,143
+以便观察史密斯小姐
+that I might observe Miss Smith's passage
+
+311
+00:21:51,143 --> 00:21:53,838
+经过查灵顿庄园所走的路
+past Charlington Hall.
+
+312
+00:21:54,021 --> 00:21:57,984
+那里正如她所描述的一般
+The setting was just as she had described,
+
+313
+00:21:58,109 --> 00:22:01,070
+庄园被茂密的树林环绕
+heavily wooded on the side bordering the hall,
+
+314
+00:22:01,195 --> 00:22:04,031
+路的另一边则一片荒芜
+and utterly exposed on the other.
+
+315
+00:22:04,115 --> 00:22:10,072
+我选好唯一的藏身处 等待着
+I selected the only available cover, and waited.
+
+316
+00:25:54,971 --> 00:25:57,723
+华生 你在浪费时间
+Watson, you have wasted your time.
+
+317
+00:25:57,807 --> 00:25:59,019
+我以为我做得很好
+I thought I did rather well.
+
+318
+00:25:59,019 --> 00:26:01,227
+不 你的藏身处选得很糟糕
+No, your hiding place was ill-chosen.
+
+319
+00:26:01,310 --> 00:26:02,359
+你应该藏在
+You should have been in the bracken
+
+320
+00:26:02,359 --> 00:26:04,110
+路另一边的灌木丛中
+on the other side of the road.
+
+321
+00:26:04,230 --> 00:26:06,407
+那样就可以近距离观察
+Then that way you would have had a close view
+
+322
+00:26:06,407 --> 00:26:09,235
+那位迷人的孤身骑车人
+of this fascinating solitary cyclist.
+
+323
+00:26:09,360 --> 00:26:10,278
+谢谢
+Thank you.
+
+324
+00:26:10,361 --> 00:26:12,530
+而你却藏在100码之外
+As it is, you were a hundred yards away
+
+325
+00:26:12,613 --> 00:26:14,031
+能告诉我的情况甚至比
+and can tell me even less
+
+326
+00:26:14,115 --> 00:26:16,492
+上周六史密斯小姐说的还少
+than Miss Smith reported to us last Saturday.
+
+327
+00:26:16,617 --> 00:26:19,245
+你说他伏身在车把上?
+You describe him as bending low over the handle bar?
+
+328
+00:26:19,328 --> 00:26:20,805
+是的 低伏着
+Yes, quite low.
+
+329
+00:26:21,035 --> 00:26:22,331
+又是为了隐藏面目
+Thus concealment again,
+
+330
+00:26:22,456 --> 00:26:25,668
+对藏那么远的你来说很有效
+which in your case worked perfectly.
+
+331
+00:26:27,587 --> 00:26:31,507
+你做得非常糟糕
+Oh know, you really have done remarkably badly.
+
+332
+00:26:31,632 --> 00:26:32,808
+他走进庄园
+He goes back to the Hall
+
+333
+00:26:32,808 --> 00:26:34,618
+你却一路跑回伦敦
+and you come all the way back to London
+
+334
+00:26:34,618 --> 00:26:35,618
+去找房屋经纪人
+to call on a house agent.
+
+335
+00:26:35,803 --> 00:26:37,847
+我查到了想要的信息
+Well, I found the information I was seeking.
+
+336
+00:26:37,972 --> 00:26:39,273
+你找到个叫威廉森的名字
+You found the name Williamson,
+
+337
+00:26:39,273 --> 00:26:40,308
+对我来说毫无用处
+which conveys nothing to my mind.
+
+338
+00:26:40,433 --> 00:26:42,059
+我们得知他年老以及正派
+Well, we know he's elderly and respectable.
+
+339
+00:26:42,143 --> 00:26:44,270
+因此 不可能是那位精力充沛
+And therefore, unlikely to be the energetic cyclist
+
+340
+00:26:44,270 --> 00:26:47,023
+能快速逃开矫健年轻女孩的骑车人
+that sprints away from that athletic young girl.
+
+341
+00:26:47,148 --> 00:26:48,399
+那我该怎么做?
+Well, what should I have done?
+
+342
+00:26:48,399 --> 00:26:50,026
+去最近的小酒馆
+Gone to the nearest public house.
+
+343
+00:26:50,151 --> 00:26:52,320
+那儿是乡村流言蜚语的中心
+That is the center of country gossip.
+
+344
+00:26:52,445 --> 00:26:53,696
+他们会告诉你庄园内
+They would have given you every name
+
+345
+00:26:53,821 --> 00:26:55,781
+从主人到帮厨女佣的名字
+from the master to the scullery maid.
+
+346
+00:26:55,865 --> 00:26:59,660
+而不是你告诉我的...威廉森
+Instead of which, you give me-Williamson.
+
+347
+00:27:09,003 --> 00:27:12,465
+从你的远行中我们得知
+So, what have we gained by your expedition.
+
+348
+00:27:12,590 --> 00:27:14,342
+那女孩所讲的是真事
+The fact that the girl's story is true;
+
+349
+00:27:14,467 --> 00:27:16,135
+这我从未怀疑
+I never doubted that.
+
+350
+00:27:16,260 --> 00:27:18,513
+骑车人和庄园有关联
+That there is a connection between the cyclist and the Hall;
+
+351
+00:27:18,513 --> 00:27:20,306
+这我也从未怀疑过
+I never doubted that, either.
+
+352
+00:27:20,431 --> 00:27:24,581
+庄园租给一个叫威廉森的人
+The Hall is tenanted by a man called Williamson.
+
+353
+00:27:25,686 --> 00:27:28,631
+谁敢保证就是他?
+Who is the better for that?
+
+354
+00:27:29,065 --> 00:27:32,527
+我明天就去小酒馆
+I shall go back tomorrow and visit the public house.
+
+355
+00:27:32,610 --> 00:27:34,737
+不 不要草率行事
+No, my dear sir, do not commit yourself to rashness
+
+356
+00:27:34,862 --> 00:27:38,074
+因为你暂时很消沉
+because you are temporarily depressed.
+
+357
+00:27:38,199 --> 00:27:41,661
+星期六前做任何事都是徒劳
+We can do nothing useful until Saturday.
+
+358
+00:27:43,996 --> 00:27:47,252
+我真的做得很糟糕?
+Did I really do remarkably badly?
+
+359
+00:27:49,377 --> 00:27:50,920
+没错
+Yes.
+
+360
+00:28:08,729 --> 00:28:10,273
+非常美
+Very beautiful.
+
+361
+00:28:10,398 --> 00:28:11,691
+谢谢 卡拉瑟斯先生
+Thank you, Mr. Carruthers.
+
+362
+00:28:11,976 --> 00:28:13,734
+这是首新曲子
+It is a new piece.
+
+363
+00:28:13,818 --> 00:28:15,697
+我得多加练习
+I need to practice it more.
+
+364
+00:28:16,571 --> 00:28:18,699
+我不是指音乐
+No, I don't mean the music.
+
+365
+00:28:22,493 --> 00:28:27,291
+维尔莉特 我有个问题想问你
+Violet, I have a question to ask you.
+
+366
+00:28:33,796 --> 00:28:35,106
+早上好 福尔摩斯
+Morning, Holmes.
+
+367
+00:28:35,590 --> 00:28:38,384
+维尔莉特・史密斯小姐的来信
+A letter from Miss Violet Smith.
+
+368
+00:28:38,467 --> 00:28:41,929
+卡拉瑟斯向她求婚了
+Now Carruthers has proposed marriage to her.
+
+369
+00:28:42,013 --> 00:28:42,889
+卡拉瑟斯!
+Carruthers!
+
+370
+00:28:42,972 --> 00:28:46,475
+男士有求婚的权利 华生
+Gentlemen are permitted to propose marriage, Watson.
+
+371
+00:28:46,601 --> 00:28:48,936
+他一定不知道西里尔
+Of course he didn't know about Cyril.
+
+372
+00:28:50,061 --> 00:28:51,480
+你要去法恩罕?
+Are you going to Farnham?
+
+373
+00:28:51,606 --> 00:28:54,442
+我想去验证我的一两个设想
+I want to test one or two theories which I have formed.
+
+374
+00:28:54,525 --> 00:28:55,651
+我要一起去吗?
+Shall I come with you?
+
+375
+00:28:55,776 --> 00:29:00,406
+不用 那样既无用又多余
+No, that will be neither useful nor necessary.
+
+376
+00:29:02,325 --> 00:29:03,743
+去最近的小酒馆
+Try the nearest public house,
+
+377
+00:29:03,826 --> 00:29:06,287
+那儿是乡村流言蜚语的中心
+always a good center for country gossip.
+
+378
+00:29:06,370 --> 00:29:11,492
+谢谢 华生 很好的提议!
+Thank you, Watson, capital notion!
+
+379
+00:30:24,073 --> 00:30:26,284
+下午好 店主
+Ah, Good afternoon, Landlord.
+
+380
+00:30:26,367 --> 00:30:29,287
+麻烦能来半品脱当地啤酒吗?
+May I have half a pint of your local ale, please?
+
+381
+00:30:29,370 --> 00:30:31,364
+当然可以 先生
+Certainly, sir.
+
+382
+00:30:38,379 --> 00:30:40,947
+给      谢谢
+Here you are.        Thank you.
+
+383
+00:30:41,883 --> 00:30:43,428
+零钱你留着吧
+You may keep the change.
+
+384
+00:30:45,553 --> 00:30:49,348
+您非常慷慨 先生 但不行
+That's most generous of you, sir, but I couldn't.
+
+385
+00:30:49,473 --> 00:30:51,434
+我没理由接受您的慷慨给予
+I haven't done anything to warrant such generosity.
+
+386
+00:30:51,559 --> 00:30:53,311
+我正打算给你一个理由
+I'm about to give you the opportunity.
+
+387
+00:30:53,394 --> 00:30:54,520
+我需要一些信息
+I need some information.
+
+388
+00:30:54,645 --> 00:30:57,356
+我不爱瞎扯淡 先生
+Oh, I'm not one for idle gossip, sir.
+
+389
+00:30:57,440 --> 00:31:00,201
+我也是 我更喜欢事实
+Neither am I, I prefer facts.
+
+390
+00:31:00,526 --> 00:31:03,104
+跟我谈谈查灵顿庄园的人
+Tell me about the people at Charlington Hall.
+
+391
+00:31:03,488 --> 00:31:05,532
+你是指威廉森先生吗 先生?
+You mean Mr. Williamson, sir?
+
+392
+00:31:06,157 --> 00:31:07,158
+是的
+Yes.
+
+393
+00:31:07,241 --> 00:31:10,185
+他...他刚走不到五分钟
+Well, he-he was in here not more than five minutes ago.
+
+394
+00:31:10,185 --> 00:31:11,078
+你们错过了
+You just missed him.
+
+395
+00:31:11,078 --> 00:31:12,079
+跟我说说这个威廉森先生
+Tell me about Mr. Williamson.
+
+396
+00:31:12,205 --> 00:31:14,290
+他是位年老及正派的绅士吗?
+Is he an elderly, respectable gentleman?
+
+397
+00:31:14,415 --> 00:31:16,318
+他上年纪了 这毫无疑问
+Oh, he's elderly, no doubt.
+
+398
+00:31:17,043 --> 00:31:19,879
+我决不会在背后说人坏话
+Far be it from me to speak ill of people behind their backs,
+
+399
+00:31:19,962 --> 00:31:21,968
+但我不确定他是否为人正派
+but I'm none too sure about respectable.
+
+400
+00:31:22,048 --> 00:31:22,882
+是吗?
+Really?
+
+401
+00:31:22,965 --> 00:31:26,136
+据说他以前是位牧师
+He is an ex-clergymen, I reckon.
+
+402
+00:31:26,761 --> 00:31:27,887
+以前?
+Ex?
+
+403
+00:31:28,012 --> 00:31:29,055
+似乎是
+Apparently.
+
+404
+00:31:29,180 --> 00:31:31,224
+他被除名了
+He was struck off,
+
+405
+00:31:31,307 --> 00:31:33,555
+或什么牧师会有的处分
+or whatever it is happens to clergymen.
+
+406
+00:31:33,555 --> 00:31:35,870
+医生才会被除名
+That's doctors that are struck off.
+
+407
+00:31:36,495 --> 00:31:38,773
+跟我说说庄园里的其他人
+Tell me about the other people up at the house.
+
+408
+00:31:39,357 --> 00:31:41,734
+他们都是家仆
+Well, they're just domestic staff,
+
+409
+00:31:41,817 --> 00:31:43,945
+都是虔诚的本地人
+and they're all local and God-fearing.
+
+410
+00:31:43,945 --> 00:31:45,772
+当然
+Of course.
+
+411
+00:31:46,155 --> 00:31:49,992
+周末总会有一帮人聚集在庄园
+He do have folk up there at weekends.
+
+412
+00:31:53,512 --> 00:31:55,241
+周末?      是的 先生
+Weekends?        Yes, sir.
+
+413
+00:31:57,166 --> 00:31:59,000
+周末
+Weekends.
+
+414
+00:31:59,627 --> 00:32:02,685
+没问题 什么样的人?
+Ah, no problem. What sort of folk?
+
+415
+00:32:02,839 --> 00:32:04,298
+热情的一帮人
+Oh, they're a warm lot.
+
+416
+00:32:04,423 --> 00:32:05,299
+热情?
+Warm?
+
+417
+00:32:05,424 --> 00:32:07,969
+是的 热情得让人
+Yes, the sort you won't want to get too near
+
+418
+00:32:08,094 --> 00:32:10,763
+不敢接近
+for fear of getting burnt like.
+
+419
+00:32:10,847 --> 00:32:12,765
+很好
+That's good.
+
+420
+00:32:12,849 --> 00:32:16,102
+你也许认为好 先生
+Oh, you may think it's good, sir.
+
+421
+00:32:16,227 --> 00:32:19,272
+他们和村里人相处得不太好
+They don't come down well in the village, I can tell you.
+
+422
+00:32:19,797 --> 00:32:22,024
+其中一个人尤为特别
+There was one fellow in particular.
+
+423
+00:32:22,149 --> 00:32:24,360
+特别热情 是吧?
+Particularly warm, is he, this fellow?
+
+424
+00:32:24,485 --> 00:32:26,488
+他非常特别 先生
+He is very particularly, sir.
+
+425
+00:32:27,613 --> 00:32:30,616
+我打赌他蓄着红胡子
+I'll wager he has a red mustache.
+
+426
+00:32:30,741 --> 00:32:33,586
+你认识他吗?
+Hey, do you know him?
+
+427
+00:32:33,911 --> 00:32:35,872
+素未谋面
+I never met the gentleman.
+
+428
+00:32:35,997 --> 00:32:38,291
+那你现在有机会了
+Well, now is your chance.
+
+429
+00:32:41,586 --> 00:32:43,254
+伍德利先生
+Mr. Woodley.
+
+430
+00:32:43,337 --> 00:32:46,507
+关你屁事!
+None of your damn business!
+
+431
+00:32:46,632 --> 00:32:48,801
+店主开了如此体面的酒馆
+Our Landlord keeps a very respectable house,
+
+432
+00:32:48,926 --> 00:32:50,469
+不是你撒泼的地方
+and your language is not welcome.
+
+433
+00:32:50,595 --> 00:32:51,554
+你以为你是谁?
+Who do you think you are?
+
+434
+00:32:51,679 --> 00:32:52,857
+你跑来问东问西
+What the hell do you want 
+
+435
+00:32:52,857 --> 00:32:55,057
+到底想干什么?
+coming here asking all them questions?
+
+436
+00:32:55,183 --> 00:32:57,810
+你说得很对 店主 他明显不是君子
+You're quite right, Landlord, clearly not a gentleman.
+
+437
+00:32:57,894 --> 00:33:00,188
+彼此彼此
+Oh, I'm as much a gentleman as you are.
+
+438
+00:33:09,030 --> 00:33:10,865
+在场所有人证明
+Everybody here will bear witness to the fact
+
+439
+00:33:10,990 --> 00:33:14,577
+我是正当自卫
+that I am acting in self-defense.
+
+440
+00:33:33,387 --> 00:33:34,055
+卑鄙小人!
+Swine!
+
+441
+00:33:34,180 --> 00:33:35,890
+不 先生 是君子!
+No, sir, a gentleman!
+
+442
+00:33:36,015 --> 00:33:38,643
+只有恶棍才会用手背打人
+Only a ruffian deals a blow with the back of a hand.
+
+443
+00:33:38,726 --> 00:33:42,355
+而君子 则用左直拳
+A gentleman uses the straight-left...
+
+444
+00:33:42,438 --> 00:33:44,732
+所以先生 我是位君子!
+and I, sir, am a gentleman!
+
+445
+00:34:28,276 --> 00:34:31,904
+有趣极了 华生
+It was absolutely delicious, Watson.
+
+446
+00:34:31,988 --> 00:34:33,531
+看出来了
+So I see.
+
+447
+00:34:33,614 --> 00:34:36,997
+左直拳对抗乱舞的恶棍
+A straight left against a slogging ruffian.
+
+448
+00:34:38,202 --> 00:34:41,205
+我挂彩了
+I emerged, as you see.
+
+449
+00:34:41,289 --> 00:34:43,791
+乱舞的恶棍呢?
+And the slogging ruffian?
+
+450
+00:34:43,916 --> 00:34:48,422
+伍德利先生用马车抬回去了
+Mr. Woodley was taken home in a cart.
+
+451
+00:34:57,763 --> 00:35:01,142
+又是那个可怕的男人
+There's that horrible man again.
+
+452
+00:35:04,812 --> 00:35:06,522
+哪个男人?
+Which man?
+
+453
+00:35:35,968 --> 00:35:39,847
+我今天好像见到伍德利先生在花园里
+I thought I saw Mr. Woodley in the garden today.
+
+454
+00:35:39,972 --> 00:35:43,309
+是的 他住在这附近
+You did. He's staying in the area.
+
+455
+00:35:43,392 --> 00:35:46,604
+但别担心 我郑重地告诫他
+But do not worry, I have told him quite firmly
+
+456
+00:35:46,687 --> 00:35:49,274
+再也不许踏进这座房子
+he's not to set foot inside the house.
+
+457
+00:35:51,400 --> 00:35:53,152
+"亲爱的福尔摩斯先生
+"Dear Mr. Holmes:
+
+458
+00:35:53,236 --> 00:35:55,279
+你一定已经料到
+You will not be surprised to learn
+
+459
+00:35:55,363 --> 00:35:56,687
+我星期六将会辞去
+that I will be leaving
+
+460
+00:35:56,687 --> 00:36:00,159
+卡拉瑟斯先生的那份工作"
+Mr. Carruthers's employment on Saturday. "
+
+461
+00:36:02,954 --> 00:36:07,333
+可恶的伍德利先生又出现在奇尔顿农庄
+The odious Mr. Woodley has reappeared at Chiltern Grange.
+
+462
+00:36:07,416 --> 00:36:11,546
+但起码这次她不用骑车去车站了
+Ah, but at least she won't be bicycling to the station.
+
+463
+00:36:11,671 --> 00:36:15,675
+终于 富有的卡拉瑟斯先生
+So finally, the rich Mr. Carruthers
+
+464
+00:36:15,800 --> 00:36:17,343
+找到马和马车了
+has acquired a horse and trap.
+
+465
+00:36:17,468 --> 00:36:18,386
+的确
+Yes.
+
+466
+00:36:18,469 --> 00:36:23,808
+看这 "一切烦恼将在星期六烟消云散"
+Look here, "all my troubles will be over on Saturday. "
+
+467
+00:36:23,891 --> 00:36:25,528
+明天 福尔摩斯 
+Tomorrow, Holmes, 
+
+468
+00:36:25,528 --> 00:36:28,413
+她的一切烦恼将会烟消云散
+all her troubles will be over.
+
+469
+00:36:28,896 --> 00:36:31,424
+为什么我对那词感到不安
+Why do I worry about that word.
+
+470
+00:36:31,649 --> 00:36:32,850
+哪个词?
+Which word?
+
+471
+00:36:33,484 --> 00:36:35,903
+"马车"(亦有"陷阱"的意思)
+"Trap. "
+
+472
+00:37:43,638 --> 00:37:46,724
+啊 多么美好的早晨 福尔摩斯!
+Oh, what a splendid morning, Holmes!
+
+473
+00:37:46,807 --> 00:37:48,559
+在这个季节这天气尚算可以
+It's acceptable weather for the time of year.
+
+474
+00:37:48,643 --> 00:37:51,437
+谁会在这么个早晨伤害那可爱的女孩?
+Now who would want to harm that dear girl on such a morning?
+
+475
+00:37:51,562 --> 00:37:52,980
+希望没人会
+I hope nobody.
+
+476
+00:37:53,105 --> 00:37:54,774
+那你怎么带着左轮枪?
+So why did you bring your revolver?
+
+477
+00:37:54,857 --> 00:37:58,980
+我说的是希望 而不是推论
+I'm talking about my hope, not my expectations.
+
+478
+00:37:59,862 --> 00:38:01,823
+怎么?
+What?
+
+479
+00:38:03,616 --> 00:38:07,913
+我想那位是史密斯小姐
+I fancy that is our Miss Smith.
+
+480
+00:38:08,996 --> 00:38:11,499
+她肯定想赶更早一班车
+She must be traveling by an earlier train.
+
+481
+00:38:11,624 --> 00:38:13,125
+我只提前了半个小时
+I give her a margin of half an hour,
+
+482
+00:38:13,251 --> 00:38:15,281
+但在我们会她前
+but she'll be past Charlington Hall
+
+483
+00:38:15,281 --> 00:38:17,213
+她肯定早经过查灵顿庄园了
+before we can possibly meet her.
+
+484
+00:38:17,338 --> 00:38:19,365
+那怎么办好?
+So what can we do?
+
+485
+00:38:19,590 --> 00:38:20,978
+用跑的
+We could run.
+
+486
+00:38:26,347 --> 00:38:30,227
+笨蛋 我早该想到提前出发这点!
+Fool, I should have allowed for that earlier train!
+
+487
+00:38:57,044 --> 00:38:58,963
+是绑架
+It's abduction,
+
+488
+00:38:59,046 --> 00:39:03,259
+华生 是绑架 谋杀 天知道怎么回事
+Watson, it's abduction, murder, heaven knows what.
+
+489
+00:39:03,384 --> 00:39:04,846
+截停那马
+Stop that horse.
+
+490
+00:39:20,401 --> 00:39:22,403
+太好了
+Good man.
+
+491
+00:39:22,487 --> 00:39:24,996
+快来 华生!
+Come on, Watson!
+
+492
+00:39:25,490 --> 00:39:29,752
+看看还能不能亡羊补牢!
+Let's see if I can repair the consequences of my own blunder!
+
+493
+00:40:04,111 --> 00:40:05,322
+那里!
+Up there!
+
+494
+00:40:33,307 --> 00:40:34,801
+福尔摩斯
+Holmes.
+
+495
+00:40:35,226 --> 00:40:37,270
+你们在哪找到的马车?
+Where did you get that cart?!
+
+496
+00:40:37,395 --> 00:40:39,730
+维尔莉特・史密斯小姐在哪?
+Where is Miss Violet Smith?!
+
+497
+00:40:39,814 --> 00:40:43,009
+这话该我问 这是她的马车!
+That's what I'm asking you. You were in her cart!
+
+498
+00:40:43,734 --> 00:40:46,645
+马车在路上 上面一个人也没有!
+It was on the road, there was no one in it!
+
+499
+00:40:46,645 --> 00:40:49,900
+似乎有人从这里走过!
+Somebody seems to have gone through this way!
+
+500
+00:40:54,787 --> 00:40:56,873
+我们得找到他们!
+We must find them!
+
+501
+00:40:56,998 --> 00:40:58,900
+来 华生
+Come, Watson.
+
+502
+00:41:04,005 --> 00:41:08,217
+看 你认识他吗?
+Now look, do you know who this is?!
+
+503
+00:41:08,342 --> 00:41:09,343
+彼得 马夫
+That's Peter, the groom,
+
+504
+00:41:09,468 --> 00:41:11,179
+他送她上车站
+he was taking her to the station.
+
+505
+00:41:11,304 --> 00:41:13,306
+他还活着 脉搏很有力
+He's alive, his pulse is strong.
+
+506
+00:41:13,389 --> 00:41:14,765
+肯定是刚发生的事
+Mustn't be left lying there too long.
+
+507
+00:41:14,849 --> 00:41:16,475
+别管他 不用我们救他
+Let him lie, we can't do him any good,
+
+508
+00:41:16,559 --> 00:41:18,469
+但我们可以从一个女人会遭受
+but we might save her from the worst fate
+
+509
+00:41:18,469 --> 00:41:19,979
+的最坏厄运中救出她
+that can befall a woman.
+
+510
+00:41:20,104 --> 00:41:21,647
+你去哪儿?!
+Where are you going?!
+
+511
+00:41:21,772 --> 00:41:22,607
+大宅!
+The house!
+
+512
+00:41:22,690 --> 00:41:23,983
+他们没去大宅!
+They didn't go to the house!
+
+513
+00:41:24,108 --> 00:41:27,028
+他们走了左边这条路
+They went this way to the left.
+
+514
+00:41:27,153 --> 00:41:27,945
+你肯定?
+Are you sure?
+
+515
+00:41:30,323 --> 00:41:31,782
+卑鄙小人!
+Oh, cowardly dogs!
+
+516
+00:41:31,866 --> 00:41:33,533
+来不及了!      华生
+Too late!        Watson.
+
+517
+00:41:33,533 --> 00:41:36,331
+他们强来 来不及了!
+Too late by the living Jingo!
+
+518
+00:41:52,929 --> 00:41:55,731
+在上帝及其仆人的见证下
+For as much as John and Violet
+
+519
+00:41:55,731 --> 00:41:58,777
+约翰和维尔莉特自愿
+have consented together in holy wedlock,
+
+520
+00:41:59,766 --> 00:42:05,759
+缔结神圣的夫妻关系
+and have witnessed the same before God and this company...
+
+521
+00:42:10,530 --> 00:42:12,231
+并且双方已经
+and have declared the same
+
+522
+00:42:12,231 --> 00:42:14,700
+交换戒指
+by the giving and receiving of a ring,
+
+523
+00:42:14,826 --> 00:42:17,620
+携手终老
+and the joining of hands,
+
+524
+00:42:17,745 --> 00:42:23,990
+我宣布 你们结为夫妻
+I pronounce that they be man and wife, together.
+
+525
+00:42:26,879 --> 00:42:28,965
+恭喜你们!
+Congratulations!
+
+526
+00:42:29,090 --> 00:42:31,285
+谢谢 阿门
+Thanks, amen.
+
+527
+00:42:32,468 --> 00:42:34,435
+他们结婚了!
+They're married!
+
+528
+00:42:37,849 --> 00:42:40,393
+欢迎参加婚宴 先生们
+Welcome to the party, gentlemen.
+
+529
+00:42:40,518 --> 00:42:45,000
+容我介绍伍德利太太
+Let me introduce you to Mrs. Woodley.
+
+530
+00:42:45,231 --> 00:42:47,040
+不要 卡拉瑟斯!
+Don't Carruthers!
+
+531
+00:42:48,025 --> 00:42:49,986
+卡拉瑟斯?
+Carruthers!
+
+532
+00:42:58,369 --> 00:43:00,663
+是的 我要这姑娘安然无恙
+Yes, and I'll see this woman righted,
+
+533
+00:43:00,788 --> 00:43:02,498
+即使为此上绞架也在所不惜
+if I have to swing for it.
+
+534
+00:43:02,623 --> 00:43:03,624
+太迟了
+You're too late.
+
+535
+00:43:03,749 --> 00:43:05,543
+她是我的妻子!
+She is my wife!
+
+536
+00:43:05,626 --> 00:43:09,422
+不 她是你的寡妻
+No, she's your widow.
+
+537
+00:43:10,298 --> 00:43:12,133
+我说过 如果你再骚扰她 我会怎么做!
+I told you what I'd do if you molested her!
+
+538
+00:43:12,258 --> 00:43:14,694
+上帝为证 我言出必行!
+By the Lord, I'm a man of my word!
+
+539
+00:43:17,180 --> 00:43:19,098
+你们雇我的时候
+When you hired me,
+
+540
+00:43:19,182 --> 00:43:23,060
+可没说会发生这些乱七八糟的事!
+nobody told me there'd be any of this damn nonsense!
+
+541
+00:43:23,144 --> 00:43:24,562
+把枪放下
+Drop that pistol.
+
+542
+00:43:24,645 --> 00:43:27,156
+华生 拣起来!
+Watson, pick it up!
+
+543
+00:43:29,859 --> 00:43:31,652
+把枪给我 不要再动武了
+Give me that revolver, we'll have no more violence.
+
+544
+00:43:31,777 --> 00:43:33,112
+你是谁 在这指手画脚?
+Who are you to be giving these orders?
+
+545
+00:43:33,196 --> 00:43:35,573
+夏洛克・福尔摩斯
+Sherlock Holmes.
+
+546
+00:43:35,656 --> 00:43:36,949
+天啊
+Good Lord.
+
+547
+00:43:38,451 --> 00:43:39,952
+你!
+Here, you!
+
+548
+00:43:40,077 --> 00:43:41,546
+先生?
+Sir?
+
+549
+00:43:41,829 --> 00:43:43,414
+你还能驾车到法恩罕吗?
+Are you well enough to drive into Farnham?
+
+550
+00:43:43,498 --> 00:43:45,928
+是的 先生 我想可以
+Yes, sir, I reckon I am.
+
+551
+00:43:46,042 --> 00:43:47,116
+把这张纸条
+Then give this note
+
+552
+00:43:47,116 --> 00:43:49,406
+交给警察局局长
+to the superintendent of the police station.
+
+553
+00:43:51,631 --> 00:43:52,298
+现在
+In the meantime,
+
+554
+00:43:52,381 --> 00:43:55,669
+你们都受我的监管
+I must detain you all under my own personal custody.
+
+555
+00:44:27,124 --> 00:44:29,168
+俩病人怎么样 医生?
+How are the patients, Doctor?
+
+556
+00:44:29,252 --> 00:44:31,212
+史密斯小姐很好
+Miss Smith's very well,
+
+557
+00:44:31,337 --> 00:44:34,674
+尽管受到如此恶劣的对待
+considering the foul way she's been treated.
+
+558
+00:44:34,799 --> 00:44:36,133
+伍德利呢?
+And Woodley?
+
+559
+00:44:36,217 --> 00:44:38,845
+唉 他还活着
+Alas, I have no doubt he will live.
+
+560
+00:44:38,928 --> 00:44:40,972
+什么 那我上楼去结果他
+What, I'll go upstairs and finish him off.
+
+561
+00:44:41,055 --> 00:44:43,950
+不 坐下 卡拉瑟斯
+No, sit down in that chair, Carruthers.
+
+562
+00:44:44,475 --> 00:44:45,226
+你是对的
+You're right.
+
+563
+00:44:45,351 --> 00:44:47,228
+他不值得我为他送死
+He isn't worth swinging for.
+
+564
+00:44:47,353 --> 00:44:48,429
+但难道那姑娘真的得
+But do you tell me that girl
+
+565
+00:44:48,429 --> 00:44:50,523
+一辈子受狂徒伍德利的束缚吗?
+is to be tied to Roaring Jack Woodley for life?!
+
+566
+00:44:50,606 --> 00:44:52,066
+用不着你过问
+You needn't concern yourself about that.
+
+567
+00:44:52,191 --> 00:44:54,752
+我主持了婚礼 他们至死不渝
+I married them till death do them part.
+
+568
+00:44:54,752 --> 00:44:58,757
+她不可能成为他妻室
+Under no circumstances can she be considered his wife.
+
+569
+00:44:59,991 --> 00:45:01,492
+你确定?
+Are you sure?
+
+570
+00:45:01,617 --> 00:45:04,404
+原因有二
+For two very good reasons.
+
+571
+00:45:04,787 --> 00:45:06,511
+第一 我们完全可以
+In the first place, we are very safe in
+
+572
+00:45:06,511 --> 00:45:08,541
+质疑威廉森先生
+questioning Mr. Williamson's right
+
+573
+00:45:08,666 --> 00:45:10,184
+主持婚礼的资格
+to solemnize a marriage.
+
+574
+00:45:10,209 --> 00:45:11,752
+我受任过圣职
+I have been ordained.
+
+575
+00:45:11,878 --> 00:45:13,171
+已被免去圣职
+And unfrocked.
+
+576
+00:45:13,254 --> 00:45:16,382
+一朝为牧师 终身为牧师
+Once a clergyman, always a clergyman.
+
+577
+00:45:18,759 --> 00:45:20,745
+我不这么看
+I think not.
+
+578
+00:45:21,429 --> 00:45:23,406
+那结婚证呢?
+How about the license?
+
+579
+00:45:23,931 --> 00:45:27,318
+我们有结婚证
+Oh, we had a license.
+
+580
+00:45:27,602 --> 00:45:30,521
+在这儿
+I have it here.
+
+581
+00:45:30,605 --> 00:45:32,857
+无疑是用不法手段取得的
+Undoubtedly obtained by a trick.
+
+582
+00:45:32,940 --> 00:45:35,568
+但无论如何 强迫的婚姻不是婚姻
+But, in any case, a forced marriage is no marriage,
+
+583
+00:45:35,651 --> 00:45:39,071
+而你会发现 这是一项重罪
+indeed, it is a very serious felony, as you will discover.
+
+584
+00:45:39,155 --> 00:45:43,535
+在等警察的这段时间里 卡拉瑟斯先生
+Now, while we are waiting for the police, Mr. Carruthers,
+
+585
+00:45:44,619 --> 00:45:46,822
+说说你的事
+you might tell me your story.
+
+586
+00:45:48,247 --> 00:45:52,335
+如果你把秘密捅出去 鲍・卡拉瑟斯
+If you squeal on us, Bob Carruthers,
+
+587
+00:45:52,460 --> 00:45:55,880
+我会像你对付杰克・伍德利那样对付你
+I'll serve you as you served Jack Woodley!
+
+588
+00:45:56,005 --> 00:45:57,548
+你不用瞎激动
+There's no need for you to get over-excited.
+
+589
+00:45:57,632 --> 00:46:00,009
+事情再清楚不过了
+The case is clear enough.
+
+590
+00:46:00,134 --> 00:46:06,057
+既然你那么清楚 为什么不由你来说
+Well, if it's clear enough, why don't you tell us.
+
+591
+00:46:06,182 --> 00:46:07,725
+很好
+Very well.
+
+592
+00:46:07,808 --> 00:46:10,102
+卡拉瑟斯先生得适当补充细节
+Mr. Carruthers will have to fill in a few details
+
+593
+00:46:10,186 --> 00:46:12,104
+以满足我个人的好奇心
+for my private curiosity,
+
+594
+00:46:12,188 --> 00:46:15,858
+但我很乐意来讲述
+but I am happy to do the talking.
+
+595
+00:46:15,983 --> 00:46:16,909
+首先
+In the first place,
+
+596
+00:46:16,909 --> 00:46:18,861
+你们三个从南非来
+the three of you came across from South Africa.
+
+597
+00:46:18,986 --> 00:46:22,481
+错了 我从没去过南非!
+Wrong, I've never even been in South Africa!
+
+598
+00:46:24,075 --> 00:46:25,852
+是真的
+It's true.
+
+599
+00:46:26,536 --> 00:46:31,000
+伍德利在我们回来后才找到这禽兽
+Woodley acquired this creature after our return.
+
+600
+00:46:33,125 --> 00:46:34,585
+很好 你和伍德利
+Very well, you and Woodley
+
+601
+00:46:34,710 --> 00:46:38,130
+在南非结识了拉夫・史密斯
+had known Ralph Smith in South Africa.
+
+602
+00:46:38,214 --> 00:46:41,008
+你们相信他将不久于人世
+You had reason to believe that he would not live long,
+
+603
+00:46:41,133 --> 00:46:45,638
+并发现他侄女将继承他的遗产
+and you found out that his niece would inherit his fortune.
+
+604
+00:46:45,763 --> 00:46:46,722
+没错吧?
+How's that?
+
+605
+00:46:46,848 --> 00:46:49,884
+你们却告诉她 她叔叔死时贫困交加
+But you told the girl her uncle died in poverty.
+
+606
+00:46:49,884 --> 00:46:53,187
+因为他明显奄奄一息
+Well, as he was still alive, admittedly only just,
+
+607
+00:46:53,312 --> 00:46:57,567
+我想这有钱人没立下遗嘱
+and a wealthy man who I suspect had made no will.
+
+608
+00:46:57,692 --> 00:47:00,945
+拉夫・史密斯不认字也不会写
+Ralph Smith could neither read nor write.
+
+609
+00:47:01,028 --> 00:47:06,325
+因此你和伍德利回来寻找他侄女
+So, you and Woodley came over here and hunted up the girl,
+
+610
+00:47:06,450 --> 00:47:09,412
+得知维尔莉特是他最亲的人
+knowing she was the next of kin,
+
+611
+00:47:09,537 --> 00:47:11,539
+你们可以分掉遗产
+and that you would share the plunder.
+
+612
+00:47:11,664 --> 00:47:15,710
+作为公证费 我也可以分得一份
+I was due a share for services rendered.
+
+613
+00:47:15,835 --> 00:47:18,045
+而卡拉瑟斯
+And Carruthers,
+
+614
+00:47:18,171 --> 00:47:21,967
+你却犯了个错误 
+you made the mistake 
+
+615
+00:47:22,567 --> 00:47:24,955
+爱上了她
+of falling in love with her.
+
+616
+00:47:26,470 --> 00:47:29,891
+生平第一次知道什么叫爱 福尔摩斯先生
+The first time that ever I knew what love was, Mr. Holmes.
+
+617
+00:47:30,016 --> 00:47:35,000
+为什么你不告诉她她的危险处境?
+Why didn't you tell her of the danger she was in?
+
+618
+00:47:35,396 --> 00:47:36,901
+因为...
+Because-
+
+619
+00:47:38,196 --> 00:47:42,904
+因为这样她会离开我
+Because she would have left me,
+
+620
+00:47:44,822 --> 00:47:48,145
+我受不了这样
+and I couldn't bear to face that.
+
+621
+00:47:50,870 --> 00:47:58,127
+我的女儿莎拉怎么办?
+Oh, what will happen to my daughter, Sarah?
+
+622
+00:47:58,252 --> 00:48:01,000
+她会得到妥善照顾的
+We'll see she's well taken care of.
+
+623
+00:48:06,302 --> 00:48:11,224
+尽管她不会爱上我
+You see, even if she couldn't love me,
+
+624
+00:48:11,807 --> 00:48:14,922
+但能在房子里见到她
+it meant a great deal to see her about the house
+
+625
+00:48:14,922 --> 00:48:18,990
+听到她的声音 我就知足了
+and hear the sound of her voice.
+
+626
+00:48:19,273 --> 00:48:22,560
+你称之为爱 卡拉瑟斯先生
+You may call it love, Mr. Carruthers,
+
+627
+00:48:22,944 --> 00:48:25,705
+我却称之为自私
+I should call it selfishness.
+
+628
+00:48:27,323 --> 00:48:30,078
+也许两者是共存的
+Maybe the two things go together.
+
+629
+00:48:32,303 --> 00:48:33,579
+但我想保护她
+But I tried to protect her,
+
+630
+00:48:33,704 --> 00:48:35,251
+我从未让她
+I never once let her go past this house
+
+631
+00:48:35,251 --> 00:48:36,916
+独自经过这座
+where I knew those rascals were lurking
+
+632
+00:48:36,999 --> 00:48:38,926
+流氓潜伏的房子
+without following her on my bicycle
+
+633
+00:48:38,926 --> 00:48:41,387
+我会亲眼看着她不受伤害
+to see she came to no harm.
+
+634
+00:48:41,671 --> 00:48:44,632
+我保持距离并戴上假胡子
+I kept my distance and wore that beard
+
+635
+00:48:44,715 --> 00:48:47,218
+这样她就不会认出我
+so she should not recognize me.
+
+636
+00:48:47,301 --> 00:48:51,055
+然后我想你收到了电报?
+Then I presume the cable arrived?
+
+637
+00:48:51,138 --> 00:48:53,600
+电报 什么电报?
+Cable, what cable?
+
+638
+00:49:05,361 --> 00:49:07,196
+"老儿已死"
+"THE OLD MAN IS DEAD."
+
+639
+00:49:07,321 --> 00:49:09,640
+哪个老儿?
+What old man?
+
+640
+00:49:09,824 --> 00:49:13,035
+我想是在南非的拉夫・史密斯
+I imagine Ralph Smith in South Africa.
+
+641
+00:49:13,161 --> 00:49:14,203
+是的
+Yes.
+
+642
+00:49:14,328 --> 00:49:16,038
+但此时你和伍德利吵了一架
+But by this time you and Woodley had quarreled
+
+643
+00:49:16,164 --> 00:49:17,757
+然后他离开了农庄
+and he had left the house.
+
+644
+00:49:17,832 --> 00:49:21,836
+伍德利又来问我是否依原计划行事
+Woodley came back again to ask me to stick to the bargain.
+
+645
+00:49:21,961 --> 00:49:23,588
+我拒绝了
+I refused.
+
+646
+00:49:23,671 --> 00:49:26,674
+我说我不会使用武力
+I said I would have nothing to do with violence.
+
+647
+00:49:28,593 --> 00:49:31,000
+最后一个细节
+One last detail,
+
+648
+00:49:35,183 --> 00:49:39,897
+为什么由伍德利来充当丈夫?
+why was Woodley chosen as the prospective husband?
+
+649
+00:49:43,191 --> 00:49:45,328
+这让我难以启齿...
+I am ashamed to say it...
+
+650
+00:49:50,198 --> 00:49:53,126
+我们打牌 拿她做赌注
+we played cards for her.
+
+651
+00:50:27,068 --> 00:50:30,822
+福尔摩斯 我知道判决结果了
+Holmes, I have the results of the trial.
+
+652
+00:50:30,822 --> 00:50:35,294
+听着 法官总结说...
+Listen to this, the judge in summing up said-
+
+653
+00:50:38,746 --> 00:50:40,248
+福尔摩斯
+Holmes.
+
+654
+00:50:40,248 --> 00:50:43,544
+华生 我能否凭经验猜测?
+Watson, may I be permitted an educated guess?
+
+655
+00:50:46,504 --> 00:50:48,381
+说吧
+Go on then.
+
+656
+00:50:48,464 --> 00:50:50,999
+我想伍德利会被判刑10年
+I would expect Woodley to get ten years,
+
+657
+00:50:51,050 --> 00:50:53,010
+威廉森7年
+Williamson seven years,
+
+658
+00:50:53,135 --> 00:50:54,720
+至于卡拉瑟斯
+and Carruthers,
+
+659
+00:50:54,804 --> 00:50:56,530
+鉴于审判时
+in view of the eloquent speech 
+
+660
+00:50:56,530 --> 00:50:58,933
+我为他作的一番出色辩解
+I made on his behalf at the trial,
+
+661
+00:50:59,058 --> 00:51:00,893
+大约6个月吧
+probably six months.
+
+662
+00:51:02,812 --> 00:51:06,691
+丝毫不差!
+That is exactly right!
+
+663
+00:51:06,774 --> 00:51:09,569
+我有些优势 华生
+Well, I have certain advantages, Watson,
+
+664
+00:51:09,652 --> 00:51:14,115
+大部分数据来源于更早出版的报纸
+largely the fact that I sent out for the early edition.
+
+665
+00:51:14,240 --> 00:51:17,243
+的确是优势
+An undoubted advantage.
+
+666
+00:51:17,368 --> 00:51:19,078
+同时 我们收到了一份礼物
+Also, we have received a present,
+
+667
+00:51:19,203 --> 00:51:23,124
+来自西里尔・莫尔顿夫妇的结婚蛋糕
+some wedding cake from Mr. and Mrs. Cyril Morton,
+
+668
+00:51:23,207 --> 00:51:24,883
+随之附了一封信说
+together with a letter telling us
+
+669
+00:51:24,883 --> 00:51:27,879
+莫尔顿太太早前在南非的叔叔
+that Mrs. Morton has inherited a large sum of money
+
+670
+00:51:27,879 --> 00:51:32,216
+拉夫・史密斯处继承了一大笔遗产
+from her uncle, Ralph Smith, formerly of South Africa.
+
+671
+00:51:32,300 --> 00:51:33,676
+这对幸福的夫妇很乐意
+The happy couple are thoroughly enjoying
+
+672
+00:51:33,801 --> 00:51:36,137
+在其父亲服刑期间
+looking after young Sarah Carruthers,
+
+673
+00:51:36,262 --> 00:51:39,140
+照顾莎拉・卡拉瑟斯
+while her father is in custody.
+
+674
+00:51:39,223 --> 00:51:41,100
+她的琴艺正不断进步
+Her piano playing is improving
+
+675
+00:51:41,184 --> 00:51:44,604
+并且想学骑车
+and she wants to take up bicycling.
+
+676
+00:51:44,687 --> 00:51:48,333
+到处都过着美好的日子 不是吗?
+A splendid day all round, wouldn't you say?
+
+677
+00:51:48,816 --> 00:51:51,027
+还有更好的事要发生
+There is more splendor yet to come.
+
+678
+00:51:51,152 --> 00:51:53,362
+更好的事 什么意思?
+More splendor, what do you mean?
+
+679
+00:51:56,157 --> 00:51:58,284
+仔细看
+Watch carefully.
+
+680
+00:51:59,160 --> 00:52:00,953
+哦 我想起来了
+Oh, I remember,
+
+681
+00:52:01,037 --> 00:52:03,205
+将解决约翰・文森特・哈登先生
+the chemical reaction that will solve the mystery
+
+682
+00:52:03,205 --> 00:52:05,750
+迫害事件中疑点的化学反应
+concerning the persecution of Mr. John Vincent Harden.
+
+683
+00:52:05,833 --> 00:52:06,459
+没错
+Precisely.
+
+684
+00:52:06,584 --> 00:52:09,045
+我在皇家科学博物馆泡了一个星期
+I've spent the entire week in the Imperial Science Museum
+
+685
+00:52:09,170 --> 00:52:13,342
+我想这就是答案
+and I think this is the answer.
+
+686
+00:52:46,958 --> 00:52:48,668
+那就是答案 福尔摩斯?
+Is that the answer, Holmes?
+
+687
+00:52:48,751 --> 00:52:51,105
+没错 那就是答案 华生
+Yes, that is the answer, Watson.
+
+688
+00:52:52,588 --> 00:52:54,715
+让我再想想
+Well, let me think.
+

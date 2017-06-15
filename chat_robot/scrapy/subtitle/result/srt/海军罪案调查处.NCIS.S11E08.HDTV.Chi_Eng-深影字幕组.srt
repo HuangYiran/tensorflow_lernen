@@ -1,0 +1,4670 @@
+1
+00:00:00,800 --> 00:00:15,000
+{\an8}本字幕由 {\c&H26F4FF&}ShinY {\c&HFFAE1A&}深影字幕组{\c&HFFFFFF&} 原创翻译制作
+
+2
+00:00:01,600 --> 00:00:15,000
+{\an8}深影字幕组论坛地址 {\c&H26F4FF&}http://shinybbs.com
+
+3
+00:00:15,800 --> 00:00:25,500
+{\an8}{\c&H26F4FF&}翻译： {\c&HFFFFFF&}林 易如反掌 小坏玩意儿 老虎娘 Echo 兰丰
+
+4
+00:00:25,800 --> 00:00:35,500
+{\an8}{\c&H26F4FF&}校对： {\c&HFFFFFF&}爽爷  {\c&H26F4FF&}后期： {\c&HFFFFFF&}mask
+
+1
+00:00:06,923 --> 00:00:09,923
+美国舰队基地 昆迪克
+
+2
+00:00:43,923 --> 00:00:47,923
+海军罪案调查处 第十一季 第八集
+NCIS S11E08
+
+3
+00:01:17,855 --> 00:01:20,149
+"犯罪现场"
+"Alibi"
+
+4
+00:01:24,570 --> 00:01:26,395
+达克 我这边结束了
+All right, Ducky, I'm done.
+
+5
+00:01:26,395 --> 00:01:28,562
+谢谢 蒂姆
+Thank you, Tim.
+
+6
+00:01:31,484 --> 00:01:34,485
+可怜的小东西
+You poor dear.
+
+7
+00:01:35,520 --> 00:01:38,305
+戴着耳机都没有听到车开过来吧
+Probably didn't even hear it coming.
+
+8
+00:01:39,524 --> 00:01:41,525
+托尼在哪里呢?
+Hey, where's Tony?
+
+9
+00:01:41,527 --> 00:01:42,976
+我不知道
+I don't know.
+
+10
+00:01:42,978 --> 00:01:44,278
+我本来说要载他一程
+I offered to give him a lift,
+
+11
+00:01:44,280 --> 00:01:46,313
+但是他说有人会去接他
+but he said someone would pick him up.
+
+12
+00:01:46,315 --> 00:01:47,814
+从哥伦比亚特区开到昆迪克吗?
+From DC to Quantico?
+
+13
+00:01:47,816 --> 00:01:49,616
+我也觉得很奇怪
+Sounded strange to me, too.
+
+14
+00:01:49,618 --> 00:01:51,502
+没有车真不知道他是怎么活的
+I don't know how he's surviving without a car.
+
+15
+00:01:52,872 --> 00:01:54,922
+是他吗?
+Is that him?
+
+16
+00:01:54,924 --> 00:01:57,040
+不 是黛利拉
+No. It's Delilah.
+
+17
+00:01:57,042 --> 00:01:58,876
+我们正计划溜出去度过一个漫长周末呢
+We're talking about sneaking away for a long weekend.
+
+18
+00:01:58,878 --> 00:02:00,294
+真有你的
+Nice.
+
+19
+00:02:00,296 --> 00:02:02,212
+你们要是墨迹完了
+If you hens are finished,
+
+20
+00:02:02,214 --> 00:02:03,881
+就过来帮忙
+I could do with some help.
+
+21
+00:02:03,883 --> 00:02:06,016
+好的
+Oh, yes.
+
+22
+00:02:06,018 --> 00:02:08,385
+她的身份是下士乔迪・雷
+Her name's Petty Officer Third Class Jody Ray.
+
+23
+00:02:08,387 --> 00:02:10,554
+巡逻队日出时分发现了她的尸体
+Patrol spotted her body just after sunrise.
+
+24
+00:02:10,556 --> 00:02:12,005
+她在基地诊所工作
+She works at the base clinic.
+
+25
+00:02:12,007 --> 00:02:13,941
+昨晚九点打卡下班
+Punched out just after 2100 last night.
+
+26
+00:02:13,943 --> 00:02:15,442
+然后就出来跑步了吗?
+And she went for a run?
+
+27
+00:02:15,444 --> 00:02:17,844
+同事说她正在进行马拉松训练
+Coworker said she was training for a marathon.
+
+28
+00:02:17,846 --> 00:02:20,397
+几个月来几乎每晚都在跑步
+Had been running almost every night for the past few months.
+
+29
+00:02:20,399 --> 00:02:21,782
+通知亲属了吗?
+Next of kin been notified?
+
+30
+00:02:21,784 --> 00:02:23,367
+伤亡援助电话处的人正在通知 长官
+CACO team is on it, sir.
+
+31
+00:02:23,369 --> 00:02:25,685
+知道了 谢谢
+All right, thanks.
+
+32
+00:02:28,356 --> 00:02:31,024
+很高兴看到你来了 迪诺左
+Nice of you to join us, DiNozzo.
+
+33
+00:02:31,026 --> 00:02:32,576
+抱歉迟到了
+Yeah, sorry.
+
+34
+00:02:32,578 --> 00:02:35,212
+嘿 吉米
+Hey, Jimmy.
+
+35
+00:02:36,531 --> 00:02:39,299
+我错过什么没有?
+So, what did I miss?
+
+36
+00:02:41,803 --> 00:02:43,427
+是谁大老远开车送你过来的?
+Who was it that drove you all the way over here?
+
+37
+00:02:44,223 --> 00:02:45,672
+一个朋友
+A friend.
+
+38
+00:02:45,674 --> 00:02:47,374
+别打马虎眼 
+No, seriously.
+
+39
+00:02:47,376 --> 00:02:48,708
+真的只是一个朋友
+Seriously.
+
+40
+00:02:48,710 --> 00:02:50,561
+我有什么工作 拍照吗?
+What should I do, photograph?
+
+41
+00:02:50,563 --> 00:02:51,878
+不用 我已经做完了
+No, I already did it.
+
+42
+00:02:51,880 --> 00:02:54,815
+好吧
+gh. All right.
+
+43
+00:02:54,817 --> 00:02:57,217
+达克?
+Duck?
+
+44
+00:02:57,219 --> 00:03:02,055
+死亡时间 昨天晚上十点左右
+Last night, 2200 hours,or thereabouts.
+
+45
+00:03:14,536 --> 00:03:16,236
+嘿 艾比
+Hey, Abbs.
+
+46
+00:03:16,238 --> 00:03:17,737
+有什么发现吗?
+Come up with anything?
+
+47
+00:03:17,739 --> 00:03:19,289
+有点进展
+Making progress.
+
+48
+00:03:19,291 --> 00:03:23,961
+你看 这块碎片是车头灯零件的一部分
+Look, okay, this is a part of the vehicle's headlight assembly.
+
+49
+00:03:23,963 --> 00:03:25,245
+厂商和型号?
+What's the make and model?
+
+50
+00:03:26,297 --> 00:03:29,967
+全国有四十七家汽车生产商
+There are 47 manufacturers of cars and trucks in the United States.
+
+51
+00:03:29,969 --> 00:03:32,936
+每一家都有好多型号和风格
+Each one of those produces multiple models and body styles.
+
+52
+00:03:32,938 --> 00:03:34,805
+配件和车饰每隔几年就会推陈出新
+And the parts and the trim are redesigned every few years.
+
+53
+00:03:34,807 --> 00:03:36,440
+有无数种可能性呢
+There are zillions of possibilities.
+
+54
+00:03:36,442 --> 00:03:38,091
+为什么每个人都认为
+Why would anyone assume that I could take
+
+55
+00:03:38,093 --> 00:03:40,260
+通过一块小小的塑料
+a teeny, tiny piece of plastic
+
+56
+00:03:40,262 --> 00:03:42,362
+我就能轻松地辨别出车型呢?
+and easily identify a vehicle?
+
+57
+00:03:42,364 --> 00:03:43,597
+厂商和型号?
+What's the make and model?
+
+58
+00:03:43,599 --> 00:03:46,225
+是一辆零三至零五年生产的
+A 2003 to a 2005
+
+59
+00:03:46,226 --> 00:03:48,101
+道奇公羊敞篷小卡车
+Dodge Ram pickup truck.
+
+60
+00:03:48,103 --> 00:03:49,870
+非常感谢
+Thank you very much.
+
+61
+00:03:49,872 --> 00:03:51,438
+但是还是得缩小范围才行
+But we're going to have to narrow it down.
+
+62
+00:03:51,440 --> 00:03:52,990
+基地里面每天都有上百辆卡车来来回回
+There's hundreds of trucks on that base every day.
+
+63
+00:03:52,992 --> 00:03:54,791
+我正打算这么做呢 你就来打断我了
+That's what I was doing when you interrupted me.
+
+64
+00:03:54,793 --> 00:03:57,766
+下士雷的手表上面蹭上了
+So, there was a trace of the vehicle's paint
+
+65
+00:03:57,767 --> 00:03:59,997
+肇事车辆的一点油漆
+on Petty Officer Ray's watch.
+
+66
+00:03:59,999 --> 00:04:01,281
+可能是这两种颜色
+These are our color choices.
+
+67
+00:04:01,283 --> 00:04:02,966
+上面的是烈焰红
+On the top we have Inferno Red.
+
+68
+00:04:02,968 --> 00:04:05,118
+下面的是深熔融红
+And the bottom we have Deep Molten Red.
+
+69
+00:04:05,120 --> 00:04:06,420
+真不知道是谁想出这些名字的
+I don't know who comes up with these names.
+
+70
+00:04:06,422 --> 00:04:07,971
+你认为呢?
+What do you think?
+
+71
+00:04:07,973 --> 00:04:09,587
+我觉得上面的比较符合
+I'm going to have to go with the top one.
+
+72
+00:04:09,612 --> 00:04:10,592
+我也这么认为
+Agreed.
+
+73
+00:04:10,593 --> 00:04:15,512
+烈焰红只有零五至零八年有生产
+So Inferno Red was only available between 2005 and 2008.
+
+74
+00:04:15,514 --> 00:04:17,390
+所以结合车灯和颜色 
+So the only year in common
+
+75
+00:04:17,391 --> 00:04:20,017
+唯一符合的年份就是零五年
+between the headlight lens and the color is 2005.
+
+76
+00:04:20,019 --> 00:04:21,385
+因此 我们要找的是一辆
+Ergo we are looking for
+
+77
+00:04:21,386 --> 00:04:24,971
+零五年产的红色道奇公羊敞篷小卡车
+a red 2005 Dodge Ram pickup truck.
+
+78
+00:04:24,973 --> 00:04:26,473
+艾比 你是最棒的
+Abby, you are the best.
+
+79
+00:04:26,475 --> 00:04:28,191
+你还是想当然
+Still taken for granted.
+
+80
+00:04:28,193 --> 00:04:31,028
+听起来很简单 实际很难的
+Just 'cause I make it look easy doesn't mean it is.
+
+81
+00:04:31,030 --> 00:04:31,664
+为什么认为
+Why do you suspect
+
+82
+00:04:31,665 --> 00:04:33,947
+上士贾斯汀・邓恩有嫌疑?
+Staff Sergeant Justin Dunne?
+
+83
+00:04:33,949 --> 00:04:35,991
+艾比根据厂商 型号 颜色
+Abby I.D.'d the make, model and color
+
+84
+00:04:35,992 --> 00:04:37,451
+定位了肇事逃逸的卡车
+of the hit-and-run vehicle.
+
+85
+00:04:37,453 --> 00:04:40,287
+基地里面只有一辆卡车符合条件 车主是邓恩
+Only one registered on base and it belongs to Dunne.
+
+86
+00:04:40,289 --> 00:04:41,872
+我检查了大门的安检录像
+I checked the gate security footage.
+
+87
+00:04:41,874 --> 00:04:43,423
+他的车昨天晚上没有离开过昆迪克 
+His truck never left Quantico last night.
+
+88
+00:04:43,425 --> 00:04:45,709
+- 他的个人情况? - 单身
+- What do we know about him? - Single.
+
+89
+00:04:45,711 --> 00:04:47,210
+高中毕业就参军
+Joined the Corps right out of high school.
+
+90
+00:04:47,212 --> 00:04:48,378
+是一名直升机修理工
+He's a helo mechanic.
+
+91
+00:04:48,380 --> 00:04:51,431
+原定本周末参加地中海两栖登陆
+Scheduled to deploy on an LHA to the Med, later this week.
+
+92
+00:04:51,433 --> 00:04:54,000
+最可疑的是...
+And most pertinent...
+
+93
+00:04:54,002 --> 00:04:55,686
+他有醉酒驾车的记录
+he has a DUI in his past.
+
+94
+00:04:55,688 --> 00:04:57,337
+把他带过来
+Bring him in.
+
+95
+00:04:59,440 --> 00:05:02,142
+我好喜欢案件进展神速
+I love it when it all comes together so quickly.
+
+96
+00:05:02,144 --> 00:05:04,144
+我可不是 弄得我很紧张
+Not me. Makes me nervous.
+
+97
+00:05:04,146 --> 00:05:05,529
+有点过于容易
+Too easy.
+
+98
+00:05:05,531 --> 00:05:07,281
+我们走吧
+Let's go.
+
+99
+00:05:07,283 --> 00:05:09,700
+你打算永远都不买新车了吗?
+You ever going to get a new car?
+
+100
+00:05:09,702 --> 00:05:12,185
+首先 我从来没有买过新车
+Well, firstly, I never buy new cars.
+
+101
+00:05:12,187 --> 00:05:14,788
+其次 我需要的是能够点燃我热情的东西
+Secondly, I need something that ignites my passions.
+
+102
+00:05:14,790 --> 00:05:16,206
+这就跟女人一样
+It's like a woman.
+
+103
+00:05:16,208 --> 00:05:18,208
+在许下承诺之前总要先坠入爱河吧
+I need to be in love before I commit.
+
+104
+00:05:18,210 --> 00:05:20,911
+这么说你从来没有跟女人许诺过了
+You've never committed to a woman.
+
+105
+00:05:28,504 --> 00:05:30,387
+军士邓恩 我们是海军罪案调查处
+Sergeant Dunne. NCIS.
+
+106
+00:05:33,892 --> 00:05:36,393
+军士邓恩!
+Sergeant Dunne!
+
+107
+00:05:41,432 --> 00:05:44,050
+不许动 海军罪案调查处
+Freeze. NCIS.
+
+108
+00:05:55,279 --> 00:05:57,046
+没错 这是我的车 但是
+Yeah, that's my truck, but
+
+109
+00:05:57,048 --> 00:05:59,182
+我发誓不知道它怎么成这样子了
+I swear, I don't know how it got that way.
+
+110
+00:05:59,184 --> 00:06:01,634
+- 你昨天晚上没有开吗? - 没有
+- You didn't drive it last night? - No.
+
+111
+00:06:01,636 --> 00:06:03,302
+我好几天没开车了
+I haven't used the truck in a couple of days.
+
+112
+00:06:03,304 --> 00:06:04,796
+那你怎么上班? 
+How do you get to work?
+
+113
+00:06:04,797 --> 00:06:06,439
+走路 可以锻炼身体
+I walk. Need the exercise.
+
+114
+00:06:06,441 --> 00:06:08,708
+维修站离我的住处没多远
+The maintenance bay isn't that far from my quarters.
+
+115
+00:06:08,710 --> 00:06:10,276
+昨天晚上十点你在哪里?
+Where were you last night, 2200 hours?
+
+116
+00:06:10,278 --> 00:06:13,112
+在我房间里面... 睡觉
+I was in my room... asleep.
+
+117
+00:06:13,114 --> 00:06:14,730
+这周很难熬
+Had a tough week.
+
+118
+00:06:14,732 --> 00:06:16,115
+简直是筋疲力尽
+I was exhausted.
+
+119
+00:06:16,117 --> 00:06:17,400
+你确定昨天晚上自己没有喝醉
+You sure you weren't drunk
+
+120
+00:06:17,402 --> 00:06:19,569
+然后把自己做过什么都忘得一干二净?
+and you just don't remember what you did?
+
+121
+00:06:19,571 --> 00:06:21,454
+我们知道你曾经醉酒驾车
+We know about your DUI.
+
+122
+00:06:21,456 --> 00:06:23,489
+我已经十三个月滴酒不沾了
+I've been sober for 13 months.
+
+123
+00:06:23,491 --> 00:06:25,357
+我每周都要去互助会三四次
+I go to three or four meetings a week.
+
+124
+00:06:25,359 --> 00:06:27,910
+如果你是无辜的 昨天晚上没有开车 
+So, if you weren't driving the pickup and you're innocent,
+
+125
+00:06:27,912 --> 00:06:29,962
+为什么要跳窗逃跑?
+why were you climbing out a window?
+
+126
+00:06:32,883 --> 00:06:35,001
+我知道自己的基本权利
+I know my rights.
+
+127
+00:06:35,003 --> 00:06:36,766
+见到律师之前 我不会再说一个字
+I'm not saying any more until I have a lawyer.
+
+128
+00:06:36,791 --> 00:06:37,471
+好的
+Okay.
+
+129
+00:06:37,472 --> 00:06:39,755
+你可以叫自己的律师
+Then you can have the lawyer of your choice
+
+130
+00:06:39,757 --> 00:06:43,042
+或者法官为你指定一位
+or JAG will assign one to you.
+
+131
+00:06:47,565 --> 00:06:48,931
+嘿 麦基
+Hey, McGee.
+
+132
+00:06:48,933 --> 00:06:50,683
+军士邓恩的右脚靴子带来了吗?
+Did you bring me Sergeant Dunne's right boot?
+
+133
+00:06:50,685 --> 00:06:52,865
+抱歉 艾比 他走律师程序了 
+Sorry, Abbs, he lawyered up
+
+134
+00:06:52,866 --> 00:06:53,819
+不允许我们搜查
+and didn't give a permissive search.
+
+135
+00:06:53,821 --> 00:06:55,856
+那你有仔细看他的脚吗?
+Hmm. Well, did you get a good look at his feet?
+
+136
+00:06:55,858 --> 00:06:57,109
+什么?
+Huh?
+
+137
+00:06:57,110 --> 00:06:59,879
+你在现场做的脚印模型
+Well, the footprint that you cast at the crime scene,
+
+138
+00:06:59,880 --> 00:07:02,432
+是标准的海军陆战队战斗靴
+it's a standard-issue Marine Corps combat boot,
+
+139
+00:07:02,433 --> 00:07:03,579
+十号半
+size ten and a half.
+
+140
+00:07:03,581 --> 00:07:05,581
+我猜他可能穿这个号码
+Well, I guess he might wear that size.
+
+141
+00:07:05,583 --> 00:07:07,061
+鞋子磨损得很厉害 
+It's well worn
+
+142
+00:07:07,062 --> 00:07:08,868
+并在右跟处有独特的裂缝
+and has a very distinctive gash in the right heel.
+
+143
+00:07:08,870 --> 00:07:11,504
+我真的很想跟军士邓恩比对一下
+I'd just really love to match it to Sergeant Dunne.
+
+144
+00:07:11,506 --> 00:07:13,072
+那得等到明天早上了
+Well, you're going to have to wait till morning.
+
+145
+00:07:13,074 --> 00:07:14,290
+这里有什么发现吗?
+Any luck here?
+
+146
+00:07:14,292 --> 00:07:17,043
+这就是我们要找的卡车
+Oh, this is definitely the pickup truck.
+
+147
+00:07:17,045 --> 00:07:19,712
+轮胎跟现场泥中的车轮印吻合
+The tires match the tracks that were in the dirt.
+
+148
+00:07:19,714 --> 00:07:22,465
+车辆前端找到的头发 血渍 衣物纤维
+And I got hair, blood and clothing fibers
+
+149
+00:07:22,467 --> 00:07:24,433
+也跟受害者吻合
+off the front end that match our victim.
+
+150
+00:07:24,435 --> 00:07:26,469
+早上就能拿到DNA结果
+So, I'll get DNA confirmation in the morning,
+
+151
+00:07:26,471 --> 00:07:27,970
+那就铁证如山了
+and we should have it locked up.
+
+152
+00:07:27,972 --> 00:07:31,357
+太好了
+Great.
+
+153
+00:07:32,893 --> 00:07:34,694
+嘿 自从托尼车子坏掉以后
+Hey, have you been giving Tony rides to work
+
+154
+00:07:34,696 --> 00:07:36,145
+你有接他上班吗?
+since his car was wrecked?
+
+155
+00:07:36,147 --> 00:07:37,763
+没有
+No.
+
+156
+00:07:38,933 --> 00:07:40,266
+今天早上有人
+Somebody dropped him off
+
+157
+00:07:40,268 --> 00:07:42,268
+大老远送他到昆迪克 
+all the way out at Quantico this morning.
+
+158
+00:07:42,270 --> 00:07:44,036
+他是不是在和谁约会?
+Is he dating someone?
+
+159
+00:07:44,038 --> 00:07:47,439
+哦... 我可不这么认为
+Oh... I don't think so.
+
+160
+00:07:47,441 --> 00:07:50,042
+哼
+Hmm.
+
+161
+00:07:52,947 --> 00:07:54,797
+你闻起来总是那么迷人
+You always smell so great.
+
+162
+00:07:54,799 --> 00:07:56,966
+让我猜猜 你今年肯定又错过
+Let me guess, you missed the sexual harassment meeting
+
+163
+00:07:56,968 --> 00:07:58,351
+性骚扰大会
+again this year.
+
+164
+00:07:58,353 --> 00:08:00,586
+嘿 大伙 看我在大厅里面发现了谁
+Hey, everybody, look who I found in the lobby.
+
+165
+00:08:00,588 --> 00:08:01,854
+嘿 克拉克
+Hey, Clark.
+
+166
+00:08:01,856 --> 00:08:04,090
+- 嘿 伙计们 - 早上好 凯莉
+- Hey, guys. - Morning, Carrie.
+
+167
+00:08:04,092 --> 00:08:06,475
+真不敢相信我有这个荣幸
+I don't think I've had the pleasure.
+
+168
+00:08:06,477 --> 00:08:07,459
+马拉德医生
+Dr. Mallard,
+
+169
+00:08:07,461 --> 00:08:09,795
+这位是联邦调查局前任探员凯莉・克拉克
+meet former FBI agent Carrie Clark.
+
+170
+00:08:09,797 --> 00:08:10,796
+现在从事个人律师业务
+Now in private law practice.
+
+171
+00:08:10,798 --> 00:08:11,931
+很高兴见到你 医生
+Nice to meet you, Doctor.
+
+172
+00:08:11,933 --> 00:08:13,799
+- 我也是 - 凯莉几年前
+- Likewise. - Carrie worked
+
+173
+00:08:13,801 --> 00:08:15,685
+负责诺福克郡那边港务局的案件
+the Norfolk side of the Port Authority case
+
+174
+00:08:15,687 --> 00:08:17,703
+让福内尔看起来容光焕发了都
+a few years ago, made Fornell look good.
+
+175
+00:08:17,705 --> 00:08:18,854
+磨人的工作
+It was a tough job.
+
+176
+00:08:18,856 --> 00:08:20,472
+不 你们做得更好
+No, you guys made it easy.
+
+177
+00:08:20,474 --> 00:08:22,441
+我不记得那个案件了
+I don't remember that case.
+
+178
+00:08:22,443 --> 00:08:23,809
+达克 重窃罪的案件
+Grand theft, Ducky,
+
+179
+00:08:25,697 --> 00:08:26,912
+啊
+Ah.
+
+180
+00:08:26,914 --> 00:08:28,147
+什么风把你吹来了海军罪案调查处?
+What brings you to NCIS?
+
+181
+00:08:28,149 --> 00:08:29,832
+我来见上士邓恩
+I'm here to see Sergeant Dunne.
+
+182
+00:08:31,168 --> 00:08:32,952
+你是他的代表律师吗?
+You're his lawyer?
+
+183
+00:08:32,954 --> 00:08:34,154
+告诉我们这不是事实 
+Say it ain't so.
+
+184
+00:08:34,155 --> 00:08:35,154
+是的 他在哪里?
+Yes, where is he?
+
+185
+00:08:35,156 --> 00:08:37,590
+上士邓恩就在穿过大厅的拘留室内
+Staff Sergeant Dunne's in a holding cell across the yard.
+
+186
+00:08:37,592 --> 00:08:38,924
+探员麦基可以带你去见他
+Agent McGee can take you to him.
+
+187
+00:08:38,949 --> 00:08:39,826
+谢谢
+Thank you.
+
+188
+00:08:39,827 --> 00:08:41,010
+很高兴见到你们
+Good to see you guys.
+
+189
+00:08:43,430 --> 00:08:45,181
+- 再见 - 达克
+- Bye. - Duck,
+
+190
+00:08:45,183 --> 00:08:47,350
+可以随时开始解剖海军士官雷的尸体了
+you can release Petty Officer Ray's body any time
+
+191
+00:08:47,352 --> 00:08:48,801
+你已经准备好
+you're ready.
+
+192
+00:08:48,803 --> 00:08:51,003
+老大 你有没察觉到凯莉有什么不一样吗?
+You notice anything different about Carrie, boss?
+
+193
+00:08:51,005 --> 00:08:52,305
+没有戴着婚戒
+No wedding ring.
+
+194
+00:08:52,307 --> 00:08:53,939
+就告诉过你 丈夫就像是一个手提包
+Told you the husband was a handbag.
+
+195
+00:08:53,941 --> 00:08:56,642
+手提包?
+Handbag?
+
+196
+00:08:56,644 --> 00:08:58,811
+一件挂在你手上但是又无用的东西
+Something useless you hang on your arm.
+
+197
+00:08:58,813 --> 00:09:01,013
+哦
+Oh.
+
+198
+00:09:01,015 --> 00:09:03,032
+嘿 探员福内尔 我是迪诺左
+Hey, Agent Fornell, it's DiNozzo.
+
+199
+00:09:03,034 --> 00:09:05,818
+听好 你能不能给我一些内部消息
+Listen, can you give me the skinny
+
+200
+00:09:05,820 --> 00:09:08,070
+关于迷人的凯莉・克拉克的?
+on the ever-fetching Carrie Clark?
+
+201
+00:09:23,370 --> 00:09:26,305
+你好
+Hello.
+
+202
+00:09:26,307 --> 00:09:27,840
+我是凯莉・克拉克
+I'm Carrie Clark.
+
+203
+00:09:27,842 --> 00:09:29,592
+希望你别中看不中用
+Didn't expect you to look like you do.
+
+204
+00:09:29,594 --> 00:09:31,644
+有什么问题吗?
+Is that a problem?
+
+205
+00:09:31,646 --> 00:09:33,262
+如果你真如我堂弟说的那么厉害的话 没有
+Not if you're as good as my cousin said.
+
+206
+00:09:33,264 --> 00:09:35,815
+好吧 至少我还没有收到过投诉
+Well, I haven't had any complaints.
+
+207
+00:09:37,717 --> 00:09:40,653
+你将会收到几条罪名非常严重的控告
+You're about to be arraigned on some very serious charges.
+
+208
+00:09:40,655 --> 00:09:42,655
+我压根对肇事逃逸这件事情一无所知
+I don't know anything about a hit-and-run.
+
+209
+00:09:42,657 --> 00:09:44,890
+如果真是我的卡车的话 那就是别人开的车
+If it was my pickup, someone else was driving.
+
+210
+00:09:44,892 --> 00:09:46,575
+知道是谁吗?
+Any idea who?
+
+211
+00:09:49,062 --> 00:09:51,614
+贾斯汀 我也想相信你 但是你看起来很紧张
+Justin, I want to believe you, but you seem very nervous.
+
+212
+00:09:51,616 --> 00:09:55,084
+你有没有什么要告诉我?
+Is there something that you want to tell me?
+
+213
+00:09:57,788 --> 00:10:00,005
+昨天晚上十点钟你在哪里?
+Where were you at 10:00 last night?
+
+214
+00:10:00,907 --> 00:10:03,075
+那个无关紧要
+Doesn't matter.
+
+215
+00:10:03,077 --> 00:10:04,260
+这个当然重要
+Of course it does.
+
+216
+00:10:04,262 --> 00:10:05,961
+- 我有不在场证明 - 好吧
+- I have an alibi. - Okay.
+
+217
+00:10:05,963 --> 00:10:07,263
+你应该知道的就只有这些
+That's all you need to know.	
+
+218
+00:10:07,265 --> 00:10:10,182
+你打不打算告诉我?
+Are you going to tell me?
+
+219
+00:10:14,888 --> 00:10:18,257
+好吧 如果这就是你的态度
+All right, if that is going to be your attitude,
+
+220
+00:10:18,259 --> 00:10:19,475
+那不妨我帮你省省钱 如何?
+how about I save you some money?
+
+221
+00:10:19,477 --> 00:10:21,026
+军法局会免费帮你安排一位律师
+JAG will assign someone to you for free.
+
+222
+00:10:21,028 --> 00:10:22,194
+等一下
+Hold on.
+
+223
+00:10:23,697 --> 00:10:25,597
+这个房间装有窃听器吗?
+Could this room be bugged?
+
+224
+00:10:25,599 --> 00:10:27,867
+不 不可以 这是不合法的
+No, no way, that would be illegal.
+
+225
+00:10:27,869 --> 00:10:29,935
+你现在有在录下我们的对话吗?
+Are you recording our conversation?
+
+226
+00:10:29,937 --> 00:10:31,270
+没有
+No.
+
+227
+00:10:31,272 --> 00:10:32,621
+你是我的代表律师
+You're my lawyer.
+
+228
+00:10:32,623 --> 00:10:35,107
+我说的任何东西 你都不能告诉任何人吗?
+Anything I say, you can't tell anyone?
+
+229
+00:10:35,109 --> 00:10:36,826
+我们称之为律师-当事人特权
+It's called attorney-client privilege.
+
+230
+00:10:36,828 --> 00:10:38,610
+你所说的都会被保密
+Everything that you say is confidential.
+
+231
+00:10:38,612 --> 00:10:41,447
+所有的信息都不会被带出这间房间 除非你想
+It doesn't leave this room unless you want it to.
+
+232
+00:10:41,449 --> 00:10:42,631
+作为律师的职业道德规则
+Rules of ethics prohibit me
+
+233
+00:10:42,633 --> 00:10:45,000
+也会禁止我向他人透漏我们谈话的内容
+from telling anyone what we discuss.
+
+234
+00:10:45,002 --> 00:10:46,552
+你确定吗?
+You sure?
+
+235
+00:10:47,454 --> 00:10:49,638
+贾斯汀 我向你承诺
+I promise you, Justin.
+
+236
+00:10:54,294 --> 00:10:56,128
+那个女孩被杀的时候
+When that girl was killed,
+
+237
+00:10:56,130 --> 00:10:59,515
+我在三十五英里外的福尔斯彻奇市
+I was 35 miles away in Falls Church.
+
+238
+00:11:00,467 --> 00:11:02,401
+你在那里做什么?
+And what were you doing there?
+
+239
+00:11:05,689 --> 00:11:07,857
+把一个家伙刺死
+Stabbing a guy to death.
+
+240
+00:11:13,280 --> 00:11:15,331
+你为什么要查询航班?
+Why are you checking airline schedules?
+
+241
+00:11:15,333 --> 00:11:17,283
+迈阿密?
+Miami?
+
+242
+00:11:17,285 --> 00:11:18,751
+你是不是非要知道所有事情?
+Do you have to know everything?
+
+243
+00:11:18,753 --> 00:11:21,153
+是的 已经深深融入我的血液
+Yes, it's in my DNA.
+
+244
+00:11:21,155 --> 00:11:22,777
+好吧 如果我不告诉你 
+Well, you're gonna drive me crazy
+
+245
+00:11:22,778 --> 00:11:24,990
+你肯定会把我烦疯的 所以...
+until I tell you, so...
+
+246
+00:11:24,992 --> 00:11:26,347
+这里已经没有什么工作 
+Things are quiet here,
+
+247
+00:11:26,348 --> 00:11:27,826
+这个案件也将步入结案阶段
+this case is wrapping up.
+
+248
+00:11:27,828 --> 00:11:29,462
+我会有几天假期
+I've got a few vacation days coming,
+
+249
+00:11:29,464 --> 00:11:30,930
+所以黛利拉和我正讨论着
+so Delilah and I have been talking
+
+250
+00:11:30,932 --> 00:11:32,848
+去度一个长周末假
+about getting away for a long weekend.
+
+251
+00:11:32,850 --> 00:11:35,301
+麦基 我对此印象深刻
+McGee, I'm impressed.
+
+252
+00:11:35,303 --> 00:11:39,004
+迈阿密 南海滩 热店 石蟹
+Miami, South Beach, hot clubs, stone crabs.
+
+253
+00:11:39,006 --> 00:11:40,856
+这不像你
+It is unlike you.
+
+254
+00:11:40,858 --> 00:11:44,009
+我就知道我应该闭口不谈的
+I knew I shouldn't have said anything.
+
+255
+00:11:44,844 --> 00:11:47,029
+哦
+Oh.
+
+256
+00:11:47,031 --> 00:11:48,364
+真短时间
+That didn't take long.
+
+257
+00:11:48,366 --> 00:11:49,648
+你的客户终于醒悟过来了?
+Your client come to his senses?
+
+258
+00:11:49,650 --> 00:11:51,016
+- 谢谢你 - 想要供认了吗?
+- Thank you. - Wants to confess?
+
+259
+00:11:51,018 --> 00:11:52,318
+不
+No.
+
+260
+00:11:52,320 --> 00:11:54,069
+那么 是想要庭内和解吗?
+Wants to make a deal, then?
+
+261
+00:11:54,071 --> 00:11:56,021
+上士邓恩说他是无辜的 
+Sergeant Dunne says he's innocent.
+
+262
+00:11:56,023 --> 00:11:57,289
+无辜的?
+Innocent?
+
+263
+00:11:57,291 --> 00:11:59,052
+我们已经对比过受害现场的车痕 
+We've forensically tied his pickup
+
+264
+00:11:59,053 --> 00:11:59,875
+和他的卡车吻合
+to the victim.
+
+265
+00:11:59,877 --> 00:12:02,211
+当我们想要找他问话的时候 他逃跑了
+He ran when we tried to question him.
+
+266
+00:12:02,213 --> 00:12:04,029
+他声称他有不在场证明
+He claims he has an alibi.
+
+267
+00:12:04,031 --> 00:12:05,831
+好吧 那是什么呢? 我们会去查证
+Well, what is it? We'll check it out.
+
+268
+00:12:05,833 --> 00:12:08,083
+吉布斯 事情没有那么简单
+Well, it is not that simple, Gibbs,
+
+269
+00:12:08,085 --> 00:12:09,535
+这是秘密
+he told me in confidence.
+
+270
+00:12:09,537 --> 00:12:10,836
+当事人特权
+It's privileged.
+
+271
+00:12:10,838 --> 00:12:11,870
+如果他不愿意亲自告诉你
+If he doesn't want to tell you himself,
+
+272
+00:12:11,872 --> 00:12:13,705
+我无能为力
+then my hands are tied.
+
+273
+00:12:13,707 --> 00:12:16,208
+还有四十八小时 要么控告他 要么释放他
+We've got 48 hours to either charge him or let him go.
+
+274
+00:12:19,312 --> 00:12:20,896
+给我们一点线索
+Give us something.
+
+275
+00:12:20,898 --> 00:12:24,934
+好吧 听好 我会自己去查证他的不在场证明
+All right, listen, I will go check out his alibi myself
+
+276
+00:12:24,936 --> 00:12:26,902
+然后我会告知你结果
+and I will get back to you.
+
+277
+00:12:30,723 --> 00:12:32,241
+那个家伙正面临着车祸致死罪
+The guy's facing vehicular homicide
+
+278
+00:12:32,243 --> 00:12:33,909
+还有肇事逃逸罪的控告
+and hit-and-run charges.
+
+279
+00:12:33,911 --> 00:12:35,444
+他还不愿意用不在场证明?
+He won't use an alibi?
+
+280
+00:12:35,446 --> 00:12:37,663
+他是不是疯了?
+Is he crazy?
+
+281
+00:12:51,871 --> 00:12:53,955
+艾比
+Abbs.
+
+282
+00:12:53,957 --> 00:12:57,525
+吉布斯... 你真神奇
+Gibbs... you're amazing.
+
+283
+00:13:01,414 --> 00:13:03,331
+你是怎么知道开车的其实是另有其人?
+How did you know that someone else was driving the truck?
+
+284
+00:13:03,333 --> 00:13:05,250
+你发现了什么?
+What'd you find?
+
+285
+00:13:05,252 --> 00:13:06,801
+这比我什么都没发现还要来得有趣
+Well, it's more what I didn't find that's interesting.
+
+286
+00:13:06,803 --> 00:13:08,837
+我的意思是说 在你打给我之前
+I mean, before you called, I was just trying
+
+287
+00:13:08,839 --> 00:13:10,595
+我只是在尝试把死者受害的信息
+to match the victim
+
+288
+00:13:10,596 --> 00:13:11,473
+和车辆进行比对
+to the vehicle, which I did.
+
+289
+00:13:11,475 --> 00:13:12,841
+- 然后呢? - 然后当你问我
+- But? - But then, when you asked me
+
+290
+00:13:12,843 --> 00:13:14,342
+有没有可能
+if there's a chance that someone
+
+291
+00:13:14,344 --> 00:13:16,761
+开车的另有其人之后
+other than the owner of the truck was driving,
+
+292
+00:13:16,763 --> 00:13:19,064
+我就收集了车上所有的指纹 没有任何发现
+I dusted the whole thing for prints, I didn't find any.
+
+293
+00:13:19,066 --> 00:13:21,266
+- 只有上士邓恩的吗? - 不是
+- Just Staff Sergeant Dunne's? - No.
+
+294
+00:13:21,268 --> 00:13:24,819
+我的意思是 没有任何指纹 什么都没有
+I mean, like none, nada, zip, zilch, nothing.
+
+295
+00:13:24,821 --> 00:13:26,855
+整辆卡车的表面
+Almost the entire surface of the truck
+
+296
+00:13:26,857 --> 00:13:28,606
+几乎都被擦去了指纹...
+was wiped clean of fingerprints...
+
+297
+00:13:28,608 --> 00:13:30,224
+车门把手 方向盘 换挡杆
+the door handle, the steering wheel, the gearshift,
+
+298
+00:13:30,226 --> 00:13:33,661
+座椅调节器 所有的东西
+the seat adjuster, everything.
+
+299
+00:13:34,780 --> 00:13:37,499
+现在 我就想起了我的伯父霍勒斯
+Now, I got reminded o-of my Uncle Horace.
+
+300
+00:13:37,501 --> 00:13:38,900
+他总是忘记东西
+He was always losing things
+
+301
+00:13:38,902 --> 00:13:41,336
+像他的眼镜 钱包 还有钥匙
+like his glasses and his wallet and his keys.
+
+302
+00:13:41,338 --> 00:13:42,954
+很多次都把自己锁在了车里面
+He got locked out of his own car so many times
+
+303
+00:13:42,956 --> 00:13:45,907
+所以他就在自己的车里藏了把钥匙
+that he, he hid a key on his car.
+
+304
+00:13:45,909 --> 00:13:49,711
+然后我就找到了... 这个...
+And then I found... this...
+
+305
+00:13:51,047 --> 00:13:52,597
+...在前轮下面
+...under the front wheel well.
+
+306
+00:13:52,599 --> 00:13:53,848
+也被擦干净了?
+Wiped clean?
+
+307
+00:13:53,850 --> 00:13:56,718
+哦 是的 包括里面的钥匙
+Oh, yeah, including the key inside.
+
+308
+00:13:56,720 --> 00:14:00,271
+这几乎不可能是车主会做的事情
+That is hardly something that the owner would do.
+
+309
+00:14:00,273 --> 00:14:02,223
+开车的另有其人
+Someone else was driving the truck.
+
+310
+00:14:02,225 --> 00:14:04,976
+是的 他们还尽力让它看起来不是那么回事
+Yes, and they tried to make it look like they weren't.
+
+311
+00:14:06,112 --> 00:14:08,279
+谢谢 艾比
+Thanks, Abbs.
+
+312
+00:14:11,767 --> 00:14:15,603
+我不明白为什么人们要跑步健身
+I don't understand why people run.
+
+313
+00:14:15,605 --> 00:14:18,289
+哦 好吧 这是有益健康的
+Oh, well, it's therapeutic,
+
+314
+00:14:18,291 --> 00:14:19,958
+跑步对心血管的健康大有益处
+it has great cardiovascular benefits.
+
+315
+00:14:19,960 --> 00:14:22,276
+而且 可以使得之前的内啡肽发生抽气效应
+What's more, it gets the old endorphins pumping.
+
+316
+00:14:22,278 --> 00:14:25,130
+跟你讲 跑一跑能让我嗨起来
+I'll tell you, running gives me a great high.
+
+317
+00:14:25,132 --> 00:14:27,582
+我指的是司机
+I was referring to the driver
+
+318
+00:14:27,584 --> 00:14:29,834
+肇事逃跑的司机 帕莫先生
+running from the scene of the accident, Mr. Palmer.
+
+319
+00:14:29,836 --> 00:14:31,836
+哦 对的 对的
+Oh, yes, yes.
+
+320
+00:14:31,838 --> 00:14:34,422
+你知道吗 在美国肇事后逃离现场
+Did you know that pedestrian hit-and-runs are
+
+321
+00:14:34,424 --> 00:14:36,624
+发生率非常高?
+at an epidemic rate in this country?
+
+322
+00:14:36,626 --> 00:14:38,259
+将近百分之十一
+Nearly 11%
+
+323
+00:14:38,261 --> 00:14:40,678
+在美国发生的车祸都是
+of all traffic accidents in the United States are
+
+324
+00:14:40,680 --> 00:14:42,147
+肇事逃逸
+hit-and-runs.
+
+325
+00:14:42,149 --> 00:14:43,231
+那位海军士官雷?
+That Petty Officer Ray?
+
+326
+00:14:43,233 --> 00:14:44,399
+是的
+Yes.
+
+327
+00:14:44,401 --> 00:14:45,984
+保留这具尸体再久一点
+Hold on to the body for a little while longer,
+
+328
+00:14:45,986 --> 00:14:47,018
+好吧 达克?
+will you, Duck?
+
+329
+00:14:47,020 --> 00:14:48,019
+你签了释放书
+You signed the release.
+
+330
+00:14:48,021 --> 00:14:49,103
+有什么发生变化吗?
+Has something changed?
+
+331
+00:14:49,105 --> 00:14:51,489
+是的
+Yeah.
+
+332
+00:14:53,159 --> 00:14:54,475
+但是我不知道是什么
+But I don't know what.
+
+333
+00:14:56,478 --> 00:14:57,495
+你好 我是吉布斯
+Yeah, it's Gibbs.
+
+334
+00:14:57,497 --> 00:14:58,446
+我是凯莉・克拉克
+Hi, it's Carrie Clark.
+
+335
+00:14:58,448 --> 00:14:59,664
+哦 凯莉 你有什么发现吗?
+Yeah, Carrie, what do you got?
+
+336
+00:14:59,666 --> 00:15:01,166
+邓恩的不在场证明
+Well, Dunne's alibi
+
+337
+00:15:01,168 --> 00:15:02,817
+查了一下 属实
+checks out, it's solid.
+
+338
+00:15:02,819 --> 00:15:04,485
+- 跟我讲一下 - 我不能
+- Mm-hmm, tell me. - I can't.
+
+339
+00:15:04,487 --> 00:15:06,320
+你要找到真正肇事逃逸的司机
+You're going to have to start looking
+
+340
+00:15:06,322 --> 00:15:08,039
+因为不是我的客户做的
+for the real hit-and-run driver because it's not my client.
+
+341
+00:15:08,041 --> 00:15:11,092
+凯莉 听着 我不能就这样相信你 好吧?
+Carrie, look, I can't just take your word for it, okay?
+
+342
+00:15:11,094 --> 00:15:12,594
+跟我讲点什么
+Give me something here.
+
+343
+00:15:12,596 --> 00:15:14,956
+你要自己查明白 吉布斯
+You're gonna have to figure this one out on your own, Gibbs.
+
+344
+00:15:19,835 --> 00:15:22,804
+杰斯罗 发生什么事情了吗?
+Jethro, is something wrong?
+
+345
+00:15:30,362 --> 00:15:32,480
+似乎今天你要跟我们在一起度过
+Looks like you won't be leaving us
+
+346
+00:15:32,482 --> 00:15:34,732
+亲爱的
+today after all, my dear.
+
+347
+00:15:39,538 --> 00:15:41,188
+麦基
+McGee,
+
+348
+00:15:41,190 --> 00:15:42,907
+追踪一下上一个电话 可以吗?
+trace the last call, will you?
+
+349
+00:15:42,909 --> 00:15:44,476
+你想知道谁打来的吗?
+You want me to find out who it was from?
+
+350
+00:15:44,501 --> 00:15:45,794
+是凯莉・克拉克打来的
+It was from Carrie Clark.
+
+351
+00:15:45,795 --> 00:15:48,195
+通常她的名字会出现在这个小窗口
+Usually her name comes up on that little window there.
+
+352
+00:15:48,197 --> 00:15:49,910
+这次没有出现 只有一个号码
+This time it didn't; it was just a number.
+
+353
+00:15:53,836 --> 00:15:54,886
+她说什么了吗?
+What did she say?
+
+354
+00:15:54,888 --> 00:15:56,871
+说证实了她客户的不在场证明
+Said her client's alibi checked out.
+
+355
+00:15:56,873 --> 00:15:58,256
+我不相信
+I don't believe it.
+
+356
+00:15:58,258 --> 00:15:59,839
+这是一个公用电话的号码
+Well, the number belongs to a pay phone.
+
+357
+00:15:59,864 --> 00:16:00,893
+公用电话?
+Pay phone?
+
+358
+00:16:00,894 --> 00:16:02,143
+我以为现在都没有这东西了
+I didn't think there were any left.
+
+359
+00:16:02,145 --> 00:16:05,096
+福尔斯彻奇市 洋槐路三百二十五号
+325 Acacia Avenue in Falls Church.
+
+360
+00:16:05,098 --> 00:16:06,213
+就在图书馆前面
+It's in front of the library.
+
+361
+00:16:06,215 --> 00:16:07,548
+凯莉有手机
+Carrie has a cell.
+
+362
+00:16:07,550 --> 00:16:09,100
+为什么要用公用电话?
+Why would she use a pay phone?
+
+363
+00:16:09,102 --> 00:16:10,268
+不清楚
+Not sure.
+
+364
+00:16:10,270 --> 00:16:13,220
+她知道客户的不在场证明
+She knows her client's alibi.
+
+365
+00:16:13,222 --> 00:16:15,907
+她知道她不能告诉我们
+She knows she can't tell us.
+
+366
+00:16:15,909 --> 00:16:17,992
+你在想什么 老大?
+What are you thinking, boss?
+
+367
+00:16:17,994 --> 00:16:19,894
+凯莉知道我们会好奇
+Carrie knows we'll be intrigued,
+
+368
+00:16:19,896 --> 00:16:22,080
+她知道我们会追踪这个号码
+she knows that we'll trace the call.
+
+369
+00:16:22,082 --> 00:16:23,748
+她是不是给我们留了一个线索?
+Did she just drop a bread crumb?
+
+370
+00:16:23,750 --> 00:16:26,084
+是的 走吧 出发
+Yeah. Go. Go on.
+
+371
+00:16:37,429 --> 00:16:39,347
+这就是那台公用电话
+There's the pay phone.
+
+372
+00:16:39,349 --> 00:16:42,249
+为什么凯莉在这里打电话?
+Why was Carrie calling from here?
+
+373
+00:16:43,418 --> 00:16:45,770
+图书馆 五金商店?
+Library, hardware store?
+
+374
+00:16:45,772 --> 00:16:49,256
+看 性事良品
+Oh, there we go, Great Sexpectations.
+
+375
+00:16:49,258 --> 00:16:51,526
+我高度怀疑 托尼
+I seriously doubt it, Tony.
+
+376
+00:16:53,261 --> 00:16:55,513
+嘿 有一辆警车
+Hey, there's a squad car.
+
+377
+00:16:58,651 --> 00:17:00,752
+是的 去看看
+Yeah, let's check it out.
+
+378
+00:17:04,491 --> 00:17:06,574
+你发现凯莉离婚了没有?
+Did you ever find out if Carrie was divorced?
+
+379
+00:17:06,576 --> 00:17:08,376
+临时分居
+Ah. Trial separation.
+
+380
+00:17:08,378 --> 00:17:09,577
+她没有戴着戒指
+She's not wearing her ring.
+
+381
+00:17:09,579 --> 00:17:10,962
+那什么意思你懂的
+You know what that means.
+
+382
+00:17:10,964 --> 00:17:12,463
+结束了
+It's over.
+
+383
+00:17:13,949 --> 00:17:15,917
+嘿
+Hey.
+
+384
+00:17:15,919 --> 00:17:17,669
+海军罪案调查处
+NCIS.
+
+385
+00:17:17,671 --> 00:17:19,387
+特别探员迪诺佐和麦基
+Special Agents DiNozzo and McGee.
+
+386
+00:17:19,389 --> 00:17:21,122
+多克里 杀人案
+Dockry, Homicide.
+
+387
+00:17:21,790 --> 00:17:22,807
+杀人案?
+Homicide?
+
+388
+00:17:22,809 --> 00:17:24,142
+你们在忙什么?
+What are you guys up to?
+
+389
+00:17:24,144 --> 00:17:26,293
+哦 就是溜大街 很无聊的海军任务
+Oh, just pounding the pavement, boring Navy stuff.
+
+390
+00:17:26,295 --> 00:17:28,646
+是的 不像杀人案件这么重要的
+Yeah, nothing serious like homicide.
+
+391
+00:17:28,648 --> 00:17:30,815
+谁死了?
+Who's dead?
+
+392
+00:17:30,817 --> 00:17:33,151
+商店主... 唐尼・沙利文
+Store owner... Donny Sullivan.
+
+393
+00:17:33,153 --> 00:17:34,569
+前天晚上被捅死了
+Stabbed to death night before last.
+
+394
+00:17:34,571 --> 00:17:36,070
+员工昨天早上在楼上卧室
+Body was found in the upstairs residence
+
+395
+00:17:36,072 --> 00:17:38,272
+发现了他的尸体
+yesterday morning by an employee.
+
+396
+00:17:38,274 --> 00:17:40,474
+- 线索呢? - 目前还没有
+- Any leads? - Nothing concrete yet.
+
+397
+00:17:40,476 --> 00:17:41,809
+你们有什么需要吗?
+Anything I can help you guys with?
+
+398
+00:17:41,811 --> 00:17:43,077
+不用 我们要走了
+Ah, no, we got to go.
+
+399
+00:17:43,079 --> 00:17:44,245
+他饿了
+He gets hungry.
+
+400
+00:17:44,247 --> 00:17:46,114
+那倒是 回头见
+It's true. See you around.
+
+401
+00:17:46,116 --> 00:17:50,201
+嘿 你们认识一名叫吉布斯的特别探员吗?
+Hey, do you guys know a Special Agent Gibbs?
+
+402
+00:17:50,203 --> 00:17:54,122
+认识 我们亲切地管他叫"老大"
+Oh, yeah, we affectionately refer to him as "boss."
+
+403
+00:17:54,124 --> 00:17:56,374
+告诉他希科里的儿子问好
+Tell him Hickory's son said hi.
+
+404
+00:17:56,376 --> 00:17:57,491
+希科里?
+Hickory?
+
+405
+00:17:57,493 --> 00:17:58,826
+他会知道的
+He'll know.
+
+406
+00:18:02,514 --> 00:18:03,715
+商店主的谋杀案几乎与
+The storekeeper's murder happened
+
+407
+00:18:03,717 --> 00:18:05,516
+肇事逃逸同时发生
+about the same time as the hit-and-run.
+
+408
+00:18:05,518 --> 00:18:08,302
+你觉得这个跟邓恩的不在场证明有关吗?
+Think this has something to do with Dunne's alibi?
+
+409
+00:18:08,304 --> 00:18:10,688
+如果邓恩参与了 那么他是怎么 
+If Dunne was involved, then how'd he get
+
+410
+00:18:10,690 --> 00:18:12,140
+从昆迪克到这里来再赶回去的呢?
+from Quantico to here and back?
+
+411
+00:18:12,142 --> 00:18:13,808
+他的卡车没有离开过地下室
+His truck never left the base.
+
+412
+00:18:13,810 --> 00:18:15,560
+我觉得你在迈阿密的热情周末计划
+I think your amorous little weekend in Miami
+
+413
+00:18:15,562 --> 00:18:16,694
+要泡汤了
+just went bye-bye.
+
+414
+00:18:16,696 --> 00:18:18,279
+- 你好 我是吉布斯 - 嘿 老大
+- Yeah. Gibbs. - Hey, boss.
+
+415
+00:18:18,281 --> 00:18:19,864
+有关邓恩的不在场证明我们可能有线索了
+We might have a lead on Dunne's alibi.
+
+416
+00:18:19,866 --> 00:18:23,901
+尽你可能去查... 要小心 迪诺佐
+Find out what you can-- discreetly, DiNozzo.
+
+417
+00:18:23,903 --> 00:18:26,037
+吉布斯 吉布斯 吉布斯 我跟你说过
+Gibbs, Gibbs, Gibbs, so I told you that I dusted
+
+418
+00:18:26,039 --> 00:18:28,206
+我查了整辆卡车 寻找指纹 但是我并没有
+the entire truck for prints, but I didn't.
+
+419
+00:18:28,208 --> 00:18:30,408
+我只是查了一个人会碰到的地方
+I only dusted the places that a person would touch,
+
+420
+00:18:30,410 --> 00:18:32,043
+然后我意识到 如果有人
+and then I realized that if someone's going
+
+421
+00:18:32,045 --> 00:18:34,162
+调整了座位旋转杠杆 并且他们确实调整了
+to adjust the seat lever, which they did,
+
+422
+00:18:34,164 --> 00:18:37,031
+他们可能也会调整一下后视镜
+they would probably also adjust the rearview mirror.
+
+423
+00:18:37,033 --> 00:18:38,383
+猜我找到了什么...
+And guess what I found...
+
+424
+00:18:38,385 --> 00:18:40,885
+背面有一个刚印上去的右拇指指纹
+a fresh right thumbprint on its backside.
+
+425
+00:18:40,887 --> 00:18:42,053
+拇指指纹有名字没有?
+Thumbprint have a name?
+
+426
+00:18:42,055 --> 00:18:44,172
+别傻了 吉布斯
+Don't be silly, Gibbs,
+
+427
+00:18:44,174 --> 00:18:46,474
+拇指指纹没有名字的
+thumbprints don't have names.
+
+428
+00:18:47,726 --> 00:18:49,677
+人才有名字
+People do.
+
+429
+00:18:49,679 --> 00:18:51,378
+我第一步就是将它和
+My first pass was to run it
+
+430
+00:18:51,380 --> 00:18:53,714
+所有在昆迪克的人员进行对比
+against all the personnel at Quantico.
+
+431
+00:18:54,818 --> 00:18:56,717
+而我做到这里就可以了
+And that's all I had to do.
+
+432
+00:18:56,719 --> 00:18:58,653
+二等兵丹尼尔・克里夫
+Private Daniel Cliff.
+
+433
+00:19:04,243 --> 00:19:06,244
+吉布斯很快就过来
+Gibbs will be in, in a minute.
+
+434
+00:19:06,246 --> 00:19:08,446
+谢谢
+Thank you.
+
+435
+00:19:08,448 --> 00:19:10,415
+你知道他们为什么把我带过来吗?
+You know why they brought me over here?
+
+436
+00:19:10,417 --> 00:19:11,749
+不知道
+No.
+
+437
+00:19:11,751 --> 00:19:12,900
+我告诉他们 在我的律师到场之前
+I told them I wouldn't say anything else
+
+438
+00:19:12,902 --> 00:19:14,368
+我不会说什么别的了
+until my lawyer was present.
+
+439
+00:19:14,370 --> 00:19:16,421
+我查了你的不在场证明
+Well, I checked your alibi.
+
+440
+00:19:16,423 --> 00:19:18,339
+你没有撒谎
+You weren't lying.
+
+441
+00:19:18,341 --> 00:19:20,758
+嘿 你不知道谁在玻璃另一面
+Hey, you don't know who's on the other side of that glass.
+
+442
+00:19:20,760 --> 00:19:22,409
+我们不要再谈这件事情
+Let's not discuss it again.
+
+443
+00:19:22,411 --> 00:19:24,762
+你知道你要做的是什么
+You know all you have to.
+
+444
+00:19:24,764 --> 00:19:25,930
+我是无辜的
+I'm innocent.
+
+445
+00:19:28,583 --> 00:19:29,967
+这个等不到明天早上吗?
+Couldn't this have waited till the morning?
+
+446
+00:19:29,969 --> 00:19:31,769
+不能
+Nope.
+
+447
+00:19:33,772 --> 00:19:35,106
+- 你认识他吗? - 是的
+- You know him? - Yeah,
+
+448
+00:19:35,108 --> 00:19:36,974
+二等兵克里夫... 我见过他
+Private Cliff-- I see him around.
+
+449
+00:19:36,976 --> 00:19:38,392
+你们俩关系好吗?
+You two close?
+
+450
+00:19:38,394 --> 00:19:40,278
+不
+No.
+
+451
+00:19:41,396 --> 00:19:43,448
+我们以前一起喝过几次酒
+We hung a couple of times back when I was drinking.
+
+452
+00:19:43,450 --> 00:19:44,932
+那是很久之前的事情
+That was a long time ago.
+
+453
+00:19:44,934 --> 00:19:46,617
+最近见过面吗?
+Have you seen each other lately?
+
+454
+00:19:48,204 --> 00:19:51,322
+在洗衣间 娱乐室见过他 就这样
+Run into him in the laundry, rec room, that's it.
+
+455
+00:19:51,324 --> 00:19:53,291
+你允许二等兵克里夫
+You give Private Cliff permission
+
+456
+00:19:53,293 --> 00:19:54,659
+驾驶你的小皮卡了吗?
+to drive your pickup truck?
+
+457
+00:19:54,661 --> 00:19:57,829
+他妈的 才没有
+Hell, no.
+
+458
+00:19:57,831 --> 00:19:59,297
+这是什么事情?
+What was that about?
+
+459
+00:20:03,118 --> 00:20:06,170
+吉布斯? 好像你找到
+Gibbs? Sounds like you have
+
+460
+00:20:06,172 --> 00:20:07,555
+肇事逃逸的嫌疑人了
+a suspect for your hit-and-run.
+
+461
+00:20:07,557 --> 00:20:10,224
+- 你要释放我的客户吗? - 还不行
+- You gonna let my client go? - Not yet.
+
+462
+00:20:10,226 --> 00:20:11,592
+拜托 他是因为任务
+Come on. He's due to deploy.
+
+463
+00:20:11,594 --> 00:20:13,094
+还没把二等兵克里夫
+Haven't brought Private Cliff in
+
+464
+00:20:13,096 --> 00:20:14,262
+带过来问话呢
+for questioning yet.
+
+465
+00:20:14,264 --> 00:20:15,813
+你的四十八小时快用完了
+Well, your 48-hour clock is ticking.
+
+466
+00:20:15,815 --> 00:20:16,814
+如果你明天还没有起诉我的客户
+If you don't charge my client
+
+467
+00:20:16,816 --> 00:20:18,149
+你只能释放他走
+by tomorrow, you have to let him go.
+
+468
+00:20:18,151 --> 00:20:19,851
+你知道吗 发生了一件有趣的事情
+You know, a funny thing happened.
+
+469
+00:20:21,437 --> 00:20:23,905
+引我们去一家福尔斯彻奇的香烟商店
+Sent us to a cigar store in Falls Church.
+
+470
+00:20:23,907 --> 00:20:25,072
+是吗?
+Really?
+
+471
+00:20:25,074 --> 00:20:28,025
+是的 那是一个杀人案件的 犯罪现场
+Yeah, it was a crime scene, a homicide.
+
+472
+00:20:29,661 --> 00:20:31,996
+如果你的委托人当晚
+If your client wasn't driving his truck
+
+473
+00:20:31,998 --> 00:20:33,614
+没有开他的卡车
+on base the other night,
+
+474
+00:20:33,616 --> 00:20:37,151
+他会不会是在福尔斯彻奇呢?
+could he have been in Falls Church?
+
+475
+00:20:38,787 --> 00:20:43,090
+我只关心上士邓恩的权利
+My only concern is Sergeant Dunne's rights.
+
+476
+00:20:43,092 --> 00:20:45,492
+他并没有涉嫌肇事逃逸
+He wasn't involved in the hit-and-run.
+
+477
+00:20:53,186 --> 00:20:56,137
+不置可否
+A non-denial denial.
+
+478
+00:20:56,139 --> 00:20:57,949
+杰森・罗巴兹 惊天大阴谋
+Jason Robards, as Ben Bradlee
+
+479
+00:20:57,950 --> 00:20:59,307
+里面的本・布莱德里
+in All the President's Men.
+
+480
+00:20:59,309 --> 00:21:01,675
+她没有说"不"
+She didn't say "no."
+
+481
+00:21:13,560 --> 00:21:16,211
+哦 你疯了
+Oh, you're crazy.
+
+482
+00:21:16,213 --> 00:21:19,047
+不 你一定需要眼镜
+No, you must need glasses.
+
+483
+00:21:20,083 --> 00:21:22,668
+嗯 好的 回见
+Yeah, yeah. All right, later.
+
+484
+00:21:23,720 --> 00:21:24,838
+什么事情 这么有趣?
+What's so funny?
+
+485
+00:21:24,839 --> 00:21:26,556
+人力资源部的霍兰德
+That was Hollander in HR.
+
+486
+00:21:26,558 --> 00:21:28,391
+说她今天早上在前门见到你
+She claims that she saw you this morning
+
+487
+00:21:28,393 --> 00:21:30,810
+下了一辆公共汽车
+at the front gate getting off a city bus.
+
+488
+00:21:30,812 --> 00:21:32,378
+是的 是我
+Yeah, that was me.
+
+489
+00:21:32,380 --> 00:21:34,731
+听着 我知道我过去取笑过你
+Listen, I know I made fun of you
+
+490
+00:21:34,733 --> 00:21:37,767
+坐公交车 但是我得承认我错了
+in the past for riding the bus, but I have to admit I was wrong.
+
+491
+00:21:37,769 --> 00:21:39,352
+我一直在用公共交通工具
+I've been using public transportation,
+
+492
+00:21:39,354 --> 00:21:40,653
+我也真的很喜欢
+and I really like it.
+
+493
+00:21:40,655 --> 00:21:42,522
+- 你在耍我 - 没有
+- You're kidding. - No.
+
+494
+00:21:42,524 --> 00:21:43,723
+我有时间读点东西
+I have time to read,
+
+495
+00:21:43,725 --> 00:21:45,825
+打点电话 最重要的是...
+make some calls and, best of all...
+
+496
+00:21:45,827 --> 00:21:47,393
+我可以观察人
+I get to watch people.
+
+497
+00:21:47,395 --> 00:21:48,745
+人真的很有趣
+People are fascinating.
+
+498
+00:21:48,747 --> 00:21:50,896
+好吧 托尼 我...
+Okay, Tony, I'm...
+
+499
+00:21:50,898 --> 00:21:54,200
+我都弄不清我是谁了
+I don't even know what I am right now.
+
+500
+00:21:54,202 --> 00:21:56,502
+但是我了解你 这不是你
+But I know you, and this is not you.
+
+501
+00:21:56,504 --> 00:21:59,505
+老大 我查了上士邓恩的邮件
+Boss, I went through Sergeant Dunne's e-mails,
+
+502
+00:21:59,507 --> 00:22:00,906
+电话记录和信用卡
+phone calls and credit cards.
+
+503
+00:22:00,908 --> 00:22:02,625
+毫无所获
+I came up empty.
+
+504
+00:22:02,627 --> 00:22:05,511
+他和死了的烟店店主没有丝毫联系
+There's no connecting him to the dead cigar-store owner.
+
+505
+00:22:06,714 --> 00:22:08,581
+他有什么动机去杀那个人呢?
+What would his motive be to kill the guy?
+
+506
+00:22:08,583 --> 00:22:10,466
+我发现邓恩和一个马里兰州的
+Did find out Dunne exchanged a lot of calls
+
+507
+00:22:10,468 --> 00:22:12,602
+电话号码交往甚密
+with a Maryland cell phone number.
+
+508
+00:22:12,604 --> 00:22:14,253
+是一个叫奥利维拉・钱德勒的人
+Belongs to an Olivia Chandler.
+
+509
+00:22:14,255 --> 00:22:15,722
+好的 那就去查查她是谁
+Yeah, well, find out who she is.
+
+510
+00:22:15,724 --> 00:22:18,191
+好的
+Yup.
+
+511
+00:22:18,193 --> 00:22:19,859
+我们能不能冒个险 把邓恩军士的名字
+Do we dare run Sergeant Dunne's name
+
+512
+00:22:19,861 --> 00:22:21,008
+告诉福尔斯彻奇的警察 
+by Falls Church PD,
+
+513
+00:22:21,009 --> 00:22:22,261
+看看他们能否找出点联系?
+see if they can make a connection?
+
+514
+00:22:22,263 --> 00:22:23,479
+不能
+Can't do that.
+
+515
+00:22:23,481 --> 00:22:25,097
+我们得保护凯莉・克拉克
+Got to protect Carrie Clark.
+
+516
+00:22:25,099 --> 00:22:26,566
+你可以私下里去做
+You can do it off the record.
+
+517
+00:22:26,568 --> 00:22:29,118
+负责杀人案的警官貌似认识你
+The homicide detective in charge seemed to know you.
+
+518
+00:22:29,120 --> 00:22:32,538
+- 谁? - 哎 他带话说
+- Who? - Well, he said to tell you,
+
+519
+00:22:32,540 --> 00:22:34,273
+"希科里之子问好"
+"Hickory's son says hello."
+
+520
+00:22:34,275 --> 00:22:36,542
+保罗・希科里
+That's Paul Dockry.
+
+521
+00:22:36,544 --> 00:22:38,828
+希科里 多克里 多克里
+Hickory Dickory Dockry.
+
+522
+00:22:38,830 --> 00:22:41,280
+我和他的爸爸在军队是老相好
+His dad and I were in the Corps together.
+
+523
+00:22:41,282 --> 00:22:44,133
+来吧 迪诺左 跟我走
+Come on, DiNozzo. You're with me.
+
+524
+00:22:44,135 --> 00:22:46,919
+哈 人可真有趣
+Huh. People are fascinating.
+
+525
+00:22:58,899 --> 00:23:01,484
+这个靴子印 被发现出现在海军士官
+This boot print was found at a crime scene
+
+526
+00:23:01,486 --> 00:23:03,486
+的死亡现场
+that killed a petty officer.
+
+527
+00:23:03,488 --> 00:23:06,305
+一样的靴子 一样的右脚跟图样
+This is the same boot, the same cutout at the right heel.
+
+528
+00:23:06,307 --> 00:23:07,774
+你还知不知道 克里夫?
+And you know what else, Cliff?
+
+529
+00:23:07,776 --> 00:23:09,742
+我们在后视镜上面找到了
+We got your thumbprint on the rearview mirror
+
+530
+00:23:09,744 --> 00:23:11,244
+你的拇指纹
+of that vehicle.
+
+531
+00:23:12,614 --> 00:23:13,913
+怎么回事?
+What happened?
+
+532
+00:23:13,915 --> 00:23:16,783
+天很黑
+It was dark.
+
+533
+00:23:16,785 --> 00:23:18,651
+我看到她时已经太晚了
+I couldn't see her until it was too late.
+
+534
+00:23:18,653 --> 00:23:20,586
+你开着邓恩上士的车做什么?
+What were you doing with Staff Sergeant Dunne's truck?
+
+535
+00:23:20,588 --> 00:23:22,088
+我喝了点小酒
+I had a few drinks.
+
+536
+00:23:22,090 --> 00:23:23,506
+我认识一个斯坦福的女孩
+I know this girl in Stafford.
+
+537
+00:23:23,508 --> 00:23:25,375
+在休息室 我无意中听到邓恩说
+I overheard Dunne in the rec room.
+
+538
+00:23:25,377 --> 00:23:27,293
+他这一周过得很烂 要早点睡
+Said he had a rough week and was gonna hit the rack early.
+
+539
+00:23:27,295 --> 00:23:28,461
+我想我可以把他的车开走 在他发现之前
+Figured I'd take his truck and be back
+
+540
+00:23:28,463 --> 00:23:29,679
+- 就能开回来 - 胡扯!
+- before he even missed it. - Bull!
+
+541
+00:23:29,681 --> 00:23:31,631
+你怎么知道藏着的钥匙在哪里?
+How'd you know about the hidden key?
+
+542
+00:23:31,633 --> 00:23:33,349
+一年前 他还酗酒的时候
+About a year ago, when he was still drinking,
+
+543
+00:23:33,351 --> 00:23:35,334
+有次他喝得烂醉 把自己锁在了车外
+he got wasted, locked himself out of his truck.
+
+544
+00:23:35,336 --> 00:23:37,336
+他拿出藏着的钥匙 让我送他回家
+Got the hidden key out, had me drive him home.
+
+545
+00:23:37,338 --> 00:23:39,446
+你把一个受伤的女人丢在路边送死?
+You left an injured woman to die by the side of the road?
+
+546
+00:23:39,471 --> 00:23:40,441
+不!
+No!
+
+547
+00:23:40,442 --> 00:23:41,674
+我停车了
+I stopped.
+
+548
+00:23:41,676 --> 00:23:43,109
+我意识到她死了
+I knew she was dead,
+
+549
+00:23:43,111 --> 00:23:44,777
+我才发现事情有多糟
+and I realized how bad it all looked.
+
+550
+00:23:44,779 --> 00:23:47,530
+我喝醉了 又开着一辆偷来的车
+I was drinking, I was driving a stolen vehicle.
+
+551
+00:23:47,532 --> 00:23:49,565
+我只是很惊慌 把车开回了停车场
+I just panicked and drove back to the parking lot.
+
+552
+00:23:49,567 --> 00:23:51,617
+你得相信我
+You got to believe me.
+
+553
+00:23:51,619 --> 00:23:54,186
+这是一个意外
+It was an accident.
+
+554
+00:24:04,798 --> 00:24:06,198
+我要拘留他 
+I'll book him.
+
+555
+00:24:06,200 --> 00:24:07,583
+如果我们指控二等兵克里夫
+If we charge Private Cliff
+
+556
+00:24:07,585 --> 00:24:09,052
+犯肇事逃逸罪
+with the hit-and-run,
+
+557
+00:24:09,054 --> 00:24:11,287
+我们就得放邓恩上士走
+we got to let Staff Sergeant Dunne go.
+
+558
+00:24:11,289 --> 00:24:12,839
+我没有打算这么做
+I'm not ready to do that.
+
+559
+00:24:12,841 --> 00:24:14,373
+我们只有几个小时
+We only have a few more hours
+
+560
+00:24:14,375 --> 00:24:15,758
+扣押邓恩
+until the clock runs out on Dunne.
+
+561
+00:24:15,760 --> 00:24:18,478
+把他关到拘留室里去
+Put him in a holding cell.
+
+562
+00:24:26,653 --> 00:24:28,638
+- 嘿 保罗 - 嘿 吉布斯
+- Hey, Paul. - Hey, Gibbs.
+
+563
+00:24:28,640 --> 00:24:30,206
+抱歉 等我一下
+Sorry. Just give me a sec.
+
+564
+00:24:30,208 --> 00:24:31,674
+我得发完这条给女儿的短信
+I got to finish this text to my daughter.
+
+565
+00:24:31,676 --> 00:24:33,242
+这是她和我交流的唯一方式
+Only way she'll communicate me.
+
+566
+00:24:33,244 --> 00:24:36,028
+那个孩子从不接电话
+The kid never answers her phone.
+
+567
+00:24:36,030 --> 00:24:38,063
+都好久了
+Been a long time.
+
+568
+00:24:38,065 --> 00:24:39,832
+你的爸爸好吗?
+How's your dad?
+
+569
+00:24:39,834 --> 00:24:42,067
+顽固依旧
+Stubborn as always.
+
+570
+00:24:42,069 --> 00:24:44,871
+我以为会在我的妹妹的婚礼上碰到你
+Thought I might run into you at my kid sister's wedding.
+
+571
+00:24:44,873 --> 00:24:46,568
+哦 不 不 我不... 
+Oh, no, no. I'm not...
+
+572
+00:24:46,569 --> 00:24:47,840
+不太热衷于参加婚礼
+I'm not big on weddings.
+
+573
+00:24:47,842 --> 00:24:49,459
+我能理解
+I can understand that.
+
+574
+00:24:49,461 --> 00:24:52,762
+谢谢你来见我
+Thanks for meeting me.
+
+575
+00:24:52,764 --> 00:24:56,299
+嗯 我在福尔斯彻奇碰到你的探员
+Yeah. I ran into your agents in Falls Church.
+
+576
+00:24:56,301 --> 00:24:58,301
+我猜 那不是巧合吧
+Taking it, that wasn't a coincidence.
+
+577
+00:24:58,303 --> 00:24:59,852
+- 呃 不是 - 所以
+- Uh, no. - So,
+
+578
+00:24:59,854 --> 00:25:01,721
+你对我的杀人案件有何兴趣?
+what's your interest in my homicide?
+
+579
+00:25:01,723 --> 00:25:04,256
+嗯 事情有点混乱复杂
+Well, it's complicated, messy.
+
+580
+00:25:04,258 --> 00:25:05,808
+我们顺藤摸瓜
+Following a lead.
+
+581
+00:25:05,810 --> 00:25:07,360
+抓住了一个指控无关的人
+Holding someone on an unrelated charge.
+
+582
+00:25:07,362 --> 00:25:09,445
+他似乎有不在场证明
+Seems to have an alibi,
+
+583
+00:25:09,447 --> 00:25:11,781
+但是他可能和你们死了的店主有什么联系
+but he may have been involved with your dead storekeeper.
+
+584
+00:25:11,783 --> 00:25:14,117
+- 愿意和他一谈 - 不能谈 时机未到
+- Like to talk to him. - Can't let you, not yet.
+
+585
+00:25:14,119 --> 00:25:15,902
+还得保护一个线人
+Still trying to protect a source.
+
+586
+00:25:15,904 --> 00:25:17,703
+你拘留了他
+You have him in custody.
+
+587
+00:25:17,705 --> 00:25:19,605
+是的 目前是的
+Yeah, for the time being.
+
+588
+00:25:19,607 --> 00:25:22,325
+你的案件有什么能告诉我的?
+What can you tell me about your case?
+
+589
+00:25:22,327 --> 00:25:24,377
+已发现沙利文是一个赌赛马的经纪人
+Discovered Sullivan was a bookie.
+
+590
+00:25:24,379 --> 00:25:26,379
+把香烟店当做幌子
+Used the cigar store as a front.
+
+591
+00:25:26,381 --> 00:25:27,914
+你们抓的家伙爱赌博吗?
+Guy you holding like to gamble?
+
+592
+00:25:27,916 --> 00:25:29,081
+我会查到的
+I'll find out.
+
+593
+00:25:29,083 --> 00:25:30,883
+谋杀案件有什么嫌疑犯吗?
+You got any suspects for the murder?
+
+594
+00:25:30,885 --> 00:25:34,620
+有... 也没有
+Yes... and no.
+
+595
+00:25:34,622 --> 00:25:37,890
+有超多前科的废物 温德尔・凯泽
+Loser with a mile-long rap sheet, Wendell Kaiser.
+
+596
+00:25:37,892 --> 00:25:39,642
+参与了沙利文的好事
+Into Sullivan big-time.
+
+597
+00:25:39,644 --> 00:25:40,960
+这个段子广为人知
+Very public arguments.
+
+598
+00:25:40,962 --> 00:25:42,478
+凯泽甚至做出了恐吓
+Kaiser even makes threats.
+
+599
+00:25:42,480 --> 00:25:43,646
+但是 他有无懈可击的不在场证明
+However, airtight alibi.
+
+600
+00:25:43,648 --> 00:25:45,181
+谋杀发生时身在纽约
+In New York at the time of the murder.
+
+601
+00:25:45,183 --> 00:25:47,099
+今早刚刚回来
+Just got back this morning.
+
+602
+00:25:47,101 --> 00:25:49,235
+也许现在流行有不在场证明哈?
+Maybe alibis are in season, huh?
+
+603
+00:25:49,237 --> 00:25:50,570
+好的
+Okay.
+
+604
+00:25:50,572 --> 00:25:51,737
+吉士汉堡
+Cheeseburger,
+
+605
+00:25:51,739 --> 00:25:53,990
+原味的 薯条
+no dressing, fries.
+
+606
+00:25:55,492 --> 00:25:58,077
+我错过什么了吗? 你还没老啊
+Did I miss something? You didn't even order.
+
+607
+00:25:58,079 --> 00:25:59,679
+哎 他不用是老头子的
+Well, he doesn't have to.
+
+608
+00:26:00,581 --> 00:26:01,664
+谢谢 易兰妮
+Thanks, Elaine.
+
+609
+00:26:02,867 --> 00:26:05,363
+你能 呃 拿来凯泽的档案吗?
+Can you, uh, get me Kaiser's file?
+
+610
+00:26:05,388 --> 00:26:06,319
+当然
+Sure.
+
+611
+00:26:06,320 --> 00:26:08,454
+我会把精华部分电邮给你的
+I'll e-mail you the highlights.
+
+612
+00:26:08,456 --> 00:26:10,423
+你们抓的人 不会正好是个雇佣杀手吧?
+Your guy wouldn't happen to be a hit man for hire, would he?
+
+613
+00:26:10,425 --> 00:26:12,124
+不 我觉得不是
+No. I don't think so.
+
+614
+00:26:14,294 --> 00:26:15,962
+什么? 需要什么吗?
+What? Need something?
+
+615
+00:26:15,964 --> 00:26:19,131
+是啊 一把可以切了这大块头的刀
+Yeah, a knife to cut this beast.
+
+616
+00:26:25,005 --> 00:26:26,189
+这个可以
+That'll work.
+
+617
+00:26:26,191 --> 00:26:28,774
+不 不 不
+No, no, no.
+
+618
+00:26:28,776 --> 00:26:30,476
+你在开玩笑
+You're not serious.
+
+619
+00:26:30,478 --> 00:26:31,944
+她不可能嫁会给他啊
+There's no way she's married to him.
+
+620
+00:26:31,946 --> 00:26:34,063
+快满五年了
+Almost five years.
+
+621
+00:26:34,065 --> 00:26:35,898
+花瓶娇妻的完美诠释
+The very definition of a trophy wife.
+
+622
+00:26:35,900 --> 00:26:38,117
+你在看什么? 奥利维拉・钱德勒
+What you looking at? Olivia Chandler.
+
+623
+00:26:38,119 --> 00:26:40,403
+那个邓恩军士
+The woman who Sergeant Dunne
+
+624
+00:26:40,405 --> 00:26:42,154
+互相发短信 打电话的女人
+has been exchanging texts and calls with.
+
+625
+00:26:42,156 --> 00:26:43,723
+这个矮个的男人
+That little man
+
+626
+00:26:43,725 --> 00:26:45,074
+一定有一个很大
+must have a big,
+
+627
+00:26:45,076 --> 00:26:47,702
+很大的... 银行账户 
+big... bank account.
+
+628
+00:26:47,703 --> 00:26:48,828
+她嫁给他
+She's married to him.
+
+629
+00:26:48,830 --> 00:26:50,796
+他们一起住在切维蔡斯村
+They live together in Chevy Chase Village.
+
+630
+00:26:50,798 --> 00:26:52,215
+真会享受生活
+Very la-dee-dah.
+
+631
+00:26:52,217 --> 00:26:54,867
+她唯一的记录是酒后驾车
+Only thing on her record is a DUI.
+
+632
+00:26:54,869 --> 00:26:57,753
+她驾驶阿斯顿马丁左冲右突 被拘捕了
+She was picked up for driving erratically in her Aston Martin.
+
+633
+00:26:57,755 --> 00:26:58,871
+不足为奇
+So many jokes.
+
+634
+00:26:58,873 --> 00:27:00,389
+她开的当然是阿斯顿马丁
+Of course she drives an Aston Martin.
+
+635
+00:27:00,391 --> 00:27:02,592
+我排查了交通摄像头
+When I was searching traffic cameras
+
+636
+00:27:02,594 --> 00:27:04,977
+想看看是否能确定邓恩昨天晚上在谋杀案时
+to see if I could place Dunne anywhere near the cigar store
+
+637
+00:27:04,979 --> 00:27:06,429
+出现在了雪茄店附近
+the night of the murder,
+
+638
+00:27:06,431 --> 00:27:08,380
+找到了一些有趣的事情
+I found something interesting.
+
+639
+00:27:08,382 --> 00:27:09,548
+奥利维拉・钱德勒的车
+Olivia Chandler's car.
+
+640
+00:27:09,550 --> 00:27:12,485
+这是雪茄店一街区外拍摄下来的画面
+Now, this was taken a block from the cigar store.
+
+641
+00:27:12,487 --> 00:27:13,986
+因为车窗有颜色
+Because of the tinted windows,
+
+642
+00:27:13,988 --> 00:27:15,554
+看不出谁在里面
+you can't make out who's inside.
+
+643
+00:27:15,556 --> 00:27:16,939
+我发给了艾比
+I sent it to Abby.
+
+644
+00:27:16,941 --> 00:27:19,609
+希望不大 但是也许她能增强图像
+It's a long shot, but maybe she can enhance the image.
+
+645
+00:27:19,611 --> 00:27:20,726
+沙利文是一个赌徒
+Sullivan was a bookie.
+
+646
+00:27:20,728 --> 00:27:23,079
+福尔斯彻奇的警方锁定了一个嫌疑人
+Falls Church police had a suspect,
+
+647
+00:27:23,081 --> 00:27:24,580
+但是他有不在场证明
+but he has an alibi.
+
+648
+00:27:24,582 --> 00:27:26,949
+多克里探员说他会将卷宗通过邮件发过来
+Detective Dockry said he was going to e-mail the file.
+
+649
+00:27:26,951 --> 00:27:29,669
+收到了
+He did.
+
+650
+00:27:29,671 --> 00:27:31,403
+- 温德尔・凯泽 - 麦基
+- Wendell Kaiser. - McGee
+
+651
+00:27:31,405 --> 00:27:33,506
+看看邓恩上士是否嗜赌成性
+see if Staff Sergeant Dunne had a gambling problem
+
+652
+00:27:33,508 --> 00:27:34,790
+或者与这个人的任何联系
+or any connection to this guy.
+
+653
+00:27:34,792 --> 00:27:37,343
+迪诺左...
+DiNozzo...
+
+654
+00:27:37,345 --> 00:27:41,764
+查查奥利维拉・钱德勒
+check out Olivia Chandler.
+
+655
+00:27:43,383 --> 00:27:45,250
+荣幸之至
+With pleasure.
+
+656
+00:27:45,252 --> 00:27:46,769
+谢谢 老大
+Thank you, boss.
+
+657
+00:28:15,500 --> 00:28:17,282
+需要帮忙吗?
+May I help you?
+
+658
+00:28:17,284 --> 00:28:18,584
+希望如此
+Oh, I hope so.
+
+659
+00:28:18,586 --> 00:28:21,420
+海军罪案调查处 特别探员安东尼・迪诺左
+NCIS Special Agent Anthony DiNozzo.
+
+660
+00:28:21,422 --> 00:28:22,838
+海军罪案调查处?
+NCIS?
+
+661
+00:28:22,840 --> 00:28:25,091
+我喜欢这辆车 太酷了
+I love this car. It's smoking hot.
+
+662
+00:28:25,093 --> 00:28:26,676
+我也有意购买
+I'm in the market myself.
+
+663
+00:28:26,678 --> 00:28:28,177
+在几款车之间摇摆不定
+Between vehicles right now.
+
+664
+00:28:28,179 --> 00:28:30,680
+油耗很大 但是詹姆斯・邦德开的就是这款车
+Terrible gas mileage, but that's what James Bond drives.
+
+665
+00:28:30,682 --> 00:28:31,981
+你知道吗?
+Did you know that?
+
+666
+00:28:31,983 --> 00:28:34,934
+不知道 你有什么事情?
+I have no idea. What do you want?
+
+667
+00:28:34,936 --> 00:28:38,303
+我们正在调查一名海军军官
+Oh, we're investigating a Marine.
+
+668
+00:28:38,305 --> 00:28:39,905
+贾斯汀・邓恩上士
+Staff Sergeant Justin Dunne.
+
+669
+00:28:39,907 --> 00:28:40,973
+你认识他吗?
+How do you know him?
+
+670
+00:28:40,975 --> 00:28:42,441
+- 不认识 - 真的吗?
+- I don't. - Really?
+
+671
+00:28:42,443 --> 00:28:44,193
+你和他经常通电话
+'Cause you exchanged a lot of calls with him,
+
+672
+00:28:44,195 --> 00:28:45,477
+看上去你认识他
+and that would suggest otherwise.
+
+673
+00:28:45,479 --> 00:28:47,747
+我们在戒酒会上相识
+We met at an A.A. meeting.
+
+674
+00:28:47,749 --> 00:28:49,532
+相互交流 鼓励彼此
+We talk to each other for support.
+
+675
+00:28:49,534 --> 00:28:51,483
+戒酒是一场持久战
+Sobriety is an ongoing battle.
+
+676
+00:28:51,485 --> 00:28:52,818
+那你为什么说不认识他?
+So why'd you say you didn't know him?
+
+677
+00:28:52,820 --> 00:28:55,788
+戒酒会的第二个"A"代表"匿名"
+The second "A" in A.A. is for "anonymous."
+
+678
+00:28:55,790 --> 00:28:57,957
+我不该谈论他或其他任何人
+I shouldn't be talking about him or anyone else.
+
+679
+00:28:57,959 --> 00:28:59,508
+我懂得
+Gotcha.
+
+680
+00:28:59,510 --> 00:29:01,093
+你打算出趟门?
+So you're taking a little trip?
+
+681
+00:29:02,295 --> 00:29:04,430
+我打算和好姐妹去牙买加
+I'm going to Jamaica with some girlfriends.
+
+682
+00:29:04,432 --> 00:29:06,515
+真棒 牙买加
+Yeah, mon. Jamaica.
+
+683
+00:29:06,517 --> 00:29:09,001
+祝你玩得开心
+Well, have yourself a nice time.
+
+684
+00:29:12,973 --> 00:29:15,391
+你将邓恩上士与死去的赌徒
+Did you connect Staff Sergeant Dunne to the dead bookie
+
+685
+00:29:15,393 --> 00:29:17,009
+或者福尔斯彻奇嫌疑人联系上了吗?
+or the Falls Church suspect?
+
+686
+00:29:17,011 --> 00:29:18,561
+不 还没有
+No, not yet.
+
+687
+00:29:18,563 --> 00:29:20,279
+根据我询问过的人的说法
+Based on the people I've talked to,
+
+688
+00:29:20,281 --> 00:29:21,680
+看上去邓恩不是个赌徒
+it appears that Dunne's not a gambler.
+
+689
+00:29:21,682 --> 00:29:23,232
+还有其他可以追踪的线索
+I still have other avenues to pursue,
+
+690
+00:29:23,234 --> 00:29:25,735
+只不过没有时间完成
+I just haven't had the time to do it all.
+
+691
+00:29:26,904 --> 00:29:29,789
+- 托尼 有发现吗? - 是的
+- Tony, you got something? - Oh, yeah.
+
+692
+00:29:29,791 --> 00:29:31,957
+你无法想象奥利维拉・钱德勒有多正点
+You won't believe how hot Olivia Chandler is.
+
+693
+00:29:31,959 --> 00:29:33,459
+她不上相
+Photos don't do her justice.
+
+694
+00:29:33,461 --> 00:29:35,044
+她和邓恩上士是怎么认识的?
+What's with her and Staff Sergeant Dunne?
+
+695
+00:29:35,046 --> 00:29:36,412
+她声称他们只在戒酒会上
+Well, she claims they're only acquaintances
+
+696
+00:29:36,414 --> 00:29:37,529
+有泛泛之交
+from A.A. meetings.
+
+697
+00:29:37,531 --> 00:29:39,131
+但是我认为远不止如此
+But I think it's more than that.
+
+698
+00:29:39,133 --> 00:29:41,083
+你说你有邓恩的信用卡账单 放上来
+You said you had Dunne's credit card charges-- put them up.
+
+699
+00:29:41,085 --> 00:29:43,302
+- 为什么? - 相信我 放到屏幕上
+- Why? - Trust me, put them up there.
+
+700
+00:29:46,306 --> 00:29:48,641
+好了 我们要找什么?
+All right, what are we looking for?
+
+701
+00:29:48,643 --> 00:29:49,975
+如果他们如我所想 关系亲密
+Well, if they're doing what I think they're doing,
+
+702
+00:29:49,977 --> 00:29:51,310
+肯定不会在她家见面
+they're not doing it at her place.
+
+703
+00:29:51,312 --> 00:29:54,230
+我认为一个来自切维蔡斯的富太太
+And I don't think a rich housewife from Chevy Chase
+
+704
+00:29:54,232 --> 00:29:56,932
+会迈着长腿一路跑到昆迪克 
+is dragging those long legs all the way down to Quantico.
+
+705
+00:29:56,934 --> 00:29:58,184
+好的 等一下
+Okay, wait. Hold on.
+
+706
+00:29:59,186 --> 00:30:00,986
+切维蔡斯小屋
+Chevy Chase Lodge.
+
+707
+00:30:00,988 --> 00:30:02,605
+这里 这里和这里
+There, there and there.
+
+708
+00:30:02,607 --> 00:30:04,807
+三个晚上 或许更多
+Three nights, probably more.
+
+709
+00:30:07,077 --> 00:30:08,694
+记录下来 麦基
+Take it down, McGee.
+
+710
+00:30:12,165 --> 00:30:13,699
+四十八小时时间到了
+Our 48 hours are up.
+
+711
+00:30:13,701 --> 00:30:15,501
+是的
+Yep.
+
+712
+00:30:15,503 --> 00:30:17,837
+什么时候能拿回我的卡车?
+When do I get my truck back?
+
+713
+00:30:26,880 --> 00:30:28,640
+我去看看切维蔡斯小屋
+I'm going to check out the Chevy Chase Lodge.
+
+714
+00:30:30,083 --> 00:30:32,184
+将克里夫二等兵定罪为肇事逃逸
+Book Private Cliff for the hit-and-run.
+
+715
+00:30:34,187 --> 00:30:37,773
+一个结案 还有一个还差得远
+That's one case closed, another wide open.
+
+716
+00:30:49,248 --> 00:30:50,632
+是的 亲爱的 我明白
+Yes, dear, I understand.
+
+717
+00:30:50,634 --> 00:30:51,833
+真的吗?
+Do you?
+
+718
+00:30:51,835 --> 00:30:53,468
+- 你在听吗? - 我听到了
+- Do you even hear? - I hear you.
+
+719
+00:30:53,470 --> 00:30:55,854
+不 不 不 我... 我不会...
+No, no, no. I... I would never...
+
+720
+00:30:57,674 --> 00:30:59,141
+... 这是你的母亲的主意吗?
+Well... oh, it's your mother's idea?
+
+721
+00:30:59,143 --> 00:31:00,475
+是的 是我母亲的主意!
+Yes, it's my mother's idea!
+
+722
+00:31:00,477 --> 00:31:02,561
+我为什么不感到惊讶呢?
+Why does that not surprise me?
+
+723
+00:31:03,864 --> 00:31:05,847
+我得挂了 有位客人等着我呢
+I have to go. I have a guest waiting.
+
+724
+00:31:07,201 --> 00:31:08,517
+真的有客人在等着我
+I do have a guest waiting.
+
+725
+00:31:08,519 --> 00:31:09,517
+我没有胡说
+I'm not making that up.
+
+726
+00:31:12,522 --> 00:31:15,857
+... 你能帮帮我吗 先生?
+Uh... could you help me, please, sir?
+
+727
+00:31:15,859 --> 00:31:17,159
+这是谁? 喂?
+Who is that? Hello?
+
+728
+00:31:17,161 --> 00:31:18,410
+好的 我等会儿再打给你
+Okay. I'll call you later.
+
+729
+00:31:18,412 --> 00:31:20,212
+- 好吧! - 我才不会打呢
+- Fine! - Like hell I will.
+
+730
+00:31:21,380 --> 00:31:23,248
+你结婚了吗?
+You married?
+
+731
+00:31:23,250 --> 00:31:24,916
+没有...
+Oh. No. Uh...
+
+732
+00:31:24,918 --> 00:31:26,551
+我是联邦探员
+I'm a federal agent.
+
+733
+00:31:26,553 --> 00:31:27,636
+迪诺左
+DiNozzo.
+
+734
+00:31:27,638 --> 00:31:29,204
+想问你几个问题
+Like to ask a few questions.
+
+735
+00:31:29,206 --> 00:31:30,972
+好吧 联邦探员 问吧
+All right, federal agent, ask away.
+
+736
+00:31:30,974 --> 00:31:32,390
+你见过这个人吗?
+Have you seen this man?
+
+737
+00:31:32,392 --> 00:31:33,374
+见过
+Yeah.
+
+738
+00:31:33,376 --> 00:31:34,559
+是的 见过
+Yeah, sure.
+
+739
+00:31:35,561 --> 00:31:36,711
+算是常客了
+Sort of a regular.
+
+740
+00:31:37,681 --> 00:31:39,264
+他是一个人来还是...?
+So, does he come alone or...?
+
+741
+00:31:39,266 --> 00:31:41,549
+他想让我这么想
+Well, he'd like me to think that.
+
+742
+00:31:41,551 --> 00:31:44,486
+不 他的朋友从不来大厅
+No, his friend never comes to the lobby.
+
+743
+00:31:44,488 --> 00:31:46,855
+他停车 她直接去房间
+He parks the car, and she goes directly to the room.
+
+744
+00:31:46,857 --> 00:31:50,158
+你会想 一个人或者俩人都结婚了 对吧?
+So you got to figure, you know, one or both are married, right?
+
+745
+00:31:50,160 --> 00:31:52,444
+没错
+Right. Yeah.
+
+746
+00:31:52,446 --> 00:31:54,229
+所以你从未见过她?
+So you've never seen her?
+
+747
+00:31:54,231 --> 00:31:56,581
+事实上 我曾经
+Well, actually, I did the old
+
+748
+00:31:56,583 --> 00:31:58,583
+敲错过一次门
+knock-on-the-wrong-door routine one time.
+
+749
+00:31:58,585 --> 00:32:00,285
+她长得像这样?
+She look like this?
+
+750
+00:32:00,287 --> 00:32:01,870
+是的 就是她
+Yeah, that's her.
+
+751
+00:32:01,872 --> 00:32:03,872
+像这样的女人 你不会忘记
+Woman like that, you do not forget.
+
+752
+00:32:03,874 --> 00:32:07,592
+对吧? 你能想象一晚上和...
+Right? I mean, can you imagine what one night with...
+
+753
+00:32:10,247 --> 00:32:12,047
+我发誓 这个老女人是一个疯子
+I swear, the old witch is psychic.
+
+754
+00:32:12,049 --> 00:32:14,916
+如果我对另一个女人有这么多幻想...
+If I have so much as a thought of another woman...
+
+755
+00:32:14,918 --> 00:32:16,134
+你不必接通它
+You don't have to answer that.
+
+756
+00:32:16,136 --> 00:32:17,269
+我必须要接 你...?!
+I have to. What...?!
+
+757
+00:32:17,271 --> 00:32:18,804
+...有什么事情?
+...do you want?
+
+758
+00:32:18,806 --> 00:32:19,921
+知道了 祝你好运
+I got it. Good luck.
+
+759
+00:32:19,923 --> 00:32:20,972
+等等 你需要... 如果...
+Just, do you need... if...
+
+760
+00:32:20,974 --> 00:32:22,107
+拿张名片吧 先生
+Take a card, sir.
+
+761
+00:32:22,109 --> 00:32:24,726
+谢谢
+Thank you.
+
+762
+00:32:29,649 --> 00:32:30,982
+给你
+Here.
+
+763
+00:32:32,735 --> 00:32:35,921
+我喜欢和你喝酒 达克
+Ah, always enjoy having a drink with you, Duck,
+
+764
+00:32:35,923 --> 00:32:39,090
+但是你不会听完交响乐绕路来这里
+but this isn't exactly on your way home from the symphony.
+
+765
+00:32:39,092 --> 00:32:40,392
+你想说什么?
+What's on your mind?
+
+766
+00:32:40,394 --> 00:32:42,994
+出于好奇 我正打算问你
+Well, curiously, I was about to ask you that.
+
+767
+00:32:42,996 --> 00:32:45,080
+你看起来... 心事重重
+You've seemed... troubled
+
+768
+00:32:45,082 --> 00:32:48,133
+自从你昨天尸检时接了那通电话
+since you took that call in Autopsy yesterday.
+
+769
+00:32:48,135 --> 00:32:52,804
+通常你很擅长隐藏自己的感情
+Usually you're a master at hiding your feelings.
+
+770
+00:32:52,806 --> 00:32:54,122
+你的职业建议是?
+That your professional opinion?
+
+771
+00:32:54,124 --> 00:32:55,473
+和一名心理侧写师
+The occupational hazard
+
+772
+00:32:55,475 --> 00:32:57,342
+工作的职业风险
+of working with a profiler.
+
+773
+00:32:58,812 --> 00:33:01,462
+我没事
+Yeah, I'm fine.
+
+774
+00:33:01,464 --> 00:33:05,317
+有点担心凯莉・克拉克
+A little concerned about Carrie Clark.
+
+775
+00:33:05,319 --> 00:33:07,519
+- 那名律师? - 是的 她很出色
+- The lawyer? - Yeah, she's good.
+
+776
+00:33:07,521 --> 00:33:11,139
+她让当事人被无罪释放
+She got her client released without being charged.
+
+777
+00:33:11,141 --> 00:33:13,975
+可是呢...?
+I sense a "but."
+
+778
+00:33:13,977 --> 00:33:17,979
+恩 她不至于毫无良心可言
+Well, she does have a conscience.
+
+779
+00:33:17,981 --> 00:33:19,831
+这是一件好事 对吧?
+Well, that's a good thing, isn't it?
+
+780
+00:33:21,650 --> 00:33:23,318
+她可能有意或无意
+We learned some things about her client
+
+781
+00:33:23,320 --> 00:33:27,322
+引导我们去了解她客户的信息
+that she may or may not have led us to.
+
+782
+00:33:27,324 --> 00:33:29,124
+是一些特殊信息吗?
+Privileged information?
+
+783
+00:33:29,126 --> 00:33:32,294
+达克 这件事情我得万分小心
+Doc, I got to be careful how I handle this.
+
+784
+00:33:32,296 --> 00:33:34,829
+我得为凯莉着想
+For Carrie's sake.
+
+785
+00:33:34,831 --> 00:33:36,715
+弄不好她会因此吊销执照的
+She could get disbarred.
+
+786
+00:33:36,717 --> 00:33:38,383
+杰斯罗 我太了解你了 
+Well, I know you, Jethro.
+
+787
+00:33:38,385 --> 00:33:42,554
+你总是为别人着想 总以为自己是对的
+It sounds as if she's doing the right thing, as you are.
+
+788
+00:33:42,556 --> 00:33:45,173
+音乐会如何?
+So how was the concert?
+
+789
+00:33:45,175 --> 00:33:48,476
+柴可夫斯基第钢二琴协奏曲 演奏得极好
+Great. Tchaikovsky's Second.
+
+790
+00:33:48,478 --> 00:33:51,897
+原来他为电影作过曲 这我还是第一次知道
+I never realized that he wrote music for the movies.
+
+791
+00:34:02,793 --> 00:34:04,793
+这辆车我想要好久了
+That's a car I've always had the hots for.
+
+792
+00:34:04,795 --> 00:34:06,878
+我真该买一辆的
+Maybe that's what I should get.
+
+793
+00:34:06,880 --> 00:34:08,413
+都是老爷车
+It's too old.
+
+794
+00:34:08,415 --> 00:34:09,915
+你怎么开啊
+You can't drive a car like that.
+
+795
+00:34:09,917 --> 00:34:11,216
+太不切实际了
+It's not practical.
+
+796
+00:34:11,218 --> 00:34:12,334
+麦基 你这个人就这毛病
+That's the problem with you, McGeezer.
+
+797
+00:34:12,336 --> 00:34:13,418
+什么都要切合实际
+Everything has to be practical.
+
+798
+00:34:13,420 --> 00:34:15,003
+其实...
+What...
+
+799
+00:34:15,005 --> 00:34:17,038
+我想说 从来没见你
+What I mean is, I've never known you
+
+800
+00:34:17,040 --> 00:34:19,174
+冒过哪怕一丝一毫的险
+to do anything even a little risqué.
+
+801
+00:34:19,176 --> 00:34:23,544
+托尼 你不了解我的私生活 请不要乱说
+Tony, you have no idea what I do on my time off.
+
+802
+00:34:23,546 --> 00:34:24,896
+是的 我是不了解
+You know, that's true, I don't.
+
+803
+00:34:24,898 --> 00:34:25,964
+那你说说也无妨?
+Why don't you tell me?
+
+804
+00:34:25,966 --> 00:34:30,235
+有分享 有惊喜 有感动
+Share. Rock me. Sock me.
+
+805
+00:34:35,274 --> 00:34:36,858
+目标人物温德尔・凯泽出现
+Well, there's Wendell Kaiser.
+
+806
+00:34:36,860 --> 00:34:39,778
+你说福尔斯彻奇警局是不是也在查他呢?
+Wonder if Falls Church PD is tailing him, too.
+
+807
+00:34:39,780 --> 00:34:41,396
+凯泽是他们的嫌犯
+Kaiser's their suspect.
+
+808
+00:34:58,297 --> 00:34:59,931
+他去做礼拜吗?
+Is Kaiser going to church?
+
+809
+00:34:59,933 --> 00:35:01,449
+不是 例会而已
+No. It's an A.A. meeting.
+
+810
+00:35:01,451 --> 00:35:03,418
+他们每天早上都会在这里集会
+They meet here every morning at this time.
+
+811
+00:35:03,420 --> 00:35:05,303
+嗯? 你怎么知道?
+Wait, how do you know that?
+
+812
+00:35:05,305 --> 00:35:06,638
+安东尼!
+Anthony!
+
+813
+00:35:06,640 --> 00:35:08,390
+你来这里做什么?
+What are you doing here?
+
+814
+00:35:08,392 --> 00:35:09,808
+你不是应该今晚才来吗?
+Your meeting's not until tonight.
+
+815
+00:35:09,810 --> 00:35:11,385
+米勒教士 我... 是来... 
+Reverend Miller, I, uh...
+
+816
+00:35:11,386 --> 00:35:12,260
+有新人要加入吗?
+Bringing a new member?
+
+817
+00:35:12,262 --> 00:35:13,561
+这个...
+Um...
+
+818
+00:35:13,563 --> 00:35:15,814
+他还在考虑这件事情 他对枪声有点儿阴影
+He's thinking about it. A little gun-shy.
+
+819
+00:35:15,816 --> 00:35:18,033
+麦基 这是教士
+McGee, the Rev.
+
+820
+00:35:18,035 --> 00:35:19,617
+加入我们吧
+Please join us.
+
+821
+00:35:19,619 --> 00:35:21,703
+安全有保障
+It's a very safe place.
+
+822
+00:35:21,705 --> 00:35:23,621
+我们欢迎任何人的加入
+All are welcome.
+
+823
+00:35:28,160 --> 00:35:29,160
+托尼 这是怎么回事?
+Tony, what's going on?
+
+824
+00:35:29,162 --> 00:35:30,328
+你在戒酒吗?
+Do you have a drinking problem?
+
+825
+00:35:30,330 --> 00:35:32,914
+那倒没有...
+No. No, I just...
+
+826
+00:35:32,916 --> 00:35:35,250
+我就是加入了他们的资助团体而已
+I joined this men's support group.
+
+827
+00:35:35,252 --> 00:35:37,002
+每周花两个晚上在教堂大厅见面
+Meets in the church hall two nights a week.
+
+828
+00:35:37,004 --> 00:35:38,619
+真的吗?
+You serious?
+
+829
+00:35:38,621 --> 00:35:40,455
+是啊
+Mm-hmm.
+
+830
+00:35:40,457 --> 00:35:42,557
+我懂...
+I know, it...
+
+831
+00:35:42,559 --> 00:35:44,426
+这一点儿不像我的作风 可是...
+it doesn't sound like me, but...
+
+832
+00:35:44,428 --> 00:35:47,679
+去年发生那么多事以后... 我
+with the past year, I just...
+
+833
+00:35:47,681 --> 00:35:49,981
+想换换环境
+wanted to shake things up a little bit.
+
+834
+00:35:49,983 --> 00:35:51,632
+认识一些新朋友
+Meet some new people.
+
+835
+00:35:51,634 --> 00:35:53,301
+在健身馆有人给我提起这个组织
+This guy at the gym told me about the group,
+
+836
+00:35:53,303 --> 00:35:55,904
+我觉得这个主意不错
+and I thought it sounded like a good idea.
+
+837
+00:35:55,906 --> 00:35:58,023
+而且... 这里... 挺有趣的
+And it... it is, it's fun.
+
+838
+00:35:59,442 --> 00:36:02,577
+教士有天早上开车带我去了昆迪克 
+The Rev drove me to Quantico the other morning.
+
+839
+00:36:02,579 --> 00:36:03,978
+他这人很有意思
+Interesting guy.
+
+840
+00:36:03,980 --> 00:36:05,980
+他教我如何少去评判别人
+He's helping me be less judgmental.
+
+841
+00:36:08,417 --> 00:36:10,502
+告诉你啊 凯泽要在这儿呆上好一阵子呢
+You know, Kaiser's going to be here for a while.
+
+842
+00:36:10,504 --> 00:36:12,320
+我们先回去吧
+We should get back.
+
+843
+00:36:21,597 --> 00:36:23,816
+邓恩上士 奥利维拉・钱德勒
+Sergeant Dunne, Olivia Chandler
+
+844
+00:36:23,817 --> 00:36:25,183
+还有温德尔・凯泽
+and Wendell Kaiser
+
+845
+00:36:25,185 --> 00:36:27,135
+他们三人都有一个共同点
+all have one thing in common.
+
+846
+00:36:27,137 --> 00:36:28,937
+那就是 他们都去那个一对一集会
+They all go to A.A. meetings.
+
+847
+00:36:28,939 --> 00:36:30,355
+可能他们就是在那里认识的吧?
+That's probably where they met.
+
+848
+00:36:30,357 --> 00:36:33,024
+上士和这位花瓶妻是恋人关系
+The sergeant and the trophy wife are lovers.
+
+849
+00:36:33,026 --> 00:36:34,642
+切维蔡斯旅馆的前台职员
+The desk clerk at the Chevy Chase Lodge
+
+850
+00:36:34,644 --> 00:36:36,611
+说他们是店里的常客
+said that they were regulars.
+
+851
+00:36:36,613 --> 00:36:38,513
+就像电影 体热 里面演的一样
+It's just like that movie Body Heat.
+
+852
+00:36:38,515 --> 00:36:40,181
+威廉・赫特和 凯瑟琳・特纳主演的哦
+William Hurt and Kathleen Turner.
+
+853
+00:36:40,183 --> 00:36:42,016
+啊 这个女人太迷人了
+God, she was really something, boss.
+
+854
+00:36:42,018 --> 00:36:43,401
+让人为之癫狂
+A head turner.
+
+855
+00:36:44,820 --> 00:36:46,821
+好吧 说跑题了
+But I digress.
+
+856
+00:36:46,823 --> 00:36:49,624
+总而言之他们和这对恋人一样 年轻气盛
+Anyway, they were young lovers, just like these two,
+
+857
+00:36:49,626 --> 00:36:51,709
+都想打富老公的主意 谋他的财
+and they wanted the rich husband's money
+
+858
+00:36:51,711 --> 00:36:52,877
+害他的命
+and him out of the way.
+
+859
+00:36:52,879 --> 00:36:54,462
+另一方面 
+On the other hand, you've got
+
+860
+00:36:54,464 --> 00:36:55,997
+温德尔・凯泽赌债缠身
+Wendell Kaiser, who's deep in debt to his bookie
+
+861
+00:36:55,999 --> 00:36:57,549
+也想杀了债主一了百了
+and needs him off his back.
+
+862
+00:36:57,551 --> 00:36:59,584
+所以他们互相借刀杀人 为对方解决问题
+So they help each other out and switch murders.
+
+863
+00:36:59,586 --> 00:37:01,136
+当凯泽在纽约的时候
+While Kaiser was in New York,
+
+864
+00:37:01,138 --> 00:37:03,471
+邓恩和奥利维拉一起合伙杀了他的债主
+Dunne killed the bookie with Olivia's help.
+
+865
+00:37:03,473 --> 00:37:05,840
+她开车载他 她自己的车就在附近
+She drove him. Her car was in the vicinity.
+
+866
+00:37:05,842 --> 00:37:07,842
+没有人会去怀疑他们?
+Who would ever suspect them?
+
+867
+00:37:07,844 --> 00:37:09,644
+既没有联系 也没有动机
+I mean, there's no connection, no motive.
+
+868
+00:37:09,646 --> 00:37:12,180
+明天邓恩上士要接受派遣去别处
+Tomorrow Sergeant Dunne is going to deploy
+
+869
+00:37:12,182 --> 00:37:14,265
+而奥利维拉・钱德勒要出国去牙买加
+and Olivia Chandler is off to Jamaica.
+
+870
+00:37:14,267 --> 00:37:16,484
+我猜他们离开以后
+And I'm betting that while they're away,
+
+871
+00:37:16,486 --> 00:37:18,153
+她的丈夫会出严重车祸
+her husband's going to have a terrible accident
+
+872
+00:37:18,155 --> 00:37:19,821
+这一切都是拜凯泽所赐
+at the hands of Mr. Kaiser here,
+
+873
+00:37:19,823 --> 00:37:22,023
+而他们之间一点儿关系都没有
+a man with whom he has no connection.
+
+874
+00:37:22,025 --> 00:37:24,892
+两起谋杀案 而这三个人却都有不在场证明 
+Two murders, three solid alibis.
+
+875
+00:37:24,894 --> 00:37:26,394
+这个想法挺有意思
+Interesting theory.
+
+876
+00:37:26,396 --> 00:37:29,197
+我们知道这项指控证明起来十分困难
+We know it's going to be a hard conspiracy for us to prove.
+
+877
+00:37:29,199 --> 00:37:31,232
+要万事小心 毕竟这不是我们的案件
+We got to be careful-- it's not our case.
+
+878
+00:37:35,921 --> 00:37:37,922
+我有办法
+There's a way.
+
+879
+00:37:41,293 --> 00:37:43,077
+找到最弱的那环就行
+Find the weak link.
+
+880
+00:37:56,609 --> 00:37:58,092
+嘿 凯泽
+Hey, Kaiser.
+
+881
+00:37:59,928 --> 00:38:01,229
+你有空吗?
+You got a minute?
+
+882
+00:38:01,231 --> 00:38:03,982
+多克里探长
+Detective Dockry.
+
+883
+00:38:03,984 --> 00:38:06,601
+我们的问题不是解决了吗?
+I thought we were done.
+
+884
+00:38:06,603 --> 00:38:09,487
+沙利文的情况 我都告诉你了
+Look, I told you everything I know about Sullivan.
+
+885
+00:38:09,489 --> 00:38:11,072
+没错 但是出了一点儿小问题
+Yeah, well, something's come up.
+
+886
+00:38:11,074 --> 00:38:13,291
+跟我去局里吧 我们来谈谈
+Let's go to the station. We can talk about it.
+
+887
+00:38:13,293 --> 00:38:15,776
+不了 这里就挺好
+Nah, I'm not going anywhere.
+
+888
+00:38:15,778 --> 00:38:17,778
+听我说 我和沙利文的死一点关系都没有
+Look, I had nothing to do with Sullivan's murder.
+
+889
+00:38:17,780 --> 00:38:19,780
+我当时在纽约 你查过的
+I was in New York, man. You checked it out.
+
+890
+00:38:19,782 --> 00:38:23,635
+你非得逼我在你的朋友面前下手吗?
+You really want to do this in front of your friends?
+
+891
+00:38:25,554 --> 00:38:27,472
+我不想跟你离开这里
+I'm not going anywhere with you.
+
+892
+00:38:29,592 --> 00:38:32,793
+你的同伙邓恩上士和她的女友的事情 
+We know about your buddy, Sergeant Dunne,
+
+893
+00:38:32,795 --> 00:38:35,647
+我们已经知道了
+and his girlfriend.
+
+894
+00:38:39,735 --> 00:38:41,802
+现在我说了算
+So let me explain how this works.
+
+895
+00:38:41,804 --> 00:38:46,407
+你要是第一个招供 就有机会和我们谈条件
+First suspect to flip on the others gets the deal.
+
+896
+00:39:26,782 --> 00:39:29,200
+奥利维拉・钱德勒
+Olivia Chandler?
+
+897
+00:40:03,269 --> 00:40:05,770
+嘿 老吉
+Hey, Gibbs.
+
+898
+00:40:05,772 --> 00:40:07,405
+迪诺左说要是你不在家
+DiNozzo told me that if you weren't at home
+
+899
+00:40:07,407 --> 00:40:09,724
+就来这里找你
+I would probably find you here.
+
+900
+00:40:10,910 --> 00:40:12,577
+请坐
+Have a seat.
+
+901
+00:40:17,116 --> 00:40:18,666
+有什么事情吗?
+There a problem?
+
+902
+00:40:18,668 --> 00:40:20,285
+没有 我...
+No, I...
+
+903
+00:40:20,287 --> 00:40:22,036
+我刚听说福尔斯彻奇警局
+just heard that Falls Church PD
+
+904
+00:40:22,038 --> 00:40:24,789
+逮捕了我之前的委托人邓恩上士
+arrested my former client, Sergeant Dunne.
+
+905
+00:40:24,791 --> 00:40:26,124
+是吗?
+Really?
+
+906
+00:40:26,126 --> 00:40:27,842
+是的 他们以多项罪名起诉他
+Yeah, they booked him on multiple charges,
+
+907
+00:40:27,844 --> 00:40:31,596
+说他预谋杀人 并杀害他人
+including conspiracy to commit murder and murder one.
+
+908
+00:40:31,598 --> 00:40:32,880
+他们怎么抓到他的?
+How'd they get him?
+
+909
+00:40:32,882 --> 00:40:35,500
+他的同伙之一
+Apparently one of his coconspirators
+
+910
+00:40:35,502 --> 00:40:37,251
+上交了证物
+turned state's evidence.
+
+911
+00:40:37,253 --> 00:40:41,439
+有时候好运来了... 挡也挡不住
+Sometimes... you get lucky.
+
+912
+00:40:41,441 --> 00:40:44,025
+真是这样吗?
+Mmm, is that what it was?
+
+913
+00:40:45,744 --> 00:40:49,197
+他们拿到搜查令 在邓恩家
+They got a warrant and cinched the case against Dunne
+
+914
+00:40:49,199 --> 00:40:51,098
+马桶水箱里找到了凶器 是一把刀
+when they found the murder weapon, a knife,
+
+915
+00:40:51,100 --> 00:40:54,118
+于是定了他的罪
+in his bathroom toilet tank.
+
+916
+00:40:54,120 --> 00:40:56,421
+真不错
+That's great.
+
+917
+00:40:59,421 --> 00:41:01,421
+你还好吗?
+You okay?
+
+918
+00:41:01,745 --> 00:41:04,579
+还好
+Yeah.
+
+919
+00:41:04,581 --> 00:41:06,280
+找不到不好的理由? 我做了分内之事
+Why wouldn't I be? I did my job.
+
+920
+00:41:06,282 --> 00:41:07,965
+让他免于肇事逃逸的责罚
+I got Dunne off on the hit-and-run.
+
+921
+00:41:07,967 --> 00:41:09,384
+是的 你办得很好
+Yeah, you did it well.
+
+922
+00:41:09,386 --> 00:41:11,719
+那以后 他无论发生什么
+Yes, and whatever happened to him after that,
+
+923
+00:41:11,721 --> 00:41:12,587
+都与我无关
+it's not my concern.
+
+924
+00:41:12,589 --> 00:41:15,623
+天网恢恢 疏而不漏
+Justice was served, all around.
+
+925
+00:41:18,444 --> 00:41:21,012
+好的 请用餐
+Okay. Here you go.
+
+926
+00:41:21,014 --> 00:41:23,064
+要一起吃晚餐吗?
+Care to join me for dinner?
+
+927
+00:41:23,066 --> 00:41:27,735
+肉馅糕配土豆泥 真不错
+Hmm, meat loaf and mashed potatoes?
+
+928
+00:41:29,538 --> 00:41:32,357
+我最喜欢吃这些 我很愿意和你共享晚餐
+My favorite. I would be happy to.
+
+929
+00:41:33,509 --> 00:41:34,909
+马上就好
+Coming right up.
+
+930
+00:41:34,911 --> 00:41:36,661
+易兰妮 谢谢你
+Thanks, Elaine.
+
+931
+00:41:40,082 --> 00:41:44,168
+看来我们还是有一些共同点的
+I think that you and me have a few things in common.
+

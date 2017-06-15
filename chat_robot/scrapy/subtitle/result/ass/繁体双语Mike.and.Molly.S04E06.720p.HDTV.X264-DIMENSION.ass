@@ -1,0 +1,450 @@
+﻿[Script Info]
+; // 此字幕由TM生成 电波字幕组制作-
+; // 欢迎访问电波字幕组网站 http://dbfansub.com
+Title: DBfansub
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,58,&H00FFFFFF,&HF0000000,&H00030304,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,5,5,2,0
+Style: Image,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,0
+Style: 工作表,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: 背景,Arial,20,&HA0FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: 片尾,方正喵呜体,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+Style: 电波,时尚中黑简体,20,&H00182ECC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: MM片名,微软雅黑,50,&H0056DCF6,&H00FFFFFF,&H6467CCFF,&H64000000,-1,0,0,0,100,100,0,0,1,0,3,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.00,工作表,NTP,0000,0000,0000,,{\an8\fs32\fad(800,800)\c&HFFFFFF&\3c&H666562&\b1}{\fn时尚中黑简体}翻译: Amber  宛若安宁  猫  Jamie
+Dialogue: 0,0:00:05.00,0:00:10.00,工作表,NTP,0000,0000,0000,,{\c&HFFFFFF&\b1\3c&H666562&}{\an8\fs32\fad(800,800)}{\fn时尚中黑简体}校对: 皮皮 
+Dialogue: 0,0:00:10.00,0:00:15.00,工作表,NTP,0000,0000,0000,,{\c&HFFFFFF&}{\an8\fs32\fad(800,800)\b1\3c&H666562&}{\fn时尚中黑简体}后期: Danica 
+Dialogue: 0,0:00:15.00,0:00:20.00,工作表,NTP,0000,0000,0000,,{\c&HFFFFFF&\an8}{\fs32\fad(800,800)\b1\3c&H666562&}{\fn时尚中黑简体\b1}压制: 凯撒 
+Dialogue: 0,0:00:00.00,0:00:20.70,背景,NTP,0000,0000,0000,,{\fs34}{\p1\c&H96955E&\fscx4200\fscy410\an8\fad(800,800)\pos(642,0)}m 0 0 b 0 0 0 0 0 0 b 0 0 0 0 0 0 b 0 4 0 9 0 13 b 4 13 9 13 13 13 b 13 9 13 4 13 0 {\p0}
+Dialogue: 0,0:18:09.05,0:30:00.00,片尾,NTP,0000,0000,0000,,{\fn方正喵呜体}{\fs70\c&H20F0FF&\b1}电波字幕组 欢迎您的加入\N{\fs34}\N{\fs65\b0}官方网站:www.dbfansub.com\N{\fs34}\N{\fs65\b0}新浪微博:@电波字幕组
+Dialogue: 0,0:03:13.56,0:03:18.24,MM片名,NTP,0,0,0,,{\fs90\pos(620.444,73.843)}{\t(0,5000,\fs100)}迈克{\c&H255DF0&}和{\c&H192CCC&}茉莉
+Dialogue: 0,0:03:13.56,0:03:18.24,电波,NTP,0,0,0,,{\fs40\c&H2C63F3&\pos(1140.59,711.579)}第四季 第六集
+Dialogue: 0,0:03:15.73,0:03:18.24,电波,NTP,0,0,0,,{\fad(600,0)\fs30\pos(790.496,244.211)}电波诚译
+Dialogue: 0,0:00:03.79,0:00:04.82,*Default,NTP,0000,0000,0000,,嗨 親愛的\N{\fs38}{\fs38}Hey, honey.
+Dialogue: 0,0:00:04.82,0:00:06.16,*Default,NTP,0000,0000,0000,,你在干嘛\N{\fs38}{\fs38}Whatcha doing?
+Dialogue: 0,0:00:06.16,0:00:08.19,*Default,NTP,0000,0000,0000,,看你的信用卡賬單\N{\fs38}{\fs38}Just going through your credit card bills.
+Dialogue: 0,0:00:08.19,0:00:09.56,*Default,NTP,0000,0000,0000,,呃 來了\N{\fs38}{\fs38}Uh, ye... Coming!
+Dialogue: 0,0:00:10.83,0:00:13.46,*Default,NTP,0000,0000,0000,,家里沒別的人 Molly\N{\fs38}{\fs38}Nobody else is home, Molly.
+Dialogue: 0,0:00:14.51,0:00:15.97,*Default,NTP,0000,0000,0000,,你坐下\N{\fs38}{\fs38}Have a seat.
+Dialogue: 0,0:00:15.97,0:00:19.18,*Default,NTP,0000,0000,0000,,這簡直像你的月事\N{\fs38}{\fs38}This is becoming, like, an every month thing for you.
+Dialogue: 0,0:00:19.18,0:00:21.01,*Default,NTP,0000,0000,0000,,現在我們就一個經濟來源\N{\fs38}{\fs38}Well, now that we're a one-income family
+Dialogue: 0,0:00:21.01,0:00:22.78,*Default,NTP,0000,0000,0000,,真的得節省點了\N{\fs38}{\fs38}we really have got to watch our spending.
+Dialogue: 0,0:00:22.78,0:00:24.98,*Default,NTP,0000,0000,0000,,我最近一直很節約啊\N{\fs38}{\fs38}Hey, I've been really good lately...
+Dialogue: 0,0:00:24.98,0:00:27.01,*Default,NTP,0000,0000,0000,,不去星巴克了 不做指甲了\N{\fs38}{\fs38}no Starbucks, no manicures,
+Dialogue: 0,0:00:27.02,0:00:29.38,*Default,NTP,0000,0000,0000,,- 只去看了一次手相  - 什么\N{\fs38}{\fs38}- I've only had one palm reading. - What?
+Dialogue: 0,0:00:29.38,0:00:31.29,*Default,NTP,0000,0000,0000,,看 Olga夫人說了你會生氣的\N{\fs38}{\fs38}See? Madam Olga said you'd be upset.
+Dialogue: 0,0:00:33.29,0:00:34.52,*Default,NTP,0000,0000,0000,,你真好笑\N{\fs38}{\fs38}You're hilarious.
+Dialogue: 0,0:00:35.59,0:00:37.09,*Default,NTP,0000,0000,0000,,我剛把這些賬單過了一遍\N{\fs38}{\fs38}Look, I was going over these bills,
+Dialogue: 0,0:00:37.09,0:00:38.73,*Default,NTP,0000,0000,0000,,我認為有些地方的錢\N{\fs38}{\fs38}and I think there's a few more areas
+Dialogue: 0,0:00:38.73,0:00:39.86,*Default,NTP,0000,0000,0000,,完全可以省下來\N{\fs38}{\fs38}where we can cut back.
+Dialogue: 0,0:00:39.86,0:00:41.40,*Default,NTP,0000,0000,0000,,- 說來聽聽  - 比如這個\N{\fs38}{\fs38}- Let's hear it. - Well, how about this
+Dialogue: 0,0:00:41.40,0:00:43.53,*Default,NTP,0000,0000,0000,,"上蠟 脫蠟"處 是洗車嗎\N{\fs38}{\fs38}"Wax On, Wax Off" Place, is that a car wash?
+Dialogue: 0,0:00:43.53,0:00:45.23,*Default,NTP,0000,0000,0000,,這完全可以在自家車道上搞定\N{\fs38}{\fs38}'Cause I could do that in the driveway.
+Dialogue: 0,0:00:45.23,0:00:47.90,*Default,NTP,0000,0000,0000,,是我的比基尼蜜蠟 你想在車道上搞定嗎\N{\fs38}{\fs38}That's my bikini wax, you want to do that in the driveway?
+Dialogue: 0,0:00:49.74,0:00:52.64,*Default,NTP,0000,0000,0000,,我們把這個歸到"醫療開支"里\N{\fs38}{\fs38}We'll file that under "Medical expenses"
+Dialogue: 0,0:00:52.64,0:00:55.21,*Default,NTP,0000,0000,0000,,還有我們不需要的 NFL付費運動節目包\N{\fs38}{\fs38}Here's what we don't need... NFL Sports Package.
+Dialogue: 0,0:00:55.21,0:00:56.38,*Default,NTP,0000,0000,0000,,不不不不\N{\fs38}{\fs38}No, no, no, no!
+Dialogue: 0,0:00:56.38,0:00:58.01,*Default,NTP,0000,0000,0000,,這對我們都有好處的\N{\fs38}{\fs38}We both need that.
+Dialogue: 0,0:00:58.01,0:01:00.01,*Default,NTP,0000,0000,0000,,我要是不在這看橄欖球\N{\fs38}{\fs38}If I'm not watching football here,
+Dialogue: 0,0:01:00.02,0:01:01.18,*Default,NTP,0000,0000,0000,,就會去酒吧里看\N{\fs38}{\fs38}I'm at a bar.
+Dialogue: 0,0:01:01.18,0:01:02.82,*Default,NTP,0000,0000,0000,,如果我進了酒吧 就會喝啤酒\N{\fs38}{\fs38}If I'm at a bar, having a few beers.
+Dialogue: 0,0:01:02.82,0:01:05.59,*Default,NTP,0000,0000,0000,,現在比賽是在周日 周一和周四\N{\fs38}{\fs38}Now, games are Sunday, Monday, and Thursday.
+Dialogue: 0,0:01:05.59,0:01:08.56,*Default,NTP,0000,0000,0000,,就算每場比賽至少三瓶酒\N{\fs38}{\fs38}Let's say at least three beers per game,
+Dialogue: 0,0:01:08.56,0:01:10.42,*Default,NTP,0000,0000,0000,,乘上十七個禮拜 \N{\fs38}{\fs38}times 17 weeks.
+Dialogue: 0,0:01:10.43,0:01:12.79,*Default,NTP,0000,0000,0000,,加上季后賽\N{\fs38}{\fs38}plus playoffs.
+Dialogue: 0,0:01:12.79,0:01:15.70,*Default,NTP,0000,0000,0000,,為了省50塊錢\N{\fs38}{\fs38}Saving $50 has cost you...
+Dialogue: 0,0:01:15.70,0:01:17.90,*Default,NTP,0000,0000,0000,,換來一個酗酒的丈夫\N{\fs38}{\fs38}one husband to alcoholism.
+Dialogue: 0,0:01:19.10,0:01:20.97,*Default,NTP,0000,0000,0000,,什么都比這好\N{\fs38}{\fs38}Anything's better than this.
+Dialogue: 0,0:01:20.97,0:01:22.07,*Default,NTP,0000,0000,0000,,- 什么  - 什么\N{\fs38}{\fs38}- What? - What?
+Dialogue: 0,0:01:24.44,0:01:26.34,*Default,NTP,0000,0000,0000,,好吧\N{\fs38}{\fs38}O-Okay.
+Dialogue: 0,0:01:26.34,0:01:28.98,*Default,NTP,0000,0000,0000,,這就有一個\N{\fs38}{\fs38}Oh, here, here's a perfect example
+Dialogue: 0,0:01:28.98,0:01:30.78,*Default,NTP,0000,0000,0000,,我們不需要的奢侈品\N{\fs38}{\fs38}of a luxury item we do not need.
+Dialogue: 0,0:01:30.78,0:01:31.95,*Default,NTP,0000,0000,0000,,桶裝水\N{\fs38}{\fs38}Bottled water.
+Dialogue: 0,0:01:31.95,0:01:33.71,*Default,NTP,0000,0000,0000,,Mike 不喝水會死的\N{\fs38}{\fs38}Mike, we need water to live.
+Dialogue: 0,0:01:33.72,0:01:34.92,*Default,NTP,0000,0000,0000,,我們有水\N{\fs38}{\fs38}We have it...
+Dialogue: 0,0:01:34.92,0:01:36.62,*Default,NTP,0000,0000,0000,,就在這\N{\fs38}{\fs38}right here.
+Dialogue: 0,0:01:36.62,0:01:38.75,*Default,NTP,0000,0000,0000,,看 還是免費的\N{\fs38}{\fs38}Look, and it's free.
+Dialogue: 0,0:01:38.75,0:01:40.96,*Default,NTP,0000,0000,0000,,從密歇根湖直接運過來\N{\fs38}{\fs38}From Lake Michigan to our home.
+Dialogue: 0,0:01:42.22,0:01:43.92,*Default,NTP,0000,0000,0000,,簡直是絕世好水\N{\fs38}{\fs38}See? Perfectly good water.
+Dialogue: 0,0:01:45.19,0:01:47.56,*Default,NTP,0000,0000,0000,,你是要喝還是要用來漆房子啊\N{\fs38}{\fs38}You gonna drink that or paint the house with it?
+Dialogue: 0,0:01:47.56,0:01:50.40,*Default,NTP,0000,0000,0000,,等等 讓這里面的礦物質\N{\fs38}{\fs38}Well, give it a second, you just got to let the minerals
+Dialogue: 0,0:01:50.40,0:01:52.40,*Default,NTP,0000,0000,0000,,和維他命沉淀一下\N{\fs38}{\fs38}and vitamins sink to the bottom.
+Dialogue: 0,0:01:52.40,0:01:55.34,*Default,NTP,0000,0000,0000,,或者 我還有個主意 你喝那個\N{\fs38}{\fs38}Or... I have another idea... how about you drink that,
+Dialogue: 0,0:01:55.34,0:01:56.70,*Default,NTP,0000,0000,0000,,我喝罐裝水\N{\fs38}{\fs38}I'll drink the bottled water.
+Dialogue: 0,0:01:56.71,0:01:58.14,*Default,NTP,0000,0000,0000,,一個人喝能喝更久\N{\fs38}{\fs38}It'll last twice as long.
+Dialogue: 0,0:01:58.14,0:02:00.01,*Default,NTP,0000,0000,0000,,看誰給我們省了一半的水錢\N{\fs38}{\fs38}Who just cut our water bill in half?
+Dialogue: 0,0:02:00.01,0:02:02.78,*Default,NTP,0000,0000,0000,,不用謝\N{\fs38}{\fs38}You're welcome.
+Dialogue: 0,0:02:02.78,0:02:03.98,*Default,NTP,0000,0000,0000,,沒水了\N{\fs38}{\fs38}Out of water?
+Dialogue: 0,0:02:03.98,0:02:05.58,*Default,NTP,0000,0000,0000,,我還有的是呢\N{\fs38}{\fs38}Mine's still full.
+Dialogue: 0,0:02:06.82,0:02:08.78,*Default,NTP,0000,0000,0000,,我也馬上就有了 讓我換桶水\N{\fs38}{\fs38}Mine will be... let me just swap out this dead soldier.
+Dialogue: 0,0:02:08.78,0:02:11.55,*Default,NTP,0000,0000,0000,,你舉不起那桶水的 我來幫你\N{\fs38}{\fs38}You can't lift that jug, let me help you with it.
+Dialogue: 0,0:02:11.55,0:02:12.95,*Default,NTP,0000,0000,0000,,我可以的 這是我的水\N{\fs38}{\fs38}No, I got it, it's my water.
+Dialogue: 0,0:02:13.99,0:02:15.29,*Default,NTP,0000,0000,0000,,我能換的\N{\fs38}{\fs38}I can change it.
+Dialogue: 0,0:02:15.29,0:02:19.39,*Default,NTP,0000,0000,0000,,你就享受肝炎陰影的籠罩吧\N{\fs38}{\fs38}Just enjoy your "Cloudy with a Chance of Hep C"
+Dialogue: 0,0:02:19.39,0:02:21.40,*Default,NTP,0000,0000,0000,,需要幫忙嗎\N{\fs38}{\fs38}Would you like some help?
+Dialogue: 0,0:02:21.40,0:02:23.03,*Default,NTP,0000,0000,0000,,我能搞定\N{\fs38}{\fs38}No, I got it.
+Dialogue: 0,0:02:23.03,0:02:24.93,*Default,NTP,0000,0000,0000,,噢\N{\fs38}{\fs38}Oh...
+Dialogue: 0,0:02:24.93,0:02:27.23,*Default,NTP,0000,0000,0000,,天哪\N{\fs38}{\fs38}God...!
+Dialogue: 0,0:02:30.67,0:02:32.01,*Default,NTP,0000,0000,0000,,小菜一碟\N{\fs38}{\fs38}Easy-peasy.
+Dialogue: 0,0:02:33.44,0:02:34.94,*Default,NTP,0000,0000,0000,,好了 現在就需要\N{\fs38}{\fs38}All right, so it's just a little...
+Dialogue: 0,0:02:34.94,0:02:37.38,*Default,NTP,0000,0000,0000,,把它翻一面了 開始\N{\fs38}{\fs38}a full flip, and there we go.
+Dialogue: 0,0:02:53.53,0:02:55.60,*Default,NTP,0000,0000,0000,,好喝極了\N{\fs38}{\fs38}It's delicious.
+Dialogue: 0,0:03:27.46,0:03:30.26,*Default,NTP,0000,0000,0000,,把整壺都留下吧 我昨晚幾乎沒睡\N{\fs38}{\fs38}Just leave the pot. I hardly slept.
+Dialogue: 0,0:03:30.26,0:03:31.96,*Default,NTP,0000,0000,0000,,你應該弄個人形抱枕\N{\fs38}{\fs38}Well, you should get a body pillow.
+Dialogue: 0,0:03:31.96,0:03:34.06,*Default,NTP,0000,0000,0000,,自從我有了之后 每天都睡得像嬰兒一樣\N{\fs38}{\fs38}Ever since I got one, I've been sleeping like a baby.
+Dialogue: 0,0:03:34.06,0:03:36.46,*Default,NTP,0000,0000,0000,,我真的醒來后發現大拇指在嘴巴里\N{\fs38}{\fs38}I literally woke up with my thumb in my mouth.
+Dialogue: 0,0:03:38.13,0:03:40.20,*Default,NTP,0000,0000,0000,,別告訴我你另一個拇指在哪\N{\fs38}{\fs38}Well, don't tell me where the other thumb was,
+Dialogue: 0,0:03:40.20,0:03:42.80,*Default,NTP,0000,0000,0000,,我昨晚的噩夢夠多了\N{\fs38}{\fs38}I had enough nightmares last night.
+Dialogue: 0,0:03:43.88,0:03:45.29,*Default,NTP,0000,0000,0000,,你聽過那個\N{\fs38}{\fs38}Have you heard the one where you wake
+Dialogue: 0,0:03:45.29,0:03:47.06,*Default,NTP,0000,0000,0000,,被室友搞人形抱枕時發出的激情聲音\N{\fs38}{\fs38}to the passionate sounds of your roommate
+Dialogue: 0,0:03:47.06,0:03:48.29,*Default,NTP,0000,0000,0000,,吵醒的噩夢嗎\N{\fs38}{\fs38}humping a body pillow?
+Dialogue: 0,0:03:49.50,0:03:52.13,*Default,NTP,0000,0000,0000,,我說過了 我只是把抱枕翻到涼的那一面而已\N{\fs38}{\fs38}I told you, I was just flipping it to the cool side.
+Dialogue: 0,0:03:53.40,0:03:55.74,*Default,NTP,0000,0000,0000,,我的大腿太熱了\N{\fs38}{\fs38}My thighs get hot.
+Dialogue: 0,0:03:55.74,0:03:58.77,*Default,NTP,0000,0000,0000,,不 在夢里首先我所有牙齒都碎了\N{\fs38}{\fs38}No, this dream started with all my teeth crumbling.
+Dialogue: 0,0:03:58.77,0:04:02.04,*Default,NTP,0000,0000,0000,,這通常表示著無能為力\N{\fs38}{\fs38}Oh, that usually represents a feeling of powerlessness,
+Dialogue: 0,0:04:02.04,0:04:03.94,*Default,NTP,0000,0000,0000,,比如你的生活開始分崩離析\N{\fs38}{\fs38}like your life is falling apart.
+Dialogue: 0,0:04:03.94,0:04:06.18,*Default,NTP,0000,0000,0000,,或者也可以反映你的口腔衛生情況\N{\fs38}{\fs38}Or it could reflect your dental hygiene.
+Dialogue: 0,0:04:07.35,0:04:08.95,*Default,NTP,0000,0000,0000,,用停車罰單剔牙\N{\fs38}{\fs38}Picking your teeth with a parking citation
+Dialogue: 0,0:04:08.95,0:04:10.38,*Default,NTP,0000,0000,0000,,和用牙線是不一樣的\N{\fs38}{\fs38}is not the same as flossing.
+Dialogue: 0,0:04:11.69,0:04:14.15,*Default,NTP,0000,0000,0000,,我的牙掉光之后 我一下子到了廁所\N{\fs38}{\fs38}After my teeth fell out, I was suddenly in a bathroom.
+Dialogue: 0,0:04:14.16,0:04:17.06,*Default,NTP,0000,0000,0000,,坐在馬桶上 錢就開始從那里涌出來\N{\fs38}{\fs38}I sat on a pot, and money just started pouring out of it...
+Dialogue: 0,0:04:17.06,0:04:18.93,*Default,NTP,0000,0000,0000,,硬幣啦 鈔票啦 什么都有\N{\fs38}{\fs38}coins, bills, everything.
+Dialogue: 0,0:04:18.93,0:04:22.40,*Default,NTP,0000,0000,0000,,我想要去撿的時候 它們就全被沖掉了\N{\fs38}{\fs38}But when I tried to grab it, it all flushed away.
+Dialogue: 0,0:04:23.32,0:04:25.08,*Default,NTP,0000,0000,0000,,拉錢出來\N{\fs38}{\fs38}Diarrhea money.
+Dialogue: 0,0:04:26.45,0:04:28.22,*Default,NTP,0000,0000,0000,,這種夢很常見\N{\fs38}{\fs38}This is a very common dream.
+Dialogue: 0,0:04:28.22,0:04:30.82,*Default,NTP,0000,0000,0000,,腹瀉表示你對生活缺乏控制\N{\fs38}{\fs38}Your loose bowels represent a lack of control in your life.
+Dialogue: 0,0:04:30.83,0:04:32.06,*Default,NTP,0000,0000,0000,,錢可以代表任何東西\N{\fs38}{\fs38}The money could be anything.
+Dialogue: 0,0:04:32.06,0:04:34.18,*Default,NTP,0000,0000,0000,,比如錢\N{\fs38}{\fs38}Like money.
+Dialogue: 0,0:04:35.80,0:04:37.06,*Default,NTP,0000,0000,0000,,沒錯 就是錢\N{\fs38}{\fs38}Yeah! Money!
+Dialogue: 0,0:04:37.06,0:04:39.15,*Default,NTP,0000,0000,0000,,按照我和Molly還款的速度\N{\fs38}{\fs38}At the rate me and Molly are paying down our debt,
+Dialogue: 0,0:04:39.15,0:04:41.15,*Default,NTP,0000,0000,0000,,我們的第一個家很可能就是養老院了\N{\fs38}{\fs38}our first home's gonna be a nursing home.
+Dialogue: 0,0:04:41.15,0:04:43.13,*Default,NTP,0000,0000,0000,,呵呵\N{\fs38}{\fs38}Boo-hoo.
+Dialogue: 0,0:04:43.13,0:04:45.97,*Default,NTP,0000,0000,0000,,我的信用等級糟透了 我根本就不能欠債\N{\fs38}{\fs38}My credit rating is so bad, I can't even get into debt.
+Dialogue: 0,0:04:45.97,0:04:47.27,*Default,NTP,0000,0000,0000,,嗯\N{\fs38}{\fs38}Mm!
+Dialogue: 0,0:04:47.27,0:04:49.67,*Default,NTP,0000,0000,0000,,贊美主 希望那天早日來臨吧\N{\fs38}{\fs38}Praise God, someday.
+Dialogue: 0,0:04:49.67,0:04:51.48,*Default,NTP,0000,0000,0000,,真為你們難過\N{\fs38}{\fs38}Yeah, I feel bad for you guys,
+Dialogue: 0,0:04:51.48,0:04:53.44,*Default,NTP,0000,0000,0000,,跟我奶奶生活了三十七年之后\N{\fs38}{\fs38}'cause after 37 years of living with my grandma
+Dialogue: 0,0:04:53.44,0:04:55.08,*Default,NTP,0000,0000,0000,,我可有錢了\N{\fs38}{\fs38}I'm flush.
+Dialogue: 0,0:05:01.38,0:05:03.63,*Default,NTP,0000,0000,0000,,這頓我買單 是吧 \N{\fs38}{\fs38}I'm paying for lunch, aren't I?
+Dialogue: 0,0:05:04.31,0:05:08.01,*Default,NTP,0000,0000,0000,,Samuel 拿甜點菜單來\N{\fs38}{\fs38}Samuel, get me the dessert menu.
+Dialogue: 0,0:05:14.66,0:05:18.09,*Default,NTP,0000,0000,0000,,哦 糟了 哎\N{\fs38}{\fs38}Oh, uh-oh... Ooh...
+Dialogue: 0,0:05:18.09,0:05:19.33,*Default,NTP,0000,0000,0000,,想進去看看嗎\N{\fs38}{\fs38}Do you want to go in?
+Dialogue: 0,0:05:19.33,0:05:20.99,*Default,NTP,0000,0000,0000,,不 不 不 我在這兒挺好\N{\fs38}{\fs38}No, no, no, I'm fine out here.
+Dialogue: 0,0:05:21.00,0:05:22.86,*Default,NTP,0000,0000,0000,,我答應Mike要好好表現了\N{\fs38}{\fs38}I promised Mike I would be good,
+Dialogue: 0,0:05:22.86,0:05:24.56,*Default,NTP,0000,0000,0000,,我會乖乖的\N{\fs38}{\fs38}and I'm going to be good.
+Dialogue: 0,0:05:24.57,0:05:26.83,*Default,NTP,0000,0000,0000,,天啊 這些鞋子太美了\N{\fs38}{\fs38}God, those shoes are beautiful.
+Dialogue: 0,0:05:26.83,0:05:30.97,*Default,NTP,0000,0000,0000,,我都能透過玻璃聞到那皮革的味道\N{\fs38}{\fs38}Oh, I think I can smell the leather through the glass.
+Dialogue: 0,0:05:32.91,0:05:35.01,*Default,NTP,0000,0000,0000,,你不去試試嗎\N{\fs38}{\fs38}Can't you just try them on?
+Dialogue: 0,0:05:35.01,0:05:36.88,*Default,NTP,0000,0000,0000,,不 我不試\N{\fs38}{\fs38}No, I can't try them on.
+Dialogue: 0,0:05:36.88,0:05:38.21,*Default,NTP,0000,0000,0000,,一穿上它們 我就\N{\fs38}{\fs38}I try them on, I'm...
+Dialogue: 0,0:05:38.21,0:05:40.31,*Default,NTP,0000,0000,0000,,我就得買了 我說\N{\fs38}{\fs38}I'm gonna buy 'em, and, I mean...
+Dialogue: 0,0:05:40.31,0:05:42.75,*Default,NTP,0000,0000,0000,,我覺得如果我試了\N{\fs38}{\fs38}You know, I guess if I tried on just one...
+Dialogue: 0,0:05:42.75,0:05:44.75,*Default,NTP,0000,0000,0000,,號碼有點小\N{\fs38}{\fs38}you know, in maybe, like, a size too small,
+Dialogue: 0,0:05:44.75,0:05:46.85,*Default,NTP,0000,0000,0000,,就會夾腳 這個試鞋體驗\N{\fs38}{\fs38}then it would pinch, and that would be a really
+Dialogue: 0,0:05:46.85,0:05:49.52,*Default,NTP,0000,0000,0000,,可不好 我可不想\N{\fs38}{\fs38}bad shoe experience, and I wouldn't want to...
+Dialogue: 0,0:05:49.52,0:05:51.19,*Default,NTP,0000,0000,0000,,我可不想買它們\N{\fs38}{\fs38}I wouldn't want to get them, you know.
+Dialogue: 0,0:05:51.19,0:05:53.93,*Default,NTP,0000,0000,0000,,但 但是 如果它偏大 穿起來合適\N{\fs38}{\fs38}B-But, if-if they run big, and it fits perfectly,
+Dialogue: 0,0:05:53.93,0:05:56.13,*Default,NTP,0000,0000,0000,,那我就 那就是命運啊\N{\fs38}{\fs38}then I got, you know, that's fate...
+Dialogue: 0,0:05:56.13,0:05:59.20,*Default,NTP,0000,0000,0000,,我哪兒能跟命運抗爭啊 我肯定得買啊\N{\fs38}{\fs38}and who am I to deal with fate, so then I am buying the shoe...
+Dialogue: 0,0:05:59.20,0:06:00.97,*Default,NTP,0000,0000,0000,,不 跟你說 我還是就\N{\fs38}{\fs38}No, you know what, I'm-I'm just gonna st...
+Dialogue: 0,0:06:00.97,0:06:02.87,*Default,NTP,0000,0000,0000,,我就不進去了\N{\fs38}{\fs38}I'm not going in.
+Dialogue: 0,0:06:02.87,0:06:04.30,*Default,NTP,0000,0000,0000,,好吧 咱走吧\N{\fs38}{\fs38}Okay, then we'll leave.
+Dialogue: 0,0:06:04.31,0:06:05.51,*Default,NTP,0000,0000,0000,,不 怎么能走呢\N{\fs38}{\fs38}No, we're not leaving.
+Dialogue: 0,0:06:05.51,0:06:07.87,*Default,NTP,0000,0000,0000,,你得穿上試試 進去\N{\fs38}{\fs38}You're trying on shoes! Get in there!
+Dialogue: 0,0:06:07.88,0:06:10.21,*Default,NTP,0000,0000,0000,,嘿 嘿 嘿 嘿\N{\fs38}{\fs38}Hey, hey, hey, hey!
+Dialogue: 0,0:06:10.21,0:06:12.11,*Default,NTP,0000,0000,0000,,不要看靴子 不 來這邊\N{\fs38}{\fs38}We don't need boots. No, come here.
+Dialogue: 0,0:06:12.11,0:06:14.71,*Default,NTP,0000,0000,0000,,就是那個寶貝兒 那個黑色的\N{\fs38}{\fs38}These are the showstoppers. The black ones.
+Dialogue: 0,0:06:14.72,0:06:16.85,*Default,NTP,0000,0000,0000,,喂 這些都是黑的啊\N{\fs38}{\fs38}Yeah, they're all black.
+Dialogue: 0,0:06:16.85,0:06:18.42,*Default,NTP,0000,0000,0000,,不是那個丑黑\N{\fs38}{\fs38}Yeah, not the ugly black ones,
+Dialogue: 0,0:06:18.42,0:06:20.22,*Default,NTP,0000,0000,0000,,是那個好看的黑 那個\N{\fs38}{\fs38}the amazing black ones. These.
+Dialogue: 0,0:06:20.22,0:06:21.79,*Default,NTP,0000,0000,0000,,趕緊的 不 不是\N{\fs38}{\fs38}Come on. No... no!
+Dialogue: 0,0:06:21.79,0:06:24.22,*Default,NTP,0000,0000,0000,,我可不是KISS的貝斯手\N{\fs38}{\fs38}I'm not the bass player for KISS.
+Dialogue: 0,0:06:21.79,0:06:24.22,*Default,NTP,0000,0000,0000,,{\an8\fs38}KISS 美國重金屬搖滾樂隊
+Dialogue: 0,0:06:24.23,0:06:25.29,*Default,NTP,0000,0000,0000,,快點 上面的\N{\fs38}{\fs38}Come on, one up,
+Dialogue: 0,0:06:25.29,0:06:27.16,*Default,NTP,0000,0000,0000,,上面的 再邊上第二個\N{\fs38}{\fs38}one up, and two over.
+Dialogue: 0,0:06:27.16,0:06:28.53,*Default,NTP,0000,0000,0000,,上面一層 上 上 上\N{\fs38}{\fs38}One up, up, up, up.
+Dialogue: 0,0:06:28.53,0:06:31.87,*Default,NTP,0000,0000,0000,,邊上第二個 第二個\N{\fs38}{\fs38}Two over. Two over.
+Dialogue: 0,0:06:31.87,0:06:32.87,*Default,NTP,0000,0000,0000,,第二 對了\N{\fs38}{\fs38}Two... yes.
+Dialogue: 0,0:06:32.87,0:06:34.10,*Default,NTP,0000,0000,0000,,對 對 對了\N{\fs38}{\fs38}Yes, yes, yes.
+Dialogue: 0,0:06:34.10,0:06:35.27,*Default,NTP,0000,0000,0000,,真漂亮\N{\fs38}{\fs38}These are nice.
+Dialogue: 0,0:06:35.27,0:06:37.47,*Default,NTP,0000,0000,0000,,對吧 我就知道 可不是啊\N{\fs38}{\fs38}Right? I know! Hello!
+Dialogue: 0,0:06:37.47,0:06:39.57,*Default,NTP,0000,0000,0000,,請問這個鞋有沒有九號的\N{\fs38}{\fs38}Excuse me, do you have these in nine?
+Dialogue: 0,0:06:39.57,0:06:40.67,*Default,NTP,0000,0000,0000,,或是八號的 八號\N{\fs38}{\fs38}Or eight? Eight?
+Dialogue: 0,0:06:40.67,0:06:42.08,*Default,NTP,0000,0000,0000,,但我穿九號啊\N{\fs38}{\fs38}But I'm a nine.
+Dialogue: 0,0:06:42.08,0:06:43.74,*Default,NTP,0000,0000,0000,,好吧 好吧 號是不是偏小啊\N{\fs38}{\fs38}All right, fine. Do they run small?
+Dialogue: 0,0:06:45.41,0:06:47.91,*Default,NTP,0000,0000,0000,,這是最后一雙了 是八號的\N{\fs38}{\fs38}That's the last pair we have and it's an eight.
+Dialogue: 0,0:06:47.92,0:06:50.48,*Default,NTP,0000,0000,0000,,你說八號 那我要了\N{\fs38}{\fs38}Did you say eight? 'Cause I'll take 'em.
+Dialogue: 0,0:06:50.48,0:06:52.12,*Default,NTP,0000,0000,0000,,我以為你不會買的\N{\fs38}{\fs38}I thought you weren't gonna buy anything.
+Dialogue: 0,0:06:52.12,0:06:54.15,*Default,NTP,0000,0000,0000,,我不 但你要買 刷我的信用卡\N{\fs38}{\fs38}I'm not, you are. Put it on my credit cards.
+Dialogue: 0,0:06:54.15,0:06:56.29,*Default,NTP,0000,0000,0000,,我從沒來過這兒 我在巷子里等你\N{\fs38}{\fs38}I was never here. I'll meet you in the alley.
+Dialogue: 0,0:07:01.83,0:07:03.23,*Default,NTP,0000,0000,0000,,天啊\N{\fs38}{\fs38}Oh, God.
+Dialogue: 0,0:07:03.23,0:07:05.20,*Default,NTP,0000,0000,0000,,你怎么讓我使喚你做一些\N{\fs38}{\fs38}Why did you let me let you do something
+Dialogue: 0,0:07:05.20,0:07:06.67,*Default,NTP,0000,0000,0000,,我不應該做的事兒啊\N{\fs38}{\fs38}that I wasn't supposed to do?
+Dialogue: 0,0:07:06.67,0:07:08.84,*Default,NTP,0000,0000,0000,,你怎么能這么美啊\N{\fs38}{\fs38}And why are you so beautiful?
+Dialogue: 0,0:07:10.84,0:07:13.97,*Default,NTP,0000,0000,0000,,我知道這話從你這個嗑藥妹妹口中說出來很怪\N{\fs38}{\fs38}I know this is weird, coming from your stoner sister:
+Dialogue: 0,0:07:13.97,0:07:16.24,*Default,NTP,0000,0000,0000,,但你真的有問題了\N{\fs38}{\fs38}But you've got a problem.
+Dialogue: 0,0:07:16.24,0:07:17.78,*Default,NTP,0000,0000,0000,,她唯一能有的問題就是\N{\fs38}{\fs38}The only problem
+Dialogue: 0,0:07:17.78,0:07:19.98,*Default,NTP,0000,0000,0000,,如果Mike看到這雙鞋了\N{\fs38}{\fs38}she'll have is if Mike sees them.
+Dialogue: 0,0:07:19.98,0:07:22.05,*Default,NTP,0000,0000,0000,,我幫你把它們放到我振動棒的柜子里吧\N{\fs38}{\fs38}You want me to keep them in my vibrator cabinet?
+Dialogue: 0,0:07:22.05,0:07:24.32,*Default,NTP,0000,0000,0000,,我像藏槍一樣鎖著它們\N{\fs38}{\fs38}I lock those up like guns.
+Dialogue: 0,0:07:24.32,0:07:27.22,*Default,NTP,0000,0000,0000,,不用 既然我都買了 我就得誠實\N{\fs38}{\fs38}No. I mean, I did it, I have to be honest
+Dialogue: 0,0:07:27.22,0:07:29.32,*Default,NTP,0000,0000,0000,,承認我的錯誤\N{\fs38}{\fs38}and own up to my own mistakes.
+Dialogue: 0,0:07:29.32,0:07:30.92,*Default,NTP,0000,0000,0000,,{\fs38}Molly\N{\fs38}Molly!
+Dialogue: 0,0:07:30.93,0:07:33.03,*Default,NTP,0000,0000,0000,,老天 脫下來 脫下來 快脫下來\N{\fs38}{\fs38}Oh, God, get 'em off, get 'em off, get 'em off!
+Dialogue: 0,0:07:34.96,0:07:37.23,*Default,NTP,0000,0000,0000,,嗨 好啊 你\N{\fs38}{\fs38}Hey. Hey. Hey, you.
+Dialogue: 0,0:07:38.13,0:07:39.27,*Default,NTP,0000,0000,0000,,我整天都在家\N{\fs38}{\fs38}I stayed home all day,
+Dialogue: 0,0:07:39.27,0:07:40.90,*Default,NTP,0000,0000,0000,,我可不知道她倆都干嘛了\N{\fs38}{\fs38}I don't know what these two did.
+Dialogue: 0,0:07:45.47,0:07:47.01,*Default,NTP,0000,0000,0000,,她倆怎么了\N{\fs38}{\fs38}What's up with those two?
+Dialogue: 0,0:07:47.01,0:07:49.54,*Default,NTP,0000,0000,0000,,喝醉了 嗑藥了 誰知道啊\N{\fs38}{\fs38}Drunk? High? Who knows.
+Dialogue: 0,0:07:50.95,0:07:54.18,*Default,NTP,0000,0000,0000,,上癮是個問題 我們得理解\N{\fs38}{\fs38}Addiction is a problem, and we have to be understanding.
+Dialogue: 0,0:07:57.08,0:07:58.32,*Default,NTP,0000,0000,0000,,你怎么這么高\N{\fs38}{\fs38}Why are you so tall?
+Dialogue: 0,0:07:58.32,0:08:00.15,*Default,NTP,0000,0000,0000,,你怎么這么帥\N{\fs38}{\fs38}Why are you so handsome?
+Dialogue: 0,0:08:05.49,0:08:07.43,*Default,NTP,0000,0000,0000,,- 你去哪兒  - 你要去哪兒\N{\fs38}{\fs38}- Where are you going? - Where are you going?
+Dialogue: 0,0:08:08.43,0:08:09.50,*Default,NTP,0000,0000,0000,,你干嘛呢\N{\fs38}{\fs38}What are you doing?
+Dialogue: 0,0:08:09.50,0:08:11.56,*Default,NTP,0000,0000,0000,,你干嘛呢\N{\fs38}{\fs38}What are you doing?
+Dialogue: 0,0:08:11.57,0:08:14.07,*Default,NTP,0000,0000,0000,,- 不要啊  - 那是新鞋嗎\N{\fs38}{\fs38}- No, no. - Are those new shoes?
+Dialogue: 0,0:08:14.07,0:08:15.57,*Default,NTP,0000,0000,0000,,- 不是  - 真的嗎\N{\fs38}{\fs38}- No. - Really?
+Dialogue: 0,0:08:15.57,0:08:18.14,*Default,NTP,0000,0000,0000,,不是\N{\fs38}{\fs38}No.
+Dialogue: 0,0:08:18.14,0:08:19.74,*Default,NTP,0000,0000,0000,,- 多少錢買的  - 促銷價\N{\fs38}{\fs38}- How much were they? - They were on sale.
+Dialogue: 0,0:08:19.74,0:08:21.54,*Default,NTP,0000,0000,0000,,- 真的嗎  - 是啊\N{\fs38}{\fs38}- Really? - Yes.
+Dialogue: 0,0:08:21.54,0:08:22.38,*Default,NTP,0000,0000,0000,,{\fs38}Molly\N{\fs38}Molly?
+Dialogue: 0,0:08:22.38,0:08:24.24,*Default,NTP,0000,0000,0000,,- 不是  - 你殺了我算了\N{\fs38}{\fs38}- No. - You are killing me!
+Dialogue: 0,0:08:27.27,0:08:28.89,*Default,NTP,0000,0000,0000,,行了 不就是一雙鞋嗎\N{\fs38}{\fs38}Come on, they're one pair of shoes.
+Dialogue: 0,0:08:28.89,0:08:30.08,*Default,NTP,0000,0000,0000,,我保證再也不買了\N{\fs38}{\fs38}I promise I won't do it again.
+Dialogue: 0,0:08:30.08,0:08:31.77,*Default,NTP,0000,0000,0000,,你每次都這么說\N{\fs38}{\fs38}You say that every time.
+Dialogue: 0,0:08:31.77,0:08:34.34,*Default,NTP,0000,0000,0000,,但現在我們債務纏身 都壓在我肩上了\N{\fs38}{\fs38}But we're drowning in debt and it's all on my shoulders.
+Dialogue: 0,0:08:34.34,0:08:36.68,*Default,NTP,0000,0000,0000,,沒都在你肩上啊 我肩上也扛著呢\N{\fs38}{\fs38}It's not all on your shoulders, it's on my shoulders, too.
+Dialogue: 0,0:08:36.68,0:08:37.68,*Default,NTP,0000,0000,0000,,拿什么扛啊\N{\fs38}{\fs38}How?
+Dialogue: 0,0:08:37.68,0:08:39.18,*Default,NTP,0000,0000,0000,,你每天都上班嗎\N{\fs38}{\fs38}Are you going to work every day?
+Dialogue: 0,0:08:39.18,0:08:40.71,*Default,NTP,0000,0000,0000,,不 你只會出去買東西\N{\fs38}{\fs38}No, you're just going out and shopping
+Dialogue: 0,0:08:40.71,0:08:42.72,*Default,NTP,0000,0000,0000,,花光我所有的錢\N{\fs38}{\fs38}and spending all of my money.
+Dialogue: 0,0:08:43.78,0:08:44.75,*Default,NTP,0000,0000,0000,,你說什么\N{\fs38}{\fs38}Really?
+Dialogue: 0,0:08:44.75,0:08:46.69,*Default,NTP,0000,0000,0000,,慘了\N{\fs38}{\fs38}Oh, boy.
+Dialogue: 0,0:08:46.69,0:08:48.59,*Default,NTP,0000,0000,0000,,你的錢 哇\N{\fs38}{\fs38}Your money? Wow.
+Dialogue: 0,0:08:48.59,0:08:49.89,*Default,NTP,0000,0000,0000,,我 別反過來怪我\N{\fs38}{\fs38}Look, I... don't turn this on me,
+Dialogue: 0,0:08:49.89,0:08:51.39,*Default,NTP,0000,0000,0000,,是你非要買什么蠢鞋的\N{\fs38}{\fs38}you're the one who bought the stupid shoes.
+Dialogue: 0,0:08:51.39,0:08:54.43,*Default,NTP,0000,0000,0000,,知道了 蠢鞋 你的錢\N{\fs38}{\fs38}Got it. Stupid shoes, your money.
+Dialogue: 0,0:08:54.43,0:08:55.70,*Default,NTP,0000,0000,0000,,在你亂花錢這件事上\N{\fs38}{\fs38}Hey, I'm right on this one,
+Dialogue: 0,0:08:55.70,0:08:58.16,*Default,NTP,0000,0000,0000,,我是對的 別想讓我內疚\N{\fs38}{\fs38}and you're not making me feel bad about it.
+Dialogue: 0,0:08:58.89,0:09:00.79,*Default,NTP,0000,0000,0000,,該死 我好內疚\N{\fs38}{\fs38}Damn it! I feel bad about it.
+Dialogue: 0,0:09:14.90,0:09:16.53,*Default,NTP,0000,0000,0000,,{\fs38}Vince\N{\fs38}Vince.
+Dialogue: 0,0:09:16.53,0:09:18.43,*Default,NTP,0000,0000,0000,,來啦 坐吧 冠軍\N{\fs38}{\fs38}There he is. Have a seat, champ.
+Dialogue: 0,0:09:18.43,0:09:21.26,*Default,NTP,0000,0000,0000,,我煮了一壺咖啡 給你煎了蛋\N{\fs38}{\fs38}Brewed a fresh pot of coffee and made you some eggs.
+Dialogue: 0,0:09:21.26,0:09:22.60,*Default,NTP,0000,0000,0000,,你干嘛給我做早餐\N{\fs38}{\fs38}Why are you making me breakfast?
+Dialogue: 0,0:09:22.60,0:09:23.77,*Default,NTP,0000,0000,0000,,你肯定餓了\N{\fs38}{\fs38}You got to be hungry
+Dialogue: 0,0:09:23.77,0:09:26.67,*Default,NTP,0000,0000,0000,,跟你媳婦大喊大叫了這一通\N{\fs38}{\fs38}after that ass chewing you gave your wife.
+Dialogue: 0,0:09:26.67,0:09:28.37,*Default,NTP,0000,0000,0000,,你聽見了\N{\fs38}{\fs38}You heard about that?
+Dialogue: 0,0:09:28.37,0:09:29.94,*Default,NTP,0000,0000,0000,,整個屋子都快震塌了\N{\fs38}{\fs38}The whole house is a buzz.
+Dialogue: 0,0:09:29.94,0:09:31.84,*Default,NTP,0000,0000,0000,,坐下吧 大英雄\N{\fs38}{\fs38}Sit down, hero.
+Dialogue: 0,0:09:31.84,0:09:33.61,*Default,NTP,0000,0000,0000,,大英雄\N{\fs38}{\fs38}Hero.
+Dialogue: 0,0:09:33.61,0:09:36.18,*Default,NTP,0000,0000,0000,,我昨晚在地下室的沙發上睡的\N{\fs38}{\fs38}I slept on a La-Z-Boy in the basement last night.
+Dialogue: 0,0:09:36.18,0:09:39.38,*Default,NTP,0000,0000,0000,,耶穌還戴著荊棘冠冕呢\N{\fs38}{\fs38}And Jesus wore a crown of thorns.
+Dialogue: 0,0:09:41.42,0:09:43.39,*Default,NTP,0000,0000,0000,,只是一場關于買鞋的爭執罷了\N{\fs38}{\fs38}It was just a dumb fight about shoes.
+Dialogue: 0,0:09:43.39,0:09:45.49,*Default,NTP,0000,0000,0000,,不 遠遠不只是那個\N{\fs38}{\fs38}No, it was much more than that.
+Dialogue: 0,0:09:45.49,0:09:47.36,*Default,NTP,0000,0000,0000,,你說了 "我的錢"\N{\fs38}{\fs38}You said, "My money."
+Dialogue: 0,0:09:47.36,0:09:48.76,*Default,NTP,0000,0000,0000,,你有種啊 說出了\N{\fs38}{\fs38}You had the balls to say
+Dialogue: 0,0:09:48.76,0:09:50.56,*Default,NTP,0000,0000,0000,,自聯合賬戶存在以來\N{\fs38}{\fs38}what a generation of men have wanted to
+Dialogue: 0,0:09:50.56,0:09:53.30,*Default,NTP,0000,0000,0000,,一代男人想說而不敢說的話\N{\fs38}{\fs38}since the dawn of joint checking accounts.
+Dialogue: 0,0:09:54.68,0:09:55.64,*Default,NTP,0000,0000,0000,,早上好\N{\fs38}{\fs38}Morning.
+Dialogue: 0,0:09:55.64,0:09:56.85,*Default,NTP,0000,0000,0000,,早上好 Moll\N{\fs38}{\fs38}Morning, Moll.
+Dialogue: 0,0:09:56.85,0:09:58.85,*Default,NTP,0000,0000,0000,,- 鞋子真漂亮  - 你來咬我呀\N{\fs38}{\fs38}-Nice shoes. -Yeah, bite me.
+Dialogue: 0,0:09:58.85,0:10:00.08,*Default,NTP,0000,0000,0000,,就是告訴你一聲\N{\fs38}{\fs38}Just so you know,
+Dialogue: 0,0:10:00.08,0:10:01.75,*Default,NTP,0000,0000,0000,,我今天就去找工作\N{\fs38}{\fs38}I'm going out and getting a job today,
+Dialogue: 0,0:10:01.75,0:10:03.89,*Default,NTP,0000,0000,0000,,這樣就能把你的寶貝錢都還給你\N{\fs38}{\fs38}just so I can pay you back your precious money.
+Dialogue: 0,0:10:03.89,0:10:06.52,*Default,NTP,0000,0000,0000,,Molly 別荒唐了 你不用去找工作\N{\fs38}{\fs38}Molly, you're being ridiculous. You don't have to get a job.
+Dialogue: 0,0:10:06.52,0:10:07.96,*Default,NTP,0000,0000,0000,,現在我還荒唐了\N{\fs38}{\fs38}Oh, am I ridiculous now, too?
+Dialogue: 0,0:10:07.96,0:10:10.03,*Default,NTP,0000,0000,0000,,行 我這就把荒唐當成我的特殊技能\N{\fs38}{\fs38}You know what? I'm gonna put that on my resume
+Dialogue: 0,0:10:10.03,0:10:11.73,*Default,NTP,0000,0000,0000,,寫進我的簡歷里\N{\fs38}{\fs38}under "Special Skills""
+Dialogue: 0,0:10:13.05,0:10:13.34,*Default,NTP,0000,0000,0000,,對了 你要是\N{\fs38}{\fs38}Hey, if you're
+Dialogue: 0,0:10:13.34,0:10:15.61,*Default,NTP,0000,0000,0000,,想找工作 我有個哥們開了個學校\N{\fs38}{\fs38}looking for a job, I got a buddy who owns a school
+Dialogue: 0,0:10:15.61,0:10:17.41,*Default,NTP,0000,0000,0000,,專門教外國人開車\N{\fs38}{\fs38}teaching foreigners how to drive cars.
+Dialogue: 0,0:10:17.41,0:10:19.34,*Default,NTP,0000,0000,0000,,你都不知道這有多掙錢\N{\fs38}{\fs38}You'd be surprised how much money you can make
+Dialogue: 0,0:10:19.35,0:10:22.51,*Default,NTP,0000,0000,0000,,非法移民市場可大了去了\N{\fs38}{\fs38}exploiting the undocumented immigrant market.
+Dialogue: 0,0:10:22.52,0:10:25.82,*Default,NTP,0000,0000,0000,,我好歹是個碩士 Vince\N{\fs38}{\fs38}I have a master's degree, Vince, okay?
+Dialogue: 0,0:10:25.82,0:10:28.79,*Default,NTP,0000,0000,0000,,我覺得我不至于去干那個吧\N{\fs38}{\fs38}I think I can get something a little bit better than that.
+Dialogue: 0,0:10:29.72,0:10:31.22,*Default,NTP,0000,0000,0000,,哇\N{\fs38}{\fs38}Wow.
+Dialogue: 0,0:10:31.22,0:10:33.86,*Default,NTP,0000,0000,0000,,跟你的性福說拜拜吧\N{\fs38}{\fs38}You may never get laid again.
+Dialogue: 0,0:10:46.74,0:10:48.44,*Default,NTP,0000,0000,0000,,你有什么技能嗎\N{\fs38}{\fs38}So, do you have any skills?
+Dialogue: 0,0:10:48.44,0:10:51.48,*Default,NTP,0000,0000,0000,,有 我曾是有編制的芝加哥教師\N{\fs38}{\fs38}Uh, yeah, I was a teacher for the Chicago school system
+Dialogue: 0,0:10:51.48,0:10:52.74,*Default,NTP,0000,0000,0000,,過去十年里一直是\N{\fs38}{\fs38}for the last ten years, so...
+Dialogue: 0,0:10:52.75,0:10:55.88,*Default,NTP,0000,0000,0000,,那就是沒有技能了\N{\fs38}{\fs38}Oh. No skills.
+Dialogue: 0,0:10:55.88,0:10:58.75,*Default,NTP,0000,0000,0000,,不 不 我有技能呢 我能打字\N{\fs38}{\fs38}No, no, no, I have, I have skills... I can type.
+Dialogue: 0,0:10:58.75,0:11:00.35,*Default,NTP,0000,0000,0000,,我能熟練使用電腦\N{\fs38}{\fs38}I'm very good with computer.
+Dialogue: 0,0:11:00.35,0:11:01.72,*Default,NTP,0000,0000,0000,,很不錯呀\N{\fs38}{\fs38}Oh, that's terrific.
+Dialogue: 0,0:11:01.72,0:11:04.36,*Default,NTP,0000,0000,0000,,你覺得粉刷匠怎么樣\N{\fs38}{\fs38}Uh, how do you feel about house painting?
+Dialogue: 0,0:11:04.36,0:11:06.36,*Default,NTP,0000,0000,0000,,粉刷匠\N{\fs38}{\fs38}Painting.
+Dialogue: 0,0:11:06.36,0:11:08.76,*Default,NTP,0000,0000,0000,,當然了 我不可能一開始就讓你做粉刷工作\N{\fs38}{\fs38}Well, I couldn't start you off as a painter.
+Dialogue: 0,0:11:08.76,0:11:11.36,*Default,NTP,0000,0000,0000,,也許先刮大白 或當小工\N{\fs38}{\fs38}No, maybe a scraper or a prepper.
+Dialogue: 0,0:11:11.36,0:11:14.43,*Default,NTP,0000,0000,0000,,搖勻油漆罐子\N{\fs38}{\fs38}A can... shaker. That...
+Dialogue: 0,0:11:14.43,0:11:16.57,*Default,NTP,0000,0000,0000,,我 我是個碩士\N{\fs38}{\fs38}I-I have a master's degree.
+Dialogue: 0,0:11:16.57,0:11:19.94,*Default,NTP,0000,0000,0000,,要是你的專業是\N{\fs38}{\fs38}Well, if it's a master's degree in...
+Dialogue: 0,0:11:19.94,0:11:22.57,*Default,NTP,0000,0000,0000,,空調維修 那我們正需要這種人才\N{\fs38}{\fs38}air-conditioning repair, you're in luck.
+Dialogue: 0,0:11:22.58,0:11:25.48,*Default,NTP,0000,0000,0000,,不是的 我的專業是中世紀文學\N{\fs38}{\fs38}Uh, no, it's in medieval literature.
+Dialogue: 0,0:11:25.48,0:11:28.15,*Default,NTP,0000,0000,0000,,我 我只是覺得\N{\fs38}{\fs38}Um, I just, I just think that I have
+Dialogue: 0,0:11:28.15,0:11:31.22,*Default,NTP,0000,0000,0000,,除了體力活 我還可以做些別的工作回饋社會\N{\fs38}{\fs38}a little more to offer the world than manual labor.
+Dialogue: 0,0:11:31.22,0:11:34.42,*Default,NTP,0000,0000,0000,,現在的社會才懶得管你呢\N{\fs38}{\fs38}Well, the world doesn't give a hot crap.
+Dialogue: 0,0:11:35.96,0:11:38.32,*Default,NTP,0000,0000,0000,,你想不想聽我說句大實話\N{\fs38}{\fs38}Do you mind if, uh, we get real for a second?
+Dialogue: 0,0:11:38.32,0:11:40.13,*Default,NTP,0000,0000,0000,,比剛才那句還實在嗎\N{\fs38}{\fs38}Realer than that?
+Dialogue: 0,0:11:40.13,0:11:41.46,*Default,NTP,0000,0000,0000,,聽我說\N{\fs38}{\fs38}Here it is
+Dialogue: 0,0:11:41.46,0:11:43.43,*Default,NTP,0000,0000,0000,,我們都完了\N{\fs38}{\fs38}We're all screwed.
+Dialogue: 0,0:11:43.43,0:11:47.20,*Default,NTP,0000,0000,0000,,要是你現在沒錢 你永遠也富不了\N{\fs38}{\fs38}If you don't have money now, you are never getting any.
+Dialogue: 0,0:11:47.20,0:11:49.20,*Default,NTP,0000,0000,0000,,因為有錢的那仨\N{\fs38}{\fs38}Because the three guys that have it all
+Dialogue: 0,0:11:49.20,0:11:50.94,*Default,NTP,0000,0000,0000,,可不會把錢白分給你\N{\fs38}{\fs38}are not sharing.
+Dialogue: 0,0:11:50.94,0:11:53.81,*Default,NTP,0000,0000,0000,,我是來找工作的\N{\fs38}{\fs38}Are you sure that you're the one
+Dialogue: 0,0:11:53.81,0:11:57.18,*Default,NTP,0000,0000,0000,,是不是問錯負責人了\N{\fs38}{\fs38}I'm supposed to be talking to about getting a job?
+Dialogue: 0,0:11:57.18,0:11:59.61,*Default,NTP,0000,0000,0000,,這兒沒工作 實話告訴你吧\N{\fs38}{\fs38}There are no jobs. In fact,
+Dialogue: 0,0:11:59.61,0:12:02.01,*Default,NTP,0000,0000,0000,,這家中介公司兩周內就要倒了\N{\fs38}{\fs38}this agency is shutting down in two weeks.
+Dialogue: 0,0:12:02.01,0:12:03.62,*Default,NTP,0000,0000,0000,,我們全都要失業了\N{\fs38}{\fs38}We're all getting laid off.
+Dialogue: 0,0:12:03.62,0:12:07.15,*Default,NTP,0000,0000,0000,,我剛剛買了一輛裝備齊全的福特福克斯\N{\fs38}{\fs38}And I just got a fully-loaded Ford Focus.
+Dialogue: 0,0:12:08.22,0:12:09.32,*Default,NTP,0000,0000,0000,,很不錯嘛\N{\fs38}{\fs38}Those are nice.
+Dialogue: 0,0:12:09.32,0:12:10.86,*Default,NTP,0000,0000,0000,,是嗎\N{\fs38}{\fs38}Yeah.
+Dialogue: 0,0:12:10.86,0:12:12.99,*Default,NTP,0000,0000,0000,,能當房子住嗎\N{\fs38}{\fs38}Nice enough to live in?
+Dialogue: 0,0:12:14.93,0:12:16.69,*Default,NTP,0000,0000,0000,,話說起來 我 我該\N{\fs38}{\fs38}You know what, I'm just...
+Dialogue: 0,0:12:16.70,0:12:19.13,*Default,NTP,0000,0000,0000,,我該走了\N{\fs38}{\fs38}I'm probably just gonna go.
+Dialogue: 0,0:12:19.13,0:12:21.67,*Default,NTP,0000,0000,0000,,對了 這個給你\N{\fs38}{\fs38}Hey, you know... how about you...
+Dialogue: 0,0:12:21.67,0:12:24.17,*Default,NTP,0000,0000,0000,,午飯的時候加個菜吧\N{\fs38}{\fs38}get yourself a little treat at lunch,
+Dialogue: 0,0:12:24.17,0:12:25.70,*Default,NTP,0000,0000,0000,,我請客\N{\fs38}{\fs38}on me.
+Dialogue: 0,0:12:25.70,0:12:27.17,*Default,NTP,0000,0000,0000,,老天保佑你\N{\fs38}{\fs38}Bless you.
+Dialogue: 0,0:12:27.17,0:12:29.87,*Default,NTP,0000,0000,0000,,你知道我只會去拿這去買酒\N{\fs38}{\fs38}You know I'm gonna spend this on liquor.
+Dialogue: 0,0:12:31.71,0:12:32.94,*Default,NTP,0000,0000,0000,,我了解\N{\fs38}{\fs38}I do.
+Dialogue: 0,0:12:38.78,0:12:41.15,*Default,NTP,0000,0000,0000,,真沒想到我淪落至此\N{\fs38}{\fs38}Can't believe this is the only job I could get.
+Dialogue: 0,0:12:41.15,0:12:42.85,*Default,NTP,0000,0000,0000,,我是個碩士\N{\fs38}{\fs38}I have a master's degree.
+Dialogue: 0,0:12:42.86,0:12:47.09,*Default,NTP,0000,0000,0000,,我學車就是為了當出租車司機\N{\fs38}{\fs38}I'm just doing this so I can get a job driving a taxi.
+Dialogue: 0,0:12:47.09,0:12:48.46,*Default,NTP,0000,0000,0000,,我還是個博士呢\N{\fs38}{\fs38}And I have a PhD.
+Dialogue: 0,0:12:48.46,0:12:52.33,*Default,NTP,0000,0000,0000,,挺厲害啊你 不會開車的博士\N{\fs38}{\fs38}Well, good for you, Dr. Don't Have a Driver's License.
+Dialogue: 0,0:12:52.33,0:12:54.03,*Default,NTP,0000,0000,0000,,十和二\N{\fs38}{\fs38}Ten and two!
+Dialogue: 0,0:12:54.03,0:12:55.97,*Default,NTP,0000,0000,0000,,那是十一和一 十和二\N{\fs38}{\fs38}That's 11 and one! Ten and two!
+Dialogue: 0,0:13:01.34,0:13:03.44,*Default,NTP,0000,0000,0000,,你知道嗎 這是我和Molly第一次吵得這么兇\N{\fs38}{\fs38}You know, this is me and Molly's first big fight.
+Dialogue: 0,0:13:03.44,0:13:05.21,*Default,NTP,0000,0000,0000,,兩口子哪有不拌嘴的\N{\fs38}{\fs38}Well, that's what happens with couples.
+Dialogue: 0,0:13:05.21,0:13:06.44,*Default,NTP,0000,0000,0000,,我還記得我倆第一次吵架\N{\fs38}{\fs38}I remember our first big fight.
+Dialogue: 0,0:13:06.45,0:13:08.71,*Default,NTP,0000,0000,0000,,你帶口琴來上班那次嗎\N{\fs38}{\fs38}The day you brought harmonica to work?
+Dialogue: 0,0:13:08.71,0:13:09.98,*Default,NTP,0000,0000,0000,,不 再之前那次\N{\fs38}{\fs38}No. Before that.
+Dialogue: 0,0:13:09.98,0:13:11.68,*Default,NTP,0000,0000,0000,,我從你手里搶走了\N{\fs38}{\fs38}When I snatched that second double cheeseburger
+Dialogue: 0,0:13:11.68,0:13:12.72,*Default,NTP,0000,0000,0000,,第二個雙層芝士漢堡\N{\fs38}{\fs38}out of your hand.
+Dialogue: 0,0:13:12.72,0:13:15.59,*Default,NTP,0000,0000,0000,,噢 是啊 那次太糟了\N{\fs38}{\fs38}Oh, right, that was a bad one.
+Dialogue: 0,0:13:15.59,0:13:18.26,*Default,NTP,0000,0000,0000,,是的 你咬了我一口\N{\fs38}{\fs38}Yeah. You bit me.
+Dialogue: 0,0:13:18.26,0:13:21.09,*Default,NTP,0000,0000,0000,,我發現那不是漢堡的時候就松口了\N{\fs38}{\fs38}I let up when I realized it wasn't hamburger.
+Dialogue: 0,0:13:22.96,0:13:23.84,*Default,NTP,0000,0000,0000,,我就是不太了解\N{\fs38}{\fs38}I-I just didn't understand
+Dialogue: 0,0:13:23.84,0:13:25.16,*Default,NTP,0000,0000,0000,,你當時的情況\N{\fs38}{\fs38}the issues that you were going through,
+Dialogue: 0,0:13:25.16,0:13:26.93,*Default,NTP,0000,0000,0000,,可怎么說 我也是因為愛你才那么做的\N{\fs38}{\fs38}but you know, I did it out of love.
+Dialogue: 0,0:13:26.93,0:13:28.07,*Default,NTP,0000,0000,0000,,噢 我記得\N{\fs38}{\fs38}Oh, I know.
+Dialogue: 0,0:13:28.07,0:13:30.24,*Default,NTP,0000,0000,0000,,那之后我就加入暴食者匿名互戒會了\N{\fs38}{\fs38}It was right after that that I joined OA.
+Dialogue: 0,0:13:32.91,0:13:33.87,*Default,NTP,0000,0000,0000,,{\fs38}Molly\N{\fs38}Molly?!
+Dialogue: 0,0:13:33.87,0:13:34.97,*Default,NTP,0000,0000,0000,,她也在那\N{\fs38}{\fs38}She was there, too.
+Dialogue: 0,0:13:34.97,0:13:36.21,*Default,NTP,0000,0000,0000,,改變了我的人生\N{\fs38}{\fs38}Changed my whole life.
+Dialogue: 0,0:13:36.21,0:13:38.11,*Default,NTP,0000,0000,0000,,不 是Molly\N{\fs38}{\fs38}No, Molly.
+Dialogue: 0,0:13:38.11,0:13:39.21,*Default,NTP,0000,0000,0000,,{\fs38}Molly\N{\fs38}Molly?
+Dialogue: 0,0:13:39.21,0:13:40.65,*Default,NTP,0000,0000,0000,,噢 開什么玩笑\N{\fs38}{\fs38}Oh, you got to be kidding me.
+Dialogue: 0,0:13:40.65,0:13:42.11,*Default,NTP,0000,0000,0000,,走啊 走啊\N{\fs38}{\fs38}Drive. Drive.
+Dialogue: 0,0:13:42.11,0:13:43.21,*Default,NTP,0000,0000,0000,,是紅燈呢\N{\fs38}{\fs38}It's a red light.
+Dialogue: 0,0:13:43.22,0:13:45.12,*Default,NTP,0000,0000,0000,,那就 看看左右兩邊 開車 開車\N{\fs38}{\fs38}Then... check both ways, but go, go,
+Dialogue: 0,0:13:45.12,0:13:46.62,*Default,NTP,0000,0000,0000,,快開車\N{\fs38}{\fs38}Go!
+Dialogue: 0,0:13:48.62,0:13:50.05,*Default,NTP,0000,0000,0000,,她這是要去哪呢\N{\fs38}{\fs38}Where is she going?
+Dialogue: 0,0:13:50.06,0:13:51.69,*Default,NTP,0000,0000,0000,,她明明正看著我啊\N{\fs38}{\fs38}She was looking right at me.
+Dialogue: 0,0:13:51.69,0:13:54.53,*Default,NTP,0000,0000,0000,,哇 還沒見過誰這樣氣沖沖地開走一輛普銳斯的\N{\fs38}{\fs38}Wow. Never seen somebody storm off in a Prius.
+Dialogue: 0,0:13:54.53,0:13:57.93,*Default,NTP,0000,0000,0000,,雖然一點噪音都沒有 可有時無聲勝有聲\N{\fs38}{\fs38}Didn't make any noise, but it sure made her point.
+Dialogue: 0,0:13:57.93,0:14:00.43,*Default,NTP,0000,0000,0000,,跟著她\N{\fs38}{\fs38}Follow that car.
+Dialogue: 0,0:14:03.17,0:14:06.04,*Default,NTP,0000,0000,0000,,該死的 甩不掉那兩個傻瓜\N{\fs38}{\fs38}Damn it, we can't shake these clowns.
+Dialogue: 0,0:14:06.04,0:14:08.44,*Default,NTP,0000,0000,0000,,警察在后面 不是應該靠邊停車嗎\N{\fs38}{\fs38}Aren't we supposed to pull over for the police?
+Dialogue: 0,0:14:08.44,0:14:09.97,*Default,NTP,0000,0000,0000,,閃爍燈和警笛都開了時才要\N{\fs38}{\fs38}Only if there's lights and a siren.
+Dialogue: 0,0:14:10.98,0:14:12.68,*Default,NTP,0000,0000,0000,,天啊\N{\fs38}{\fs38}Gah! Oh.
+Dialogue: 0,0:14:12.68,0:14:13.85,*Default,NTP,0000,0000,0000,,我的天吶\N{\fs38}{\fs38}Oh, my goodness.
+Dialogue: 0,0:14:13.85,0:14:15.01,*Default,NTP,0000,0000,0000,,教授 專心開車 \N{\fs38}{\fs38}Just keep it together, professor,
+Dialogue: 0,0:14:15.01,0:14:16.45,*Default,NTP,0000,0000,0000,,向左轉\N{\fs38}{\fs38}and make a left up here.
+Dialogue: 0,0:14:16.45,0:14:17.65,*Default,NTP,0000,0000,0000,,別打燈\N{\fs38}{\fs38}Don't use your signal,
+Dialogue: 0,0:14:17.65,0:14:19.15,*Default,NTP,0000,0000,0000,,這樣他們就知道我們往哪邊轉了\N{\fs38}{\fs38}they'll know which way we're turning.
+Dialogue: 0,0:14:19.15,0:14:20.75,*Default,NTP,0000,0000,0000,,轉彎時加速就好了\N{\fs38}{\fs38}Just accelerate through the turn.
+Dialogue: 0,0:14:20.75,0:14:22.59,*Default,NTP,0000,0000,0000,,學著點\N{\fs38}{\fs38}Watch it.
+Dialogue: 0,0:14:24.99,0:14:26.89,*Default,NTP,0000,0000,0000,,真不懂那女人為什么還來學車\N{\fs38}{\fs38}I don't know why that woman's taking classes.
+Dialogue: 0,0:14:26.89,0:14:29.06,*Default,NTP,0000,0000,0000,,看到她剛怎么轉彎的沒\N{\fs38}{\fs38}You see the way she just took that corner?
+Dialogue: 0,0:14:29.06,0:14:31.66,*Default,NTP,0000,0000,0000,,Molly 靠邊停車 我們得談談\N{\fs38}{\fs38}Molly, pull over, we need to talk.
+Dialogue: 0,0:14:31.66,0:14:33.23,*Default,NTP,0000,0000,0000,,警察居然認識你\N{\fs38}{\fs38}The police know you?!
+Dialogue: 0,0:14:33.23,0:14:34.50,*Default,NTP,0000,0000,0000,,你不會是罪犯吧\N{\fs38}{\fs38}Are you a criminal?
+Dialogue: 0,0:14:34.50,0:14:36.47,*Default,NTP,0000,0000,0000,,不 現在我是你的救星\N{\fs38}{\fs38}No, I'm your one chance out of this mess.
+Dialogue: 0,0:14:36.47,0:14:37.87,*Default,NTP,0000,0000,0000,,減速帶\N{\fs38}{\fs38}Speed bump.
+Dialogue: 0,0:14:40.71,0:14:42.77,*Default,NTP,0000,0000,0000,,減速帶\N{\fs38}{\fs38}Speed bump.
+Dialogue: 0,0:14:44.94,0:14:46.34,*Default,NTP,0000,0000,0000,,我不想八卦的\N{\fs38}{\fs38}You know, I hate to pry,
+Dialogue: 0,0:14:46.35,0:14:48.01,*Default,NTP,0000,0000,0000,,可很明顯 這都是因為\N{\fs38}{\fs38}but obviously, this is a result
+Dialogue: 0,0:14:48.01,0:14:49.41,*Default,NTP,0000,0000,0000,,你和你的伴侶\N{\fs38}{\fs38}of a lack of communication
+Dialogue: 0,0:14:49.42,0:14:50.72,*Default,NTP,0000,0000,0000,,缺乏溝通才這樣\N{\fs38}{\fs38}between you and your spouse.
+Dialogue: 0,0:14:50.72,0:14:52.42,*Default,NTP,0000,0000,0000,,你 閉嘴\N{\fs38}{\fs38}Shut up, you.
+Dialogue: 0,0:14:54.09,0:14:55.82,*Default,NTP,0000,0000,0000,,我只是想說 你可以做好的\N{\fs38}{\fs38}I'm just saying, I know how you can be.
+Dialogue: 0,0:14:55.82,0:14:57.52,*Default,NTP,0000,0000,0000,,嘿 這不是我的錯\N{\fs38}{\fs38}Hey, I'm not in the wrong, here.
+Dialogue: 0,0:14:57.52,0:14:58.96,*Default,NTP,0000,0000,0000,,- 是她買了鞋子  - 不\N{\fs38}{\fs38}- She bought the shoes. - No.
+Dialogue: 0,0:14:58.96,0:15:01.09,*Default,NTP,0000,0000,0000,,看你都在干嘛 不但沒去想解決方法\N{\fs38}{\fs38}See what you did, there? Instead of trying to find a solution,
+Dialogue: 0,0:15:01.09,0:15:02.53,*Default,NTP,0000,0000,0000,,還在怪她\N{\fs38}{\fs38}you're trying to lay blame.
+Dialogue: 0,0:15:02.53,0:15:04.86,*Default,NTP,0000,0000,0000,,沒搞錯吧 就算是她做錯了 我也不對\N{\fs38}{\fs38}Really? So even when she's wrong I don't get to be right.
+Dialogue: 0,0:15:04.86,0:15:06.76,*Default,NTP,0000,0000,0000,,奧普拉說過 "婚姻或真理"\N{\fs38}{\fs38}Like Oprah says, "Do you want to be right
+Dialogue: 0,0:15:06.77,0:15:08.40,*Default,NTP,0000,0000,0000,,"你選哪個"\N{\fs38}{\fs38}or do you want to be married?"
+Dialogue: 0,0:15:08.40,0:15:09.70,*Default,NTP,0000,0000,0000,,奧普拉就沒結婚啊\N{\fs38}{\fs38}Oprah isn't married.
+Dialogue: 0,0:15:09.70,0:15:11.04,*Default,NTP,0000,0000,0000,,好吧 但她有Gayle\N{\fs38}{\fs38}Well, she's got Gayle.
+Dialogue: 0,0:15:09.70,0:15:11.04,*Default,NTP,0000,0000,0000,,{\an8\fs38}奧普拉好友 有傳兩人為同性戀伴侶
+Dialogue: 0,0:15:12.71,0:15:15.14,*Default,NTP,0000,0000,0000,,快點 Molly 快停車\N{\fs38}{\fs38}Come on, Molly, pull over the car, please.
+Dialogue: 0,0:15:15.14,0:15:17.18,*Default,NTP,0000,0000,0000,,求你了 讓我停車吧\N{\fs38}{\fs38}Please, please let me pull over.
+Dialogue: 0,0:15:17.18,0:15:19.84,*Default,NTP,0000,0000,0000,,好吧 你非要這么遵守法律的話\N{\fs38}{\fs38}Oh, fine. If you're gonna be such a stickler for the law,
+Dialogue: 0,0:15:19.85,0:15:22.51,*Default,NTP,0000,0000,0000,,永遠也別指望能在這當上出租車司機了\N{\fs38}{\fs38}you're never gonna make it as a cabbie in this town.
+Dialogue: 0,0:15:24.42,0:15:26.22,*Default,NTP,0000,0000,0000,,我知道她是我老婆\N{\fs38}{\fs38}I know she's my wife,
+Dialogue: 0,0:15:26.22,0:15:27.82,*Default,NTP,0000,0000,0000,,可這還是逃避追捕吧\N{\fs38}{\fs38}but this is still evading arrest.
+Dialogue: 0,0:15:27.82,0:15:29.42,*Default,NTP,0000,0000,0000,,三思而后行\N{\fs38}{\fs38}Don't go in with a hot head.
+Dialogue: 0,0:15:29.42,0:15:31.89,*Default,NTP,0000,0000,0000,,記住 要聆聽 應答\N{\fs38}{\fs38}Remember, listen, acknowledge,
+Dialogue: 0,0:15:31.89,0:15:34.59,*Default,NTP,0000,0000,0000,,接受 道歉\N{\fs38}{\fs38}admit, and apologize.
+Dialogue: 0,0:15:34.59,0:15:36.83,*Default,NTP,0000,0000,0000,,啦\N{\fs38}{\fs38}Laaa.
+Dialogue: 0,0:15:36.83,0:15:37.86,*Default,NTP,0000,0000,0000,,奧普拉說的\N{\fs38}{\fs38}Oprah?
+Dialogue: 0,0:15:37.86,0:15:39.80,*Default,NTP,0000,0000,0000,,我說的\N{\fs38}{\fs38}Carl.
+Dialogue: 0,0:15:44.10,0:15:46.24,*Default,NTP,0000,0000,0000,,你到底在干嘛啊\N{\fs38}{\fs38}What the hell are you doing?
+Dialogue: 0,0:15:46.24,0:15:48.01,*Default,NTP,0000,0000,0000,,我在賺自己的錢啊\N{\fs38}{\fs38}I am trying to earn my own money.
+Dialogue: 0,0:15:48.01,0:15:49.74,*Default,NTP,0000,0000,0000,,- 這太可笑了  - 為什么\N{\fs38}{\fs38}- This is ridiculous. - Why?
+Dialogue: 0,0:15:49.74,0:15:53.21,*Default,NTP,0000,0000,0000,,你說得很對 你賺的錢又不是我的錢\N{\fs38}{\fs38}What you said is true... the money you make is not my money.
+Dialogue: 0,0:15:53.21,0:15:55.21,*Default,NTP,0000,0000,0000,,- 是你的錢  - 不 才不是\N{\fs38}{\fs38}- It is your money. - No, it's not.
+Dialogue: 0,0:15:55.21,0:15:58.02,*Default,NTP,0000,0000,0000,,我整天游手好閑 揮金如土\N{\fs38}{\fs38}I'm not working, I'm just spending.
+Dialogue: 0,0:15:58.02,0:16:00.35,*Default,NTP,0000,0000,0000,,你一天忙到晚 努力想成為一名作家\N{\fs38}{\fs38}Well, you're working at trying to be a writer.
+Dialogue: 0,0:16:00.35,0:16:02.69,*Default,NTP,0000,0000,0000,,我都不知道我能不能行\N{\fs38}{\fs38}I don't even know if I'm good enough to be one.
+Dialogue: 0,0:16:02.69,0:16:05.06,*Default,NTP,0000,0000,0000,,- 你可以的  - 你又怎么知道 \N{\fs38}{\fs38}- You are. - How do you know? 
+Dialogue: 0,0:16:05.06,0:16:07.89,*Default,NTP,0000,0000,0000,,我自己都不知道 所以每天想這想那\N{\fs38}{\fs38}I...I don't even know. And that's what scares the hell out of me.
+Dialogue: 0,0:16:07.89,0:16:09.96,*Default,NTP,0000,0000,0000,,然后就感到害怕不安 然后我就\N{\fs38}{\fs38}Then I get scared, and I get nervous, and I...
+Dialogue: 0,0:16:09.96,0:16:11.60,*Default,NTP,0000,0000,0000,,去逛街 一去逛街\N{\fs38}{\fs38}go shopping, and if I go shopping,
+Dialogue: 0,0:16:11.60,0:16:14.77,*Default,NTP,0000,0000,0000,,就會買那些蠢鞋 就為了讓自己好受點\N{\fs38}{\fs38}I buy stupid shoes, all trying to make me feel better.
+Dialogue: 0,0:16:16.60,0:16:18.44,*Default,NTP,0000,0000,0000,,那你好受點了嗎\N{\fs38}{\fs38}Do they make you feel better?
+Dialogue: 0,0:16:18.44,0:16:21.31,*Default,NTP,0000,0000,0000,,嗯\N{\fs38}{\fs38}Yes.
+Dialogue: 0,0:16:23.18,0:16:24.58,*Default,NTP,0000,0000,0000,,那你應該留著\N{\fs38}{\fs38}Then you should keep 'em.
+Dialogue: 0,0:16:24.58,0:16:26.34,*Default,NTP,0000,0000,0000,,不 不行\N{\fs38}{\fs38}No, I can't.
+Dialogue: 0,0:16:26.35,0:16:28.31,*Default,NTP,0000,0000,0000,,可以 可以的\N{\fs38}{\fs38}Yes, you can.
+Dialogue: 0,0:16:28.31,0:16:30.62,*Default,NTP,0000,0000,0000,,我希望你開心\N{\fs38}{\fs38}I want you to be happy.
+Dialogue: 0,0:16:30.62,0:16:32.72,*Default,NTP,0000,0000,0000,,因為如果你不開心\N{\fs38}{\fs38}'Cause when you're not happy,
+Dialogue: 0,0:16:32.72,0:16:35.42,*Default,NTP,0000,0000,0000,,我也痛苦不堪\N{\fs38}{\fs38}I'm miserable.
+Dialogue: 0,0:16:37.56,0:16:39.12,*Default,NTP,0000,0000,0000,,那樣的話\N{\fs38}{\fs38}In that case, there's a...
+Dialogue: 0,0:16:39.12,0:16:42.89,*Default,NTP,0000,0000,0000,,要是再有個包和腰帶 我會更開心的\N{\fs38}{\fs38}there's a purse and a belt that might put me over the moon.
+Dialogue: 0,0:16:42.90,0:16:44.40,*Default,NTP,0000,0000,0000,,- 別得寸進尺  - 知道了\N{\fs38}{\fs38}- Don't push it. - I know.
+Dialogue: 0,0:16:44.40,0:16:46.33,*Default,NTP,0000,0000,0000,,你說的對 我打算\N{\fs38}{\fs38}You're right. And I'm going to,
+Dialogue: 0,0:16:46.33,0:16:48.30,*Default,NTP,0000,0000,0000,,我要更加努力工作 變得更好\N{\fs38}{\fs38}I'm going to work really hard to be better.
+Dialogue: 0,0:16:48.30,0:16:49.90,*Default,NTP,0000,0000,0000,,你知道嗎\N{\fs38}{\fs38}You know what?
+Dialogue: 0,0:16:49.90,0:16:51.50,*Default,NTP,0000,0000,0000,,我要把我的信用卡給你\N{\fs38}{\fs38}I'm gonna give you my credit cards.
+Dialogue: 0,0:16:51.50,0:16:53.60,*Default,NTP,0000,0000,0000,,- 你不用這樣  - 我就要這樣 \N{\fs38}{\fs38}- You don't have to do that. - No, I want-I want to.
+Dialogue: 0,0:16:53.61,0:16:55.77,*Default,NTP,0000,0000,0000,,我已經取消你的信用卡了\N{\fs38}{\fs38}I already canceled them.
+Dialogue: 0,0:16:55.77,0:16:59.08,*Default,NTP,0000,0000,0000,,我偷偷開的你也取消了嗎\N{\fs38}{\fs38}Even the ones you don't know about?
+Dialogue: 0,0:16:59.08,0:17:01.51,*Default,NTP,0000,0000,0000,,我真是被你吃定了\N{\fs38}{\fs38}You're gonna be the death of me.
+Dialogue: 0,0:17:03.55,0:17:05.85,*Default,NTP,0000,0000,0000,,回家見\N{\fs38}{\fs38}I'll see you at home.
+Dialogue: 0,0:17:11.22,0:17:12.29,*Default,NTP,0000,0000,0000,,對不起\N{\fs38}{\fs38}Sorry.
+Dialogue: 0,0:17:12.29,0:17:13.56,*Default,NTP,0000,0000,0000,,我們有麻煩了嗎\N{\fs38}{\fs38}Are we in trouble?
+Dialogue: 0,0:17:13.56,0:17:17.36,*Default,NTP,0000,0000,0000,,沒事沒事 在下個紅綠燈處轉彎\N{\fs38}{\fs38}No, no. Just take a turn at the next light and head
+Dialogue: 0,0:17:17.36,0:17:18.93,*Default,NTP,0000,0000,0000,,往密歇根大道走\N{\fs38}{\fs38}towards Michigan Avenue.
+Dialogue: 0,0:17:18.93,0:17:21.67,*Default,NTP,0000,0000,0000,,我要把新買的包和腰帶退回去\N{\fs38}{\fs38}I've got a purse and a belt I need to return.
+Dialogue: 0,0:17:31.09,0:17:34.93,*Default,NTP,0000,0000,0000,,我想退掉這些東西 太搞笑了\N{\fs38}{\fs38}Okay, I'd like to return these. Uh, funny story...
+Dialogue: 0,0:17:34.93,0:17:37.13,*Default,NTP,0000,0000,0000,,我回到家后 發現我老公\N{\fs38}{\fs38}I got home, and my husband had already
+Dialogue: 0,0:17:37.13,0:17:39.53,*Default,NTP,0000,0000,0000,,給我買了一樣的鞋子 一樣的腰帶\N{\fs38}{\fs38}bought me the same shoes, the same belt
+Dialogue: 0,0:17:39.53,0:17:40.70,*Default,NTP,0000,0000,0000,,還有一樣的包\N{\fs38}{\fs38}and the same purse.
+Dialogue: 0,0:17:40.70,0:17:43.67,*Default,NTP,0000,0000,0000,,我們真是心有靈犀呢\N{\fs38}{\fs38}I mean, does he know me or what?
+Dialogue: 0,0:17:45.14,0:17:46.44,*Default,NTP,0000,0000,0000,,這鞋都被你穿過了\N{\fs38}{\fs38}You wore these.
+Dialogue: 0,0:17:46.44,0:17:48.94,*Default,NTP,0000,0000,0000,,沒有 沒有\N{\fs38}{\fs38}No, no, I didn't.
+Dialogue: 0,0:17:48.94,0:17:50.34,*Default,NTP,0000,0000,0000,,還是熱的\N{\fs38}{\fs38}They're still warm.
+Dialogue: 0,0:17:54.22,0:17:57.02,*Default,NTP,0000,0000,0000,,好吧 那把包和腰帶退了\N{\fs38}{\fs38}All right, then take back the purse and belt.
+Dialogue: 0,0:17:57.02,0:18:00.32,*Default,NTP,0000,0000,0000,,我的婚姻都命懸一線了\N{\fs38}{\fs38}Come on, my frickin' marriage is on the line here.
+Dialogue: 0,0:18:00.32,0:18:02.89,*Default,NTP,0000,0000,0000,,我最多只能跟你換張折價券\N{\fs38}{\fs38}Best I can do is give you a store credit.
+Dialogue: 0,0:18:06.79,0:18:09.05,*Default,NTP,0000,0000,0000,,好吧 那我還是都不退了吧\N{\fs38}{\fs38}Okay, I'll take the purse and the belt.

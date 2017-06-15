@@ -1,3 +1,7 @@
+# this program dosen't work. wenn i try to unrar a file,
+# i get the info "no file to extract" back
+# i can't explain why
+# therefore i use Keka to extrakt the file
 import rarfile
 import os
 

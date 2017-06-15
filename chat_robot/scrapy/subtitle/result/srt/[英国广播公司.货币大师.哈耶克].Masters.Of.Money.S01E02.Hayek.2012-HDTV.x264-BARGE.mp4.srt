@@ -1,0 +1,4912 @@
+1
+0:00:01.98 --> 0:00:05.41
+{\pos(192,275)}我们听说他影响力下降
+{\pos(192,288)}We heard that he'd been sinking,
+
+2
+0:00:05.42 --> 0:00:07.49
+{\pos(192,275)}当我们听到他过世的消息
+{\pos(192,288)}and then we heard that he died,
+
+3
+0:00:07.50 --> 0:00:12.29
+{\pos(192,275)}我丈夫说  "你会被采访"
+{\pos(192,288)}and my husband said, "You will have to contact."
+
+4
+0:00:12.29 --> 0:00:15.04
+{\pos(192,275)}我面对全世界的电话
+{\pos(192,288)}And I was on the phone to the world.
+
+5
+0:00:15.05 --> 0:00:20.25
+{\pos(192,275)}人们问  你告诉美国总统了么?
+{\pos(192,288)}And people were saying, had I told the American President?
+
+6
+0:00:20.25 --> 0:00:22.81
+{\pos(192,275)}你告诉撒切尔夫人了么?
+{\pos(192,288)}Had I told Mrs Thatcher?
+
+7
+0:00:22.82 --> 0:00:26.09
+{\pos(192,275)}直到这时  我才最终确信
+{\pos(192,288)}It was only then, I think, that finally it was rammed home to me
+
+8
+0:00:26.09 --> 0:00:29.05
+{\pos(192,275)}他对世界产生的巨大影响
+{\pos(192,288)}the enormous effect that he'd had on the whole world.
+
+9
+0:00:29.06 --> 0:00:31.65
+{\pos(192,275)}你知道  电话是午夜拨通的
+{\pos(192,288)}You know, ringing, in the middle of the night,
+
+10
+0:00:31.66 --> 0:00:36.82
+{\pos(192,275)}告诉美国总统哈耶克已经过世
+{\pos(192,288)}ringing the President of the United States to say that FA Hayek had died.
+
+11
+0:00:39.25 --> 0:00:42.96
+{\pos(192,275)}弗里德里希·哈耶克是市场主义的王者
+{\pos(192,288)}Friedrich Hayek was a champion of the market.
+
+12
+0:00:42.97 --> 0:00:46.89
+{\pos(192,275)}他启发了许多构建当今世界的人物
+{\pos(192,288)}He inspired many of the people who built the world we live in today.
+
+13
+0:00:46.89 --> 0:00:50.93
+{\pos(192,275)}撒切尔夫人一直以来
+{\pos(192,288)}Margaret Thatcher would, from time to time,
+
+14
+0:00:50.93 --> 0:00:54.64
+{\pos(192,275)}会在她的手提包里面装写有引言的小纸片
+{\pos(192,288)}pull little bits of paper with quotations out of her handbag,
+
+15
+0:00:54.65 --> 0:00:56.06
+{\pos(192,275)}而哈耶克正好是被引用之一
+{\pos(192,288)}and Hayek would be one of them.
+
+16
+0:00:56.06 --> 0:00:58.81
+{\pos(192,275)}不止一代
+{\pos(192,288)}For more than a generation,
+
+17
+0:00:58.82 --> 0:01:02.64
+{\pos(192,275)}西方领袖宣称  他们拥护这个基本经济思想...
+{\pos(192,288)}Western leaders claimed to embrace one central economic idea...
+
+18
+0:01:02.65 --> 0:01:03.96
+{\pos(192,275)}自由市场
+{\pos(192,288)}the free market.
+
+19
+0:01:03.97 --> 0:01:07.61
+{\pos(192,275)}在金融危机下  正统学说正在遭受打击
+{\pos(192,288)}With the financial crisis, that orthodoxy's under attack.
+
+20
+0:01:07.62 --> 0:01:11.29
+{\pos(192,275)}我们对其的信仰正在遭受前所未有的打击
+{\pos(192,288)}Our faith in it has been shaken like never before.
+
+21
+0:01:11.30 --> 0:01:13.56
+{\pos(192,275)}但是  一幅宏伟的自由市场的愿景
+{\pos(192,288)}But one great free-market visionary
+
+22
+0:01:13.58 --> 0:01:16.84
+{\pos(192,275)}正从废墟中显现  其背景正是伴随着哈耶克名声之鹊起
+{\pos(192,288)}has emerged from the meltdown with his reputation enhanced.
+
+23
+0:01:16.86 --> 0:01:21.41
+{\pos(192,275)}此时或许是倾听哈耶克的最佳时刻
+{\pos(192,288)}There might never be a better time to listen to Friedrich Hayek.
+
+24
+0:01:21.42 --> 0:01:24.81
+{\pos(192,275)}我认为  此刻
+{\pos(192,288)}I see right now, this moment in history,
+
+25
+0:01:24.81 --> 0:01:29.70
+{\pos(192,275)}是哈耶克的思想值得关注的历史时刻
+{\pos(192,288)}as a time where Hayek's ideas deserve a shot.
+
+26
+0:01:30.73 --> 0:01:34.17
+{\pos(192,275)}所有亲市场派的大思想家中  哈耶克是最激进的
+{\pos(192,288)}Of all the big pro-market thinkers, Hayek was by far the most radical.
+
+27
+0:01:34.18 --> 0:01:37.65
+{\pos(192,275)}他认为市场应该比
+{\pos(192,288)}He believed the market should be freer than any government
+
+28
+0:01:37.66 --> 0:01:40.73
+{\pos(192,275)}任何政府敢于许诺的更自由
+{\pos(192,288)}has ever dared to allow it to be.
+
+29
+0:01:40.73 --> 0:01:43.01
+{\pos(192,275)}哈耶克的世界里
+{\pos(192,288)}In the world according to Hayek,
+
+30
+0:01:43.02 --> 0:01:44.50
+{\pos(192,275)}政治家应该克制自己
+{\pos(192,288)}politicians should step back
+
+31
+0:01:44.50 --> 0:01:47.56
+{\pos(192,275)}不要试图对资本主义的波动进行管制
+{\pos(192,288)}from trying to manage capitalism's ups and downs.
+
+32
+0:01:47.58 --> 0:01:51.01
+{\pos(192,275)}他们只需要简单的让市场自由运行
+{\pos(192,288)}They should simply set it free.
+
+33
+0:01:51.02 --> 0:01:53.93
+{\pos(192,275)}他是一个无可争议的重要思想家
+{\pos(192,288)}There's no doubt that he's a significant thinker,
+
+34
+0:01:53.94 --> 0:01:58.29
+{\pos(192,275)}尽管在他每个思想领域都有重要的反对者
+{\pos(192,288)}though there's major controversy about every area of his thought.
+
+35
+0:01:58.30 --> 0:02:01.77
+{\pos(192,275)}这个系列中  我将展示3个大思想家
+{\pos(192,288)}In this series, I'll reveal the stories of the lives
+
+36
+0:02:01.78 --> 0:02:05.45
+{\pos(192,275)}的生平及其革命性的思想
+{\pos(192,288)}and revolutionary thinking of three extraordinary men.
+
+37
+0:02:05.45 --> 0:02:09.60
+{\pos(192,275)}梅纳德·凯恩斯  卡尔·马克思  弗雷德里希·哈耶克
+{\pos(192,288)}John Maynard Keynes, Karl Marx and Friedrich Hayek.
+
+38
+0:02:09.61 --> 0:02:12.92
+{\pos(192,275)}他们都看到了世界正在经历巨大变化
+{\pos(192,288)}They all saw their worlds changing as never before,
+
+39
+0:02:12.94 --> 0:02:15.64
+{\pos(192,275)}变得前所未有的复杂和相互关联
+{\pos(192,288)}becoming ever more complex and interconnected.
+
+40
+0:02:15.66 --> 0:02:20.01
+{\pos(192,275)}整个国家的命运依赖于货币的魔力
+{\pos(192,288)}The fate of entire nations now hung on the power of money,
+
+41
+0:02:20.01 --> 0:02:23.26
+{\pos(192,275)}他们对于应该做什么有着完全不同的见解
+{\pos(192,288)}and they had very different ideas about what to do.
+
+42
+0:02:24.42 --> 0:02:26.57
+{\pos(192,275)}即便在经济衰退期
+{\pos(192,288)}Even in the middle of an economic meltdown,
+
+43
+0:02:26.57 --> 0:02:30.41
+{\pos(192,275)}哈耶克对政府的建议仍然是不作为
+{\pos(192,288)}Hayek's advice to governments was to step back and do nothing.
+
+44
+0:02:30.42 --> 0:02:32.97
+{\pos(192,275)}干预将只会导致事情更坏
+{\pos(192,288)}Meddling would only make things worse.
+
+45
+0:02:32.98 --> 0:02:35.53
+{\pos(192,275)}任何人都不想听到这个
+{\pos(192,288)}It's not what anyone has ever wanted to hear,
+
+46
+0:02:35.54 --> 0:02:39.20
+{\pos(192,275)}如今 为了稳定经济  他们仍在玩之前的把戏
+{\pos(192,288)}but today they've tried all the usual tricks for fixing the economy.
+
+47
+0:02:39.22 --> 0:02:44.01
+{\pos(192,275)}此时此刻我们是否应最终接受哈耶克的建议呢?
+{\pos(192,288)}Is it time, finally, to take Hayek's advice instead?
+
+48
+0:02:47.58 --> 0:02:56.13
+{\pos(192,275)}货币大师-哈耶克
+=========纪录片之家倾情奉献=========
+本字幕仅供学习交流  严禁用于商业用途 翻译:HELLO  校对:小开心
+
+49
+0:02:58.29 --> 0:03:01.97
+{\pos(192,275)}在世界各处  我们都能感受
+{\pos(192,288)}Around the world we're all still feeling the shockwaves
+
+50
+0:03:01.98 --> 0:03:04.92
+{\pos(192,275)}2008年金融危机带来的冲击
+{\pos(192,288)}of the financial crash of 2008.
+
+51
+0:03:04.94 --> 0:03:07.69
+{\pos(192,275)}你能真切地感受到这儿的恐惧
+{\pos(192,288)}'You really can feel the fear down here.'
+
+52
+0:03:07.70 --> 0:03:11.41
+{\pos(192,275)}仅用5天  道琼斯指数创下5年来新低
+{\pos(192,288)}'The Dow has had its worst five days in five years.'
+
+53
+0:03:11.42 --> 0:03:12.70
+{\pos(192,275)}金融危机前
+{\pos(192,288)}Until that crisis hit,
+
+54
+0:03:12.70 --> 0:03:16.60
+{\pos(192,275)}西方领导都曾坚信自由市场
+{\pos(192,288)}Western leaders had put their faith in the free market
+
+55
+0:03:16.61 --> 0:03:19.17
+{\pos(192,275)}是产生财富的最佳制度
+{\pos(192,288)}as the best way to generate wealth.
+
+56
+0:03:19.17 --> 0:03:21.73
+{\pos(192,275)}但是他们关于市场的观点
+{\pos(192,288)}But in their version of the market,
+
+57
+0:03:21.73 --> 0:03:24.60
+{\pos(192,275)}主要源于米尔顿·弗里德曼等人
+{\pos(192,288)}derived from thinkers like Milton Friedman,
+
+58
+0:03:24.61 --> 0:03:27.69
+{\pos(192,275)}他们认为如果事态恶化  政府应该介入
+{\pos(192,288)}they still believed if things went wrong they could step in,
+
+59
+0:03:27.70 --> 0:03:31.25
+{\pos(192,275)}把事情拉回正轨
+{\pos(192,288)}tweak the system and get everything back on track.
+
+60
+0:03:31.26 --> 0:03:34.45
+{\pos(192,275)}如今  哈耶克的粉丝
+{\pos(192,288)}Today, fans of the Austrian economist Friedrich Hayek
+
+61
+0:03:34.45 --> 0:03:38.08
+{\pos(192,275)}认为那样做扭曲了市场经济
+{\pos(192,288)}say that arrogance, that distorted picture of a market economy,
+
+62
+0:03:38.10 --> 0:03:40.20
+{\pos(192,275)}导致我们陷入如今的混乱
+{\pos(192,288)}got us into this mess.
+
+63
+0:03:40.22 --> 0:03:43.45
+{\pos(192,275)}如果想摆脱现状  我们必须弄清原委
+{\pos(192,288)}If we want to try to get out of it,we need to try the real thing.
+
+64
+0:03:43.45 --> 0:03:46.73
+{\pos(192,275)}要理解是政府 而非市场
+{\pos(192,288)}To understand how governments, not markets,
+
+65
+0:03:46.73 --> 0:03:48.92
+{\pos(192,275)}导致了危机
+{\pos(192,288)}might have caused the crisis,
+
+66
+0:03:48.94 --> 0:03:53.81
+{\pos(192,275)}我们得把时钟拨回埋下危机种子的年份
+{\pos(192,288)}we need to wind the clock back to the years leading up to it.
+
+67
+0:03:53.82 --> 0:03:55.89
+{\pos(192,275)}美国利率下调
+{\pos(192,288)}America's interest rates have been cut.
+
+68
+0:03:55.89 --> 0:03:59.25
+{\pos(192,275)}下调本身是符合公众预期的  但时间却出人意料
+{\pos(192,288)}That was expected but the timing has come as a surprise.
+
+69
+0:03:59.26 --> 0:04:01.04
+{\pos(192,275)}2001年1月
+{\pos(192,288)}It's January 2001,
+
+70
+0:04:01.06 --> 0:04:03.92
+{\pos(192,275)}美国央行  即美联储
+{\pos(192,288)}and America's central bank, the Federal Reserve,
+
+71
+0:04:03.94 --> 0:04:06.01
+{\pos(192,275)}调低利率
+{\pos(192,288)}has cut interest rates
+
+72
+0:04:06.01 --> 0:04:09.64
+{\pos(192,275)}因其担心美国经济下行
+{\pos(192,288)}because it's worried the US economy is slowing down.
+
+73
+0:04:09.66 --> 0:04:12.89
+{\pos(192,275)}央行依据其惯用的理由调低利率
+{\pos(192,288)}It cut interest rates for the same reason central banks always do.
+
+74
+0:04:12.89 --> 0:04:17.01
+{\pos(192,275)}为了使企业和家庭能以更低的成本获得贷款
+{\pos(192,288)}To make it cheaper for companies and households to borrow
+
+75
+0:04:17.01 --> 0:04:20.20
+{\pos(192,275)}从而找到可获利的投资机会
+{\pos(192,288)}and seek out profitable investments.
+
+76
+0:04:20.21 --> 0:04:23.53
+{\pos(192,275)}你能想象  总统会很高兴
+{\pos(192,288)}The President was pleased, as you might imagine.
+
+77
+0:04:23.53 --> 0:04:26.84
+{\pos(192,275)}这正是总统希望央行干的事情
+{\pos(192,288)}This is the kind of thing Presidents expect central banks to do
+
+78
+0:04:26.86 --> 0:04:29.09
+{\pos(192,275)}避免经济陷入困境
+{\pos(192,288)}to avoid economic trouble.
+
+79
+0:04:29.09 --> 0:04:33.65
+{\pos(192,275)}我认为利率下调是必须的
+{\pos(192,288)}I think the cut was, um... was needed.
+
+80
+0:04:33.65 --> 0:04:37.81
+{\pos(192,275)}局势很严峻  必须采取措施
+{\pos(192,288)}It was a strong statement that measures must be taken
+
+81
+0:04:37.82 --> 0:04:42.53
+{\pos(192,275)}以确保经济不至于陷入混乱
+{\pos(192,288)}to make sure our economy does not go into a tailspin.
+
+82
+0:04:43.97 --> 0:04:45.84
+{\pos(192,275)}如果哈耶克在世
+{\pos(192,288)}Had Friedrich Hayek been alive,
+
+83
+0:04:45.86 --> 0:04:48.72
+{\pos(192,275)}他会持截然不同的观点
+{\pos(192,288)}he would have taken a very different view.
+
+84
+0:04:48.74 --> 0:04:50.57
+{\pos(192,275)}结果不是避免了问题
+{\pos(192,288)}Far from avoiding trouble,
+
+85
+0:04:50.58 --> 0:04:53.61
+{\pos(192,275)}哈耶克肯定会发现  美联储
+{\pos(192,288)}Hayek would have seen the Federal Reserve's decision
+
+86
+0:04:53.62 --> 0:04:54.74
+{\pos(192,275)}调低利率的决定
+{\pos(192,288)}to cut interest rates
+
+87
+0:04:54.74 --> 0:04:58.09
+{\pos(192,275)}埋下了如今金融危机的种子
+{\pos(192,288)}as sowing the seeds of today's financial crisis.
+
+88
+0:04:58.09 --> 0:04:59.45
+{\pos(192,275)}事实上  哈耶克相信
+{\pos(192,288)}In fact, Hayek believed
+
+89
+0:04:59.46 --> 0:05:02.57
+{\pos(192,275)}任何政府干预市场行为
+{\pos(192,288)}almost any government intervention in the market,
+
+90
+0:05:02.58 --> 0:05:04.57
+{\pos(192,275)}如扶持倒闭企业
+{\pos(192,288)}like propping up failing businesses,
+
+91
+0:05:04.58 --> 0:05:07.53
+{\pos(192,275)}设置贸易壁垒  操纵利率
+{\pos(192,288)}setting trade tariffs or manipulating interest rates,
+
+92
+0:05:07.53 --> 0:05:10.97
+{\pos(192,275)}将带来灾难性后果
+{\pos(192,288)}risked disaster.
+
+93
+0:05:12.02 --> 0:05:14.09
+{\pos(192,275)}2001年以后
+{\pos(192,288)}In the years after 2001,
+
+94
+0:05:14.09 --> 0:05:17.28
+{\pos(192,275)}美联储继续调低利率
+{\pos(192,288)}the Federal Reserve carried on cutting interest rates,
+
+95
+0:05:17.30 --> 0:05:22.37
+{\pos(192,275)}帮助不动产市场保持繁荣  但繁荣最终不可能持续
+{\pos(192,288)}helping to fuel a property boom that ultimately couldn't be sustained.
+
+96
+0:05:22.38 --> 0:05:27.17
+{\pos(192,275)}2007年早期  美国房产市场泡沫破裂
+{\pos(192,288)}Early in 2007, America's housing bubble burst
+
+97
+0:05:27.18 --> 0:05:29.25
+{\pos(192,275)}全球金融危机爆发
+{\pos(192,288)}and the global financial crisis began,
+
+98
+0:05:29.26 --> 0:05:32.40
+{\pos(192,275)}完全吻合哈耶克的预测
+{\pos(192,288)}just as Hayek might have predicted.
+
+99
+0:05:32.42 --> 0:05:36.25
+{\pos(192,275)}传统智囊团啥都没有预判到
+{\pos(192,288)}The conventional wisdom was none of these events were foreseeable.
+
+100
+0:05:36.26 --> 0:05:38.45
+{\pos(192,275)}我们本不该做任何事
+{\pos(192,288)}We couldn't have done anything about it.
+
+101
+0:05:38.46 --> 0:05:40.34
+{\pos(192,275)}显然  所做的都错了
+{\pos(192,288)}But of course all of that was false.
+
+102
+0:05:40.34 --> 0:05:42.61
+{\pos(192,275)}展现在我们眼前的
+{\pos(192,288)}What's playing out before our eyes
+
+103
+0:05:42.62 --> 0:05:46.33
+{\pos(192,275)}正如哈耶克等人所预测的
+{\pos(192,288)}is exactly what men like Hayek had predicted would happen.
+
+104
+0:05:46.34 --> 0:05:50.05
+{\pos(192,275)}乍一看  哈耶克关于危机的观点
+{\pos(192,288)}At first glance, the Hayek view of the crisis
+
+105
+0:05:50.06 --> 0:05:52.09
+{\pos(192,275)}看上去有点熟悉
+{\pos(192,288)}looks a bit familiar.
+
+106
+0:05:52.09 --> 0:05:53.78
+{\pos(192,275)}但是别被耍了
+{\pos(192,288)}But don't be fooled.
+
+107
+0:05:54.78 --> 0:05:57.81
+{\pos(192,275)}你可能觉得你以前听过同样的论点
+{\pos(192,288)}You probably feel like you've heard this argument before,
+
+108
+0:05:57.82 --> 0:06:00.40
+{\pos(192,275)}危机部分归因于美联储
+{\pos(192,288)}that the Federal Reserve partly caused the crisis
+
+109
+0:06:00.42 --> 0:06:02.26
+{\pos(192,275)}通过把利率设定在低水平
+{\pos(192,288)}by setting interest rates too low,
+
+110
+0:06:02.26 --> 0:06:05.77
+{\pos(192,275)}鼓励人们过度借款并做蠢事
+{\pos(192,288)}encouraging everyone to borrow too much and generally do silly things.
+
+111
+0:06:05.78 --> 0:06:07.89
+{\pos(192,275)}但是哈耶克和其追随者的论点
+{\pos(192,288)}But the argument of Hayek and his followers
+
+112
+0:06:07.90 --> 0:06:09.49
+{\pos(192,275)}实际上比这更深刻
+{\pos(192,288)}actually runs deeper than that.
+
+113
+0:06:09.50 --> 0:06:11.53
+{\pos(192,275)}他们不仅仅把注入经济中的货币总量弄错了
+{\pos(192,288)}It's not just that they got their sums wrong
+
+114
+0:06:11.53 --> 0:06:13.65
+{\pos(192,275)}以及没有设定合理的利率
+{\pos(192,288)}and they didn't set the right interest rate.
+
+115
+0:06:13.65 --> 0:06:16.06
+{\pos(192,275)}更重要的是  他们压根就不应该
+{\pos(192,288)}It's that they shouldn't have been in the business
+
+116
+0:06:16.06 --> 0:06:17.69
+{\pos(192,275)}介入利率设定这档子事
+{\pos(192,288)}of setting interest rates at all.
+
+117
+0:06:17.70 --> 0:06:20.25
+{\pos(192,275)}这是对国家职能的强烈抗议
+{\pos(192,288)}It's this radical rejection of the state's role
+
+118
+0:06:20.26 --> 0:06:23.05
+{\pos(192,275)}国家调控市场的职能
+{\pos(192,288)}in regulating the market
+
+119
+0:06:23.06 --> 0:06:26.58
+{\pos(192,275)}哈耶克和其他自由市场思想家的区别就在于此
+{\pos(192,288)}that sets Hayek apart from other free-market thinkers.
+
+120
+0:06:27.62 --> 0:06:32.25
+{\pos(192,275)}他相信市场的自我调节机制比通常所认为的更好
+{\pos(192,288)}He believed the market would do a far better job regulating itself,
+
+121
+0:06:32.26 --> 0:06:35.33
+{\pos(192,275)}如果政府不予干涉的话
+{\pos(192,288)}if only governments would just leave it alone.
+
+122
+0:06:35.34 --> 0:06:40.28
+{\pos(192,275)}自由市场不会把利率设定在格林斯潘的1%
+{\pos(192,288)}Free market did not set interest rates at 1% under Greenspan.
+
+123
+0:06:40.30 --> 0:06:43.72
+{\pos(192,275)}是政府将其设定在那个水平  这是价格操纵
+{\pos(192,288)}That's the government that is doing that. That is price-fixing.
+
+124
+0:06:43.74 --> 0:06:46.05
+{\pos(192,275)}类似前苏联
+{\pos(192,288)}It's kind of the way the old Soviet Union
+
+125
+0:06:46.06 --> 0:06:48.65
+{\pos(192,275)}操纵面包和天然气的价格
+{\pos(192,288)}used to fix the price of bread or gasoline.
+
+126
+0:06:48.65 --> 0:06:52.09
+{\pos(192,275)}美国政府用同样的方法操纵利率
+{\pos(192,288)}The US government fixes interest rates the same way.
+
+127
+0:06:52.09 --> 0:06:55.25
+{\pos(192,275)}我们需要市场而非政府设定利率
+{\pos(192,288)}We need the market to set interest rates, not the government.
+
+128
+0:06:55.26 --> 0:06:58.28
+{\pos(192,275)}如果市场决定利率  那么利率水平将会更高
+{\pos(192,288)}If the market set interest rates they would've been much higher,
+
+129
+0:06:58.30 --> 0:07:00.26
+{\pos(192,275)}也就不会有现在这些麻烦了
+{\pos(192,288)}and we wouldn't have had these problems.
+
+130
+0:07:01.30 --> 0:07:05.72
+{\pos(192,275)}哈耶克对完全自由市场优势的信任
+{\pos(192,288)}Hayek's belief in the positive power of the unbridled free market
+
+131
+0:07:05.74 --> 0:07:08.72
+{\pos(192,275)}源于其童年在奥地利的经历
+{\pos(192,288)}stems from his childhood in Austria.
+
+132
+0:07:08.74 --> 0:07:11.49
+{\pos(192,275)}他1899年生于维也纳
+{\pos(192,288)}He was born in Vienna in 1899.
+
+133
+0:07:11.50 --> 0:07:14.09
+{\pos(192,275)}当时维也纳聚集了很多天才
+{\pos(192,288)}Then, the city was packed full of intellectuals
+
+134
+0:07:14.09 --> 0:07:18.78
+{\pos(192,275)}如弗洛伊德和维特根斯坦  哈耶克认识其中很多人
+{\pos(192,288)}like Freud and Wittgenstein, many of whom Hayek came to know.
+
+135
+0:07:20.18 --> 0:07:23.09
+{\pos(192,275)}这些家庭照片并不常见
+{\pos(192,288)}These family photographs have not been widely seen.
+
+136
+0:07:26.86 --> 0:07:29.84
+{\pos(192,275)}他成长的过程伴随着现代世界的形成
+{\pos(192,288)}Growing up, he had a keen desire to make sense
+
+137
+0:07:29.86 --> 0:07:32.94
+{\pos(192,275)}对于这个世界  哈耶克充满了学习的渴望
+{\pos(192,288)}of the modern world taking shape around him.
+
+138
+0:07:35.42 --> 0:07:37.45
+{\pos(192,275)}大概13或14岁的时候
+{\pos(192,288)}I must have been 13 or 14
+
+139
+0:07:37.46 --> 0:07:39.96
+{\pos(192,275)}我开始纠缠认识的所有神父
+{\pos(192,288)}when I began pestering all the priests I knew
+
+140
+0:07:39.97 --> 0:07:42.61
+{\pos(192,275)}让他们给我解释所谓的上帝
+{\pos(192,288)}to explain to me what they meant by the word "God",
+
+141
+0:07:42.62 --> 0:07:44.14
+{\pos(192,275)}但他们都不能很好的解释
+{\pos(192,288)}and none of them could.
+
+142
+0:07:45.14 --> 0:07:47.57
+{\pos(192,275)}于是我不再纠结这事
+{\pos(192,288)}That was the end for me of it.
+
+143
+0:07:47.58 --> 0:07:50.49
+{\pos(192,275)}哈耶克成长于一个科学家家庭
+{\pos(192,288)}Hayek grew up in a family of scientists.
+
+144
+0:07:50.50 --> 0:07:53.57
+{\pos(192,275)}像维也纳当时的许多其他天才
+{\pos(192,288)}Like many other intellectuals in Vienna at that time
+
+145
+0:07:53.58 --> 0:07:56.28
+{\pos(192,275)}他们乐于自认为正在承担
+{\pos(192,288)}they liked to think they were on a grand quest
+
+146
+0:07:56.30 --> 0:07:59.28
+{\pos(192,275)}揭开宇宙奥秘的伟大使命
+{\pos(192,288)}to unwrap the secrets of the universe.
+
+147
+0:07:59.30 --> 0:08:02.65
+{\pos(192,275)}年轻的哈耶克深受其父亲的影响
+{\pos(192,288)}The young Hayek was especially influenced by his father...
+
+148
+0:08:02.65 --> 0:08:05.89
+{\pos(192,275)}一个医生  同时也是一个狂热的植物学家
+{\pos(192,288)}a doctor and enthusiastic botanist.
+
+149
+0:08:05.90 --> 0:08:08.69
+{\pos(192,275)}一开始  哈耶克像父亲一样
+{\pos(192,288)}Hayek started off like his dad,
+
+150
+0:08:08.70 --> 0:08:12.13
+{\pos(192,275)}狂热的收集植物和昆虫样本
+{\pos(192,288)}obsessively collecting plant and insect samples,
+
+151
+0:08:12.14 --> 0:08:14.77
+{\pos(192,275)}按物种的发展分类
+{\pos(192,288)}really into the development of species.
+
+152
+0:08:14.78 --> 0:08:17.81
+{\pos(192,275)}16岁的时候  他的兴趣转向人类
+{\pos(192,288)}By the time he was 16 and he was more interested in people,
+
+153
+0:08:17.82 --> 0:08:21.77
+{\pos(192,275)}整个社会的发展 而不再是植物
+{\pos(192,288)}the development of whole societies, not plants.
+
+154
+0:08:21.78 --> 0:08:25.26
+{\pos(192,275)}但达尔文的进化论已经深入他的脑海
+{\pos(192,288)}But Darwin's theory of evolution stuck in his head.
+
+155
+0:08:26.50 --> 0:08:29.17
+{\pos(192,275)}18世纪启蒙运动以来
+{\pos(192,288)}Since the 18th-century Enlightenment
+
+156
+0:08:29.18 --> 0:08:32.73
+{\pos(192,275)}科学揭开了许多宇宙的谜团
+{\pos(192,288)}science had unlocked many of the puzzles of the universe,
+
+157
+0:08:32.73 --> 0:08:35.60
+{\pos(192,275)}包括生命的起源
+{\pos(192,288)}including the origins of life itself.
+
+158
+0:08:35.61 --> 0:08:37.09
+{\pos(192,275)}随着哈耶克的成长
+{\pos(192,288)}As Hayek grew up
+
+159
+0:08:37.10 --> 0:08:40.48
+{\pos(192,275)}他视一门学科为新的前沿  并对此投入巨大热情
+{\pos(192,288)}he was drawn to what he saw as the last frontier...
+
+160
+0:08:40.49 --> 0:08:43.00
+{\pos(192,275)}经济的神奇运行方式
+{\pos(192,288)}the mysterious workings of the economy
+
+161
+0:08:43.01 --> 0:08:45.97
+{\pos(192,275)}及其日益增长的复杂性和魔力
+{\pos(192,288)}in all its growing complexity and power.
+
+162
+0:08:45.98 --> 0:08:48.13
+{\pos(192,275)}在达尔文的进化论中
+{\pos(192,288)}In Darwin's theory of evolution
+
+163
+0:08:48.13 --> 0:08:52.73
+{\pos(192,275)}他认为他看到了新经济学的基本模式
+{\pos(192,288)}he thought he saw what a new science of the economy might look like.
+
+164
+0:08:52.74 --> 0:08:56.88
+{\pos(192,275)}物理学通常可以精确预测
+{\pos(192,288)}Physics, which allows, often, for precise predictions
+
+165
+0:08:56.89 --> 0:08:59.92
+{\pos(192,275)}行星的运动或轨迹
+{\pos(192,288)}in terms of planetary motion and eclipses,
+
+166
+0:08:59.94 --> 0:09:01.17
+{\pos(192,275)}但这对于理解社会如何运转来说
+{\pos(192,288)}is not a good model
+
+167
+0:09:01.17 --> 0:09:03.69
+{\pos(192,275)}不是一个好的模式
+{\pos(192,288)}for understanding how social phenomena work.
+
+168
+0:09:03.70 --> 0:09:07.64
+{\pos(192,275)}我认为这是进化论对他产生吸引的基础
+{\pos(192,288)}I think that was the basis of his attraction to evolutionary theory.
+
+169
+0:09:07.65 --> 0:09:10.49
+{\pos(192,275)}哈耶克想要主张的是  经济学可以成为一门科学
+{\pos(192,288)}He wanted to establish that you could be a science
+
+170
+0:09:10.50 --> 0:09:12.97
+{\pos(192,275)}就算它不能做出精确预测
+{\pos(192,288)}even if you don't make precise predictions,
+
+171
+0:09:12.98 --> 0:09:16.16
+{\pos(192,275)}或者也没有他众多反对者所提到的控制力
+{\pos(192,288)}or have the sort of control that many of his opponents said,
+
+172
+0:09:16.17 --> 0:09:19.73
+{\pos(192,275)}反对者声称的是  "如果经济学是一门科学
+{\pos(192,288)}"Well, if we're a science we should be able to engineer society
+
+173
+0:09:19.74 --> 0:09:22.01
+{\pos(192,275)}那么我们就能像工程师建造桥梁那般来规划社会"
+{\pos(192,288)}"the way an engineer builds a bridge."
+
+174
+0:09:23.05 --> 0:09:27.09
+{\pos(192,275)}达尔文的进化论也帮助哈耶克
+{\pos(192,288)}Darwin's theory of evolution also helped forge Hayek's vision
+
+175
+0:09:27.10 --> 0:09:28.76
+{\pos(192,275)}形成了他对资本主义本身的构想
+{\pos(192,288)}of capitalism itself.
+
+176
+0:09:28.77 --> 0:09:32.01
+{\pos(192,275)}他认为 全球市场已深刻介入人类的发展史
+{\pos(192,288)}He came to believe the global market had evolved
+
+177
+0:09:32.01 --> 0:09:36.01
+{\pos(192,275)}它已成为一种神奇的自然力量
+{\pos(192,288)}over the course of human history, emerging as a kind of natural wonder
+
+178
+0:09:36.01 --> 0:09:37.62
+{\pos(192,275)}驱动文明向前发展
+{\pos(192,288)}driving civilisation forward.
+
+179
+0:09:46.17 --> 0:09:49.92
+{\pos(192,275)}哈耶克将市场视为通讯系统
+{\pos(192,288)}Hayek saw the market as a telecommunications system,
+
+180
+0:09:49.94 --> 0:09:52.73
+{\pos(192,275)}处理亿万信息
+{\pos(192,288)}processing billions of pieces of information
+
+181
+0:09:52.74 --> 0:09:54.61
+{\pos(192,275)}包括我们所有的需求和欲望
+{\pos(192,288)}about all our needs and desires
+
+182
+0:09:54.62 --> 0:09:57.77
+{\pos(192,275)}以及随之不断变化的供给和资源
+{\pos(192,288)}and the changing supply of resources to meet them.
+
+183
+0:10:02.62 --> 0:10:05.85
+{\pos(192,275)}哈耶克说它是一个奇迹 - 全凭价格的升降为讯息
+{\pos(192,288)}Hayek said it was a marvel - the way all this is conveyed to us
+
+184
+0:10:05.86 --> 0:10:10.05
+{\pos(192,275)}指引我们的商业行为
+{\pos(192,288)}by prices that guide our actions as they rise and fall.
+
+185
+0:10:13.82 --> 0:10:18.29
+{\pos(192,275)}对哈耶克来说  市场越自由  其运转就越佳
+{\pos(192,288)}And to Hayek the market does most good when it's most free.
+
+186
+0:10:23.22 --> 0:10:27.77
+{\pos(192,275)}通常是因为我们意图控制市场才导致了市场与我们的期望相反
+{\pos(192,288)}It's our desire to control it that most often turns it against us.
+
+187
+0:10:32.62 --> 0:10:35.92
+{\pos(192,275)}哈耶克认为政府干预给出了错误的信号
+{\pos(192,288)}Hayek thought meddling by government could make it harder for
+
+188
+0:10:35.94 --> 0:10:38.88
+{\pos(192,275)}使得市场难以正常工作
+{\pos(192,288)}the market to do its job by distorting the signals
+
+189
+0:10:38.89 --> 0:10:41.73
+{\pos(192,275)}因为这个错误信号同时影响了买方和卖方
+{\pos(192,288)}it was sending to buyers and sellers,
+
+190
+0:10:41.74 --> 0:10:44.37
+{\pos(192,275)}政府管控货币供应量
+{\pos(192,288)}and the meddling involved in the government's control
+
+191
+0:10:44.38 --> 0:10:47.09
+{\pos(192,275)}对市场的产生的干预
+{\pos(192,288)}of the supply of money, Hayek decided,
+
+192
+0:10:47.10 --> 0:10:49.50
+{\pos(192,275)}哈耶克认为是最危险的
+{\pos(192,288)}could be most damaging of all.
+
+193
+0:10:54.53 --> 0:10:59.01
+{\pos(192,275)}通胀肆虐  失业增加  债务失控
+{\pos(192,288)}Rampant inflation, unemployment, uncontrollable debt.
+
+194
+0:10:59.01 --> 0:11:03.52
+{\pos(192,275)}哈耶克亲眼目睹了一战后维也纳
+{\pos(192,288)}In Vienna, after the First World War, Hayek saw for himself
+
+195
+0:11:03.53 --> 0:11:05.77
+{\pos(192,275)}政府滥用货币是怎样造成严重破坏的
+{\pos(192,288)}how government abuse of money can wreak havoc.
+
+196
+0:11:07.94 --> 0:11:12.16
+{\pos(192,275)}整个奥地利物价飞涨  失业剧增
+{\pos(192,288)}Across Austria prices had taken off, and so had unemployment.
+
+197
+0:11:12.17 --> 0:11:15.45
+{\pos(192,275)}连富人都要为生计发愁
+{\pos(192,288)}Even the rich were struggling to feed themselves,
+
+198
+0:11:15.46 --> 0:11:17.89
+{\pos(192,275)}没有人确切知道这是为什么
+{\pos(192,288)}and no-one could quite understand why.
+
+199
+0:11:20.62 --> 0:11:24.28
+{\pos(192,275)}在危机最盛行的时期  你走在大街上
+{\pos(192,288)}At the height of the crisis, if you walked down this street
+
+200
+0:11:24.29 --> 0:11:26.01
+{\pos(192,275)}无论白天还是夜晚
+{\pos(192,288)}any time of day or night,
+
+201
+0:11:26.01 --> 0:11:30.10
+{\pos(192,275)}你都能听到大量的  持续的  阴沉的声音
+{\pos(192,288)}you could hear a kind of relentless, heavy, rumbling sound.
+
+202
+0:11:35.46 --> 0:11:39.52
+{\pos(192,275)}这是货币将一个国家撕裂的声音
+{\pos(192,288)}It was the sound of money tearing a country apart.
+
+203
+0:11:39.53 --> 0:11:43.37
+{\pos(192,275)}这栋建筑曾经是奥匈帝国银行的办公场所
+{\pos(192,288)}This building housed the Austro-Hungarian Bank,
+
+204
+0:11:43.38 --> 0:11:47.16
+{\pos(192,275)}这里的打印机日夜不停的工作
+{\pos(192,288)}and its printing presses that were rolling night and day
+
+205
+0:11:47.17 --> 0:11:50.33
+{\pos(192,275)}批量印制新的钞票
+{\pos(192,288)}churning out millions of new bank notes.
+
+206
+0:11:50.34 --> 0:11:53.33
+{\pos(192,275)}战争留给奥地利政府的是巨额债务
+{\pos(192,288)}The war had left the Austrian government with huge bills
+
+207
+0:11:53.34 --> 0:11:55.01
+{\pos(192,275)}以及低水平的税收收入
+{\pos(192,288)}and low tax revenues.
+
+208
+0:11:55.01 --> 0:11:58.92
+{\pos(192,275)}所以政府命令国家银行印制其所需钞票
+{\pos(192,288)}So it ordered the national bank to simply print the money it needed
+
+209
+0:11:58.94 --> 0:12:01.53
+{\pos(192,275)}用于偿还债券和欠条
+{\pos(192,288)}in exchange for bonds or IOUs.
+
+210
+0:12:05.34 --> 0:12:07.76
+{\pos(192,275)}操控这些印钞机的人
+{\pos(192,288)}What the people manning these printing presses,
+
+211
+0:12:07.77 --> 0:12:11.21
+{\pos(192,275)}以及他们的政治老板此时还不知道
+{\pos(192,288)}and their political masters, had yet to really grasp
+
+212
+0:12:11.22 --> 0:12:13.85
+{\pos(192,275)}他们不仅仅是在印制钞票
+{\pos(192,288)}was they weren't just producing money here,
+
+213
+0:12:13.86 --> 0:12:15.80
+{\pos(192,275)}他们同时也在制造通胀
+{\pos(192,288)}they were producing inflation.
+
+214
+0:12:15.82 --> 0:12:18.57
+{\pos(192,275)}经济中的货币总量上升
+{\pos(192,288)}The amount of money in the economy was going up,
+
+215
+0:12:18.58 --> 0:12:21.28
+{\pos(192,275)}人们有更多的钱可支配
+{\pos(192,288)}so people had more money to spend, but of course,
+
+216
+0:12:21.29 --> 0:12:24.40
+{\pos(192,275)}但是他们所能购买的商品却保持在原来的水平
+{\pos(192,288)}the amount of things they could buy had stayed more or less the same.
+
+217
+0:12:24.41 --> 0:12:28.80
+{\pos(192,275)}因而推高每样商品的价格  产生通胀
+{\pos(192,288)}That forced up the price of everything. Inflation took off.
+
+218
+0:12:28.82 --> 0:12:31.28
+{\pos(192,275)}事实上  奥地利的情况如此糟糕
+{\pos(192,288)}In fact, the situation got so bad in Austria,
+
+219
+0:12:31.29 --> 0:12:35.05
+{\pos(192,275)}通胀率甚至高达10,000%
+{\pos(192,288)}the inflation rate hit 10,000%.
+
+220
+0:12:36.77 --> 0:12:39.13
+{\pos(192,275)}金融财富都被摧毁了
+{\pos(192,288)}The financial wealth was destroyed.
+
+221
+0:12:39.13 --> 0:12:42.25
+{\pos(192,275)}那些原来有职业的人
+{\pos(192,288)}Those that had jobs
+
+222
+0:12:42.26 --> 0:12:45.76
+{\pos(192,275)}继续从事工作但仍然负担不起支出
+{\pos(192,288)}continued to have them but they could no longer afford,
+
+223
+0:12:45.77 --> 0:12:48.49
+{\pos(192,275)}例如  女仆和服务员
+{\pos(192,288)}for instance, to have maids and servants.
+
+224
+0:12:48.50 --> 0:12:52.05
+{\pos(192,275)}我们看到这些人  突然间都失业了
+{\pos(192,288)}We saw all of these people, all of a sudden, ended up being out of work.
+
+225
+0:12:53.13 --> 0:12:56.40
+{\pos(192,275)}奥地利经济崩溃  而他们的央行行长
+{\pos(192,288)}With their economy going up in smoke, Austria's central bankers
+
+226
+0:12:56.41 --> 0:12:59.65
+{\pos(192,275)}还在试图饮鸩止渴
+{\pos(192,288)}tried to fight fire with fire.
+
+227
+0:13:02.41 --> 0:13:06.57
+{\pos(192,275)}1922年夏天  物价每月翻番
+{\pos(192,288)}By the summer of 1922, prices were doubling every month,
+
+228
+0:13:06.58 --> 0:13:09.16
+{\pos(192,275)}央行也在用同样的速度
+{\pos(192,288)}and the central bank was playing catch up,
+
+229
+0:13:09.17 --> 0:13:11.69
+{\pos(192,275)}印制越来越大额的钞票
+{\pos(192,288)}printing higher and higher denomination bank notes,
+
+230
+0:13:11.70 --> 0:13:14.33
+{\pos(192,275)}可想而知商店会发生什么了
+{\pos(192,288)}just to reflect what was going on in the shops.
+
+231
+0:13:14.34 --> 0:13:20.28
+{\pos(192,275)}最后  50万克朗仅仅购买一条面包
+{\pos(192,288)}In the end, this 500,000 Krone note could maybe buy you a loaf of bread.
+
+232
+0:13:20.29 --> 0:13:23.01
+{\pos(192,275)}当然  向经济注入越来越多的货币
+{\pos(192,288)}And of course, by pumping more and more money into the economy
+
+233
+0:13:23.01 --> 0:13:26.61
+{\pos(192,275)}只是使事态更加恶化
+{\pos(192,288)}they were only making the problem worse.
+
+234
+0:13:26.62 --> 0:13:31.40
+{\pos(192,275)}对奥地利政府来说  这是一个由他们一手造成的危机
+{\pos(192,288)}For Austria's politicians it was all a crisis of their own making.
+
+235
+0:13:31.41 --> 0:13:35.01
+{\pos(192,275)}一战刚开始 他们就通过加印货币
+{\pos(192,288)}They'd been printing money to pay their bills since the start
+
+236
+0:13:35.01 --> 0:13:37.49
+{\pos(192,275)}偿还债务
+{\pos(192,288)}of the First World War,
+
+237
+0:13:37.50 --> 0:13:40.97
+{\pos(192,275)}他们不理解这样做会导致通胀
+{\pos(192,288)}and they didn't understand that that could lead to inflation.
+
+238
+0:13:40.98 --> 0:13:43.86
+{\pos(192,275)}这是一场由无知引发的危机
+{\pos(192,288)}It was a crisis caused by ignorance.
+
+239
+0:13:46.01 --> 0:13:49.01
+{\pos(192,275)}亲眼目睹奥地利瘫痪
+{\pos(192,288)}Having seen Austria brought to its knees,
+
+240
+0:13:49.01 --> 0:13:52.76
+{\pos(192,275)}哈耶克终其一生都对通胀有着本能的恐惧
+{\pos(192,288)}Hayek had an almost visceral fear of inflation all of his life.
+
+241
+0:13:52.77 --> 0:13:56.33
+{\pos(192,275)}通胀仍令当今所有央行恐惧
+{\pos(192,288)}It's a fear that central bankers still share today.
+
+242
+0:13:56.34 --> 0:14:00.28
+{\pos(192,275)}我感兴趣的是  从这段经历里他获得了什么
+{\pos(192,288)}What's interesting to me is the lesson he drew from that experience.
+
+243
+0:14:00.29 --> 0:14:03.73
+{\pos(192,275)}绝大多数人关注政治层面的事实
+{\pos(192,288)}Most people focus on the politics, on the fact that the winners of
+
+244
+0:14:03.74 --> 0:14:08.57
+{\pos(192,275)}一战的战胜国要求奥地利高额赔款
+{\pos(192,288)}World War I had imposed impossibly high reparations on Austria.
+
+245
+0:14:08.58 --> 0:14:11.04
+{\pos(192,275)}但是哈耶克更感兴趣经济层面
+{\pos(192,288)}But Hayek was interested in the economics,
+
+246
+0:14:11.05 --> 0:14:14.49
+{\pos(192,275)}以及奥地利政府所不理解的
+{\pos(192,288)}and the fact that the Austrian government simply hadn't understood
+
+247
+0:14:14.50 --> 0:14:16.17
+{\pos(192,275)}货币的威力
+{\pos(192,288)}the power of money.
+
+248
+0:14:19.13 --> 0:14:22.16
+{\pos(192,275)}而其后发生在美国的事件则让哈耶克得出结论
+{\pos(192,288)}What happened next in America led Hayek to conclude
+
+249
+0:14:22.17 --> 0:14:25.76
+{\pos(192,275)}还有比政府无知更坏的事情 - 傲慢
+{\pos(192,288)}there can be something worse than government ignorance - hubris.
+
+250
+0:14:25.77 --> 0:14:29.25
+{\pos(192,275)}他认为  纵观整个经济危机就能发现
+{\pos(192,288)}He thought that entire period showed the calamity that can come
+
+251
+0:14:29.26 --> 0:14:33.73
+{\pos(192,275)}灾难源自于政府试图用货币的威力来调控经济
+{\pos(192,288)}when governments try to use the power of money to shape the economy.
+
+252
+0:14:33.74 --> 0:14:35.45
+{\pos(192,275)}20世纪20年代的美国
+{\pos(192,288)}In America in the 1920's
+
+253
+0:14:35.46 --> 0:14:40.04
+{\pos(192,275)}正步入有史以来最繁荣的时期
+{\pos(192,288)}the greatest boom the world had ever seen was taking off.
+
+254
+0:14:40.05 --> 0:14:42.92
+{\pos(192,275)}消费者无法买到足够的新产品  如汽车
+{\pos(192,288)}Consumers couldn't get enough of new products like cars,
+
+255
+0:14:42.94 --> 0:14:46.69
+{\pos(192,275)}电话  唱片机
+{\pos(192,288)}telephones and record players.
+
+256
+0:14:46.70 --> 0:14:50.04
+{\pos(192,275)}股市越攀越高
+{\pos(192,288)}The stock market rose higher and higher.
+
+257
+0:14:50.05 --> 0:14:53.76
+{\pos(192,275)}随着喧嚣的20年代逐渐逝去  美国最精英的经济思想
+{\pos(192,288)}As the Roaring Twenties wore on, the finest economic minds in America
+
+258
+0:14:53.77 --> 0:14:57.05
+{\pos(192,275)}开始相信繁荣不会结束
+{\pos(192,288)}came to believe the boom would never end.
+
+259
+0:15:01.70 --> 0:15:05.97
+{\pos(192,275)}回到奥地利 1929年初
+{\pos(192,288)}Back in Austria, in early 1929, Hayek was convinced
+
+260
+0:15:05.98 --> 0:15:08.01
+{\pos(192,275)}哈耶克认为政府把一起搞砸了
+{\pos(192,288)}they'd got it all wrong.
+
+261
+0:15:09.41 --> 0:15:12.16
+{\pos(192,275)}他成为了新成立的
+{\pos(192,288)}He'd become the director of the recently founded
+
+262
+0:15:12.17 --> 0:15:15.40
+{\pos(192,275)}商业危机研究中心的董事
+{\pos(192,288)}Institute for Business Cycle Research.
+
+263
+0:15:15.41 --> 0:15:18.33
+{\pos(192,275)}工作职责是研究为什么经济总是
+{\pos(192,288)}Its job was to understand why economies were always
+
+264
+0:15:18.34 --> 0:15:21.73
+{\pos(192,275)}不断从繁荣到衰退交替更迭  循环往复
+{\pos(192,288)}lurching from one boom and bust cycle to another.
+
+265
+0:15:21.74 --> 0:15:24.69
+{\pos(192,275)}哈耶克称之为"19世纪模式"
+{\pos(192,288)}Hayek called it "The 19th Century Pattern",
+
+266
+0:15:24.70 --> 0:15:26.94
+{\pos(192,275)}尽管这一现象从未成为过去式
+{\pos(192,288)}though it was hardly a thing of the past.
+
+267
+0:15:30.13 --> 0:15:33.28
+{\pos(192,275)}研究中心设在商会
+{\pos(192,288)}The Institute was based here at the Chamber of Commerce,
+
+268
+0:15:33.29 --> 0:15:36.85
+{\pos(192,275)}在这里  哈耶克发展了关于繁荣和衰退的一个新理论
+{\pos(192,288)}where Hayek had been developing a new theory of boom and bust,
+
+269
+0:15:36.86 --> 0:15:39.29
+{\pos(192,275)}以及关于市场的新观点
+{\pos(192,288)}along with new thinking about the market.
+
+270
+0:15:41.58 --> 0:15:45.40
+{\pos(192,275)}他在这里的工作将永久的改变人们
+{\pos(192,288)}The work he did here would change the way people thought
+
+271
+0:15:45.41 --> 0:15:49.41
+{\pos(192,275)}关于经济的思考方式 - 繁荣然后衰退
+{\pos(192,288)}about the economy forever - its ups, and its downs.
+
+272
+0:15:58.86 --> 0:16:01.57
+{\pos(192,275)}对许多人来说  衰退是无法预测的
+{\pos(192,288)}To many, the downs were unpredictable...
+
+273
+0:16:01.58 --> 0:16:06.52
+{\pos(192,275)}是一种无法预警  就能摧毁经济的自然力量
+{\pos(192,288)}a kind of force of nature that might destroy an economy without warning.
+
+274
+0:16:06.53 --> 0:16:10.76
+{\pos(192,275)}哈耶克发展了一个新理论 - 衰退的种子
+{\pos(192,288)}Hayek had been working on a new idea - that the seeds of busts
+
+275
+0:16:10.77 --> 0:16:13.37
+{\pos(192,275)}早在繁荣的时候已经埋下
+{\pos(192,288)}were sown during booms.
+
+276
+0:16:13.38 --> 0:16:16.40
+{\pos(192,275)}因为世界已经越来越相互关联
+{\pos(192,288)}Because the world had become increasingly interconnected,
+
+277
+0:16:16.41 --> 0:16:19.21
+{\pos(192,275)}哈耶克开始研究美国的繁荣
+{\pos(192,288)}Hayek had been studying the American boom to help him
+
+278
+0:16:19.22 --> 0:16:22.26
+{\pos(192,275)}以助于他预测奥地利经济的潜在走向
+{\pos(192,288)}forecast what would happen to the Austrian economy.
+
+279
+0:16:24.38 --> 0:16:28.28
+{\pos(192,275)}他开始制作关于欧洲经济状况的
+{\pos(192,288)}He had to produce these monthly reports on the state
+
+280
+0:16:28.29 --> 0:16:30.28
+{\pos(192,275)}月度报告
+{\pos(192,288)}of the European economy.
+
+281
+0:16:30.29 --> 0:16:32.33
+{\pos(192,275)}大部分都是一些无趣的东西
+{\pos(192,288)}Most of it is pretty dry stuff.
+
+282
+0:16:32.34 --> 0:16:38.25
+{\pos(192,275)}例如纸张产量或月度钢铁出口额
+{\pos(192,288)}It's things like paper production or that month's steel exports.
+
+283
+0:16:38.26 --> 0:16:41.16
+{\pos(192,275)}但是他被公认
+{\pos(192,288)}But he is credited with making a rather striking prediction
+
+284
+0:16:41.17 --> 0:16:43.16
+{\pos(192,275)}在1929年初做出了一个惊人的预测
+{\pos(192,288)}in early 1929,
+
+285
+0:16:43.17 --> 0:16:47.13
+{\pos(192,275)}因为他认为美国股市的繁荣
+{\pos(192,288)}because he thought the American stock market boom
+
+286
+0:16:47.13 --> 0:16:49.76
+{\pos(192,275)}将在短短几个月内结束
+{\pos(192,288)}would end in a few months time.
+
+287
+0:16:49.77 --> 0:16:51.21
+{\pos(192,275)}他是对的
+{\pos(192,288)}He was right.
+
+288
+0:16:51.22 --> 0:16:54.76
+{\pos(192,275)}1929年10月  华尔街股市跳水
+{\pos(192,288)}In October 1929 Wall Street fell off a cliff,
+
+289
+0:16:54.77 --> 0:16:57.58
+{\pos(192,275)}20年代的喧画上了一个痛苦的句号
+{\pos(192,288)}and the '20s roared to an anguished end.
+
+290
+0:17:03.13 --> 0:17:06.52
+{\pos(192,275)}哈耶克的预测源于
+{\pos(192,288)}Hayek's prediction came out of what he saw happening
+
+291
+0:17:06.53 --> 0:17:09.56
+{\pos(192,275)}他对美国新央行所做所为的观察
+{\pos(192,288)}at America's new central bank.
+
+292
+0:17:09.57 --> 0:17:13.01
+{\pos(192,275)}美联储1913年成立
+{\pos(192,288)}The Federal Reserve had been set up in 1913
+
+293
+0:17:13.01 --> 0:17:17.08
+{\pos(192,275)}目的是为了稳定美国那些臭名昭著的私人银行
+{\pos(192,288)}to stabilise America's notoriously shaky private banks
+
+294
+0:17:17.09 --> 0:17:20.80
+{\pos(192,275)}通过为其提供了可靠的信贷资金来源
+{\pos(192,288)}by offering them a reliable source of credit.
+
+295
+0:17:20.81 --> 0:17:25.84
+{\pos(192,275)}哈耶克的洞见是  经济的大起大落
+{\pos(192,288)}Hayek's big idea was that the great ups and downs in the economy
+
+296
+0:17:25.85 --> 0:17:29.17
+{\pos(192,275)}几乎都是从设立这类机构开始
+{\pos(192,288)}nearly all started in buildings like this one.
+
+297
+0:17:29.18 --> 0:17:31.73
+{\pos(192,275)}利率作为贷款的成本
+{\pos(192,288)}It was the cost of borrowing, the interest rate,
+
+298
+0:17:31.74 --> 0:17:35.49
+{\pos(192,275)}被美联储这类的央行设定
+{\pos(192,288)}set by central banks like the New York Federal Reserve
+
+299
+0:17:35.50 --> 0:17:39.36
+{\pos(192,275)}导致了不可持续的繁荣
+{\pos(192,288)}that caused unsustainable booms to develop,
+
+300
+0:17:39.38 --> 0:17:42.09
+{\pos(192,275)}同时也不可避免会引发衰退
+{\pos(192,288)}and cause the inevitable busts.
+
+301
+0:17:44.42 --> 0:17:47.73
+{\pos(192,275)}1920年代  美联储的管理层
+{\pos(192,288)}In the 1920s the governor of the New York Federal Reserve
+
+302
+0:17:47.74 --> 0:17:50.32
+{\pos(192,275)}有一个革命性的的观点
+{\pos(192,288)}had a revolutionary idea.
+
+303
+0:17:50.33 --> 0:17:53.45
+{\pos(192,275)}本杰明·斯特朗认为他可以用央行的权力
+{\pos(192,288)}Benjamin Strong thought he could use the bank's power
+
+304
+0:17:53.46 --> 0:17:57.45
+{\pos(192,275)}设定利率  影响经济中将要发生的事项
+{\pos(192,288)}to set interest rates to influence what was happening in the economy.
+
+305
+0:17:57.46 --> 0:18:00.77
+{\pos(192,275)}在许多方面  利用利率的观点
+{\pos(192,288)}In many ways, that idea of using interest rates
+
+306
+0:18:00.78 --> 0:18:04.05
+{\pos(192,275)}标志着现代货币政策的起源
+{\pos(192,288)}marked the start of modern monetary policy.
+
+307
+0:18:04.06 --> 0:18:07.60
+{\pos(192,275)}斯特朗开始在公开市场上购买国债
+{\pos(192,288)}Strong began buying government debt on the open market
+
+308
+0:18:07.61 --> 0:18:12.01
+{\pos(192,275)}这样做的效果是增加经济中的货币总量
+{\pos(192,288)}which did have the effect of raising the amount of money in the economy.
+
+309
+0:18:12.02 --> 0:18:16.81
+{\pos(192,275)}但是与倒霉的奥地利央行不同  斯特朗有一个策略
+{\pos(192,288)}But unlike Austria's hapless central bankers, Strong had a strategy.
+
+310
+0:18:16.82 --> 0:18:19.84
+{\pos(192,275)}两者不同之处在于  美联储不是通过购买
+{\pos(192,288)}The difference with Austria was that the Fed wasn't buying
+
+311
+0:18:19.85 --> 0:18:22.89
+{\pos(192,275)}国债帮美国政府还债
+{\pos(192,288)}treasury bonds to help the government pay its bills.
+
+312
+0:18:22.90 --> 0:18:25.13
+{\pos(192,275)}而只是为了增加市场中的货币总量
+{\pos(192,288)}It was doing it to get money into the market
+
+313
+0:18:25.14 --> 0:18:26.73
+{\pos(192,275)}同时保持较低的利率水平
+{\pos(192,288)}and keep interest rates low.
+
+314
+0:18:26.74 --> 0:18:29.45
+{\pos(192,275)}央行希望鼓励每个人
+{\pos(192,288)}The central bank wanted to encourage everyone,
+
+315
+0:18:29.46 --> 0:18:32.84
+{\pos(192,275)}个体或家庭从银行贷更多的款
+{\pos(192,288)}individuals and households, to borrow more from the banks.
+
+316
+0:18:32.85 --> 0:18:34.41
+{\pos(192,275)}目的达到了
+{\pos(192,288)}It worked.
+
+317
+0:18:34.42 --> 0:18:38.29
+{\pos(192,275)}钢铁行业增长  公共服务行业增长 汽车行业增长
+{\pos(192,288)}'Steel up, utilities up, motors up,
+
+318
+0:18:38.30 --> 0:18:40.57
+{\pos(192,275)}无线电行业增长 所有行业都在增长  增长
+{\pos(192,288)}'radio way up - everything up, up, up!'
+
+319
+0:18:40.57 --> 0:18:43.53
+{\pos(192,275)}斯特朗的干预确实为
+{\pos(192,288)}Strong's intervention really paved the way
+
+320
+0:18:43.54 --> 0:18:46.25
+{\pos(192,275)}我们今天的金融系统铺平了道路
+{\pos(192,288)}for the financial system we have today.
+
+321
+0:18:46.26 --> 0:18:48.36
+{\pos(192,275)}感谢他发明的各种信用产品
+{\pos(192,288)}Thanks to all that credit he created
+
+322
+0:18:48.38 --> 0:18:51.29
+{\pos(192,275)}股市越来越高
+{\pos(192,288)}the stock market rose higher and higher.
+
+323
+0:18:51.30 --> 0:18:56.13
+{\pos(192,275)}贷款如此便宜  以至于许多人贷款购买股票
+{\pos(192,288)}With loans so cheap, many borrowed money to buy shares.
+
+324
+0:18:56.14 --> 0:18:59.05
+{\pos(192,275)}其他人则大量投资不动产
+{\pos(192,288)}Others invested heavily in property.
+
+325
+0:18:59.06 --> 0:19:02.29
+{\pos(192,275)}美联储希望其干预能保持
+{\pos(192,288)}The Federal Reserve hoped its intervention would keep
+
+326
+0:19:02.30 --> 0:19:06.32
+{\pos(192,275)}经济无限期的持续繁荣  但是哈耶克认为斯特朗的政策
+{\pos(192,288)}the boom going indefinitely, but Hayek believed Strong's policy
+
+327
+0:19:06.33 --> 0:19:09.01
+{\pos(192,275)}埋下了最终衰退的种子
+{\pos(192,288)}was sowing the seeds of an eventual bust.
+
+328
+0:19:09.02 --> 0:19:12.21
+{\pos(192,275)}哈耶克看到的是  贷款的低成本
+{\pos(192,288)}The way Hayek saw it, the low cost of borrowing
+
+329
+0:19:12.22 --> 0:19:14.93
+{\pos(192,275)}发送了错误的信号给投资者
+{\pos(192,288)}was sending the wrong signal to investors here
+
+330
+0:19:14.94 --> 0:19:17.17
+{\pos(192,275)}给全国的企业
+{\pos(192,288)}and to businesses around the country.
+
+331
+0:19:17.18 --> 0:19:21.08
+{\pos(192,275)}低利率告诉他们美国存款越来越多
+{\pos(192,288)}The low interest rate told them that America was saving more,
+
+332
+0:19:21.09 --> 0:19:23.89
+{\pos(192,275)}银行账户里有很多闲置资金
+{\pos(192,288)}that there was lots of spare cash sitting in bank accounts
+
+333
+0:19:23.90 --> 0:19:26.36
+{\pos(192,275)}可用于放贷或投资
+{\pos(192,288)}ready to be lent on and invested.
+
+334
+0:19:26.38 --> 0:19:27.93
+{\pos(192,275)}但这不是事实
+{\pos(192,288)}It wasn't true.
+
+335
+0:19:27.94 --> 0:19:33.18
+{\pos(192,275)}别小看美国  为什么  伙计 我们几乎还没开始
+{\pos(192,288)}'Don't sell America short. Why, man, we've scarcely started.'
+
+336
+0:19:34.30 --> 0:19:37.57
+{\pos(192,275)}美联储发现预警的信号时
+{\pos(192,288)}By the time the Federal Reserve spotted the warning signs
+
+337
+0:19:37.57 --> 0:19:39.05
+{\pos(192,275)}为时已晚
+{\pos(192,288)}it was too late.
+
+338
+0:19:39.06 --> 0:19:42.97
+{\pos(192,275)}技术上的重新调整  超过140亿美元随之蒸发
+{\pos(192,288)}'Technical readjustments. Over 14 billion go with them
+
+339
+0:19:42.98 --> 0:19:45.93
+{\pos(192,275)}整个国家的信心也随之蒸发  华尔街
+{\pos(192,288)}'and so goes the confidence of a nation. Wall Street...'
+
+340
+0:19:45.94 --> 0:19:48.21
+{\pos(192,275)}当利率上升时  大崩溃来了
+{\pos(192,288)}The crash came when interest rates rose
+
+341
+0:19:48.22 --> 0:19:51.57
+{\pos(192,275)}投资者开始意识到银行也没有钱
+{\pos(192,288)}and investors started to realise the banks didn't have money
+
+342
+0:19:51.57 --> 0:19:53.81
+{\pos(192,275)}返还所有投资者
+{\pos(192,288)}to back all those investments after all.
+
+343
+0:19:53.82 --> 0:19:56.41
+{\pos(192,275)}在某个时点  他们甚至不得不关闭展厅
+{\pos(192,288)}At one point they had to close the visitors' gallery
+
+344
+0:19:56.42 --> 0:19:59.21
+{\pos(192,275)}因为有太多的民众来这里
+{\pos(192,288)}cos there were too many members of the public up here
+
+345
+0:19:59.22 --> 0:20:04.01
+{\pos(192,275)}看到他们毕生储蓄化为乌有后嚎啕大哭
+{\pos(192,288)}wailing and crying as they watched their life savings go up in smoke.
+
+346
+0:20:04.02 --> 0:20:08.25
+{\pos(192,275)}爵士乐时代已经结束了 所有都结束了
+{\pos(192,288)}'The Jazz Age is over, all over.'
+
+347
+0:20:08.26 --> 0:20:10.29
+{\pos(192,275)}对哈耶克来时  教训是显而易见的
+{\pos(192,288)}To Hayek the lesson was clear...
+
+348
+0:20:10.30 --> 0:20:13.32
+{\pos(192,275)}美联储通过低贷款成本刺激繁荣
+{\pos(192,288)}by feeding the boom with cheap credit the Federal Reserve
+
+349
+0:20:13.33 --> 0:20:18.30
+{\pos(192,275)}成为了华尔街崩盘和大衰退的帮凶
+{\pos(192,288)}had helped cause the Wall Street Crash and the Great Depression.
+
+350
+0:20:21.18 --> 0:20:23.69
+{\pos(192,275)}迅速切换到今天的全球经济危机
+{\pos(192,288)}Fast forward to today's global crisis
+
+351
+0:20:23.70 --> 0:20:25.61
+{\pos(192,275)}你可以讲同样一个故事
+{\pos(192,288)}and you could tell a similar story.
+
+352
+0:20:25.61 --> 0:20:28.65
+{\pos(192,275)}我们当然注意到了英国和美国许多的低息贷款
+{\pos(192,288)}We certainly saw a lot of cheap credit in Britain and America
+
+353
+0:20:28.66 --> 0:20:31.93
+{\pos(192,275)}在崩溃之前的10年内
+{\pos(192,288)}in the decade before the crash,
+
+354
+0:20:31.94 --> 0:20:35.36
+{\pos(192,275)}推动不可持续的房地产市场繁荣
+{\pos(192,288)}which did help fuel unsustainable property booms.
+
+355
+0:20:35.38 --> 0:20:38.49
+{\pos(192,275)}诺森罗克是所有金融机构中
+{\pos(192,288)}Northern Rock was one of many financial institutions
+
+356
+0:20:38.50 --> 0:20:41.73
+{\pos(192,275)}为其贷款承担了更大的风险的一个
+{\pos(192,288)}taking ever greater risks in its lending.
+
+357
+0:20:41.74 --> 0:20:47.01
+{\pos(192,275)}当其2007年陷入困境时  恐慌的储户蜂拥而至
+{\pos(192,288)}When it got into trouble in 2007, panicked savers rushed
+
+358
+0:20:47.02 --> 0:20:51.41
+{\pos(192,275)}要求取款 - 英国1866年以来的首次挤兑
+{\pos(192,288)}to withdraw their cash - the first run on a British bank since 1866.
+
+359
+0:20:51.42 --> 0:20:54.73
+{\pos(192,275)}这是灾难来临的信号
+{\pos(192,288)}It was a sign of the disaster to come.
+
+360
+0:20:54.74 --> 0:20:58.81
+{\pos(192,275)}如果事情没有在2007  2008年崩盘
+{\pos(192,288)}If things hadn't come to a crash in 2007, 2008
+
+361
+0:20:58.82 --> 0:21:02.13
+{\pos(192,275)}也许通过正确的方法  你知道的  利率和货币政策
+{\pos(192,288)}maybe with the corrective medicine you could have managed the situation
+
+362
+0:21:02.14 --> 0:21:05.81
+{\pos(192,275)}还能掌控局面  使其重回正轨
+{\pos(192,288)}back down again through, you know, interest rate monetary policy.
+
+363
+0:21:05.82 --> 0:21:11.08
+{\pos(192,275)}银行系统大规模的暴露在风险下
+{\pos(192,288)}As it was the banking system which was massively exposed to this
+
+364
+0:21:11.09 --> 0:21:14.41
+{\pos(192,275)}以至于人们突然意识到
+{\pos(192,288)}and reached a situation where suddenly, people realised
+
+365
+0:21:14.42 --> 0:21:16.97
+{\pos(192,275)}发生了什么  他们彼此都失去了信任
+{\pos(192,288)}what had happened, they lost confidence in each other,
+
+366
+0:21:16.98 --> 0:21:20.05
+{\pos(192,275)}整个大厦倾倒
+{\pos(192,288)}and the entire edifice came crashing down.
+
+367
+0:21:20.06 --> 0:21:24.17
+{\pos(192,275)}今天  关于经济  央行提供的各种电脑模型
+{\pos(192,288)}Today's central banks have computer models of the economy
+
+368
+0:21:24.18 --> 0:21:27.05
+{\pos(192,275)}比本杰明·斯特朗所能想象到的  不知还要先进多少倍
+{\pos(192,288)}light years ahead of anything dreamt up by Benjamin Strong.
+
+369
+0:21:27.06 --> 0:21:30.21
+{\pos(192,275)}尽管如此  哈耶克的追随者指责美联储
+{\pos(192,288)}But even so, Hayek's followers  say the Federal Reserve
+
+370
+0:21:30.22 --> 0:21:35.13
+{\pos(192,275)}没有从上世纪20年代的错误中吸取任何教训
+{\pos(192,288)}had learned nothing from the mistakes it made in the 1920s.
+
+371
+0:21:35.14 --> 0:21:39.53
+{\pos(192,275)}本世纪初  美联储在很长一段时期内保持了过低的利率
+{\pos(192,288)}In the early 2000s it had kept interest rates too low for too long.
+
+372
+0:21:39.54 --> 0:21:43.60
+{\pos(192,275)}但是无论是彼时还是此时  都有很多反对声
+{\pos(192,288)}But then and now there are plenty who would disagree.
+
+373
+0:21:43.61 --> 0:21:47.45
+{\pos(192,275)}美联储主席的职责是为了使酒会继续
+{\pos(192,288)}The job of the Fed chairman is to keep the party going,
+
+374
+0:21:47.46 --> 0:21:49.84
+{\pos(192,275)}不计成本的往酒杯里加酒  而不是拿开酒杯
+{\pos(192,288)}to spike the punch bowl at all costs.
+
+375
+0:21:49.85 --> 0:21:53.17
+{\pos(192,275)}但拿开酒杯才是他真正的职责
+{\pos(192,288)}Not to take the punch bowl away, which really should be the job.
+
+376
+0:21:53.18 --> 0:21:56.73
+{\pos(192,275)}我的意思是  美联储应该独立  但实际上它不是
+{\pos(192,288)}I mean, the Federal Reserve should be independent, but it's not.
+
+377
+0:21:56.74 --> 0:22:00.89
+{\pos(192,275)}它的行为始终是在为政府背书
+{\pos(192,288)}It acts in concert with the government to try to maintain
+
+378
+0:22:00.90 --> 0:22:02.21
+{\pos(192,275)}以维持虚假的繁荣
+{\pos(192,288)}a phony prosperity.
+
+379
+0:22:02.22 --> 0:22:07.21
+{\pos(192,275)}利率非常低  一定程度上
+{\pos(192,288)}Interest rates are very low, and that was partly promoted
+
+380
+0:22:07.22 --> 0:22:12.69
+{\pos(192,275)}贸易顺差的国家  特别是中国
+{\pos(192,288)}by the fact that the surplus countries, notably China,
+
+381
+0:22:12.70 --> 0:22:13.78
+{\pos(192,275)}也包括其他国家  促成了这一事实
+{\pos(192,288)}but others as well,
+
+382
+0:22:13.78 --> 0:22:17.21
+{\pos(192,275)}他们持有大量的货币  他们乐于出口
+{\pos(192,288)}had a lot of money, they were perfectly happy with exporting.
+
+383
+0:22:17.22 --> 0:22:20.69
+{\pos(192,275)}在这一大背景下  美国很难调高利率
+{\pos(192,288)}It would have been hard to force American interest rates higher
+
+384
+0:22:20.70 --> 0:22:23.49
+{\pos(192,275)}因为有如此多的货币
+{\pos(192,288)}in that environment because there was so much money
+
+385
+0:22:23.50 --> 0:22:26.29
+{\pos(192,275)}在低利率下流入
+{\pos(192,288)}flowing in at low interest rates.
+
+386
+0:22:26.30 --> 0:22:30.01
+{\pos(192,275)}如果这都是美联储的错误  那欧洲为何
+{\pos(192,288)}If it was all the Feds' fault how come Europe had
+
+387
+0:22:30.02 --> 0:22:32.29
+{\pos(192,275)}也有几乎同样的经历?
+{\pos(192,288)}the exact same experience?
+
+388
+0:22:32.30 --> 0:22:35.65
+{\pos(192,275)}虽然我不能确定 但要说
+{\pos(192,288)}It's not the fact of the interest rate policy maybe having been wrong,
+
+389
+0:22:35.66 --> 0:22:37.73
+{\pos(192,275)}利率政策错了  这不对
+{\pos(192,288)}although I'm not even sure I agree on that,
+
+390
+0:22:37.74 --> 0:22:40.29
+{\pos(192,275)}事实是  西方广泛地解除对金融市场的管制
+{\pos(192,288)}but it's the fact that we had these deregulated Wild West
+
+391
+0:22:40.30 --> 0:22:43.42
+{\pos(192,275)}使我们深陷危机的泥沼
+{\pos(192,288)}financial markets that allowed us to get into the crisis we're in.
+
+392
+0:22:44.70 --> 0:22:46.73
+{\pos(192,275)}如同我们这次的金融危机
+{\pos(192,288)}Like our own financial collapse,
+
+393
+0:22:46.74 --> 0:22:51.53
+{\pos(192,275)}全世界都感受到了1929年危机的后果
+{\pos(192,288)}the consequences of the 1929 crash were felt across the world.
+
+394
+0:22:51.54 --> 0:22:53.60
+{\pos(192,275)}一连串的银行危机接踵而至
+{\pos(192,288)}A string of banking crises followed,
+
+395
+0:22:53.61 --> 0:22:58.01
+{\pos(192,275)}美国和大部分欧洲国家发生恐怖的大衰退
+{\pos(192,288)}and a terrible depression in America and much of Europe.
+
+396
+0:22:58.02 --> 0:22:59.65
+{\pos(192,275)}哈耶克坚持说这都是
+{\pos(192,288)}Again, Hayek said it was all down
+
+397
+0:22:59.66 --> 0:23:02.21
+{\pos(192,275)}由于在繁荣年代利率太低所导致的
+{\pos(192,288)}to interest rates being too low in the boom years.
+
+398
+0:23:02.22 --> 0:23:05.41
+{\pos(192,275)}但多年后  另一个有巨大影响力的自由市场思想家
+{\pos(192,288)}But years later, another hugely influential free market thinker
+
+399
+0:23:05.42 --> 0:23:10.21
+{\pos(192,275)}米尔顿·弗里德曼持完全相反的观点
+{\pos(192,288)}came along who argued the exact opposite - Milton Friedman.
+
+400
+0:23:10.22 --> 0:23:11.93
+{\pos(192,275)}他认为美联储
+{\pos(192,288)}He said the Federal Reserve
+
+401
+0:23:11.94 --> 0:23:15.73
+{\pos(192,275)}没有为经济系统注入足够多的货币
+{\pos(192,288)}had not pumped too much money into the system, but too little.
+
+402
+0:23:15.74 --> 0:23:19.36
+{\pos(192,275)}至今  大部分政治家和经济学家
+{\pos(192,288)}That's the version of history that most politicians
+
+403
+0:23:19.38 --> 0:23:21.85
+{\pos(192,275)}还相信这一历史理论
+{\pos(192,288)}and economists still believe.
+
+404
+0:23:23.94 --> 0:23:28.81
+{\pos(192,275)}哈耶克完全错了
+{\pos(192,288)}Hayek was absolutely wrong to think that in the catastrophic depths
+
+405
+0:23:28.82 --> 0:23:34.60
+{\pos(192,275)}他认为上世纪30年代世界经济陷入危机深渊
+{\pos(192,288)}of the Great Depression of the 1930s that all that was happening
+
+406
+0:23:34.61 --> 0:23:37.05
+{\pos(192,275)}是一次清理
+{\pos(192,288)}was an unwinding of the malinvestments
+
+407
+0:23:37.06 --> 0:23:39.08
+{\pos(192,275)}以纠正之前因于鼓励贷款而导致的不当投资
+{\pos(192,288)}that had come from a credit boom.
+
+408
+0:23:39.09 --> 0:23:43.77
+{\pos(192,275)}显然  银行业经历的灾难式崩溃
+{\pos(192,288)}Clearly, there had been a calamitous collapse of the banking sector
+
+409
+0:23:43.78 --> 0:23:48.06
+{\pos(192,275)}也和之前所谓的不当投资行为没有任何关系
+{\pos(192,288)}that had nothing to do with the earlier so-called malinvestment.
+
+410
+0:23:51.57 --> 0:23:55.01
+{\pos(192,275)}面对世界上最糟糕的金融危机  经济学家的问题
+{\pos(192,288)}Facing the world's worst financial meltdown, the issue for economists
+
+411
+0:23:55.02 --> 0:23:58.57
+{\pos(192,275)}和政治家的问题是一致的
+{\pos(192,288)}and politicians was the same as it is today...
+
+412
+0:23:58.57 --> 0:24:00.60
+{\pos(192,275)}我们如何才能赶走衰退?
+{\pos(192,288)}how do we make it go away?
+
+413
+0:24:00.61 --> 0:24:03.21
+{\pos(192,275)}大衰退开始后  哈耶克被邀请
+{\pos(192,288)}As the Great Depression began, Hayek was invited to give
+
+414
+0:24:03.22 --> 0:24:06.82
+{\pos(192,275)}在伦敦经济学院举办一系列的演讲
+{\pos(192,288)}a series of lectures here at the London School of Economics.
+
+415
+0:24:09.57 --> 0:24:13.32
+{\pos(192,275)}哈耶克很激动 他一生都希望来这里
+{\pos(192,288)}Hayek was thrilled. He'd wanted to come here all his life.
+
+416
+0:24:13.33 --> 0:24:16.32
+{\pos(192,275)}但是邀请函后附了一个不算隐秘的行程表
+{\pos(192,288)}But there was a not very hidden agenda attached to the invitation.
+
+417
+0:24:16.33 --> 0:24:18.89
+{\pos(192,275)}伦敦经济学院希望借助哈耶克发起反击
+{\pos(192,288)}LSE wanted him as part of their fight back
+
+418
+0:24:18.90 --> 0:24:22.93
+{\pos(192,275)}因为他当时正与其最主要竞争对手剑桥竞争
+{\pos(192,288)}against a new, very different strand of economic thinking
+
+419
+0:24:22.94 --> 0:24:24.93
+{\pos(192,275)}后者发展出一套全新的  非常特别的经济理论
+{\pos(192,288)}from their arch rivals Cambridge
+
+420
+0:24:24.94 --> 0:24:27.36
+{\pos(192,275)}在当时备受关注
+{\pos(192,288)}that had been getting a lot of attention.
+
+421
+0:24:27.38 --> 0:24:32.36
+{\pos(192,275)}提出这套思想的正是凯恩斯
+{\pos(192,288)}The man driving that new approach was John Maynard Keynes.
+
+422
+0:24:32.38 --> 0:24:36.77
+{\pos(192,275)}上世纪30年代 哈耶克与凯恩斯的大辩论
+{\pos(192,288)}The grand dispute between Keynes and Hayek in the 1930s
+
+423
+0:24:36.78 --> 0:24:41.22
+{\pos(192,275)}在今天仍有重大意义 - 它在网络上引起了轰动
+{\pos(192,288)}seems so relevant to us today - it's become an internet sensation.
+
+424
+0:24:42.94 --> 0:24:47.17
+{\pos(192,275)}凯恩斯先生  哇  太荣幸了
+{\pos(192,288)}Lord Keynes, wow, it's, it... it's such an honour.
+
+425
+0:24:47.18 --> 0:24:48.73
+{\pos(192,275)}确实  先生  请进
+{\pos(192,288)}Indeed, sir. Please, just go.
+
+426
+0:24:48.74 --> 0:24:51.53
+{\pos(192,275)}他们之间思想交锋的超现实再现
+{\pos(192,288)}This surreal reinvention of their battle of ideas
+
+427
+0:24:51.54 --> 0:24:53.82
+{\pos(192,275)}被在线观看了将近200万人次
+{\pos(192,288)}has been watched nearly two million times online.
+
+428
+0:24:55.14 --> 0:24:56.49
+{\pos(192,275)}哈耶克?
+{\pos(192,288)}Hay-ek?
+
+429
+0:24:56.50 --> 0:25:00.94
+{\pos(192,275)}不  高人  就像引发爆炸性思考的高人
+{\pos(192,288)}No, High-ek, like um, high explosives.
+
+430
+0:25:12.85 --> 0:25:16.69
+{\pos(192,275)}哈耶克的对手  凯恩斯是一个重量级的思想家
+{\pos(192,288)}Hayek's opponent, Keynes, was a heavyweight thinker.
+
+431
+0:25:16.70 --> 0:25:20.60
+{\pos(192,275)}经济学上看上去有永不停歇的新势力
+{\pos(192,288)}The seemingly unstoppable new force in economics.
+
+432
+0:25:20.61 --> 0:25:23.09
+{\pos(192,275)}他们的争论有点像大卫与歌利亚
+{\pos(192,288)}The clash felt a bit like David and Goliath.
+
+433
+0:25:25.26 --> 0:25:27.77
+{\pos(192,275)}凯恩斯聪明 成就显赫
+{\pos(192,288)}Keynes had two brains.
+
+434
+0:25:27.78 --> 0:25:30.84
+{\pos(192,275)}他的存在
+{\pos(192,288)}It was said of him that he caused more inferiority complexes
+
+435
+0:25:30.85 --> 0:25:35.29
+{\pos(192,275)}让同龄人感到瑜亮之卑
+{\pos(192,288)}with justification than anyone else in his generation.
+
+436
+0:25:35.30 --> 0:25:39.60
+{\pos(192,275)}哈耶克还寂寂无闻 他比凯恩斯年轻16岁
+{\pos(192,288)}Hayek was not known. He was 16 years younger than Keynes.
+
+437
+0:25:39.61 --> 0:25:42.49
+{\pos(192,275)}他们初次见面的时候就发生了争论
+{\pos(192,288)}They fell out with each other on first meeting
+
+438
+0:25:42.50 --> 0:25:45.05
+{\pos(192,275)}且争论终其一生都没有停止过
+{\pos(192,288)}and continued to fight for the rest of their lives.
+
+439
+0:25:45.06 --> 0:25:48.60
+{\pos(192,275)}随着危机加深  赌注已经不能再高
+{\pos(192,288)}As the Depression deepened the stakes could not have been higher.
+
+440
+0:25:48.61 --> 0:25:52.45
+{\pos(192,275)}哈耶克开始给出一些令人不安的警示
+{\pos(192,288)}Hayek began with some awkward jabs.
+
+441
+0:25:52.46 --> 0:25:58.17
+{\pos(192,275)}在后面的黑板上画一些非常复杂的图表
+{\pos(192,288)}Drawing in rather confused diagrams on a blackboard behind him,
+
+442
+0:25:58.18 --> 0:26:00.60
+{\pos(192,275)}他称其为波动
+{\pos(192,288)}he described what he called "fluctuations",
+
+443
+0:26:00.61 --> 0:26:07.69
+{\pos(192,275)}反映了市场每天的变化过程
+{\pos(192,288)}which were how the market changed from day to day over time,
+
+444
+0:26:07.70 --> 0:26:10.65
+{\pos(192,275)}以及  一旦市场被干扰
+{\pos(192,288)}and how, if you started interfering with it,
+
+445
+0:26:10.66 --> 0:26:13.69
+{\pos(192,275)}事情会如何迅速恶化
+{\pos(192,288)}how things would go wrong pretty quickly.
+
+446
+0:26:13.70 --> 0:26:17.17
+{\pos(192,275)}由此开始了宏伟的经济学辩论
+{\pos(192,288)}The big economic argument that started here
+
+447
+0:26:17.18 --> 0:26:21.29
+{\pos(192,275)}从1931年的这个房间  一致持续至今
+{\pos(192,288)}in this room in 1931 is still going on today.
+
+448
+0:26:21.30 --> 0:26:23.13
+{\pos(192,275)}如果一个经济体陷入困境
+{\pos(192,288)}If an economy gets into trouble,
+
+449
+0:26:23.14 --> 0:26:26.17
+{\pos(192,275)}政府是否应该插手干涉?
+{\pos(192,288)}should the government step in and try and fix it?
+
+450
+0:26:26.18 --> 0:26:31.36
+{\pos(192,275)}凯恩斯说是  哈耶克站在那儿说不是
+{\pos(192,288)}Keynes was saying yes. Hayek stood up there and said no.
+
+451
+0:26:31.38 --> 0:26:34.60
+{\pos(192,275)}这个问题一度如此简单
+{\pos(192,288)}For once, it really was that simple.
+
+452
+0:26:34.61 --> 0:26:37.13
+{\pos(192,275)}对凯恩斯来说  这是一个道德问题
+{\pos(192,288)}For Keynes it was a moral problem.
+
+453
+0:26:37.14 --> 0:26:39.65
+{\pos(192,275)}事实是  失业者
+{\pos(192,288)}The fact was there were people unemployed
+
+454
+0:26:39.66 --> 0:26:41.89
+{\pos(192,275)}理应找回工作
+{\pos(192,288)}and therefore they should be put back to work,
+
+455
+0:26:41.90 --> 0:26:44.01
+{\pos(192,275)}至于怎么找回  并不重要
+{\pos(192,288)}and it didn't really matter how you did it.
+
+456
+0:26:44.02 --> 0:26:47.21
+{\pos(192,275)}对哈耶克来说  则是一件完全不同的事情
+{\pos(192,288)}For Hayek, it was a different thing.
+
+457
+0:26:47.22 --> 0:26:51.29
+{\pos(192,275)}哈耶克认为我们对经济的理解不够
+{\pos(192,288)}Hayek concluded that we really didn't know enough about economics
+
+458
+0:26:51.30 --> 0:26:53.57
+{\pos(192,275)}以至于像凯恩斯等人的任何尝试
+{\pos(192,288)}and that any attempt by people like Keynes
+
+459
+0:26:53.57 --> 0:26:55.29
+{\pos(192,275)}干涉经济
+{\pos(192,288)}to start fooling around with it
+
+460
+0:26:55.30 --> 0:26:58.53
+{\pos(192,275)}将只会导致非预期的结果
+{\pos(192,288)}would only end up with unintended consequences,
+
+461
+0:26:58.54 --> 0:27:01.65
+{\pos(192,275)}而哈耶克认为这些非预期的结果
+{\pos(192,288)}and those unintended consequences, according to Hayek,
+
+462
+0:27:01.66 --> 0:27:06.53
+{\pos(192,275)}将比问题本身更糟糕
+{\pos(192,288)}could be even worse than the problems that were solved.
+
+463
+0:27:06.54 --> 0:27:10.73
+{\pos(192,275)}哈耶克和凯恩斯之间的巨大差异
+{\pos(192,288)}The bitter argument between Hayek and Keynes embodied a fault line
+
+464
+0:27:10.74 --> 0:27:12.85
+{\pos(192,275)}为经济学分出的流派至今仍存在
+{\pos(192,288)}in economics that exists to this day.
+
+465
+0:27:17.18 --> 0:27:20.81
+{\pos(192,275)}这是历史上最伟大的
+{\pos(192,288)}It's one of the great academic disputes in the history
+
+466
+0:27:20.82 --> 0:27:22.49
+{\pos(192,275)}学术辩论之一
+{\pos(192,288)}of intellectual thought.
+
+467
+0:27:22.50 --> 0:27:25.57
+{\pos(192,275)}为今天的左翼和右翼之间的差异定下了基调
+{\pos(192,288)}It set the tone for the difference between left and right today,
+
+468
+0:27:25.57 --> 0:27:27.77
+{\pos(192,275)}也为那些想干预经济的人
+{\pos(192,288)}between those who want to intervene in the economy,
+
+469
+0:27:27.77 --> 0:27:30.09
+{\pos(192,275)}和那些更愿意让经济自行发展的人之间的差异定下了基调
+{\pos(192,288)}and those who would prefer to leave the economy alone.
+
+470
+0:27:35.18 --> 0:27:38.53
+{\pos(192,275)}这是20世纪最重要的学术斗争之一
+{\pos(192,288)}It was one of the most important intellectual battles
+
+471
+0:27:38.54 --> 0:27:41.73
+{\pos(192,275)}当时看来谁获胜是显而易见的
+{\pos(192,288)}of the 20th Century, and at the time it was pretty clear who won...
+
+472
+0:27:41.74 --> 0:27:43.49
+{\pos(192,275)}凯恩斯
+{\pos(192,288)}Keynes.
+
+473
+0:27:43.50 --> 0:27:46.13
+{\pos(192,275)}1933年  大衰退没有任何结束的征兆
+{\pos(192,288)}In 1933, as the Depression showed no sign of ending,
+
+474
+0:27:46.14 --> 0:27:48.73
+{\pos(192,275)}罗斯福总统策划了一个巨大的公共支出计划
+{\pos(192,288)}President Roosevelt instigated a massive public spending programme
+
+475
+0:27:48.74 --> 0:27:52.08
+{\pos(192,275)}看上去非常凯恩斯主义
+{\pos(192,288)}that looked very Keynesian.
+
+476
+0:27:52.09 --> 0:27:56.05
+{\pos(192,275)}在罗斯福新政下  美国各类基础设施被修建
+{\pos(192,288)}Under the New Deal, all kinds of new infrastructure was built
+
+477
+0:27:56.06 --> 0:28:02.01
+{\pos(192,275)}例如纽约中心的这条高架铁路
+{\pos(192,288)}across America, like this elevated railway in the heart of New York.
+
+478
+0:28:02.02 --> 0:28:05.77
+{\pos(192,275)}罗斯福新政载入史册是因为这是史上第一次
+{\pos(192,288)}The New Deal's gone down in history as the first time a country
+
+479
+0:28:05.78 --> 0:28:08.49
+{\pos(192,275)}正式试图通过政府支出将经济带出困境
+{\pos(192,288)}seriously tried to spend its way out of recession,
+
+480
+0:28:08.50 --> 0:28:11.97
+{\pos(192,275)}哈耶克当时就认为这是错的
+{\pos(192,288)}but even at the time, Hayek thought that was a mistake.
+
+481
+0:28:11.98 --> 0:28:15.73
+{\pos(192,275)}他认为经济所需要的是一个清理期间
+{\pos(192,288)}He thought what the economy needed was a period of cleansing.
+
+482
+0:28:15.74 --> 0:28:18.65
+{\pos(192,275)}淘汰繁荣时期的错误投资
+{\pos(192,288)}Get past all that bad investment from the boom,
+
+483
+0:28:18.66 --> 0:28:22.46
+{\pos(192,275)}摆脱孱弱的企业  留下最健康的
+{\pos(192,288)}get rid of all the weak businesses, let the fittest survive.
+
+484
+0:28:24.06 --> 0:28:26.89
+{\pos(192,275)}哈耶克认为罗斯福新政是一种人工兴奋剂
+{\pos(192,288)}Hayek saw the New Deal as an artificial stimulant
+
+485
+0:28:26.90 --> 0:28:31.69
+{\pos(192,275)}妨碍了市场原本具有的系统自愈能力
+{\pos(192,288)}preventing the market naturally healing its damaged ecosystem.
+
+486
+0:28:31.70 --> 0:28:35.32
+{\pos(192,275)}政府与其干预市场不如退出
+{\pos(192,288)}Rather than stepping in, government should step back
+
+487
+0:28:35.33 --> 0:28:37.42
+{\pos(192,275)}让经济衰退自行其道
+{\pos(192,288)}and let the recession do its job.
+
+488
+0:28:39.38 --> 0:28:44.13
+{\pos(192,275)}哈耶克认为衰退才是回归正常
+{\pos(192,288)}Hayek thought that the recession was the return to normalcy.
+
+489
+0:28:44.14 --> 0:28:48.36
+{\pos(192,275)}繁荣是由于糟糕的政策导致  一旦衰退开始
+{\pos(192,288)}That the boom was caused by bad policy, but once the recession
+
+490
+0:28:48.38 --> 0:28:51.69
+{\pos(192,275)}经济开始回归常态
+{\pos(192,288)}started that was the return of the economy to normalcy.
+
+491
+0:28:51.70 --> 0:28:55.21
+{\pos(192,275)}它将导致部分项目的清算
+{\pos(192,288)}It would involve liquidation of certain projects
+
+492
+0:28:55.22 --> 0:28:58.09
+{\pos(192,275)}这些项目已经启动却无法持续
+{\pos(192,288)}that had been starting that were not sustainable.
+
+493
+0:28:59.85 --> 0:29:02.49
+{\pos(192,275)}但深陷资本主义有史以来最严重危机之中
+{\pos(192,288)}But in the depths of capitalism's worst ever crisis,
+
+494
+0:29:02.50 --> 0:29:07.05
+{\pos(192,275)}政治家们无法理解哈耶克的警世危言
+{\pos(192,288)}Hayek's tough message was too much for most politicians to swallow.
+
+495
+0:29:07.06 --> 0:29:09.14
+{\pos(192,275)}他被忽视了
+{\pos(192,288)}He was ignored.
+
+496
+0:29:12.26 --> 0:29:14.93
+{\pos(192,275)}一个世纪中反反复复
+{\pos(192,288)}? Going back and forth for a century
+
+497
+0:29:14.94 --> 0:29:16.73
+{\pos(192,275)}我希望引导市场运行
+{\pos(192,288)}? I want to steer markets
+
+498
+0:29:16.74 --> 0:29:18.73
+{\pos(192,275)}我希望市场自由运行
+{\pos(192,288)}? I want them set free
+
+499
+0:29:18.74 --> 0:29:21.69
+{\pos(192,275)}繁荣和衰退交替始终存在  令人惧怕
+{\pos(192,288)}? There's a boom and bust cycle and good reason to fear it
+
+500
+0:29:21.70 --> 0:29:23.36
+{\pos(192,275)}谴责低利率
+{\pos(192,288)}? Blame low interest rates
+
+501
+0:29:23.38 --> 0:29:25.01
+{\pos(192,275)}不  是野兽精神
+{\pos(192,288)}? No, it's the animal spirits... ?
+
+502
+0:29:25.02 --> 0:29:28.65
+{\pos(192,275)}凯恩斯的理论在修辞学上是一个充满希望的理论
+{\pos(192,288)}Keynes' message rhetorically is a hopeful message
+
+503
+0:29:28.66 --> 0:29:31.77
+{\pos(192,275)}在某种意义上  它说的是我们
+{\pos(192,288)}in the sense that it says "we",
+
+504
+0:29:31.78 --> 0:29:35.01
+{\pos(192,275)}而这个我们指的是政府
+{\pos(192,288)}and that "we" being the government,
+
+505
+0:29:35.02 --> 0:29:38.01
+{\pos(192,275)}能够积极主动的处理问题
+{\pos(192,288)}can do something proactive about this.
+
+506
+0:29:38.02 --> 0:29:43.60
+{\pos(192,275)}哈耶克的理论没有提供类似的政策
+{\pos(192,288)}The Hayekian view doesn't offer that sort of policy,
+
+507
+0:29:43.61 --> 0:29:45.66
+{\pos(192,275)}也没有提供选项
+{\pos(192,288)}doesn't offer that option.
+
+508
+0:29:50.74 --> 0:29:57.17
+{\pos(192,275)}2008年金融危机来袭  政治家们无以应对
+{\pos(192,288)}When the financial crisis hit in 2008 policymakers were blindsided.
+
+509
+0:29:57.18 --> 0:29:58.93
+{\pos(192,275)}莱曼兄弟
+{\pos(192,288)}After Lehman Brothers...
+
+510
+0:29:58.94 --> 0:30:02.29
+{\pos(192,275)}世界上最著名的投行之一破产后
+{\pos(192,288)}one of the world's most famous investment banks - went down,
+
+511
+0:30:02.30 --> 0:30:05.57
+{\pos(192,275)}美国政府迅速转向凯恩斯
+{\pos(192,288)}the American government swiftly turned to Keynes
+
+512
+0:30:05.57 --> 0:30:08.14
+{\pos(192,275)}试图阻止危机蔓延
+{\pos(192,288)}to try to stop the damage spreading.
+
+513
+0:30:09.94 --> 0:30:13.81
+{\pos(192,275)}金融系统的崩溃威胁到了这里的人们
+{\pos(192,288)}The meltdown in the financial system terrified the people in there.
+
+514
+0:30:13.82 --> 0:30:16.84
+{\pos(192,275)}政府开始实施规模巨大的干预
+{\pos(192,288)}They started intervening on an epic scale
+
+515
+0:30:16.85 --> 0:30:20.01
+{\pos(192,275)}花费数千亿美元提振银行
+{\pos(192,288)}spending hundreds of billions of dollars propping up banks,
+
+516
+0:30:20.02 --> 0:30:23.17
+{\pos(192,275)}保险公司 甚至美国的大型汽车制造商
+{\pos(192,288)}insurance companies, even America's biggest car firms
+
+517
+0:30:23.18 --> 0:30:24.60
+{\pos(192,275)}以防止他们走向衰退
+{\pos(192,288)}to stop them going bust.
+
+518
+0:30:24.61 --> 0:30:27.57
+{\pos(192,275)}不要忘了是一个共和党的信奉自由市场的总统
+{\pos(192,288)}Remember that started under a Republican free market president...
+
+519
+0:30:27.57 --> 0:30:31.57
+{\pos(192,275)}乔治·布什开始该政策   然后奥巴马延续该政策
+{\pos(192,288)}George Bush, and then carried on under President Obama.
+
+520
+0:30:31.57 --> 0:30:34.57
+{\pos(192,275)}很显然  他们都不希望看到
+{\pos(192,288)}Apparently, neither of them wanted to see the deep cleansing
+
+521
+0:30:34.57 --> 0:30:37.54
+{\pos(192,275)}哈耶克所提倡的经济彻底清理
+{\pos(192,288)}of the economy that Hayek would have recommended.
+
+522
+0:30:39.33 --> 0:30:42.13
+{\pos(192,275)}这不是说很高兴我们需要一场衰退
+{\pos(192,288)}It's not like I'm glad that we need a recession.
+
+523
+0:30:42.14 --> 0:30:44.32
+{\pos(192,275)}而是很不幸我们需要这场衰退
+{\pos(192,288)}It's unfortunate that we need this recession.
+
+524
+0:30:44.33 --> 0:30:47.05
+{\pos(192,275)}如果政府没有干预经济
+{\pos(192,288)}Had the government not interfered in the economy,
+
+525
+0:30:47.06 --> 0:30:49.29
+{\pos(192,275)}就如同我主张的一样
+{\pos(192,288)}in ways that I would have been against,
+
+526
+0:30:49.30 --> 0:30:51.60
+{\pos(192,275)}我们本可以不经历这场虚假繁荣
+{\pos(192,288)}we never would have had this phony boom.
+
+527
+0:30:51.61 --> 0:30:53.33
+{\pos(192,275)}也就是说  如果我们没有吸毒
+{\pos(192,288)}In other words, if we didn't take drugs,
+
+528
+0:30:53.33 --> 0:30:55.41
+{\pos(192,275)}我们就可以不用经历这场戒毒
+{\pos(192,288)}we wouldn't need to go through the withdrawal.
+
+529
+0:30:55.42 --> 0:30:59.25
+{\pos(192,275)}2008年  纵观全球
+{\pos(192,288)}In that period in 2008, right across the world,
+
+530
+0:30:59.26 --> 0:31:03.41
+{\pos(192,275)}人们自危  这会导致一个
+{\pos(192,288)}people were scared stiff that this was going to go from a recession
+
+531
+0:31:03.42 --> 0:31:06.45
+{\pos(192,275)}直线式的衰退  而当今世界是如此的一体化以至于
+{\pos(192,288)}into a downright depression, and the world is so global now
+
+532
+0:31:06.46 --> 0:31:08.73
+{\pos(192,275)}衰退将很轻易蔓延至全球
+{\pos(192,288)}these things could easily have spread,
+
+533
+0:31:08.74 --> 0:31:11.36
+{\pos(192,275)}这是人们担心的原因 你知道
+{\pos(192,288)}that's why people thought, you know,
+
+534
+0:31:11.38 --> 0:31:15.36
+{\pos(192,275)}不同的国家  我们必须做任何事情阻止其发生
+{\pos(192,288)}"Different countries, we've got to do whatever it takes to stop that."
+
+535
+0:31:15.38 --> 0:31:17.77
+{\pos(192,275)}如今  英国和美国的央行
+{\pos(192,288)}Today, central banks in Britain and America
+
+536
+0:31:17.78 --> 0:31:20.32
+{\pos(192,275)}正在追求另一个凯恩斯主义目标
+{\pos(192,288)}are pursuing another Keynesian idea...
+
+537
+0:31:20.33 --> 0:31:23.89
+{\pos(192,275)}保持低利率  鼓励借款
+{\pos(192,288)}keeping interest rates low, encouraging borrowing
+
+538
+0:31:23.90 --> 0:31:25.77
+{\pos(192,275)}从而刺激经济活动
+{\pos(192,288)}to stimulate economic activity.
+
+539
+0:31:25.78 --> 0:31:29.81
+{\pos(192,275)}纵观奥地利的历史  哈耶克认为
+{\pos(192,288)}But if you follow the Austrian, Hayek view it's all worse
+
+540
+0:31:29.82 --> 0:31:33.13
+{\pos(192,275)}这不仅无意义而且错误  因为这种市场干预
+{\pos(192,288)}than pointless, because this intervention in the market
+
+541
+0:31:33.14 --> 0:31:35.84
+{\pos(192,275)}为更大的灾难创造了条件
+{\pos(192,288)}is setting the stage for an even greater disaster.
+
+542
+0:31:35.85 --> 0:31:39.57
+{\pos(192,275)}你怎么看待哈耶克和
+{\pos(192,288)}What do you think is the relevance of Hayek
+
+543
+0:31:39.57 --> 0:31:41.81
+{\pos(192,275)}美联储如今所作所为的关系?
+{\pos(192,288)}to what the Fed's doing now?
+
+544
+0:31:41.82 --> 0:31:44.77
+{\pos(192,275)}先往火里泼煤油  然后试图熄灭它
+{\pos(192,288)}Pouring kerosene on the fire and trying to put it out.
+
+545
+0:31:44.78 --> 0:31:48.53
+{\pos(192,275)}他们试图用更多的贷款解决贷款过量的问题
+{\pos(192,288)}They're trying to stop the problem of excessive credit with more credit.
+
+546
+0:31:48.54 --> 0:31:52.97
+{\pos(192,275)}但是他们所做的不过是重新开始另一个问题
+{\pos(192,288)}But all that it does is re-start the problems again
+
+547
+0:31:52.98 --> 0:31:54.84
+{\pos(192,275)}创造一个新的泡沫
+{\pos(192,288)}and you create a new bubble.
+
+548
+0:31:54.85 --> 0:31:59.21
+{\pos(192,275)}泡沫现在还存在于美元估值和债券市场
+{\pos(192,288)}And the bubble now is in the value of the dollar and the bond market.
+
+549
+0:31:59.22 --> 0:32:01.33
+{\pos(192,275)}它是无法持续的
+{\pos(192,288)}And it's unsustainable.
+
+550
+0:32:02.94 --> 0:32:05.01
+{\pos(192,275)}哈耶克与凯恩斯的争论
+{\pos(192,288)}Hayek's argument with Keynes
+
+551
+0:32:05.02 --> 0:32:08.29
+{\pos(192,275)}在于如何使资本主义更好的运行
+{\pos(192,288)}was all about how best to make capitalism work.
+
+552
+0:32:08.30 --> 0:32:13.01
+{\pos(192,275)}但30年代  哈耶克被卷入了一个更大的战争
+{\pos(192,288)}But as the '30s moved on Hayek was drawn into a far greater battle.
+
+553
+0:32:13.02 --> 0:32:16.49
+{\pos(192,275)}资本主义是否是组织社会的正确方法
+{\pos(192,288)}Whether capitalism was even the right way to organise society
+
+554
+0:32:16.50 --> 0:32:20.77
+{\pos(192,275)}抑或像共产主义和法西斯主义的新意识形态那样
+{\pos(192,288)}or if the new ideologies of Communism and Fascism,
+
+555
+0:32:20.78 --> 0:32:24.32
+{\pos(192,275)}诉诸中央计划经济来解决问题
+{\pos(192,288)}with their centrally-planned systems held the answer.
+
+556
+0:32:24.33 --> 0:32:28.49
+{\pos(192,275)}他认为两者都是完全错误的
+{\pos(192,288)}He was convinced both were utterly wrong.
+
+557
+0:32:28.50 --> 0:32:33.89
+{\pos(192,275)}哈耶克说  人类几乎不可能了解
+{\pos(192,288)}Hayek said, "Not merely can human beings struggle to understand
+
+558
+0:32:33.90 --> 0:32:36.29
+{\pos(192,275)}如何应对不确定性
+{\pos(192,288)}"how to cope with uncertainty,
+
+559
+0:32:36.30 --> 0:32:38.53
+{\pos(192,275)}世界过于复杂
+{\pos(192,288)}"but the world is just too complex for them to cope
+
+560
+0:32:38.53 --> 0:32:40.02
+{\pos(192,275)}如果想要理解全部的话
+{\pos(192,288)}"with understanding all of it."
+
+561
+0:32:41.38 --> 0:32:45.53
+{\pos(192,275)}市场体制传递了如此多的信息  并有效运行
+{\pos(192,288)}A market system conveys so much information that makes it feasible.
+
+562
+0:32:45.54 --> 0:32:49.05
+{\pos(192,275)}在无法理解经济复杂性的重压之下
+{\pos(192,288)}Central planning will fail under the weight of the impossibility
+
+563
+0:32:49.06 --> 0:32:51.77
+{\pos(192,275)}计划经济定将失败
+{\pos(192,288)}of understanding the complexity of the economy.
+
+564
+0:32:51.78 --> 0:32:53.57
+{\pos(192,275)}这是哈耶克最重要的观点
+{\pos(192,288)}That was Hayek's most important insight,
+
+565
+0:32:53.57 --> 0:32:56.57
+{\pos(192,275)}如果人们听进去了
+{\pos(192,288)}and if people had listened to that they would never have been
+
+566
+0:32:56.57 --> 0:33:00.77
+{\pos(192,275)}就根本用不着担心来自共产主义的威胁
+{\pos(192,288)}so worried about the threat from communism as they were,
+
+567
+0:33:00.78 --> 0:33:05.21
+{\pos(192,275)}因为计划经济因其自身矛盾必然会失败
+{\pos(192,288)}because central planning failed under the weight of its own inconsistency.
+
+568
+0:33:05.22 --> 0:33:08.69
+{\pos(192,275)}哈耶克看到了计划经济的成本
+{\pos(192,288)}Hayek had seen the economic costs of central planning
+
+569
+0:33:08.70 --> 0:33:12.53
+{\pos(192,275)}但是二战使他将精力集中在了政治领域
+{\pos(192,288)}but World War Two made him focus on the political implications.
+
+570
+0:33:12.54 --> 0:33:15.45
+{\pos(192,275)}当然  他不希望同盟国失败
+{\pos(192,288)}Of course, he didn't want the Allies to lose the war,
+
+571
+0:33:15.46 --> 0:33:18.81
+{\pos(192,275)}但是观察到战争因素正在改变经济
+{\pos(192,288)}but seeing how the war effort was changing the economy
+
+572
+0:33:18.82 --> 0:33:21.41
+{\pos(192,275)}他担心一旦同盟国获胜  结果会怎样
+{\pos(192,288)}made him worry about what would happen if they won.
+
+573
+0:33:21.42 --> 0:33:24.25
+{\pos(192,275)}他不希望击败纳粹后却发现
+{\pos(192,288)}He didn't want to defeat the Nazis and then find
+
+574
+0:33:24.26 --> 0:33:27.98
+{\pos(192,275)}我们将自由拱手交给了一群官僚
+{\pos(192,288)}we'd handed our freedom to an army of bureaucrats instead.
+
+575
+0:33:29.82 --> 0:33:31.81
+{\pos(192,275)}当二战开始
+{\pos(192,288)}When the Second World War began,
+
+576
+0:33:31.82 --> 0:33:35.25
+{\pos(192,275)}英国政府接管了经济
+{\pos(192,288)}the British government took control of the economy
+
+577
+0:33:35.26 --> 0:33:38.89
+{\pos(192,275)}利用其威力为战争服务
+{\pos(192,288)}to harness its power for the war effort.
+
+578
+0:33:38.90 --> 0:33:40.94
+{\pos(192,275)}哈耶克担心他们将不会让经济重返自由
+{\pos(192,288)}Hayek worried they would never let go.
+
+579
+0:33:43.50 --> 0:33:46.29
+{\pos(192,275)}社会上  尤以是社会主义者有极大的热情
+{\pos(192,288)}There was a lot of enthusiasm, especially among socialists,
+
+580
+0:33:46.30 --> 0:33:49.25
+{\pos(192,275)}要在二战结束后仍执行计划经济
+{\pos(192,288)}to continue the planning that had taken place during World War Two
+
+581
+0:33:49.26 --> 0:33:51.32
+{\pos(192,275)}如同战时所执行的一样
+{\pos(192,288)}after the war was over.
+
+582
+0:33:51.33 --> 0:33:54.13
+{\pos(192,275)}一个政府巡查员在检查
+{\pos(192,288)}'A government inspector checks
+
+583
+0:33:54.14 --> 0:33:56.97
+{\pos(192,275)}测量值是90英寸
+{\pos(192,288)}'that the measurements are 90 inches long.'
+
+584
+0:33:56.98 --> 0:34:00.29
+{\pos(192,275)}当财政部的工作人员决定
+{\pos(192,288)}As men from the ministry dictated how many blankets
+
+585
+0:34:00.30 --> 0:34:03.49
+{\pos(192,275)}每个毛毯生产商生产多少毛毯  哈耶克开始著书
+{\pos(192,288)}each blanket factory produced, Hayek began writing a book
+
+586
+0:34:03.50 --> 0:34:08.25
+{\pos(192,275)}批评政府对经济的控制
+{\pos(192,288)}attacking the government's control of the economy.
+
+587
+0:34:08.25 --> 0:34:12.48
+{\pos(192,275)}这本书帮助改变了20世纪的进程
+{\pos(192,288)}It would help change the course of the 20th century
+
+588
+0:34:12.50 --> 0:34:15.85
+{\pos(192,275)}引发了一场延续至今的政治斗争
+{\pos(192,288)}and start a political battle that runs to this day.
+
+589
+0:34:17.93 --> 0:34:24.00
+{\pos(192,275)}这是我公公手稿的复印件
+{\pos(192,288)}And there is a handwritten copy
+
+590
+0:34:24.02 --> 0:34:28.64
+{\pos(192,275)}就写一个本普通的孩童练习本上
+{\pos(192,288)}by my father-in-law, in an ordinary child's exercise book,
+
+591
+0:34:28.65 --> 0:34:31.00
+{\pos(192,275)}《通往奴役之路》
+{\pos(192,288)}of the Road to Serfdom.
+
+592
+0:34:31.02 --> 0:34:36.44
+{\pos(192,275)}他写道  这是第三或第四稿
+{\pos(192,288)}He has written on it - "This is about the third or fourth draft
+
+593
+0:34:36.46 --> 0:34:41.48
+{\pos(192,275)}之前更长的打印稿由于错误已经被毁
+{\pos(192,288)}"from a longer typescript later destroyed by mistake."
+
+594
+0:34:41.50 --> 0:34:48.33
+{\pos(192,275)}所以这是幸存的通往奴役之路的手稿
+{\pos(192,288)}And so that is the draft that survived of the Road to Serfdom.
+
+595
+0:34:48.33 --> 0:34:51.88
+{\pos(192,275)}在书中  哈耶克提出了一个道德议题
+{\pos(192,288)}In The Road to Serfdom, Hayek makes a moral argument
+
+596
+0:34:51.89 --> 0:34:55.77
+{\pos(192,275)}政府试图控制经济
+{\pos(192,288)}that government attempts to control the economy
+
+597
+0:34:55.77 --> 0:34:58.64
+{\pos(192,275)}最终将导致其国民被奴役
+{\pos(192,288)}ultimately enslave its people.
+
+598
+0:34:58.66 --> 0:35:01.21
+{\pos(192,275)}当我们赋予国家越来越多权力时
+{\pos(192,288)}When we give more and more power to the state,
+
+599
+0:35:01.22 --> 0:35:04.77
+{\pos(192,275)}将逐渐产生腐败  首先是腐蚀经济自由
+{\pos(192,288)}gradually there is an erosion of first, economic freedom,
+
+600
+0:35:04.77 --> 0:35:07.97
+{\pos(192,275)}然后最终腐蚀政治自由
+{\pos(192,288)}and then ultimately, political freedom.
+
+601
+0:35:07.98 --> 0:35:10.68
+{\pos(192,275)}政治自由的腐蚀将导致人们需要
+{\pos(192,288)}That erosion of political freedom then leads people to demand
+
+602
+0:35:10.70 --> 0:35:13.29
+{\pos(192,275)}一个强大的独裁者解决所有问题
+{\pos(192,288)}a strong man, a dictator to sort everything out,
+
+603
+0:35:13.29 --> 0:35:15.85
+{\pos(192,275)}确保火车准点 以及解决其他所有问题
+{\pos(192,288)}make the trains run on time and everything else,
+
+604
+0:35:15.85 --> 0:35:19.33
+{\pos(192,275)}这会不可避免的导致极权主义
+{\pos(192,288)}and that this leads inexorably down the road to totalitarianism.
+
+605
+0:35:20.46 --> 0:35:24.64
+{\pos(192,275)}书中写道  献给所有党派的社会主义者
+{\pos(192,288)}It says, "To the socialists of all parties."
+
+606
+0:35:24.66 --> 0:35:29.33
+{\pos(192,275)}他喜欢这个  他对提出这个感到很愉悦
+{\pos(192,288)}He loved it. He was so amused when he thought it up.
+
+607
+0:35:29.33 --> 0:35:34.89
+{\pos(192,275)}《通往奴役之路》1944年在英国悄无声息的出版
+{\pos(192,288)}The Road to Serfdom was published in Britain in 1944 with little fanfare.
+
+608
+0:35:36.02 --> 0:35:39.25
+{\pos(192,275)}但是大西洋彼岸  则完全不同
+{\pos(192,288)}But across the Atlantic, things were very different.
+
+609
+0:35:39.25 --> 0:35:44.12
+{\pos(192,275)}1945年4月  哈耶克同意在美国的大学中
+{\pos(192,288)}In April 1945 Hayek agreed to give a short lecture tour
+
+610
+0:35:44.14 --> 0:35:46.21
+{\pos(192,275)}举办一个简短的演讲旅行
+{\pos(192,288)}of American universities.
+
+611
+0:35:46.22 --> 0:35:49.73
+{\pos(192,275)}在到达之前  他的书已经获得了
+{\pos(192,288)}Before he arrived, his book got the kind of publicity
+
+612
+0:35:49.74 --> 0:35:51.52
+{\pos(192,275)}金钱都买不到的宣传
+{\pos(192,288)}that money can't buy.
+
+613
+0:35:51.54 --> 0:35:57.21
+{\pos(192,275)}读者文摘给予哈耶克头版的地位以及一篇振奋人心的介绍
+{\pos(192,288)}Reader's Digest gave Hayek top billing and a rousing introduction,
+
+614
+0:35:57.22 --> 0:36:00.29
+{\pos(192,275)}《通往奴役之路》的某些书评
+{\pos(192,288)}quoting from some of the reviews that the Road to Serfdom had got.
+
+615
+0:36:00.29 --> 0:36:04.45
+{\pos(192,275)}称其为"我们时代最重要的书籍"
+{\pos(192,288)}Calling it "One of the most important books of our generation."
+
+616
+0:36:04.46 --> 0:36:07.52
+{\pos(192,275)}哈耶克教授通过强大且严谨的逻辑
+{\pos(192,288)}"Professor Hayek with great power and rigour of reasoning
+
+617
+0:36:07.54 --> 0:36:10.56
+{\pos(192,275)}向美国人和英国人发出了严峻的警告
+{\pos(192,288)}"sounds a grim warning to Americans and Britons who look
+
+618
+0:36:10.58 --> 0:36:12.41
+{\pos(192,275)}他们依靠政府提供的出路
+{\pos(192,288)}"to the government to provide the way out
+
+619
+0:36:12.41 --> 0:36:14.06
+{\pos(192,275)}解决自身所有的经济困境
+{\pos(192,288)}"of all our economic difficulties."
+
+620
+0:36:14.06 --> 0:36:18.33
+{\pos(192,275)}这本书理应赢得"最广泛的读者"
+{\pos(192,288)}And it should have "the widest possible audience".
+
+621
+0:36:18.33 --> 0:36:20.18
+{\pos(192,275)}而这正是本书所得到的
+{\pos(192,288)}And that's exactly what the book got.
+
+622
+0:36:20.18 --> 0:36:24.16
+{\pos(192,275)}读者文摘有超过800万的订阅者
+{\pos(192,288)}Reader's Digest had more than 8 million subscribers.
+
+623
+0:36:24.18 --> 0:36:27.16
+{\pos(192,275)}哈耶克关于庞大政府危险性的警告
+{\pos(192,288)}Hayek's warning about the dangers of big government
+
+624
+0:36:27.18 --> 0:36:29.41
+{\pos(192,275)}引起了许多美国民众的共鸣
+{\pos(192,288)}struck a chord with many Americans.
+
+625
+0:36:30.46 --> 0:36:33.77
+{\pos(192,275)}《通往奴役之路》很符合
+{\pos(192,288)}The Road to Serfdom really fitted in with the notions
+
+626
+0:36:33.77 --> 0:36:37.49
+{\pos(192,275)}美国的个人主义观念
+{\pos(192,288)}of American individualism and the sense that anybody
+
+627
+0:36:37.50 --> 0:36:41.12
+{\pos(192,275)}即任何人都能通过勤奋工作成为百万富翁
+{\pos(192,288)}could become a millionaire if only they were to work hard enough,
+
+628
+0:36:41.14 --> 0:36:45.21
+{\pos(192,275)}也契合美国从其建国伊始国父们就有的担忧
+{\pos(192,288)}and an anxiety which came right from the founding fathers about whether
+
+629
+0:36:45.22 --> 0:36:49.06
+{\pos(192,275)}担心联邦政府是否应从各州获取过多的权力
+{\pos(192,288)}the federal government should take too much power from the states.
+
+630
+0:36:50.10 --> 0:36:53.64
+{\pos(192,275)}二战后  随着福利国家的出现
+{\pos(192,288)}After the war the size and reach of government
+
+631
+0:36:53.66 --> 0:36:57.73
+{\pos(192,275)}在整个西方世界  政府的规模和触角都有增长
+{\pos(192,288)}did grow across the Western world with the rise of the welfare state.
+
+632
+0:36:57.74 --> 0:37:00.60
+{\pos(192,275)}在英国  许多产业甚至国有化了
+{\pos(192,288)}In Britain much of the economy was even nationalised...
+
+633
+0:37:00.62 --> 0:37:03.29
+{\pos(192,275)}被政府接管
+{\pos(192,288)}taken over by the state.
+
+634
+0:37:03.29 --> 0:37:09.77
+{\pos(192,275)}阅读哈耶克给出了一种解释
+{\pos(192,288)}Reading Hayek gave a kind of explanation of why
+
+635
+0:37:09.77 --> 0:37:12.04
+{\pos(192,275)}为什么我们所犯的错误还在延续
+{\pos(192,288)}what had gone wrong was going wrong.
+
+636
+0:37:12.06 --> 0:37:18.56
+{\pos(192,275)}哈耶克提出了另一番愿景  在我看来是非常有说服力的
+{\pos(192,288)}Hayek gave an alternative vision which seemed to me to be very cogent.
+
+637
+0:37:18.58 --> 0:37:24.00
+{\pos(192,275)}一言以蔽之  即法制范围内的自由
+{\pos(192,288)}What it boiled down to was freedom within the rule of law.
+
+638
+0:37:24.02 --> 0:37:26.33
+{\pos(192,275)}他想说的
+{\pos(192,288)}What he was read to say
+
+639
+0:37:26.33 --> 0:37:31.97
+{\pos(192,275)}事实上  至上世纪60年代他才表露出
+{\pos(192,288)}and actually himself moved to say by the 1960s,
+
+640
+0:37:31.98 --> 0:37:37.89
+{\pos(192,275)}社会福利制度会把
+{\pos(192,288)}was that moving to a social welfare society would eat away
+
+641
+0:37:37.89 --> 0:37:40.04
+{\pos(192,275)}一个健康的民主社会坐吃山空
+{\pos(192,288)}at the health of democracy.
+
+642
+0:37:40.06 --> 0:37:44.60
+{\pos(192,275)}我认为这是他的一个失误预测 严重失误
+{\pos(192,288)}I think it's one of his failed predictions, badly failed,
+
+643
+0:37:44.62 --> 0:37:48.45
+{\pos(192,275)}尽管这仍是他思想中一个非常有影响力的论点
+{\pos(192,288)}even though it remains an influential part of his thinking now
+
+644
+0:37:48.46 --> 0:37:51.81
+{\pos(192,275)}仍有大量自由主义者追随
+{\pos(192,288)}with many followers in the libertarian mode.
+
+645
+0:37:51.81 --> 0:37:55.12
+{\pos(192,275)}今天  通往奴役之路回来了
+{\pos(192,288)}Today, the Road to Serfdom is back.
+
+646
+0:37:55.14 --> 0:37:58.04
+{\pos(192,275)}这书就像全盛时期的迈克·泰森
+{\pos(192,288)}'This book was like Mike Tyson in his prime.
+
+647
+0:37:58.06 --> 0:38:01.77
+{\pos(192,275)}对西欧和美国的社会主义者给了重重一击
+{\pos(192,288)}'Right hook to Socialism in Western Europe and in the United States.
+
+648
+0:38:01.77 --> 0:38:03.25
+{\pos(192,275)}但其影响力并没有...
+{\pos(192,288)}'But the influence didn't...'
+
+649
+0:38:03.25 --> 0:38:06.45
+{\pos(192,275)}2010年格兰贝克的福克斯新闻播出后
+{\pos(192,288)}After Glenn Beck's Fox News broadcast in 2010,
+
+650
+0:38:06.46 --> 0:38:10.29
+{\pos(192,275)}通往奴役之路在美国亚马逊图书排行榜上攀升至第一
+{\pos(192,288)}The Road to Serfdom shot to number one on Amazon in America.
+
+651
+0:38:10.29 --> 0:38:11.77
+{\pos(192,275)}罗纳德·里根
+{\pos(192,288)}'Ronald Regan...'
+
+652
+0:38:11.77 --> 0:38:14.33
+{\pos(192,275)}试想，那些会成为格兰贝克节目听众的人
+{\pos(192,288)}If you think about the people that would have been
+
+653
+0:38:14.33 --> 0:38:18.21
+{\pos(192,275)}有时会被定义为茶党
+{\pos(192,288)}part of Glenn Beck's audience, sometimes defined as the Tea Party.
+
+654
+0:38:18.22 --> 0:38:19.89
+{\pos(192,275)}看看我们所做的
+{\pos(192,288)}'Look at what we're doing!
+
+655
+0:38:19.89 --> 0:38:22.60
+{\pos(192,275)}我们现在有国有汽车公司  国有银行
+{\pos(192,288)}'We now have a government car company, government banks
+
+656
+0:38:22.62 --> 0:38:27.37
+{\pos(192,275)}哈耶克指出这条路只可能走向一个终点
+{\pos(192,288)}'and Hayek demonstrates this road leads to one destination.'
+
+657
+0:38:27.37 --> 0:38:30.64
+{\pos(192,275)}对政府的嘲讽蔓延很广
+{\pos(192,288)}There is cynicism about government and it's quite widespread,
+
+658
+0:38:30.66 --> 0:38:31.77
+{\pos(192,275)}还有许多愤怒
+{\pos(192,288)}there's a lot of anger.
+
+659
+0:38:31.77 --> 0:38:33.89
+{\pos(192,275)}无疑会导致...
+{\pos(192,288)}That certainly would feed into...
+
+660
+0:38:33.89 --> 0:38:37.08
+{\pos(192,275)}刚好  这又有一个大谈特谈大政府危害的人
+{\pos(192,288)}Well, here's a guy who talked about the dangers of big government.
+
+661
+0:38:37.10 --> 0:38:40.89
+{\pos(192,275)}事实上  哈耶克赞同政府
+{\pos(192,288)}In fact, Hayek was in favour of governments
+
+662
+0:38:40.89 --> 0:38:43.00
+{\pos(192,275)}提供一定程度的安全网络
+{\pos(192,288)}providing some kind of safety net.
+
+663
+0:38:43.02 --> 0:38:46.33
+{\pos(192,275)}但是  他的现代追随者不愿意深究这个观点
+{\pos(192,288)}But his modern supporters don't like to dwell on that.
+
+664
+0:38:46.33 --> 0:38:49.52
+{\pos(192,275)}现在比他写书的时候更盛行社会主义
+{\pos(192,288)}Well, we have a lot more socialism now than when he wrote it.
+
+665
+0:38:49.54 --> 0:38:53.21
+{\pos(192,275)}由于长时间以来社会主义悄然而缓慢地体现于经济中
+{\pos(192,288)}As socialism creeps in the economy slowly over time,
+
+666
+0:38:53.22 --> 0:38:55.25
+{\pos(192,275)}许多人才没有注意到它
+{\pos(192,288)}a lot of people don't notice it.
+
+667
+0:38:55.25 --> 0:38:58.56
+{\pos(192,275)}而最终  你将发现你不是在通往奴役的路上
+{\pos(192,288)}And eventually, you know, you're not on the road to serfdom,
+
+668
+0:38:58.58 --> 0:39:00.12
+{\pos(192,275)}你已经被奴役了
+{\pos(192,288)}you've arrived at serfdom.
+
+669
+0:39:00.14 --> 0:39:03.25
+{\pos(192,275)}想想维多利亚时期的英国
+{\pos(192,288)}Think about Victorian Britain.
+
+670
+0:39:03.25 --> 0:39:06.08
+{\pos(192,275)}一个无可争议的自由市场
+{\pos(192,288)}That was certainly a very free market,
+
+671
+0:39:06.10 --> 0:39:09.60
+{\pos(192,275)}政府干预少之又少
+{\pos(192,288)}there was a minimum government intervention.
+
+672
+0:39:09.62 --> 0:39:13.21
+{\pos(192,275)}我们是否认为英国的普通市民
+{\pos(192,288)}Do we think that the average citizen of England
+
+673
+0:39:13.22 --> 0:39:17.16
+{\pos(192,275)}在1870年感受到了更大的个人自由呢?
+{\pos(192,288)}in 1870 felt a great deal of personal freedom?
+
+674
+0:39:17.18 --> 0:39:20.89
+{\pos(192,275)}我认为  大量的奴性和阶级屈从
+{\pos(192,288)}I think there was a great deal of servility and class deference
+
+675
+0:39:20.89 --> 0:39:23.68
+{\pos(192,275)}导致这样的事实
+{\pos(192,288)}coming out of the fact that the lives of the poor
+
+676
+0:39:23.70 --> 0:39:29.97
+{\pos(192,275)}穷人完全没有安全感  只有不断讨好富人
+{\pos(192,288)}were incredibly insecure and only by constantly flattering their betters
+
+677
+0:39:29.98 --> 0:39:33.04
+{\pos(192,275)}才能在一定程度上保证生存
+{\pos(192,288)}could they have any reasonable assurance of survival.
+
+678
+0:39:33.06 --> 0:39:36.49
+{\pos(192,275)}所以不 我认为更多的自由和尊严
+{\pos(192,288)}So no, I think there's more freedom and dignity
+
+679
+0:39:36.50 --> 0:39:40.04
+{\pos(192,275)}存在于一个强度适当的福利社会
+{\pos(192,288)}in a moderately strong welfare state than there is
+
+680
+0:39:40.06 --> 0:39:41.98
+{\pos(192,275)}而不是哈耶克幻想中的自由市场天堂
+{\pos(192,288)}in the Hayekian paradise of free markets.
+
+681
+0:39:47.85 --> 0:39:50.89
+{\pos(192,275)}尽管通往奴役之路大获成功
+{\pos(192,288)}Despite the success of The Road to Serfdom,
+
+682
+0:39:50.89 --> 0:39:55.33
+{\pos(192,275)}上世纪五六十年代  哈耶克认为自己被弃之于政治荒原
+{\pos(192,288)}in the 1950s and '60s Hayek found himself in the political wilderness.
+
+683
+0:39:55.33 --> 0:39:58.56
+{\pos(192,275)}西方政府热切拥抱凯恩斯主义
+{\pos(192,288)}Governments across the Western world were enthusiastically embracing
+
+684
+0:39:58.58 --> 0:40:03.45
+{\pos(192,275)}在1930年代的黑暗日子中
+{\pos(192,288)}the ideas of Hayek's nemesis from the dark days of the 1930s...
+
+685
+0:40:03.46 --> 0:40:05.41
+{\pos(192,275)}凯恩斯是哈耶克无可避免的魔咒
+{\pos(192,288)}John Maynard Keynes.
+
+686
+0:40:06.81 --> 0:40:10.04
+{\pos(192,275)}凯恩斯主义成为资本主义新的正统
+{\pos(192,288)}It became the new capitalist orthodoxy that governments
+
+687
+0:40:10.06 --> 0:40:13.04
+{\pos(192,275)}政府藉此成功管控经济
+{\pos(192,288)}could successfully manage their economies.
+
+688
+0:40:13.06 --> 0:40:15.66
+{\pos(192,275)}历史潮流背弃了哈耶克
+{\pos(192,288)}The tide of history had turned against Hayek.
+
+689
+0:40:16.70 --> 0:40:19.21
+{\pos(192,275)}他非常抑郁
+{\pos(192,288)}He got very depressed.
+
+690
+0:40:19.22 --> 0:40:22.64
+{\pos(192,275)}人们不再听他的演讲 不再看他的书籍
+{\pos(192,288)}People weren't listening to him, they weren't reading his books.
+
+691
+0:40:22.66 --> 0:40:27.12
+{\pos(192,275)}英国看上去转向左翼
+{\pos(192,288)}England seemed to be going left-wing.
+
+692
+0:40:27.14 --> 0:40:31.33
+{\pos(192,275)}他选择成为英国公民  他发现
+{\pos(192,288)}He'd chosen to be British and he looked, from his views
+
+693
+0:40:31.33 --> 0:40:37.29
+{\pos(192,275)}按照他的经济学观点  一切都错了
+{\pos(192,288)}of an economist, and he could see everything going the wrong way.
+
+694
+0:40:38.50 --> 0:40:43.77
+{\pos(192,275)}1974年 哈耶克意外接到了一个电话
+{\pos(192,288)}Then in 1974, Esca Hayek got a phone call out of the blue.
+
+695
+0:40:43.77 --> 0:40:47.56
+{\pos(192,275)}打电话的人正是40年前邀请他去伦敦经济学院演讲
+{\pos(192,288)}It was the man who had invited Hayek to the LSE 40 years earlier
+
+696
+0:40:47.58 --> 0:40:49.81
+{\pos(192,275)}与凯恩斯作对的那位
+{\pos(192,288)}to do battle with Keynes.
+
+697
+0:40:51.74 --> 0:40:56.81
+{\pos(192,275)}莱纳·罗宾斯打电话给我然后问  "你坐稳了么?"
+{\pos(192,288)}It was Lionel Robbins who rang me and said, "Are you sitting down?"
+
+698
+0:40:56.81 --> 0:40:58.68
+{\pos(192,275)}我说  "是的"
+{\pos(192,288)}I said, "Yes."
+
+699
+0:40:58.70 --> 0:41:02.81
+{\pos(192,275)}他说  "他被授予
+{\pos(192,288)}And he said, "Well, he's been awarded
+
+700
+0:41:02.81 --> 0:41:06.16
+{\pos(192,275)}诺贝尔经济学奖"
+{\pos(192,288)}"a Nobel Prize for economics."
+
+701
+0:41:06.18 --> 0:41:12.52
+{\pos(192,275)}这就像被授予了骑士爵位
+{\pos(192,288)}That was like being given a knighthood of the world.
+
+702
+0:41:12.54 --> 0:41:15.10
+{\pos(192,275)}那是诺贝尔奖的颁奖辞
+{\pos(192,288)}That's the Nobel citation.
+
+703
+0:41:17.77 --> 0:41:20.56
+{\pos(192,275)}斯德哥尔摩  1974年12月10日
+{\pos(192,288)}Stockholm the 10th of December 1974,
+
+704
+0:41:20.58 --> 0:41:27.68
+{\pos(192,275)}诺贝尔奖被授予哈耶克
+{\pos(192,288)}Alfred Nobel given to Friedrich von Hayek.
+
+705
+0:41:27.70 --> 0:41:31.93
+{\pos(192,275)}他的生活重新开始了
+{\pos(192,288)}His life started off completely again.
+
+706
+0:41:31.93 --> 0:41:34.77
+{\pos(192,275)}他一直很抑郁  正准备退休
+{\pos(192,288)}He'd been depressed, he was coming up to retirement
+
+707
+0:41:34.77 --> 0:41:37.25
+{\pos(192,275)}突然一切可以重新开始了  这是一个新生
+{\pos(192,288)}and suddenly everything started, it was a new life.
+
+708
+0:41:37.25 --> 0:41:40.37
+{\pos(192,275)}绝对的  一切又重新开始了
+{\pos(192,288)}Absolutely... everything took off for him.
+
+709
+0:41:50.70 --> 0:41:53.49
+{\pos(192,275)}当关于哈耶克的一切重新开始时
+{\pos(192,288)}While everything began taking off for Hayek,
+
+710
+0:41:53.50 --> 0:41:56.08
+{\pos(192,275)}英国陷入了经济下滑
+{\pos(192,288)}Britain was sinking into economic decline.
+
+711
+0:41:56.10 --> 0:41:58.73
+{\pos(192,275)}罢工成为无法改变的事实
+{\pos(192,288)}Strikes had become a fact of life.
+
+712
+0:41:58.74 --> 0:42:01.89
+{\pos(192,275)}战后凯恩斯主义共识已经破裂
+{\pos(192,288)}The post-war Keynesian consensus was crumbling.
+
+713
+0:42:06.10 --> 0:42:09.08
+{\pos(192,275)}哈耶克获奖后几个月
+{\pos(192,288)}A few months after Hayek won the Nobel Prize,
+
+714
+0:42:09.10 --> 0:42:12.60
+{\pos(192,275)}保守党选举了一个新领袖
+{\pos(192,288)}the Conservative Party turned to a new leader.
+
+715
+0:42:12.62 --> 0:42:16.08
+{\pos(192,275)}撒切尔夫人的上台使得哈耶克
+{\pos(192,288)}The rise of Margaret Thatcher brought Hayek
+
+716
+0:42:16.10 --> 0:42:19.41
+{\pos(192,275)}首次站到了主流政治舞台
+{\pos(192,288)}into the political mainstream for the first time.
+
+717
+0:42:19.41 --> 0:42:22.04
+{\pos(192,275)}撒切尔夫人一直
+{\pos(192,288)}Margaret Thatcher would, from time to time,
+
+718
+0:42:22.06 --> 0:42:24.41
+{\pos(192,275)}携带将一些写有引言的小纸条
+{\pos(192,288)}pull little bits of paper with quotations on them
+
+719
+0:42:24.41 --> 0:42:28.00
+{\pos(192,275)}放在手袋中  哈耶克就是被引用的其中一位
+{\pos(192,288)}out of her handbag and Hayek would be one of them.
+
+720
+0:42:28.02 --> 0:42:32.81
+{\pos(192,275)}哈耶克在20世纪的绝大部分时间都是政治的旁观者
+{\pos(192,288)}Hayek had spent most of the 20th century as a political outsider.
+
+721
+0:42:32.81 --> 0:42:35.12
+{\pos(192,275)}现在他得到了撒切尔夫人的倾听
+{\pos(192,288)}Now he had the ear of the woman
+
+722
+0:42:35.14 --> 0:42:37.73
+{\pos(192,275)}她即将出任英国首相
+{\pos(192,288)}who would be Britain's next Prime Minister.
+
+723
+0:42:37.74 --> 0:42:39.37
+{\pos(192,275)}我认为这是一个巨大的错误
+{\pos(192,288)}I think it would be a great mistake
+
+724
+0:42:39.37 --> 0:42:43.37
+{\pos(192,275)}认为撒切尔夫人像学生一样学习哈耶克
+{\pos(192,288)}to think of her as studying Hayek like a student would.
+
+725
+0:42:43.37 --> 0:42:47.64
+{\pos(192,275)}她更像是从哈耶克哪儿获得灵感
+{\pos(192,288)}It's more trying to get inspiration from Hayek and casting around,
+
+726
+0:42:47.66 --> 0:42:49.64
+{\pos(192,275)}带着疑问遍览伟人思想
+{\pos(192,288)}ransacking the minds of great men,
+
+727
+0:42:49.66 --> 0:42:51.93
+{\pos(192,275)}这个伟人正是当时最杰出的人物之一
+{\pos(192,288)}of whom he was one of the most prominent,
+
+728
+0:42:51.93 --> 0:42:54.85
+{\pos(192,275)}所以在某种程度上她淘到了金子
+{\pos(192,288)}so that she could somehow get the gold.
+
+729
+0:42:54.85 --> 0:42:59.12
+{\pos(192,275)}1979年  撒切尔夫人当选首相
+{\pos(192,288)}In 1979 Margaret Thatcher was swept to power,
+
+730
+0:42:59.14 --> 0:43:01.64
+{\pos(192,275)}决定构建一个新英国
+{\pos(192,288)}determined to build a new Britain.
+
+731
+0:43:01.66 --> 0:43:03.60
+{\pos(192,275)}这是方向上的重大变革
+{\pos(192,288)}It was a bold change of direction
+
+732
+0:43:03.62 --> 0:43:06.64
+{\pos(192,275)}从而创建了我们今天生活的世界
+{\pos(192,288)}that really did create the world we live in today.
+
+733
+0:43:06.66 --> 0:43:12.25
+{\pos(192,275)}我们经历了一个政治方向上的重大转变
+{\pos(192,288)}We did institute a radical change of policy direction,
+
+734
+0:43:12.25 --> 0:43:15.64
+{\pos(192,275)}从未真正被逆转
+{\pos(192,288)}which has not really been reversed.
+
+735
+0:43:15.66 --> 0:43:19.85
+{\pos(192,275)}它可能限于泥淖  但从未被逆转
+{\pos(192,288)}It may have been muddied, but it hasn't been reversed.
+
+736
+0:43:19.85 --> 0:43:25.52
+{\pos(192,275)}这和哈耶克在上世纪40年代发表的观点是一致的
+{\pos(192,288)}It does chime in with Hayek right back in the 1940s
+
+737
+0:43:25.54 --> 0:43:29.49
+{\pos(192,275)}说我们现在所走的路
+{\pos(192,288)}saying that the path we're on at the moment
+
+738
+0:43:29.50 --> 0:43:34.33
+{\pos(192,275)}是通向奴役的路  我们需要走出一条不同的路
+{\pos(192,288)}is the road to serfdom, and we need to tread a very different path.
+
+739
+0:43:36.54 --> 0:43:37.93
+{\pos(192,275)}用当时的语言
+{\pos(192,288)}In the language of the time
+
+740
+0:43:37.93 --> 0:43:40.21
+{\pos(192,275)}撒切尔夫人开始淡化国家的作用
+{\pos(192,288)}Mrs Thatcher began rolling back the state.
+
+741
+0:43:40.22 --> 0:43:43.25
+{\pos(192,275)}国有企业被私有化
+{\pos(192,288)}Government-owned industries were privatised.
+
+742
+0:43:43.25 --> 0:43:45.73
+{\pos(192,275)}公共支出和税收都在缩减
+{\pos(192,288)}Public spending and taxes were cut.
+
+743
+0:43:45.74 --> 0:43:48.64
+{\pos(192,275)}国家对市场的控制  对价格  工资  股利  汇率的控制
+{\pos(192,288)}There was a bonfire of state controls on the market...
+
+744
+0:43:48.66 --> 0:43:52.33
+{\pos(192,275)}都面临改革
+{\pos(192,288)}on prices, wages, dividends and foreign exchange.
+
+745
+0:43:52.33 --> 0:43:55.70
+{\pos(192,275)}英国开始转向哈耶克的道路
+{\pos(192,288)}Britain was moving Hayek's way.
+
+746
+0:43:56.70 --> 0:44:00.49
+{\pos(192,275)}非常肯定的是  我们跟哈耶克不谋而合
+{\pos(192,288)}We were certainly very much on the same wavelength.
+
+747
+0:44:00.50 --> 0:44:05.04
+{\pos(192,275)}我们没有忙于查阅他的作品  找出我们应该做什么
+{\pos(192,288)}We were not busy thumbing his works to find out what we should do,
+
+748
+0:44:05.06 --> 0:44:06.81
+{\pos(192,275)}因为其作品并不是为政府写的手册
+{\pos(192,288)}it was not a handbook for government,
+
+749
+0:44:06.81 --> 0:44:09.62
+{\pos(192,275)}而是一个普遍的思想
+{\pos(192,288)}but it was the same general idea.
+
+750
+0:44:12.70 --> 0:44:16.12
+{\pos(192,275)}当今世界没有什么比
+{\pos(192,288)}Nowhere did today's world emerge more clearly
+
+751
+0:44:16.14 --> 0:44:18.93
+{\pos(192,275)}保守党和工会的斗争更明显了
+{\pos(192,288)}than in the Conservative's battle with the trades' unions.
+
+752
+0:44:18.93 --> 0:44:21.29
+{\pos(192,275)}撒切尔夫人希望
+{\pos(192,288)}Margaret Thatcher wanted to put a stop
+
+753
+0:44:21.29 --> 0:44:24.08
+{\pos(192,275)}停止日益增长的工会权力
+{\pos(192,288)}to what she saw as rampant union power.
+
+754
+0:44:24.10 --> 0:44:26.52
+{\pos(192,275)}但是她面临一个困境
+{\pos(192,288)}But she faced a dilemma...
+
+755
+0:44:26.54 --> 0:44:30.16
+{\pos(192,275)}如何在不引起全体人民反感的情况下做这些?
+{\pos(192,288)}"How do you do that without alienating the entire population?"
+
+756
+0:44:30.18 --> 0:44:33.25
+{\pos(192,275)}哈耶克的哲学帮助她形成了答案
+{\pos(192,288)}Hayek's philosophy helped her formulate her answer.
+
+757
+0:44:39.93 --> 0:44:43.00
+{\pos(192,275)}她希望用自由来包装她的理念
+{\pos(192,288)}She wanted to frame the argument in terms of liberty.
+
+758
+0:44:43.02 --> 0:44:46.56
+{\pos(192,275)}她不愿意说  "工人是可怕的  让我们镇压他们吧"
+{\pos(192,288)}She didn't want to say, "The workers are all dreadful, let's squash them."
+
+759
+0:44:46.58 --> 0:44:50.18
+{\pos(192,275)}她希望说  "工人被他们自己的领导摆平了"
+{\pos(192,288)}She wanted to say, "The workers are being squashed by their leaders."
+
+760
+0:44:54.77 --> 0:45:00.52
+{\pos(192,275)}这跟哈耶克的自由观是完全契合的
+{\pos(192,288)}This very much fed into Hayek, and the idea of liberty
+
+761
+0:45:00.54 --> 0:45:03.12
+{\pos(192,275)}即  你在捍卫劳资关系的同时
+{\pos(192,288)}was, you were defending your country here
+
+762
+0:45:03.14 --> 0:45:06.02
+{\pos(192,275)}也在捍卫这个国家
+{\pos(192,288)}as well as the state of labour relations.
+
+763
+0:45:07.02 --> 0:45:09.77
+{\pos(192,275)}哈耶克和撒切尔夫人有许多共同点
+{\pos(192,288)}Hayek and Margaret Thatcher agreed on a lot.
+
+764
+0:45:09.77 --> 0:45:12.45
+{\pos(192,275)}但是也有关键的不同
+{\pos(192,288)}But there was one crucial difference between them.
+
+765
+0:45:12.46 --> 0:45:15.56
+{\pos(192,275)}哈耶克认为让市场自由可以阻止
+{\pos(192,288)}Whereas Hayek thought you freed the market to prevent power
+
+766
+0:45:15.58 --> 0:45:18.41
+{\pos(192,275)}权力集中在政治家的手中
+{\pos(192,288)}getting too concentrated in the hands of politicians,
+
+767
+0:45:18.41 --> 0:45:20.89
+{\pos(192,275)}撒切尔夫人认为可以采用自由市场政策
+{\pos(192,288)}Thatcher thought you could have free market policies
+
+768
+0:45:20.89 --> 0:45:24.25
+{\pos(192,275)}同时保持中央的一部分权力
+{\pos(192,288)}and still keep a lot of power at the centre.
+
+769
+0:45:24.25 --> 0:45:27.93
+{\pos(192,275)}一边是哈耶克理想  一边是自由市场政治家基于本能的控制欲
+{\pos(192,288)}That tension between Hayek's ideal and the controlling instinct
+
+770
+0:45:27.93 --> 0:45:32.41
+{\pos(192,275)}这中间的鸿沟从未真正消除过
+{\pos(192,288)}of even free market politicians never really went away.
+
+771
+0:45:33.62 --> 0:45:39.45
+{\pos(192,275)}撒切尔夫人有时会忽略
+{\pos(192,288)}Where she, I think, missed out sometimes was understanding
+
+772
+0:45:39.46 --> 0:45:43.33
+{\pos(192,275)}对于机构以及
+{\pos(192,288)}the importance of institutions
+
+773
+0:45:43.33 --> 0:45:48.41
+{\pos(192,275)}社会反抗力量重要性的理解
+{\pos(192,288)}and of countervailing power in a society.
+
+774
+0:45:48.41 --> 0:45:52.37
+{\pos(192,275)}比如哈耶克就会非常了解
+{\pos(192,288)}Hayek, for example, was quite understanding about the role
+
+775
+0:45:52.37 --> 0:45:55.68
+{\pos(192,275)}地方权威  地方市政
+{\pos(192,288)}of local authorities and local municipalities
+
+776
+0:45:55.70 --> 0:46:00.18
+{\pos(192,275)}地方权力中心所扮演的角色，这正是撒切尔夫人所欠缺的
+{\pos(192,288)}and local power centres in a way which I don't think Margaret was.
+
+777
+0:46:05.54 --> 0:46:08.41
+{\pos(192,275)}哈耶克的政治影响力在1986年达到顶峰
+{\pos(192,288)}Hayek's political influence reached its height in 1986
+
+778
+0:46:08.41 --> 0:46:12.81
+{\pos(192,275)}当时撒切尔夫人的政府去除了很多
+{\pos(192,288)}when Mrs Thatcher's government swept away much of the regulation
+
+779
+0:46:12.81 --> 0:46:15.45
+{\pos(192,275)}曾经约束过伦敦的规章制度
+{\pos(192,288)}that had constrained the City of London.
+
+780
+0:46:15.46 --> 0:46:19.04
+{\pos(192,275)}最重大的举措是给予金融市场以自由
+{\pos(192,288)}The Big Bang set the financial markets free,
+
+781
+0:46:19.06 --> 0:46:20.52
+{\pos(192,275)}这使得今天发展出巨大的
+{\pos(192,288)}ushering in today's vast
+
+782
+0:46:20.54 --> 0:46:23.04
+{\pos(192,275)}相互关联的全球金融市场
+{\pos(192,288)}interconnected global financial system.
+
+783
+0:46:23.06 --> 0:46:27.45
+{\pos(192,275)}但是这不是哈耶克真正所期望的自由市场
+{\pos(192,288)}But it wasn't really the free market that Hayek wanted.
+
+784
+0:46:27.46 --> 0:46:31.21
+{\pos(192,275)}哈耶克的追随者说  脱胎于八九十年代的
+{\pos(192,288)}Hayek's followers would say the deregulated financial system
+
+785
+0:46:31.22 --> 0:46:34.33
+{\pos(192,275)}对金融系统的解禁
+{\pos(192,288)}that came out of the '80s and '90s played a big role
+
+786
+0:46:34.33 --> 0:46:38.81
+{\pos(192,275)}在金融危机中起到了重要作用  因为市场只是半自由
+{\pos(192,288)}in the financial crisis because it was only ever half free.
+
+787
+0:46:38.81 --> 0:46:42.21
+{\pos(192,275)}扭曲市场自由的是 所有这些金融机构
+{\pos(192,288)}It was distorted by an implicit promise
+
+788
+0:46:42.22 --> 0:46:44.37
+{\pos(192,275)}背后隐藏的一个隐形承诺
+{\pos(192,288)}to all these financial institutions
+
+789
+0:46:44.37 --> 0:46:48.21
+{\pos(192,275)}出了事  政府会给予救助
+{\pos(192,288)}that if things went wrong the government would come to the rescue.
+
+790
+0:46:48.22 --> 0:46:51.21
+{\pos(192,275)}自上世纪80年代西方开始盛行这样的资本主义
+{\pos(192,288)}In the kind of capitalism we've had in the West since the 1980s,
+
+791
+0:46:51.22 --> 0:46:56.33
+{\pos(192,275)}触发了最近这次危机的金融机构
+{\pos(192,288)}the financial institutions that triggered the recent crash
+
+792
+0:46:56.33 --> 0:47:00.60
+{\pos(192,275)}似乎可以不受任何约束  除了破产
+{\pos(192,288)}were free to do anything, it seems, except fail.
+
+793
+0:47:00.62 --> 0:47:03.81
+{\pos(192,275)}这就是"大到不能倒"
+{\pos(192,288)}It was the "Too big to fail problem".
+
+794
+0:47:03.81 --> 0:47:07.60
+{\pos(192,275)}他们知道这是一个问题
+{\pos(192,288)}They knew that it was a question of,
+
+795
+0:47:07.62 --> 0:47:11.56
+{\pos(192,275)}正面我赢  反面纳税人输
+{\pos(192,288)}"Heads I win, tails the tax payer loses."
+
+796
+0:47:11.58 --> 0:47:13.77
+{\pos(192,275)}如果这是场赌局
+{\pos(192,288)}And if that is the bet,
+
+797
+0:47:13.77 --> 0:47:18.00
+{\pos(192,275)}你参与进来  赌注下得越来越大
+{\pos(192,288)}you take the bet and you take it on a bigger and bigger scale.
+
+798
+0:47:18.02 --> 0:47:23.00
+{\pos(192,275)}他们很清楚  如果他们赌错了
+{\pos(192,288)}So they knew pretty well that if they got the gamble wrong
+
+799
+0:47:23.02 --> 0:47:26.89
+{\pos(192,275)}政府不会眼瞅着他们破产  他们会接管的
+{\pos(192,288)}governments couldn't allow them to fail, they'd have to be bailed out.
+
+800
+0:47:26.89 --> 0:47:29.49
+{\pos(192,275)}这就是错误所在  也是必须被终止的
+{\pos(192,288)}That is what is wrong and that is what has to be stopped.
+
+801
+0:47:29.50 --> 0:47:31.52
+{\pos(192,275)}我们当然发现了
+{\pos(192,288)}We certainly have discovered, after the fact
+
+802
+0:47:31.54 --> 0:47:33.25
+{\pos(192,275)}政府不可能允许银行破产
+{\pos(192,288)}that banks are not allowed to fail.
+
+803
+0:47:33.25 --> 0:47:36.64
+{\pos(192,275)}但这是否就是过度贷款的主要原因呢?
+{\pos(192,288)}Was that actually a significant factor in the over-lending?
+
+804
+0:47:36.66 --> 0:47:38.73
+{\pos(192,275)}我认为证据不足
+{\pos(192,288)}I don't think there's much evidence of that.
+
+805
+0:47:38.74 --> 0:47:43.93
+{\pos(192,275)}现在很明显  大型银行不可能破产
+{\pos(192,288)}Now the fact that big banks clearly will not be allowed to fail
+
+806
+0:47:43.93 --> 0:47:46.08
+{\pos(192,275)}这的确扭曲了我们的系统
+{\pos(192,288)}and that is distorting our system.
+
+807
+0:47:46.10 --> 0:47:48.54
+{\pos(192,275)}但我认为  这不是危机的主要原因
+{\pos(192,288)}But I don't think that's the story of the crisis.
+
+808
+0:47:48.54 --> 0:47:51.68
+{\pos(192,275)}我认为  危机的原因更在于
+{\pos(192,288)}I think that the crisis was one more about just a general failure
+
+809
+0:47:51.70 --> 0:47:53.18
+{\pos(192,275)}在理解风险方面存在一种普遍的错误
+{\pos(192,288)}to understand the risks.
+
+810
+0:47:55.66 --> 0:48:00.29
+{\pos(192,275)}毫无疑问  近30年来 各国政治家
+{\pos(192,288)}There's no doubt that in the last 30 years politicians of all stripes
+
+811
+0:48:00.29 --> 0:48:04.81
+{\pos(192,275)}让市场对社会的影响越来越大
+{\pos(192,288)}have let market forces influence more and more parts of society.
+
+812
+0:48:04.81 --> 0:48:08.08
+{\pos(192,275)}但是  他们和哈耶克最有革命性的观点划清了界限
+{\pos(192,288)}But they have drawn the line at Hayek's most revolutionary idea
+
+813
+0:48:08.10 --> 0:48:11.25
+{\pos(192,275)}-- 将货币本身推向市场
+{\pos(192,288)}of turning money itself over to the market.
+
+814
+0:48:13.93 --> 0:48:18.41
+{\pos(192,275)}想象一个世界  不止一种法定的货币流通
+{\pos(192,288)}Imagine a world where we didn't have just one legal currency circulating
+
+815
+0:48:18.41 --> 0:48:22.56
+{\pos(192,275)}在经济中  不止英格兰银行印发货币
+{\pos(192,288)}in the economy, issued by the Bank of England, but dozens of them.
+
+816
+0:48:22.58 --> 0:48:26.33
+{\pos(192,275)}任何人 一个公司  银行或私人都可以印发
+{\pos(192,288)}Anyone - a company, a bank, a private individual could set up
+
+817
+0:48:26.33 --> 0:48:29.93
+{\pos(192,275)}并拥有英镑的各种版本且自由竞争
+{\pos(192,288)}their own version of the pound and they would be free to compete.
+
+818
+0:48:29.93 --> 0:48:33.73
+{\pos(192,275)}市场决定货币的价值
+{\pos(192,288)}The market would determine how much they were worth.
+
+819
+0:48:33.74 --> 0:48:37.29
+{\pos(192,275)}哈耶克知道  哪怕对他自己来说  这都是一个疯狂的建议
+{\pos(192,288)}Hayek knew it was a crazy sounding suggestion, even for him.
+
+820
+0:48:37.29 --> 0:48:40.00
+{\pos(192,275)}但这终将阻止政府
+{\pos(192,288)}But it would finally stop governments
+
+821
+0:48:40.02 --> 0:48:42.02
+{\pos(192,275)}滥用货币的权力
+{\pos(192,288)}abusing the power of money.
+
+822
+0:48:44.98 --> 0:48:48.70
+{\pos(192,275)}在美国  有一个人试图这么做
+{\pos(192,288)}In America one man has been trying to do just that.
+
+823
+0:48:52.98 --> 0:48:58.74
+{\pos(192,275)}他接受了哈耶克革命性的的观点并将其转化为现实
+{\pos(192,288)}He's taken Hayek's most explosive idea and turned it in to a reality.
+
+824
+0:49:08.37 --> 0:49:12.45
+{\pos(192,275)}伯纳德·冯·诺特豪斯自称为货币构建师
+{\pos(192,288)}Bernard von Nothaus calls himself a monetary architect.
+
+825
+0:49:12.46 --> 0:49:16.14
+{\pos(192,275)}美国官方称其为国内恐怖分子
+{\pos(192,288)}The American authorities call him a domestic terrorist.
+
+826
+0:49:17.81 --> 0:49:21.97
+{\pos(192,275)}从某种意义上说 诺特豪斯的遭遇说明了
+{\pos(192,288)}For some, what's happened to von Nothaus shows just how seriously
+
+827
+0:49:21.98 --> 0:49:26.00
+{\pos(192,275)}政府是何等重视  对其垄断货币发行所发起的任何挑战
+{\pos(192,288)}governments take any challenge to their monopoly over money.
+
+828
+0:49:26.02 --> 0:49:29.49
+{\pos(192,275)}经济学是枯燥和无聊的
+{\pos(192,288)}Economics is dry and boring.
+
+829
+0:49:29.50 --> 0:49:34.16
+{\pos(192,275)}但是钱是刺激的  钱的魅力十足
+{\pos(192,288)}But money is exciting! Money is sexy.
+
+830
+0:49:34.18 --> 0:49:37.52
+{\pos(192,275)}你知道  钱是生命力  它关乎人类  关乎梦想
+{\pos(192,288)}You know, money's got pizzazz, it's about people and about dreams,
+
+831
+0:49:37.54 --> 0:49:39.29
+{\pos(192,275)}关乎我们的行为
+{\pos(192,288)}about what we do, you know?
+
+832
+0:49:39.29 --> 0:49:41.04
+{\pos(192,275)}钱是如此美妙
+{\pos(192,288)}Money is fantastic!
+
+833
+0:49:41.06 --> 0:49:44.81
+{\pos(192,275)}这才是我和哈耶克之间真正的联系
+{\pos(192,288)}And that's what I really connected with in terms of von Hayek.
+
+834
+0:49:44.81 --> 0:49:49.73
+{\pos(192,275)}因为他在这里说了人们可以控制
+{\pos(192,288)}Because what he said in here was about people taking control
+
+835
+0:49:49.74 --> 0:49:52.98
+{\pos(192,275)}和印发他们自己的货币
+{\pos(192,288)}and people issuing their own money.
+
+836
+0:49:54.77 --> 0:49:57.81
+{\pos(192,275)}诺特豪斯创造了他自己的货币
+{\pos(192,288)}Von Nothaus created his own currency...
+
+837
+0:49:57.81 --> 0:50:01.41
+{\pos(192,275)}一个称为自由美元的银质硬币  任何人都可以购买
+{\pos(192,288)}a silver coin called the Liberty Dollar which anyone could buy.
+
+838
+0:50:01.41 --> 0:50:02.93
+{\pos(192,275)}许多人已经购买了
+{\pos(192,288)}And many have.
+
+839
+0:50:02.93 --> 0:50:06.33
+{\pos(192,275)}感谢他  价值5千万的硬币
+{\pos(192,288)}Thanks to him, coins worth anything up to 50 million
+
+840
+0:50:06.33 --> 0:50:09.08
+{\pos(192,275)}已经投入到美国的经济中
+{\pos(192,288)}have now been sent out in to the US economy.
+
+841
+0:50:09.10 --> 0:50:11.49
+{\pos(192,275)}哈耶克是激发这一灵感的源泉
+{\pos(192,288)}And Hayek was a big inspiration.
+
+842
+0:50:11.50 --> 0:50:14.81
+{\pos(192,275)}他说问题在于政府货币
+{\pos(192,288)}He says the problem is government money.
+
+843
+0:50:14.81 --> 0:50:16.64
+{\pos(192,275)}总是政府的货币
+{\pos(192,288)}It's always been government money.
+
+844
+0:50:16.66 --> 0:50:20.60
+{\pos(192,275)}因为他们滥用其权力  可以从空气中赚钱
+{\pos(192,288)}Because they abuse their power. They make money out of thin air.
+
+845
+0:50:20.62 --> 0:50:25.25
+{\pos(192,275)}他说我们应该废除中央银行
+{\pos(192,288)}So he says what we should do is to abolish the central bank.
+
+846
+0:50:25.25 --> 0:50:28.22
+{\pos(192,275)}关闭美联储  这注意太棒了
+{\pos(192,288)}The end of the Federal Reserve, that was fantastic!
+
+847
+0:50:29.85 --> 0:50:34.12
+{\pos(192,275)}自上世纪20年代  本杰明斯·特朗经营新的美联储开始
+{\pos(192,288)}Ever since Benjamin Strong was running the New York Federal Reserve
+
+848
+0:50:34.14 --> 0:50:37.21
+{\pos(192,275)}央行就开始运用其
+{\pos(192,288)}in the 1920s, central banks have used their control
+
+849
+0:50:37.22 --> 0:50:41.89
+{\pos(192,275)}对货币供应量的控制  试图管理经济的上升和下降
+{\pos(192,288)}over the supply of money to try to manage the economy's ups and downs.
+
+850
+0:50:41.89 --> 0:50:44.68
+{\pos(192,275)}但是正如我们所见的 对哈耶克和其追随者来说
+{\pos(192,288)}But as we've seen, to Hayek and his fans,
+
+851
+0:50:44.70 --> 0:50:48.64
+{\pos(192,275)}央行是许多资本主义问题的诱因
+{\pos(192,288)}central banks are the cause of many of capitalisms problems,
+
+852
+0:50:48.66 --> 0:50:50.02
+{\pos(192,275)}而不是解决方案
+{\pos(192,288)}not the solution.
+
+853
+0:50:51.37 --> 0:50:54.21
+{\pos(192,275)}我不会宣称在一天或者短期内关闭美联储
+{\pos(192,288)}And I don't argue for closing the Fed down in one day either.
+
+854
+0:50:54.22 --> 0:50:56.56
+{\pos(192,275)}我希望审计美联储  我希望竞争
+{\pos(192,288)}I want to audit the Fed and I want competition,
+
+855
+0:50:56.58 --> 0:50:59.73
+{\pos(192,275)}即哈耶克关于竞争和货币的观点
+{\pos(192,288)}Hayek's ideas of competition and money,
+
+856
+0:50:59.74 --> 0:51:03.49
+{\pos(192,275)}看谁最终谁能赢得竞争
+{\pos(192,288)}and see who can win this argument.
+
+857
+0:51:03.50 --> 0:51:06.08
+{\pos(192,275)}但是他们要求垄断的权力
+{\pos(192,288)}But for them to claim monopoly powers
+
+858
+0:51:06.10 --> 0:51:10.04
+{\pos(192,275)}禁止我们实施私人市场经济
+{\pos(192,288)}and prevent us from practising private market economics
+
+859
+0:51:10.06 --> 0:51:12.33
+{\pos(192,275)}才是我们面临的真正问题
+{\pos(192,288)}is the real problem that we have.
+
+860
+0:51:14.14 --> 0:51:18.12
+{\pos(192,275)}这很有乌托邦的意味  好比黄金年代
+{\pos(192,288)}A lot of this is this Utopian vision, the golden age
+
+861
+0:51:18.14 --> 0:51:20.81
+{\pos(192,275)}当时  人还是人  货币还是自由的
+{\pos(192,288)}when men were men and currency was free.
+
+862
+0:51:20.81 --> 0:51:23.60
+{\pos(192,275)}美国在很长有一段时间内
+{\pos(192,288)}The United States had a long period of no government monopoly
+
+863
+0:51:23.62 --> 0:51:25.33
+{\pos(192,275)}政府没有对货币进行垄断
+{\pos(192,288)}on currency.
+
+864
+0:51:25.33 --> 0:51:28.81
+{\pos(192,275)}整个系统对银行没有监管
+{\pos(192,288)}We had the whole system of unregulated banks
+
+865
+0:51:28.81 --> 0:51:30.45
+{\pos(192,275)}允许它们印发竞争性的货币
+{\pos(192,288)}issuing competing currencies.
+
+866
+0:51:30.46 --> 0:51:32.93
+{\pos(192,275)}但那个系统极易引发金融危机
+{\pos(192,288)}That system was heavily prone to financial crises.
+
+867
+0:51:32.93 --> 0:51:35.85
+{\pos(192,275)}所以"竞争就是答案"这一理念
+{\pos(192,288)}So the idea again that competition is the answer
+
+868
+0:51:35.85 --> 0:51:37.58
+{\pos(192,275)}是被历史唾弃的
+{\pos(192,288)}is flying in the face of history.
+
+869
+0:51:39.22 --> 0:51:42.64
+{\pos(192,275)}也许这是事实  但是政府努力控制市场
+{\pos(192,288)}Perhaps, but the history of government efforts
+
+870
+0:51:42.66 --> 0:51:46.16
+{\pos(192,275)}的历史也同样不完美
+{\pos(192,288)}to control the market hasn't been so pretty either.
+
+871
+0:51:46.18 --> 0:51:49.64
+{\pos(192,275)}对哈耶克来说  真正的乌托邦是相信央行
+{\pos(192,288)}For Hayek, what was really utopian was the belief that central banks,
+
+872
+0:51:49.66 --> 0:51:52.10
+{\pos(192,275)}或类似的人物能够和
+{\pos(192,288)}or anyone else for that matter, could ever be a match
+
+873
+0:51:52.10 --> 0:51:55.45
+{\pos(192,275)}复杂的现代经济进行比赛
+{\pos(192,288)}for the dizzying complexity of our modern economy.
+
+874
+0:51:55.46 --> 0:51:59.64
+{\pos(192,275)}哈耶克会说  他们没有能力做这些  他们必须停止尝试
+{\pos(192,288)}Hayek would say since they can't do it they should just stop trying.
+
+875
+0:51:59.66 --> 0:52:01.21
+{\pos(192,275)}我们应该停止...
+{\pos(192,288)}We should stop having...
+
+876
+0:52:01.22 --> 0:52:04.45
+{\pos(192,275)}停止利用任何货币政策进行干预
+{\pos(192,288)}Well, stop having any intervention in monetary policy,
+
+877
+0:52:04.46 --> 0:52:07.25
+{\pos(192,275)}如果走极端的话就是撤销央行
+{\pos(192,288)}or stop having central banks if you go to the extreme.
+
+878
+0:52:07.25 --> 0:52:09.89
+{\pos(192,275)}我认为这是一个梦想
+{\pos(192,288)}Well, that's dreaming, I think.
+
+879
+0:52:12.70 --> 0:52:16.00
+{\pos(192,275)}冯诺特豪斯试图与美联储竞争
+{\pos(192,288)}Von Nothaus's attempt to compete with the Federal Reserve
+
+880
+0:52:16.02 --> 0:52:19.58
+{\pos(192,275)}最终导致了美国政府的关注
+{\pos(192,288)}eventually drew the attention of the American authorities.
+
+881
+0:52:20.77 --> 0:52:25.16
+{\pos(192,275)}2007年  FBI介入
+{\pos(192,288)}In 2007, the FBI moved in.
+
+882
+0:52:25.18 --> 0:52:29.77
+{\pos(192,275)}我认为  他们开始认为我是一个威胁而不是解决方案
+{\pos(192,288)}I think they begin to perceive us as a threat instead of a solution.
+
+883
+0:52:29.77 --> 0:52:32.49
+{\pos(192,275)}自由美元背后的构建师
+{\pos(192,288)}'The architect behind the Liberty Dollar
+
+884
+0:52:32.50 --> 0:52:34.37
+{\pos(192,275)}正在讨论美国政府
+{\pos(192,288)}'is talking about the US government
+
+885
+0:52:34.37 --> 0:52:38.49
+{\pos(192,275)}为什么当局这个月早些时候查封了他设在埃文斯维尔的总部
+{\pos(192,288)}'and why agents raided his Evansville headquarters earlier this month.'
+
+886
+0:52:38.50 --> 0:52:43.93
+{\pos(192,275)}冯诺特豪斯被控扰乱美国货币
+{\pos(192,288)}Von Nothaus was charged with counterfeiting US currency.
+
+887
+0:52:43.93 --> 0:52:47.85
+{\pos(192,275)}2011年在北卡罗来纳法庭上作辩护时
+{\pos(192,288)}Giving evidence in this courthouse in North Carolina in 2011
+
+888
+0:52:47.85 --> 0:52:51.56
+{\pos(192,275)}他提到哈耶克
+{\pos(192,288)}he talked about Hayek.
+
+889
+0:52:51.58 --> 0:52:55.12
+{\pos(192,275)}哈耶克的理论可以为我们辩护
+{\pos(192,288)}Well, he was relevant to my defence.
+
+890
+0:52:55.14 --> 0:52:58.97
+{\pos(192,275)}这不是我自己想出来的轻率观点
+{\pos(192,288)}This wasn't some harebrained idea that I had thought up myself.
+
+891
+0:52:58.98 --> 0:53:04.33
+{\pos(192,275)}哈耶克是一个众所周知的诺贝尔获奖者
+{\pos(192,288)}I pointed out that here was a well-known Nobel laureate
+
+892
+0:53:04.33 --> 0:53:07.50
+{\pos(192,275)}他说的正是我现在所做的
+{\pos(192,288)}who had talked about exactly what I had done.
+
+893
+0:53:12.18 --> 0:53:14.77
+{\pos(192,275)}伯纳德·冯·诺特豪斯被判有罪
+{\pos(192,288)}Bernard von Nothaus was found guilty
+
+894
+0:53:14.77 --> 0:53:17.93
+{\pos(192,275)}面临25年的监禁
+{\pos(192,288)}and now faces up to 25 years in prison.
+
+895
+0:53:26.77 --> 0:53:31.33
+{\pos(192,275)}我认为这是他值得自豪的事件之一
+{\pos(192,288)}And I think this was the one he was most proud of,
+
+896
+0:53:31.33 --> 0:53:36.04
+{\pos(192,275)}伊丽莎白二世授予的荣誉勋爵头衔
+{\pos(192,288)}"Companion of Honour, presented by Queen Elizabeth II,
+
+897
+0:53:36.06 --> 0:53:38.33
+{\pos(192,275)}白金汉宫 1984年
+{\pos(192,288)}"Buckingham Palace, 1984."
+
+898
+0:53:38.33 --> 0:53:43.37
+{\pos(192,275)}当听到消息时  他震惊了
+{\pos(192,288)}And he was absolutely thrilled when he got that.
+
+899
+0:53:43.37 --> 0:53:45.33
+{\pos(192,275)}致教授  博士
+{\pos(192,288)}"To Professor, Doctor..."
+
+900
+0:53:45.33 --> 0:53:49.45
+{\pos(192,275)}在他生命的尽头  哈耶克获得世人的尊敬
+{\pos(192,288)}Towards the end of his life, Hayek was feted by everyone.
+
+901
+0:53:49.46 --> 0:53:52.93
+{\pos(192,275)}他对自由市场的力量持无比之信念
+{\pos(192,288)}He'd inspired politicians all over the world with his boundless belief
+
+902
+0:53:52.93 --> 0:53:55.73
+{\pos(192,275)}这激发了全球政治家的灵感
+{\pos(192,288)}in the power of the free market.
+
+903
+0:53:55.74 --> 0:53:59.81
+{\pos(192,275)}这是加拉加斯的天主教大学
+{\pos(192,288)}And that is Catholic University, Caracas.
+
+904
+0:53:59.81 --> 0:54:03.49
+{\pos(192,275)}上世纪80年代  真正实施政策的时候
+{\pos(192,288)}When it came to their actual policies,
+
+905
+0:54:03.50 --> 0:54:06.97
+{\pos(192,275)}西方领袖们通常都转向另一位
+{\pos(192,288)}Western leaders in the 1980s usually turned to a free market thinker
+
+906
+0:54:06.98 --> 0:54:10.00
+{\pos(192,275)}其观点更易于被接受的自由市场思想家
+{\pos(192,288)}whose ideas they found more palatable.
+
+907
+0:54:10.02 --> 0:54:13.97
+{\pos(192,275)}米尔顿·弗里德曼的信念是政府可以
+{\pos(192,288)}Milton Friedman's belief that governments could steer the economy
+
+908
+0:54:13.98 --> 0:54:16.77
+{\pos(192,275)}通过控制流通中货币供应量来监控经济
+{\pos(192,288)}using their power over the supply of money in circulation
+
+909
+0:54:16.77 --> 0:54:20.52
+{\pos(192,275)}这个信条仍是各国政府执政的基石
+{\pos(192,288)}is still a touchstone for governments everywhere.
+
+910
+0:54:20.54 --> 0:54:24.97
+{\pos(192,275)}在这种意义上  弗里德曼不像哈耶克  提供了政治家
+{\pos(192,288)}In that sense, Friedman, unlike Hayek, did offer politicians
+
+911
+0:54:24.98 --> 0:54:29.54
+{\pos(192,275)}一条既拥护自由市场又坚持其控制权的道路
+{\pos(192,288)}a way to champion the free market and hold on to the reins of power.
+
+912
+0:54:31.98 --> 0:54:35.73
+{\pos(192,275)}哈耶克的一生几乎贯穿了整个20世纪
+{\pos(192,288)}Hayek's life spanned almost the entire 20th century,
+
+913
+0:54:35.74 --> 0:54:38.25
+{\pos(192,275)}这是一个科技进步前所未有的时代
+{\pos(192,288)}an era of unprecedented scientific progress...
+
+914
+0:54:38.25 --> 0:54:42.64
+{\pos(192,275)}这是个人的一小步
+{\pos(192,288)}'It's one small step for man,
+
+915
+0:54:42.66 --> 0:54:46.41
+{\pos(192,275)}却是人类的一大步
+{\pos(192,288)}'one giant leap for mankind.'
+
+916
+0:54:46.41 --> 0:54:52.16
+{\pos(192,275)}也是经济灾难前所未有的年代
+{\pos(192,288)}but also unprecedented economic disasters.
+
+917
+0:54:52.18 --> 0:54:54.16
+{\pos(192,275)}生活在这两者的阴影下
+{\pos(192,288)}Living in the shadow of both,
+
+918
+0:54:54.18 --> 0:54:57.52
+{\pos(192,275)}哈耶克意识到  政治家错误地认为经济学是门科学
+{\pos(192,288)}Hayek came to see the great crises of capitalism as the result
+
+919
+0:54:57.54 --> 0:55:02.37
+{\pos(192,275)}导致了资本主义的巨大危机
+{\pos(192,288)}of politicians mistaking economics for a science.
+
+920
+0:55:02.37 --> 0:55:06.45
+{\pos(192,275)}这是一个着手解决所有重大问题的世纪
+{\pos(192,288)}It was a century for taking on all the big questions.
+
+921
+0:55:06.46 --> 0:55:08.68
+{\pos(192,275)}经济学上的重大问题
+{\pos(192,288)}And the big question for economists
+
+922
+0:55:08.70 --> 0:55:12.97
+{\pos(192,275)}就是如何驯服这个非凡的现代经济
+{\pos(192,288)}was how they were going to tame this extraordinary modern economy.
+
+923
+0:55:12.98 --> 0:55:16.49
+{\pos(192,275)}凯恩斯和哈耶克都认为其面临不可置信的困难
+{\pos(192,288)}Keynes and Hayek both thought that would be incredibly difficult,
+
+924
+0:55:16.50 --> 0:55:18.56
+{\pos(192,275)}甚至是危险
+{\pos(192,288)}dangerous even.
+
+925
+0:55:18.58 --> 0:55:21.41
+{\pos(192,275)}但是凯恩斯的观点取悦了统治阶级
+{\pos(192,288)}But Keynes flattered governments with the idea
+
+926
+0:55:21.41 --> 0:55:24.60
+{\pos(192,275)}他们可以按其意愿调整人类发展进程
+{\pos(192,288)}that they could tilt the course of human history their way.
+
+927
+0:55:24.62 --> 0:55:29.04
+{\pos(192,275)}而哈耶克却说  他们甚至不应该尝试
+{\pos(192,288)}It was Hayek who said they shouldn't even try.
+
+928
+0:55:29.06 --> 0:55:31.37
+{\pos(192,275)}我们可能发现宇宙的规则
+{\pos(192,288)}We might uncover the laws of the universe...
+
+929
+0:55:31.37 --> 0:55:35.02
+{\pos(192,275)}我们不可能掌握人性的复杂
+{\pos(192,288)}we were never going to master the complexities of human nature.
+
+930
+0:55:36.89 --> 0:55:39.16
+{\pos(192,275)}他称之为  伪知识
+{\pos(192,288)}"Pretence of knowledge", he called it...
+
+931
+0:55:39.18 --> 0:55:42.33
+{\pos(192,275)}不懂装懂
+{\pos(192,288)}pretending they know something that they don't know.
+
+932
+0:55:42.33 --> 0:55:44.37
+{\pos(192,275)}他们现在正这样做...
+{\pos(192,288)}Well, they've been doing it now...
+
+933
+0:55:44.37 --> 0:55:47.00
+{\pos(192,275)}我们现在有大量的经济学家
+{\pos(192,288)}We've given the current crop of economists,
+
+934
+0:55:47.02 --> 0:55:49.41
+{\pos(192,275)}让我想想  多少年才发展至此
+{\pos(192,288)}let's see, how many years would that be?
+
+935
+0:55:49.41 --> 0:55:52.64
+{\pos(192,275)}大约70年  完全失败
+{\pos(192,288)}About 70-some years. Total failure.
+
+936
+0:55:52.66 --> 0:55:56.21
+{\pos(192,275)}许多电脑模型是完全误导
+{\pos(192,288)}Many of the computer models have been desperately misleading
+
+937
+0:55:56.22 --> 0:55:59.29
+{\pos(192,275)}假装我们知道经济如何运行
+{\pos(192,288)}in pretending that we understand how the economy works.
+
+938
+0:55:59.29 --> 0:56:02.33
+{\pos(192,275)}我们其实并不知道  我们不能预测经济
+{\pos(192,288)}We don't. We can't forecast the economy.
+
+939
+0:56:02.33 --> 0:56:05.21
+{\pos(192,275)}我们可以尝试思考重大问题
+{\pos(192,288)}But we can try to think about the big questions.
+
+940
+0:56:05.22 --> 0:56:07.21
+{\pos(192,275)}我们是否能走出大衰退?
+{\pos(192,288)}Can we get out of a deep slump?
+
+941
+0:56:07.22 --> 0:56:09.45
+{\pos(192,275)}我认为  和其他国家合作
+{\pos(192,288)}And I think by working with other countries,
+
+942
+0:56:09.46 --> 0:56:12.04
+{\pos(192,275)}我们能逐步找到出路
+{\pos(192,288)}we can gradually find our way out of this.
+
+943
+0:56:12.06 --> 0:56:14.33
+{\pos(192,275)}我们需要不同的观点交汇
+{\pos(192,288)}So you need the different insights together,
+
+944
+0:56:14.33 --> 0:56:16.08
+{\pos(192,275)}但是哈耶克是一个
+{\pos(192,288)}but Hayek is a...
+
+945
+0:56:16.10 --> 0:56:20.73
+{\pos(192,275)}哈耶克道德层面的主张是  避免傲慢自大的经济政策
+{\pos(192,288)}The moral of Hayek is - avoid hubris in economic policy,
+
+946
+0:56:20.74 --> 0:56:24.37
+{\pos(192,275)}正如我们也应避免  自大傲慢的认为市场能
+{\pos(192,288)}just as we should avoid hubris in thinking that markets
+
+947
+0:56:24.37 --> 0:56:27.66
+{\pos(192,275)}以其自身机制引领我们走向天堂
+{\pos(192,288)}left to their own devices will lead us to Nirvana.
+
+948
+0:56:30.37 --> 0:56:34.73
+{\pos(192,275)}毫无疑问  哈耶克改变了世界历史的进程
+{\pos(192,288)}There's no doubt Hayek helped change the course of world history,
+
+949
+0:56:34.74 --> 0:56:38.85
+{\pos(192,275)}决定性的将其从政府主导转向市场主导
+{\pos(192,288)}shifting it decisively away from the state and towards the market.
+
+950
+0:56:40.50 --> 0:56:46.49
+{\pos(192,275)}唐宁街10号  首相
+{\pos(192,288)}Oh! 10 Downing Street, the Prime Minister,
+
+951
+0:56:46.50 --> 0:56:48.68
+{\pos(192,275)}1989年5月3日
+{\pos(192,288)}3rd of May 1989.
+
+952
+0:56:48.70 --> 0:56:51.73
+{\pos(192,275)}尊敬的哈耶克教授  非常荣幸
+{\pos(192,288)}"Dear Professor Hayek, it is with the greatest pleasure
+
+953
+0:56:51.74 --> 0:56:54.08
+{\pos(192,275)}能够在您90大寿的时候
+{\pos(192,288)}"that I send you my warm congratulations
+
+954
+0:56:54.10 --> 0:56:56.16
+{\pos(192,275)}送上我最热烈的祝贺
+{\pos(192,288)}"on the occasion of your 90th birthday.
+
+955
+0:56:56.18 --> 0:56:59.97
+{\pos(192,275)}您的工作和思想给予我们的领导力和创造力
+{\pos(192,288)}"The leadership and inspiration that your work and thinking gave us
+
+956
+0:56:59.98 --> 0:57:05.00
+{\pos(192,275)}绝对是至关重要的  我们感激不尽
+{\pos(192,288)}"are absolutely crucial and we owe you a great debt."
+
+957
+0:57:05.02 --> 0:57:08.66
+{\pos(192,275)}请接受一切美好的祝愿  真诚的玛格丽特·撒切尔
+{\pos(192,288)}"With every good wish, yours sincerely, Margaret Thatcher."
+
+958
+0:57:11.50 --> 0:57:15.52
+{\pos(192,275)}但是没有哪个政府敢于实施哈耶克的愿景
+{\pos(192,288)}But no government has ever dared to implement Hayek's vision
+
+959
+0:57:15.54 --> 0:57:18.25
+{\pos(192,275)}无政府干预的完全自由市场
+{\pos(192,288)}of a market free from state intervention.
+
+960
+0:57:18.25 --> 0:57:22.04
+{\pos(192,275)}当资本主义面临其1930年代以来最大的考验时
+{\pos(192,288)}And when capitalism faced its biggest test since the 1930s,
+
+961
+0:57:22.06 --> 0:57:25.49
+{\pos(192,275)}政治家们涌向通过自身救市
+{\pos(192,288)}politicians rushed to save the market from itself.
+
+962
+0:57:25.50 --> 0:57:28.41
+{\pos(192,275)}事实上  当今英国最大的争议在于
+{\pos(192,288)}In fact, the biggest debate in Britain today is not about
+
+963
+0:57:28.41 --> 0:57:31.52
+{\pos(192,275)}不在于政府为了提振经济是否干涉过多
+{\pos(192,288)}whether the government is doing too much to prop up the economy,
+
+964
+0:57:31.54 --> 0:57:32.93
+{\pos(192,275)}而在与是否干预不足
+{\pos(192,288)}but whether it's doing enough.
+
+965
+0:57:32.93 --> 0:57:37.00
+{\pos(192,275)}如今  哈耶克的建议比以往看上去更难以实施
+{\pos(192,288)}Today, Hayek's advice seems harder to take than ever.
+
+966
+0:57:37.02 --> 0:57:39.85
+{\pos(192,275)}全球经济仍在挣扎着
+{\pos(192,288)}You've got the global economy still struggling to put
+
+967
+0:57:39.85 --> 0:57:43.49
+{\pos(192,275)}走出金融危机  如果它真的能走出的话
+{\pos(192,288)}the financial crisis behind it, if it is behind it.
+
+968
+0:57:43.50 --> 0:57:47.49
+{\pos(192,275)}哈耶克将会说政府应该退出
+{\pos(192,288)}And Hayek would say governments should just step back,
+
+969
+0:57:47.50 --> 0:57:50.60
+{\pos(192,275)}严谨的回顾历史
+{\pos(192,288)}take a cool look at the historical record,
+
+970
+0:57:50.62 --> 0:57:53.00
+{\pos(192,275)}去除那些
+{\pos(192,288)}dismantle most of the machinery
+
+971
+0:57:53.02 --> 0:57:56.52
+{\pos(192,275)}为引导经济而建的机构
+{\pos(192,288)}they have constructed for guiding the economy,
+
+972
+0:57:56.54 --> 0:57:58.70
+{\pos(192,275)}深呼吸  然后放手
+{\pos(192,288)}take a deep breath, and let go.
+
+973
+0:58:00.33 --> 0:58:03.64
+{\pos(192,275)}我不认为当今任何政府有意于此
+{\pos(192,288)}I don't see any government today ready to do that.
+
+974
+0:58:03.66 --> 0:58:05.37
+{\pos(192,275)}我也不认为我会这样做
+{\pos(192,288)}I don't think I ever will.
+
+975
+0:58:08.41 --> 0:58:12.12
+{\pos(192,275)}下一时段介绍卡尔马克思 对资本主义的所有问题
+{\pos(192,288)}Next time, Karl Marx, the man who had the most radical solution of all
+
+976
+0:58:12.14 --> 0:58:15.41
+{\pos(192,275)}他给出了最激烈的解决方案 - 消灭资本主义
+{\pos(192,288)}for the problems of capitalism - get rid of it.
+
+977
+0:58:17.37 --> 0:58:21.41
+{\pos(192,275)}公开大学制作了6集一分钟短片
+{\pos(192,288)}The Open University has produced six one-minute animations to explain
+
+978
+0:58:21.41 --> 0:58:24.52
+{\pos(192,275)}解释跟我们生活息息相关的一些基本经济学概念
+{\pos(192,288)}some of the key economic ideas that affect all of us.
+
+979
+0:58:24.54 --> 0:58:27.25
+{\pos(192,275)}如果你希望学习什么是看不见的手
+{\pos(192,288)}If you want to learn how to spot an invisible hand
+
+980
+0:58:27.25 --> 0:58:31.81
+{\pos(192,275)}或其他经济学秘密  点击下列链接
+{\pos(192,288)}or other secrets of economics, go to:
+
+981
+0:58:31.81 --> 0:58:35.18
+{\pos(192,275)}进入公开大学
+{\pos(192,288)}And follow the link to the Open University.
+
+982
+0:58:35.85 --> 0:59:06.33
+{\pos(192,288)}
+Subtitles by MemoryOnSmells
+http://UKsubtitles.ru.
+

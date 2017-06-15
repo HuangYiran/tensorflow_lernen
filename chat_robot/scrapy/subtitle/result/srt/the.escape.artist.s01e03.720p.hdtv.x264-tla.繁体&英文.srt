@@ -1,0 +1,3390 @@
+﻿1
+00:00:00,000 --> 00:00:01,300
+謝謝你  我的朋友
+Thank you my friend.
+
+2
+00:00:00,000 --> 00:00:56,450
+{\pos(110,242)}shad2前情回顧
+
+3
+00:00:01,640 --> 00:00:02,720
+不客氣
+Pleasure.
+
+4
+00:00:02,720 --> 00:00:03,980
+保重
+Take care.
+
+5
+00:00:06,200 --> 00:00:08,920
+你不該在睡覺前看恐怖電影的
+You shouldn't watch scary movies so close to bedtime.
+
+6
+00:00:08,920 --> 00:00:10,890
+凱特  杰米
+Kate? Jamie!
+
+7
+00:00:10,890 --> 00:00:12,570
+爸爸
+Dad!
+
+8
+00:00:14,560 --> 00:00:16,500
+-你替他辯護  -你跟我一樣清楚
+- You're defending him. - You know as well as I do,
+
+9
+00:00:16,500 --> 00:00:19,050
+無論好壞  每個人都有權申辯
+for good or bad, everyone deserves a defence.
+
+10
+00:00:19,050 --> 00:00:20,660
+伯頓先生不能以律師身份出庭
+Mr Burton will not be in court.
+
+11
+00:00:20,660 --> 00:00:23,080
+他是目擊者  無論如何都不能代表檢方
+As he's a witness, he cannot act for the Crown in any way.
+
+12
+00:00:23,080 --> 00:00:24,920
+所以他只能看著
+So he just has to watch.
+
+13
+00:00:24,980 --> 00:00:27,750
+福伊爾有個儲物間  有人幫他接管了
+Foyle had a storage unit. Someone took it on after him.
+
+14
+00:00:27,750 --> 00:00:28,720
+要是調查沒有進展
+If something's not turning up,
+
+15
+00:00:28,720 --> 00:00:29,900
+就意味著你要換個角度入手
+you need to look for it somewhere else.
+
+16
+00:00:29,900 --> 00:00:32,270
+你當天晚上做的晚餐是什么
+And what did you make for dinner that night?
+
+17
+00:00:32,270 --> 00:00:33,910
+奶油培根意面
+Spaghetti carbonara!
+
+18
+00:00:33,910 --> 00:00:35,080
+我應該更拼命地跟他打
+I should've fought him harder.
+
+19
+00:00:35,080 --> 00:00:35,990
+杰米  你在說什么
+Jamie, What are you saying?
+
+20
+00:00:35,990 --> 00:00:37,050
+我抓傷了他的頭
+I scratched his head.
+
+21
+00:00:37,050 --> 00:00:38,490
+你用手去抓他了
+You scratched him with your hands?
+
+22
+00:00:38,490 --> 00:00:40,310
+-然后我躲起來了  -你挪過位置
+- And then I hid. - You moved?!
+
+23
+00:00:40,310 --> 00:00:42,330
+法醫在小屋里找到了DNA
+"The forensic team just found DNA at the cottage."
+
+24
+00:00:42,330 --> 00:00:43,480
+福伊爾的DNA嗎
+Foyle's?
+
+25
+00:00:43,570 --> 00:00:45,090
+他們想見面談
+"They want to meet."
+
+26
+00:00:45,310 --> 00:00:47,360
+你在發現妻子的震驚和悲傷之中
+In the shock and trauma of finding your wife,
+
+27
+00:00:47,360 --> 00:00:49,020
+你看向窗外  看到一個男人
+you look up at the window and see a man
+
+28
+00:00:49,020 --> 00:00:52,030
+如果此人消失  則對你非常有利
+whose absence from your life would be very useful indeed,
+
+29
+00:00:52,030 --> 00:00:54,440
+但并不是他  對嗎  伯頓先生
+but it wasn't that man, was it, Mr Burton?
+
+30
+00:00:54,440 --> 00:00:56,250
+只是你希望是他
+You just wanted it to be.
+
+31
+00:02:24,060 --> 00:02:26,840
+-謝謝  早安  -早安  蘭伯特醫生
+- Thanks. Morning! - Good morning, Doctor Lambert.
+
+32
+00:02:26,840 --> 00:02:29,290
+對不起我遲到了  給我提個醒兒
+Sorry I'm late. Remind me...
+
+33
+00:02:29,290 --> 00:02:31,450
+-低數值DNA  凱特·伯頓  -想起來了
+- Low-count DNA. Kate Burton. - Oh, yeah.
+
+34
+00:02:31,450 --> 00:02:32,360
+今天的證詞要簡短直接
+Straight and short this morning.
+
+35
+00:02:32,360 --> 00:02:33,570
+他們會在低數值上面為難你
+They'll try and trip you on the low count.
+
+36
+00:02:33,570 --> 00:02:35,390
+回答簡潔明了就好
+Keep your answers simple.
+
+37
+00:02:35,390 --> 00:02:38,370
+謝謝提醒  這種事我已經做過三四百次了
+Thanks for the tip. I've only done this three or 400 times.
+
+38
+00:02:39,900 --> 00:02:42,510
+這種分析是否可以證明
+Did this analysis prove conclusively
+
+39
+00:02:42,510 --> 00:02:45,120
+在小屋發現的DNA
+that the DNA discovered in the cottage
+
+40
+00:02:45,120 --> 00:02:47,560
+與某個人的DNA吻合
+matches that of a particular individual?
+
+41
+00:02:47,560 --> 00:02:50,800
+-可以  -與誰的DNA吻合
+- It did. - Whose DNA did the sample match?
+
+42
+00:02:50,860 --> 00:02:54,960
+我們發現該DNA與利亞姆·福伊爾先生吻合
+We matched the sample to the DNA of Mr Liam Foyle.
+
+43
+00:02:56,780 --> 00:02:59,090
+我們的檢測過程十分嚴格
+We are very stringent about our quality controls.
+
+44
+00:02:59,090 --> 00:03:01,430
+對于工作向來一絲不茍
+We take our job extremely seriously.
+
+45
+00:03:01,430 --> 00:03:03,280
+這樣我們就放心了
+That is very reassuring.
+
+46
+00:03:03,430 --> 00:03:04,680
+去年檢察署起訴福伊爾先生時
+Were you responsible for analysing
+
+47
+00:03:04,680 --> 00:03:08,670
+是你們負責檢驗案子的DNA樣本嗎
+DNA samples in connection with Crown vs Foyle last year?
+
+48
+00:03:08,890 --> 00:03:10,350
+我想是的
+I believe so.
+
+49
+00:03:10,450 --> 00:03:11,920
+你想是的
+You believe so?
+
+50
+00:03:13,120 --> 00:03:14,480
+是我們負責的
+Yes, we were.
+
+51
+00:03:14,480 --> 00:03:17,120
+為了做那份檢驗  我委托人的DNA樣本
+And in order to do that, samples of my client's DNA
+
+52
+00:03:17,120 --> 00:03:20,510
+會被送到你們實驗室進行分析檢測  對吧
+would've been sent to and processed by your lab, is that correct?
+
+53
+00:03:20,510 --> 00:03:22,250
+-是的  有個...  -謝謝
+- Well, yes, there's a...  - Thank you.
+
+54
+00:03:22,910 --> 00:03:25,610
+所以當時我委托人的DNA 
+So my client's DNA, at that time,
+
+55
+00:03:25,610 --> 00:03:27,270
+如同老房子里的灰塵
+would've been effectively distributed
+
+56
+00:03:27,270 --> 00:03:30,680
+撒滿了你們的實驗室  對吧
+throughout that lab like dust through an old house?
+
+57
+00:03:30,680 --> 00:03:33,520
+-法官閣下  -我想你的問話是有目的的吧
+- My Lord! - I take it this is leading somewhere?
+
+58
+00:03:33,520 --> 00:03:35,260
+馬上就說到了  法官閣下
+I'm just arriving now, My Lord.
+
+59
+00:03:35,260 --> 00:03:38,210
+蘭伯特醫生  我有份你們實驗室的宣誓證詞
+Dr Lambert, I have a sworn statement from your laboratory
+
+60
+00:03:38,210 --> 00:03:41,750
+其中指出本月12日  所有的無菌房
+that confirms a deep clean was performed in all clean-room areas
+
+61
+00:03:41,750 --> 00:03:42,910
+都進行了一次徹底清理
+on the 12th of this month.
+
+62
+00:03:42,910 --> 00:03:45,680
+-你提前進行了清理  為什么  -搞什么
+- You brought the schedule forward. Why was that? - Oh, come on!
+
+63
+00:03:45,680 --> 00:03:47,000
+梅菲爾德先生
+Mr Mayfield...
+
+64
+00:03:47,000 --> 00:03:48,780
+蘭伯特醫生  請回答
+Dr Lambert, if you please...
+
+65
+00:03:49,920 --> 00:03:51,700
+我們定期進行清理
+We conduct regular cleaning.
+
+66
+00:03:51,870 --> 00:03:53,460
+最近決定要增加
+We recently decided to increase
+
+67
+00:03:53,460 --> 00:03:55,730
+-清理次數  -為什么要提前進行
+- the number of cleans... - Why was the schedule brought forward?
+
+68
+00:03:55,730 --> 00:03:57,400
+我注意到你們的日常清理都是
+I notice that your cleaning schedule is normally
+
+69
+00:03:57,400 --> 00:04:01,440
+嚴格按規定執行的  所以肯定有事發生
+enacted on a clear and regulated basis, so something must've happened.
+
+70
+00:04:01,440 --> 00:04:02,560
+有這個必要
+It was necessary.
+
+71
+00:04:02,560 --> 00:04:05,560
+你們是否正在實驗室里
+Are you or are you not in the process of an internal investigation
+
+72
+00:04:05,560 --> 00:04:09,180
+針對污染程度進行內部調查
+into the viability of contaminants within the laboratory?
+
+73
+00:04:10,020 --> 00:04:11,630
+請回答是或不是
+Please answer yes or no.
+
+74
+00:04:13,040 --> 00:04:14,800
+但我怎么回答...
+But you can't answer...
+
+75
+00:04:17,390 --> 00:04:18,620
+是
+Yes.
+
+76
+00:04:18,620 --> 00:04:20,420
+你是擔心你們的錯誤率過高嗎
+Are you concerned about your failure rate?
+
+77
+00:04:20,420 --> 00:04:23,530
+我是不是...誰不擔心錯誤率的問題
+Am I...? Everyone's concerned about their failure rate!
+
+78
+00:04:23,530 --> 00:04:25,990
+-整個行業都擔心  -謝謝
+- It's an industry-wide concern! - Thank you.
+
+79
+00:04:25,990 --> 00:04:27,690
+法官閣下  我們先前可不知道這個
+My Lord, this is new information.
+
+80
+00:04:27,690 --> 00:04:29,470
+確實應該早些公布出來
+It should've been disclosed, certainly.
+
+81
+00:04:29,470 --> 00:04:30,680
+毫無疑問的是
+What's clear beyond doubt is,
+
+82
+00:04:30,680 --> 00:04:33,970
+該DNA證據是完全不能采信的
+this DNA evidence is utterly compromised.
+
+83
+00:04:36,780 --> 00:04:39,770
+-你得阻止她  -有點為時過晚
+- You have to stop her. - It's a wee bit late for that.
+
+84
+00:04:39,770 --> 00:04:42,050
+她那是顛倒黑白  混淆是非
+She's twisting the facts around to make them wrong.
+
+85
+00:04:42,050 --> 00:04:43,690
+倒是干得挺不錯的
+Doing a good job of it, too.
+
+86
+00:04:44,560 --> 00:04:47,430
+要是沒有DNA證據  我們還有什么
+If we don't have this DNA, then what do we have?
+
+87
+00:04:48,970 --> 00:04:50,250
+麻煩
+A problem.
+
+88
+00:04:52,790 --> 00:04:54,550
+奶油培根意面
+Spaghetti carbonara
+
+89
+00:04:54,550 --> 00:04:57,530
+餐后甜點是北極雪卷
+and an Arctic roll for afters.
+
+90
+00:04:58,090 --> 00:05:00,240
+莫里斯女士  那是辯方關心的問題
+Miss Morris, that's a matter for defence counsel.
+
+91
+00:05:00,240 --> 00:05:03,320
+我只想問你儲物間搜查的結果
+All I want to ask you about is the search of your storage unit,
+
+92
+00:05:03,320 --> 00:05:06,100
+而不是不在場證明  盡管不怎么樣
+not the defence alibi, such as it is.
+
+93
+00:05:06,100 --> 00:05:08,590
+-請如實回答我的問題  -法官閣下
+- Please stick to the matter at hand. - My Lord!
+
+94
+00:05:08,590 --> 00:05:10,810
+趕緊問  梅菲爾德先生
+Get on with it, Mr Mayfield.
+
+95
+00:05:10,810 --> 00:05:14,610
+莫里斯女士  你租了儲物間嗎
+Miss Morris, you maintain a contract with this storage facility?
+
+96
+00:05:14,610 --> 00:05:15,980
+是的
+I do, yes.
+
+97
+00:05:15,980 --> 00:05:18,540
+幾天前警方搜查你的儲物間時
+And when these premises were searched by the police a few days ago,
+
+98
+00:05:18,540 --> 00:05:23,200
+發現了一雙12號的靴子
+a pair of size-12 boots was recovered from your unit,
+
+99
+00:05:23,200 --> 00:05:25,760
+-是嗎  -是的  在另一個儲物間
+- isn't that right? - Yes, er, the other unit.
+
+100
+00:05:25,760 --> 00:05:28,660
+是你的靴子嗎  對你來說好像有點大啊
+Are these your boots? They seem rather large for you!
+
+101
+00:05:28,660 --> 00:05:30,070
+什么另一個儲物間
+What other unit?
+
+102
+00:05:30,330 --> 00:05:31,380
+法官閣下  這是新證據
+My Lord, this is new information!
+
+103
+00:05:31,380 --> 00:05:33,770
+所有新證據昨天都已經告知辯方律師了
+All new information was given to my learned friend yesterday.
+
+104
+00:05:33,770 --> 00:05:35,640
+證物連續性  法官閣下
+Chain of continuity, My Lord...
+
+105
+00:05:36,600 --> 00:05:37,930
+庭警
+Usher.
+
+106
+00:05:41,290 --> 00:05:43,820
+那是針對艾琳·莫里斯儲物間內物品的搜查令
+The warrant was for Eileen Morris's possessions in the storage unit.
+
+107
+00:05:43,820 --> 00:05:47,840
+-他們無權搜查F38  只有F37  -如果
+- They had no authority to search F38. Only F37. - If...
+
+108
+00:05:47,840 --> 00:05:50,240
+搜查F38是不合法的
+The search of F38 was unlawful.
+
+109
+00:05:50,240 --> 00:05:52,770
+如果辯方對證物有疑問
+If defence had a problem with the evidence,
+
+110
+00:05:52,770 --> 00:05:54,770
+應該在適當時間提出
+they should've argued it at the appropriate time.
+
+111
+00:05:54,770 --> 00:05:56,610
+我們剛得知此事
+The issue has only just come to light.
+
+112
+00:05:56,610 --> 00:05:58,920
+福伊爾以前用過F37的事實與本案有關
+Foyle's previous use of F37 connects him to it.
+
+113
+00:05:58,920 --> 00:06:00,570
+符合證物連續性
+It falls within the chain of continuity.
+
+114
+00:06:00,570 --> 00:06:02,870
+F38則是完全不相關的
+F38 was entirely separate!
+
+115
+00:06:02,870 --> 00:06:04,020
+法官閣下  我理所應當請您
+Judge, obviously I will ask you
+
+116
+00:06:04,020 --> 00:06:06,050
+依照第78條排除這一非法物證
+to exclude this evidence under Section 78.
+
+117
+00:06:06,050 --> 00:06:08,280
+它們就挨在一起  這...
+It was the unit next door! It...
+
+118
+00:06:14,710 --> 00:06:17,960
+對于你的請求  我當然同意
+And should you request, I will no doubt accede.
+
+119
+00:06:20,190 --> 00:06:22,640
+那我建議  法官閣下
+Then, I respectfully submit, My Lord,
+
+120
+00:06:23,260 --> 00:06:24,980
+無須答辯
+there is no case to answer.
+
+121
+00:06:25,740 --> 00:06:27,610
+由于缺乏可信證據
+In the absence of any viable evidence
+
+122
+00:06:27,610 --> 00:06:29,700
+明明有令人信服的證據
+There is compelling evidence!
+
+123
+00:06:35,830 --> 00:06:39,810
+目擊者證詞來自一個傷心的人
+The eyewitness evidence of a broken man,
+
+124
+00:06:40,410 --> 00:06:42,850
+獨自在黑暗中  情緒失常
+alone and devastated in the dark...
+
+125
+00:06:47,240 --> 00:06:49,200
+我聽過了辯方律師
+Having heard arguments from counsel
+
+126
+00:06:49,200 --> 00:06:53,820
+就本次庭審中證據可信度的意見
+as to the strength of the evidence at this stage of the trial,
+
+127
+00:06:53,920 --> 00:06:55,910
+作出以下結論
+I have concluded the following...
+
+128
+00:06:57,760 --> 00:07:00,770
+供陪審團參考
+There is insufficient evidence
+
+129
+00:07:01,330 --> 00:07:04,180
+繼續庭審的證據不足
+for the case to continue for your consideration.
+
+130
+00:07:04,740 --> 00:07:07,070
+因此我建議
+For that reason, on my direction,
+
+131
+00:07:07,070 --> 00:07:11,700
+你們可作出無罪判決
+you will return a verdict of not guilty.
+
+132
+00:07:11,880 --> 00:07:13,960
+根據法官閣下的建議
+On His Lordship's direction,
+
+133
+00:07:14,370 --> 00:07:17,230
+你們認為被告有罪嗎
+do you find the defendant not guilty?
+
+134
+00:07:17,250 --> 00:07:18,650
+無罪
+Not guilty.
+
+135
+00:07:18,780 --> 00:07:22,230
+-是陪審團的一致裁決嗎  -是的
+- And is that the verdict of you all? - Yes.
+
+136
+00:07:24,040 --> 00:07:25,410
+全體起立
+All rise.
+
+137
+00:07:29,810 --> 00:07:32,130
+福伊爾先生  你可以離開被告席了
+Mr Foyle, you may leave the dock.
+
+138
+00:07:38,890 --> 00:07:41,820
+-恭喜  -謝謝
+- Congratulations. - Oh, thanks.
+
+139
+00:07:41,820 --> 00:07:43,110
+瑪格麗特
+Margaret...
+
+140
+00:07:43,570 --> 00:07:45,020
+謝謝你  我的朋友
+Thank you, my friend.
+
+141
+00:07:46,620 --> 00:07:48,320
+不客氣  保重
+Pleasure. Take care.
+
+142
+00:08:12,510 --> 00:08:14,730
+你沒事吧  伙計  抱歉  腳滑了
+Are you all right there, mate? Sorry, my foot slipped.
+
+143
+00:08:14,730 --> 00:08:16,290
+你沒事吧
+Are you all right? Yeah?
+
+144
+00:08:42,470 --> 00:08:43,690
+杰米
+Jamie...
+
+145
+00:09:08,200 --> 00:09:10,980
+她成功了  開酒
+Ah, she blows! Pull!
+
+146
+00:09:11,290 --> 00:09:15,240
+表現完美  一級棒
+A consummate performance. First class.
+
+147
+00:09:15,260 --> 00:09:16,780
+這是給你的
+This is for you.
+
+148
+00:09:17,790 --> 00:09:19,420
+你值得擁有
+I believe you've earned it.
+
+149
+00:09:21,400 --> 00:09:22,850
+還有酒哦
+Pretty juicy, too!
+
+150
+00:09:22,850 --> 00:09:24,610
+謝謝
+Ooh! Thank you.
+
+151
+00:10:27,120 --> 00:10:29,420
+-瓦迪姆  -失陪一下
+- Vadim! - Excuse me.
+
+152
+00:10:30,270 --> 00:10:31,650
+威爾先生
+Mr Will.
+
+153
+00:10:31,970 --> 00:10:33,190
+你看起來不錯
+You're looking well.
+
+154
+00:10:33,900 --> 00:10:36,000
+你妻子的事我很遺憾
+I'm sorry to hear about your wife.
+
+155
+00:10:36,000 --> 00:10:39,320
+-謝謝  -有什么能幫忙的...
+- Thank you. - If there is anything I can do for you...
+
+156
+00:10:39,320 --> 00:10:41,140
+你幾點下班
+What time do you finish work?
+
+157
+00:12:19,800 --> 00:12:21,470
+我克隆得很快
+I clone it fast.
+
+158
+00:12:24,810 --> 00:12:26,630
+{\pos(313.714,145.454)}{\pos(80,242)}shad2姓名  利亞姆·邁克爾·福伊爾
+
+159
+00:12:24,810 --> 00:12:26,630
+{\pos(277.522,176.545)}{\pos(80,242)}shad2持卡類型  借記卡
+
+160
+00:12:24,810 --> 00:12:26,630
+{\pos(311.26,221.545)}{\pos(80,242)}shad2卡號  4012 8888 8888 1881
+
+161
+00:12:42,310 --> 00:12:45,100
+你要的地名  本阿力金
+The name you wanted - Beinn Alligin.
+
+162
+00:13:01,090 --> 00:13:04,470
+抱歉  我就想過來...
+Hi. Look, sorry, I just wanted to come and...
+
+163
+00:13:08,030 --> 00:13:09,790
+我也不知道我到底來干什么
+I'm not sure why I came, actually.
+
+164
+00:13:12,220 --> 00:13:13,800
+那人就是那個誰嗎
+Was that who I think it was?
+
+165
+00:13:16,380 --> 00:13:18,140
+我以為你開慶功會去了
+I thought you'd be out celebrating.
+
+166
+00:13:18,990 --> 00:13:20,230
+沒有
+No, just...
+
+167
+00:13:24,620 --> 00:13:25,840
+我很抱歉
+I'm sorry.
+
+168
+00:13:26,360 --> 00:13:27,840
+-只是...  -你的工作
+- It's just... - Your job.
+
+169
+00:13:30,630 --> 00:13:32,260
+我沒有惡意
+Look, no hard feelings.
+
+170
+00:13:32,260 --> 00:13:34,030
+-我想說...  -你自己小心吧  瑪吉
+- By which I mean -Watch yourself, Maggie.
+
+171
+00:14:37,180 --> 00:14:38,380
+我能...
+Can I...
+
+172
+00:14:39,370 --> 00:14:41,130
+我今晚能去你那兒嗎
+Can I come round tonight, please?
+
+173
+00:14:42,890 --> 00:14:44,420
+我好害怕
+I'm freaking out!
+
+174
+00:14:44,420 --> 00:14:46,490
+我認為這太不合適了
+"I think this is most inappropriate."
+
+175
+00:14:46,490 --> 00:14:49,120
+得了吧  你還認為
+Oh, come on, think...
+
+176
+00:14:50,380 --> 00:14:52,790
+他怎么知道的  他不可能知道
+How did he know? There's no way he could've known!
+
+177
+00:14:52,790 --> 00:14:53,780
+如果你那么擔心
+"If you're that concerned,
+
+178
+00:14:53,780 --> 00:14:56,490
+-我建議你打電話叫警察  -天哪
+- I suggest you call the police." - Oh, God!
+
+179
+00:14:57,440 --> 00:15:00,030
+天哪  我剛才完全...
+Oh, God, I've just completely...
+
+180
+00:15:21,630 --> 00:15:23,040
+我們還有機會可以上訴
+We have a window for appeal.
+
+181
+00:15:23,040 --> 00:15:25,490
+-可能現在不行  但是...  -得了吧
+- Maybe not now, but... - Come on!
+
+182
+00:15:29,200 --> 00:15:32,610
+-可希望總是...  -算了  我們輸了
+- No, optimism was never... - Forget it. We lost.
+
+183
+00:15:35,600 --> 00:15:36,900
+結束了
+It's over.
+
+184
+00:16:31,220 --> 00:16:32,460
+威爾
+Will!
+
+185
+00:16:49,050 --> 00:16:50,340
+要來嗎
+Are you coming?
+
+186
+00:17:09,250 --> 00:17:11,060
+-我以前都不知道這地方  -是啊
+- I never knew about this place. - Yeah,
+
+187
+00:17:11,060 --> 00:17:13,380
+凱特的堂兄偶爾借我們一用
+Kate's cousin lets us use it every now and again.
+
+188
+00:17:14,090 --> 00:17:16,540
+不如開瓶酒  想喝嗎
+Cracking bottle of wine inside, if you're interested?
+
+189
+00:17:23,720 --> 00:17:25,970
+找你可真是大費周章
+It took some real sleuthing to find you.
+
+190
+00:17:25,970 --> 00:17:27,330
+你知道我的行事風格  華生
+You know my methods, Watson.
+
+191
+00:17:27,330 --> 00:17:29,560
+-紅的還是白的  -你選
+- Red or white? - Er... You chose.
+
+192
+00:17:29,560 --> 00:17:32,060
+你怎么樣  丹尼
+How are you, Danny?!
+
+193
+00:17:32,060 --> 00:17:33,870
+見了你感覺好多啦  哥們
+All the better for seeing you, mate!
+
+194
+00:17:33,870 --> 00:17:36,880
+-幫忙倒進鍋里  -活的喲
+- Pop those in the pot, would you? - That's alive, alive.
+
+195
+00:17:36,880 --> 00:17:38,330
+活的才對嘛
+Now you're talking.
+
+196
+00:17:39,110 --> 00:17:42,070
+你煮面我做醬料
+Ah, here! You pasta, me sauce.
+
+197
+00:17:46,200 --> 00:17:47,970
+這不需要許可證嗎
+Don't you need a permit for those?
+
+198
+00:17:48,140 --> 00:17:51,770
+潮區打漁是公共權利  1863年馬爾科森
+Public right to fish in tidal waters - Malcomson v O'Dea, 1863,
+
+199
+00:17:51,770 --> 00:17:52,970
+之前還有大憲章
+before that, the Magna Carta.
+
+200
+00:17:52,970 --> 00:17:55,060
+說實話  大憲章里從未提過
+To be fair, it's not mentioned at
+
+201
+00:17:55,060 --> 00:17:57,020
+只是大家都這么以為而已
+all in the Magna Carta, everyone just thinks it was.
+
+202
+00:17:57,020 --> 00:17:59,770
+所以嚴格來講  我們現在是在違法
+So strictly speaking, right now, we just broke the law.
+
+203
+00:17:59,770 --> 00:18:01,560
+準確地說  是你違法
+Well, to be precise, you did!
+
+204
+00:18:01,560 --> 00:18:02,800
+可你現在也是從犯
+Except now, you're an accessory.
+
+205
+00:18:02,850 --> 00:18:04,130
+那我呢
+What about me?
+
+206
+00:18:04,690 --> 00:18:06,700
+-大概只會警告  -多謝了
+- Probably just a caution. - Thanks!
+
+207
+00:18:06,710 --> 00:18:07,480
+不客氣
+You're very welcome!
+
+208
+00:18:07,480 --> 00:18:08,900
+別唧唧歪歪了  快倒酒
+Stop crying and pour some wine.
+
+209
+00:18:12,310 --> 00:18:13,910
+更別提民事訴訟
+Not even a civil suit!
+
+210
+00:18:14,010 --> 00:18:15,740
+不要往那方向想了
+We're not going in that direction.
+
+211
+00:18:16,900 --> 00:18:18,760
+就算我們告倒他  也沒人是贏家
+Even if we get him, no-one wins.
+
+212
+00:18:19,700 --> 00:18:20,980
+又不能讓她起死回生
+It's not going to bring her back.
+
+213
+00:18:20,980 --> 00:18:22,430
+那我們就這么坐著
+So, we're just going to sit here, then?
+
+214
+00:18:30,430 --> 00:18:31,710
+你最近還忙嗎
+Are you keeping busy?
+
+215
+00:18:33,170 --> 00:18:35,340
+有份事務所經理的工作
+I've been offered Chambers Manager at Citadel.
+
+216
+00:18:38,530 --> 00:18:39,750
+曼徹斯特那邊
+Manchester.
+
+217
+00:18:40,090 --> 00:18:43,020
+你知道那邊怎么對待女王公園巡游者的粉絲吧
+You do know what they do to QPR supporters there, don't you?!
+
+218
+00:18:45,630 --> 00:18:47,640
+讓你受牽連我真抱歉  丹尼
+I'm sorry you had to take that fall, Danny.
+
+219
+00:18:52,680 --> 00:18:56,530
+你突然消失我們可都擔心了一陣子
+You had us all worried for a minute, disappearing like that.
+
+220
+00:18:56,590 --> 00:18:57,900
+為什么
+Why's that?
+
+221
+00:18:58,690 --> 00:19:00,690
+你一向井井有條的
+You always seem so planned.
+
+222
+00:19:00,900 --> 00:19:02,180
+你是沒瞧見我接送孩子上下學
+You haven't seen the school run.
+
+223
+00:19:02,180 --> 00:19:05,440
+閑著不做事不是你的風格
+I mean, it's not like you to do anything on the fly.
+
+224
+00:19:07,220 --> 00:19:09,460
+這才是我  丹尼
+Well, that's me all over, Danny.
+
+225
+00:19:09,950 --> 00:19:11,980
+處處驚喜
+I'm just full of surprises.
+
+226
+00:19:32,870 --> 00:19:34,080
+到愛丁堡要多久
+How long does it take to get to Edinburgh?
+
+227
+00:19:34,080 --> 00:19:35,940
+照你這樣開車  十分鐘
+Ten minutes, the way you drive.
+
+228
+00:19:40,850 --> 00:19:42,550
+別開得飛起來
+Try not to take off, OK.
+
+229
+00:19:45,100 --> 00:19:49,020
+我會盡快回來  替我照顧好奶奶
+I'll be back as soon as I can. Look after Granny for me.
+
+230
+00:19:50,630 --> 00:19:52,260
+-爸爸  -說
+- Dad... - Yeah?
+
+231
+00:19:52,990 --> 00:19:54,360
+你在發抖
+You're shaking.
+
+232
+00:20:28,300 --> 00:20:32,150
+如果你真的考慮過來
+Look, I mean, if you really were thinking of coming here,
+
+233
+00:20:32,150 --> 00:20:37,900
+我們當然非常樂意有你加入
+we'd, obviously, be very interested in having you join the set.
+
+234
+00:20:37,900 --> 00:20:41,370
+不  我來看看  我家人需要換個環境
+No, I'm actively looking. My family needs a change of scene so...
+
+235
+00:20:41,430 --> 00:20:44,910
+全家來住  這可是個好地方
+Oh, well, for families, it's a lovely place!
+
+236
+00:20:45,270 --> 00:20:48,500
+您在這期間不妨租車四處轉轉
+You should rent a car and drive around a bit while you're here,
+
+237
+00:20:49,210 --> 00:20:52,020
+-看看風景  -我或許會的
+- see the scenery. - I might just do that.
+
+238
+00:22:00,140 --> 00:22:02,340
+-要點兒什么  -可以借用下洗手間嗎
+- What would you like? - Hi. Do you mind if I use your loo?
+
+239
+00:22:03,140 --> 00:22:04,110
+多謝
+Thanks.
+
+240
+00:27:21,030 --> 00:27:23,070
+如今的法律怎么界定私闖民宅
+What's the law on home invasion these days?
+
+241
+00:27:23,070 --> 00:27:24,540
+我有點兒不清楚了
+I'm a little cloudy.
+
+242
+00:27:25,340 --> 00:27:27,570
+在自己家中受到陌生人驚嚇
+What's a proportionate response to someone
+
+243
+00:27:27,570 --> 00:27:30,500
+正常的是什么反應
+surprised in their home by a stranger?
+
+244
+00:27:39,450 --> 00:27:40,930
+我有事要問你
+I need to ask you something.
+
+245
+00:27:42,180 --> 00:27:43,680
+我在臉書上
+I'm on Facebook.
+
+246
+00:27:44,980 --> 00:27:45,900
+我知道
+I know.
+
+247
+00:27:49,810 --> 00:27:50,920
+你都來了
+You're here now,
+
+248
+00:27:52,060 --> 00:27:54,310
+想問我什么就問吧
+so you can ask me whatever you like.
+
+249
+00:28:06,590 --> 00:28:08,710
+你什么時候打定主意要殺我妻子的
+When did you decide to kill my wife?
+
+250
+00:28:16,340 --> 00:28:17,810
+拜托了  我想知道
+Please, I need to know.
+
+251
+00:28:19,390 --> 00:28:23,210
+你殺她時  她是不是很快就死了
+When you killed her, did she die quickly?
+
+252
+00:28:27,220 --> 00:28:30,010
+你這是在和我玩角色扮演嗎
+Are you playing a character? Are you?
+
+253
+00:28:30,780 --> 00:28:34,930
+你覺得你現在是居高臨下俯視眾生嗎
+Are you all the way up there, looking all the way down here?
+
+254
+00:28:35,800 --> 00:28:38,770
+還是你覺得我有那么一點弱智
+And do you think I'm a little bit stupid?
+
+255
+00:28:53,990 --> 00:28:55,870
+你這樣子就不對了
+You're going about this all wrong.
+
+256
+00:28:59,910 --> 00:29:01,410
+這種事不是你最在行嗎
+Well, you're the expert.
+
+257
+00:29:03,360 --> 00:29:05,410
+你什么時候決定要殺我妻子的
+When did you decide to kill my wife?
+
+258
+00:29:05,930 --> 00:29:07,280
+你的腦子啊
+You and your brain!
+
+259
+00:29:07,580 --> 00:29:09,430
+近距離看過大腦嗎
+Have you ever seen a brain up close?
+
+260
+00:29:09,560 --> 00:29:11,110
+樣子就像一顆花椰菜
+It looks like a cauliflower.
+
+261
+00:29:11,410 --> 00:29:13,910
+大腦皮層就像糖霜一樣
+The neural cortex looks like icing.
+
+262
+00:29:14,610 --> 00:29:17,040
+據說這一點區分了我們和動物
+They say it's what separates us from the animals.
+
+263
+00:29:17,560 --> 00:29:20,080
+但我們也是動物  哺乳動物
+But we are animals. We're mammals.
+
+264
+00:29:20,100 --> 00:29:21,260
+就像獅子
+Like a lion.
+
+265
+00:29:21,770 --> 00:29:24,600
+你總不會怪一頭獅子野性難馴吧  威爾
+You wouldn't blame a lion for being a lion, would you, Will?
+
+266
+00:29:25,380 --> 00:29:27,300
+而且還是你親手將他放出籠子的
+Especially if you were the one who let him out.
+
+267
+00:29:30,080 --> 00:29:32,050
+你是怎么過下去的
+How do you live with yourself?
+
+268
+00:29:34,210 --> 00:29:35,790
+自我諒解
+I forgive myself.
+
+269
+00:29:37,910 --> 00:29:39,770
+你又是怎么過下去的
+How do you live with yourself?
+
+270
+00:30:08,620 --> 00:30:10,440
+你還真是聰明
+You're very clever!
+
+271
+00:30:19,590 --> 00:30:20,780
+我的筆
+My pen...
+
+272
+00:30:21,790 --> 00:30:22,920
+快把筆拿來
+Get the pen!
+
+273
+00:30:58,920 --> 00:31:00,090
+救護車
+Ambulance.
+
+274
+00:31:01,710 --> 00:31:02,890
+是個橢圓的管子
+It's an oval tube.
+
+275
+00:31:02,890 --> 00:31:04,170
+橢圓管  沒錯  沒錯
+Oval tube! Yes! Yes!
+
+276
+00:31:04,170 --> 00:31:07,340
+-管身是灰色末端是橙色  -沒錯
+- It's sort of grey with an orange end. - Yeah. That's it.
+
+277
+00:31:07,340 --> 00:31:08,610
+我現在開免提
+I'm putting you on speaker.
+
+278
+00:31:09,650 --> 00:31:11,530
+-能聽到我說話嗎  -聽得到
+- Can you still hear me? - Yes, I can hear you.
+
+279
+00:31:11,700 --> 00:31:13,420
+-管子拿好了嗎  -好了
+- Are you holding the tube? - Yeah.
+
+280
+00:31:13,540 --> 00:31:15,370
+-用拳頭握緊管子  -好的
+- Now put your fist around the tube. - OK.
+
+281
+00:31:15,370 --> 00:31:18,200
+把橙色尖端對準大腿
+Hold the orange tip near the thigh.
+
+282
+00:31:18,200 --> 00:31:21,180
+-他穿著褲子  -針能刺進去
+- He has his trousers on! - The needle will go through the cortex.
+
+283
+00:31:21,180 --> 00:31:24,110
+把橙色尖端對準大腿  另一只手
+Hold the orange tip near his thigh, with your other hand
+
+284
+00:31:24,110 --> 00:31:26,940
+-把藍色的安全閥摘掉  -搞定
+- pull off the blue safety release. - Ok. Done it.
+
+285
+00:31:26,940 --> 00:31:31,250
+現在把尖端用力刺進大腿直到聽到咔噠聲
+Now, swing and firmly push the tip against the thigh until it clicks.
+
+286
+00:31:31,250 --> 00:31:34,410
+再保持十秒鐘  明白了嗎
+And hold it there for ten seconds. Did you get that?"
+
+287
+00:31:34,410 --> 00:31:36,760
+刺進去  咔噠聲  等一會兒  我開始了
+Swing, click, wait. OK. Here goes.
+
+288
+00:31:37,900 --> 00:31:38,710
+這是什么聲音
+What was that?
+
+289
+00:31:38,710 --> 00:31:41,900
+應該是針桿裝置的聲音  里面裝了彈簧
+You probably heard the needle mechanism. It's spring-loaded.
+
+290
+00:31:42,700 --> 00:31:44,380
+-好的  -腎上腺素筆里的藥劑
+- OK. - The drug in the EpiPen
+
+291
+00:31:44,380 --> 00:31:46,850
+應該能在救護車到前保持他體征平穩
+should keep him steady 'till the ambulance gets to you.
+
+292
+00:31:48,330 --> 00:31:50,110
+-你還在聽嗎  -在聽
+- Are you still with me? - Yeah. I'm here.
+
+293
+00:31:50,110 --> 00:31:51,390
+你做得很好
+You're doing great.
+
+294
+00:31:51,570 --> 00:31:54,110
+-現在呢  -可以拿出來了
+- What now? - OK, you can take it out.
+
+295
+00:31:54,110 --> 00:31:57,900
+看下針管  能看到紅色長條嗎
+Look at the barrel. Is there a red strip visible on the barrel?
+
+296
+00:31:57,900 --> 00:32:00,050
+有的話就說明藥劑打進去了
+That will tell you that the drug went in.
+
+297
+00:32:00,310 --> 00:32:02,070
+稍等下
+Er, hang on. Hang on.
+
+298
+00:32:03,190 --> 00:32:04,380
+我看不清
+I can't see it!
+
+299
+00:32:04,380 --> 00:32:06,590
+刻度上方有個小窗
+Just above the writing, there's a window.
+
+300
+00:32:07,640 --> 00:32:09,670
+沒錯  找到了  在這兒
+Oh, yes! Yes, yes, yes, it's there!
+
+301
+00:32:09,820 --> 00:32:11,560
+病人有反應嗎
+Is the patient responding?
+
+302
+00:32:17,440 --> 00:32:19,420
+先生  先生  還在嗎
+Sir? Sir? Hello?
+
+303
+00:32:19,420 --> 00:32:20,900
+有人在聽嗎
+Anybody hear me?
+
+304
+00:32:21,030 --> 00:32:22,170
+有人嗎
+Hello?
+
+305
+00:32:22,880 --> 00:32:24,170
+有人在聽嗎
+Anybody there?
+
+306
+00:32:25,030 --> 00:32:26,360
+先生  在聽嗎
+Hello, sir?
+
+307
+00:32:27,090 --> 00:32:28,180
+能聽得到我說話嗎
+Can you hear me?
+
+308
+00:33:01,040 --> 00:33:02,810
+-沒什么大礙吧  -沒事  就被煙嗆了
+- Are you all right? - Yeah, just a bit of smoke.
+
+309
+00:33:02,810 --> 00:33:04,710
+-只有你們兩個人嗎  -是的
+- Just the two of you up there? - Yeah.
+
+310
+00:33:04,940 --> 00:33:07,140
+血管舒張  毛細管滲漏
+Showing vasodilation. Capillary leak.
+
+311
+00:33:07,140 --> 00:33:08,790
+-他不會有事吧  -肩部失血過多
+- Is he going to be OK? - Bad shoulder bleed here.
+
+312
+00:33:08,790 --> 00:33:10,650
+好吧  我們先保證他呼吸順暢
+All right let's concentrate on his breathing together.
+
+313
+00:33:10,650 --> 00:33:12,310
+戴好了
+Yeah. All right. Here you go.
+
+314
+00:33:12,310 --> 00:33:14,440
+你會沒事的  我們是急救人員
+You got it. You're going to be all right, OK? We're the paramedics.
+
+315
+00:33:14,440 --> 00:33:16,270
+-你最好和我們一起走  -可是我的車
+- You'd better come with us. - No, my car's -
+
+316
+00:33:16,270 --> 00:33:19,030
+我們不能丟下你  老兄  你跟我們一起
+No, mate, we can't leave you. You're going to come with us.
+
+317
+00:33:20,190 --> 00:33:21,870
+麻煩你拿一下那個綠色的包
+Bring that green bag, please.
+
+318
+00:33:22,560 --> 00:33:24,750
+一  二  三  抬
+One, two, three, lift!
+
+319
+00:33:25,650 --> 00:33:27,470
+-好的  我們走  -走吧
+- OK, let's go. - Go.
+
+320
+00:33:44,450 --> 00:33:46,500
+幸好有你朋友在  他用了腎上腺素筆
+Lucky your friend was there. He used your EpiPen.
+
+321
+00:33:46,500 --> 00:33:48,830
+我們還備了些腎上腺素供你使用  沒事
+We've got some more adrenalin ready if you need it, all right?
+
+322
+00:33:48,830 --> 00:33:52,370
+一切都好  我知道現在呼吸很困難
+Everything is OK. OK I know your breathing's not that easy,
+
+323
+00:33:52,370 --> 00:33:54,820
+我們五分鐘之內就會到醫院
+but we'll be in the hospital in five minutes, OK?
+
+324
+00:33:54,820 --> 00:33:56,990
+堅持住  眼睛睜開
+Hang on there. Just open your eyes.
+
+325
+00:33:57,620 --> 00:33:58,870
+胸外按壓
+Chest compressions!
+
+326
+00:33:59,420 --> 00:34:01,780
+注射一毫克腎上腺素
+OK, we've got one milligram of adrenalin.
+
+327
+00:34:04,280 --> 00:34:06,470
+很好  好的  老兄
+OK, well done. All right, mate...
+
+328
+00:34:06,980 --> 00:34:07,940
+介意我把窗戶打開嗎
+Mind if I open a window?
+
+329
+00:34:07,940 --> 00:34:08,660
+我有點想吐
+I think I'm going to be sick.
+
+330
+00:34:08,660 --> 00:34:10,180
+他的心搏停止了
+He's arrested in the back!
+
+331
+00:34:35,970 --> 00:34:38,170
+心搏停止了
+Arrested!
+
+332
+00:35:30,020 --> 00:35:31,090
+威廉·伯頓
+William Burton?
+
+333
+00:35:32,880 --> 00:35:34,930
+請過來一下
+Will you come with me, please?
+
+334
+00:35:38,760 --> 00:35:41,050
+你和福伊爾先生之間發生了什么事情嗎
+Did you and Mr. Foyle have any interactions?
+
+335
+00:35:41,630 --> 00:35:42,450
+是的
+Yes.
+
+336
+00:35:43,240 --> 00:35:45,660
+他襲擊了我  然后我刺傷了他
+He attacked me and I stabbed him.
+
+337
+00:35:49,930 --> 00:35:51,030
+用這把刀
+With this...
+
+338
+00:36:13,570 --> 00:36:15,190
+真讓人吃驚啊  對吧
+Quite a shock, don't you think?
+
+339
+00:36:15,480 --> 00:36:16,500
+什么意思
+What is?
+
+340
+00:36:18,480 --> 00:36:22,520
+{\pos(245.01,54.637)}{\pos(80,242)}shad0刑事律師因謀殺罪被起訴
+
+341
+00:36:20,990 --> 00:36:22,260
+他死了
+He's dead?
+
+342
+00:36:22,540 --> 00:36:23,690
+往下看
+Keep reading.
+
+343
+00:37:33,580 --> 00:37:37,090
+打擾一下  瓦迪姆·庫馬因還在這兒工作嗎
+Excuse me. Erm, does Vadim Kumarin still work here?
+
+344
+00:37:39,780 --> 00:37:43,070
+你知道他現在人在哪兒嗎  你知道
+Do you know where he might be? Do you know...
+
+345
+00:37:43,700 --> 00:37:44,520
+好吧
+Ok.
+
+346
+00:37:59,440 --> 00:38:00,380
+謝謝
+Thank you.
+
+347
+00:38:03,020 --> 00:38:04,490
+歡迎來到蘇格蘭
+Welcome to Scotland.
+
+348
+00:38:05,020 --> 00:38:06,310
+原來我在這里啊
+Oh, is that where I am?!
+
+349
+00:38:06,310 --> 00:38:07,840
+怪不得周圍都是蘇格蘭人
+I wondered why everyone was Scottish.
+
+350
+00:38:08,180 --> 00:38:09,930
+從檢察官那里傳來好消息
+Some good news from the fiscal.
+
+351
+00:38:09,930 --> 00:38:11,500
+如果你依照第76條
+They'd recommend acceptance
+
+352
+00:38:11,500 --> 00:38:14,790
+承認殺人罪  他們樂于接受
+if you offered a Section 76 plea of culpable homicide.
+
+353
+00:38:14,970 --> 00:38:17,650
+應該能減免三成的刑罰
+Probably a 30 percent discount on sentence.
+
+354
+00:38:17,830 --> 00:38:20,960
+最多被判入獄九年  六年后就能出獄
+That's nine years at most. Out in six.
+
+355
+00:38:22,410 --> 00:38:24,000
+你說是好消息  因為什么
+And that's good news because...?
+
+356
+00:38:25,140 --> 00:38:27,600
+因為你現在麻煩纏身
+Because you're in serious trouble.
+
+357
+00:38:28,270 --> 00:38:31,480
+你想做無罪申辯嗎  這可是謀殺案的審判
+If you're thinking of going not guilty, that's a murder trial!
+
+358
+00:38:31,480 --> 00:38:33,780
+公訴人會讓你死無葬身之地的
+The Crown's going to be all out for your blood.
+
+359
+00:38:34,400 --> 00:38:38,150
+聽著  我替你起草了一份認罪書
+Look, I typed up a draft plea offer for you.
+
+360
+00:38:40,310 --> 00:38:41,740
+這是一條出路
+This is a choice.
+
+361
+00:38:42,060 --> 00:38:42,680
+你可以選擇無期
+You've got life,
+
+362
+00:38:42,680 --> 00:38:44,850
+因謀殺罪最少入獄二十年
+with a minimum of 20 years for murder,
+
+363
+00:38:44,850 --> 00:38:46,300
+或者在這上面簽字
+or sign the offer,
+
+364
+00:38:46,300 --> 00:38:49,500
+六年就能出獄  還有機會看到你兒子畢業
+do six years and see your son finish school,
+
+365
+00:38:50,290 --> 00:38:51,720
+而不是完全錯過他的成長
+instead of missing the whole thing.
+
+366
+00:38:51,720 --> 00:38:54,570
+我一分一秒都不會錯過
+I'm not missing a single second!
+
+367
+00:38:54,980 --> 00:38:56,340
+不要這樣  冷靜點
+Don't be like this. Come on.
+
+368
+00:38:57,190 --> 00:38:59,560
+你得認真考慮下我的話
+You need to seriously consider this.
+
+369
+00:39:00,090 --> 00:39:01,820
+-你認為人是我殺的嗎  -當然不
+- Do you think I did it? - No!
+
+370
+00:39:02,690 --> 00:39:03,670
+不是
+No.
+
+371
+00:39:04,920 --> 00:39:06,130
+我當然不這么想
+Of course I don't.
+
+372
+00:39:10,780 --> 00:39:12,300
+確保你把這張紙扔了
+Make sure you recycle that.
+
+373
+00:39:12,300 --> 00:39:13,470
+很感謝你過來  詹妮
+I appreciate you coming down, Jen,
+
+374
+00:39:13,470 --> 00:39:14,610
+但我會為自己辯護
+but I think I'll do it myself.
+
+375
+00:39:15,460 --> 00:39:16,630
+-你不能這么做  -我可以
+- You can't.  - I can.
+
+376
+00:39:16,630 --> 00:39:18,140
+我完全可以勝任
+In fact, I can do all of it myself.
+
+377
+00:39:18,140 --> 00:39:19,270
+不  你不行
+No, you can't!
+
+378
+00:39:19,270 --> 00:39:21,200
+這里是蘇格蘭法律  你個笨蛋
+This is Scots Law, idiot.
+
+379
+00:39:21,650 --> 00:39:22,970
+跟你所學的完全不一樣
+There's a thousand differences.
+
+380
+00:39:22,970 --> 00:39:24,340
+《蘭頓和布朗  刑事訴訟程序》對吧
+Renton & Brown, right?
+
+381
+00:39:24,340 --> 00:39:25,700
+突擊看一下就行
+That's a punchy read.
+
+382
+00:39:31,020 --> 00:39:32,460
+你一直在努力幫我
+You've always been there for me,
+
+383
+00:39:32,460 --> 00:39:34,690
+但很抱歉  我不需要你為我辯護
+and I'm sorry, but this isn't going to work out.
+
+384
+00:39:35,850 --> 00:39:38,230
+你知道自己在干什么嗎
+What do you think you are doing? Eh?
+
+385
+00:39:38,950 --> 00:39:40,850
+-我是想幫你  -我知道
+- I'm trying to help you here! - I know.
+
+386
+00:39:41,010 --> 00:39:41,780
+謝謝你
+Thank you,
+
+387
+00:39:43,160 --> 00:39:44,770
+但我自己來就行
+but I'll take it from here.
+
+388
+00:40:28,910 --> 00:40:30,050
+起立
+Court!
+
+389
+00:40:47,850 --> 00:40:49,830
+女士們先生們
+Ladies and gentlemen,
+
+390
+00:40:50,420 --> 00:40:52,790
+今天提起的公訴如下
+the charge on the indictment is that,
+
+391
+00:40:52,790 --> 00:40:56,210
+3月23日  在蘇格蘭奧弗頓市旁
+on the 23rd of March, at a house near Overton
+
+392
+00:40:56,210 --> 00:40:58,540
+克爾德森林中的一所房子內
+in Kielder Forests in Scotland,
+
+393
+00:40:58,540 --> 00:41:02,720
+威廉·伯頓襲擊了利亞姆·邁克爾·福伊爾
+William Burton did assault Liam Michael Foyle
+
+394
+00:41:02,720 --> 00:41:05,100
+并用一把小刀刺傷了受害者
+and did stab on the body with a knife
+
+395
+00:41:05,100 --> 00:41:07,400
+刀上含有一種物質
+containing thereon a substance,
+
+396
+00:41:07,410 --> 00:41:11,620
+能對接受者造成嚴重傷害  即過敏反應
+knowing that this would cause severe injury, anaphylaxis
+
+397
+00:41:11,620 --> 00:41:14,160
+并導致其死亡
+and death to the recipient,
+
+398
+00:41:14,160 --> 00:41:16,030
+正是他謀殺了受害者
+and he did murder him.
+
+399
+00:41:16,510 --> 00:41:21,510
+皇家檢察署正式起訴威廉·伯頓
+Call the Diet of Her Majesty's advocate against William Burton.
+
+400
+00:41:21,710 --> 00:41:25,340
+在蘇格蘭法庭上不用做開庭致辭  伯頓先生
+We have no opening speeches in Scottish courts, Mr. Burton,
+
+401
+00:41:25,340 --> 00:41:28,570
+以防你有打算開始演說
+just in case you were planning on making one at this stage.
+
+402
+00:41:29,140 --> 00:41:30,380
+是嗎
+Really?
+
+403
+00:41:31,270 --> 00:41:33,970
+伯頓先生  有人曾強烈勸說過你
+Mr. Burton, you know you have been strongly advised
+
+404
+00:41:33,970 --> 00:41:36,050
+不要為自己辯護
+against representing yourself.
+
+405
+00:41:36,050 --> 00:41:37,830
+我很清楚  法官閣下
+It's been made very clear, My Lord.
+
+406
+00:41:38,960 --> 00:41:39,970
+很好
+Very well.
+
+407
+00:41:41,300 --> 00:41:43,400
+我能把材料拿到律師席嗎
+Er, can I move my papers to the table?
+
+408
+00:41:43,540 --> 00:41:44,500
+不行
+No.
+
+409
+00:41:45,420 --> 00:41:48,060
+我在被告席上不太方便辯護  可以理解吧
+I can't very well run my case from the dock, can I?
+
+410
+00:41:48,060 --> 00:41:51,430
+伯頓先生  那正是你將要做的
+That, Mr. Burton, is exactly what you are going to do.
+
+411
+00:41:53,800 --> 00:41:56,070
+你在搞什么
+What are you doing?
+
+412
+00:41:56,690 --> 00:41:59,020
+-這種過敏癥很常見嗎  -不常見
+- Is this a common allergy? - Not really.
+
+413
+00:41:59,020 --> 00:42:01,610
+患者只對一種腹足類動物過敏
+It's an allergy to a particular gastropod.
+
+414
+00:42:01,610 --> 00:42:03,950
+即笠貝
+Specifically, limpets.
+
+415
+00:42:03,950 --> 00:42:06,720
+他對笠貝嚴重過敏嗎
+He was deathly allergic to limpets?
+
+416
+00:42:06,720 --> 00:42:08,290
+具體說
+Well more specifically,
+
+417
+00:42:08,290 --> 00:42:10,740
+是一種叫原肌球蛋白的活性蛋白質
+an active protein known as tropomyosin.
+
+418
+00:42:10,740 --> 00:42:12,720
+那過敏原是從哪里來的
+And where was this allergen?
+
+419
+00:42:12,720 --> 00:42:15,860
+福伊爾先生是怎么接觸到的
+How did Mr. Foyle come into contact with it?
+
+420
+00:42:15,860 --> 00:42:18,320
+傷口附近的局部腫脹說明
+Localised swelling at the wound site suggest
+
+421
+00:42:18,320 --> 00:42:19,920
+應該是他死前被刺傷時
+it may have been present on the weapon
+
+422
+00:42:19,920 --> 00:42:22,010
+由兇器進入他體內的
+used to injure him before he died.
+
+423
+00:42:22,010 --> 00:42:23,290
+謝謝你  醫生
+Thank you, doctor.
+
+424
+00:42:25,440 --> 00:42:26,570
+伯頓先生
+Mr Burton?
+
+425
+00:42:29,260 --> 00:42:30,470
+沒有問題  謝謝法官閣下
+No, thank you, My Lord.
+
+426
+00:42:33,010 --> 00:42:35,730
+伯頓先生  你想必清楚
+Mr Burton, you are aware, of course,
+
+427
+00:42:35,730 --> 00:42:38,480
+一旦你為自己作證
+that once you give evidence on your own behalf,
+
+428
+00:42:38,480 --> 00:42:42,320
+你需要接受檢察官的交叉詢問
+you are opening yourself up to cross-examination by the Crown?
+
+429
+00:42:43,730 --> 00:42:45,480
+非常清楚  法官閣下
+Very well aware, My Lord.
+
+430
+00:42:46,310 --> 00:42:48,910
+-現在呢  -可以拿出來了
+- "What now?" - "OK, you can take it out.
+
+431
+00:42:48,910 --> 00:42:52,690
+看下針管  能看到紅色長條嗎
+"Look at the barrel. Is there a red strip visible on the barrel?
+
+432
+00:42:52,690 --> 00:42:55,130
+有的話就說明藥劑打進去了
+"That will tell you that the drug went in."
+
+433
+00:42:55,130 --> 00:42:57,070
+稍等下
+"Er, hang on. Hang on.
+
+434
+00:42:58,080 --> 00:42:59,240
+我看不清
+"I can't see it!"
+
+435
+00:42:59,240 --> 00:43:01,480
+刻度上方有個小窗
+"Just above the writing, there's a window."
+
+436
+00:43:02,510 --> 00:43:04,670
+沒錯  找到了  在這兒
+"Oh, yes! Yes, yes, yes, it's there!"
+
+437
+00:43:04,670 --> 00:43:06,400
+病人有反應嗎
+"Is the patient responding?"
+
+438
+00:43:09,310 --> 00:43:12,830
+先生  先生  還在嗎  有人在聽嗎
+"Sir? Sir? Hello? Anybody hear me?"
+
+439
+00:43:16,560 --> 00:43:19,710
+這期間你似乎非常冷靜
+You appear to be very calm during this interaction.
+
+440
+00:43:19,900 --> 00:43:21,760
+-是不是  -我試圖保持冷靜
+- Were you? - I was trying to be.
+
+441
+00:43:23,390 --> 00:43:25,990
+你在克爾德森林做什么  伯頓先生
+What were you doing in Kielder Forest, Mr Burton?
+
+442
+00:43:25,990 --> 00:43:28,020
+我在卡萊爾面試工作
+I had a job interview in Carlisle.
+
+443
+00:43:28,020 --> 00:43:31,180
+面試官建議我四處轉轉
+The person I spoke to suggested I tour around a bit.
+
+444
+00:43:31,180 --> 00:43:34,120
+你參加面試時都帶著刀嗎
+Do you normally conduct job interviews with a knife?
+
+445
+00:43:34,830 --> 00:43:36,400
+我娶了一把刀
+I got married with a knife.
+
+446
+00:43:37,030 --> 00:43:39,680
+每個穿短裙的蘇格蘭人都娶了一把刀
+Every Scotsman worth his kilt gets married with a knife.
+
+447
+00:43:40,190 --> 00:43:43,270
+你遇見福伊爾先生純屬巧合嗎
+You bumped into Mr Foyle by pure chance?
+
+448
+00:43:43,740 --> 00:43:45,180
+是的  我在一家酒吧看見他
+Yes. I saw him in a pub
+
+449
+00:43:45,180 --> 00:43:46,710
+我迫切地感到應該和他談談
+and I felt compelled to confront him.
+
+450
+00:43:46,710 --> 00:43:49,410
+你找到了他  想要他認罪
+You sought him out to force a confession.
+
+451
+00:43:49,410 --> 00:43:51,040
+對不對
+Isn't that correct?
+
+452
+00:43:51,910 --> 00:43:52,910
+是的
+Yes.
+
+453
+00:43:53,220 --> 00:43:55,950
+-是嗎  -是的  沒錯
+- Yes? - Yes, that's right.
+
+454
+00:43:56,390 --> 00:43:59,060
+一罪不二審  哪怕是有新證據
+Double jeopardy law, pertaining to new evidence.
+
+455
+00:43:59,060 --> 00:44:01,560
+我認為伯頓先生已經回答了你的問題
+I believe Mr Burton has answered the question.
+
+456
+00:44:02,310 --> 00:44:03,330
+法官閣下
+My Lord.
+
+457
+00:44:04,180 --> 00:44:05,380
+要他認罪
+A confession -
+
+458
+00:44:05,690 --> 00:44:08,650
+這是你最大的愿望
+something that you would've desired very much.
+
+459
+00:44:08,650 --> 00:44:11,860
+-是的  -當他拒絕了你的要求
+- Yes. - And yet when he denied you this request,
+
+460
+00:44:11,860 --> 00:44:13,390
+你就殺了他
+you took his life.
+
+461
+00:44:14,020 --> 00:44:15,620
+-沒有  -你勃然大怒
+- No. - You flew into a rage
+
+462
+00:44:15,620 --> 00:44:17,830
+用小刀襲擊了他  對不對
+and attacked him with a knife, didn't you?
+
+463
+00:44:18,540 --> 00:44:21,200
+-你說什么時候  -你用小刀砍傷了他
+- When was this, sorry? - When you slashed him with the knife,
+
+464
+00:44:21,200 --> 00:44:23,060
+你在供詞里說得很清楚
+as you've said clearly in your statement!
+
+465
+00:44:23,060 --> 00:44:26,070
+是啊  在我把他背出火場之前
+Oh, yes, before I carried him out of a burning building.
+
+466
+00:44:26,070 --> 00:44:27,470
+伯頓先生
+Mr Burton!
+
+467
+00:44:27,800 --> 00:44:30,250
+我只是確認一下時間先后
+Just being clear on chronology.
+
+468
+00:44:30,250 --> 00:44:32,120
+你是在耍小聰明
+Flying close to the sun.
+
+469
+00:44:34,440 --> 00:44:36,740
+腹足類動物過敏
+A gastropod allergy,
+
+470
+00:44:38,080 --> 00:44:40,680
+一種貝類
+a specific kind of shellfish -
+
+471
+00:44:41,210 --> 00:44:44,330
+這不是輕易能得到的信息
+not exactly easy information to find out.
+
+472
+00:44:45,390 --> 00:44:46,900
+我同意
+No, I'd imagine not.
+
+473
+00:44:46,900 --> 00:44:51,080
+你看過委托人的醫療記錄嗎
+Have you ever had cause to access a client's medical records?
+
+474
+00:44:51,080 --> 00:44:53,870
+看過  如果與案件有關的話
+Yes, though only if pertinent to the case.
+
+475
+00:44:53,870 --> 00:44:56,600
+桑德拉·馬林斯一案中
+In the case of Sandra Mullins,
+
+476
+00:44:56,600 --> 00:45:00,600
+-你曾為福伊爾先生辯護  -是的
+- you were lead counsel for Mr Foyle's defence. - I was.
+
+477
+00:45:00,600 --> 00:45:05,060
+你調查過福伊爾先生的醫療信息嗎
+Did you ever request any medical information regarding Mr Foyle?
+
+478
+00:45:05,060 --> 00:45:07,220
+-沒有  -沒有嗎
+- No. - You did not?
+
+479
+00:45:08,440 --> 00:45:10,230
+沒有  我沒接觸過這類文件
+No, I did not access his files.
+
+480
+00:45:10,230 --> 00:45:12,690
+我認為他的回答足夠充分
+I believe his "No" was sufficient.
+
+481
+00:45:12,690 --> 00:45:16,110
+法官閣下  你顯然無法證明這點
+My Lord. You cannot prove this, of course.
+
+482
+00:45:16,110 --> 00:45:18,030
+他是你的委托人
+He was your client.
+
+483
+00:45:18,030 --> 00:45:21,300
+你對他的資料非常了解
+You were intimately acquainted with his information.
+
+484
+00:45:21,310 --> 00:45:24,330
+不  機密醫療文件
+No. Erm... Confidential medical files are
+
+485
+00:45:24,330 --> 00:45:26,750
+全部數字化  被安全保存在事務律師那里
+all digitised and kept securely at the solicitors,
+
+486
+00:45:26,750 --> 00:45:30,310
+想必在他的醫生和醫院也同樣安全
+or, presumably, equally securely at his doctors or hospital.
+
+487
+00:45:30,320 --> 00:45:32,050
+啰嗦這么多  我其實是說沒有
+Which is a long-winded way of saying no,
+
+488
+00:45:32,060 --> 00:45:33,610
+我沒看過他的醫療記錄
+I did not access his files,
+
+489
+00:45:33,610 --> 00:45:36,210
+而且  我可以證明
+and, yes, I can prove it.
+
+490
+00:45:54,380 --> 00:45:57,290
+伯頓先生想要的
+What Mr Burton is asking of you
+
+491
+00:45:57,300 --> 00:45:59,890
+非常簡單  女士們先生們
+is very simple, ladies and gentlemen.
+
+492
+00:45:59,890 --> 00:46:02,810
+他想讓你們相信他編的故事
+He wants you to believe his little story.
+
+493
+00:46:02,810 --> 00:46:04,370
+他想讓你們相信
+He wants you to believe
+
+494
+00:46:04,370 --> 00:46:06,810
+一切都是命運的作弄
+that through an ironic twist of fate,
+
+495
+00:46:06,810 --> 00:46:08,650
+那把錯誤的小刀
+this was the wrong knife,
+
+496
+00:46:08,650 --> 00:46:09,820
+在錯誤的人手里
+in the wrong hand,
+
+497
+00:46:09,820 --> 00:46:11,960
+闖進了錯誤的時間
+at the wrong time.
+
+498
+00:46:12,430 --> 00:46:15,430
+我敬告各位
+I respectfully submit to you
+
+499
+00:46:15,430 --> 00:46:18,550
+他說的一切純屬虛構
+that this is pure fabrication.
+
+500
+00:46:18,550 --> 00:46:23,040
+這種先見之明  有著惡毒的目的
+This was foreknowledge, with malicious intent.
+
+501
+00:46:23,040 --> 00:46:27,160
+隨他怎么說  但我要問
+He will tell you otherwise, but I ask only this question -
+
+502
+00:46:27,160 --> 00:46:29,070
+他講了個動聽的故事
+he tells a good story,
+
+503
+00:46:29,070 --> 00:46:31,920
+但我們真的相信他嗎
+but do we really believe him?
+
+504
+00:46:33,120 --> 00:46:34,330
+我是個律師
+I'm a lawyer.
+
+505
+00:46:36,510 --> 00:46:40,750
+我一生信奉法律
+I have lived and believed in the law all my life.
+
+506
+00:46:43,010 --> 00:46:45,230
+但當法律降臨在你頭上
+But until the law happens to you,
+
+507
+00:46:46,340 --> 00:46:48,500
+相信我  你會無所適從
+believe me, you don't know which way you're going to go.
+
+508
+00:46:51,600 --> 00:46:54,760
+我在小屋面對面見到的那個人
+The man I faced in that cabin
+
+509
+00:46:54,760 --> 00:46:58,510
+就是謀殺我妻子的兇手  這毫無疑問
+is the man I know, beyond all doubt, murdered my wife.
+
+510
+00:47:01,440 --> 00:47:03,390
+面對這個人  我本可以有很多選擇
+I could've done a lot of things to him.
+
+511
+00:47:05,750 --> 00:47:07,460
+但是
+Instead,
+
+512
+00:47:07,460 --> 00:47:09,860
+我看到了他的痛苦  為他叫了救護車
+I saw him suffer and I called an ambulance.
+
+513
+00:47:11,440 --> 00:47:13,220
+我挽救他于危險之中
+I removed him from danger.
+
+514
+00:47:15,640 --> 00:47:18,240
+我做了所有正派人都會做的事情
+I did what any decent human being should do.
+
+515
+00:47:19,840 --> 00:47:22,380
+但請不要誤會  我做這些事情
+But make no mistake, I did those things
+
+516
+00:47:22,380 --> 00:47:26,010
+僅僅是出于基本的良心和純粹的道義
+out of nothing more than a sincere duty to our common decency.
+
+517
+00:47:28,090 --> 00:47:29,740
+我這么做  因為這是世上每一個人
+I did so because that's what's expected
+
+518
+00:47:29,740 --> 00:47:31,610
+所應當做的
+when you're a person in the world.
+
+519
+00:47:35,250 --> 00:47:39,510
+我冒險救的這個人  他帶走了我的摯愛
+I risked my life to save the man who took away my heart...
+
+520
+00:47:43,420 --> 00:47:44,800
+我人生的向導
+..my compass,
+
+521
+00:47:45,210 --> 00:47:46,500
+我生活的重心
+my anchor,
+
+522
+00:47:47,650 --> 00:47:49,090
+也是我最好的朋友
+my best friend.
+
+523
+00:47:52,870 --> 00:47:55,000
+他在我面前倒下時  我手里正有一把刀
+I faced him down with a knife in my hand,
+
+524
+00:47:55,000 --> 00:47:56,440
+我本可以任他燒死
+I could've let him burn!
+
+525
+00:47:58,880 --> 00:48:00,180
+在這種情況下  我相信
+In the circumstances, I believe
+
+526
+00:48:00,180 --> 00:48:03,000
+我表現出了非凡的克制力
+I exerted an extraordinary amount of restraint.
+
+527
+00:48:10,240 --> 00:48:11,890
+利亞姆·福伊爾死了
+Liam Foyle is dead.
+
+528
+00:48:13,950 --> 00:48:15,930
+我對他的死亡感到高興
+I rejoice in his passing.
+
+529
+00:48:19,600 --> 00:48:22,050
+但是你不能說我是謀殺他的兇手
+But you should not convict me of his murder.
+
+530
+00:48:36,800 --> 00:48:38,200
+-威爾  -這個是你的
+- Will! - That's your one.
+
+531
+00:48:38,200 --> 00:48:39,160
+威爾
+Will.
+
+532
+00:48:40,080 --> 00:48:41,190
+你好
+Oh, hi!
+
+533
+00:48:42,760 --> 00:48:44,390
+很意外
+OK, interesting...
+
+534
+00:48:44,900 --> 00:48:45,720
+我想和你談談
+I wanted to talk to you.
+
+535
+00:48:45,720 --> 00:48:47,230
+如果我是你就快點說
+I'd hurry up if I were you,
+
+536
+00:48:47,230 --> 00:48:48,600
+你知道陪審團什么樣
+you know what juries can be like.
+
+537
+00:48:48,600 --> 00:48:50,250
+他們不可能深思熟慮
+They can't deliberate forever.
+
+538
+00:48:51,020 --> 00:48:52,240
+你感覺怎么樣
+How are you feeling?
+
+539
+00:48:52,250 --> 00:48:53,180
+我感覺怎么樣
+How am I feeling?
+
+540
+00:48:53,180 --> 00:48:54,920
+當你知道發生的事情后
+When you heard what happened.
+
+541
+00:48:55,070 --> 00:48:57,140
+拜托  你沒有一點釋然的感覺嗎
+Come on, you weren't just a wee bit relieved?
+
+542
+00:48:57,680 --> 00:48:59,260
+我需要和你談談
+I need to talk to you.
+
+543
+00:49:00,620 --> 00:49:02,910
+-精神支持嗎  -是法律意見
+- Moral support? - Legal advice.
+
+544
+00:49:02,910 --> 00:49:04,780
+我一直糾結于一個案子  真的讓我很頭疼
+I've been grappling with a case that's been bothering me,
+
+545
+00:49:04,780 --> 00:49:07,510
+不知道你能不能幫幫我
+and wondered if you could help.
+
+546
+00:49:10,590 --> 00:49:11,660
+我馬上回來
+Be right back.
+
+547
+00:49:12,710 --> 00:49:13,950
+說吧
+Shoot.
+
+548
+00:49:17,420 --> 00:49:20,040
+前幾天我想起了一些事
+Something occurred to me the other day...
+
+549
+00:49:20,040 --> 00:49:21,510
+如果你想打開保險箱
+If you wanted to break into a safe,
+
+550
+00:49:21,510 --> 00:49:25,110
+你第一個要找的人就是鎖匠
+the first person you'd call is a locksmith, and, um,
+
+551
+00:49:25,110 --> 00:49:28,830
+如果你想謀殺又想脫罪的話
+if you wanted to commit murder and get away with it,
+
+552
+00:49:28,830 --> 00:49:31,390
+你也許希望和一個刑事律師談談
+you might just want to talk to a criminal barrister.
+
+553
+00:49:32,220 --> 00:49:33,630
+這是個有趣的想法
+That's an interesting idea.
+
+554
+00:49:34,400 --> 00:49:36,200
+我看過了太多的案件
+I see enough cases turn on
+
+555
+00:49:36,200 --> 00:49:39,090
+最后發現完美的犯罪之所以完美
+discovery to know that a perfect crime only stays perfect
+
+556
+00:49:39,090 --> 00:49:41,470
+是因為它們看似顯而易見  對嗎
+if it's done in plain sight, wouldn't you say?
+
+557
+00:49:42,140 --> 00:49:43,240
+可能吧
+Could be.
+
+558
+00:49:43,870 --> 00:49:47,230
+可能所有人都知道真相了  但還是不知道
+Everyone would have all the facts and still have no idea
+
+559
+00:49:47,230 --> 00:49:48,850
+他到底是怎么做的
+how he really did it.
+
+560
+00:49:50,730 --> 00:49:54,560
+第一步  他找到了要害
+Step one - he'd find the Achilles heel.
+
+561
+00:49:54,740 --> 00:49:57,460
+致命的過敏癥  很罕見的一種
+A deathly allergy, say. A rare one.
+
+562
+00:49:57,730 --> 00:49:59,900
+這個人是怎么發現這件事的
+How did this person find out something like that?
+
+563
+00:49:59,940 --> 00:50:01,910
+刑事律師整天都在做什么
+What does a criminal barrister do all day long?
+
+564
+00:50:01,920 --> 00:50:04,450
+-追蹤單據  -和犯人談話
+- Chase invoices. - Talk to criminals.
+
+565
+00:50:04,830 --> 00:50:06,150
+這不就可以有一本通訊簿
+Wouldn't that give him an address book,
+
+566
+00:50:06,150 --> 00:50:07,880
+寫滿了潛在的線人嗎
+full of potential contacts?
+
+567
+00:50:07,880 --> 00:50:09,770
+以我現在正在辦的案子為例
+For example, on the case that I'm working on,
+
+568
+00:50:09,770 --> 00:50:12,190
+有人目擊到嫌疑人和一個人盡皆知的罪犯談話
+the man was seen talking to a known criminal.
+
+569
+00:50:12,190 --> 00:50:15,680
+怎么確定那個人是他  我是說那個罪犯
+How would the person be sure it was him? The criminal, I mean.
+
+570
+00:50:16,370 --> 00:50:18,140
+當然了  我假設是男的
+Presuming it was a he, of course...
+
+571
+00:50:18,770 --> 00:50:20,140
+他對目擊者來說很熟悉
+He was well-known to the eyewitness.
+
+572
+00:50:20,140 --> 00:50:21,480
+但是當時是白天還是晚上呢
+Yeah, but was it day or night?
+
+573
+00:50:21,730 --> 00:50:23,550
+他是步行還是在車里
+Was he on foot, in a vehicle?
+
+574
+00:50:23,550 --> 00:50:25,990
+目擊者有沒有承受任何壓力
+Was the observer under any stress at all?
+
+575
+00:50:27,440 --> 00:50:28,680
+第二步
+Step two -
+
+576
+00:50:29,800 --> 00:50:32,310
+假設他找到了一個天然的過敏原
+what if he found a natural-occurring source for the allergen,
+
+577
+00:50:32,310 --> 00:50:35,640
+在一個平凡而又日常的去處
+somewhere innocent and every day?
+
+578
+00:50:35,950 --> 00:50:37,210
+如果他們想被判正當防衛
+If they argue self-defence,
+
+579
+00:50:37,220 --> 00:50:39,180
+他們可能會給兇器裝載過敏原
+they might load up a weapon with that allergen
+
+580
+00:50:39,180 --> 00:50:40,900
+達到一定劑量
+to administer the dose.
+
+581
+00:50:42,240 --> 00:50:43,540
+我聽著呢
+I'm with you so far.
+
+582
+00:50:44,080 --> 00:50:46,330
+但是要完全依靠
+But to put so much weight on one
+
+583
+00:50:46,330 --> 00:50:48,570
+一個劑量的過敏原是不夠的  你認為呢
+dose of allergen might not be enough, don't you think?
+
+584
+00:50:49,210 --> 00:50:51,190
+我壓根就不了解這件事
+I wouldn't know the first thing about it.
+
+585
+00:50:51,190 --> 00:50:52,360
+第三步
+Step three -
+
+586
+00:50:52,820 --> 00:50:55,450
+過敏癥會引起過敏反應  而患有
+these people with allergies of such severity
+
+587
+00:50:55,460 --> 00:50:57,340
+如此嚴重過敏癥的人
+that they cause anaphylaxis,
+
+588
+00:50:57,340 --> 00:51:00,080
+他們都會隨身攜帶一種救命的筆狀注射劑
+they carry these little life-saving pens with them,
+
+589
+00:51:00,080 --> 00:51:02,750
+叫做腎上腺素筆  對嗎
+don't they, called EpiPens?
+
+590
+00:51:02,750 --> 00:51:05,090
+你覺得有沒有可能將救命的筆
+Do you think it might be possible
+
+591
+00:51:05,090 --> 00:51:06,610
+變成一支致命的筆呢
+to repurpose a pen as a poison pen?
+
+592
+00:51:06,940 --> 00:51:08,130
+用含有過敏原的注射劑
+By replacing the carrier solution
+
+593
+00:51:08,130 --> 00:51:09,220
+替換原來的注射劑
+with a solution of allergen,
+
+594
+00:51:09,220 --> 00:51:13,980
+那人就能破壞挽救生命的急救藥物
+a person might sabotage the very thing that would save a person's life.
+
+595
+00:51:14,920 --> 00:51:17,620
+-這太惡毒了  -可不是嗎
+- That sounds diabolical. - It does, doesn't it?
+
+596
+00:51:19,080 --> 00:51:22,320
+-這是法律問題  -如果那個人撥打999
+- You mentioned a legal question. - And if that person called 999,
+
+597
+00:51:19,080 --> 00:51:22,320
+{\an8}999  緊急電話
+
+598
+00:51:22,320 --> 00:51:24,120
+應急中心接線員說
+and the emergency services said they
+
+599
+00:51:24,130 --> 00:51:25,930
+他們在對死者使用注射筆時一直在交談
+talked them through administering that pen to the victim,
+
+600
+00:51:25,930 --> 00:51:29,000
+這可以說就是合謀作案
+it's almost collusion in the crime.
+
+601
+00:51:29,000 --> 00:51:31,950
+他們那是在幫助兇手一步一步完成謀殺
+They'd be walking that person, step by step, through the murder.
+
+602
+00:51:31,950 --> 00:51:34,820
+你是指他們有電話錄音備份
+Oh, you mean they'd have a public record of the conversation.
+
+603
+00:51:36,060 --> 00:51:38,910
+-是的  -啊  可能有用
+- Yes. - Ah, that might fly.
+
+604
+00:51:39,100 --> 00:51:42,100
+但不會真有人這么干吧
+But I really don't think anyone would seriously attempt it.
+
+605
+00:51:42,100 --> 00:51:44,450
+-為什么  -謀殺是犯法的
+- Why not? - I think murder's against the law!
+
+606
+00:51:44,450 --> 00:51:45,950
+上次我親眼所見
+I mean, last time I looked...
+
+607
+00:51:46,650 --> 00:51:48,250
+-威爾  -你畫出了界線  一條大紅線
+- Will... - You're drawing a line. A big red one.
+
+608
+00:51:48,250 --> 00:51:49,790
+知道界線的存在
+There's a huge difference between
+
+609
+00:51:49,790 --> 00:51:52,540
+和跨過界線的差別是很巨大的
+knowing where that line is and stepping over it.
+
+610
+00:51:52,670 --> 00:51:53,840
+我知道我不會
+I know I couldn't.
+
+611
+00:51:54,730 --> 00:51:55,740
+為什么
+Why not?
+
+612
+00:51:57,090 --> 00:51:58,550
+我害怕被抓住
+I'd be scared of getting caught.
+
+613
+00:51:58,550 --> 00:52:01,650
+-你剛說這是完美犯罪  -是的
+- You just said it was the perfect crime. - Oh, it is!
+
+614
+00:52:02,820 --> 00:52:03,900
+是啊
+It is.
+
+615
+00:52:07,280 --> 00:52:08,610
+除了三點
+Except for three things...
+
+616
+00:52:11,140 --> 00:52:12,240
+三點
+Three?
+
+617
+00:52:12,950 --> 00:52:14,020
+是嗎
+Really?
+
+618
+00:52:16,560 --> 00:52:17,690
+第一
+One -
+
+619
+00:52:18,370 --> 00:52:19,850
+處理兇器
+disposing the weapon.
+
+620
+00:52:20,660 --> 00:52:24,080
+有兩支腎上腺素注射筆  其中一支是兇器
+There'd be two EpiPens, the innocent one and the murder weapon.
+
+621
+00:52:24,080 --> 00:52:27,830
+兇手在現場將正常的那支筆放電
+The killer would have to discharge the innocent EpiPen at the locus
+
+622
+00:52:27,830 --> 00:52:29,070
+造成被使用的假象
+so it looked like he'd done
+
+623
+00:52:29,070 --> 00:52:31,360
+就好像他真的按照接線員的提示做了
+what he talked to the emergency services about.
+
+624
+00:52:32,270 --> 00:52:33,710
+接下來  我推測
+Then I imagine he'd have to chuck
+
+625
+00:52:33,710 --> 00:52:36,680
+他必須把下過毒的注射筆扔進銳物垃圾袋
+the poisoned EpiPen into the sharps disposal bags.
+
+626
+00:52:36,690 --> 00:52:37,520
+但還是有可能
+But there's a chance it could be found
+
+627
+00:52:37,520 --> 00:52:41,380
+在燒毀前被警察搜到
+before being incinerated if the police do a search.
+
+628
+00:52:41,380 --> 00:52:43,860
+很聰明
+Ah! Very clever.
+
+629
+00:52:43,860 --> 00:52:47,190
+第二  事先需要弄到注射筆
+Two - obtaining the pen in the first place.
+
+630
+00:52:47,190 --> 00:52:51,200
+他必須認識某個已經拿到處方的人
+He'd have to know someone with a... with a prescription already.
+
+631
+00:52:51,950 --> 00:52:53,700
+說得好
+Hm... Good point.
+
+632
+00:52:53,740 --> 00:52:55,590
+接下來是第三點
+Oh, and then there's number three...
+
+633
+00:52:58,480 --> 00:53:00,590
+患者免疫球蛋白過敏
+"Patient suffered IgE phylum Mollusca allergy,
+
+634
+00:53:00,590 --> 00:53:03,540
+引發支氣管痙攣和過敏反應
+"severe bronchospasm and anaphylaxis and..."
+
+635
+00:53:03,550 --> 00:53:07,980
+"另據觀察"  這是寫在腳注里的
+under 'Additional Observations', hidden away in the footnotes,
+
+636
+00:53:08,330 --> 00:53:11,140
+局部腫脹的部位有傷口
+"..Some local swelling at wound...
+
+637
+00:53:13,080 --> 00:53:14,750
+和注射部位
+"..And injection site".
+
+638
+00:53:17,300 --> 00:53:20,270
+你知道他們不會查死者的腎上腺素
+But, you know, they don't test for epinephrine after death,
+
+639
+00:53:20,270 --> 00:53:23,470
+所以無從得知注射筆是否真的被使用
+so there's no way of knowing if the EpiPen had been used or not,
+
+640
+00:53:24,210 --> 00:53:26,830
+除了通過針孔判斷
+except for the puncture wound.
+
+641
+00:53:28,700 --> 00:53:30,400
+我的第三點就是
+So my number three is this -
+
+642
+00:53:31,050 --> 00:53:34,390
+再次對注射孔進行組織學檢查
+risk of a follow-up histology on local puncture site.
+
+643
+00:53:36,910 --> 00:53:39,140
+你很有想象力
+You have a very creative mind.
+
+644
+00:53:39,140 --> 00:53:41,960
+如果那人知道隨時會進行尸檢
+But would that person be able to sleep soundly,
+
+645
+00:53:42,730 --> 00:53:46,440
+在針孔處分析過敏原
+knowing that at any moment, there might be another post-mortem
+
+646
+00:53:46,440 --> 00:53:50,690
+他還能睡踏實嗎
+that identified allergen at the EpiPen site?
+
+647
+00:53:58,790 --> 00:54:00,460
+那要看情況
+Well, I guess that depends...
+
+648
+00:54:01,100 --> 00:54:02,470
+什么情況
+On what?
+
+649
+00:54:03,740 --> 00:54:06,270
+尸體是否火化
+On whether the body's been cremated...
+
+650
+00:54:22,760 --> 00:54:25,330
+陪審團主席請起立
+Can the foreman stand, please?
+
+651
+00:54:27,610 --> 00:54:30,340
+-你們達成裁決了嗎  -是的
+- Have you reached a verdict? - We have.
+
+652
+00:54:32,470 --> 00:54:36,160
+對于皇家檢察署起訴威廉·伯頓犯謀殺罪一案
+In the case of Her Majesty's Advocate against William Burton,
+
+653
+00:54:36,160 --> 00:54:39,780
+你們認為謀殺罪名是否成立
+how do you find the accused on the charge of murder?
+
+654
+00:54:46,180 --> 00:54:47,720
+證據不足
+Not proven.
+
+655
+00:54:48,110 --> 00:54:49,120
+好
+Yes!
+
+656
+00:54:49,720 --> 00:54:51,400
+肅靜
+Silence, please!
+
+657
+00:54:53,320 --> 00:54:55,110
+肅靜
+Silence, please!
+
+658
+00:55:04,040 --> 00:55:07,710
+伯頓先生  你有何感想  伯頓先生
+Mr Burton! Mr Burton! Any comments, Mr Burton?
+
+659
+00:55:07,710 --> 00:55:08,810
+證據不足
+Not proven, of course,
+
+660
+00:55:08,810 --> 00:55:10,780
+蘇格蘭法律的第三裁決生效
+the third verdict available in Scottish law.
+
+661
+00:55:10,780 --> 00:55:12,480
+最終無罪釋放
+Effectively an acquittal,
+
+662
+00:55:12,480 --> 00:55:15,430
+但這仍然說明有犯罪...
+but one which suggests a suspicion of guilt...
+
+663
+00:55:15,440 --> 00:55:16,020
+你認為自己能
+Do you think you would've got away
+
+664
+00:55:16,020 --> 00:55:18,880
+逃脫英國的法律嗎  伯頓先生
+with it in an English court of law? Mr Burton!
+
+665
+00:55:20,140 --> 00:55:22,290
+-保重  -你怎么看  伯頓先生
+- Take care. - What have you got to say, Mr Burton?
+
+666
+00:55:45,160 --> 00:55:46,170
+好了
+Ok...
+
+667
+00:55:48,820 --> 00:55:49,960
+低一點
+..Hold it down.
+
+668
+00:01:02,500 --> 00:01:07,610
+{\pos(190,108)}shad2脫 罪 大 師
+
+669
+00:01:04,370 --> 00:01:07,610
+{\pos(280,115)}第一季  第三集
+
+670
+00:01:04,370 --> 00:01:07,610
+{\pos(190,203)}YYeTs人人影視英劇社傾情奉獻
+
+671
+00:01:09,730 --> 00:01:13,270
+{\pos(192,170)}bei1翻譯  DT的寵物熊貓  愛卿遛小鳥
+
+672
+00:01:14,470 --> 00:01:18,000
+{\pos(192,170)}bei1翻譯  Silmar  噎死青春
+
+673
+00:01:19,590 --> 00:01:23,830
+{\pos(192,205)}bei1翻譯  死跑龍套的  面條打包子
+
+674
+00:01:19,590 --> 00:01:23,830
+{\pos(192,225)}bei1翻譯  蜂蜜檸檬  泰斯
+
+675
+00:01:25,310 --> 00:01:29,830
+{\pos(192,196)}bei1時間軸  吉吉  今  獄
+
+676
+00:01:25,330 --> 00:01:29,830
+{\pos(194,216)}bei1特別鳴謝  POTO的小飯桶
+
+677
+00:01:32,010 --> 00:01:35,460
+{\pos(192,185)}bei1特效&后期   sweet寶寶88
+
+678
+00:01:40,040 --> 00:01:42,900
+{\pos(192,176)}bei1總監   泰斯·雪諾
+
+679
+00:00:56,640 --> 00:01:01,260
+{\pos(32.6,279)}m 20 0 l 209 0 b 218 0 229 11 229 20 l 229 209 b 229 218 218 228 209 228 l 20 228 b 11 228 0 218 0 209 l 0 20 b 0 11 11 0 20 0
+
+680
+00:00:56,640 --> 00:01:01,260
+{\pos(32.6,279)}m 115 64 l 115 35 l 171 0 l 177 0 l 133 46 l 143 52 l 179 0 l 184 0 l 159 63 l 229 107 l 229 182 l 145 96 l 135 122 l 207 227 l 137 227 l 115 172 l 115 93 l 126 76 l 115 64 l 104 76 l 115 93 l 115 172 l 93 227 l 23 227 l 95 122 l 84 96 l 0 182 l 0 107 l 70 63 l 45 0 l 50 0 l 87 52 l 97 46 l 52 0 l 59 0 l 115 35
+
+681
+00:00:56,640 --> 00:01:01,260
+{\pos(22.6,269.8)}m 71 60 b 71 0 161 0 161 60 b 161 120 71 120 71 60
+
+682
+00:00:56,640 --> 00:01:01,260
+{\pos(139,280.091)}僅供學習 禁止用于任何商業盈利行為
+更多影視更新請登陸www.YYeTs.com
+

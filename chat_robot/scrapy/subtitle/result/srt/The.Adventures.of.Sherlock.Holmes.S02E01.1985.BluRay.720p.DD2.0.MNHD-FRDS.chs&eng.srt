@@ -1,0 +1,3286 @@
+1
+00:00:11,029 --> 00:00:16,397
+<font color="#4096d1">
+-==破烂熊乐园倾情奉献==-
+本字幕仅供学习交流，严禁用于商业用途</font>
+
+2
+00:00:18,203 --> 00:00:23,416
+<font color="#4096d1">
+-==http://www.ragbear.com==- 
+福尔摩斯探案集  
+第2季第1集 </font>
+
+3
+00:00:25,525 --> 00:00:29,326
+<font color="#4096d1">铜山毛榉案</font>
+
+4
+00:00:31,362 --> 00:00:36,125
+<font color="#4096d1">
+-=破烂熊字幕组=- 
+翻译：没黎巴嫩血统</font>
+
+5
+00:00:38,646 --> 00:00:44,538
+<font color="#4096d1">-=Keepfrds MNHD Team=-
+ 校对: ptrpan</font>
+
+6
+00:02:55,400 --> 00:02:56,858
+有什么不对头吗?
+Something wrong?
+
+7
+00:02:59,774 --> 00:03:03,211
+一个为了艺术而热爱艺术的人
+To the man who loves art for its own sake,
+
+8
+00:03:03,420 --> 00:03:05,711
+常常是从最不重要
+it is frequently in its least important
+
+9
+00:03:05,748 --> 00:03:07,378
+最为平常的形象中
+and lowliest manifestations
+
+10
+00:03:07,414 --> 00:03:11,127
+得到最大的乐趣
+that the keenest pleasure is to be derived.
+
+11
+00:03:15,398 --> 00:03:17,481
+这么说也没错 福尔摩斯
+Oh, if you say so, Holmes.
+
+12
+00:03:21,585 --> 00:03:24,501
+我高兴的观察到 华生
+It is pleasant to me to observe, Watson,
+
+13
+00:03:24,538 --> 00:03:27,313
+从你诚诚恳恳地为我们的
+that you have so far grasped this truth
+
+14
+00:03:27,350 --> 00:03:28,875
+案件所作的记录中
+that in these little records of our cases
+
+15
+00:03:28,912 --> 00:03:30,229
+你已经掌握了真理
+which you have been good enough to draw up,
+
+16
+00:03:30,267 --> 00:03:33,042
+而且我肯定地讲 你有时还加以润色
+and I am bound to say, occasionally embellish,
+
+17
+00:03:33,079 --> 00:03:34,396
+你加以突出的并不是那些我曾经
+that you have given prominence not so much
+
+18
+00:03:34,433 --> 00:03:38,458
+参与过的著名案件的侦破
+to the many cause celebes and sensational trials
+
+19
+00:03:38,495 --> 00:03:39,291
+和轰动一时的审讯
+in which I have figured,
+
+20
+00:03:39,328 --> 00:03:41,895
+而是那些本身情景
+but rather to those incidents
+
+21
+00:03:41,932 --> 00:03:43,515
+可能是平凡琐碎的案件
+which have given room for those faculties
+
+22
+00:03:43,712 --> 00:03:46,505
+但给人发挥逻辑推论才能的余地
+of deduction and logical synthesis
+
+23
+00:03:46,676 --> 00:03:48,978
+这正是我的特殊研究领域
+which I have made my special province.
+
+24
+00:03:50,958 --> 00:03:53,145
+很高兴你这么说 福尔摩斯
+Kind of you to say so, Holmes.
+
+25
+00:03:56,770 --> 00:04:00,415
+也许你确有错误
+You have erred, perhaps...
+
+26
+00:04:07,498 --> 00:04:09,268
+错就错在...
+you have erred...
+
+27
+00:04:12,289 --> 00:04:14,372
+总想把每项记录
+in attempting to put color and life
+
+28
+00:04:14,409 --> 00:04:15,518
+都写的生动一些
+into each of your statements,
+
+29
+00:04:15,555 --> 00:04:18,643
+而不是将你的任务限制
+instead of confining yourself to placing upon record
+
+30
+00:04:18,679 --> 00:04:22,913
+在记述事件因果关系的推理上
+that severe reasoning from cause to effect
+
+31
+00:04:22,950 --> 00:04:26,038
+这实际上是事物唯一值得注意的特点
+which is really the only notable feature about the thing.
+
+32
+00:04:33,433 --> 00:04:35,726
+你用这个烟斗时
+You are always in a disputatious mood
+
+33
+00:04:35,763 --> 00:04:37,707
+总是在争论
+when you choose that pipe.
+
+34
+00:04:37,916 --> 00:04:38,958
+在这个问题上 我看我对你
+It seems to me that I have done you
+
+35
+00:04:38,995 --> 00:04:40,730
+还是十分公正的
+full justice in the matter.
+
+36
+00:04:40,768 --> 00:04:42,816
+不 不 不...
+No, no, no, no, no, no,
+
+37
+00:04:42,853 --> 00:04:45,422
+这不是我自私或是自大
+it is not selfishness or even conceit.
+
+38
+00:04:46,258 --> 00:04:48,029
+如果我要求公正地对待我的艺术
+If I claim full justice for my art,
+
+39
+00:04:48,067 --> 00:04:50,428
+是因为犯罪是常有的事
+it is because crime is common;
+
+40
+00:04:50,465 --> 00:04:52,722
+逻辑却是难得的东西
+logic is rare.
+
+41
+00:04:52,759 --> 00:04:56,371
+因此 应该详细记述的
+Therefore, it is upon logic rather than upon crime
+
+42
+00:04:56,409 --> 00:04:58,040
+是逻辑而不是罪行
+that you should dwell.
+
+43
+00:05:00,230 --> 00:05:03,566
+你把本该是讲授的课程
+You have degraded what should have been a course
+
+44
+00:05:03,603 --> 00:05:06,902
+降级成了一连串的故事
+of lectures into a series of tales.
+
+45
+00:05:07,528 --> 00:05:08,361
+没错 福尔摩斯
+Really, Holmes,
+
+46
+00:05:08,399 --> 00:05:11,176
+我想我的拙文达不到你的要求
+I hardly think my poor scribbling deserve that.
+
+47
+00:05:12,012 --> 00:05:15,556
+可我的故事终究让你家喻户晓
+They have, after all, made your name a household word.
+
+48
+00:05:15,594 --> 00:05:17,642
+啐 我亲爱的老伙计
+Oh, pshaw, my dear fellow,
+
+49
+00:05:17,679 --> 00:05:22,333
+对于公众 不善观察的公众
+what do the public, the great unobservant public,
+
+50
+00:05:22,371 --> 00:05:24,106
+他们不可能从一个人的牙齿认出他是编织工
+who can hardly tell a weaver by his tooth
+
+51
+00:05:24,144 --> 00:05:26,296
+或从一个人的左拇指看出他是排字工
+or a compositor by his left thumb,
+
+52
+00:05:26,333 --> 00:05:30,987
+他们会关心分析和推理的细微区别吗
+care about the finer shades of analysis and deduction?
+
+53
+00:05:34,639 --> 00:05:36,410
+但是 如果你确实写的太繁琐
+But, indeed, if you are trivial,
+
+54
+00:05:36,448 --> 00:05:45,794
+我也不能责备你 作大案子的时代已经过去了
+I cannot blame you, the days of the great cases are past.
+
+55
+00:05:48,089 --> 00:05:49,756
+一个人 或至少是一个罪犯
+Man, or at least criminal man,
+
+56
+00:05:49,794 --> 00:05:53,093
+已经没有了过去的冒险和创新精神
+has lost all enterprise and originality.
+
+57
+00:05:53,928 --> 00:05:55,699
+肯定没有
+Oh, surely not.
+
+58
+00:05:55,737 --> 00:05:57,159
+恐怕是的
+I fear so.
+
+59
+00:05:59,246 --> 00:06:00,183
+我的小行业
+As to my little practice,
+
+60
+00:06:00,221 --> 00:06:03,728
+似乎也退化到了处理家庭琐事
+it seems to be degenerating into an agency
+
+61
+00:06:03,765 --> 00:06:06,752
+寻找丢失的铅笔
+for recovering ost lead pencils
+
+62
+00:06:06,790 --> 00:06:09,881
+替寄宿学校的姑娘们出出主意
+and giving advice to young ladies from boarding schools.
+
+63
+00:06:10,298 --> 00:06:12,069
+亲爱的朋友
+My dear, dear friend,
+
+64
+00:06:12,107 --> 00:06:14,051
+你怎么能这么说呢
+how can you say such a thing?
+
+65
+00:06:14,088 --> 00:06:18,013
+我想 我已经身处事业谷底了
+I think I have touched bottom, finally.
+
+66
+00:06:18,050 --> 00:06:19,994
+不管怎么说 这张我今早收到的条子
+However, this note I had this morning
+
+67
+00:06:20,031 --> 00:06:22,288
+我想标志了我的最低点
+marks my zero-point, I fancy.
+
+68
+00:06:23,019 --> 00:06:24,894
+老天啊 谁寄来的
+Well, goodness, who is it from?
+
+69
+00:06:26,877 --> 00:06:28,336
+读一读
+Read it.
+
+70
+00:06:31,256 --> 00:06:32,591
+亲爱的福尔摩斯先生
+Dear Mr. Holmes:
+
+71
+00:06:32,748 --> 00:06:34,472
+我急切的想找您商量
+I am very anxious to consult you
+
+72
+00:06:34,734 --> 00:06:37,616
+关于我是否应该接受别人聘请我
+as to whether I should or should not accept a situation
+
+73
+00:06:37,653 --> 00:06:40,118
+当家庭女教师的问题
+which has been offered to me as a governess.
+
+74
+00:06:41,683 --> 00:06:43,558
+我明天十点半来拜访你
+I shall call at half-past ten tomorrow
+
+75
+00:06:43,596 --> 00:06:45,957
+如果不麻烦你的话
+if I do not inconvenience you.
+
+76
+00:06:46,792 --> 00:06:50,023
+你的忠实的维奥莱特・亨特
+Yours faithfully, Violet Hunter.
+
+77
+00:06:56,593 --> 00:06:58,782
+我不得不承认对这信的内容
+I must confess to being somewhat puzzled
+
+78
+00:06:58,819 --> 00:07:02,431
+有点疑惑 亨特小姐
+by the contents of your letter, Miss, uh, Hunter,
+
+79
+00:07:03,162 --> 00:07:04,933
+因为你咨询的问题
+since the matter on which you seek advice
+
+80
+00:07:04,972 --> 00:07:08,375
+不在我的工作范畴之内
+is somewhat outside my sual field of expertise.
+
+81
+00:07:08,412 --> 00:07:10,147
+是的 我知道
+Yes, I am aware of that.
+
+82
+00:07:10,356 --> 00:07:12,961
+但是你会原谅我麻烦你的
+But you will excuse my troubling you, I am sure,
+
+83
+00:07:13,000 --> 00:07:16,507
+我确定 因为我最近的经历很不寻常
+since I have recently had a very strange experience.
+
+84
+00:07:16,717 --> 00:07:17,967
+是吗
+Indeed?
+
+85
+00:07:18,594 --> 00:07:22,660
+我没有父母或任何亲戚
+As I have no parents or relations of any sort
+
+86
+00:07:22,697 --> 00:07:24,745
+可以请教
+from whom I could ask advice,
+
+87
+00:07:24,782 --> 00:07:26,726
+我想也许你会好心
+I thought perhaps you would be kind enough
+
+88
+00:07:26,763 --> 00:07:28,394
+告诉我应该怎么办
+to tell me what I should do.
+
+89
+00:07:30,168 --> 00:07:32,149
+我将会高兴地尽力为您服务
+I shall be happy to serve you in any way I can;
+
+90
+00:07:32,185 --> 00:07:33,920
+请 继续
+pray, proceed.
+
+91
+00:07:35,694 --> 00:07:39,238
+西郊有一家出名的家教介绍所
+There is a well-known agency for governesses in the West End
+
+92
+00:07:39,276 --> 00:07:43,097
+叫维斯塔维 我最近每周都要到那里
+called Westaway's, and I have lately been calling there
+
+93
+00:07:43,134 --> 00:07:46,225
+询问是否有
+about once a week in order to see whether
+
+94
+00:07:46,261 --> 00:07:48,830
+适合我的工作
+anything has turned up which might suit me.
+
+95
+00:07:58,841 --> 00:08:01,655
+经理是斯托珀小姐
+It is managed by Miss Stoper.
+
+96
+00:08:03,221 --> 00:08:06,140
+她坐在自己的办公室里
+She sits alone in her own office,
+
+97
+00:08:06,349 --> 00:08:08,434
+求职的女性
+and the ladies who are seeking employment
+
+98
+00:08:08,470 --> 00:08:10,309
+在接待室等待接见
+wait in the anteroom,
+
+99
+00:08:10,347 --> 00:08:12,499
+之后挨个进去
+and are then shown in one by one,
+
+100
+00:08:12,918 --> 00:08:14,899
+她会在记录本上查看
+when she consults her ledgers and sees whether
+
+101
+00:08:14,935 --> 00:08:17,712
+有没有适合求职者的工作
+she has anything which might suit them.
+
+102
+00:08:17,922 --> 00:08:20,111
+格林小姐在我们的登记簿上已经很长时间了
+Miss Green has been on our books for some years
+
+103
+00:08:20,149 --> 00:08:22,093
+有很好的资历
+and has excellent references.
+
+104
+00:08:22,130 --> 00:08:26,368
+实际上 她的前任雇主
+In fact, were it not for the swift return to Kuala Lampur
+
+105
+00:08:26,405 --> 00:08:28,244
+对她非常满意
+of her present employer,
+
+106
+00:08:28,453 --> 00:08:30,850
+如果不是急于举家返回库阿拉兰珀
+who finds her most satisfactory,
+
+107
+00:08:30,888 --> 00:08:34,813
+她今天也不会在这里待选
+she would not be available today for your consideration.
+
+108
+00:08:42,008 --> 00:08:43,883
+谢谢 格林小姐
+Thank you, Miss Green.
+
+109
+00:09:19,545 --> 00:09:22,046
+她就可以
+Oh, that will do.
+
+110
+00:09:28,408 --> 00:09:30,805
+我不能要求比这更好的了
+I could not ask for anything better.
+
+111
+00:09:35,394 --> 00:09:37,791
+好极了 非常好
+Oh, capital, capital.
+
+112
+00:09:37,828 --> 00:09:39,459
+太好了
+Splendid.
+
+113
+00:09:39,497 --> 00:09:41,023
+请坐 亨特小姐
+Please be seated, Miss Hunter.
+
+114
+00:09:41,060 --> 00:09:43,212
+你是来寻找职位的吧 小姐
+Now, then, you are looking for a situation, miss?
+
+115
+00:09:43,251 --> 00:09:44,047
+是的 先生
+Yes, sir.
+
+116
+00:09:44,085 --> 00:09:44,881
+做家庭女教师?
+As a governess?
+
+117
+00:09:44,919 --> 00:09:45,715
+是的 先生
+Yes, sir.
+
+118
+00:09:45,752 --> 00:09:47,487
+你要求多少薪水?
+And what salary do you ask?
+
+119
+00:09:47,525 --> 00:09:49,677
+我以前在斯彭斯芒罗上校那里
+I had four pounds a month in my last place
+
+120
+00:09:49,715 --> 00:09:51,137
+是每月4英镑
+with Colonel Spence Munro.
+
+121
+00:09:51,175 --> 00:09:54,578
+他给她的待遇已经很高了 鲁卡斯尔先生
+He has given her an excellent reference, Mr. Rucastle.
+
+122
+00:09:54,616 --> 00:09:56,142
+毫无疑问 毫无疑问
+Oh, doubtless, doubtless,
+
+123
+00:09:56,179 --> 00:09:58,331
+可是每月4英镑?
+but four pounds a month?
+
+124
+00:09:59,792 --> 00:10:01,251
+如果那太多了...
+If that seems too much...
+
+125
+00:10:01,289 --> 00:10:04,588
+太多了?不 不
+Too much? oh, tut, tut,
+
+126
+00:10:04,625 --> 00:10:06,986
+怎么会有人出这么可怜的小数目
+how could anyone offer so pitiful a sum to a lady
+
+127
+00:10:07,024 --> 00:10:10,845
+给一位如此有吸引力和造诣的女士?
+with such attraction and accomplishments?
+
+128
+00:10:11,470 --> 00:10:13,345
+我的造诣 先生
+My accomplishments, sir,
+
+129
+00:10:13,383 --> 00:10:15,431
+可能不如你所想像的那样深
+may be less than you imagine.
+
+130
+00:10:15,954 --> 00:10:19,706
+懂一点法文 一点德文 音乐 绘画...
+A little French, a little German, music, drawing...
+
+131
+00:10:19,744 --> 00:10:20,540
+啧 啧
+Oh, tut, tut,
+
+132
+00:10:20,578 --> 00:10:22,209
+这些都不是主要问题
+that is quite beside the question.
+
+133
+00:10:23,253 --> 00:10:26,067
+关键是你有没有
+The point is, have you or have you not
+
+134
+00:10:26,105 --> 00:10:29,717
+具备一位有教养女士的举止和风度?
+the bearing and deportment of a lady?
+
+135
+00:10:30,030 --> 00:10:32,011
+简单地说就是这一句话
+I mean, that is it in a nutshell.
+
+136
+00:10:34,201 --> 00:10:37,432
+我希望自己有 先生
+I would hope to have lady like qualities, sir.
+
+137
+00:10:37,470 --> 00:10:38,370
+如果你没有
+If you have not,
+
+138
+00:10:38,409 --> 00:10:40,457
+你就不适合教育一个
+then you are not fitted for the rearing of a child
+
+139
+00:10:40,494 --> 00:10:42,646
+家世和才华
+whose background and qualities point
+
+140
+00:10:42,683 --> 00:10:44,209
+直指成功未来的孩子
+to a brilliant future.
+
+141
+00:10:44,247 --> 00:10:47,024
+倘若你有 为什么竟有人会要求你
+And if you have, why, how can any gentleman ask you
+
+142
+00:10:47,063 --> 00:10:50,570
+屈尊接受少于三位数的薪水?
+to condescend to accept anything under three figures?
+
+143
+00:10:53,178 --> 00:10:54,845
+三位数 先生
+Three figures, sir?
+
+144
+00:10:55,576 --> 00:10:57,243
+这是我提供的薪水 女士
+Your salary with me, madam,
+
+145
+00:10:57,766 --> 00:11:00,893
+一年一百英镑
+would commence at a hundred pounds a year.
+
+146
+00:11:04,126 --> 00:11:06,211
+我都不知道说什么了
+I hardly know what to say.
+
+147
+00:11:06,248 --> 00:11:09,755
+这也是我的习惯
+It has also been my custom to advance my young ladies
+
+148
+00:11:10,486 --> 00:11:14,448
+预付一部分的薪水给我的年轻的小姐
+a small portion of their salary beforehand,
+
+149
+00:11:14,970 --> 00:11:18,514
+好让她们应付旅费上的开支
+so that they might meet any little expenses
+
+150
+00:11:18,552 --> 00:11:20,809
+并置办一些衣服
+of their journey and their wardrobe.
+
+151
+00:11:21,851 --> 00:11:23,310
+谢谢 先生
+Thank you, sir.
+
+152
+00:11:26,439 --> 00:11:28,210
+可否问问你住在什么地方吗
+May I ask where you live?
+
+153
+00:11:28,248 --> 00:11:30,817
+汉普郡 可爱的乡村地区
+Oh, Hampshire, charming rural place,
+
+154
+00:11:30,855 --> 00:11:32,277
+铜山毛榉
+The Copper Beeches,
+
+155
+00:11:32,315 --> 00:11:34,884
+离温切斯特只有5英里
+five miles on the further side of Winchester.
+
+156
+00:11:35,302 --> 00:11:38,950
+是最可爱的乡村
+Oh, it is the most lovely country,
+
+157
+00:11:38,988 --> 00:11:43,746
+亲爱的小姐 还有最可爱的老房子
+my dear young lady, and the dearest old country house.
+
+158
+00:11:43,784 --> 00:11:45,415
+我的职责呢?
+And my duties, sir?
+
+159
+00:11:45,453 --> 00:11:47,292
+我很想了解一下
+I should be glad to know what they would be.
+
+160
+00:11:47,329 --> 00:11:51,358
+一个孩子 刚刚六岁的小淘气
+One child, one dear little romper just six years old.
+
+161
+00:11:51,396 --> 00:11:52,922
+多好啊
+How charming.
+
+162
+00:11:53,236 --> 00:11:56,259
+斯托珀小姐 你要是能看到
+Oh, Miss Stoper, if you could only see him
+
+163
+00:11:56,296 --> 00:11:58,240
+他用拖鞋打死蟑螂
+killing cockroaches with a slipper,
+
+164
+00:11:59,909 --> 00:12:02,410
+一眨眼的功夫 三只就报销了
+three of them gone before you could wink.
+
+165
+00:12:02,724 --> 00:12:04,079
+很聪明
+Very clever.
+
+166
+00:12:05,957 --> 00:12:08,250
+我唯一的工作
+My sole duties, then,
+
+167
+00:12:08,287 --> 00:12:10,856
+就是 照顾一个孩子?
+are to take charge of a single child?
+
+168
+00:12:10,894 --> 00:12:13,255
+不 不 不...
+Oh, no, no, no, no, no, no,
+
+169
+00:12:13,292 --> 00:12:15,444
+不是唯一的 我亲爱的年轻的小姐
+not sole, my dear young lady.
+
+170
+00:12:15,654 --> 00:12:18,155
+还有什么?
+Oh, what else, then?
+
+171
+00:12:18,192 --> 00:12:19,302
+你的责任是
+Well, your duty would be,
+
+172
+00:12:19,340 --> 00:12:20,971
+我肯定你聪明的头脑能意识到
+as I am sure your good sense would suggest,
+
+173
+00:12:21,008 --> 00:12:24,515
+听候我妻子的任何命令
+to obey any little commands that my wife might give.
+
+174
+00:12:25,559 --> 00:12:27,434
+你是说命令?
+You said commands?
+
+175
+00:12:28,687 --> 00:12:29,729
+假如有的话 当然
+Provided, of course,
+
+176
+00:12:29,767 --> 00:12:32,232
+这些命令是一位小姐
+that they were such commands as any young lady
+
+177
+00:12:32,269 --> 00:12:34,004
+理应遵从的话
+might with propriety obey.
+
+178
+00:12:35,569 --> 00:12:37,340
+你看 没有任何困难吧?
+You see no difficulty?
+
+179
+00:12:37,967 --> 00:12:41,407
+不 什么都行
+None, whatsoever.
+
+180
+00:12:43,910 --> 00:12:46,411
+很乐意能够帮得上忙
+I should be happy to make myself useful.
+
+181
+00:12:46,449 --> 00:12:47,767
+太好了
+Quite so.
+
+182
+00:12:48,394 --> 00:12:52,146
+说说服装  比如说 我们都是我们喜欢时尚
+In dress, for example, we are faddy people,
+
+183
+00:12:52,184 --> 00:12:56,109
+你知道 时尚癖 但心眼不坏
+you know, Miss Hunter, faddy, but kind-hearted.
+
+184
+00:12:56,146 --> 00:12:58,090
+倘若我们给你衣服
+And if you were asked to wear any dress
+
+185
+00:12:58,127 --> 00:12:59,549
+让你穿的话
+that we might give you,
+
+186
+00:13:00,698 --> 00:13:03,721
+你不会反对我们小小的怪癖吧?
+you would not object to our little whims, huh?
+
+187
+00:13:05,286 --> 00:13:07,475
+为什么 不会啊
+Why, um, no.
+
+188
+00:13:07,512 --> 00:13:09,664
+叫你坐在这里 坐在那里
+Or to sit here, or to sit there,
+
+189
+00:13:10,916 --> 00:13:13,001
+不会让你不高兴吧
+and that would not be offensive to you?
+
+190
+00:13:13,940 --> 00:13:14,982
+不会
+No.
+
+191
+00:13:17,589 --> 00:13:20,403
+或者你来之前 把头发剪短一点
+Or to cut your hair quite short before you come to us?
+
+192
+00:13:22,907 --> 00:13:24,574
+剪短头发?
+Cut my hair?
+
+193
+00:13:24,993 --> 00:13:26,035
+剪得很短
+Quite short.
+
+194
+00:13:29,371 --> 00:13:32,185
+我想这可能不行
+Well, I am afraid that's quite impossible.
+
+195
+00:13:32,223 --> 00:13:34,375
+恐怕这点很重要
+And I am afraid it is quite essential.
+
+196
+00:13:35,106 --> 00:13:37,295
+这是我妻子的小小癖好
+It's a little fancy of my wife's,
+
+197
+00:13:38,860 --> 00:13:40,841
+夫人们的癖好 我亲爱的小姐
+and ladies' fancies, my dear madam,
+
+198
+00:13:41,675 --> 00:13:43,760
+夫人们的爱好必须得考虑
+ladies' fancies must be consulted.
+
+199
+00:13:49,391 --> 00:13:51,162
+那么 你不打算剪掉头发?
+So you won't cut your hair?
+
+200
+00:13:52,310 --> 00:13:55,020
+不 先生 实在不行
+No, sir, I'm afraid I could not.
+
+201
+00:13:59,193 --> 00:14:04,405
+好吧 真可惜
+Ah, well, it is a pity,
+
+202
+00:14:05,344 --> 00:14:07,845
+因为其它方面你实在很合适
+because in other respects you might have done very nicely.
+
+203
+00:14:08,576 --> 00:14:09,931
+既然这样 斯托普小姐
+In that case, Miss Stoper,
+
+204
+00:14:09,969 --> 00:14:12,017
+我最好再看几个姑娘
+I had best inspect some more of your ladies.
+
+205
+00:14:19,003 --> 00:14:20,045
+亨特小姐
+Miss Hunter,
+
+206
+00:14:20,359 --> 00:14:23,695
+你愿意将姓名保留在登记簿上吗?
+do you desire your name to be kept upon our books?
+
+207
+00:14:23,903 --> 00:14:25,674
+如果你乐意的话 斯托普小姐
+If you please, Miss Stoper.
+
+208
+00:14:25,713 --> 00:14:29,638
+其实 登记似乎也没有什么用处
+Well, really, it seems rather useless,
+
+209
+00:14:29,676 --> 00:14:32,975
+既然你用这种方式拒绝了最优厚的待遇
+since you refused the most excellent offer in this fashion,
+
+210
+00:14:33,012 --> 00:14:36,624
+我们很难再为你寻找
+you could hardly expect us to exert ourselves
+
+211
+00:14:36,661 --> 00:14:38,813
+一个这样的机会
+to find another such opening for you.
+
+212
+00:14:38,851 --> 00:14:40,586
+抱歉 斯托普小姐 但是我的头发...
+I'm sorry, Miss Stoper, but my hair...
+
+213
+00:14:40,623 --> 00:14:42,149
+再会 亨特小姐
+Good day, Miss Hunter.
+
+214
+00:14:45,175 --> 00:14:48,927
+到底为什么他会让你剪短头发?
+Now, why on earth should he want you to cut your hair?
+
+215
+00:14:50,075 --> 00:14:51,534
+不知道
+I don't know.
+
+216
+00:14:51,848 --> 00:14:54,767
+奇怪的要求
+A very strange fact.
+
+217
+00:14:55,080 --> 00:14:57,061
+正如你所见 福尔摩斯先生
+As you may observe, Mr. Holmes,
+
+218
+00:14:57,097 --> 00:14:59,249
+我的头发很浓密
+my hair is somewhat luxuriant
+
+219
+00:14:59,288 --> 00:15:02,065
+有着栗子般特殊的色泽
+and a rather peculiar tint of chestnut.
+
+220
+00:15:02,103 --> 00:15:05,819
+颇为艺术 在我看来
+And most artistic, if I may so observe.
+
+221
+00:15:05,856 --> 00:15:07,800
+考虑到这些
+It has been considered so.
+
+222
+00:15:08,844 --> 00:15:11,554
+我不能这么轻易的
+I simply couldn't think of sacrificing it
+
+223
+00:15:11,591 --> 00:15:12,805
+为了满足别人就把它牺牲掉
+in such an offhand manner.
+
+224
+00:15:12,842 --> 00:15:15,203
+恐怕确实是不可能的
+Well, I should think not, indeed.
+
+225
+00:15:15,829 --> 00:15:18,330
+当时我就是这种感觉
+Oh, such was my feeling at the time.
+
+226
+00:15:19,375 --> 00:15:21,668
+第二天我开始想
+The next day I was inclined to think
+
+227
+00:15:21,705 --> 00:15:23,231
+自己是不是错了
+that I had made a mistake,
+
+228
+00:15:23,754 --> 00:15:26,151
+第三天 我肯定自己错了
+and the day after I was sure of it,
+
+229
+00:15:26,569 --> 00:15:29,383
+我收到了这位先生的信
+when I received a letter from the gentleman himself.
+
+230
+00:15:29,488 --> 00:15:31,469
+我把它带来了 这就念给你听
+I have it here, and I will read it to you.
+
+231
+00:15:34,285 --> 00:15:35,478
+亲爱的亨特小姐:
+Dear Miss Hunter:
+
+232
+00:15:35,680 --> 00:15:38,434
+斯托普小姐将你的地址告诉了我
+Miss Stoper has kindly given me your address,
+
+233
+00:15:38,589 --> 00:15:39,929
+所以写信想问一下
+and I write from here to ask
+
+234
+00:15:40,161 --> 00:15:42,313
+你有没有重新考虑自己的决定
+whether you have reconsidered your decision.
+
+235
+00:15:43,044 --> 00:15:46,171
+我们愿意支付每季度30英镑
+We are willing to give 30 pounds a quarter,
+
+236
+00:15:46,380 --> 00:15:50,446
+也就是每年120英镑来补偿你
+or 120 pounds a year, so as to recompense you
+
+237
+00:15:50,483 --> 00:15:54,408
+因为我们癖好可能带来的小小不便
+for any little inconvenience which our fads may cause you. 
+
+238
+00:15:54,446 --> 00:15:55,764
+那你的头发呢?
+And your hair?
+
+239
+00:15:56,703 --> 00:15:58,058
+他很坚决
+He is insistent.
+
+240
+00:15:59,205 --> 00:16:02,436
+"考虑到你的头发 无疑非常遗憾
+As regards your hair, it is no doubt a pity,
+
+241
+00:16:02,474 --> 00:16:05,043
+尤其是在我们短暂的会面中我就不禁赞美
+especially as I could not help remarking its beauty
+
+242
+00:16:05,081 --> 00:16:07,233
+你美丽的头发
+during our short interview.
+
+243
+00:16:07,270 --> 00:16:10,361
+但恐怕我必须坚持这一点
+But I am afraid I must remain firm upon this point,
+
+244
+00:16:10,570 --> 00:16:12,967
+惟愿增加的一点薪水
+and I only hope that the increased salary
+
+245
+00:16:13,005 --> 00:16:15,053
+也许足以补偿你的损失"
+may recompense you for the loss. 
+
+246
+00:16:16,514 --> 00:16:17,556
+可以吗?
+Will it?
+
+247
+00:16:17,973 --> 00:16:21,204
+我已经决定接受了
+My mind is made up that I will accept the offer.
+
+248
+00:16:23,083 --> 00:16:26,210
+然而我想 在走这最后一步前
+I thought, however, that before taking the final step,
+
+249
+00:16:26,247 --> 00:16:27,982
+最好把事情的全部经过
+I should like to submit the whole matter
+
+250
+00:16:28,020 --> 00:16:29,651
+都告诉你
+for your consideration.
+
+251
+00:16:30,381 --> 00:16:31,631
+亲爱的亨特小姐
+My dear Miss Hunter,
+
+252
+00:16:31,737 --> 00:16:33,718
+既然你已经决定了
+as your mind is already made up,
+
+253
+00:16:33,754 --> 00:16:35,385
+事情就已经解决了
+the matter is settled.
+
+254
+00:16:35,699 --> 00:16:37,680
+但是 如果你发现
+But, if at any time you should find yourself
+
+255
+00:16:37,717 --> 00:16:39,139
+有任何的疑惑或者遇到危险
+in any doubt or danger
+
+256
+00:16:39,176 --> 00:16:40,286
+危险?
+Danger?
+
+257
+00:16:41,121 --> 00:16:42,892
+你预见到什么危险?
+What danger do you foresee?
+
+258
+00:16:42,929 --> 00:16:45,290
+如果能够确定 那就不叫危险了
+There seems to be a danger, if we could define it.
+
+259
+00:16:45,812 --> 00:16:47,375
+但不论什么时候 白天或晚上
+But at any time, day or night,
+
+260
+00:16:47,413 --> 00:16:49,565
+打一个电报我就来帮你
+a telegram will bring me down to your help.
+
+261
+00:16:53,112 --> 00:16:54,571
+这足够了
+Then that is enough.
+
+262
+00:16:58,116 --> 00:17:00,513
+我会马上写信回复鲁卡斯尔先生的
+I shall write to Mr. Rucastle at once,
+
+263
+00:17:01,036 --> 00:17:04,788
+现在可以安心的去汉普郡了
+and go down to Hampshire quite easy in my mind now.
+
+264
+00:17:05,832 --> 00:17:06,874
+谢谢
+Thank you.
+
+265
+00:17:14,174 --> 00:17:15,320
+福尔摩斯?
+Well, Holmes?
+
+266
+00:17:21,994 --> 00:17:25,225
+我可不会让我的姐妹接受这样的工作
+I should allow no sister of mine to accept such a situation.
+
+267
+00:17:28,510 --> 00:17:31,112
+杰夫罗・鲁卡斯尔 汉普郡温切斯特附近 铜山毛榉 
+
+268
+00:18:46,034 --> 00:18:48,639
+这是我的仆人 托勒 他喜欢安全一点
+That's my man, Toller, he likes to keep it secure.
+
+269
+00:18:49,266 --> 00:18:51,247
+但你能理解吧 亨特小姐
+But you look apprehensive, Miss Hunter.
+
+270
+00:18:51,284 --> 00:18:53,123
+完全可以 鲁卡斯尔先生
+Not at all, Mr. Rucastle.
+
+271
+00:18:53,161 --> 00:18:54,792
+太好了 太好了
+Good, good.
+
+272
+00:19:27,012 --> 00:19:28,679
+你肯定是爱德华
+You must be Edward,
+
+273
+00:19:28,716 --> 00:19:30,451
+我很期待见到你
+I have looked forward to meeting you.
+
+274
+00:19:30,489 --> 00:19:31,703
+爱德华少爷
+Master Edward,
+
+275
+00:19:32,016 --> 00:19:33,997
+这是你新的家庭教师 亨特小姐
+this is your new governess, Miss Hunter.
+
+276
+00:19:36,291 --> 00:19:39,314
+看来你给亨特小姐准备了见面礼
+Oh, I see you have a present for Miss Hunter.
+
+277
+00:19:39,352 --> 00:19:41,296
+干得好 好枪法
+Oh, well done, good shot.
+
+278
+00:19:41,922 --> 00:19:44,319
+铜山毛榉?鲁卡斯尔先生
+Copper Beeches, Mr. Rucastle?
+
+279
+00:19:44,946 --> 00:19:49,116
+全死了 亨特小姐 大部分都死了
+All dead, Miss Hunter, mostly dead.
+
+280
+00:19:56,310 --> 00:19:58,915
+就是这里 进来 进来
+Here we are, then, come in, come in.
+
+281
+00:19:59,439 --> 00:20:02,879
+托勒夫人 这位是维奥莱特・亨特
+Oh, Mrs. Toller, this is Miss Violet Hunter,
+
+282
+00:20:03,089 --> 00:20:06,841
+她是爱德华小主人的家教
+who is taking up the position of governess to Master Edward.
+
+283
+00:20:12,472 --> 00:20:14,035
+你好 亨特小姐
+How do you do, Miss Hunter?
+
+284
+00:20:15,705 --> 00:20:17,476
+你的房间已经准备好了
+Your room is all ready for you.
+
+285
+00:20:17,582 --> 00:20:18,728
+谢谢
+Thank you.
+
+286
+00:20:19,459 --> 00:20:22,064
+现在去 托勒 把行李搬过来
+Come along now, Toller, fetch the trunk.
+
+287
+00:20:22,795 --> 00:20:27,591
+亨特小姐 等你休息过后
+Oh, Miss Hunter, after you are refreshed from your journey,
+
+288
+00:20:28,425 --> 00:20:30,510
+我带你去游览铜山毛榉
+I'll take you on a tour of The Copper Beeches.
+
+289
+00:20:46,672 --> 00:20:49,903
+房子很大 鲁卡斯尔先生
+The premises is certainly extensive, Mr. Rucastle.
+
+290
+00:20:49,942 --> 00:20:54,075
+是的 这么大的房子需要好好防护
+Oh, yes, and the extensive premises need protection.
+
+291
+00:20:54,284 --> 00:20:57,098
+看 是不是很漂亮
+Look in here, isn't he a beauty?
+
+292
+00:21:00,228 --> 00:21:01,895
+别害怕 亨特小姐
+Don't be frightened, Miss Hunter,
+
+293
+00:21:01,932 --> 00:21:03,771
+它是卡罗 我的看门犬
+it's only Carlo, my mastiff.
+
+294
+00:21:04,606 --> 00:21:06,587
+我称它为我的 但实际上
+I call him mine, but in fact,
+
+295
+00:21:06,624 --> 00:21:09,297
+托勒是唯一能驯服它的人
+Toller is the only man that can do anything with him.
+
+296
+00:21:09,611 --> 00:21:10,861
+他晚上就放它出来
+He lets him loose at night,
+
+297
+00:21:10,899 --> 00:21:14,615
+上帝保佑那些置身它利牙之下的路人
+and God help any trespasser he lays his fangs upon.
+
+298
+00:21:14,653 --> 00:21:17,430
+我们每天喂他一次 但喂的不多
+We feed him once a day, and not too much then,
+
+299
+00:21:17,468 --> 00:21:19,725
+所以他总是很饥饿
+so that he is always keen as mustard.
+
+300
+00:21:22,645 --> 00:21:24,416
+看在上帝的份上 亨特小姐
+Oh, for goodness sakes, Miss Hunter,
+
+301
+00:21:26,190 --> 00:21:29,317
+晚上无故跨过这道门槛的话
+under no pretext set foot across this threshold at night;
+
+302
+00:21:30,569 --> 00:21:32,444
+很可能会丧命的
+it's as much as your life is worth.
+
+303
+00:21:49,650 --> 00:21:52,151
+鲁卡斯尔夫人马上就来
+Mrs. Rucastle will be here shortly,
+
+304
+00:21:52,779 --> 00:21:54,968
+她会让你知道她有多么高兴
+and she will tell you herself how delighted she is
+
+305
+00:21:55,005 --> 00:21:57,053
+你接受了这个工作
+you are able to accept this situation.
+
+306
+00:21:57,090 --> 00:22:00,389
+你的待遇非常丰厚 先生
+Your offer was a most generous one, sir.
+
+307
+00:22:01,850 --> 00:22:08,939
+可是 我还是对你们的要求很好奇
+Though, well, I am still curious about the conditions.
+
+308
+00:22:09,149 --> 00:22:11,338
+你是说我小小的癖好?
+My little fads and fancies, you mean?
+
+309
+00:22:11,546 --> 00:22:12,483
+是的
+Yes.
+
+310
+00:22:13,423 --> 00:22:15,194
+其实没什么
+But they're nothing at all.
+
+311
+00:22:16,864 --> 00:22:19,678
+我妻子特别喜欢一种颜色
+My wife is very fond of a particular shade
+
+312
+00:22:19,716 --> 00:22:21,868
+铁蓝色
+of electric blue,
+
+313
+00:22:22,703 --> 00:22:25,204
+她希望你早上能够在家
+and she would like you to wear such a dress indoors
+
+314
+00:22:25,243 --> 00:22:26,353
+穿这样的衣服
+in the morning.
+
+315
+00:22:26,875 --> 00:22:28,960
+但是我并没有这样的衣服
+But I do not have such a dress.
+
+316
+00:22:29,272 --> 00:22:33,024
+但我们有
+Ah, but we have one.
+
+317
+00:22:34,486 --> 00:22:36,467
+说到坐在这里 那里
+As to sitting here or there
+
+318
+00:22:36,504 --> 00:22:40,011
+或者用任何方法逗你笑
+or amusing yourself in any matter indicated,
+
+319
+00:22:40,742 --> 00:22:44,599
+不会让你感到不方便吧?
+well, that need cause you no inconvenience, need it?
+
+320
+00:22:46,060 --> 00:22:47,102
+不
+No.
+
+321
+00:22:59,197 --> 00:23:00,968
+你好 亨特小姐
+How do you do, Miss Hunter?
+
+322
+00:23:01,283 --> 00:23:03,576
+很抱歉没去迎接你
+I'm sorry I was not here to greet you,
+
+323
+00:23:04,202 --> 00:23:06,912
+微有小恙在身
+a slight indisposition.
+
+324
+00:23:07,330 --> 00:23:09,415
+我想你现在已经好多了吧?
+I trust you are feeling better now?
+
+325
+00:23:09,729 --> 00:23:11,814
+好很多了 谢谢
+Much better, thank you.
+
+326
+00:23:11,851 --> 00:23:14,733
+我刚才在和亨特女士讲蓝衣服的事
+I was just telling Miss Hunter about the blue dress.
+
+327
+00:23:15,150 --> 00:23:20,779
+是的 我想那衣服你穿肯定很合身
+Yes, I think it would fit you very well.
+
+328
+00:24:45,655 --> 00:24:47,948
+我在想这案子究竟会是
+I wonder what desperate circumstances
+
+329
+00:24:47,986 --> 00:24:49,825
+在什么样的恐怖环境下引起的?
+could occasion such an appeal?
+
+330
+00:24:50,139 --> 00:24:52,328
+我曾想过七种假设
+I have devised seven separate explanations,
+
+331
+00:24:52,365 --> 00:24:54,934
+每种都适用于现在我们知道的事实
+each of which would cover the facts as far as we know them.
+
+332
+00:24:55,143 --> 00:24:59,313
+你更倾向于哪种 福尔摩斯?
+Oh, and which one do you favor, Holmes?
+
+333
+00:25:00,148 --> 00:25:02,023
+目前为止还没有比较偏好的
+At the moment, I have no favorites.
+
+334
+00:25:03,589 --> 00:25:09,427
+材料 材料 材料 没有粘土我没法做出砖头来
+Data, data, data, I cannot make bricks without clay.
+
+335
+00:25:11,827 --> 00:25:13,808
+能远离贝克街的
+Well, it's nice to get away from the fogs
+
+336
+00:25:13,844 --> 00:25:15,475
+乌烟瘴气太好了
+of Baker Street now and again.
+
+337
+00:25:16,205 --> 00:25:18,810
+多么漂亮的小农房啊
+What delightful little farms these are,
+
+338
+00:25:18,849 --> 00:25:21,314
+你不觉得他们清新美丽吗?
+don't you agree, aren't they fresh and beautiful?
+
+339
+00:25:22,044 --> 00:25:23,086
+你知道 华生
+You know, Watson,
+
+340
+00:25:23,609 --> 00:25:25,694
+我性格被诅咒了的一个表现就是
+it is one of the curses of having a mind
+
+341
+00:25:25,730 --> 00:25:29,133
+每件事都要和自己研究的
+with a turn like mine that I must look at everything
+
+342
+00:25:29,969 --> 00:25:32,888
+特殊问题联系起来
+with reference to my own special subject.
+
+343
+00:25:33,410 --> 00:25:34,556
+但这不会让风景的美丽
+Well, it doesn't make the scenery
+
+344
+00:25:34,594 --> 00:25:36,225
+有损一分一毫 不是吗?
+any less admirable, does it?
+
+345
+00:25:37,059 --> 00:25:38,726
+你看这些零星散布的农房
+You look at these scattered houses,
+
+346
+00:25:38,764 --> 00:25:40,290
+他们的秀丽给你留下深刻印象
+and you are impressed by their beauty.
+
+347
+00:25:40,329 --> 00:25:43,316
+我看到它们时 心里涌现的想法是
+I look at them, and the only thought which comes to me
+
+348
+00:25:43,352 --> 00:25:45,921
+总感觉它们非常孤立
+is a feeling of their isolation
+
+349
+00:25:45,959 --> 00:25:48,946
+会使可能发生的罪行得不到应有惩罚
+and of the impunity with which crime may be committed there.
+
+350
+00:25:49,571 --> 00:25:50,926
+我的天啊
+Good heavens,
+
+351
+00:25:50,964 --> 00:25:55,097
+谁会把犯罪和这些可爱的老农房联系起来
+who would associate crime with these dear old homesteads?
+
+352
+00:25:55,306 --> 00:25:57,911
+它们总使我充满恐怖之感
+They always filled me with a certain horror.
+
+353
+00:25:58,643 --> 00:26:01,979
+这是我的信条 根据我的经验
+It is my belief, Watson, founded upon my experience,
+
+354
+00:26:02,605 --> 00:26:05,210
+伦敦最卑贱 最恶劣的小巷
+that the lowest and vilest alleys in London
+
+355
+00:26:05,249 --> 00:26:07,818
+也不会发生比这令人愉悦的美丽的乡村里
+do not present a more dreadful record of sin
+
+356
+00:26:07,855 --> 00:26:10,424
+更恐怖的犯罪行为了
+than does the smiling and beautiful countryside.
+
+357
+00:26:11,051 --> 00:26:13,865
+向我们求援的这位小姐
+Had this young lady who appeals to us for help
+
+358
+00:26:14,075 --> 00:26:15,638
+要是住在温切斯特
+gone to live in Winchester,
+
+359
+00:26:15,675 --> 00:26:17,827
+我绝不会为她担心
+I should never have had a fear for her.
+
+360
+00:26:18,871 --> 00:26:23,457
+但危险在于这五英里之外的农村
+It is the five miles of country which makes the danger.
+
+361
+00:26:53,071 --> 00:26:55,260
+这能说明什么 福尔摩斯?
+What can it mean, Mr. Holmes?
+
+362
+00:26:55,297 --> 00:26:59,013
+恐怕没有足够资料 我们还不能下定论
+We cannot theorize without data, I'm afraid.
+
+363
+00:27:00,683 --> 00:27:03,288
+请继续说 亨特小姐
+Please, continue, Miss Hunter.
+
+364
+00:27:04,853 --> 00:27:06,103
+首先
+In the first place,
+
+365
+00:27:06,141 --> 00:27:07,980
+总的来说
+I may say that I have met, on the whole,
+
+366
+00:27:08,018 --> 00:27:10,587
+我没有受到
+with no actual ill-treatment from
+
+367
+00:27:10,624 --> 00:27:12,359
+鲁卡斯尔夫妇的虐待
+Mr. and Mrs. Rucastle.
+
+368
+00:27:12,882 --> 00:27:15,383
+但我很不放心
+But I am not easy in my mind about them,
+
+369
+00:27:16,532 --> 00:27:18,513
+而且也不能理解
+and I cannot understand them.
+
+370
+00:27:19,764 --> 00:27:21,223
+不能理解什么
+What can't you understand?
+
+371
+00:27:22,266 --> 00:27:24,663
+为他们行为的辩解的理由
+The reasons for their conduct.
+
+372
+00:27:25,498 --> 00:27:28,208
+我到铜山毛榉后 头两天
+For two days after my arrival at the Copper Beeches,
+
+373
+00:27:28,246 --> 00:27:30,085
+生活很平静
+my life was very quiet.
+
+374
+00:27:30,816 --> 00:27:34,986
+第三天 我吃过早饭下楼到绘画室
+On the third, I went downstairs after breakfast to find
+
+375
+00:27:35,023 --> 00:27:37,071
+去找鲁卡斯尔夫妇
+Mr. and Mrs. Rucastle in the drawing room.
+
+376
+00:27:38,115 --> 00:27:41,451
+鲁卡斯尔先生提到了那件衣服
+Mr. Rucastle informed me that a dress,
+
+377
+00:27:42,598 --> 00:27:44,787
+把一件铁蓝色的衣服
+an electric blue dress,
+
+378
+00:27:44,824 --> 00:27:46,768
+放在了我的卧室里
+had been laid out for me in my bedroom,
+
+379
+00:27:46,805 --> 00:27:48,331
+要求我穿上
+and asked me to put it on.
+
+380
+00:27:49,063 --> 00:27:50,834
+我照他说的做了
+I did as he requested.
+
+381
+00:28:16,798 --> 00:28:21,072
+太棒了 亨特小姐 太棒了
+Oh, superb, Miss Hunter, oh, quite superb.
+
+382
+00:28:22,011 --> 00:28:23,470
+你不觉得吗
+Do you not agree?
+
+383
+00:28:23,508 --> 00:28:25,452
+再合身不过了
+It could not be a better fit,
+
+384
+00:28:25,661 --> 00:28:28,162
+就像特地量身制作的一样
+not if you had been measured for it.
+
+385
+00:28:28,894 --> 00:28:31,917
+请坐下 亨特小姐
+Please, be so good as to sit down, Miss Hunter.
+
+386
+00:28:34,941 --> 00:28:37,755
+完美 太好了 真完美
+Oh, perfect, I mean, it's quite, quite perfect.
+
+387
+00:28:37,793 --> 00:28:40,362
+坐这里 如果不介意的话 亨特小姐
+Over here, if you don't mind, Miss Hunter.
+
+388
+00:28:40,400 --> 00:28:43,803
+看啊 看啊 多么漂亮
+There, there, there now, excellent.
+
+389
+00:28:44,742 --> 00:28:46,097
+你觉得舒适吗?
+Are you quite comfortable?
+
+390
+00:28:46,134 --> 00:28:47,765
+是的 谢谢
+Yes, thank you.
+
+391
+00:28:54,230 --> 00:28:57,044
+你希望我在这里坐多久 先生?
+How long do you wish me to remain here, sir?
+
+392
+00:28:57,984 --> 00:29:01,528
+一个小时 可能更久
+Oh, an hour, perhaps, perhaps longer.
+
+393
+00:29:02,260 --> 00:29:03,615
+一个小时?
+An hour?
+
+394
+00:29:03,651 --> 00:29:06,116
+但是 我保证绝对不会是无聊的一个小时
+Oh, but not, I assure you, an hour of tedium.
+
+395
+00:29:06,638 --> 00:29:09,557
+让我们试试逗你开心
+Let us see how we can best entertain and divert you.
+
+396
+00:29:10,184 --> 00:29:13,103
+喜欢好玩的故事吗 亨特小姐?
+Do you enjoy funny stories, Miss Hunter?
+
+397
+00:29:14,354 --> 00:29:15,917
+是啊 为什么?
+Why, yes.
+
+398
+00:29:15,955 --> 00:29:17,690
+好吧 那我就给你说几个
+Well, then, I shall tell you some,
+
+399
+00:29:17,728 --> 00:29:20,193
+但我保证这都是真事儿
+and all of them, I assure you, absolutely true.
+
+400
+00:29:23,322 --> 00:29:25,407
+让我给你讲讲乔治的事
+Let me tell you about George.
+
+401
+00:29:25,443 --> 00:29:27,716
+他这个人极其特别
+He is the most extraordinary character.
+
+402
+00:29:27,867 --> 00:29:28,732
+是这样
+Well, it seems, 
+
+403
+00:29:28,908 --> 00:29:30,854
+有人想去温切斯特
+somebody wanted to find his way to Winchester,
+
+404
+00:29:30,970 --> 00:29:33,957
+然后乔治 真是个怪人
+and George, he really is such an eccentric,
+
+405
+00:29:33,993 --> 00:29:36,041
+你可能会把他错当成稻草人
+you might mistake him for a scarecrow,
+
+406
+00:29:36,078 --> 00:29:37,917
+我是说 他的腿总是劈开
+I mean, his legs are all astray,
+
+407
+00:29:37,955 --> 00:29:40,107
+他的胳膊总是这样
+his arms always thrust out like this,
+
+408
+00:29:41,568 --> 00:29:43,549
+他的头活像一个大头菜
+his head shaved like a turnip,
+
+409
+00:29:43,586 --> 00:29:47,719
+他头上还带着与众不同的帽子
+and on his head he wore the most extraordinary hat 
+
+410
+00:29:48,658 --> 00:29:50,533
+然后 鲁卡斯尔先生
+Then Mr. Rucastle,
+
+411
+00:29:50,572 --> 00:29:53,349
+在房间的另一边上蹿下跳
+walking up and down on the other side of the room,
+
+412
+00:29:53,976 --> 00:29:56,686
+开始讲述我听过的
+began to tell me a series of the funniest stories
+
+413
+00:29:56,724 --> 00:29:58,355
+最好笑的故事
+I've ever listened to.
+
+414
+00:29:59,503 --> 00:30:01,900
+你们想不出他有多滑稽
+You cannot imagine how comical he was.
+
+415
+00:30:02,943 --> 00:30:05,028
+我都笑累了
+I laughed till I was quite weary.
+
+416
+00:30:07,218 --> 00:30:09,511
+两天以后完全相同的情景
+Two days later this same performance
+
+417
+00:30:09,548 --> 00:30:10,866
+又上演了一遍
+was gone through again.
+
+418
+00:30:14,204 --> 00:30:20,042
+这是上帝的和平 没人能够理解
+This is the peace of God, that passes all understanding.
+
+419
+00:30:23,693 --> 00:30:27,759
+我的天哪!已经一个小时了?
+Oh, bless my soul, is that the hour already?
+
+420
+00:30:27,968 --> 00:30:31,512
+时间过的真快 太有趣了 先生
+Time has passed very quickly, and most amusingly, sir.
+
+421
+00:30:31,549 --> 00:30:33,597
+很高兴你这么说
+Well, I'm glad to hear you say so.
+
+422
+00:30:33,807 --> 00:30:36,726
+现在干该去自己的工作了
+But now, it is time for you to attend to your duties,
+
+423
+00:30:36,763 --> 00:30:38,289
+去换掉衣服
+so go and change your dress,
+
+424
+00:30:38,327 --> 00:30:41,209
+然后去照顾小爱德华
+and then look to little Edward in the nursery.
+
+425
+00:30:41,247 --> 00:30:43,295
+你不难想象 福尔摩斯先生
+You can easily imagine, Mr. Holmes,
+
+426
+00:30:43,332 --> 00:30:45,797
+我是多么难以理解这种
+how curious I became as to what the meaning
+
+427
+00:30:45,834 --> 00:30:49,550
+异乎寻常的表演
+of this extraordinary performance could be.
+
+428
+00:30:50,594 --> 00:30:54,764
+我察觉到他们总是小心的让我脸背对窗户
+Since my face was always turned away from the window,
+
+429
+00:30:55,807 --> 00:30:58,308
+我开始好奇想看看
+I became consumed with the desire to see
+
+430
+00:30:58,347 --> 00:31:00,499
+背后到底有什么东西
+what was going on behind my back.
+
+431
+00:31:01,959 --> 00:31:03,940
+下一次的表演中
+On the very next occasion,
+
+432
+00:31:04,462 --> 00:31:08,528
+我想办法在手里握了一块镜子
+I managed to conceal a small piece of mirror in my hand.
+
+433
+00:31:10,405 --> 00:31:13,324
+噢 乔治 我不能告诉你...
+Oh, George, I can't tell you -
+
+434
+00:31:14,367 --> 00:31:16,138
+当我笑的时候
+In the midst of my laughter,
+
+435
+00:31:16,765 --> 00:31:18,850
+我将手帕举到了眼前
+I raised my handkerchief to my eyes,
+
+436
+00:31:18,887 --> 00:31:21,248
+稍微摆弄了一下
+and was able with a little management
+
+437
+00:31:21,286 --> 00:31:23,334
+看看我背后有什么
+to see all there was behind me.
+
+438
+00:31:24,794 --> 00:31:26,044
+什么也没有
+There was nothing,
+
+439
+00:31:27,817 --> 00:31:30,422
+至少我第一印象如此
+at least that was my first impression.
+
+440
+00:31:33,135 --> 00:31:34,802
+第二次看的时候
+At second glance, however,
+
+441
+00:31:34,840 --> 00:31:36,992
+我察觉到有一个长胡子的男人
+I perceived that there was a bearded man
+
+442
+00:31:37,030 --> 00:31:40,121
+靠在场地的围栏上
+leaning against the railings which bordered our field,
+
+443
+00:31:40,434 --> 00:31:42,253
+认真的朝这边张望
+and was looking up earnestly at the house.
+
+444
+00:31:44,188 --> 00:31:48,254
+我把举着的手帕放低 瞥了鲁卡斯尔夫人一眼
+I lowered my handkerchief and glanced at Mrs. Rucastle,
+
+445
+00:31:48,567 --> 00:31:53,675
+发现她正犀利的盯着我
+to find her eyes fixed upon me in a most searching gaze.
+
+446
+00:31:55,032 --> 00:31:56,595
+她没说什么
+She said nothing,
+
+447
+00:31:56,908 --> 00:32:00,139
+但我相信她已经猜出我手中有镜子
+but I'm convinced she divined I had a mirror in my hand.
+
+448
+00:32:02,747 --> 00:32:06,917
+杰夫罗 那边有个不三不四的家伙
+Jephro, there is an impertinent fellow
+
+449
+00:32:06,955 --> 00:32:08,586
+盯着亨特小姐呢
+who stares up at Miss Hunter.
+
+450
+00:32:09,108 --> 00:32:10,567
+真的?
+Oh, does he indeed?
+
+451
+00:32:11,193 --> 00:32:12,756
+不是你的朋友吧? 亨特小姐
+No friend of yours, Miss Hunter?
+
+452
+00:32:12,794 --> 00:32:15,989
+不是 我在这里一个人也不认识
+No, I know no one in these parts.
+
+453
+00:32:16,026 --> 00:32:18,803
+天啊 真是不礼貌
+Oh, dear me, how very impertinent.
+
+454
+00:32:18,909 --> 00:32:20,264
+不可容忍
+Quite intolerable.
+
+455
+00:32:20,682 --> 00:32:22,767
+请你转过身去
+Kindly turn around, Miss Hunter,
+
+456
+00:32:22,803 --> 00:32:25,060
+示意他离开
+and motion him to go away.
+
+457
+00:32:25,686 --> 00:32:29,126
+当然还是不理他更好
+Surely it would be better if we took no notice.
+
+458
+00:32:29,164 --> 00:32:31,212
+什么 让他一直这样看下去吗?
+What, and have him loitering here always?
+
+459
+00:32:31,249 --> 00:32:32,775
+不 转过去 亨特小姐
+No, turn around, Miss Hunter,
+
+460
+00:32:33,298 --> 00:32:36,008
+像这样挥手让他离开
+and wave him away like this.
+
+461
+00:32:54,464 --> 00:32:56,027
+这是一周之前的事
+That was a week ago,
+
+462
+00:32:57,071 --> 00:32:59,781
+之后我就不再坐到窗户边
+and from that time I have not sat in the window,
+
+463
+00:33:00,512 --> 00:33:02,493
+也没穿过蓝衣服
+nor have I worn the blue dress,
+
+464
+00:33:02,910 --> 00:33:04,785
+更没见过那个长胡子的男人
+nor seen the man with the beard.
+
+465
+00:33:06,664 --> 00:33:08,435
+但是 发生了别的事情
+But something else occurred,
+
+466
+00:33:09,583 --> 00:33:14,691
+让你最终急匆匆来找我的事情
+an event which caused you to summon me with such urgency?
+
+467
+00:33:15,214 --> 00:33:21,677
+是 是的 福尔摩斯先生
+Yes, yes, oh, Mr. Holmes,
+
+468
+00:33:21,715 --> 00:33:23,763
+我从没有这么害怕过
+I've never been so frightened.
+
+469
+00:33:25,432 --> 00:33:27,621
+不要害怕 亨特小姐
+Do not distress yourself, Miss Hunter,
+
+470
+00:33:28,664 --> 00:33:32,938
+打起精神来 告诉我们是什么
+compose yourself, and then tell us what it was.
+
+471
+00:33:39,509 --> 00:33:41,280
+房子边上有个塔楼
+There is a turret to the house
+
+472
+00:33:41,318 --> 00:33:44,409
+看起来根本没人住在里面
+which appears not to be inhabited at all.
+
+473
+00:33:46,078 --> 00:33:49,518
+一扇朝向那边通往托勒家的门
+A door which faces that which leads into the quarters
+
+474
+00:33:49,554 --> 00:33:52,541
+可以从那扇门进入那间塔楼
+of the Tollers opens into the turret,
+
+475
+00:33:52,578 --> 00:33:54,626
+但它通常是锁着的
+but it is invariably locked.
+
+476
+00:33:55,253 --> 00:33:57,754
+直到昨天我才有机会
+It was only yesterday that the chance came
+
+477
+00:33:57,792 --> 00:34:00,257
+走过那扇门
+for me to pass beyond the door.
+
+478
+00:34:02,656 --> 00:34:03,906
+托勒?
+Toller?
+
+479
+00:34:03,943 --> 00:34:05,157
+是的
+Yes.
+
+480
+00:36:12,053 --> 00:36:13,616
+原来确实是你
+So it was you, then.
+
+481
+00:36:14,868 --> 00:36:17,161
+我看到门开着的时候就想到了
+I thought it must be when I saw the door open.
+
+482
+00:36:17,996 --> 00:36:19,977
+我很害怕
+I'm so frightened.
+
+483
+00:36:20,707 --> 00:36:22,896
+我亲爱的女士
+Oh, my dear young lady,
+
+484
+00:36:24,773 --> 00:36:29,464
+是什么吓着了你
+oh, my dear young lady, what has frightened you,
+
+485
+00:36:29,502 --> 00:36:31,028
+我亲爱的年轻小姐
+my dear young lady?
+
+486
+00:36:32,698 --> 00:36:36,868
+我太愚蠢了
+I - I was foolish enough
+
+487
+00:36:36,905 --> 00:36:39,474
+跑到了锁着的塔楼上
+to go up into the shuttered turret.
+
+488
+00:36:40,518 --> 00:36:42,707
+你注意到是锁着的?
+You noticed it was shuttered then?
+
+489
+00:36:44,272 --> 00:36:45,314
+是的
+Yes.
+
+490
+00:36:47,400 --> 00:36:49,589
+照相也是我的爱好之一
+Photography is one of my hobbies.
+
+491
+00:36:51,570 --> 00:36:53,445
+我把那间房子作为黑室
+I have made my dark room up there.
+
+492
+00:36:55,428 --> 00:36:57,929
+多么循规蹈矩的年轻小姐啊
+What an observant young lady one has come upon.
+
+493
+00:36:59,599 --> 00:37:02,726
+里面的光线很昏暗 非常阴森恐怖
+It was so lonely and eerie in this dim light
+
+494
+00:37:02,764 --> 00:37:05,437
+我很害怕 于是跑了出来
+that I was frightened and ran out again.
+
+495
+00:37:08,774 --> 00:37:11,588
+心里还是很害怕
+It's so dreadfully still in there.
+
+496
+00:37:13,676 --> 00:37:14,926
+只是这些?
+Only that?
+
+497
+00:37:16,803 --> 00:37:22,224
+怎么了?你认为还有什么原因?
+Why, yes, what do you think, what other reason?
+
+498
+00:37:23,997 --> 00:37:25,872
+你觉得我为什么要锁上门?
+Why do you think I keep that door locked?
+
+499
+00:37:27,230 --> 00:37:28,897
+我确实不知道
+I'm sure I don't know.
+
+500
+00:37:29,316 --> 00:37:31,713
+为了不让无关的人进去
+It is to keep people out who have no business there,
+
+501
+00:37:31,751 --> 00:37:32,547
+你明白吗?
+do you see?
+
+502
+00:37:32,584 --> 00:37:33,902
+要是我早知道...
+I'm sure if I had known
+
+503
+00:37:33,940 --> 00:37:35,362
+你现在知道了
+Well, you know now.
+
+504
+00:37:37,553 --> 00:37:40,158
+如果你再敢踏上那台阶
+And if you ever set foot across that threshold again,
+
+505
+00:37:42,454 --> 00:37:44,329
+我就把你扔给看门犬
+I'll throw you to the mastiff.
+
+506
+00:37:56,008 --> 00:38:00,804
+我太害怕了不知道该怎么办
+I was so terrified that I didn't know what to do.
+
+507
+00:38:04,975 --> 00:38:07,268
+然后我想到了你 福尔摩斯先生
+Then I thought of you, Mr. Holmes.
+
+508
+00:38:10,397 --> 00:38:13,211
+我今早从那里轻易脱身
+I had no difficulty in getting leave to come
+
+509
+00:38:13,249 --> 00:38:14,671
+来到温切斯特
+to Winchester this morning,
+
+510
+00:38:14,709 --> 00:38:17,070
+但我必须在3点之前回去
+but I must be back by 3:00 o'clock,
+
+511
+00:38:17,107 --> 00:38:19,780
+因为鲁卡斯尔夫妇要去别人家拜访
+for Mr. and Mrs. Rucastle are going on a visit
+
+512
+00:38:19,818 --> 00:38:21,553
+所以整夜都不回来
+and will be away all evening,
+
+513
+00:38:21,591 --> 00:38:24,160
+我得照顾孩子
+so that I must look after the child.
+
+514
+00:38:26,663 --> 00:38:30,415
+我把我的奇遇都告诉给你了 福尔摩斯先生
+Now I've told you all of my adventures, Mr. Holmes.
+
+515
+00:38:31,773 --> 00:38:35,943
+到底是怎么回事 我该怎么办?
+What does it mean, and what should I do?
+
+516
+00:38:37,924 --> 00:38:41,260
+那个少有言语的孩子爱德华有朋友吗?
+Does the unspeakable child Edward have a friend?
+
+517
+00:38:41,886 --> 00:38:43,449
+有
+Yes, uh,
+
+518
+00:38:43,487 --> 00:38:46,994
+农场里一个同样可怕的孩子
+an equally unpleasant child at one of the farm cottages.
+
+519
+00:38:47,032 --> 00:38:49,080
+太好了
+Splendid.
+
+520
+00:38:50,958 --> 00:38:53,563
+华生医生和我会在4点半
+Dr. Watson and I will arrive at the Copper Beeches
+
+521
+00:38:53,601 --> 00:38:55,023
+准时到达铜山毛榉
+at 4:30 precisely.
+
+522
+00:38:55,858 --> 00:38:57,421
+但在我们到达之前 有一两件事
+But before then, there are one or two things
+
+523
+00:38:57,459 --> 00:38:59,090
+我希望你去做
+I should like you to do.
+
+524
+00:39:01,071 --> 00:39:03,676
+如果我不是认为你一位卓越的女性
+I would not ask this of you, Miss Hunter,
+
+525
+00:39:04,200 --> 00:39:07,431
+我是不会让你做这些的
+if I did not think you were quite an exceptional woman.
+
+526
+00:40:53,786 --> 00:40:55,767
+托勒太太
+Mrs. Toller?
+
+527
+00:41:10,572 --> 00:41:12,447
+托勒太太
+Mrs. Toller?
+
+528
+00:41:13,284 --> 00:41:17,454
+托勒太太 爱德华可能把自己锁在了地下室了
+Mrs. Toller, I think Edward has locked himself in the cellar
+
+529
+00:41:17,491 --> 00:41:18,391
+地下室?
+The cellar?
+
+530
+00:41:18,430 --> 00:41:19,852
+我哪里都找不到他
+Well, I can't find him anywhere,
+
+531
+00:41:19,889 --> 00:41:21,728
+已经过了喝茶的时间
+and it is past his tea time.
+
+532
+00:41:21,766 --> 00:41:23,710
+我也发现了 我不明白为什么
+Well, just the same, I don't see why Master Edward
+
+533
+00:41:23,747 --> 00:41:25,378
+爱德华少爷要把自己关在地下室里
+would have locked himself in the cellar.
+
+534
+00:41:25,415 --> 00:41:26,733
+早些时候门是开着的
+Well, the door was open earlier,
+
+535
+00:41:26,770 --> 00:41:29,027
+我看见托勒拿着一个瓶子出来
+I saw Toller come out with a bottle.
+
+536
+00:41:40,498 --> 00:41:43,521
+可能他去找蟑螂了吧
+Perhaps he went down to look for cockroaches.
+
+537
+00:41:46,233 --> 00:41:47,379
+门锁着
+It's locked.
+
+538
+00:42:10,735 --> 00:42:11,985
+打开了 小姐
+There you are, miss.
+
+539
+00:42:12,023 --> 00:42:13,133
+您先请
+After you.
+
+540
+00:42:22,205 --> 00:42:23,664
+我们的目的地
+Our destination.
+
+541
+00:42:24,395 --> 00:42:28,357
+福尔摩斯 你确定看门犬没有被放出来吗?
+Holmes, can we be quite sure the mastiff isn't loose?
+
+542
+00:42:28,773 --> 00:42:31,692
+到达房子之前什么也不能确定
+We can be sure of nothing until we reach the house.
+
+543
+00:43:07,666 --> 00:43:09,437
+天啊 那是什么
+Good God, what was that?
+
+544
+00:43:31,961 --> 00:43:33,420
+快来
+Come quickly.
+
+545
+00:43:38,008 --> 00:43:40,093
+往左走 福尔摩斯先生
+To the left, Mr. Holmes.
+
+546
+00:44:21,801 --> 00:44:23,676
+这里肯定有发生过恐怖的事情
+There has been some villainy here.
+
+547
+00:44:25,346 --> 00:44:27,117
+看起来有人从房顶上爬过来过
+It looks as though someone has gone across the roof.
+
+548
+00:44:27,848 --> 00:44:32,018
+爱丽丝 爱丽丝...
+Alice, Alice, Alice, Alice, Alice.
+
+549
+00:44:39,839 --> 00:44:41,089
+爱丽丝?
+Alice?
+
+550
+00:44:46,720 --> 00:44:47,762
+我女儿呢?
+Where is my daughter?
+
+551
+00:44:47,799 --> 00:44:49,534
+我还要问你呢
+That is for me to ask you that.
+
+552
+00:44:49,572 --> 00:44:50,578
+他女儿?
+His daughter?
+
+553
+00:44:50,892 --> 00:44:55,688
+贼 你们这些间谍 贼间谍
+Thieves, you spies, thieves and spies.
+
+554
+00:44:56,835 --> 00:44:58,294
+我抓到你了 不是吗
+I have caught you, have I?
+
+555
+00:44:58,816 --> 00:45:00,171
+你在我手心里了
+I have you in my power.
+
+556
+00:45:00,484 --> 00:45:01,943
+我来好好伺候你
+I'll serve you.
+
+557
+00:45:03,925 --> 00:45:05,696
+他什么意思?
+What does he mean?
+
+558
+00:45:06,636 --> 00:45:08,617
+他去放狗了
+He's gone for the dog.
+
+559
+00:45:17,271 --> 00:45:18,313
+华生
+Watson.
+
+560
+00:45:47,405 --> 00:45:48,447
+有人放了狗
+Someone has loosed the dog.
+
+561
+00:45:48,484 --> 00:45:50,323
+它已经两天没有喂食了
+It's not been fed for two days.
+
+562
+00:45:50,361 --> 00:45:52,305
+快点 不然就迟了
+Quick, before it's too late.
+
+563
+00:46:41,312 --> 00:46:42,771
+还昏迷着
+Still unconscious.
+
+564
+00:46:43,293 --> 00:46:44,543
+我已经尽力了
+I've done what I can for him,
+
+565
+00:46:44,580 --> 00:46:46,524
+他需要立刻进行手术
+he now needs a surgeon as soon as possible.
+
+566
+00:46:46,561 --> 00:46:48,400
+我已经派托勒叫鲁卡瑟尔夫人
+I've dispatched Toller to Mrs. Rucastle
+
+567
+00:46:48,438 --> 00:46:49,964
+去找医生
+to summon such assistance.
+
+568
+00:46:50,003 --> 00:46:51,425
+小姐 可惜你不曾让我知道
+Oh, miss, it's a pity you didn't let me know
+
+569
+00:46:51,462 --> 00:46:52,676
+你的打算
+what you were planning,
+
+570
+00:46:52,714 --> 00:46:55,075
+我本来早点可以告诉你 省得你费那么大的劲
+I could have told you your pains were wasted.
+
+571
+00:46:55,597 --> 00:46:56,847
+很明显 托勒太太
+It's clear Mrs. Toller knows
+
+572
+00:46:56,884 --> 00:46:58,828
+比谁都了解这件事
+more of this matter than anyone else.
+
+573
+00:46:58,865 --> 00:47:02,477
+是的 先生 我知道 我...
+Well, yes, sir, I do, and I'm...
+
+574
+00:47:02,515 --> 00:47:04,459
+我已经准备好把我知道的一切告诉你
+I'm ready enough to tell you what I know.
+
+575
+00:47:05,918 --> 00:47:08,523
+但是如果警察要介入这件事
+But if there's police court business over this,
+
+576
+00:47:08,838 --> 00:47:11,965
+记住我是爱丽丝小姐的朋友
+you will remember I was Miss Alice's friend.
+
+577
+00:47:13,322 --> 00:47:14,468
+爱丽丝小姐?
+Miss Alice?
+
+578
+00:47:16,241 --> 00:47:20,307
+鲁卡斯尔先生第一次结婚时的女儿
+Mr. Rucastle's daughter by his first marriage.
+
+579
+00:47:20,621 --> 00:47:24,791
+也就是锁着的塔楼的秘密
+Ah, the mystery of the shuttered turret.
+
+580
+00:47:25,105 --> 00:47:27,086
+托勒太太 请坐下说
+Mrs. Toller, please sit down.
+
+581
+00:47:29,483 --> 00:47:31,150
+告诉我你知道的一切
+Now, tell me all you know.
+
+582
+00:47:33,029 --> 00:47:35,948
+她在家里从来没有开心过
+Well, she was never happy at home,
+
+583
+00:47:36,469 --> 00:47:37,824
+爱丽丝小姐
+Miss Alice wasn't,
+
+584
+00:47:38,242 --> 00:47:40,535
+从他父亲再次结婚开始
+from the time that her father married again.
+
+585
+00:47:40,953 --> 00:47:43,663
+她...她开始有点冷漠
+She - she was slighted like,
+
+586
+00:47:44,080 --> 00:47:45,747
+什么话也不说
+and had no say in anything.
+
+587
+00:47:47,313 --> 00:47:49,398
+可是... 事情开始好转
+But - but it didn't became bad for her
+
+588
+00:47:49,920 --> 00:47:52,109
+当她遇到了富勒先生
+until after she met Mr. Fowler.
+
+589
+00:47:52,944 --> 00:47:56,488
+请问 谁是富勒先生?
+And pray, who is Mr. Fowler?
+
+590
+00:47:57,114 --> 00:47:59,095
+他是爱丽丝小姐年轻的男朋友
+Well, he was Miss Alice's young man.
+
+591
+00:48:01,911 --> 00:48:05,455
+你... 你可能看到过他在附近
+You - you might have seen him hanging about,
+
+592
+00:48:06,186 --> 00:48:07,541
+场地边的路上转悠
+out in the road by the field.
+
+593
+00:48:07,578 --> 00:48:08,896
+是的
+Yes.
+
+594
+00:48:09,940 --> 00:48:11,711
+富勒先生的卷入
+And how did Mr. Fowler's involvement
+
+595
+00:48:11,749 --> 00:48:14,840
+又给绝望的爱丽丝带来了什么?
+bring Miss Alice to her distressing circumstances?
+
+596
+00:48:15,779 --> 00:48:18,802
+据我所知
+Well, as far as I could learn,
+
+597
+00:48:19,219 --> 00:48:20,983
+爱丽丝小姐有母亲遗嘱里
+Miss Alice had rights of her own 
+
+598
+00:48:21,173 --> 00:48:23,129
+赋予的权利
+under her late mother's will,
+
+599
+00:48:24,433 --> 00:48:26,622
+但她是如此安静和忍让
+but she was so quiet and patient, she was,
+
+600
+00:48:26,659 --> 00:48:28,290
+从来不提权利的事
+she never said a word about them
+
+601
+00:48:28,327 --> 00:48:31,730
+而是将一切都交给鲁卡斯尔先生处理
+but just left everything in Mr. Rucastle's hands.
+
+602
+00:48:32,253 --> 00:48:33,712
+他知道和她在一起可以很放心
+Well, he knew he was safe with her,
+
+603
+00:48:33,749 --> 00:48:37,465
+但一旦有丈夫掺和进来
+but when there was a chance of a husband coming forward,
+
+604
+00:48:37,988 --> 00:48:40,177
+他一定会要求在法律范围内应得的东西
+who would ask for all the law will give him,
+
+605
+00:48:40,213 --> 00:48:44,242
+于是她父亲认为是该制止这事的时候了
+well, then, her father thought it time to put a stop on it.
+
+606
+00:48:45,703 --> 00:48:47,996
+他要女儿签署一个字据
+He wanted her to sign a paper
+
+607
+00:48:48,727 --> 00:48:50,812
+声明不管她结婚与否
+so that whether she married or not,
+
+608
+00:48:50,849 --> 00:48:52,375
+他都可以用她的钱
+he could use her money.
+
+609
+00:48:53,211 --> 00:48:56,130
+由于她不愿意签
+Well, when she wouldn't do it,
+
+610
+00:48:56,167 --> 00:48:59,674
+他就一直闹
+he kept worrying her, worrying her,
+
+611
+00:49:00,718 --> 00:49:02,385
+直到女儿得了脑炎
+till she got brain-fever;
+
+612
+00:49:02,803 --> 00:49:04,678
+徘徊在死亡的边缘六个星期之久
+for six weeks she was at death's door.
+
+613
+00:49:06,557 --> 00:49:08,120
+最后她逐渐康复
+When she got better at last,
+
+614
+00:49:09,581 --> 00:49:11,456
+但已经骨瘦如柴
+all worn to a shadow,
+
+615
+00:49:11,494 --> 00:49:13,751
+美丽的头发也剪掉了
+and with her beautiful hair cut off,
+
+616
+00:49:15,107 --> 00:49:18,026
+他把她安排到塔楼去住
+he moved her to the turret room,
+
+617
+00:49:19,069 --> 00:49:22,196
+把她囚禁在那里
+where she was kept prisoner.
+
+618
+00:49:39,506 --> 00:49:41,903
+但这不能让她的男朋友变心
+But that didn't make no change in her young man,
+
+619
+00:49:42,426 --> 00:49:45,657
+他仍然对她十二分的忠诚
+and he stuck to her true as a man could be.
+
+620
+00:49:45,694 --> 00:49:49,515
+然后鲁卡斯尔先生把亨特小姐从伦敦带过来
+And then Mr. Rucastle brought Miss Hunter down from London
+
+621
+00:49:49,552 --> 00:49:51,809
+来假扮她的女儿
+in order to impersonate his daughter
+
+622
+00:49:52,122 --> 00:49:53,893
+这样来摆脱那个年轻人
+and get rid of the young man.
+
+623
+00:49:54,312 --> 00:49:55,562
+是这样的 先生
+Well, that was it, sir.
+
+624
+00:49:56,710 --> 00:50:00,462
+但是富勒先生是一位坚持不懈的人
+But Mr. Fowler being a - a persevering gentleman,
+
+625
+00:50:01,193 --> 00:50:06,301
+就好像一名好水兵一样 封锁了房子
+as a good sailor should be, blockaded the house.
+
+626
+00:50:06,824 --> 00:50:10,681
+后来遇见了你以后 通过各种手段
+And having met you succeeded by certain arguments,
+
+627
+00:50:10,718 --> 00:50:12,557
+金钱还有其他方法
+metallic and otherwise,
+
+628
+00:50:12,768 --> 00:50:15,895
+说服了你 使你相信你和他的利益是一致的
+in convincing you that your interests were the same as his?
+
+629
+00:50:16,626 --> 00:50:19,023
+富勒先生是一位和蔼
+Mr. Fowler was a very kind-spoken,
+
+630
+00:50:20,900 --> 00:50:22,359
+出手阔绰的先生
+free-handed, gentleman.
+
+631
+00:50:24,133 --> 00:50:26,947
+通过这种手段 他设法让你
+And in this way he managed that your husband
+
+632
+00:50:26,985 --> 00:50:30,180
+他设法让你的丈夫不缺酒喝 没锁好门
+should not want for drink, the gates unlocked,
+
+633
+00:50:30,217 --> 00:50:32,578
+确保猛犬被栓好
+thus insuring that the mastiff should remain chained,
+
+634
+00:50:32,614 --> 00:50:34,871
+把一把扶梯准备好
+and that a ladder should be ready to assist him
+
+635
+00:50:34,909 --> 00:50:36,540
+帮助他把爱丽丝小姐救出去
+in the rescue of Miss Alice?
+
+636
+00:50:37,479 --> 00:50:41,023
+如你所说 就是这么一回事
+You have it, sir, just as it happened.
+
+637
+00:50:48,844 --> 00:50:52,910
+于是铜山毛榉那所邪恶房子的
+And thus was solved the mystery of the sinister house
+
+638
+00:50:52,947 --> 00:50:55,099
+谜团解开了
+called The Copper Beeches.
+
+639
+00:50:55,517 --> 00:50:59,895
+鲁卡斯尔先生幸免于死 但已经精神颓废
+Mr. Rucastle survived, but was always a broken man,
+
+640
+00:51:00,313 --> 00:51:03,544
+全凭他忠心耿耿的妻子护理才苟延残喘
+kept solely alive through the care of his devoted wife.
+
+641
+00:51:04,067 --> 00:51:05,630
+还和他们的老佣人住在一起
+They still live with their servants,
+
+642
+00:51:05,668 --> 00:51:08,655
+大概他们知道鲁卡斯尔家过去的事太多
+who probably know so much of Rucastle's past
+
+643
+00:51:09,177 --> 00:51:13,868
+鲁卡斯尔先生很难辞退他们
+that he finds it difficult to part from them.
+
+644
+00:51:14,181 --> 00:51:19,915
+富勒先生和鲁卡斯尔小姐申请特许证书结了婚
+Mr. Fowler and Miss Rucastle were married by special license
+
+645
+00:51:20,229 --> 00:51:22,314
+他现在任职于
+and he now holds a government position
+
+646
+00:51:22,351 --> 00:51:23,982
+毛里求斯岛的政府中
+on the island of Mauritius.
+
+647
+00:51:25,338 --> 00:51:28,169
+亨特女士现在担任
+Miss Hunter is now head of 
+
+648
+00:51:28,677 --> 00:51:31,839
+沃尔索尔地区一家私立学校的校长
+a private school in Walsall,
+
+649
+00:51:32,049 --> 00:51:39,831
+我相信她在教育工作上颇有成绩
+where I gather she has met with considerable success.
+
+650
+00:51:43,167 --> 00:51:46,607
+那么 福尔摩斯 你的意见呢?
+There, Holmes, your verdict?
+
+651
+00:51:49,946 --> 00:51:51,821
+非常美好 华生
+An admirable account, Watson.
+
+652
+00:51:53,594 --> 00:51:57,451
+你不认为我加入了太多色彩和活力吗?
+Oh,you don't think I've put too much color and life into it?
+
+653
+00:51:59,538 --> 00:52:01,309
+我亲爱的朋友
+Oh, my dear friend
+
+654
+00:52:01,832 --> 00:52:04,437
+我卑谦的顺从
+I humbly defer such considerations
+
+655
+00:52:04,475 --> 00:52:07,462
+你漂亮的叙述
+to your excellent literature.
+
+656
+00:52:10,800 --> 00:52:11,946
+太好了
+Good.
+
+657
+00:52:16,916 --> 00:52:21,603
+<font color="#4096d1">破烂熊字幕组 
+-==http://www.ragbear.com==-</font>
